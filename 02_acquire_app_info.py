@@ -9,7 +9,6 @@ import shutil
 import time
 import sys
 import traceback
-import warnings
 import yaml
 
 
@@ -28,9 +27,9 @@ def retrieve_info(appid):
     return app_details, app_reviews
 
 
-def parse_responses(app_details, app_reviews):
+def parse_responses(appid, app_details, app_reviews):
     # turns raw server responses into parsed data structure. May raise errors if data is not parsable, such as an html error response instead of json response
-    app_details = json.loads(app_details)
+    app_details = json.loads(app_details)[str(appid)]  # only one entry in this dict
     app_reviews = json.loads(app_reviews)
 
     unified_structure = {
@@ -51,7 +50,7 @@ def validate_text_data(appid, app_details, app_reviews):
 
     # try to parse the data as json
     try:
-        data = parse_responses(app_details, app_reviews)
+        data = parse_responses(appid, app_details, app_reviews)
     except:
         return False, (', '.join([str(x) for x in sys.exc_info()[0:2]]), traceback.format_exc())
 
@@ -66,11 +65,14 @@ def validate_parsed_data(appid, data):
         # validate details
         assert data['details']['success'] == True, 'details success is false'
         assert data['details']['data'], 'data is empty'
+
         assert data['details']['data']['release_date'], 'release_date is empty'
-        assert data['details']['data']['release_date']['date'], 'release_date -> date is empty'
-        common.parse_date_string(data['details']['data']['release_date']['date'])  # try to parse date
+        if not data['details']['data']['release_date']['coming_soon']:  # field should always exist, and is boolean. Indicates game is not playable. Is False for early access games.
+            assert data['details']['data']['release_date']['date'], 'release_date -> date is empty'
+            common.parse_steam_date(data['details']['data']['release_date']['date'])  # try to parse date
+
         assert data['details']['data']['name'], 'name field is empty'
-        assert data['details']['data']['steam_appid'] == appid, 'appid does not match queried appid'
+        assert data['details']['data']['steam_appid'] == appid, 'appid does not match queried appid'  # some appids redirect to another appid. This removes the duplicates
 
         # validate reviews
         assert data['reviews']['success'] == True, 'reviews success is false'
@@ -94,17 +96,11 @@ def validate_parsed_data(appid, data):
         return True, data
 
 
-def warningless_yaml_load(string):
-    with warnings.catch_warnings():
-        warnings.simplefilter("ignore")
-        return yaml.load(string)
-
-
 if __name__ == '__main__':
     print('loading manifest')
 
     f = open('01_steam_manifest.yaml')
-    manifest = warningless_yaml_load(f.read())
+    manifest = common.warningless_yaml_load(f.read())
     f.close()
 
     # shuffle manifest order to minimize order based errors
@@ -113,15 +109,18 @@ if __name__ == '__main__':
     random.shuffle(manifest['applist']['apps'])
 
     # dev TODO remove
-    manifest['applist']['apps'] = [{'appid':427520, 'name': 'DEV FACTORIO'}]
+    # manifest['applist']['apps'] = [{'appid':427520, 'name': 'DEV FACTORIO'}]
 
     print('iterating manifest')
+
+    output_folder = '02_app_info'
+    if not os.path.exists(output_folder):
+        os.mkdir(output_folder)
 
     for app in manifest['applist']['apps']:
         appid = app['appid']
         name = app['name']
 
-        output_folder = '02_app_info'
         text_details_path = os.path.join(output_folder, f'{appid}_details.txt')  # stores raw server response
         text_reviews_path = os.path.join(output_folder, f'{appid}_reviews.txt')  # stores raw server response
         yaml_path = os.path.join(output_folder, f'{appid}.yaml')  # stores parsed server responses
@@ -129,12 +128,12 @@ if __name__ == '__main__':
         validation_failure_folder = os.path.join(output_folder, f'{appid}_validation_failure')  # stores server responses which failed validation
         text_details_validation_failure_path = lambda unique_num: os.path.join(validation_failure_folder, f'response{unique_num:02d}_details.txt')  # stores raw server response
         text_reviews_validation_failure_path = lambda unique_num: os.path.join(validation_failure_folder, f'response{unique_num:02d}_reviews.txt')  # stores raw server response
-        traceback_validation_failure_path = lambda unique_num: os.path.join(validation_failure_folder, f'response{unique_num:02d}_traceback.txt')  # stores raw server response
+        traceback_validation_failure_path = lambda unique_num: os.path.join(validation_failure_folder, f'response{unique_num:02d}_traceback.txt')  # stores traceback on validation failure
 
         # revalidate existing data as validation is expected to evolve between runtimes
         if os.path.exists(yaml_path): # previous validation succeeded
             f=open(yaml_path)
-            data = warningless_yaml_load(f.read())
+            data = common.warningless_yaml_load(f.read())
             f.close()
 
             valid, data = validate_parsed_data(appid, data)  # validation expected to evolve between runtimes
