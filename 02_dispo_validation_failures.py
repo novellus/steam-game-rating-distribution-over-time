@@ -21,6 +21,8 @@ if __name__ == '__main__':
     date_string_summary = []
 
     consolidate_error_codes = [
+        'AssertionError: details is html response instead of json',
+        'AssertionError: reviews is html response instead of json',
         'AssertionError: details success is false',
         'AssertionError: data is empty',
         'AssertionError: release_date is empty',
@@ -38,6 +40,7 @@ if __name__ == '__main__':
         'AssertionError: total reviews does not equal sum of positive and negative reviews',
         date_parse_error_code,
         'json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)',
+        "requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))",
     ]
 
     for app in manifest['applist']['apps']:
@@ -77,7 +80,8 @@ if __name__ == '__main__':
     f = open('02_validation_failures_summary.txt', 'w', encoding='utf-8')
     for error_code, appids in sorted(errors_by_code.items(), key=lambda x: -len(x[1])):  # largest number of offenders listed first
         f.write(f'{len(appids)} offending apps\n')
-        f.write(f'{appids}\n')
+        # f.write(f'{appids}\n')
+        f.write(f'{[(appid, len(errors_by_app[appid])) for appid in appids]}\n')
         f.write(error_code)
         if error_code == date_parse_error_code:
             f.write(f'{sorted(list(set(date_string_summary)))}')

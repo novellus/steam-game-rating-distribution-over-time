@@ -1,13 +1,14 @@
 import common  # local
 
+import dateparser
 import json
 import os
 import random
-import requests
 import re
+import requests
 import shutil
-import time
 import sys
+import time
 import traceback
 import yaml
 
@@ -45,11 +46,12 @@ def validate_text_data(appid, app_details, app_reviews):
     #   valid = true, data = resolved structure
     #   valid = false, data = (short error description, formatted traceback string)
 
-    # TODO check for common error responses (such as html access denied)
-    # and return custom description for the data field instead of an exception traceback
-
-    # try to parse the data as json
     try:
+        html_openeing_tag = '<!DOCTYPE html>'
+        assert not re.search(f'^.{{0,10}}{re.escape(html_openeing_tag)}\s*\n', app_details), 'details is html response instead of json'
+        assert not re.search(f'^.{{0,10}}{re.escape(html_openeing_tag)}\s*\n', app_reviews), 'reviews is html response instead of json'
+
+        # try to parse the data as json
         data = parse_responses(appid, app_details, app_reviews)
     except:
         return False, (', '.join([str(x) for x in sys.exc_info()[0:2]]), traceback.format_exc())
@@ -69,7 +71,7 @@ def validate_parsed_data(appid, data):
         assert data['details']['data']['release_date'], 'release_date is empty'
         if not data['details']['data']['release_date']['coming_soon']:  # field should always exist, and is boolean. Indicates game is not playable. Is False for early access games.
             assert data['details']['data']['release_date']['date'], 'release_date -> date is empty'
-            common.parse_steam_date(data['details']['data']['release_date']['date'])  # try to parse date
+            dateparser.parse(data['details']['data']['release_date']['date'])  # try to parse date
 
         assert data['details']['data']['name'], 'name field is empty'
         assert data['details']['data']['steam_appid'] == appid, 'appid does not match queried appid'  # some appids redirect to another appid. This removes the duplicates
@@ -94,6 +96,19 @@ def validate_parsed_data(appid, data):
 
     else:
         return True, data
+
+
+def next_unique_validation_failure_number(validation_failure_folder):
+    next_unique_number = 1
+    if not os.path.exists(validation_failure_folder):
+        os.mkdir(validation_failure_folder)
+    else:
+        for file_name in next(os.walk(validation_failure_folder))[2]:
+            regex_match = re.search('^response(\d+)_', file_name)
+            if regex_match:
+                existing_number = int(regex_match.group(1))
+                next_unique_number = max(next_unique_number, 1 + existing_number)
+    return next_unique_number
 
 
 if __name__ == '__main__':
@@ -146,14 +161,30 @@ if __name__ == '__main__':
                 shutil.move(text_details_path, text_details_validation_failure_path(1))
                 shutil.move(text_reviews_path, text_reviews_validation_failure_path(1))
 
-                f = open(traceback_validation_failure_path(next_unique_number), 'w')
+                f = open(traceback_validation_failure_path(next_unique_number), 'w', encoding='utf-8')
                 f.write(error_traceback)
                 f.close()
 
-                print(f'WARN: previously validated responses marked as invalid\n\t{appid}\n\t{name[:100]}\n\t{short_error_description}\n')
+                print(f'\nWARN: previously validated responses marked as invalid\n\t{appid}\n\t{name[:100]}\n\t{short_error_description}\n')
 
         # retrieve data from server
-        app_details, app_reviews = retrieve_info(appid)
+        # on request failure: log traceback, sleep for 10 minutes, and then resume
+        print('retrieving', appid)
+        try:
+            app_details, app_reviews = retrieve_info(appid)
+        except:
+            short_error_description, error_traceback = (', '.join([str(x) for x in sys.exc_info()[0:2]]), traceback.format_exc())
+
+            next_unique_number = next_unique_validation_failure_number(validation_failure_folder)
+            f = open(traceback_validation_failure_path(next_unique_number), 'w', encoding='utf-8')
+            f.write(error_traceback)
+            f.close()
+
+            print(f'\nWARN: retrieval exception, sleeping for 10 minutes\n\t{appid}\n\t{name[:100]}\n\t{short_error_description}\n')
+            
+            time.sleep(10*60)
+            continue
+
         valid, data = validate_text_data(appid, app_details, app_reviews)
 
         if valid:
@@ -176,15 +207,7 @@ if __name__ == '__main__':
             short_error_description, error_traceback = data
 
             # save server response under unique name
-            next_unique_number = 1
-            if not os.path.exists(validation_failure_folder):
-                os.mkdir(validation_failure_folder)
-            else:
-                for file_name in next(os.walk(validation_failure_folder))[2]:
-                    regex_match = re.search('^response(\d+)_', file_name)
-                    if regex_match:
-                        existing_number = int(regex_match.group(1))
-                        next_unique_number = max(next_unique_number, 1 + existing_number)
+            next_unique_number = next_unique_validation_failure_number(validation_failure_folder)
 
             f = open(text_details_validation_failure_path(next_unique_number), 'w', encoding='utf-8')
             f.write(app_details)
@@ -199,7 +222,7 @@ if __name__ == '__main__':
             f.close()
 
             # TODO run comparisons with previous failure texts if they exist
-            print(f'WARN: response marked as invalid\n\t{appid}\n\t{name[:100]}\n\t{short_error_description}\n')
+            print(f'\nWARN: response marked as invalid\n\t{appid}\n\t{name[:100]}\n\t{short_error_description}\n')
 
         # steam api is limited to 100000 calls per day
         # this is slightly over one call per second, but we make multiple calls per loop
