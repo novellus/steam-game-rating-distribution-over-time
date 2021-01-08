@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: "\u300EThe Surge of Undercurrent\u300F is coming !<br />\r\n This\
+      \ DLC includes 9 new heroes, 2 of them are legendary hero, and 3 of them are\
+      \ special hero.<br />\r\nBuy Now, and you'll get 10000 Magical Amethyst and\
+      \ 1 Equip Bag."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/675430/page_bg_generated_v6b.jpg?t=1511885775
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u300EThe Surge of Undercurrent\u300F is coming !<br />\r\
+      \n This DLC includes 9 new heroes, 2 of them are legendary hero, and 3 of them\
+      \ are special hero.<br />\r\nBuy Now, and you'll get 10000 Magical Amethyst\
+      \ and 1 Equip Bag."
+    developers:
+    - Dragon Wing Studio
+    fullgame:
+      appid: '613670'
+      name: The Chronicles of Dragon Wing - Reborn
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/675430/header.jpg?t=1511885775
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Chronicles of Dragon Wing - The Surge of Undercurrent
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Chronicles of Dragon Wing - The Surge of Undercurrent - $9.99
+        packageid: 192399
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy The Chronicles of Dragon Wing - The Surge of Undercurrent
+    packages:
+    - 192399
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7,10\uFF0832or64bit\uFF09<br></li><li><strong>Processor:</strong>\
+        \ Intel Core I3-7100<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA\xAE GeForce\xAE GTX 480, Intel\xAE HD Graphics 4400, ATI Radeon\u2122\
+        \ HD 5000<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB\
+        \ available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Dragon Wing Studio
+    release_date:
+      coming_soon: false
+      date: Nov 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/675430/ss_12f609c314d57cb61e9e7ea0f7d9ab9b33273461.1920x1080.jpg?t=1511885775
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/675430/ss_12f609c314d57cb61e9e7ea0f7d9ab9b33273461.600x338.jpg?t=1511885775
+    short_description: "\u300EThe Surge of Undercurrent\u300F is coming !"
+    steam_appid: 675430
+    support_info:
+      email: melody_hcy@163.com
+      url: ''
+    supported_languages: Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwlMzI4OACctL5lAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 8
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198140767425'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '39046434'
+    review: henbangde youxi jiushi meiren wan
+    steam_purchase: true
+    timestamp_created: 1515068744
+    timestamp_updated: 1515068744
+    voted_up: true
+    votes_funny: 2
+    votes_up: 5
+    weighted_vote_score: '0.60000002384185791'
+    written_during_early_access: false
+  success: 1

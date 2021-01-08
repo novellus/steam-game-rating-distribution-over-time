@@ -1,0 +1,80 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Sports Interactive
+    fullgame:
+      appid: '872790'
+      name: Football Manager 2019
+    genres:
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/872860/header.jpg?t=1576692468
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ 10.11.6, 10.12.5, 10.13.5, 10.14 \u2013 64-bit<br></li><li><strong>Processor:</strong>\
+        \ Intel Core 2 \u2013 1.8 GHz +<br></li><li><strong>Memory:</strong> 2 GB\
+        \ RAM<br></li><li><strong>Graphics:</strong> Intel GMA X4500, NVIDIA GeForce\
+        \ 9600M GT or AMD/ATI Mobility Radeon HD 3650 \u2013 256MB VRAM<br></li><li><strong>Storage:</strong>\
+        \ 7 GB available space</li></ul>"
+    metacritic:
+      score: 86
+    name: Football Manager 2019 Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 (SP1), 8/8.1, 10 (1803/April 2018 Update) \u2013 64-bit or 32-bit<br></li><li><strong>Processor:</strong>\
+        \ Intel Pentium 4, Intel Core or AMD Athlon \u2013 2.2 GHz +<br></li><li><strong>Memory:</strong>\
+        \ 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel GMA X4500, NVIDIA\
+        \ GeForce 9600M GT or AMD/ATI Mobility Radeon HD 3650 \u2013 256MB VRAM<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - SEGA
+    release_date:
+      coming_soon: false
+      date: Nov 2, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 872860
+    support_info:
+      email: ''
+      url: https://support.sega.co.uk
+    supported_languages: English, French, Italian, German, Spanish - Spain, Czech,
+      Danish, Dutch, Greek, Korean, Norwegian, Polish, Portuguese, Russian, Simplified
+      Chinese, Swedish, Traditional Chinese, Turkish
+    type: demo
+    website: http://www.footballmanager.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

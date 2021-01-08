@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>We Broke It</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        html {
+            height: 100%;
+        }
+
+        body {
+            text-align: center;
+            color: #f5f5f5;
+            font-family: "Motiva Sans", sans-serif;
+            background: radial-gradient(50% 50% at 50% 50%, #264154 0%, #1B2838 100%) no-repeat;
+        }
+
+        p {
+            margin-bottom: 0;
+        }
+
+        .header {
+            background: #171a21 center top;
+            min-width: 940px;
+            font-family: "Motiva Sans", sans-serif;
+            font-weight: normal;
+            font-size: 14px;
+            padding-left: 16px;
+            padding-right: 16px;
+        }
+
+        .nav {
+            position: relative;
+            right: 0;
+            width: 940px;
+            height: 104px;
+            margin: 0 auto;
+            z-index: 402;
+        }
+
+        .logo {
+            float: left;
+            padding-top: 30px;
+            margin-right: 40px;
+            width: 176px;
+            height: 44px;
+        }
+
+        .menu {
+            position: absolute;
+            left: 200px;
+        }
+
+        .menuitem {
+            display: block;
+            position: relative;
+            padding: 45px 7px 7px;
+            line-height: 16px;
+            float: left;
+            font-size: 14px;
+            color: #b8b6b4;
+            text-transform: uppercase;
+            text-decoration: none;
+        }
+
+        .content {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .title {
+            font-size: 60px;
+            font-weight: bold;
+            margin: 10px;
+        }
+
+        #error img {
+            height: 250px;
+        }
+
+        .headline {
+            font-size: 22px;
+            font-weight: normal;
+            margin-bottom: .5em;
+        }
+
+        .text {
+            font-size: 16px;
+            font-weight: normal;
+            margin-bottom: .5em;
+        }
+
+        .status {
+            font-size: 16px;
+            font-weight: normal;
+            color: #b8b6b4;
+        }
+
+    </style>
+</head>
+<body>
+<div class="header">
+    <div class="nav">
+        <div class="logo">
+            <span>
+                <a href="https://store.steampowered.com/">
+                    <img src="https://cdn.cloudflare.steamstatic.com/error/logo_steam.svg" width="176" height="44">
+                </a>
+            </span>
+        </div>
+        <div class="menu">
+            <a class="menuitem" href="https://store.steampowered.com/">STORE</a>
+            <a class="menuitem" href="https://steamcommunity.com/">COMMUNITY</a>
+            <a class="menuitem" href="https://steamcommunity.com/chat/">CHAT</a>
+            <a class="menuitem" href="https://help.steampowered.com/">SUPPORT</a>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div id="error" class="title"><p>&nbsp;</p><img></div>
+    <script>
+        (function () {
+            let errors = [{
+                    text: "Oops",
+                    img: "https://cdn.cloudflare.steamstatic.com/error/oops.png",
+                }, {
+                    text: "Bummer",
+                    img: "https://cdn.cloudflare.steamstatic.com/error/bummer.png",
+                }, {
+                    text: "Huh",
+                    img: "https://cdn.cloudflare.steamstatic.com/error/huh.png",
+                }],
+                error = errors[Math.floor(Math.random() * errors.length)];
+            document.getElementById("error").innerHTML =
+                '<p>' + error.text + '</p>' +
+                '<img src="' + error.img + '" alt="' + error.text + '">';
+        })();
+    </script>
+    <div class="headline">Something Went Wrong</div>
+    <div class="text">
+        We were unable to service your request. Please try again later.
+    </div>
+    <div class="status">E502 L3</div>
+</div>
+</body>
+</html>

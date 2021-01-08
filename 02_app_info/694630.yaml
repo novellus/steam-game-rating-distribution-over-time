@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '694620'
+      name: Toradora!
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/694630/header.jpg?t=1505520643
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Toradora!: Tiger and Dragon'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Toradora!: Tiger and Dragon - $0.99'
+        packageid: 199334
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Toradora!: Tiger and Dragon'
+    packages:
+    - 199334
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 15, 2017
+    required_age: 0
+    short_description: "Ry\u016Bji Takasu, discontent about how his eyes make him\
+      \ look like an intimidating delinquent, prepares for the first day of his second\
+      \ year of high school. On the way to class, he bumps into Taiga Aisaka, a diminutive\
+      \ girl known for her fierce temper, who is in the same class as him by coincidence."
+    steam_appid: 694630
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwrsqTxN4Cf8i6hQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1505531798
+      num_games_owned: 272
+      num_reviews: 6
+      playtime_at_review: 103
+      playtime_forever: 103
+      playtime_last_two_weeks: 0
+      steamid: '76561198069909411'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '34985103'
+    review: The anime is my life source.
+    steam_purchase: true
+    timestamp_created: 1505525388
+    timestamp_updated: 1505525388
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

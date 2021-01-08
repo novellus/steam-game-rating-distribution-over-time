@@ -1,0 +1,215 @@
+details:
+  data:
+    about_the_game: "A game about permanent growth. Once you grow, you cannot shrink.<br\
+      \ />\r\n<br />\r\nHitting something means death.<br />\r\n<br />\r\nThere are\
+      \ blue colored zones, (grow zones) each letting you grow a fixed number of times\
+      \ (displayed inside the zone) by a certain percentage.<br />\r\n<br />\r\nAnd\
+      \ then there are green colored zones, (gates) which will only let you through\
+      \ if you are of a certain size. (displayed inside the gate)<br />\r\n<br />\r\
+      \nSo growing up has its advantages and disadvantages."
+    achievements:
+      highlighted:
+      - name: Unlock Pack 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416610/a8588a01536d014db8870081e51d1caec803e999.jpg
+      - name: Unlock Pack 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416610/7a820a82d7d6576dc707cea20b43403459f6ccb6.jpg
+      - name: Unlock Pack 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416610/e1729284b2de674adea263bb606f7c17442da24f.jpg
+      - name: Unlock Pack 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416610/13c74f3bdc73886d56f12a3da9f901d448abbe3a.jpg
+      - name: Perfectionist
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416610/4c665e18c22f5cd0fc01cd01b3ff143e26aed994.jpg
+      - name: Lucky Seven
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416610/e8c70a78cf067299dc0357cf7f07c9822a84cb42.jpg
+      - name: Thanks!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/416610/6765c4f29fa78eb53dd31aebed0e7adfcaf8ddfa.jpg
+      total: 7
+    background: https://steamcdn-a.akamaihd.net/steam/apps/416610/page_bg_generated_v6b.jpg?t=1478260547
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A game about permanent growth. Once you grow, you cannot\
+      \ shrink.<br />\r\n<br />\r\nHitting something means death.<br />\r\n<br />\r\
+      \nThere are blue colored zones, (grow zones) each letting you grow a fixed number\
+      \ of times (displayed inside the zone) by a certain percentage.<br />\r\n<br\
+      \ />\r\nAnd then there are green colored zones, (gates) which will only let\
+      \ you through if you are of a certain size. (displayed inside the gate)<br />\r\
+      \n<br />\r\nSo growing up has its advantages and disadvantages."
+    developers:
+    - Cleverweek
+    dlc:
+    - 431820
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/416610/header.jpg?t=1478260547
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04, Any SteamOS<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or later, Any SteamOS<br></li><li><strong>Memory:</strong> 256
+        MB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.7 Lion<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8 Mountain Lion or later<br></li><li><strong>Memory:</strong> 256 MB
+        RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256659383
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659383/movie480.mp4?t=1450923897
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659383/movie_max.mp4?t=1450923897
+      name: TGJ Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256659383/movie.293x165.jpg?t=1450923897
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659383/movie480.webm?t=1450923897
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659383/movie_max.webm?t=1450923897
+    name: The Growth Journey
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Growth Journey - $3.99
+        packageid: 84005
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy The Growth Journey
+    packages:
+    - 84005
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        128 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later<br></li><li><strong>Processor:</strong> Intel Pentium 4
+        (Prescott) or later<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Cleverweek
+    release_date:
+      coming_soon: false
+      date: Jan 7, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_155059280d3bc2f65161ece00936771fb0b12908.1920x1080.jpg?t=1478260547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_155059280d3bc2f65161ece00936771fb0b12908.600x338.jpg?t=1478260547
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_7be1ec4cc773013e6b25a7245741fe1f4cfd5aed.1920x1080.jpg?t=1478260547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_7be1ec4cc773013e6b25a7245741fe1f4cfd5aed.600x338.jpg?t=1478260547
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_320f0fc3ab9d82b8a0edbc517198771d7f66c701.1920x1080.jpg?t=1478260547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_320f0fc3ab9d82b8a0edbc517198771d7f66c701.600x338.jpg?t=1478260547
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_883d23f2f8cd1c7ef326408b37d8651cc79bb77c.1920x1080.jpg?t=1478260547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_883d23f2f8cd1c7ef326408b37d8651cc79bb77c.600x338.jpg?t=1478260547
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_acee4ab4b73b77bbd23c69ea2b6d4d14bb9c34fd.1920x1080.jpg?t=1478260547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_acee4ab4b73b77bbd23c69ea2b6d4d14bb9c34fd.600x338.jpg?t=1478260547
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_c812b8b8e8f9f4951728270de25339363ca73025.1920x1080.jpg?t=1478260547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/416610/ss_c812b8b8e8f9f4951728270de25339363ca73025.600x338.jpg?t=1478260547
+    short_description: A game about tactical growth, where growth is irreversible.
+    steam_appid: 416610
+    support_info:
+      email: support@cleverweek.com
+      url: http://www.cleverweek.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://thegrowthjourney.com
+  success: true
+reviews:
+  cursor: AoJ4kJKkq/QCdbHQnwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 4
+    review_score_desc: Mostly Negative
+    total_negative: 9
+    total_positive: 5
+    total_reviews: 14
+  reviews:
+  - author:
+      last_played: 1599179057
+      num_games_owned: 989
+      num_reviews: 10
+      playtime_at_review: 74
+      playtime_forever: 74
+      playtime_last_two_weeks: 0
+      steamid: '76561198037492679'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75399957'
+    review: 'This is a collection of interesting ideas that ultimately add up to a
+      disappointing experience due to uneven level design and an obscure scoring system.
+      The basic don''t-touch-the-walls gameplay works well, although with a very sharp
+      difficulty curve on the first two levels. The game says it supports lower resolution
+      monitors, but the level designs basically unplayable at those smaller sizes
+      due to the need to navigate gaps that are a tiny fraction of the screen size.
+
+
+      Each pack of 10 levels gives you a score (generally ~4-7 points) per level upon
+      completion, where it seems 4=ok, 5=good, 6=great and 7=flawless. However, you
+      need 60 points to unlock the next level pack -- that is, you need 10x6 (great)
+      to average A/- proficiency on every level. Getting stuck on mastering even one
+      level (4) can entirely lock you out of the next pack unless you collect a batch
+      of 7s to overcome it. I notice that at present only 3% of players actually made
+      it to the next level pack.
+
+
+      Another problem is that the level designs often require a balance of speed and
+      growth -- most, but not all available grown combined with as much speed is possible.
+      However, the algorithm for the optimal combination is not evident. If you get
+      a "5" on a level, should you get bigger and go a little slower, or should you
+      try for a bit smaller and faster? It isn''t clear, so the player must repeat
+      a level many times with slight variations on strategy, hoping that the final
+      score will increase on one of the completions. Failing to achieve a goal is
+      frustrating enough -- not knowing the goal at all is maddening.'
+    steam_purchase: true
+    timestamp_created: 1599180149
+    timestamp_updated: 1599180149
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,60 @@
+details:
+  data:
+    about_the_game: Zomcade Demo
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1493180/page_bg_generated_v6b.jpg?t=1607501081
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Guns and violence
+    detailed_description: Zomcade Demo
+    developers:
+    - R3Games
+    fullgame:
+      appid: '1305220'
+      name: Zomcade
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1493180/header.jpg?t=1607501081
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Zomcade Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - R3Game
+    release_date:
+      coming_soon: false
+      date: Dec 9, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493180/ss_501da367929b18f07101d682e6e8cb7b98606b2a.1920x1080.jpg?t=1607501081
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493180/ss_501da367929b18f07101d682e6e8cb7b98606b2a.600x338.jpg?t=1607501081
+    short_description: Demo
+    steam_appid: 1493180
+    support_info:
+      email: delongpoopless@yahoo.com
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

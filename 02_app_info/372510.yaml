@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: "\u203B This content can be listened to on your PC.<br />\r\n\u203B\
+      \ This content is included in the Deluxe Edition."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/372510/page_bg_generated_v6b.jpg?t=1581550419
+    content_descriptors:
+      ids:
+      - 5
+      notes: null
+    detailed_description: "\u203B This content can be listened to on your PC.<br />\r\
+      \n\u203B This content is included in the Deluxe Edition."
+    developers:
+    - Access Games
+    fullgame:
+      appid: '358090'
+      name: "D4: Dark Dreams Don\u2019t Die -Season One-"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/372510/header.jpg?t=1581550419
+    is_free: false
+    legal_notice: (C)2014 ACCESS GAMES INC.
+    linux_requirements: []
+    mac_requirements: []
+    name: 'D4: Mini Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'D4: Mini Soundtrack - $3.99'
+        packageid: 68439
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'D4: Deluxe DLC Pack - $15.99'
+        packageid: 70227
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1599
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'D4: Dark Dreams Don''t Die -Season One- Deluxe Edition - $29.99'
+        packageid: 70129
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: 'Buy D4: Mini Soundtrack'
+    packages:
+    - 68439
+    - 70227
+    - 70129
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - PLAYISM
+    release_date:
+      coming_soon: false
+      date: Jun 5, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/372510/ss_e460d32533cc2a9ba3e4a13f10053e57fe169b25.1920x1080.jpg?t=1581550419
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/372510/ss_e460d32533cc2a9ba3e4a13f10053e57fe169b25.600x338.jpg?t=1581550419
+    short_description: "\u203B This content can be listened to on your PC. \u203B\
+      \ This content is included in the Deluxe Edition."
+    steam_appid: 372510
+    support_info:
+      email: support@playism.jp
+      url: ''
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Japanese, Portuguese<br><strong>*</strong>languages with full audio
+      support
+    type: music
+    website: http://d4-game.com/pc/index.html
+  success: true
+reviews:
+  cursor: AoJ46rS0vtcCfPCvYg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2297
+      num_reviews: 263
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198124135678'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '25788172'
+    review: "\u041A\u0440\u0443\u0442\u043D\u044F\u043A!"
+    steam_purchase: true
+    timestamp_created: 1475267897
+    timestamp_updated: 1475267897
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.432525932788848877'
+    written_during_early_access: false
+  success: 1

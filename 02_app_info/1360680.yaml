@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: This DLC unlocks adult content on the gallery. Inside the gallery
+      you can toggle nudity via a button in the right border.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1360680/page_bg_generated_v6b.jpg?t=1593812341
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 1
+      - 3
+      - 5
+      notes: "-Includes Nudity and Sexual content.\r\n-Not suitable for watching at\
+        \ work\r\n-Not suitable for all ages\r\n-All characters in the game are over\
+        \ 18 years old."
+    detailed_description: This DLC unlocks adult content on the gallery. Inside the
+      gallery you can toggle nudity via a button in the right border.
+    developers:
+    - bhungry
+    fullgame:
+      appid: '1303820'
+      name: Aim Master H
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1360680/header.jpg?t=1593812341
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Aim Master H - +18 Content
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: +18 Content - $0.99
+        packageid: 477060
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Aim Master H - +18 Content
+    packages:
+    - 477060
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> 2 Ghz Dual
+        Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card supporting DirectX 9.0c<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_26acfbb553d9209989374e8c6928746266672686.1920x1080.jpg?t=1593812341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_26acfbb553d9209989374e8c6928746266672686.600x338.jpg?t=1593812341
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_c2204edb46eda88a9c1b73906a59117e2bfc9f84.1920x1080.jpg?t=1593812341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_c2204edb46eda88a9c1b73906a59117e2bfc9f84.600x338.jpg?t=1593812341
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_e7a95bd45ee64be65f3352eeb5b6e805aa1ebf2b.1920x1080.jpg?t=1593812341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_e7a95bd45ee64be65f3352eeb5b6e805aa1ebf2b.600x338.jpg?t=1593812341
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_07e7a2cca0d9c6d4b57d5e640c8feabbce15c4f1.1920x1080.jpg?t=1593812341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360680/ss_07e7a2cca0d9c6d4b57d5e640c8feabbce15c4f1.600x338.jpg?t=1593812341
+    short_description: DLC unlocks adult content on the gallery.
+    steam_appid: 1360680
+    support_info:
+      email: bhungrydev@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

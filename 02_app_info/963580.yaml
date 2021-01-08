@@ -1,0 +1,123 @@
+details:
+  data:
+    about_the_game: "In this Demo, you can meet Nanai-chan in VR environment.<br>This\
+      \ demo is created for the purpose to check if your VR HMD and PC are compatible.\
+      \ <br>There is no action in the demo - but you are able to change Nanai's skin\
+      \ color, costume (and strip her naked) and watch her from 360 angles.<br><br><strong>Oculus\
+      \ Quest users can play too! </strong><br><br>Using ALVR (free) installed on\
+      \ your PC, you can play completely wireless in the comfort of your own bed or\
+      \ couch! What it does is let you play PC-based VR games on your Oculus Quest\
+      \ headset! It basically streams the video and other data in real time! It takes\
+      \ about 5 minutes to set up and has practically zero lag on a 5 GHz network!<br><br>For\
+      \ installation, you will need to follow the instructions on the ALVR github\
+      \ page. If you do not have SteamVR, you can install it by opening Steam, Clicking\
+      \ \u201CLIBRARY\u201D and then clicking \u201CTools\u201D (second from the bottom\
+      \ of the drop-down list). From there, find \u201CSteamVR\u201D and install it.<br><br>For\
+      \ best results, we recommend using a 5 GHz WiFi signal. This usually has the\
+      \ same name as your normal WiFi but with \u201C-5G\u201D at the end. Be sure\
+      \ to connect your Oculus Quest to this! From there, you can use the default\
+      \ settings for Video in ALVR: Codec=H.265 HEVC; Bitrate=30Mbps; Resolution=100%;\
+      \ Buffer size=200kB. You may need to uncheck \u201CSteam Sound\u201D on the\
+      \ Sound tab if you have error messages related to audio. If you use 2G/2.4 GHz,\
+      \ you may find the video quality to be unbearably poor, so we highly recommend\
+      \ you have 5G."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/963580/page_bg_generated_v6b.jpg?t=1562071431
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 1
+      - 3
+      - 5
+      notes: You can see Nanai-chan in VR environment. You can change her costume,
+        skin color, or strip her cloth.
+    detailed_description: "In this Demo, you can meet Nanai-chan in VR environment.<br>This\
+      \ demo is created for the purpose to check if your VR HMD and PC are compatible.\
+      \ <br>There is no action in the demo - but you are able to change Nanai's skin\
+      \ color, costume (and strip her naked) and watch her from 360 angles.<br><br><strong>Oculus\
+      \ Quest users can play too! </strong><br><br>Using ALVR (free) installed on\
+      \ your PC, you can play completely wireless in the comfort of your own bed or\
+      \ couch! What it does is let you play PC-based VR games on your Oculus Quest\
+      \ headset! It basically streams the video and other data in real time! It takes\
+      \ about 5 minutes to set up and has practically zero lag on a 5 GHz network!<br><br>For\
+      \ installation, you will need to follow the instructions on the ALVR github\
+      \ page. If you do not have SteamVR, you can install it by opening Steam, Clicking\
+      \ \u201CLIBRARY\u201D and then clicking \u201CTools\u201D (second from the bottom\
+      \ of the drop-down list). From there, find \u201CSteamVR\u201D and install it.<br><br>For\
+      \ best results, we recommend using a 5 GHz WiFi signal. This usually has the\
+      \ same name as your normal WiFi but with \u201C-5G\u201D at the end. Be sure\
+      \ to connect your Oculus Quest to this! From there, you can use the default\
+      \ settings for Video in ALVR: Codec=H.265 HEVC; Bitrate=30Mbps; Resolution=100%;\
+      \ Buffer size=200kB. You may need to uncheck \u201CSteam Sound\u201D on the\
+      \ Sound tab if you have error messages related to audio. If you use 2G/2.4 GHz,\
+      \ you may find the video quality to be unbearably poor, so we highly recommend\
+      \ you have 5G."
+    developers:
+    - VRJCC
+    fullgame:
+      appid: '851350'
+      name: Let's Play with Nanai!
+    genres:
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/963580/header.jpg?t=1562071431
+    is_free: true
+    legal_notice: "All characters appearing in this game are intended to be over 18.\
+      \  \xA9\uFE0E VRJCC"
+    linux_requirements: []
+    mac_requirements: []
+    name: Let's Play with Nanai! Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7,8,10<br></li><li><strong>Processor:</strong> Corei5-4590 and above<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX970 or AMD R9 290<br></li><li><strong>Storage:</strong>
+        560 MB available space<br></li><li><strong>Additional Notes:</strong> Oculus
+        Rift or HTC Vive.  If using real-time object synching mode, needs Oculus or
+        Vive controller, or phone that supports gyro censor.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7,8,10<br></li><li><strong>Processor:</strong> Corei5-4590 and above<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX970 or AMD R9 290<br></li><li><strong>Storage:</strong>
+        560 MB available space<br></li><li><strong>Additional Notes:</strong> Oculus
+        Rift or HTC Vive.  If using real-time object synching mode, needs Oculus or
+        Vive controller, or phone that supports gyro censor.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ImagineVR
+    release_date:
+      coming_soon: false
+      date: Oct 17, 2018
+    required_age: '18'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/963580/ss_3a98019e59920bfa464bf359641fb7c7bf890dad.1920x1080.jpg?t=1562071431
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/963580/ss_3a98019e59920bfa464bf359641fb7c7bf890dad.600x338.jpg?t=1562071431
+    short_description: In this Demo, you can meet Nanai-chan in VR environment. This
+      demo is created for the purpose to check if your VR HMD and PC are compatible.
+      There is no action in the demo - but you are able to change Nanai's skin color,
+      costume (and strip her naked) and watch her from 360 angles.
+    steam_appid: 963580
+    support_info:
+      email: support@imaginevr.io
+      url: http://www.imaginevr.io
+    supported_languages: English
+    type: demo
+    website: http://www.imaginevr.io
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

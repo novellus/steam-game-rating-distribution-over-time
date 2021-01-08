@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: 'This Moon HD DLC (addon) contains high-resolution textures for
+      the Moon. It improves the level of detail of the lunar surface compared to the
+      default SpaceEngine installation.<br><br><strong>Credits:</strong><br>Made by
+      <strong>Klud''s</strong>.<br>LOLA Science Team at NASA Goddard Space Flight
+      Center, Greenbelt, MD. <br>NASA/GSFC/Arizona State University provided data
+      accessed via Lunaserv WMS<br><br><strong>Source data:</strong><br>Elevation
+      map: LRO DEM 2015 release (sldem2015_128 and ldem_128).<br>Image resolution:
+      92160x46080.<br>Effective resolution: 0.118 km/pix.<br><br>Surface albedo map:
+      Boyd/Robinson WAC Normalized Reflectance (643nm), colorized by maps in 643nm,
+      566nm, 415nm.<br>Image resolution: 109164x54582.<br>Effective resolution: 0.1
+      km/pix.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1083090/page_bg_generated_v6b.jpg?t=1564766319
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: VR Support
+      id: 31
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'This Moon HD DLC (addon) contains high-resolution textures
+      for the Moon. It improves the level of detail of the lunar surface compared
+      to the default SpaceEngine installation.<br><br><strong>Credits:</strong><br>Made
+      by <strong>Klud''s</strong>.<br>LOLA Science Team at NASA Goddard Space Flight
+      Center, Greenbelt, MD. <br>NASA/GSFC/Arizona State University provided data
+      accessed via Lunaserv WMS<br><br><strong>Source data:</strong><br>Elevation
+      map: LRO DEM 2015 release (sldem2015_128 and ldem_128).<br>Image resolution:
+      92160x46080.<br>Effective resolution: 0.118 km/pix.<br><br>Surface albedo map:
+      Boyd/Robinson WAC Normalized Reflectance (643nm), colorized by maps in 643nm,
+      566nm, 415nm.<br>Image resolution: 109164x54582.<br>Effective resolution: 0.1
+      km/pix.'
+    developers:
+    - Vladimir Romanyuk
+    fullgame:
+      appid: '314650'
+      name: SpaceEngine
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1083090/header.jpg?t=1564766319
+    is_free: true
+    legal_notice: "\xA92010-2019 Vladimir Romanyuk"
+    linux_requirements: []
+    mac_requirements: []
+    name: SpaceEngine - Moon HD
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        10930 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        10930 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 11, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_ffe34acd2b3359bea52e6049d57e700d1eb2b014.1920x1080.jpg?t=1564766319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_ffe34acd2b3359bea52e6049d57e700d1eb2b014.600x338.jpg?t=1564766319
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_3c69d1be9a4267a967053092a9c0738ed11a74d0.1920x1080.jpg?t=1564766319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_3c69d1be9a4267a967053092a9c0738ed11a74d0.600x338.jpg?t=1564766319
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_a3b55897c8e90909cb93f11847a38a34631be843.1920x1080.jpg?t=1564766319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_a3b55897c8e90909cb93f11847a38a34631be843.600x338.jpg?t=1564766319
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_90a62eee6a295c8de401bc3fe83f27716ce21b74.1920x1080.jpg?t=1564766319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_90a62eee6a295c8de401bc3fe83f27716ce21b74.600x338.jpg?t=1564766319
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_2fa91d8a3d0253ead97e0a365f49470bab684d0c.1920x1080.jpg?t=1564766319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_2fa91d8a3d0253ead97e0a365f49470bab684d0c.600x338.jpg?t=1564766319
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_bf8d419963e29aa2a832f5730ff347944a01430d.1920x1080.jpg?t=1564766319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1083090/ss_bf8d419963e29aa2a832f5730ff347944a01430d.600x338.jpg?t=1564766319
+    short_description: This DLC for SpaceEngine improves the texture resolution of
+      the Moon.
+    steam_appid: 1083090
+    support_info:
+      email: support@spaceengine.org
+      url: http://forum.spaceengine.org/
+    supported_languages: English
+    type: dlc
+    website: http://spaceengine.org/
+  success: true
+reviews:
+  cursor: AoJ4hPTqpfQCcJednwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 1
+    total_positive: 5
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199085866991'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '75295088'
+    review: nao funciona
+    steam_purchase: true
+    timestamp_created: 1598997373
+    timestamp_updated: 1598997373
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

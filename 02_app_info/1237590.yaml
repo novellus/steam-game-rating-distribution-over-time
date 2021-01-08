@@ -1,0 +1,144 @@
+details:
+  data:
+    about_the_game: "Try to survive the increasing waves of alien thingies! Unlock\
+      \ and upgrade guns, pickup power-ups, get Steam achievements. Have fun with\
+      \ this brainless shooter game!<br />\r\n<br />\r\nControl: Keyboard and mouse.<br\
+      \ />\r\n<br />\r\nTips: <br />\r\n- you should visit often the circle at the\
+      \ center for useful gifts. <br />\r\n- first buy the revolver,  it's unlocked\
+      \ from the first moment. <br />\r\n- weapon upgrades and ammos get more expensive\
+      \ from wave to wave so don't save golds.<br />\r\n- hedshot causes double damage<br\
+      \ />\r\n- their energy and power increasing from wave te wave, don't let them\
+      \ touch you at all!"
+    achievements:
+      highlighted:
+      - name: There are many like it, but this one is mine.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/cbfeb271e5f11d61b779280488cf006226eaee5f.jpg
+      - name: Thank you Mihail!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/f5fff1e7669b998849a585a22632f325663207dd.jpg
+      - name: Let's fun!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/25d32a1f376ca71c724f7514e10adcdde1885983.jpg
+      - name: One star is enough to make a cosmos.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/eabfcabf0403b03383592aafa26145ad64ea9747.jpg
+      - name: Two down, one to go
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/b125ff8e219a76ac92097349e667fad1bbcae9d9.jpg
+      - name: Look at the stars!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/bc0d960b2bdcf0b6da8a701b7dda12f2a67914e2.jpg
+      - name: At least not from start.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/fffe8c734dfaa0cae4742a307d25f55186e973fc.jpg
+      - name: Getting real.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/6d5727abdbed11b4b616441b55e5d03164dda166.jpg
+      - name: Killed in action.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/771017cec793b9bb91b58723fd3a8780e892d25e.jpg
+      - name: Hero of the day.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237590/e51107fa6cc39622aa5583f5c32d95e8bef40413.jpg
+      total: 13
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1237590/page_bg_generated_v6b.jpg?t=1585515330
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Players must kill alien creatures with weapons.
+    detailed_description: "Try to survive the increasing waves of alien thingies!\
+      \ Unlock and upgrade guns, pickup power-ups, get Steam achievements. Have fun\
+      \ with this brainless shooter game!<br />\r\n<br />\r\nControl: Keyboard and\
+      \ mouse.<br />\r\n<br />\r\nTips: <br />\r\n- you should visit often the circle\
+      \ at the center for useful gifts. <br />\r\n- first buy the revolver,  it's\
+      \ unlocked from the first moment. <br />\r\n- weapon upgrades and ammos get\
+      \ more expensive from wave to wave so don't save golds.<br />\r\n- hedshot causes\
+      \ double damage<br />\r\n- their energy and power increasing from wave te wave,\
+      \ don't let them touch you at all!"
+    developers:
+    - "Tam\xE1s \xC1rva"
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1237590/header.jpg?t=1585515330
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or newer<br></li><li><strong>Processor:</strong> 2.4 GHz dual
+        core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia Geforce GT 710 1GB<br></li><li><strong>Storage:</strong> 200 MB available
+        space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256776987
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776987/movie480.mp4?t=1583347741
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776987/movie_max.mp4?t=1583347741
+      name: gameplay0
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256776987/movie.293x165.jpg?t=1583347741
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776987/movie480.webm?t=1583347741
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776987/movie_max.webm?t=1583347741
+    name: Attack of the alien thingies from lava!
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or newer<br></li><li><strong>Processor:</strong> 2.4 GHz dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GT 710 1GB<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - "Tam\xE1s \xC1rva"
+    release_date:
+      coming_soon: false
+      date: Feb 18, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_0121574b998bf9bc84a0911898369fa3002a317a.1920x1080.jpg?t=1585515330
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_0121574b998bf9bc84a0911898369fa3002a317a.600x338.jpg?t=1585515330
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_3ca807529f82a4d98745aad71b4f7a1c7bdc5dfc.1920x1080.jpg?t=1585515330
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_3ca807529f82a4d98745aad71b4f7a1c7bdc5dfc.600x338.jpg?t=1585515330
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_6dbd7fbb7176e2ceba0209e0312a63f699682b19.1920x1080.jpg?t=1585515330
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_6dbd7fbb7176e2ceba0209e0312a63f699682b19.600x338.jpg?t=1585515330
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_2b79fedc6aa637f48233ebc9166120a454b9725c.1920x1080.jpg?t=1585515330
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_2b79fedc6aa637f48233ebc9166120a454b9725c.600x338.jpg?t=1585515330
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_847cd8aa8b8b68acf9f0b4346dca672cb5061dd6.1920x1080.jpg?t=1585515330
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_847cd8aa8b8b68acf9f0b4346dca672cb5061dd6.600x338.jpg?t=1585515330
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_507f2e6833e29365a09724ec6c7841a973b13b71.1920x1080.jpg?t=1585515330
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237590/ss_507f2e6833e29365a09724ec6c7841a973b13b71.600x338.jpg?t=1585515330
+    short_description: Try to survive the increasing waves of alien thingies! Unlock
+      and upgrade guns, pickup power-ups, get Steam achievements. Have fun with this
+      brainless shooter game!
+    steam_appid: 1237590
+    support_info:
+      email: atamas@upcmail.hu
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

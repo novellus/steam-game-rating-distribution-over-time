@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '631780'
+      name: Amnesia Fortnight
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/631791/header.jpg?t=1501311420
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Amnesia Fortnight: AF 2017 - Day 1'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Amnesia Fortnight 2017 - $9.99
+        packageid: 181270
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: 'Buy Amnesia Fortnight: AF 2017 - Day 1'
+    packages:
+    - 181270
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 26, 2017
+    required_age: 0
+    short_description: '&quot;I''m not confident the game is going to work. I hope
+      it''s going to work, I think we can make it work, but it could all go wrong.
+      And that''s fine.'
+    steam_appid: 631791
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwzdTf3usCdpGYzAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1562209659
+      num_games_owned: 475
+      num_reviews: 11
+      playtime_at_review: 3062
+      playtime_forever: 3062
+      playtime_last_two_weeks: 0
+      steamid: '76561198041992180'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '53526806'
+    review: A really great look into a gamejam process and the work of a larger game
+      studio and it's inner mechanisms! Highly recommend for any Double Fine fan,
+      anyone that thinks Pendleton Ward is cool, and people just interested in seeing
+      games being made quickly and well!
+    steam_purchase: true
+    timestamp_created: 1562252322
+    timestamp_updated: 1562252322
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,87 @@
+details:
+  data:
+    about_the_game: Soundtrack for ebi-hime's The Language of Love, composed by yuzuki.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1092520/page_bg_generated_v6b.jpg?t=1581628425
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack for ebi-hime's The Language of Love, composed
+      by yuzuki.
+    developers:
+    - ebi-hime
+    fullgame:
+      appid: '1027620'
+      name: The Language of Love
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1092520/header.jpg?t=1581628425
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Language of Love - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Language of Love - OST - $3.99
+        packageid: 367997
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy The Language of Love - OST
+    packages:
+    - 367997
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        132 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 28, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1092520/ss_bdc594213fea9aaa70f7f080c270c35b0e67e037.1920x1080.jpg?t=1581628425
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1092520/ss_bdc594213fea9aaa70f7f080c270c35b0e67e037.600x338.jpg?t=1581628425
+    short_description: The OST for ebi-hime's The Language of Love.
+    steam_appid: 1092520
+    support_info:
+      email: ebihimes@gmail.com
+      url: ''
+    supported_languages: English, German
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

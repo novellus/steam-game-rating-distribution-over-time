@@ -1,0 +1,182 @@
+details:
+  data:
+    about_the_game: "\u9019\u662F\u4E00\u500B\u5229\u7528\u89D2\u8272\uFF0C\u9760\u8457\
+      \u6280\u80FD\u653B\u6253\u602A\u7269\uFF0C\u53EF\u4EE5\u5F97\u5230\u91D1\u5E63\
+      \u7528\u4F86\u8CFC\u8CB7\u66F4\u9AD8\u7B49\u7684\u6B66\u5668\uFF0C\u6BCF\u7576\
+      \u5347\u7B49\u53EF\u4EE5\u589E\u52A0\u6280\u80FD\u9EDE\u4F86\u63D0\u5347\u89D2\
+      \u8272\u7684\u6280\u80FD\uFF0C\u800C\u96A8\u8457\u95DC\u5361\u4E0A\u5347\uFF0C\
+      \u602A\u7269\u7684\u7B49\u7D1A\u4E5F\u6703\u4F9D\u5FAA\u4E0A\u5347\uFF0C\u4E26\
+      \u4E14\u6709\u4E09\u7A2E\u8077\u696D\u53EF\u4EE5\u9032\u884C\u9078\u64C7\u904A\
+      \u73A9\uFF0C\u6BCF\u7A2E\u8077\u696D\u64C1\u6709\u4E0D\u540C\u7684\u6280\u80FD\
+      \uFF0C\u4EE5\u5F8C\u6703\u9678\u7E8C\u65B0\u589E\u66F4\u591A\u8077\u696D\u3002"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1064440/page_bg_generated_v6b.jpg?t=1566349863
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u9019\u662F\u4E00\u500B\u5229\u7528\u89D2\u8272\uFF0C\u9760\
+      \u8457\u6280\u80FD\u653B\u6253\u602A\u7269\uFF0C\u53EF\u4EE5\u5F97\u5230\u91D1\
+      \u5E63\u7528\u4F86\u8CFC\u8CB7\u66F4\u9AD8\u7B49\u7684\u6B66\u5668\uFF0C\u6BCF\
+      \u7576\u5347\u7B49\u53EF\u4EE5\u589E\u52A0\u6280\u80FD\u9EDE\u4F86\u63D0\u5347\
+      \u89D2\u8272\u7684\u6280\u80FD\uFF0C\u800C\u96A8\u8457\u95DC\u5361\u4E0A\u5347\
+      \uFF0C\u602A\u7269\u7684\u7B49\u7D1A\u4E5F\u6703\u4F9D\u5FAA\u4E0A\u5347\uFF0C\
+      \u4E26\u4E14\u6709\u4E09\u7A2E\u8077\u696D\u53EF\u4EE5\u9032\u884C\u9078\u64C7\
+      \u904A\u73A9\uFF0C\u6BCF\u7A2E\u8077\u696D\u64C1\u6709\u4E0D\u540C\u7684\u6280\
+      \u80FD\uFF0C\u4EE5\u5F8C\u6703\u9678\u7E8C\u65B0\u589E\u66F4\u591A\u8077\u696D\
+      \u3002"
+    developers:
+    - Lin Tang Yi
+    - Xiu
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1064440/header.jpg?t=1566349863
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256747469
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256747469/movie480.mp4?t=1559878113
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256747469/movie_max.mp4?t=1559878113
+      name: '01'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256747469/movie.293x165.jpg?t=1559878113
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256747469/movie480.webm?t=1559878113
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256747469/movie_max.webm?t=1559878113
+    - highlight: true
+      id: 256747467
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256747467/movie480.mp4?t=1559878122
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256747467/movie_max.mp4?t=1559878122
+      name: '02'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256747467/movie.293x165.jpg?t=1559878122
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256747467/movie480.webm?t=1559878122
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256747467/movie_max.webm?t=1559878122
+    name: Xiu's SuperMarket
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Xiu's SuperMarket - $2.99
+        packageid: 356158
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Xiu's SuperMarket
+    packages:
+    - 356158
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP ,Windows 7, Windows 10<br></li><li><strong>Processor:</strong>
+        1.8 GHz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Direct X 9.0c compatible video card<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP ,Windows 7, Windows 10<br></li><li><strong>Processor:</strong>
+        1.8 GHz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Direct X 9.0c compatible video card<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Tang
+    release_date:
+      coming_soon: false
+      date: Jun 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_869d4068c3bfa895b10fb51df71c2a27810dd43d.1920x1080.jpg?t=1566349863
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_869d4068c3bfa895b10fb51df71c2a27810dd43d.600x338.jpg?t=1566349863
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_3171c721e37d8f258babe874b73f8debf78aab4e.1920x1080.jpg?t=1566349863
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_3171c721e37d8f258babe874b73f8debf78aab4e.600x338.jpg?t=1566349863
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_4cffc547853c0081541909a4ba841445a43c38d4.1920x1080.jpg?t=1566349863
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_4cffc547853c0081541909a4ba841445a43c38d4.600x338.jpg?t=1566349863
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_b034ec25ead9708c4014c9f0042182d559e15e79.1920x1080.jpg?t=1566349863
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_b034ec25ead9708c4014c9f0042182d559e15e79.600x338.jpg?t=1566349863
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_8c2bd659bbab69eec986714199e71b655b6ba5eb.1920x1080.jpg?t=1566349863
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1064440/ss_8c2bd659bbab69eec986714199e71b655b6ba5eb.600x338.jpg?t=1566349863
+    short_description: "\u9019\u662F\u4E00\u500B\u5229\u7528\u8173\u8272\uFF0C\u9760\
+      \u8457\u6280\u80FD\u653B\u6253\u602A\u7269\uFF0C\u53EF\u4EE5\u5F97\u5230\u91D1\
+      \u5E63\u7528\u4F86\u8CFC\u8CB7\u66F4\u9AD8\u7B49\u7684\u6B66\u5668\uFF0C\u6BCF\
+      \u7576\u5347\u7B49\u53EF\u4EE5\u589E\u52A0\u6280\u80FD\u9EDE\u4F86\u63D0\u5347\
+      \u89D2\u8272\u7684\u6280\u80FD\uFF0C\u800C\u96A8\u8457\u95DC\u5361\u4E0A\u5347\
+      \uFF0C\u602A\u7269\u7684\u7B49\u7D1A\u4E5F\u6703\u4F9D\u5FAA\u4E0A\u5347\uFF0C\
+      \u4E26\u4E14\u6709\u4E09\u7A2E\u8077\u696D\u53EF\u4EE5\u9032\u884C\u9078\u64C7\
+      \u904A\u73A9\uFF0C\u6BCF\u7A2E\u8077\u696D\u64C1\u6709\u4E0D\u540C\u7684\u6280\
+      \u80FD\uFF0C\u4EE5\u5F8C\u6703\u9678\u7E8C\u65B0\u589E\u66F4\u591A\u8077\u696D\
+      \u3002"
+    steam_appid: 1064440
+    support_info:
+      email: he01409918@gmail.com
+      url: ''
+    supported_languages: Traditional Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4y5C+ovUCfPWCxAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1561226712
+      num_games_owned: 21
+      num_reviews: 1
+      playtime_at_review: 30
+      playtime_forever: 45
+      playtime_last_two_weeks: 0
+      steamid: '76561198355579597'
+    comment_count: 0
+    language: tchinese
+    received_for_free: false
+    recommendationid: '51386204'
+    review: "MP\u597D\u50CF\u90FD\u6C92\u6709\u6D88\u8017\uFF0C\u6703\u6709\u4E00\u96BB\
+      \u65CB\u8F49\u7684\u70CF\u9F9C(?)\u5361\u5728\u5834\u666F\u7684\u67D0\u500B\u5730\
+      \u65B9\u4E00\u76F4\u539F\u5730\u65CB\u8F49\u3002\n\u89BA\u5F97\u9700\u8981\u5728\
+      \u6280\u80FD\u4E0A\u9762\u5099\u8A3B\u600E\u9EBC\u65BD\u653E...\u5C24\u5176\u662F\
+      \u7B2C\u4E09\u500B\u6280\u80FD\u3002"
+    steam_purchase: true
+    timestamp_created: 1561226532
+    timestamp_updated: 1603179939
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,3 @@
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 72, in validate_parsed_data
+AssertionError: release_date -> date is empty

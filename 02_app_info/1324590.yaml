@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: <strong>Gamelaunching never was easier.</strong><br><br>Launch
+      and play your favorite games in matters of seconds.<br>No matter how many games
+      you have with GGG Homebase you always got the overview.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1324590/page_bg_generated_v6b.jpg?t=1591946601
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>Gamelaunching never was easier.</strong><br><br>Launch
+      and play your favorite games in matters of seconds.<br>No matter how many games
+      you have with GGG Homebase you always got the overview.
+    developers:
+    - GGG
+    fullgame:
+      appid: '1105480'
+      name: GGG Collection
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1324590/header.jpg?t=1591946601
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        4 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        4 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256788781
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256788781/movie480.mp4?t=1591946596
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256788781/movie_max.mp4?t=1591946596
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256788781/movie.293x165.jpg?t=1591946596
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256788781/movie480_vp9.webm?t=1591946596
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256788781/movie_max_vp9.webm?t=1591946596
+    name: GGG Homebase
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: GGG Homebase - Commercial License (Free) - Free
+        packageid: 470948
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: Buy GGG Homebase
+    packages:
+    - 470948
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        4 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_69d892980bac4d18e6fc346808950ddf8e3cdd9d.1920x1080.jpg?t=1591946601
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_69d892980bac4d18e6fc346808950ddf8e3cdd9d.600x338.jpg?t=1591946601
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_e48ad772c7de1298a360f5742b9f84b01f00f983.1920x1080.jpg?t=1591946601
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_e48ad772c7de1298a360f5742b9f84b01f00f983.600x338.jpg?t=1591946601
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_acf8fb0fc36d4b6964dde6ca13d10207299f630c.1920x1080.jpg?t=1591946601
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_acf8fb0fc36d4b6964dde6ca13d10207299f630c.600x338.jpg?t=1591946601
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_5704af1f80cb80b76423952d5e88f7057e11e84e.1920x1080.jpg?t=1591946601
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_5704af1f80cb80b76423952d5e88f7057e11e84e.600x338.jpg?t=1591946601
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_c4193c66ff61054d73f7805cc08290f23a870650.1920x1080.jpg?t=1591946601
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1324590/ss_c4193c66ff61054d73f7805cc08290f23a870650.600x338.jpg?t=1591946601
+    short_description: Launch and play your favorite games in matters of seconds.
+      No matter how many games you have with GGG Homebase you always got the overview.
+    steam_appid: 1324590
+    support_info:
+      email: ''
+      url: https://help.steampowered.com/
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

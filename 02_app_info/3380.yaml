@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: It's prehistoric egg-blasting fun! Use your slingshot to match
+      three or more dino eggs of the same color... and watch them explode! Can you
+      blast all the eggs before Mama Brontosaurus tramples your game?
+    background: https://steamcdn-a.akamaihd.net/steam/apps/3380/page_bg_generated_v6b.jpg?t=1584806787
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 3382
+      description: ''
+    detailed_description: It's prehistoric egg-blasting fun! Use your slingshot to
+      match three or more dino eggs of the same color... and watch them explode! Can
+      you blast all the eggs before Mama Brontosaurus tramples your game?
+    developers:
+    - PopCap Games, Inc.
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/3380/header.jpg?t=1584806787
+    is_free: false
+    legal_notice: "\xA92009 PopCap Games, Inc. All rights reserved. The PopCap logo\
+      \ and all other trademarks used herein that are listed at www.popcap.com/trademarks\
+      \ are owned by PopCap Games, Inc. or its licensors and may be registered in\
+      \ some countries. Other company and product names used herein may be trademarks\
+      \ of their respective owners and are used for the benefit of those owners."
+    linux_requirements: []
+    mac_requirements: []
+    name: Dynomite Deluxe
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dynomite Deluxe - $4.99
+        packageid: 128
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Dynomite Deluxe
+    packages:
+    - 128
+    pc_requirements:
+      minimum: '<strong>Minimum Requirements:</strong> Windows 98/ME/2000/XP, 128
+        MB RAM, 500MHz or faster, DirectX: 7.0'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - PopCap Games, Inc.
+    recommendations:
+      total: 112
+    release_date:
+      coming_soon: false
+      date: Aug 30, 2006
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/3380/0000000556.1920x1080.jpg?t=1584806787
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/3380/0000000556.600x338.jpg?t=1584806787
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/3380/0000000557.1920x1080.jpg?t=1584806787
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/3380/0000000557.600x338.jpg?t=1584806787
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/3380/0000000558.1920x1080.jpg?t=1584806787
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/3380/0000000558.600x338.jpg?t=1584806787
+    short_description: It's prehistoric egg-blasting fun! Use your slingshot to match
+      three or more dino eggs of the same color... and watch them explode! Can you
+      blast all the eggs before Mama Brontosaurus tramples your game?
+    steam_appid: 3380
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwnNPm3fYCfIeivwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 6
+    total_positive: 106
+    total_reviews: 112
+  reviews:
+  - author:
+      last_played: 1609894724
+      num_games_owned: 2
+      num_reviews: 1
+      playtime_at_review: 1986
+      playtime_forever: 2118
+      playtime_last_two_weeks: 180
+      steamid: '76561198940597135'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83693692'
+    review: you can play  relaxed or timed various puzzles. it can be relaxing or
+      exciting.  very fun.
+    steam_purchase: true
+    timestamp_created: 1609465240
+    timestamp_updated: 1609465240
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ARCADE SOUNDTRACK
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1320540/page_bg_generated_v6b.jpg?t=1602698006
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ARCADE SOUNDTRACK
+    developers:
+    - EYEFRONT
+    fullgame:
+      appid: '1030430'
+      name: ARCADE
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1320540/header.jpg?t=1602698006
+    is_free: false
+    legal_notice: "\xA9 2020 ARCADE. Published by EYEFRONT. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: ARCADE SOUNDTRACK
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ARCADE Soundtrack - $1.99
+        packageid: 461067
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy ARCADE SOUNDTRACK
+    packages:
+    - 461067
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        580 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - EYEFRONT
+    release_date:
+      coming_soon: false
+      date: Oct 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1320540/ss_a508c187d04e6165a7121f1df1563f1fcb5826ba.1920x1080.jpg?t=1602698006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1320540/ss_a508c187d04e6165a7121f1df1563f1fcb5826ba.600x338.jpg?t=1602698006
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1320540/ss_bc20e3616f7114281e8a0a8a53876ed5bf15f53c.1920x1080.jpg?t=1602698006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1320540/ss_bc20e3616f7114281e8a0a8a53876ed5bf15f53c.600x338.jpg?t=1602698006
+    short_description: ARCADE SOUNDTRACK
+    steam_appid: 1320540
+    support_info:
+      email: eyefrontgames@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

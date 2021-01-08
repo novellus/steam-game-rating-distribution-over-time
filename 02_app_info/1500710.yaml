@@ -1,0 +1,92 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1500710/page_bg_generated_v6b.jpg?t=1608151397
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Gameplay consists of graphic depictions weapons and depictions of human
+        death. Radio traffic contains obscene language.
+    detailed_description: ''
+    developers:
+    - C&C Game Studio
+    fullgame:
+      appid: '1175800'
+      name: Command & Control 3
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1500710/header.jpg?t=1608151397
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Command and Control 3 Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7/8/10
+        (64-bit)<br></li><li><strong>Processor:</strong> Intel i3, AMD FX<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTS 750</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - C&C Game Studio
+    release_date:
+      coming_soon: false
+      date: Dec 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_96c2fb5d986afb29ad30d648c02e1af59eddde6f.1920x1080.jpg?t=1608151397
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_96c2fb5d986afb29ad30d648c02e1af59eddde6f.600x338.jpg?t=1608151397
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_62bc31fc86ddb2e59f8c11fa31ab5d343bf11d7f.1920x1080.jpg?t=1608151397
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_62bc31fc86ddb2e59f8c11fa31ab5d343bf11d7f.600x338.jpg?t=1608151397
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_b26d88334434031ea3682ca81f6da4d3620e44f8.1920x1080.jpg?t=1608151397
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_b26d88334434031ea3682ca81f6da4d3620e44f8.600x338.jpg?t=1608151397
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_5f09ffb495227c938cb1dc063472579192b70a10.1920x1080.jpg?t=1608151397
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_5f09ffb495227c938cb1dc063472579192b70a10.600x338.jpg?t=1608151397
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_8dbb4aac91c3928ebc770f59f67b5ba10396df16.1920x1080.jpg?t=1608151397
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500710/ss_8dbb4aac91c3928ebc770f59f67b5ba10396df16.600x338.jpg?t=1608151397
+    short_description: ''
+    steam_appid: 1500710
+    support_info:
+      email: info@command-and-control.com
+      url: http://command-and-control.com/
+    supported_languages: English, Russian
+    type: demo
+    website: http://command-and-control.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

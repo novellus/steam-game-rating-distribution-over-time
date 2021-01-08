@@ -1,0 +1,199 @@
+details:
+  data:
+    about_the_game: A giant comet breaks up and showers Earth with meteorites of different
+      sizes. As a members of Earth's Meteorite Defense Command it is your job to guard
+      your district from being annihilated by the massive rocks and other threats.
+      Are you up to the task?
+    achievements:
+      highlighted:
+      - name: Reach and Finish Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/28abd953b2dfbcaba1e82cd822d6251f82ec1db0.jpg
+      - name: Destroy 1 Million
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/eb8ee05388ee7046c4d5a1ec5b08e09d22488833.jpg
+      - name: Reach and Finish Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/905bb04ab0748c512e5c0c9d29c2cef85de5aa4d.jpg
+      - name: Reach and Finish Level 15
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/422cb0c9e9f5fe6891d7c040f1c126dd29723386.jpg
+      - name: Destroy 10 Thousand
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/e2df3cf5185d42ddd2879cbbbd36cb6e68f00281.jpg
+      - name: Destroy 100 Thousand
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/ed05c10fab9ed3b242f7a0e389cc3412533fa041.jpg
+      - name: Destroy 1 Thousand
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/e741f314a8201a09d3d15e4a5705b03aec2b576f.jpg
+      - name: Level 1 - 100%
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/23cb169926bee7cd8220c877fc316fef92787789.jpg
+      - name: Level 2 - 100%
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/e4e740c6730fac87839cbf764a6f03920684de6a.jpg
+      - name: Level 3 - 100%
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/767840/e6bfda3ade79e7a09bab7df5bc9dd644e1380018.jpg
+      total: 22
+    background: https://steamcdn-a.akamaihd.net/steam/apps/767840/page_bg_generated_v6b.jpg?t=1570859227
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h1>Feature List</h1><p><ul class="bb_ul"><li> Rapid and
+      challenging gameplay<br></li><li> Made with replayability in mind - perfect
+      your runs!<br></li><li> Global Leaderboard - Can you beat your friends?<br></li><li>
+      Full Player Stats - see your performance per level.</li></ul></p><br><h1>About
+      the Game</h1>A giant comet breaks up and showers Earth with meteorites of different
+      sizes. As a members of Earth's Meteorite Defense Command it is your job to guard
+      your district from being annihilated by the massive rocks and other threats.
+      Are you up to the task?
+    developers:
+    - Digital Software
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/767840/header.jpg?t=1570859227
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256716086
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716086/movie480.mp4?t=1525862036
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716086/movie_max.mp4?t=1525862036
+      name: Release Trailer 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256716086/movie.293x165.jpg?t=1525862036
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716086/movie480.webm?t=1525862036
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716086/movie_max.webm?t=1525862036
+    name: Meteorite Defense Command
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Meteorite Defense Command - $1.99
+        packageid: 227175
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Meteorite Defense Command
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $0.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$1.99 at checkout,
+          auto-renewed every 1 month(s) at $0.99.</p>
+        option_text: $1.99 for a month, then $0.99 / month
+        packageid: 346977
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Meteorite Defense Command Subscription Plan
+    packages:
+    - 227175
+    - 346977
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP or newer<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        Shader Model 2.0+<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        10 MB available space<br></li><li><strong>Additional Notes:</strong> Requires
+        monitor to support 1080p resolution</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Digital Software
+    release_date:
+      coming_soon: false
+      date: Jun 1, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_3565376136be7ee9f27bd6d3ec5ca0c3c8ddb49f.1920x1080.jpg?t=1570859227
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_3565376136be7ee9f27bd6d3ec5ca0c3c8ddb49f.600x338.jpg?t=1570859227
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_468e516f53af81add89114514c4f1b0e1ba4c0fe.1920x1080.jpg?t=1570859227
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_468e516f53af81add89114514c4f1b0e1ba4c0fe.600x338.jpg?t=1570859227
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_5322b3118808d75922a65a65946dc22bfee6a4a2.1920x1080.jpg?t=1570859227
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_5322b3118808d75922a65a65946dc22bfee6a4a2.600x338.jpg?t=1570859227
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_1d7127542cd4b29fe465b3103126c36f6a058d0b.1920x1080.jpg?t=1570859227
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_1d7127542cd4b29fe465b3103126c36f6a058d0b.600x338.jpg?t=1570859227
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_8d72a23a31f7a1f104fcc4b79b082b582d6cd41e.1920x1080.jpg?t=1570859227
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_8d72a23a31f7a1f104fcc4b79b082b582d6cd41e.600x338.jpg?t=1570859227
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_75e803d05c29fc3af1639e69d59000aec057cf37.1920x1080.jpg?t=1570859227
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_75e803d05c29fc3af1639e69d59000aec057cf37.600x338.jpg?t=1570859227
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_5fbf518c47ef0edd236e2b2641e0ba71b5a97781.1920x1080.jpg?t=1570859227
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/767840/ss_5fbf518c47ef0edd236e2b2641e0ba71b5a97781.600x338.jpg?t=1570859227
+    short_description: Meteorite Defense Command is a fun, color-full and fast game,
+      inspired by the classical coin-operated arcade games of the golden era.
+    steam_appid: 767840
+    support_info:
+      email: ''
+      url: http://www.digitalsoftware.se/community/forum-20.html
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://digitalsoftware.se/
+  success: true
+reviews:
+  cursor: AoJ407Ti6ucCcPT8tQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 2
+    total_positive: 1
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1545475780
+      num_games_owned: 239
+      num_reviews: 17
+      playtime_at_review: 5
+      playtime_forever: 5
+      playtime_last_two_weeks: 0
+      steamid: '76561197999098083'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '47703872'
+    review: Sorry to those who say this is OK but I'm getting a refund for my 84p
+      just out of principle - it's that bad!
+    steam_purchase: true
+    timestamp_created: 1545475827
+    timestamp_updated: 1545475827
+    voted_up: false
+    votes_funny: 1
+    votes_up: 1
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

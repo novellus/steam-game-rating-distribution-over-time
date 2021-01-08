@@ -1,0 +1,229 @@
+details:
+  data:
+    about_the_game: "In an attempt to create the perfect ping-pong.<br />\r\nAll movement\
+      \ in the game occurs in a circle. The goal is simple - do not skip the ball\
+      \ into your own goal and score the ball to the opponent.<br />\r\nA large number\
+      \ of settings and several game modes allow you to create that game - which you\
+      \ want and at the same time you can always find something new from other players.<br\
+      \ />\r\nAll action is accompanied by 8 bit music and few maps with different\
+      \ atmospheres."
+    achievements:
+      highlighted:
+      - name: First steps...
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/737930/cb15373be14b14a2d76afe257cd84b9a02e4d81c.jpg
+      - name: Just did that!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/737930/78eec3950b0e984444426cb1a911e0c853d826e7.jpg
+      - name: I'm pretty good
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/737930/19d7dcb98b1ef7346bac1a6a3fdacb4a1561b9c2.jpg
+      - name: I can teach you how to play
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/737930/a431c80f1e95fba8efe40668929e2e5f78b3732c.jpg
+      - name: Great champion
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/737930/b3bf03a524d5cb7febfa2d31ecc75d929f690fe9.jpg
+      - name: Inaccessible star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/737930/397916be981669a89ccaebfcd61ebf31f9b5691e.jpg
+      total: 6
+    background: https://steamcdn-a.akamaihd.net/steam/apps/737930/page_bg_generated_v6b.jpg?t=1516859981
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "In an attempt to create the perfect ping-pong.<br />\r\n\
+      All movement in the game occurs in a circle. The goal is simple - do not skip\
+      \ the ball into your own goal and score the ball to the opponent.<br />\r\n\
+      A large number of settings and several game modes allow you to create that game\
+      \ - which you want and at the same time you can always find something new from\
+      \ other players.<br />\r\nAll action is accompanied by 8 bit music and few maps\
+      \ with different atmospheres."
+    developers:
+    - Vladimir Alekseev
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/737930/header.jpg?t=1516859981
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256702585
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256702585/movie480.mp4?t=1512238263
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256702585/movie_max.mp4?t=1512238263
+      name: November version trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256702585/movie.293x165.jpg?t=1512238263
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256702585/movie480.webm?t=1512238263
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256702585/movie_max.webm?t=1512238263
+    - highlight: false
+      id: 256698665
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256698665/movie480.mp4?t=1512204446
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256698665/movie_max.mp4?t=1512204446
+      name: A little about the game.
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256698665/movie.293x165.jpg?t=1512204446
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256698665/movie480.webm?t=1512204446
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256698665/movie_max.webm?t=1512204446
+    name: Online Circle Pong
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Online Circle Pong - $0.99
+        packageid: 215753
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Online Circle Pong - Commercial License - $2.99
+        packageid: 231013
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Online Circle Pong
+    packages:
+    - 215753
+    - 231013
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong>
+        2048 MB RAM<br></li><li><strong>Graphics:</strong> Radeon R7 series with 1Gb
+        memory<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 400 MB
+        available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core I7 4790<br></li><li><strong>Memory:</strong>
+        8096 MB RAM<br></li><li><strong>Graphics:</strong> Radeon R9 series with 2Gb
+        memory<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 400 MB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Vladimir Alekseev
+    release_date:
+      coming_soon: false
+      date: Jan 11, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_9754b568dbe384da8ac5b051c015dd6b013a723a.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_9754b568dbe384da8ac5b051c015dd6b013a723a.600x338.jpg?t=1516859981
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_4eadfb5d1ef4be6edadeac39ba1464cd90f0b906.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_4eadfb5d1ef4be6edadeac39ba1464cd90f0b906.600x338.jpg?t=1516859981
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_c754ac339f2b07d423257bac929eb99bdfee4e45.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_c754ac339f2b07d423257bac929eb99bdfee4e45.600x338.jpg?t=1516859981
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_64e3994c9f5f6aaa800f0890e926e3d0827b30cc.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_64e3994c9f5f6aaa800f0890e926e3d0827b30cc.600x338.jpg?t=1516859981
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_1027eccf5ae27eb572d78916c60a19e7b342bbc4.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_1027eccf5ae27eb572d78916c60a19e7b342bbc4.600x338.jpg?t=1516859981
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_52d38c7a9edb73c32b4c0817fee089f92fb5a3fa.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_52d38c7a9edb73c32b4c0817fee089f92fb5a3fa.600x338.jpg?t=1516859981
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_983fabab4436ba9c741c7ea1c6c5817ac063e0d5.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_983fabab4436ba9c741c7ea1c6c5817ac063e0d5.600x338.jpg?t=1516859981
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_9b17d382f247e3d5a37fbe37af98fe28a29845a0.1920x1080.jpg?t=1516859981
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/737930/ss_9b17d382f247e3d5a37fbe37af98fe28a29845a0.600x338.jpg?t=1516859981
+    short_description: It's like a ping-pong, but in circle! It's like a ping-pong,
+      but online! It's like a ping-pong, but up to 15 players at same match!
+    steam_appid: 737930
+    support_info:
+      email: zoomerland@yandex.ru
+      url: ''
+    supported_languages: English, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4iYmClOECdu/9lgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 0
+    total_positive: 6
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1516792752
+      num_games_owned: 120
+      num_reviews: 14
+      playtime_at_review: 404
+      playtime_forever: 404
+      playtime_last_two_weeks: 0
+      steamid: '76561198410678013'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '39579382'
+    review: "[h1]Online Circle Pong[/h1]- \u0437\u0430\u043C\u0435\u0447\u0430\u0442\
+      \u0435\u043B\u044C\u043D\u044B\u0439 \u043F\u0438\u043D\u0433-\u043F\u043E\u043D\
+      \u0433 \u0441 \u0440\u0430\u0437\u043D\u043E\u043E\u0431\u0440\u0430\u0437\u043D\
+      \u044B\u043C\u0438 \u0440\u0435\u0436\u0438\u043C\u0430\u043C\u0438.\n\u0423\
+      \ \u044D\u0442\u043E\u0439 \u0438\u0433\u0440\u044B \u043E\u0447\u0435\u043D\
+      \u044C \u043C\u043D\u043E\u0433\u043E \u043F\u043B\u044E\u0441\u043E\u0432 \u0438\
+      \ \u0432\u0441\u0435\u0433\u043E \u043E\u0434\u0438\u043D \u043C\u0438\u043D\
+      \u0443\u0441:\n\n+ \u043F\u043E\u0434\u0445\u043E\u0434\u044F\u0449\u0435\u0435\
+      \ \u043C\u0443\u0437\u044B\u043A\u0430\u043B\u044C\u043D\u043E\u0435 \u0441\u043E\
+      \u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0435\u043D\u0438\u0435\n+ \u0432\
+      \u044B\u0431\u043E\u0440 \u043C\u0435\u0436\u0434\u0443 2D \u0438 3D \n+ \u0445\
+      \u043E\u0440\u043E\u0448\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\
+      \n+ \u043B\u0435\u0433\u043A\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\
+      \u0435\u043D\u0438\u0435\n+ \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\
+      \u0430\u044F \u043E\u043F\u0442\u0438\u043C\u0438\u0437\u0430\u0446\u0438\u044F\
+      \n\n- \u043C\u0430\u043B\u043E \u0438\u0433\u0440\u043E\u043A\u043E\u0432 (\u043D\
+      \u0430\u0434\u0435\u044E\u0441\u044C \u0447\u0442\u043E \u0441\u043A\u043E\u0440\
+      \u043E \u0438\u0445 \u0441\u0442\u0430\u043D\u0435\u0442 \u0431\u043E\u043B\u044C\
+      \u0448\u0435)\n\n\u042F \u0440\u0435\u043A\u043E\u043C\u0435\u043D\u0434\u0443\
+      \u044E \u044D\u0442\u0443 \u0438\u0433\u0440\u0443!"
+    steam_purchase: true
+    timestamp_created: 1516795087
+    timestamp_updated: 1516795087
+    voted_up: true
+    votes_funny: 1
+    votes_up: 2
+    weighted_vote_score: '0.545454561710357666'
+    written_during_early_access: false
+  success: 1

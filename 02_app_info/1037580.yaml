@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: "nudity\r\nalcohol abuse\r\nnon-appropriate humor"
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Ktulhu Solutions
+    fullgame:
+      appid: '811890'
+      name: Perky Little Things
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1037580/header.jpg?t=1572300286
+    is_free: true
+    legal_notice: This game is a parody. Therefore, all characters are works of fiction
+      and any similarities with existing high-profile or successful mass cultural
+      events is purely coincidental.
+    linux_requirements: []
+    mac_requirements: []
+    name: Perky Little Things Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Ktulhu Solutions
+    release_date:
+      coming_soon: false
+      date: Mar 4, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1037580
+    support_info:
+      email: games@ktulhusolutions.com
+      url: ''
+    supported_languages: English, French, German, Spanish - Spain, Japanese, Russian,
+      Simplified Chinese, Portuguese - Brazil, Portuguese
+    type: demo
+    website: http://ktulhusolutions.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

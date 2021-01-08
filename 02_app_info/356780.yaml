@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: Our custom soundtrack, created and produced by Maxo. Contains
+      5 full tracks used in the game!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/356780/page_bg_generated_v6b.jpg?t=1447370905
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Our custom soundtrack, created and produced by Maxo. Contains
+      5 full tracks used in the game!
+    developers:
+    - Reactor Zero
+    fullgame:
+      appid: '351140'
+      name: Rustbucket Rumble
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/356780/header.jpg?t=1447370905
+    is_free: false
+    legal_notice: "Rustbucket Rumble is copyright (c) 2015 Scrap Yard Productions,\
+      \ LLC.<br />\r\nDeveloped by Reactor Zero, a division of Quantum Signal, LLC.<br\
+      \ />\r\nRustbucket Rumble is a trademark of Quantum Signal, LLC under license\
+      \ to Scrap Yard Productions, LLC."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 10.10, SteamOS</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX</li></ul>
+    name: Rustbucket Rumble Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Rustbucket Rumble Soundtrack - $1.99
+        packageid: 63130
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Rustbucket Rumble Soundtrack
+    packages:
+    - 63130
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, Windows 7, or Windows 8</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Scrap Yard Productions, LLC
+    release_date:
+      coming_soon: false
+      date: May 4, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/356780/ss_98a0834cf4e461080a756bab9e860c68cd553c5d.1920x1080.jpg?t=1447370905
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/356780/ss_98a0834cf4e461080a756bab9e860c68cd553c5d.600x338.jpg?t=1447370905
+    short_description: Our custom soundtrack, created and produced by Maxo. Contains
+      5 full tracks used in the game!
+    steam_appid: 356780
+    support_info:
+      email: support@rustbucketrumble.com
+      url: http://www.rustbucketrumble.com
+    supported_languages: English
+    type: dlc
+    website: http://www.rustbucketrumble.com
+  success: true
+reviews:
+  cursor: AoJ4kbWaz90Cd+jBgQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 174
+      num_reviews: 77
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198095394896'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '33951367'
+    review: "[h1]5 \u043A\u0440\u0443\u0442\u044B\u0445 \u0441\u0430\u0443\u043D\u0434\
+      \u0440\u0435\u043A\u043E\u0432 \u0434\u043B\u044F \u0438\u0433\u0440\u044B.[/h1]"
+    steam_purchase: true
+    timestamp_created: 1501601311
+    timestamp_updated: 1501601311
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.528492212295532227'
+    written_during_early_access: false
+  success: 1

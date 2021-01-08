@@ -1,0 +1,124 @@
+details:
+  data:
+    about_the_game: Orangeblood OST provided in MP3 and WAV formats!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1180240/page_bg_generated_v6b.jpg?t=1581629337
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Orangeblood OST provided in MP3 and WAV formats!
+    developers:
+    - Grayfax Software
+    - Milo St. Clare-Holmes
+    fullgame:
+      appid: '1042670'
+      name: Orangeblood
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1180240/header.jpg?t=1581629337
+    is_free: false
+    legal_notice: "\xA9 2019 grayfaxsoftware. Licensed to and published by Active\
+      \ Gaming Media Inc."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256771842
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256771842/movie480.mp4?t=1581629314
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256771842/movie_max.mp4?t=1581629314
+      name: Shangri-La Level 2 - Milo St. Clare-Holmes (Orangeblood OST)
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256771842/movie.293x165.jpg?t=1581629314
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256771842/movie480.webm?t=1581629314
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256771842/movie_max.webm?t=1581629314
+    - highlight: true
+      id: 256771843
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256771843/movie480.mp4?t=1581629320
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256771843/movie_max.mp4?t=1581629320
+      name: Goon Squad - Milo St. Clare-Holmes (Orangeblood OST)
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256771843/movie.293x165.jpg?t=1581629320
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256771843/movie480.webm?t=1581629320
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256771843/movie_max.webm?t=1581629320
+    - highlight: true
+      id: 256766960
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766960/movie480.mp4?t=1581629329
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766960/movie_max.mp4?t=1581629329
+      name: Song of Shangri-La - Milo St. Clare-Holmes (Orangeblood OST)
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256766960/movie.293x165.jpg?t=1581629329
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766960/movie480.webm?t=1581629329
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766960/movie_max.webm?t=1581629329
+    name: Orangeblood OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Orangeblood OST - $9.99
+        packageid: 405558
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Orangeblood OST
+    packages:
+    - 405558
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - PLAYISM
+    release_date:
+      coming_soon: false
+      date: Jan 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180240/ss_f1af45571ef445924045545498cc1fe98a9fe978.1920x1080.jpg?t=1581629337
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180240/ss_f1af45571ef445924045545498cc1fe98a9fe978.600x338.jpg?t=1581629337
+    short_description: Total 12 tracks from Orangeblood.
+    steam_appid: 1180240
+    support_info:
+      email: support@playism.jp
+      url: ''
+    supported_languages: Japanese, English, Simplified Chinese
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

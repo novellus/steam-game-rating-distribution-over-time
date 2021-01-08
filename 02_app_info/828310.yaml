@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: "Sword Mans is a physics based sword fighting brawler where you\
+      \ control the sword instead of the swordsman. There is a man holding on to the\
+      \ sword who will flop behind it as it moves. Your goal is to defeat the other\
+      \ players by hitting the man holding onto their sword while defending the man\
+      \ holding on to your sword. <br />\r\n<br />\r\nThis demo will give you access\
+      \ to the tutorial level where up to 4 people can go through a quick stage and\
+      \ learn a little about the game's mechanics."
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Sword Mans is a physics based sword fighting brawler where\
+      \ you control the sword instead of the swordsman. There is a man holding on\
+      \ to the sword who will flop behind it as it moves. Your goal is to defeat the\
+      \ other players by hitting the man holding onto their sword while defending\
+      \ the man holding on to your sword. <br />\r\n<br />\r\nThis demo will give\
+      \ you access to the tutorial level where up to 4 people can go through a quick\
+      \ stage and learn a little about the game's mechanics."
+    developers:
+    - Bypass Game Studios
+    fullgame:
+      appid: '815840'
+      name: Sword Mans
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/828310/header.jpg?t=1535155608
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16<br></li><li><strong>Processor:</strong> 2 GHz SSE2<br></li><li><strong>Memory:</strong>
+        1 MB RAM<br></li><li><strong>Graphics:</strong> Shader v2.0 Capable Video
+        Card<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound
+        Card:</strong> Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        MacOS Sierra 10.12.6<br></li><li><strong>Processor:</strong> 2.5 GHz Intel
+        Core i5<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics 4000<br></li><li><strong>Storage:</strong> 300 MB available
+        space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: Sword Mans Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> DX9<br></li><li><strong>Storage:</strong>
+        300 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Core I5<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 670M<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Bypass Game Studios
+    release_date:
+      coming_soon: false
+      date: Mar 30, 2018
+    required_age: 0
+    short_description: Sword Mans is a physics based sword fighting brawler where
+      you control the sword instead of the swordsman.
+    steam_appid: 828310
+    support_info:
+      email: bypassgamestudios@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

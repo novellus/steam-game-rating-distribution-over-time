@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '413850'
+      name: CS:GO Player Profiles
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/413854/header.jpg?t=1469488964
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'CS:GO Player Profiles: olofmeister - fnatic'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: CS:GO Player Profiles - Free
+        packageid: 82994
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy CS:GO Player Profiles: olofmeister - fnatic'
+    packages:
+    - 82994
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 29, 2015
+    required_age: 0
+    short_description: From team fnatic, learn more about olofmeister
+    steam_appid: 413854
+    support_info:
+      email: ''
+      url: ''
+    type: episode
+    website: ''
+  success: true
+reviews:
+  cursor: AoJwlpO599kCc9TscA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1539835070
+      num_games_owned: 3
+      num_reviews: 6
+      playtime_at_review: 13
+      playtime_forever: 23
+      playtime_last_two_weeks: 0
+      steamid: '76561198060941807'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '29582659'
+    review: 'Olof Kajbjer Gustafsson, (born January 31, 1992) better known by his
+      in-game name olofmeister or olofm, is a Swedish professional Counter-Strike:
+      Global Offensive player who currently plays a rifler and secondary AWPer for
+      fnatic. He has previously played for H2k, Absolute Legends, and LGB eSports.
+      Olofmeister is widely regarded as one of the best CS:GO players in the world.
+      He has won two CSGO Majors, ESL One Katowice 2015 and ESL One Cologne 2015,
+      as well as many other tournaments.'
+    steam_purchase: true
+    timestamp_created: 1485771676
+    timestamp_updated: 1485771676
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

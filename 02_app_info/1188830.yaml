@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: "XP Girls Soundtrack has arrived as promised and it's juicy!<br\
+      \ />\r\n<br />\r\nOnce again it features music made by the same Oneshark member\
+      \ who also is the graphical artist. Comes in MP3 format.<br />\r\n<br />\r\n\
+      01 - Up Up Hyer<br />\r\n02 - Evil Presence<br />\r\n03 - 1K+1 Nights<br />\r\
+      \n04 - Full Bazaar<br />\r\n05 - Chilling On The Pearl Beach<br />\r\n06 - Grab\
+      \ All The Loot<br />\r\n07 - Free Candy<br />\r\n08 - Spooky Story<br />\r\n\
+      09 - Blood Flowing Everywhere<br />\r\n10 - Endless Maze Run<br />\r\n11 - Mythically\
+      \ Powerful<br />\r\n12 - Bee Mice Elf"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1188830/page_bg_generated_v6b.jpg?t=1574406377
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "XP Girls Soundtrack has arrived as promised and it's juicy!<br\
+      \ />\r\n<br />\r\nOnce again it features music made by the same Oneshark member\
+      \ who also is the graphical artist. Comes in MP3 format.<br />\r\n<br />\r\n\
+      01 - Up Up Hyer<br />\r\n02 - Evil Presence<br />\r\n03 - 1K+1 Nights<br />\r\
+      \n04 - Full Bazaar<br />\r\n05 - Chilling On The Pearl Beach<br />\r\n06 - Grab\
+      \ All The Loot<br />\r\n07 - Free Candy<br />\r\n08 - Spooky Story<br />\r\n\
+      09 - Blood Flowing Everywhere<br />\r\n10 - Endless Maze Run<br />\r\n11 - Mythically\
+      \ Powerful<br />\r\n12 - Bee Mice Elf"
+    developers:
+    - OneShark
+    fullgame:
+      appid: '1178120'
+      name: XP Girls
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1188830/header.jpg?t=1574406377
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: XP Girls Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: XP Girls Soundtrack - $1.99
+        packageid: 409142
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy XP Girls Soundtrack
+    packages:
+    - 409142
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        100 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        350 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - SakuraGame
+    release_date:
+      coming_soon: false
+      date: Nov 21, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1188830/ss_a8e6b0802b8ee676de573b3d06b48a1e2546b7a7.1920x1080.jpg?t=1574406377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1188830/ss_a8e6b0802b8ee676de573b3d06b48a1e2546b7a7.600x338.jpg?t=1574406377
+    short_description: All the hottest XP Girls tracks out now!
+    steam_appid: 1188830
+    support_info:
+      email: gm@sakuragame.com
+      url: ''
+    supported_languages: English, Simplified Chinese, Traditional Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

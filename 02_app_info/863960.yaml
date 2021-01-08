@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: "1. Menu Theme<br />\r\n2. Sector Choose<br />\r\n3. Security\
+      \ Shield<br />\r\n4. Security Defense<br />\r\n5. Security Core<br />\r\n6.\
+      \ Main Entrance<br />\r\n7. Physical Gates<br />\r\n8. Interface Gates<br />\r\
+      \n9. Logical Gates<br />\r\n10. External Firewall<br />\r\n11. Internal Firewall<br\
+      \ />\r\n12. Server Kernel<br />\r\n13. Apple Core<br />\r\n14. Against Troubles<br\
+      \ />\r\n15. Afterwar Silence<br />\r\n16. Results<br />\r\n17. Final Collision"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/863960/page_bg_generated_v6b.jpg?t=1574899026
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "1. Menu Theme<br />\r\n2. Sector Choose<br />\r\n3. Security\
+      \ Shield<br />\r\n4. Security Defense<br />\r\n5. Security Core<br />\r\n6.\
+      \ Main Entrance<br />\r\n7. Physical Gates<br />\r\n8. Interface Gates<br />\r\
+      \n9. Logical Gates<br />\r\n10. External Firewall<br />\r\n11. Internal Firewall<br\
+      \ />\r\n12. Server Kernel<br />\r\n13. Apple Core<br />\r\n14. Against Troubles<br\
+      \ />\r\n15. Afterwar Silence<br />\r\n16. Results<br />\r\n17. Final Collision"
+    developers:
+    - SaintHeiser
+    fullgame:
+      appid: '669740'
+      name: Tower Bombarde
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/863960/header.jpg?t=1574899026
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Tower Bombarde OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tower Bombarde OST - $0.99
+        packageid: 272356
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Tower Bombarde OST
+    packages:
+    - 272356
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Microsoft\xAE Windows\xAE XP / Vista<br></li><li><strong>Storage:</strong>\
+        \ 90 MB available space<br></li><li><strong>Sound Card:</strong> DirectX\xAE\
+        \ Compatible</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Half-Face Games
+    release_date:
+      coming_soon: false
+      date: May 18, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/863960/ss_f0b377b5f888d0277d2ae0fe2b283e8cd13256ff.1920x1080.jpg?t=1574899026
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/863960/ss_f0b377b5f888d0277d2ae0fe2b283e8cd13256ff.600x338.jpg?t=1574899026
+    short_description: Official Game Soundtrack
+    steam_appid: 863960
+    support_info:
+      email: support@half-face.games
+      url: https://discord.gg/yXZcxDS
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

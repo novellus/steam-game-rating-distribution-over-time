@@ -1,0 +1,196 @@
+details:
+  data:
+    about_the_game: "Thank you for your interest in Sponsor-A-Planet!<br />\r\n<br\
+      \ />\r\nSponsor-A-Planet provides you a planet with life. It will try to survive,\
+      \ build and thrive, whether or not you decide to intervene.<br />\r\n<br />\r\
+      \nGameplay:<br />\r\nThe core gameplay involves observing the AI characters\
+      \ as they go about their day doing what they do, and watching as they turn the\
+      \ somewhat sparse and barren landscape into a more lively and developed environment.\
+      \ The player has the option to spawn more AI (gold dependent) to increase development\
+      \ speed. There is only one way to spawn gold resources, a gold platform underneath\
+      \ the gazebo. <br />\r\n<br />\r\nFeatures: <br />\r\nCurrently implemented\
+      \ features include first-person movement using the WASD keys, Spacebar for jump,\
+      \ F key to fly, LeftShift to sprint, LeftCtrl to crouch, and E key to spawn\
+      \ AI characters. The AI characters will walk around and look for gold resources\
+      \ to purchases houses. AI characters have different modes and glowing eyes corresponding\
+      \ to the mode they are in. For instance, yellow eyes represents random wander\
+      \ mode, bright blue for gold pickup mode, dark blue for resting mode."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1404970/page_bg_generated_v6b.jpg?t=1602558438
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1424490
+      description: ''
+    detailed_description: "Thank you for your interest in Sponsor-A-Planet!<br />\r\
+      \n<br />\r\nSponsor-A-Planet provides you a planet with life. It will try to\
+      \ survive, build and thrive, whether or not you decide to intervene.<br />\r\
+      \n<br />\r\nGameplay:<br />\r\nThe core gameplay involves observing the AI characters\
+      \ as they go about their day doing what they do, and watching as they turn the\
+      \ somewhat sparse and barren landscape into a more lively and developed environment.\
+      \ The player has the option to spawn more AI (gold dependent) to increase development\
+      \ speed. There is only one way to spawn gold resources, a gold platform underneath\
+      \ the gazebo. <br />\r\n<br />\r\nFeatures: <br />\r\nCurrently implemented\
+      \ features include first-person movement using the WASD keys, Spacebar for jump,\
+      \ F key to fly, LeftShift to sprint, LeftCtrl to crouch, and E key to spawn\
+      \ AI characters. The AI characters will walk around and look for gold resources\
+      \ to purchases houses. AI characters have different modes and glowing eyes corresponding\
+      \ to the mode they are in. For instance, yellow eyes represents random wander\
+      \ mode, bright blue for gold pickup mode, dark blue for resting mode."
+    developers:
+    - TheTallJS
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1404970/header.jpg?t=1602558438
+    is_free: false
+    legal_notice: "\u201CSponsor-A-Planet uses Unreal\xAE Engine. Unreal\xAE is a\
+      \ trademark or registered trademark of Epic Games, Inc. in the United States\
+      \ of America and elsewhere. Unreal\xAE Engine, Copyright 1998 \u2013 2020, Epic\
+      \ Games, Inc. All rights reserved.\u201D"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256800943
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800943/movie480.mp4?t=1601324867
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800943/movie_max.mp4?t=1601324867
+      name: Sponsor-A-Planet Trailer 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256800943/movie.293x165.jpg?t=1601324867
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800943/movie480_vp9.webm?t=1601324867
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800943/movie_max_vp9.webm?t=1601324867
+    name: Sponsor-A-Planet
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sponsor-A-Planet - $1.99
+        packageid: 493011
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Sponsor-A-Planet
+    packages:
+    - 493011
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10
+        64-bit<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1050<br></li><li><strong>DirectX:</strong>
+        Version 12<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - TheTallJS
+    release_date:
+      coming_soon: false
+      date: Oct 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_c990d7284a8e9defb7fe6b0950aa03904c17dad9.1920x1080.jpg?t=1602558438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_c990d7284a8e9defb7fe6b0950aa03904c17dad9.600x338.jpg?t=1602558438
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_3674056ee7b5d337b165f9bf1e743c2d9ea829f4.1920x1080.jpg?t=1602558438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_3674056ee7b5d337b165f9bf1e743c2d9ea829f4.600x338.jpg?t=1602558438
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_430d9ddebb9500d47b39707159c62a2036475894.1920x1080.jpg?t=1602558438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_430d9ddebb9500d47b39707159c62a2036475894.600x338.jpg?t=1602558438
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_b04299127439e8e7d2848a251a0a839d8776475b.1920x1080.jpg?t=1602558438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_b04299127439e8e7d2848a251a0a839d8776475b.600x338.jpg?t=1602558438
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_66288101a964bcd9255b09c5e5bec4067ee32a0f.1920x1080.jpg?t=1602558438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_66288101a964bcd9255b09c5e5bec4067ee32a0f.600x338.jpg?t=1602558438
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_e9b8a6af94ce1aaebb4d57dc6c8300e7b241c0c5.1920x1080.jpg?t=1602558438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_e9b8a6af94ce1aaebb4d57dc6c8300e7b241c0c5.600x338.jpg?t=1602558438
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_73a0d4744d16a9f10f3914ad4fc2d31f6915998b.1920x1080.jpg?t=1602558438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404970/ss_73a0d4744d16a9f10f3914ad4fc2d31f6915998b.600x338.jpg?t=1602558438
+    short_description: First-Person world-creation-simulator game!
+    steam_appid: 1404970
+    support_info:
+      email: thetalljs@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwlOf7ivYCd9u9tQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1606685551
+      num_games_owned: 74
+      num_reviews: 5
+      playtime_at_review: 41
+      playtime_forever: 41
+      playtime_last_two_weeks: 0
+      steamid: '76561198312581615'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81128887'
+    review: I mean you don't got tons to do in here at the moment but its kinda funny
+      seeing so many little meeps just wandering. The only thing I didn't liked is
+      how when you have massive amounts of meeps they just like clog together. I reached
+      like 505 meeps before my pc almost exploded haha, It has potential for the future
+      but not really the best if you trying to find content as of right now. I'll
+      be checking it in a few months.
+    steam_purchase: true
+    timestamp_created: 1606685768
+    timestamp_updated: 1606685768
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.540389955043792725'
+    written_during_early_access: true
+  success: 1

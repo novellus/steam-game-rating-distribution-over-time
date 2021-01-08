@@ -1,0 +1,216 @@
+details:
+  data:
+    about_the_game: "<strong>Event system</strong><br>\xB7Random events<br>Every time\
+      \ a new day comes, some random events will be triggered, requiring players to\
+      \ make decisions. For example, if you are sick, is it allowed to rest? If you\
+      \ choose yes, you cannot go to the mission today. Choosing otherwise will increase\
+      \ the character's dissatisfaction value.<br>\xB7Plot events<br>Some plot events\
+      \ will be triggered based on the player's behavior and the content of the missions\
+      \ performed. This type of event will have many additional branch options that\
+      \ last for several days, and different options will bring different results\
+      \ (rewards).<br><strong>Mission system</strong><br>\xB7main mission<br>Every\
+      \ time a new day comes, a mission will be drawn from the main mission pool to\
+      \ the player. Players need to complete the main mission to advance the game\
+      \ progress.<br>\xB7Rare mission<br>Rare missions are uncommon and missions that\
+      \ require specific conditions to obtain. For example, you need to make specific\
+      \ event choices; have a designated role; obtain specific props, etc. Rare missions\
+      \ will give special rewards and achievements.<br><strong>Recruitment system</strong><br>\xB7\
+      After coming to a new day or using recruitment items, you can recruit different\
+      \ characters. Each character has a unique ability and personality.<br><strong>Building\
+      \ and technology system</strong><br>\xB7Players can exchange special resource\
+      \ items for buildings and technologies. These contents will not be lost due\
+      \ to the failure of the game. With the accumulation of the number of games,\
+      \ players can continuously unlock new contents and mechanisms to assist in the\
+      \ progress of the game, and at the same time compensate the players for Frustration\
+      \ after failure.<br><strong>Character system</strong><br>\xB7Different characters\
+      \ have different personalities, which will have a certain impact on the game.\
+      \ For example, some characters are prone to get angry, generate extra dissatisfaction\
+      \ points, and finally trigger frequent resignation events.<br><strong>Small\
+      \ game system</strong><br>\xB7Built-in various mini-games, when some special\
+      \ events are triggered, players will be required to complete a set of randomly\
+      \ generated number weaving challenges, and will receive additional rewards after\
+      \ completion.<br><strong>Combat system</strong><br>\xB7The battle adopts a turn-based\
+      \ war chess mode. Compared with traditional war chess, it simplifies many operational\
+      \ logics, greatly speeds up the rhythm and unnecessary decision-making thinking,\
+      \ and basically achieves the goal of being easy to learn and difficult to master.<br><i>Special\
+      \ skill release mechanism</i><br>The release of skills is based on a set of\
+      \ rune extraction mechanism. Each round the player will extract a certain number\
+      \ of runes from the rune library. The skills that can be released by the character\
+      \ will be determined by the type of rune extracted. The content of the rune\
+      \ library is composed of the types of characters in the team.<br>This mechanism\
+      \ can ensure that teams composed of different characters will have different\
+      \ characteristics, and the same character will produce different effects in\
+      \ different teams. In each round of the battle at the same time, players will\
+      \ have different expectations of what they can release in the next round. In\
+      \ order to avoid the boring feeling that the traditional war chess is just a\
+      \ simple comparison of values \u200B\u200Bin the late stage.<br><i> Choose one\
+      \ of three rewards/upgrade system</i><br>\xB7 Players can choose one of three\
+      \ rewards/talents when they win and upgrade their characters.<br>The design\
+      \ here uses a standard Rougelike mechanism to ensure that each game will have\
+      \ a different experience and freshness.<br><i>Random map system</i><br>Currently,\
+      \ a random map generation system is designed based on the wave function collapse\
+      \ algorithm to ensure that players can explore different map routes every time\
+      \ they set off."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1309490/page_bg_generated_v6b.jpg?t=1606826976
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong>Event system</strong><br>\xB7Random events<br>Every\
+      \ time a new day comes, some random events will be triggered, requiring players\
+      \ to make decisions. For example, if you are sick, is it allowed to rest? If\
+      \ you choose yes, you cannot go to the mission today. Choosing otherwise will\
+      \ increase the character's dissatisfaction value.<br>\xB7Plot events<br>Some\
+      \ plot events will be triggered based on the player's behavior and the content\
+      \ of the missions performed. This type of event will have many additional branch\
+      \ options that last for several days, and different options will bring different\
+      \ results (rewards).<br><strong>Mission system</strong><br>\xB7main mission<br>Every\
+      \ time a new day comes, a mission will be drawn from the main mission pool to\
+      \ the player. Players need to complete the main mission to advance the game\
+      \ progress.<br>\xB7Rare mission<br>Rare missions are uncommon and missions that\
+      \ require specific conditions to obtain. For example, you need to make specific\
+      \ event choices; have a designated role; obtain specific props, etc. Rare missions\
+      \ will give special rewards and achievements.<br><strong>Recruitment system</strong><br>\xB7\
+      After coming to a new day or using recruitment items, you can recruit different\
+      \ characters. Each character has a unique ability and personality.<br><strong>Building\
+      \ and technology system</strong><br>\xB7Players can exchange special resource\
+      \ items for buildings and technologies. These contents will not be lost due\
+      \ to the failure of the game. With the accumulation of the number of games,\
+      \ players can continuously unlock new contents and mechanisms to assist in the\
+      \ progress of the game, and at the same time compensate the players for Frustration\
+      \ after failure.<br><strong>Character system</strong><br>\xB7Different characters\
+      \ have different personalities, which will have a certain impact on the game.\
+      \ For example, some characters are prone to get angry, generate extra dissatisfaction\
+      \ points, and finally trigger frequent resignation events.<br><strong>Small\
+      \ game system</strong><br>\xB7Built-in various mini-games, when some special\
+      \ events are triggered, players will be required to complete a set of randomly\
+      \ generated number weaving challenges, and will receive additional rewards after\
+      \ completion.<br><strong>Combat system</strong><br>\xB7The battle adopts a turn-based\
+      \ war chess mode. Compared with traditional war chess, it simplifies many operational\
+      \ logics, greatly speeds up the rhythm and unnecessary decision-making thinking,\
+      \ and basically achieves the goal of being easy to learn and difficult to master.<br><i>Special\
+      \ skill release mechanism</i><br>The release of skills is based on a set of\
+      \ rune extraction mechanism. Each round the player will extract a certain number\
+      \ of runes from the rune library. The skills that can be released by the character\
+      \ will be determined by the type of rune extracted. The content of the rune\
+      \ library is composed of the types of characters in the team.<br>This mechanism\
+      \ can ensure that teams composed of different characters will have different\
+      \ characteristics, and the same character will produce different effects in\
+      \ different teams. In each round of the battle at the same time, players will\
+      \ have different expectations of what they can release in the next round. In\
+      \ order to avoid the boring feeling that the traditional war chess is just a\
+      \ simple comparison of values \u200B\u200Bin the late stage.<br><i> Choose one\
+      \ of three rewards/upgrade system</i><br>\xB7 Players can choose one of three\
+      \ rewards/talents when they win and upgrade their characters.<br>The design\
+      \ here uses a standard Rougelike mechanism to ensure that each game will have\
+      \ a different experience and freshness.<br><i>Random map system</i><br>Currently,\
+      \ a random map generation system is designed based on the wave function collapse\
+      \ algorithm to ensure that players can explore different map routes every time\
+      \ they set off."
+    developers:
+    - ZhangZhu(Hangzhou) Cultural and Creative Co., Ltd.
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1309490/header.jpg?t=1606826976
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256811038
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256811038/movie480.mp4?t=1606826962
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256811038/movie_max.mp4?t=1606826962
+      name: '20201125'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256811038/movie.293x165.jpg?t=1606826962
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256811038/movie480_vp9.webm?t=1606826962
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256811038/movie_max_vp9.webm?t=1606826962
+    name: "\u56E2\u957F\u522B\u751F\u6C14\uFF08Yes Sir\uFF01\uFF09"
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows  7,
+        8/8.1, 10<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> 1024 mb Video Memory, capable
+        of OpenGL 2.0+ support<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        256 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows  7,
+        8/8.1, 10<br></li><li><strong>Processor:</strong> 3.0 Ghz<br></li><li><strong>Memory:</strong>
+        16 GB RAM<br></li><li><strong>Graphics:</strong> 2048 mb Video Memory, capable
+        of OpenGL 2.0+ support<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        512 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ' ZhangZhu(Hangzhou) Cultural and Creative Co., Ltd.'
+    release_date:
+      coming_soon: true
+      date: "\u5C71\u65E0\u68F1\u5929\u5730\u5408"
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_ed8287dfdcb81dcbdc8230459d7119cb1c629a90.1920x1080.jpg?t=1606826976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_ed8287dfdcb81dcbdc8230459d7119cb1c629a90.600x338.jpg?t=1606826976
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_66d9d3a610a1f6d3ff7732ea261e66b3d71b6560.1920x1080.jpg?t=1606826976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_66d9d3a610a1f6d3ff7732ea261e66b3d71b6560.600x338.jpg?t=1606826976
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_1a8a18de6095f941c7cf53d174cb35fd8dd470c8.1920x1080.jpg?t=1606826976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_1a8a18de6095f941c7cf53d174cb35fd8dd470c8.600x338.jpg?t=1606826976
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_1627068344d1dbaaedfbdc7930cedacb76f84a6f.1920x1080.jpg?t=1606826976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_1627068344d1dbaaedfbdc7930cedacb76f84a6f.600x338.jpg?t=1606826976
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_7bf8e9d55c7f83a9dc1e01ecebd92dc22bd6b7fa.1920x1080.jpg?t=1606826976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1309490/ss_7bf8e9d55c7f83a9dc1e01ecebd92dc22bd6b7fa.600x338.jpg?t=1606826976
+    short_description: "&quot;\u56E2\u957F\u522B\u751F\u6C14\uFF08Yes Sir\uFF01\uFF09\
+      &quot;, is a rougilike war chess game that breaks the convention, full of strategy\
+      \ and random elements. In the game, players can recruit members with distinctive\
+      \ personalities, to challenge powerful enemies and explore the secrets of this\
+      \ world. Take care of youer team members."
+    steam_appid: 1309490
+    support_info:
+      email: 3105336@qq.com
+      url: https://weibo.com/u/5970207796?refer_flag=1005055010_
+    supported_languages: Simplified Chinese, English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

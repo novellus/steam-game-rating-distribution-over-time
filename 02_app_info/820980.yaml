@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: "Available in English only. Grab the EARTHLOCK Origins Comic Book:\
+      \ The Clay Orchid &amp; The Stormdog. <br />\r\nThe first comic book in the\
+      \ EARTHLOCK universe which gives you a unique and personal look into the backstories\
+      \ of Amon and Ive.<br />\r\n<br />\r\nThe comic book can be accessed by selecting\
+      \ the new title menu option, &quot;Comic Book&quot; after the installation is\
+      \ complete."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/820980/page_bg_generated_v6b.jpg?t=1527155823
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Available in English only. Grab the EARTHLOCK Origins Comic\
+      \ Book: The Clay Orchid &amp; The Stormdog. <br />\r\nThe first comic book in\
+      \ the EARTHLOCK universe which gives you a unique and personal look into the\
+      \ backstories of Amon and Ive.<br />\r\n<br />\r\nThe comic book can be accessed\
+      \ by selecting the new title menu option, &quot;Comic Book&quot; after the installation\
+      \ is complete."
+    developers:
+    - Snowcastle Games
+    fullgame:
+      appid: '761030'
+      name: EARTHLOCK
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/820980/header.jpg?t=1527155823
+    is_free: false
+    legal_notice: "Earthlock\xAE is a registered trademark with Snowcastle Games.\
+      \ All other content is Copyright 2014-2017 Snowcastle Games - All rights reserved"
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.6 or newer<br></li><li><strong>Processor:</strong> x86 Dual Core 2.4
+        GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2+ GPU with 1GB of memory<br></li><li><strong>Storage:</strong> 4
+        MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.6 or newer<br></li><li><strong>Processor:</strong> x86 Quad Core 3.4GHz
+        or greater<br></li><li><strong>Memory:</strong> 6 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2+ GPU with 2GB of memory<br></li><li><strong>Storage:</strong> 4
+        MB available space</li></ul>
+    name: 'EARTHLOCK - Comic Book #1 - The Storm Dog & The Clay Orchid'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'EARTHLOCK - Comic Book #1 - The Storm Dog & The Clay Orchid
+          - <span class="discount_original_price">$4.99</span> $0.99'
+        packageid: 251741
+        percent_savings: 0
+        percent_savings_text: '-80% '
+        price_in_cents_with_discount: 99
+      title: 'Buy EARTHLOCK - Comic Book #1 - The Storm Dog & The Clay Orchid'
+    packages:
+    - 251741
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or newer<br></li><li><strong>Processor:</strong> x86 Dual Core 2.6
+        GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 10 GPU with 1GB of memory<br></li><li><strong>DirectX:</strong> Version
+        9.0c<br></li><li><strong>Storage:</strong> 4 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or newer<br></li><li><strong>Processor:</strong> x86 Quad Core 3.4GHz
+        or greater<br></li><li><strong>Memory:</strong> 6 MB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 11 GPU with 2GB of memory<br></li><li><strong>DirectX:</strong> Version
+        11<br></li><li><strong>Storage:</strong> 4 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 80
+      final: 99
+      final_formatted: $0.99
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Snowcastle Games
+    release_date:
+      coming_soon: false
+      date: May 24, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/820980/ss_3c7e3c65b30fe362e6151eccc4f496df7deccd9a.1920x1080.jpg?t=1527155823
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/820980/ss_3c7e3c65b30fe362e6151eccc4f496df7deccd9a.600x338.jpg?t=1527155823
+    short_description: 'Grab the EARTHLOCK Origins Comic Book: The Clay Orchid &amp;
+      The Stormdog. The first comic book in the EARTHLOCK universe which gives you
+      a unique and personal look into the backstories of Amon and Ive.'
+    steam_appid: 820980
+    support_info:
+      email: support@snowcastle.no
+      url: http://www.earthlockgame.com
+    supported_languages: English
+    type: dlc
+    website: https://www.earthlockgame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

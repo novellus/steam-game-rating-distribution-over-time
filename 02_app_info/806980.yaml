@@ -1,0 +1,68 @@
+details:
+  data:
+    about_the_game: DJ Mole Demo
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: DJ Mole Demo
+    developers:
+    - LittleAngel Studio
+    fullgame:
+      appid: '806880'
+      name: DJ Mole
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/806980/header.jpg?t=1520528519
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: DJ Mole Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL Compatible
+        Video card<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - OtakuMaker SARL
+    release_date:
+      coming_soon: false
+      date: Mar 8, 2018
+    required_age: 0
+    short_description: DJ Mole Demo
+    steam_appid: 806980
+    support_info:
+      email: steam@otakumaker.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

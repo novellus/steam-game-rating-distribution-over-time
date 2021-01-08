@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: "Ace of Seafood - Original Soundtrack by DEKU<br />\r\n13 tracks\
+      \ total."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/532730/page_bg_generated_v6b.jpg?t=1592204869
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Ace of Seafood - Original Soundtrack by DEKU<br />\r\n\
+      13 tracks total."
+    developers:
+    - Calappa Games
+    fullgame:
+      appid: '450500'
+      name: Ace of Seafood
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/532730/header.jpg?t=1592204869
+    is_free: false
+    legal_notice: "\xA9 Calappa Games. Licensed to and published by Active Gaming\
+      \ Media, Inc."
+    linux_requirements: []
+    mac_requirements: []
+    name: Ace of Seafood - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ace of Seafood - Original Soundtrack - $4.99
+        packageid: 128835
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Ace of Seafood - Original Soundtrack
+    packages:
+    - 128835
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - PLAYISM
+    release_date:
+      coming_soon: false
+      date: Nov 7, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/532730/ss_e1893ee97f4b3b4216f9e707af922370a86d5a69.1920x1080.jpg?t=1592204869
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/532730/ss_e1893ee97f4b3b4216f9e707af922370a86d5a69.600x338.jpg?t=1592204869
+    short_description: Ace of Seafood - Original Soundtrack. 13 tracks total.
+    steam_appid: 532730
+    support_info:
+      email: support@playism.jp
+      url: ''
+    supported_languages: English, Japanese
+    type: music
+    website: http://www.neoaq.net/
+  success: true
+reviews:
+  cursor: AoJwn9y1nfACfuTt8QE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 183
+      num_reviews: 17
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198132816702'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '63401550'
+    review: very
+    steam_purchase: true
+    timestamp_created: 1581535126
+    timestamp_updated: 1581535126
+    voted_up: true
+    votes_funny: 3
+    votes_up: 4
+    weighted_vote_score: '0.583333313465118408'
+    written_during_early_access: false
+  success: 1

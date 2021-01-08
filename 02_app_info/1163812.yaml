@@ -1,0 +1,118 @@
+details:
+  data:
+    about_the_game: "The highest level of difficulty. With out any level saves.<br\
+      \ />\r\nTest yourself for durability. If you die, you will start from the beginning."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1163812/page_bg_generated_v6b.jpg?t=1584268478
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The highest level of difficulty. With out any level saves.<br\
+      \ />\r\nTest yourself for durability. If you die, you will start from the beginning."
+    developers:
+    - SergioPoverony
+    fullgame:
+      appid: '1064990'
+      name: Thunder Paw
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1163812/header.jpg?t=1584268478
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Thunder Paw - hardy mode
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Very hardy mode - $0.99
+        packageid: 397432
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Thunder Paw - hardy mode
+    packages:
+    - 397432
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Core 2 duo<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 GT / ATI
+        Radeon HD 2600 XT or greater<br></li><li><strong>Storage:</strong> 150 MB
+        available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_d4179a80ca2c1eee744e8673495b271ad59a1788.1920x1080.jpg?t=1584268478
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_d4179a80ca2c1eee744e8673495b271ad59a1788.600x338.jpg?t=1584268478
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_d0bb33b1497d13523f573d929c98a5da53231a73.1920x1080.jpg?t=1584268478
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_d0bb33b1497d13523f573d929c98a5da53231a73.600x338.jpg?t=1584268478
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_f2807b87d8d17afee26e0ff0ba191af4fa386663.1920x1080.jpg?t=1584268478
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_f2807b87d8d17afee26e0ff0ba191af4fa386663.600x338.jpg?t=1584268478
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_b53a96804949fa0d5e44a19274fd9ced3c6fb7a8.1920x1080.jpg?t=1584268478
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_b53a96804949fa0d5e44a19274fd9ced3c6fb7a8.600x338.jpg?t=1584268478
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_7467bc969abc0ad94ae1f854e54ddf6bbfc06fd6.1920x1080.jpg?t=1584268478
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_7467bc969abc0ad94ae1f854e54ddf6bbfc06fd6.600x338.jpg?t=1584268478
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_52446cedc6db9d4af790da374208bfe758de65ef.1920x1080.jpg?t=1584268478
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163812/ss_52446cedc6db9d4af790da374208bfe758de65ef.600x338.jpg?t=1584268478
+    short_description: The highest level of difficulty. With out any level saves.
+      Test yourself for durability. If you die, you will start from the beginning.
+    steam_appid: 1163812
+    support_info:
+      email: sergiopoverony@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Russian,
+      Polish, Portuguese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

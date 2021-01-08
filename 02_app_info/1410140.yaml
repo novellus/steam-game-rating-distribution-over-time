@@ -1,0 +1,144 @@
+details:
+  data:
+    about_the_game: "Load your die in this <strong>dicebuilding roguelike</strong>\
+      \ all about creating and exploiting combos!<br>Each face on your dice can be\
+      \ a unique weapon in your battle to the top.<br><br>Forget being limited by\
+      \ a class type, in <i>Load Roll Die</i> your only limit is what faces you find\
+      \ each time you play. Become a tank by adding shields to your dice, explore\
+      \ wizardry by casting spells and merging faces, become a face stealing rogue,\
+      \ or mix them all together with something else!<br>The die is the limit!<br><br>Earn\
+      \ faces from enemies, shops, and chests you encounter along the way. Add them\
+      \ to your dice set and figure out the best way to play. Each run you encounter\
+      \ different maps, different dice, and different synergies to take down your\
+      \ opponents!<br><br>In <i>Load Roll Die</i> counting on luck isn\u2019t enough\
+      \ -- Loading the dice in your favor is the only way to win."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1410140/page_bg_generated_v6b.jpg?t=1605286741
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Load your die in this <strong>dicebuilding roguelike</strong>\
+      \ all about creating and exploiting combos!<br>Each face on your dice can be\
+      \ a unique weapon in your battle to the top.<br><br>Forget being limited by\
+      \ a class type, in <i>Load Roll Die</i> your only limit is what faces you find\
+      \ each time you play. Become a tank by adding shields to your dice, explore\
+      \ wizardry by casting spells and merging faces, become a face stealing rogue,\
+      \ or mix them all together with something else!<br>The die is the limit!<br><br>Earn\
+      \ faces from enemies, shops, and chests you encounter along the way. Add them\
+      \ to your dice set and figure out the best way to play. Each run you encounter\
+      \ different maps, different dice, and different synergies to take down your\
+      \ opponents!<br><br>In <i>Load Roll Die</i> counting on luck isn\u2019t enough\
+      \ -- Loading the dice in your favor is the only way to win."
+    developers:
+    - ToothPike Games
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1410140/header.jpg?t=1605286741
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04, 18.04 or CentOS 7<br></li><li><strong>Processor:</strong> Run
+        cat /proc/cpuinfo, if you see sse2 you should be good<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities.<br></li><li><strong>Additional Notes:</strong> You
+        may be on your own somewhat, but I do use Linux. The game is still in development
+        so these may change. In reality though it runs on a potato it's a turn based
+        game.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 20 is out isn't it? That's cool<br></li><li><strong>Memory:</strong>
+        4 GB RAM</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        MacOS 10.12+<br></li><li><strong>Processor:</strong> Any Intel Mac. If you
+        bought it in the last 15 years you're fine.<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities.<br></li><li><strong>Additional Notes:</strong> The
+        game is still in development so these may change. In reality though it runs
+        on a potato it's a turn based game.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        The latest version of MacOS probably<br></li><li><strong>Memory:</strong>
+        4 GB RAM</li></ul>
+    movies:
+    - highlight: true
+      id: 256801120
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256801120/movie480.mp4?t=1600788132
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256801120/movie_max.mp4?t=1600788132
+      name: Wishlist Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256801120/movie.293x165.jpg?t=1600788132
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256801120/movie480_vp9.webm?t=1600788132
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256801120/movie_max_vp9.webm?t=1600788132
+    name: Load Roll Die
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> If you're on Windows
+        8 you're fine. If you're on Windows 7 it needs SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities.<br></li><li><strong>Additional Notes:</strong> The
+        game is still in development so these may change. In reality though it runs
+        on a potato it's a turn based game.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Probably Windows 10?<br></li><li><strong>Processor:</strong> You're fine<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Something spicy</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ToothPike Games
+    release_date:
+      coming_soon: true
+      date: when the dice will it to be so.
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_5bd9f32d5fc49814081170f611014595ece4b3d2.1920x1080.jpg?t=1605286741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_5bd9f32d5fc49814081170f611014595ece4b3d2.600x338.jpg?t=1605286741
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_8ad2769ba2a6cc89a74537625b1b815d94425bc8.1920x1080.jpg?t=1605286741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_8ad2769ba2a6cc89a74537625b1b815d94425bc8.600x338.jpg?t=1605286741
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_6244354f58bfb991aa1d54d5e526fd7bb62f6d63.1920x1080.jpg?t=1605286741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_6244354f58bfb991aa1d54d5e526fd7bb62f6d63.600x338.jpg?t=1605286741
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_f872ac279a96fffe02790f22588daee2a03564da.1920x1080.jpg?t=1605286741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_f872ac279a96fffe02790f22588daee2a03564da.600x338.jpg?t=1605286741
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_1e901032401e6dc2bd60ba8318f4f6ca4b6884ee.1920x1080.jpg?t=1605286741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_1e901032401e6dc2bd60ba8318f4f6ca4b6884ee.600x338.jpg?t=1605286741
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_c57d8d79cf8aa5bfd6c1a1a84f920f034dc3f7c8.1920x1080.jpg?t=1605286741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_c57d8d79cf8aa5bfd6c1a1a84f920f034dc3f7c8.600x338.jpg?t=1605286741
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_0507beea94b1faf7a7d8b1e01a07f3dd702b545d.1920x1080.jpg?t=1605286741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410140/ss_0507beea94b1faf7a7d8b1e01a07f3dd702b545d.600x338.jpg?t=1605286741
+    short_description: Stop, swap and roll your dice in this Roguelite Dice-builder!
+      Steal dice faces from your enemies and use them to create the perfect combo
+      to take down your opponents. Use what you roll to explode things, apply status
+      effects, duplicate dice and destroy your enemies!
+    steam_appid: 1410140
+    support_info:
+      email: help@toothpike.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://toothpike.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

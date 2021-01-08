@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: "This is a Making Of/Digital Art book. It contains commentary\
+      \ on the game's development process, analysis of the game's art assets, photography,\
+      \ as well as early and unused art/designs.<br />\r\n<br />\r\n42 pages<br />\r\
+      \nComes packaged as a PDF, as well as a folder containing each individual page\
+      \ as a .png<br />\r\n<br />\r\nAlso includes a desktop background!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/993181/page_bg_generated_v6b.jpg?t=1546872375
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: 'This digital art book contains depictions of blood and gore, and briefly
+        mentions alcohol and drug use. '
+    detailed_description: "This is a Making Of/Digital Art book. It contains commentary\
+      \ on the game's development process, analysis of the game's art assets, photography,\
+      \ as well as early and unused art/designs.<br />\r\n<br />\r\n42 pages<br />\r\
+      \nComes packaged as a PDF, as well as a folder containing each individual page\
+      \ as a .png<br />\r\n<br />\r\nAlso includes a desktop background!"
+    developers:
+    - games by lum
+    fullgame:
+      appid: '993170'
+      name: THE DEVIL HAUNTS ME
+    genres:
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/993181/header.jpg?t=1546872375
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: THE DEVIL HAUNTS ME - Making Of/Art Book
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: THE DEVIL HAUNTS ME - Making Of/Art Book - $4.99
+        packageid: 327377
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy THE DEVIL HAUNTS ME - Making Of/Art Book
+    packages:
+    - 327377
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        58 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - games by lum
+    release_date:
+      coming_soon: false
+      date: Jan 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/993181/ss_bd8016e23d0064007a9e8b83808f7d6800a64f69.1920x1080.jpg?t=1546872375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/993181/ss_bd8016e23d0064007a9e8b83808f7d6800a64f69.600x338.jpg?t=1546872375
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/993181/ss_bc87ce520c52dc259e63904b0685694dfaa036de.1920x1080.jpg?t=1546872375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/993181/ss_bc87ce520c52dc259e63904b0685694dfaa036de.600x338.jpg?t=1546872375
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/993181/ss_1b689e04be5047d1c03b4dfeb2b5db80293e779e.1920x1080.jpg?t=1546872375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/993181/ss_1b689e04be5047d1c03b4dfeb2b5db80293e779e.600x338.jpg?t=1546872375
+    short_description: Making Of/Digital Art Book
+    steam_appid: 993181
+    support_info:
+      email: gamesbylum@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

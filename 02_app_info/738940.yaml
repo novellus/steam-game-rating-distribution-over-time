@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: "This cute little book is 45 pages of details on the game's creation,\
+      \ character and location development info, guides including collectible items,\
+      \ multiple endings, and multiple scenarios, filled to the brim with character\
+      \ art and screenshots.<br />\r\n<br />\r\nAs a game developer shoving tutorials\
+      \ on YouTube, I thought it might be fun to let y'all in on my thought process.<br\
+      \ />\r\n<br />\r\nThe Guidebook can be located under the game's installation\
+      \ directory under the filename GMEMInfoGuideBook.pdf."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/738940/page_bg_generated_v6b.jpg?t=1508804124
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This cute little book is 45 pages of details on the game's\
+      \ creation, character and location development info, guides including collectible\
+      \ items, multiple endings, and multiple scenarios, filled to the brim with character\
+      \ art and screenshots.<br />\r\n<br />\r\nAs a game developer shoving tutorials\
+      \ on YouTube, I thought it might be fun to let y'all in on my thought process.<br\
+      \ />\r\n<br />\r\nThe Guidebook can be located under the game's installation\
+      \ directory under the filename GMEMInfoGuideBook.pdf."
+    developers:
+    - Echo607
+    fullgame:
+      appid: '725410'
+      name: 'Gaia''s Melody: Echoed Melodies'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/738940/header.jpg?t=1508804124
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Gaia''s Melody: Echoed Melodies - Ultimate Guidebook'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Gaia''s Melody: Echoed Melodies - Ultimate Guidebook - $1.99'
+        packageid: 216194
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Gaia''s Melody: Echoed Melodies - Ultimate Guidebook'
+    packages:
+    - 216194
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> This
+        is a PDF book</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Echo607
+    release_date:
+      coming_soon: false
+      date: Oct 23, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/738940/ss_904c141fa91f1a377e1034275fb3a34310a51aba.1920x1080.jpg?t=1508804124
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/738940/ss_904c141fa91f1a377e1034275fb3a34310a51aba.600x338.jpg?t=1508804124
+    short_description: This cute little book is 45 pages of details on the game's
+      creation, character and location development info, guides including collectible
+      items, multiple endings, and multiple scenarios, filled to the brim with character
+      art and screenshots.
+    steam_appid: 738940
+    support_info:
+      email: ''
+      url: https://bitbucket.org/Echo607/gaias-melody/issues?status=new&amp;status=open
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://echoedgames.com
+  success: true
+reviews:
+  cursor: AoJ41qiE3+MCcOnwoQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 988
+      num_reviews: 24
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198284692845'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '42436240'
+    review: How do you view the guide?
+    steam_purchase: true
+    timestamp_created: 1527902193
+    timestamp_updated: 1527902193
+    voted_up: true
+    votes_funny: 3
+    votes_up: 4
+    weighted_vote_score: '0.56204378604888916'
+    written_during_early_access: false
+  success: 1

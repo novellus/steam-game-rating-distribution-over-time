@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: The Midair Manaborn Game Pass unlocks all of the gameplay unlockables
+      in Midair such as armor types, weapons, packs &amp; augments, and items, <i>FOREVER</i>.
+      If we add new gameplay content, you'll get it immediately. Pay once to unlock
+      all current and future gameplay content.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/853730/page_bg_generated_v6b.jpg?t=1525378173
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Downloadable Content
+      id: 21
+    - description: In-App Purchases
+      id: 35
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Midair Manaborn Game Pass unlocks all of the gameplay
+      unlockables in Midair such as armor types, weapons, packs &amp; augments, and
+      items, <i>FOREVER</i>. If we add new gameplay content, you'll get it immediately.
+      Pay once to unlock all current and future gameplay content.
+    developers:
+    - Archetype Studios
+    fullgame:
+      appid: '439370'
+      name: Midair
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/853730/header.jpg?t=1525378173
+    is_free: false
+    legal_notice: "COPYRIGHT\xA9 2017 ARCHETYPE STUDIOS INC. ALL RIGHTS RESERVED.\
+      \ <br />\r\nMIDAIR is a registered trademark, trademark or service mark of Archetype\
+      \ Studios Inc. and its affiliates."
+    linux_requirements: []
+    mac_requirements: []
+    name: Midair - Manaborn Game Pass
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Midair - Manaborn Game Pass - $19.99
+        packageid: 268109
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Midair - Manaborn Game Pass
+    packages:
+    - 268109
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 64-bit</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1999
+      final_formatted: $19.99
+      initial: 1999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 3, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/853730/ss_e75f1324be507748bc2849419ad84659b2212c5a.1920x1080.jpg?t=1525378173
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/853730/ss_e75f1324be507748bc2849419ad84659b2212c5a.600x338.jpg?t=1525378173
+    short_description: The Midair Manaborn Game Pass unlocks all of the gameplay unlockables
+      in Midair such as armor types, weapons, packs &amp; augments, and items, FOREVER.
+      If we add new gameplay content, you'll get it immediately. Pay once to unlock
+      all current and future gameplay content forever.
+    steam_appid: 853730
+    support_info:
+      email: support@archetypestudios.net
+      url: http://forums.playmidair.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.playmidair.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

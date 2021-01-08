@@ -1,0 +1,202 @@
+details:
+  data:
+    about_the_game: "Tenrow is a grid-based logical puzzle game. <br />\r\nEach level,\
+      \ the player is given a shape created using squares. A number in a square depicts\
+      \ the number of red squares that share a row or a column with it. (including\
+      \ itself) <br />\r\nTaking all these numbers into account, turn the blue squares\
+      \ into red to complete all numbers and win the level.<br />\r\nIncludes 50 levels."
+    achievements:
+      highlighted:
+      - name: Rook
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/449760/f8e66951c980f49f23ee15bfecc832471b13f305.jpg
+      - name: '34'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/449760/cfde52d5e8514263c8e9ec845bfc6a73c592f467.jpg
+      - name: Release Date
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/449760/02517a1750e96d711a6e718ab5b979d74b57598a.jpg
+      - name: Customizer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/449760/5c3e59ccaa39f763c9dae7a22ed555db143c9428.jpg
+      total: 4
+    background: https://steamcdn-a.akamaihd.net/steam/apps/449760/page_bg_generated_v6b.jpg?t=1478260544
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Tenrow is a grid-based logical puzzle game. <br />\r\n\
+      Each level, the player is given a shape created using squares. A number in a\
+      \ square depicts the number of red squares that share a row or a column with\
+      \ it. (including itself) <br />\r\nTaking all these numbers into account, turn\
+      \ the blue squares into red to complete all numbers and win the level.<br />\r\
+      \nIncludes 50 levels."
+    developers:
+    - Cleverweek
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/449760/header.jpg?t=1478260544
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04, Any SteamOS<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or later, Any SteamOS<br></li><li><strong>Memory:</strong> 256
+        MB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.7 Lion<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8 Mountain Lion or later<br></li><li><strong>Memory:</strong> 256 MB
+        RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256662094
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256662094/movie480.mp4?t=1460137360
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256662094/movie_max.mp4?t=1460137360
+      name: Tenrow Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256662094/movie.293x165.jpg?t=1460137360
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256662094/movie480.webm?t=1460137360
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256662094/movie_max.webm?t=1460137360
+    name: Tenrow
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tenrow - $2.99
+        packageid: 96490
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Tenrow
+    packages:
+    - 96490
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        128 MB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later<br></li><li><strong>Processor:</strong> Intel Pentium 4
+        (Prescott) or later<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Cleverweek
+    release_date:
+      coming_soon: false
+      date: Apr 8, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_3c5c112a736afa70350f10f686a9e4f8b86907b6.1920x1080.jpg?t=1478260544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_3c5c112a736afa70350f10f686a9e4f8b86907b6.600x338.jpg?t=1478260544
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_2e1db79080432c31c05a4b3386d0e413220abd35.1920x1080.jpg?t=1478260544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_2e1db79080432c31c05a4b3386d0e413220abd35.600x338.jpg?t=1478260544
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_6472cfae4162a04db612cdd5a8eb48b14bc1a7bf.1920x1080.jpg?t=1478260544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_6472cfae4162a04db612cdd5a8eb48b14bc1a7bf.600x338.jpg?t=1478260544
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_b3da52455f25f103e78ff14939162716f6abcf25.1920x1080.jpg?t=1478260544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_b3da52455f25f103e78ff14939162716f6abcf25.600x338.jpg?t=1478260544
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_da52e370944d124aacab91cc62c577dbc9b72cba.1920x1080.jpg?t=1478260544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_da52e370944d124aacab91cc62c577dbc9b72cba.600x338.jpg?t=1478260544
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_1ccc9ac5c5970704b47ef03782398b1ab93fe2b6.1920x1080.jpg?t=1478260544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/449760/ss_1ccc9ac5c5970704b47ef03782398b1ab93fe2b6.600x338.jpg?t=1478260544
+    short_description: Tenrow is a logic puzzle game. Includes 50 levels.
+    steam_appid: 449760
+    support_info:
+      email: support@cleverweek.com
+      url: http://www.cleverweek.com
+    supported_languages: English
+    type: game
+    website: http://www.cleverweek.com
+  success: true
+reviews:
+  cursor: AoJ4p5b66PMCdLqrmgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 17
+    total_positive: 52
+    total_reviews: 69
+  reviews:
+  - author:
+      last_played: 1596943659
+      num_games_owned: 597
+      num_reviews: 48
+      playtime_at_review: 56
+      playtime_forever: 56
+      playtime_last_two_weeks: 0
+      steamid: '76561197990763278'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '74013604'
+    review: '[h1] Intro [/h1]
+
+      A puzzle game that is that uses deduction, elimination and estimation.
+
+
+      [h1] Pros [/h1]
+
+      - Beginner friendly
+
+      - Short
+
+      - Easy Achievements
+
+      - Nice BGM
+
+      - Nice change in BGM once certain stage level are hit
+
+
+      [b] Cons [/b]
+
+      - Money for time spent isn''t worth to get the game at full price
+
+
+      [h1] Summary [/h1]
+
+      If you want to support the developers, go ahead and get the game. Its better
+      to buy the game on bundle when it is on discount.'
+    steam_purchase: true
+    timestamp_created: 1596954555
+    timestamp_updated: 1596954555
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

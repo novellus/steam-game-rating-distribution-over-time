@@ -1,0 +1,138 @@
+details:
+  data:
+    about_the_game: "Music composed by Nightmargin (Casey Gu) with tracks by Eliza\
+      \ Velasquez and GIRakaCHEEZER<br />\r\n<br />\r\nAlbum art by Nightmargin<br\
+      \ />\r\n<br />\r\nIncludes MP3, FLAC and OGG"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/571210/page_bg_generated_v6b.jpg?t=1586421784
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Music composed by Nightmargin (Casey Gu) with tracks by\
+      \ Eliza Velasquez and GIRakaCHEEZER<br />\r\n<br />\r\nAlbum art by Nightmargin<br\
+      \ />\r\n<br />\r\nIncludes MP3, FLAC and OGG"
+    developers:
+    - Little Cat Feet
+    fullgame:
+      appid: '420530'
+      name: OneShot
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/571210/header.jpg?t=1586421784
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256678579
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256678579/movie480.mp4?t=1581550177
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256678579/movie_max.mp4?t=1581550177
+      name: OneShot OST Preview
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256678579/movie.293x165.jpg?t=1581550177
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256678579/movie480.webm?t=1581550177
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256678579/movie_max.webm?t=1581550177
+    name: OneShot OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: OneShot OST - $5.99
+        packageid: 144987
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy OneShot OST
+    packages:
+    - 144987
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        289 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 368 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Degica
+    release_date:
+      coming_soon: false
+      date: Jan 26, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/571210/ss_e20de3310adf9df90fb00026d25fdc4235f56ce2.1920x1080.jpg?t=1586421784
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/571210/ss_e20de3310adf9df90fb00026d25fdc4235f56ce2.600x338.jpg?t=1586421784
+    short_description: Music composed by Nightmargin (Casey Gu) with tracks by Eliza
+      Velasquez and GIRakaCHEEZER
+    steam_appid: 571210
+    support_info:
+      email: games@degica.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: http://www.oneshot-game.com/
+  success: true
+reviews:
+  cursor: AoJwyZOTlfQCfIntnQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 0
+    total_positive: 57
+    total_reviews: 57
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 36
+      num_reviews: 9
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198309186940'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '74934428'
+    review: soundtrack
+    steam_purchase: true
+    timestamp_created: 1598437498
+    timestamp_updated: 1598437498
+    voted_up: true
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

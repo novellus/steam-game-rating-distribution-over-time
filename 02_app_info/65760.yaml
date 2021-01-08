@@ -1,0 +1,52 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Centauri Production
+    fullgame:
+      appid: '33980'
+      name: Pound of Ground
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/65760/header.jpg?t=1521642719
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Pound of Ground Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Bohemia Interactive
+    release_date:
+      coming_soon: false
+      date: Apr 21, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 65760
+    support_info:
+      email: support@bohemia.net
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

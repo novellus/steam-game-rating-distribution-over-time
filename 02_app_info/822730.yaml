@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: "Dead Shot Heroes is an FPS MOBA style game designed for VR but\
+      \ compatible with non-VR. <br />\r\nIn the game are two teams that try to push\
+      \ forward through enemy lines and destroy the enemy base. It is up to you to\
+      \ help your team.<br />\r\nGain experience and money to improve your character\
+      \ and unlock new skills.<br />\r\nCollect bonuses to earn more health or ammunition.<br\
+      \ />\r\nPrecise aiming and speed will decide who will be the best.<br />\r\n\
+      This game supports VR and non VR so you can play with your friends that don't\
+      \ have any VR headset.<br />\r\n<br />\r\nDemo Limitations:<br />\r\n- Player\
+      \ doesn't gain levels which means only one special ability.<br />\r\n- Much\
+      \ smaller map<br />\r\n- No Global teleport<br />\r\n- Multiplayer is limited\
+      \ to 20 concurrent users"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/822730/page_bg_generated_v6b.jpg?t=1522317329
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Dead Shot Heroes is an FPS MOBA style game designed for\
+      \ VR but compatible with non-VR. <br />\r\nIn the game are two teams that try\
+      \ to push forward through enemy lines and destroy the enemy base. It is up to\
+      \ you to help your team.<br />\r\nGain experience and money to improve your\
+      \ character and unlock new skills.<br />\r\nCollect bonuses to earn more health\
+      \ or ammunition.<br />\r\nPrecise aiming and speed will decide who will be the\
+      \ best.<br />\r\nThis game supports VR and non VR so you can play with your\
+      \ friends that don't have any VR headset.<br />\r\n<br />\r\nDemo Limitations:<br\
+      \ />\r\n- Player doesn't gain levels which means only one special ability.<br\
+      \ />\r\n- Much smaller map<br />\r\n- No Global teleport<br />\r\n- Multiplayer\
+      \ is limited to 20 concurrent users"
+    developers:
+    - Martin Kutlak
+    fullgame:
+      appid: '820480'
+      name: Warriors Of Titus
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/822730/header.jpg?t=1522317329
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Dead Shot Heroes Demo
+    package_groups: []
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win 10<br></li><li><strong>Processor:</strong> CPU: Intel i5-4590, AMD FX
+        8350 equivalent or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 1060/970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>'
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Martin Kutlak
+    release_date:
+      coming_soon: false
+      date: Mar 29, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_4b863ad088d3145d9083df318401f6238e39597a.1920x1080.jpg?t=1522317329
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_4b863ad088d3145d9083df318401f6238e39597a.600x338.jpg?t=1522317329
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_e4c6b00bbb3c335bfccd4b10a4205250c7c38fd4.1920x1080.jpg?t=1522317329
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_e4c6b00bbb3c335bfccd4b10a4205250c7c38fd4.600x338.jpg?t=1522317329
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_04696379372e85b90d9d11f8882b5580ae92ccbf.1920x1080.jpg?t=1522317329
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_04696379372e85b90d9d11f8882b5580ae92ccbf.600x338.jpg?t=1522317329
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_80e7707567ad50f49103c469ba4d46b9063e3f6e.1920x1080.jpg?t=1522317329
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_80e7707567ad50f49103c469ba4d46b9063e3f6e.600x338.jpg?t=1522317329
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_91ce9760601162e0259fb498916d77159ccf5838.1920x1080.jpg?t=1522317329
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/822730/ss_91ce9760601162e0259fb498916d77159ccf5838.600x338.jpg?t=1522317329
+    short_description: multiplayer online battle arena ( MOBA ) style game from first
+      person view designed for VR compatible with non-VR
+    steam_appid: 822730
+    support_info:
+      email: martin.kutlak@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

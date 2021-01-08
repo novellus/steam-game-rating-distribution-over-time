@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: "\u8BBE\u5B9A\u96C6\u4E3APDF\u683C\u5F0F\u7684\u6587\u4EF6\uFF0C\
+      \u5305\u542B\u4E86\u4EBA\u7269\u4ECB\u7ECD\u3001\u6E38\u620FCG\u3001\u6E38\u620F\
+      \u7684\u756A\u5916\u5C0F\u6545\u4E8B\u4EE5\u53CA\u6E38\u620F\u4E2D\u4EBA\u58F0\
+      \u66F2\u300A\u9082\u9005\u300B\u7684\u5B8C\u6574\u7248\u6B4C\u8BCD\u3002<br\
+      \ />\r\n\u539F\u58F0\u96C6\u5305\u542B\u4EBA\u58F0\u66F2\u300A\u9082\u9005\u300B\
+      \u53CA\u6E38\u620F\u4E2D\u51FA\u73B0\u7684\u6240\u6709BGM\uFF0C\u5C06\u4EE5\
+      MP3\u548CFLAC\u6587\u4EF6\u7684\u5F62\u5F0F\u4E0B\u8F7D\u3002"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1266010/page_bg_generated_v6b.jpg?t=1595325624
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u8BBE\u5B9A\u96C6\u4E3APDF\u683C\u5F0F\u7684\u6587\u4EF6\
+      \uFF0C\u5305\u542B\u4E86\u4EBA\u7269\u4ECB\u7ECD\u3001\u6E38\u620FCG\u3001\u6E38\
+      \u620F\u7684\u756A\u5916\u5C0F\u6545\u4E8B\u4EE5\u53CA\u6E38\u620F\u4E2D\u4EBA\
+      \u58F0\u66F2\u300A\u9082\u9005\u300B\u7684\u5B8C\u6574\u7248\u6B4C\u8BCD\u3002\
+      <br />\r\n\u539F\u58F0\u96C6\u5305\u542B\u4EBA\u58F0\u66F2\u300A\u9082\u9005\
+      \u300B\u53CA\u6E38\u620F\u4E2D\u51FA\u73B0\u7684\u6240\u6709BGM\uFF0C\u5C06\u4EE5\
+      MP3\u548CFLAC\u6587\u4EF6\u7684\u5F62\u5F0F\u4E0B\u8F7D\u3002"
+    developers:
+    - Catnip
+    fullgame:
+      appid: '1238520'
+      name: Dandelions in the Sky
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1266010/header.jpg?t=1595325624
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Dandelions in the Sky OST + Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dandelions in the Sky OST + Artbook - $1.99
+        packageid: 440292
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Dandelions in the Sky OST + Artbook
+    packages:
+    - 440292
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        85 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 150 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Catnip
+    release_date:
+      coming_soon: false
+      date: Jul 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1266010/ss_275ca84b1d484b79a338f7c8e35c802c8c5ac8a6.1920x1080.jpg?t=1595325624
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1266010/ss_275ca84b1d484b79a338f7c8e35c802c8c5ac8a6.600x338.jpg?t=1595325624
+    short_description: "\u672C\u54C1\u5305\u542B\u4E86\u300A\u590F\u7A7A\u7684\u84B2\
+      \u516C\u82F1\u300B\u7684\u97F3\u4E50\u96C6\u4E0E\u8BBE\u5B9A\u96C6\u3002"
+    steam_appid: 1266010
+    support_info:
+      email: wutong@cngal.org
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4kNKW7vQCeLT2pAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 36
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198127128665'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '76788552'
+    review: "To Encounter (\u9082\u9005)<<\u8AB0\u6709\u6B4C\u8A5E\u5462\uFF1F\u627E\
+      \u4E0D\u8457"
+    steam_purchase: true
+    timestamp_created: 1601424757
+    timestamp_updated: 1601424757
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

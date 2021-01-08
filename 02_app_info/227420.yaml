@@ -1,0 +1,100 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      total: 0
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Black Forest Games
+    fullgame:
+      appid: '223220'
+      name: 'Giana Sisters: Twisted Dreams'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/227420/header.jpg?t=1592558166
+    is_free: true
+    legal_notice: "Giana Sisters: Twisted Dreams\" \xA9 2012 Black Forest Games GmbH.\
+      \ All rights reserved. Powered by Havok(tm) \xA9 1999-2012 by Havok.com, Inc.\
+      \ (and its Licensors). All Rights Reserved.  See www.havok.com for details.\
+      \ Uses Scaleform GFx \xA9 2012 Autodesk Inc. All rights reserved. Microsoft,\
+      \ Xbox 360 Controller and the Xbox logos are trademarks of the Microsoft group\
+      \ of companies and are used under license from Microsoft. All trademarks are\
+      \ the property of their respective owners. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 77
+    name: 'Giana Sisters: Twisted Dreams Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong> Minimum</strong> (or Recommended)<br><ul class=\"bb_ul\"\
+        ><li><strong>OS:</strong> Windows XP<br>                </li><li><strong>Processor:</strong>\
+        \ Intel Core 2 Duo @ 2.8 GHz / AMD Athlon II X2 @ 2.8 GHz<br>            \
+        \    </li><li><strong>Memory:</strong> 2 GB RAM<br>                </li><li><strong>Hard\
+        \ Disk Space:</strong> 3.3 GB               <br>                </li><li><strong>Video\
+        \ Card:</strong> SM3.0 DX9.0c level hardware (Nvidia GeForce 6800, ATI X1800\
+        \ XT or higher)<br>                </li><li><strong>DirectX\xAE:</strong>\
+        \ 9<br>                </li><li><strong>Additional:</strong> Keyboard</li></ul>"
+      recommended: "<strong> Recommended</strong> <br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows Vista / Windows 7<br>                </li><li><strong>Processor:</strong>\
+        \ Intel Core i5 @ 2.66 GHz / AMD Phenom II X4 @ 3.0 GHz (or any Dual Core\
+        \ CPU)<br>                </li><li><strong>Memory:</strong> 3 GB RAM<br> \
+        \               </li><li><strong>Hard Disk Space:</strong> 3.3 GB        \
+        \         <br>                </li><li><strong>Video Card:</strong> Nvidia\
+        \ GeForce GTX 280, ATI HD 4800 or higher<br></li><li><strong>DirectX\xAE:</strong>\
+        \ 10<br>                              </li><li><strong>Peripherals Supported:</strong>\
+        \  Windows-compatible keyboard, mouse, optional controller (Xbox 360\xAE Controller\
+        \ for Windows recommended)</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - HandyGames
+    - Black Forest Games
+    release_date:
+      coming_soon: false
+      date: Dec 11, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 227420
+    support_info:
+      email: support@bfgames.biz
+      url: ''
+    supported_languages: English, German, French, Italian, Spanish - Spain
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

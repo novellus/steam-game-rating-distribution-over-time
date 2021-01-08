@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: Unlocks optional 18+ Adult Only Content for Re;Lord 1.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/990830/page_bg_generated_v6b.jpg?t=1580430969
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids:
+      - 1
+      - 3
+      - 5
+      notes: All characters engaging in sexual activities are over the age of 18.
+        Game contains non-consensual sexual scenes with mosaic with the male protagonist
+        and other female characters. Female characters are subject to their clothes
+        being ripped off during battle sequences.
+    detailed_description: Unlocks optional 18+ Adult Only Content for Re;Lord 1.
+    developers:
+    - Escu:de/Element
+    fullgame:
+      appid: '788050'
+      name: Re;Lord 1 ~The witch of Herfort and stuffed animals~
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/990830/header.jpg?t=1580430969
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Re;Lord 1 - 18+ Adult Only Content
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Re;Lord 1 - 18+ Adult Only Content - $9.99
+        packageid: 326498
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Re;Lord 1 - 18+ Adult Only Content
+    packages:
+    - 326498
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        228 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Denpasoft
+    release_date:
+      coming_soon: false
+      date: Dec 17, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/990830/ss_cc943110988853d6c28403d662dec3d9f3f47f77.1920x1080.jpg?t=1580430969
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/990830/ss_cc943110988853d6c28403d662dec3d9f3f47f77.600x338.jpg?t=1580430969
+    short_description: Unlocks optional 18+ Adult Only Content for Re;Lord 1.
+    steam_appid: 990830
+    support_info:
+      email: ''
+      url: https://denpasoft.com/contact/
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: This DLC is a donation intended for those who wish to provide
+      additional support to the developer of Snail Trek. It contains no gameplay changes
+      or additional content, except:<br><br><ul class="bb_ul"><li> it permits the
+      main character to outfit themselves in moving rainbow colors!<br></li><li> it
+      adds a secret option to the snails' computer thanking the player (who was the
+      first cosmollusconaut) for their patronage.</li></ul><br>You can turn on and
+      off the rainbow suit at any time in the Options dialog.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/842880/page_bg_generated_v6b.jpg?t=1523491098
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC is a donation intended for those who wish to provide
+      additional support to the developer of Snail Trek. It contains no gameplay changes
+      or additional content, except:<br><br><ul class="bb_ul"><li> it permits the
+      main character to outfit themselves in moving rainbow colors!<br></li><li> it
+      adds a secret option to the snails' computer thanking the player (who was the
+      first cosmollusconaut) for their patronage.</li></ul><br>You can turn on and
+      off the rainbow suit at any time in the Options dialog.
+    developers:
+    - Phil Fortier
+    fullgame:
+      appid: '751280'
+      name: 'Snail Trek - Chapter 1: Intershellar'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/842880/header.jpg?t=1523491098
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Snail Trek 1 - Rainbow Donation DLC
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Snail Trek 1 - Rainbow Donation DLC - $1.99
+        packageid: 263302
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Snail Trek 1 - Rainbow Donation DLC
+    packages:
+    - 263302
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 11, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/842880/ss_9e30d5eff2cbd92ca0f6c2fd75ff5d51c9035748.1920x1080.jpg?t=1523491098
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/842880/ss_9e30d5eff2cbd92ca0f6c2fd75ff5d51c9035748.600x338.jpg?t=1523491098
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/842880/ss_4c31f0b7ecb764a7e6adbfe34ed45ed77a3898ea.1920x1080.jpg?t=1523491098
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/842880/ss_4c31f0b7ecb764a7e6adbfe34ed45ed77a3898ea.600x338.jpg?t=1523491098
+    short_description: Support the developer so they can make more games like Snail
+      Trek! And sport a beautiful rainbow skin while you're at it.
+    steam_appid: 842880
+    support_info:
+      email: phil@icefallgames.com
+      url: http://snailtrek.com
+    supported_languages: English
+    type: dlc
+    website: http://snailtrek.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

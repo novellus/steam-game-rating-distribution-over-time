@@ -1,0 +1,97 @@
+details:
+  data:
+    about_the_game: The demo version of Solar Lander gives you the first three levels
+      of the game and will give you a feel for how the game works.  High scores are
+      disabled in the demo.  Feel free to run this demo as often as you want.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/724240/page_bg_generated_v6b.jpg?t=1572302931
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The demo version of Solar Lander gives you the first three
+      levels of the game and will give you a feel for how the game works.  High scores
+      are disabled in the demo.  Feel free to run this demo as often as you want.
+    developers:
+    - TChapman500
+    fullgame:
+      appid: '724170'
+      name: Solar Lander
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/724240/header.jpg?t=1572302931
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Solar Lander Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - TChapman500
+    release_date:
+      coming_soon: false
+      date: Oct 3, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_2947a81b4eb1418ec75ae2e4ececf141f60f43ec.1920x1080.jpg?t=1572302931
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_2947a81b4eb1418ec75ae2e4ececf141f60f43ec.600x338.jpg?t=1572302931
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_df37f2bb0fd64a5368faaab9de696a43aa72d674.1920x1080.jpg?t=1572302931
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_df37f2bb0fd64a5368faaab9de696a43aa72d674.600x338.jpg?t=1572302931
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_d27bd1b6fca6873b7dae44074de72542b6f2eed3.1920x1080.jpg?t=1572302931
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_d27bd1b6fca6873b7dae44074de72542b6f2eed3.600x338.jpg?t=1572302931
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_1dea3f1c01b0e9e54f7e384ec74ebacd14ad3cfa.1920x1080.jpg?t=1572302931
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_1dea3f1c01b0e9e54f7e384ec74ebacd14ad3cfa.600x338.jpg?t=1572302931
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_ec034c850c9f885e7df775a4ac0990ac4eb94f32.1920x1080.jpg?t=1572302931
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/724240/ss_ec034c850c9f885e7df775a4ac0990ac4eb94f32.600x338.jpg?t=1572302931
+    short_description: A basic demo version that allows you to try out the first few
+      levels as often as you want, but without the ability to save your high scores.
+    steam_appid: 724240
+    support_info:
+      email: timothychapman500@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

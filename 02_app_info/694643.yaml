@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '694620'
+      name: Toradora!
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/694643/header.jpg?t=1505520992
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Toradora!: Palm-top Tiger of Happiness'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Toradora!: Palm-top Tiger of Happiness - <span class="discount_original_price">$0.99</span>
+          $0.49'
+        packageid: 199373
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: 'Buy Toradora!: Palm-top Tiger of Happiness'
+    packages:
+    - 199373
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 15, 2017
+    required_age: 0
+    short_description: "A rumor is spread around the high school that anyone who touches\
+      \ Taiga will be granted one wish of happiness, much to Taiga's irritation. When\
+      \ pictures of the cultural festival are displayed for sale, Minori notices Ry\u016B\
+      ji buying a picture of them crossing the finish line holding hands, and she..."
+    steam_appid: 694643
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

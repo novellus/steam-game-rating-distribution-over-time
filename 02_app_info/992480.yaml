@@ -1,0 +1,219 @@
+details:
+  data:
+    about_the_game: Sudoku puzzle - from easy to hardcore... Fully random generation
+      with a choice of field size and difficulty.<br><ul class="bb_ul"><li>Possibility
+      to choose size from 3x3 to 9x9.<br></li><li>The choice of complexity from 1
+      to 9 (a certain analogue of the probability of an empty cell from 10% to 90%).<br></li><li>As
+      the level of complexity increases, several solutions appear.<br></li><li>Since
+      In this version of Sudoku there is a choice of size, the rule of small composite
+      squares 3x3 as part of a full 9x9 does not actual.</li></ul>
+    achievements:
+      highlighted:
+      - name: It was easy
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/87be1940ca94317db6a0ba170768a074a43703f6.jpg
+      - name: 3x3x10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/f4fe0b4b43daf8cec75be31c51373752004c3709.jpg
+      - name: Zzz
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/b3f3a693fce97888dd196dfef3bcb87ef7d9aa9b.jpg
+      - name: 3x3x1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/738e4860d150fdb613c8090502d25093d7def7b7.jpg
+      - name: 4x4x1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/647808f5256f98c269fb4018f5026af7fe773ee3.jpg
+      - name: 5x5x1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/d563540e276afe398a603b99ae5713e50245bc1e.jpg
+      - name: 6x6x1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/63c25e0609756d81ac7236b1e800f0a021c1d31a.jpg
+      - name: 7x7x1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/22544c8a58e3893f97ad2f0877c2f99d378b9563.jpg
+      - name: 8x8x1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/d92c29fb513d7b2657a4ca1f43e752b3875d89bf.jpg
+      - name: 9x9x1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/eebcd4a8691795f3d4f86a5d0d68807844f845ae.jpg
+      total: 23
+    background: https://steamcdn-a.akamaihd.net/steam/apps/992480/page_bg_generated_v6b.jpg?t=1610025345
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1402810
+      description: ''
+    detailed_description: Sudoku puzzle - from easy to hardcore... Fully random generation
+      with a choice of field size and difficulty.<br><ul class="bb_ul"><li>Possibility
+      to choose size from 3x3 to 9x9.<br></li><li>The choice of complexity from 1
+      to 9 (a certain analogue of the probability of an empty cell from 10% to 90%).<br></li><li>As
+      the level of complexity increases, several solutions appear.<br></li><li>Since
+      In this version of Sudoku there is a choice of size, the rule of small composite
+      squares 3x3 as part of a full 9x9 does not actual.</li></ul>
+    developers:
+    - Shmurdik
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/992480/header.jpg?t=1610025345
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256737203
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256737203/movie480.mp4?t=1543924542
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256737203/movie_max.mp4?t=1543924542
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256737203/movie.293x165.jpg?t=1543924542
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256737203/movie480.webm?t=1543924542
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256737203/movie_max.webm?t=1543924542
+    name: Sudoku3D
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sudoku3D - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 327126
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy Sudoku3D
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $0.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$1.99 at checkout,
+          auto-renewed every 1 month(s) at $0.99.</p>
+        option_text: $1.99 for a month, then $0.99 / month
+        packageid: 332888
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Sudoku3D Subscription Plan
+    packages:
+    - 327126
+    - 332888
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        64-bit<br></li><li><strong>Processor:</strong> Intel or AMD processor, 2.5
+        GHz or faster.<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        7/8/10 64-bit<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD
+        processor, 3.0 GHz or faster.<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 680 GTX or Radeon HD 7970 card or higher<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Shmurdik Games
+    release_date:
+      coming_soon: false
+      date: Dec 23, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_c360ecc908c98af24cffc840b62076f3a61144ff.1920x1080.jpg?t=1610025345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_c360ecc908c98af24cffc840b62076f3a61144ff.600x338.jpg?t=1610025345
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_54987d040cf11cae8abdb4d8e727ee2711383a2b.1920x1080.jpg?t=1610025345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_54987d040cf11cae8abdb4d8e727ee2711383a2b.600x338.jpg?t=1610025345
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_527102120f0b333bc820bc647231ced03e20a569.1920x1080.jpg?t=1610025345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_527102120f0b333bc820bc647231ced03e20a569.600x338.jpg?t=1610025345
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_397f4161f280fea89b899e683ac352a241bafa4c.1920x1080.jpg?t=1610025345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_397f4161f280fea89b899e683ac352a241bafa4c.600x338.jpg?t=1610025345
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_d5b9ec9e9dcd332ac54fd4cbd21a919c7f69823d.1920x1080.jpg?t=1610025345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_d5b9ec9e9dcd332ac54fd4cbd21a919c7f69823d.600x338.jpg?t=1610025345
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_43edb8ae81230baff2f2fc56afcfe38991795a3d.1920x1080.jpg?t=1610025345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_43edb8ae81230baff2f2fc56afcfe38991795a3d.600x338.jpg?t=1610025345
+    short_description: Sudoku puzzle - from easy to hardcore... Fully random generation
+      with a choice of field size and difficulty.
+    steam_appid: 992480
+    support_info:
+      email: shmurdikgames@gmail.com
+      url: https://t.me/shmurdikgames
+    supported_languages: English, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ45feDoPUCcarlqAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 2
+    total_positive: 0
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1603097556
+      num_games_owned: 109
+      num_reviews: 95
+      playtime_at_review: 10
+      playtime_forever: 10
+      playtime_last_two_weeks: 0
+      steamid: '76561198277953766'
+    comment_count: 0
+    language: czech
+    received_for_free: false
+    recommendationid: '77802145'
+    review: "Hra je velmi \u0161patn\xE1"
+    steam_purchase: true
+    timestamp_created: 1603097575
+    timestamp_updated: 1603097575
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

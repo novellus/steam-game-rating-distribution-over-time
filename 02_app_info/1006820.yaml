@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: "-------------------------------------------------------------------------<h2\
+      \ class=\"bb_tag\">\u6CE8\u610F\uFF1A</h2><br>\u672CDLC\u4E0D\u5305\u542B\u4EFB\
+      \u4F55\u5B9E\u8D28\u6027\u5185\u5BB9\uFF0C\u4EC5\u4F9B\u73A9\u5BB6\u652F\u6301\
+      \u6253\u8D4F\u4F7F\u7528\uFF0C\u5982\u679C\u60A8\u4E0D\u77E5\u60C5\u6216\u4E0D\
+      \u5C0F\u5FC3\u8D2D\u4E70\u4E86\u8BE5DLC\uFF0C\u53EF\u57282\u4E2A\u81EA\u7136\
+      \u6708\u5185\u7533\u8BF7\u9000\u6B3E<br><br>-------------------------------------------------------------------------"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1006820/page_bg_generated_v6b.jpg?t=1549484496
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "-------------------------------------------------------------------------<h2\
+      \ class=\"bb_tag\">\u6CE8\u610F\uFF1A</h2><br>\u672CDLC\u4E0D\u5305\u542B\u4EFB\
+      \u4F55\u5B9E\u8D28\u6027\u5185\u5BB9\uFF0C\u4EC5\u4F9B\u73A9\u5BB6\u652F\u6301\
+      \u6253\u8D4F\u4F7F\u7528\uFF0C\u5982\u679C\u60A8\u4E0D\u77E5\u60C5\u6216\u4E0D\
+      \u5C0F\u5FC3\u8D2D\u4E70\u4E86\u8BE5DLC\uFF0C\u53EF\u57282\u4E2A\u81EA\u7136\
+      \u6708\u5185\u7533\u8BF7\u9000\u6B3E<br><br>-------------------------------------------------------------------------"
+    developers:
+    - Scorching Castle
+    - Linno
+    fullgame:
+      appid: '975050'
+      name: Orphan of the Petal
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1006820/header.jpg?t=1549484496
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Orphan of the Petal - Reward 1$
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Orphan of the Petal - Reward 1$ - $0.99
+        packageid: 333004
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Orphan of the Petal - Reward 1$
+    packages:
+    - 333004
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win 7 Win 8 Win10<br></li><li><strong>Processor:</strong> Core i3<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080 High Color +<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - 0Cube
+    release_date:
+      coming_soon: false
+      date: Feb 4, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1006820/ss_daba71b13767a156f9514f8ba772b084291c6225.1920x1080.jpg?t=1549484496
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1006820/ss_daba71b13767a156f9514f8ba772b084291c6225.600x338.jpg?t=1549484496
+    short_description: "\u300APetal..."
+    steam_appid: 1006820
+    support_info:
+      email: 1264532114@qq.com
+      url: http://www.0cube.net
+    supported_languages: Simplified Chinese
+    type: dlc
+    website: https://tieba.baidu.com/p/5314925185?pid=111767613952&amp;cid=0&amp;red_tag=3500770659#111767613952
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

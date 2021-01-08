@@ -1,0 +1,110 @@
+details:
+  data:
+    about_the_game: "<strong>A collection of high-resolution digital version Dakimakuras\
+      \ (pillows) for Steam Game \u201CWhite Wings \u30DB\u30EF\u30A4\u30C8\u30A6\u30A3\
+      \u30F3\u30B0\u30B9.\u201D</strong><br><strong>Resolution: 4500\xD77000</strong>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1204160/page_bg_generated_v6b.jpg?t=1595019670
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: The DLC contains pictures of some characters wearing swimwear.
+    detailed_description: "<strong>A collection of high-resolution digital version\
+      \ Dakimakuras (pillows) for Steam Game \u201CWhite Wings \u30DB\u30EF\u30A4\u30C8\
+      \u30A6\u30A3\u30F3\u30B0\u30B9.\u201D</strong><br><strong>Resolution: 4500\xD7\
+      7000</strong>"
+    developers:
+    - "\u682A\u5F0F\u4F1A\u793E Pureworks Co., Ltd"
+    fullgame:
+      appid: '1185680'
+      name: "White Wings \u30DB\u30EF\u30A4\u30C8\u30A6\u30A3\u30F3\u30B0\u30B9"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1204160/header.jpg?t=1595019670
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    name: "White Wings \u30DB\u30EF\u30A4\u30C8\u30A6\u30A3\u30F3\u30B0\u30B9 Dakimakuras\
+      \ DLC"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "White Wings \u30DB\u30EF\u30A4\u30C8\u30A6\u30A3\u30F3\u30B0\
+          \u30B9 Dakimakuras DLC - <span class=\"discount_original_price\">$6.99</span>\
+          \ $2.79"
+        packageid: 415761
+        percent_savings: 0
+        percent_savings_text: '-60% '
+        price_in_cents_with_discount: 279
+      title: "Buy White Wings \u30DB\u30EF\u30A4\u30C8\u30A6\u30A3\u30F3\u30B0\u30B9\
+        \ Dakimakuras DLC"
+    packages:
+    - 415761
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WIN 10/8/7/XP<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 60
+      final: 279
+      final_formatted: $2.79
+      initial: 699
+      initial_formatted: $6.99
+    publishers:
+    - "\u682A\u5F0F\u4F1A\u793E Pureworks Co., Ltd"
+    release_date:
+      coming_soon: false
+      date: Jul 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1204160/ss_1b4a0ab04b10bae7273b16816d28626452452a60.1920x1080.jpg?t=1595019670
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1204160/ss_1b4a0ab04b10bae7273b16816d28626452452a60.600x338.jpg?t=1595019670
+    short_description: "A collection of high-resolution digital version pillows for\
+      \ Steam Game \u201CWhite Wings \u30DB\u30EF\u30A4\u30C8\u30A6\u30A3\u30F3\u30B0\
+      \u30B9."
+    steam_appid: 1204160
+    support_info:
+      email: support@pureworks.jp
+      url: https://www.pureworks.jp/whitewings
+    supported_languages: English
+    type: dlc
+    website: https://www.pureworks.jp/whitewings
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

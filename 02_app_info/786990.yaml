@@ -1,0 +1,210 @@
+details:
+  data:
+    about_the_game: '<strong>SpellKeeper</strong> is a unique logic game filled with
+      dozens of mind-challenging puzzles. Each level in the game contains mysterious
+      elements like Energy Fields and Spells. <br>You have one job: use magic to turn
+      Cocoons into beautiful Butterflies. The level is completed once all the butterflies
+      are free.<br>However, casting spells will get more challenging with your progress.
+      <br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/786990/extras/gate.jpg?t=1572741620"
+      /><br><br>Thinking is the key. Put yourself to the test and complete all the
+      levels to feel great satisfaction.<h2 class="bb_tag">Game Features:</h2><ul
+      class="bb_ul"><li>over 60 challenging puzzles<br></li><li>many fantastic spells
+      to free magic butterflies<br></li><li>beautiful hand-drawn graphics<br></li><li>spectacular
+      special effects<br></li><li>relaxing music</li></ul>'
+    achievements:
+      highlighted:
+      - name: Good Start
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/1289c6fc613e5fed775f63f288fdd125657b6772.jpg
+      - name: First Key
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/d801bbfdf2bfcc43c349b0daeba8853dc94ce57a.jpg
+      - name: Village Keys
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/9dde95ab6a20df13547495c5108675f097b3895e.jpg
+      - name: Garden Keys
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/984b9da9152b7f818439a011d36514cec4a41a41.jpg
+      - name: Castle Keys
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/90129a56f0f2e55ba1b0a1efb07ac2b1a698393c.jpg
+      - name: Tower Keys
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/010c5063ccbf057477c5a9c38503e0ed41683bae.jpg
+      - name: Doorkeeper
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/5769be9dae996d66a1507ec26d2284a06087418c.jpg
+      - name: Good Student
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/dfe6f684232bc23348c76b642d70aa1de5710e07.jpg
+      - name: This is the Garden
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/aaa5ac41bd557e3df81291d667e05c65086e5146.jpg
+      - name: This is the Castle
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/786990/34106f4cbd6953db8419348406393b2c31758d81.jpg
+      total: 25
+    background: https://steamcdn-a.akamaihd.net/steam/apps/786990/page_bg_generated_v6b.jpg?t=1572741620
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong>SpellKeeper</strong> is a unique logic game filled
+      with dozens of mind-challenging puzzles. Each level in the game contains mysterious
+      elements like Energy Fields and Spells. <br>You have one job: use magic to turn
+      Cocoons into beautiful Butterflies. The level is completed once all the butterflies
+      are free.<br>However, casting spells will get more challenging with your progress.
+      <br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/786990/extras/gate.jpg?t=1572741620"
+      /><br><br>Thinking is the key. Put yourself to the test and complete all the
+      levels to feel great satisfaction.<h2 class="bb_tag">Game Features:</h2><ul
+      class="bb_ul"><li>over 60 challenging puzzles<br></li><li>many fantastic spells
+      to free magic butterflies<br></li><li>beautiful hand-drawn graphics<br></li><li>spectacular
+      special effects<br></li><li>relaxing music</li></ul>'
+    developers:
+    - Studio Gier
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/786990/header.jpg?t=1572741620
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.11.6<br></li><li><strong>Processor:</strong> 2,5 Ghz Intel Core i5<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000<br></li><li><strong>Storage:</strong>
+        250 MB available space<br></li><li><strong>Sound Card:</strong> Standard</li></ul>
+    movies:
+    - highlight: true
+      id: 256711843
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256711843/movie480.mp4?t=1521727901
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256711843/movie_max.mp4?t=1521727901
+      name: SpellKeeper PC trailer (EN)
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256711843/movie.293x165.jpg?t=1521727901
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256711843/movie480.webm?t=1521727901
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256711843/movie_max.webm?t=1521727901
+    name: SpellKeeper
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SpellKeeper - $3.99
+        packageid: 237672
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy SpellKeeper
+    packages:
+    - 237672
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP / 7 / 8 / 10<br></li><li><strong>Processor:</strong> Core 2 Duo
+        2.4Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        256MB or better<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        250 MB available space<br></li><li><strong>Sound Card:</strong> Standard</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Silesia Games Sp. z o.o.
+    release_date:
+      coming_soon: false
+      date: Apr 3, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_f2c8ef13409539bad5cc17c692ac858f3a086837.1920x1080.jpg?t=1572741620
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_f2c8ef13409539bad5cc17c692ac858f3a086837.600x338.jpg?t=1572741620
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_879a00f2a79d68f339ccb395603f67fb61a1b806.1920x1080.jpg?t=1572741620
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_879a00f2a79d68f339ccb395603f67fb61a1b806.600x338.jpg?t=1572741620
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_456f1fb048d2820236a9152da4b3322fbb819708.1920x1080.jpg?t=1572741620
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_456f1fb048d2820236a9152da4b3322fbb819708.600x338.jpg?t=1572741620
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_d76fedada069ad4ade5b7be19114e1f4266a4965.1920x1080.jpg?t=1572741620
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_d76fedada069ad4ade5b7be19114e1f4266a4965.600x338.jpg?t=1572741620
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_8117a15b76c8a05386d3ce91fb0c3bb671911511.1920x1080.jpg?t=1572741620
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_8117a15b76c8a05386d3ce91fb0c3bb671911511.600x338.jpg?t=1572741620
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_73287966e2d0f3e38b8e8a18e59541985e5299b1.1920x1080.jpg?t=1572741620
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_73287966e2d0f3e38b8e8a18e59541985e5299b1.600x338.jpg?t=1572741620
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_5e3cea51f847719bbe1404422401bc69ecc5f288.1920x1080.jpg?t=1572741620
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786990/ss_5e3cea51f847719bbe1404422401bc69ecc5f288.600x338.jpg?t=1572741620
+    short_description: SpellKeeper is a unique logic game with dozens of challenging
+      puzzles and beautifully hand-drawn graphics. Take on the role of the Chosen
+      One and save butterflies trapped in magic cocoons. Challenge your brain and
+      free all the butterflies!
+    steam_appid: 786990
+    support_info:
+      email: info@silesiagames.com
+      url: http://www.silesiagames.com
+    supported_languages: English<strong>*</strong>, Polish<strong>*</strong>, Italian,
+      German, Spanish - Spain, Portuguese - Brazil, Russian, Turkish, Ukrainian, Japanese,
+      Korean, Simplified Chinese, French, Dutch<br><strong>*</strong>languages with
+      full audio support
+    type: game
+    website: http://www.silesiagames.com
+  success: true
+reviews:
+  cursor: AoJ4mcvmuPQCcsfboAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 22
+    total_reviews: 23
+  reviews:
+  - author:
+      last_played: 1599633498
+      num_games_owned: 79
+      num_reviews: 52
+      playtime_at_review: 497
+      playtime_forever: 497
+      playtime_last_two_weeks: 0
+      steamid: '76561198120047145'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '75684978'
+    review: "*\uD3C9\uC810 : \u2605\u2605\u2605\u2605\u2606\nSpellKeeper\n\uAC04\uB2E8\
+      \uD558\uAC8C \uC990\uAE38 \uC218 \uC788\uB294 \uAC8C\uC784\uC774\uC790, \uD0AC\
+      \uB9C1\uD0C0\uC784\uC6A9 \uAC8C\uC784.\n\uC2A4\uD14C\uC774\uC9C0 \uAD6C\uC131\
+      \uC774 \uBC29\uB300\uD558\uC9C0 \uC54A\uACE0, \uB531 \uC801\uB2F9\uD55C \uB9CC\
+      \uD07C \uC874\uC7AC\uD558\uBA70 \uB09C\uC774\uB3C4 \uB610\uD55C \uB531 \uC801\
+      \uB2F9\uD558\uB2E4.\n\uD3C9\uC18C\uC5D0 \uD37C\uC990 \uAC8C\uC784\uC744 \uC88B\
+      \uC544\uD558\uB294 \uC0AC\uB78C\uC774\uB77C\uBA74 \uD574\uBCFC\uB9CC\uD55C \uAC8C\
+      \uC784\uC774\uB77C\uACE0 \uC0DD\uAC01\uB41C\uB2E4.\n\uCC38\uACE0\uB85C \uC2A4\
+      \uD1A0\uB9AC \uC694\uC18C\uB294 \uC804\uD600 \uC5C6\uB2E4.\n\uC544\uC774\uB4E4\
+      \ \uAD50\uC721\uC6A9\uC73C\uB85C \uB098\uB984 \uAD1C\uCC2E\uB2E4\uACE0 \uC0DD\
+      \uAC01\uB418\uB294 \uAC8C\uC784 \uC911 \uD558\uB098. \uC751\uC6A9\uB825\uC744\
+      \ \uD0A4\uC6B8 \uC218 \uC788\uB2E4.\n\n*\uADF8 \uC678\n\uD50C\uB808\uC774\uD0C0\
+      \uC784\uC740 \uD55C 3~5\uC2DC\uAC04.\n"
+    steam_purchase: true
+    timestamp_created: 1599633775
+    timestamp_updated: 1599633775
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

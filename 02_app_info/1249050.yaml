@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: 'Deep Despair: Soundtrack is a collection of 21 tracks by Kevin
+      MacLeod. All tracks are in MP3 format.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1249050/page_bg_generated_v6b.jpg?t=1582790616
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Deep Despair: Soundtrack is a collection of 21 tracks by
+      Kevin MacLeod. All tracks are in MP3 format.'
+    developers:
+    - BekkerDev Studio
+    fullgame:
+      appid: '1241040'
+      name: Deep Despair
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1249050/header.jpg?t=1582790616
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Deep Despair: Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Deep Despair Soundtrack - $1.99
+        packageid: 433462
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Deep Despair: Soundtrack'
+    packages:
+    - 433462
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        140 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - BekkerDev Studio
+    release_date:
+      coming_soon: false
+      date: Feb 27, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1249050/ss_e269e29ce2169f3178ccb613ad9f20f81733f177.1920x1080.jpg?t=1582790616
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1249050/ss_e269e29ce2169f3178ccb613ad9f20f81733f177.600x338.jpg?t=1582790616
+    short_description: 'Deep Despair: Soundtrack is a collection of 21 tracks by Kevin
+      MacLeod.'
+    steam_appid: 1249050
+    support_info:
+      email: fadebaker4@gmail.com
+      url: https://vk.com/bekkerdevstudio
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwuIPv//QCdfukpgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 55
+      num_reviews: 11
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199041645789'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77146037'
+    review: Really nice to be honest. Well done !
+    steam_purchase: true
+    timestamp_created: 1602018352
+    timestamp_updated: 1602018352
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

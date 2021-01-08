@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: <strong>Das Geisterschiff Declassified</strong> contains 11 tracks
+      that did not make it into the game and 2 prototype tracks from the early stages
+      of development.<br><br>Available in both MP3 and FLAC (lossless 24bit) formats.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/975261/page_bg_generated_v6b.jpg?t=1583891080
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>Das Geisterschiff Declassified</strong> contains
+      11 tracks that did not make it into the game and 2 prototype tracks from the
+      early stages of development.<br><br>Available in both MP3 and FLAC (lossless
+      24bit) formats.
+    developers:
+    - Graverobber Foundation
+    fullgame:
+      appid: '975230'
+      name: Das Geisterschiff / The Ghost Ship
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/975261/header.jpg?t=1583891080
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    name: Das Geisterschiff Declassified
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Das Geisterschiff Declassified - $2.99
+        packageid: 320112
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Das Geisterschiff Declassified
+    packages:
+    - 320112
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Storage:</strong> 80 MB available space<br></li><li><strong>Storage
+        (high-quality audio):</strong> Additional 370 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Graverobber Foundation
+    release_date:
+      coming_soon: false
+      date: Nov 26, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/975261/ss_6750252e1893a4fb61d2a600ccc041438b973749.1920x1080.jpg?t=1583891080
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/975261/ss_6750252e1893a4fb61d2a600ccc041438b973749.600x338.jpg?t=1583891080
+    short_description: Unreleased music from Das Geisterschiff.
+    steam_appid: 975261
+    support_info:
+      email: surt.romanus@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

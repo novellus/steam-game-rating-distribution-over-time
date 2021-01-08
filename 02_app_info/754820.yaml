@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: Soundtrack for ebi-hime's Six Days of Snow, composed by yuzuki.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/754820/page_bg_generated_v6b.jpg?t=1581628427
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack for ebi-hime's Six Days of Snow, composed by
+      yuzuki.
+    developers:
+    - ebi-hime
+    fullgame:
+      appid: '754810'
+      name: Six Days of Snow
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/754820/header.jpg?t=1581628427
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Six Days of Snow - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Six Days of Snow - OST - <span class="discount_original_price">$0.99</span>
+          $0.74
+        packageid: 222498
+        percent_savings: 0
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 74
+      title: Buy Six Days of Snow - OST
+    packages:
+    - 222498
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        90 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 25
+      final: 74
+      final_formatted: $0.74
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - ebi-hime
+    release_date:
+      coming_soon: false
+      date: Dec 29, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/754820/ss_c830d06be7f03141dd3e15581c4ca622bffc48b2.1920x1080.jpg?t=1581628427
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/754820/ss_c830d06be7f03141dd3e15581c4ca622bffc48b2.600x338.jpg?t=1581628427
+    short_description: OST for Six Days of Snow.
+    steam_appid: 754820
+    support_info:
+      email: ebihimes@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4jaun3fACcPjt9gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 256
+      num_reviews: 160
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198862183294'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '64712576'
+    review: "\u65E2\u7136\u662F\u514D\u8D39\u6E38\u620F\u5C31\u4E70\u4E2Adlc\u652F\
+      \u6301\u4E00\u4E0B\u3002"
+    steam_purchase: true
+    timestamp_created: 1583678839
+    timestamp_updated: 1583678839
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

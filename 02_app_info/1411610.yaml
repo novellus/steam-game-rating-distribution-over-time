@@ -1,0 +1,81 @@
+details:
+  data:
+    about_the_game: "Ekstase Original Soundtrack by Lana Pranaya and Frenk Livjero\
+      \ <br />\r\n.wav format."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1411610/page_bg_generated_v6b.jpg?t=1601754389
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Ekstase Original Soundtrack by Lana Pranaya and Frenk Livjero\
+      \ <br />\r\n.wav format."
+    developers:
+    - Raskal Games
+    fullgame:
+      appid: '1408430'
+      name: Ekstase
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1411610/header.jpg?t=1601754389
+    is_free: false
+    legal_notice: "\xA9 RASKAL GAMES UG (haftungsbeschr\xE4nkt) 2020"
+    linux_requirements: []
+    mac_requirements: []
+    name: Ekstase Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ekstase Soundtrack - $2.99
+        packageid: 495397
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Ekstase Soundtrack
+    packages:
+    - 495397
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Raskal Games
+    release_date:
+      coming_soon: false
+      date: Oct 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1411610/ss_b5094bd619536832dbafb466d6da1f318bdc7cb0.1920x1080.jpg?t=1601754389
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1411610/ss_b5094bd619536832dbafb466d6da1f318bdc7cb0.600x338.jpg?t=1601754389
+    short_description: Ekstase Original Soundtrack by Lana Pranaya and Frenk Livjero
+    steam_appid: 1411610
+    support_info:
+      email: hello@raskal.games
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

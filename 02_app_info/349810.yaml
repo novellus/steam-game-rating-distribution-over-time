@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/349810/page_bg_generated_v6b.jpg?t=1447368998
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - PixelNAUTS
+    fullgame:
+      appid: '282640'
+      name: LOST ORBIT
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/349810/header.jpg?t=1447368998
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: LOST ORBIT - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: LOST ORBIT - Original Soundtrack - $3.99
+        packageid: 60568
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy LOST ORBIT - Original Soundtrack
+    packages:
+    - 60568
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - PixelNAUTS
+    release_date:
+      coming_soon: false
+      date: May 12, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/349810/ss_0cbe7bff3ada369b6026d9e82c44c035c5304102.1920x1080.jpg?t=1447368998
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/349810/ss_0cbe7bff3ada369b6026d9e82c44c035c5304102.600x338.jpg?t=1447368998
+    short_description: LOST ORBIT - Original Soundtrack Composed by Giancarlo Feltrin
+    steam_appid: 349810
+    support_info:
+      email: Support@PixelNAUTS.ca
+      url: ''
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain<br><strong>*</strong>languages with full audio support
+    type: dlc
+    website: LOSTORBITGAME.com
+  success: true
+reviews:
+  cursor: AoJ4mvbirvACe4ek8wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 7677
+      num_reviews: 1148
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198003818180'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '63774843'
+    review: Good music that complements very well with the game.
+    steam_purchase: true
+    timestamp_created: 1582117401
+    timestamp_updated: 1582117401
+    voted_up: true
+    votes_funny: 1
+    votes_up: 7
+    weighted_vote_score: '0.597751379013061523'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,181 @@
+details:
+  data:
+    about_the_game: "<p>The multi-award-winning indie strategy masterpiece is back\
+      \ with a brand new expansion pack!  \n\nFrozen Synapse: Red adds awesome features\
+      \ like co-op play against the AI and a brand new unit, as well as a selection\
+      \ of additional music tracks plus an exclusive single player campaign.</p>\n\
+      \n<h2>Key features</h2>\n<ul>\n<li>Full co-op for the single player campaign\
+      \ and all new single player content\n<li>A new unit (riot shield)\n<li>A new\
+      \ multiplayer game mode (\u201CUpload\u201D)\n<li>15 mission single player campaign\n\
+      <li>10 single player challenge missions\n<li>Three mutators (gameplay modifiers\
+      \ for advanced users)\n<li>6 additional music tracks by nervous_testpilot (2\
+      \ previously available in the Humble Indie Bundle)\n<li>MP3 and FLAC download\
+      \ of all Frozen Synapse: Red music\n<li>Original music tracks \u201CDeeper\u201D\
+      \ and \u201CFocus\u201D unlocked during gameplay\n<li>\u201CImpeccable Micro\u201D\
+      \ - a chiptune album from _ensnare_ (MP3 and FLAC)\n<li>The infamous \u201C\
+      Red Mode\u201D... \n</ul>\n"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/98211/page_bg_generated_v6b.jpg?t=1447355837
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<p>The multi-award-winning indie strategy masterpiece is\
+      \ back with a brand new expansion pack!  \n\nFrozen Synapse: Red adds awesome\
+      \ features like co-op play against the AI and a brand new unit, as well as a\
+      \ selection of additional music tracks plus an exclusive single player campaign.</p>\n\
+      \n<h2>Key features</h2>\n<ul>\n<li>Full co-op for the single player campaign\
+      \ and all new single player content\n<li>A new unit (riot shield)\n<li>A new\
+      \ multiplayer game mode (\u201CUpload\u201D)\n<li>15 mission single player campaign\n\
+      <li>10 single player challenge missions\n<li>Three mutators (gameplay modifiers\
+      \ for advanced users)\n<li>6 additional music tracks by nervous_testpilot (2\
+      \ previously available in the Humble Indie Bundle)\n<li>MP3 and FLAC download\
+      \ of all Frozen Synapse: Red music\n<li>Original music tracks \u201CDeeper\u201D\
+      \ and \u201CFocus\u201D unlocked during gameplay\n<li>\u201CImpeccable Micro\u201D\
+      \ - a chiptune album from _ensnare_ (MP3 and FLAC)\n<li>The infamous \u201C\
+      Red Mode\u201D... \n</ul>\n"
+    developers:
+    - Mode 7
+    fullgame:
+      appid: '98200'
+      name: Frozen Synapse
+    genres:
+    - description: Strategy
+      id: '2'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/98211/header.jpg?t=1447355837
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: "<ul>\n                <li><strong>OS:</strong> OS X version Leopard\
+        \ 10.5.8, Snow Leopard 10.6.3, or later\n                <li><strong>Processor:</strong>\
+        \ 1 GHz PowerPC (or Intel)\n                <li><strong>Memory:</strong> 512\
+        \ MB\n                <li><strong>Hard Disk Space:</strong> 220 MB       \
+        \            \n</ul>\n"
+    name: 'Frozen Synapse: Red DLC'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Frozen Synapse: Red DLC - $9.99'
+        packageid: 14854
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Frozen Synapse: Complete Pack - $34.99'
+        packageid: 14855
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3499
+      title: 'Buy Frozen Synapse: Red DLC'
+    packages:
+    - 14854
+    - 14855
+    pc_requirements:
+      minimum: "<ul>\n                <li><strong>OS:</strong> Windows XP, Vista,\
+        \ 7\n                <li><strong>Processor:</strong> 1.6 GHz\n           \
+        \     <li><strong>Memory:</strong> 512 MB\n                <li><strong>Hard\
+        \ Disk Space:</strong> 220 MB                \n                <li><strong>Video\
+        \ Card:</strong> Network integrated graphics \n</ul>\n"
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Mode 7
+    release_date:
+      coming_soon: false
+      date: May 29, 2012
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_6841e90dff44963d9639c7b5d6b42258bb6dd290.1920x1080.jpg?t=1447355837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_6841e90dff44963d9639c7b5d6b42258bb6dd290.600x338.jpg?t=1447355837
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_d9a97000cb21d3d31fc098385259c2ee86758604.1920x1080.jpg?t=1447355837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_d9a97000cb21d3d31fc098385259c2ee86758604.600x338.jpg?t=1447355837
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_4b7a340f40fa11a98db06256afd04ea157f1ce4e.1920x1080.jpg?t=1447355837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_4b7a340f40fa11a98db06256afd04ea157f1ce4e.600x338.jpg?t=1447355837
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_e9c5df464912b8a457df8bf347ef9463251ee0e1.1920x1080.jpg?t=1447355837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_e9c5df464912b8a457df8bf347ef9463251ee0e1.600x338.jpg?t=1447355837
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_9caf2db3d2fff868de110f2532201d3578c90141.1920x1080.jpg?t=1447355837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_9caf2db3d2fff868de110f2532201d3578c90141.600x338.jpg?t=1447355837
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_cfdc97296705fd6ce13774e8de6b2aac54e604bf.1920x1080.jpg?t=1447355837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_cfdc97296705fd6ce13774e8de6b2aac54e604bf.600x338.jpg?t=1447355837
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_5d1d8d27053e2d011ab9a2b863294ced64138269.1920x1080.jpg?t=1447355837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/98211/ss_5d1d8d27053e2d011ab9a2b863294ced64138269.600x338.jpg?t=1447355837
+    short_description: The multi-award-winning indie strategy masterpiece is back
+      with a brand new expansion pack!
+    steam_appid: 98211
+    support_info:
+      email: support@mode7games.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://www.frozensynapse.com
+  success: true
+reviews:
+  cursor: AoJ4k+jSm/ECcvSW/QE=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 2
+    total_positive: 8
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1346
+      num_reviews: 567
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197998455758'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '66369346'
+    review: Nice addon for nice game.
+    steam_purchase: true
+    timestamp_created: 1585770611
+    timestamp_updated: 1585770611
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

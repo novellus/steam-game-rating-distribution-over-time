@@ -1,0 +1,145 @@
+details:
+  data:
+    about_the_game: This is the demo for Grid Clash VR with one Arena:<br><br>Everything
+      in this game is about real body motion. No shooting/moving by just pressing
+      a trigger. To walk or run - you have got to actually run(in place) - to attack
+      you have got the actually throw the discs. To evade a shot - you actually have
+      to duck or move to the side. <br><br>Your primary goal in this game is to shoot
+      the ball through the opposing teams goal ring. To stop the opponents you can
+      slice them with discs you can spawn at any time. In short you could describe
+      this game as mixture of basketball and dodge ball (but with discs) in arenas
+      full with obstacles and hiding places. <br><br>This game is build around a very
+      advanced &quot;run in place&quot; motion system that translates your movement
+      into virtual movement. Ideally after some time in the game and getting used
+      to the system you should forget that you are actually just running in place
+      when moving. <br><br>In the long term there will be Leagues/Stats/Rankings added
+      to this game. My hope is that this will become the first real team based VR
+      sport - that actually feels like doing sport! Currently there seems to be no
+      such thing out there.<h2 class="bb_tag">Features</h2><ul class="bb_ul"><li>
+      Very sophisticated movement system - you mainly move by running in place but
+      this goes way beyond the simple armswinger systems you might know.<br></li><li>
+      Highly optimized network code - not for low bandwidth but for high immersion
+      even with some latency.<br></li><li> Three thrilling game modes:<br><ul class="bb_ul"><li>
+      <strong>Attack:</strong> Get possession of the ball and throw it through your
+      opponents goal ring.<br></li><li><strong>CTF:</strong> Protect your teams ball
+      while trying to steal the enemy ball.<br></li><li><strong>Last Team Standing:</strong>
+      There is no ball - just try to slice the entire opposing team to score. </li></ul></li><li>
+      Pretty smart bots with 5 different strengths for all types of players.  They
+      not only make good adversaries but are also good team mates.  <br></li><li>
+      Very comfortable voting system. The complete setup of a server can be controlled
+      by the players - the majority decides.<br></li><li> Voice Chat with multiple
+      emission modes:<br><ul class="bb_ul"><li><strong>Near proximity chat:</strong>
+      You can always hear players close to you with no obstacles between you and them.
+      <br></li><li><strong>Team Chat:</strong> Exchange valuable information with
+      your team mates over greater distances.<br></li><li><strong>Announce Mode:</strong>
+      This is mainly to convince all players in the game to vote for a poll.</li></ul></li><li>
+      Spatialized 3d sound - hear the exact position of the footsteps of your opponents.
+      If a disc nearly missed you, know exactly how tight it has just been.<br></li><li>
+      Simple low poly graphics for butter-smooth gaming (nobody wants hickups in the
+      middle of a match deciding 5 on 5 showdown) but realistic lightning for immersion.
+      </li></ul>
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Online PvP
+      id: 36
+    - description: Online Co-op
+      id: 38
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This is the demo for Grid Clash VR with one Arena:<br><br>Everything
+      in this game is about real body motion. No shooting/moving by just pressing
+      a trigger. To walk or run - you have got to actually run(in place) - to attack
+      you have got the actually throw the discs. To evade a shot - you actually have
+      to duck or move to the side. <br><br>Your primary goal in this game is to shoot
+      the ball through the opposing teams goal ring. To stop the opponents you can
+      slice them with discs you can spawn at any time. In short you could describe
+      this game as mixture of basketball and dodge ball (but with discs) in arenas
+      full with obstacles and hiding places. <br><br>This game is build around a very
+      advanced &quot;run in place&quot; motion system that translates your movement
+      into virtual movement. Ideally after some time in the game and getting used
+      to the system you should forget that you are actually just running in place
+      when moving. <br><br>In the long term there will be Leagues/Stats/Rankings added
+      to this game. My hope is that this will become the first real team based VR
+      sport - that actually feels like doing sport! Currently there seems to be no
+      such thing out there.<h2 class="bb_tag">Features</h2><ul class="bb_ul"><li>
+      Very sophisticated movement system - you mainly move by running in place but
+      this goes way beyond the simple armswinger systems you might know.<br></li><li>
+      Highly optimized network code - not for low bandwidth but for high immersion
+      even with some latency.<br></li><li> Three thrilling game modes:<br><ul class="bb_ul"><li>
+      <strong>Attack:</strong> Get possession of the ball and throw it through your
+      opponents goal ring.<br></li><li><strong>CTF:</strong> Protect your teams ball
+      while trying to steal the enemy ball.<br></li><li><strong>Last Team Standing:</strong>
+      There is no ball - just try to slice the entire opposing team to score. </li></ul></li><li>
+      Pretty smart bots with 5 different strengths for all types of players.  They
+      not only make good adversaries but are also good team mates.  <br></li><li>
+      Very comfortable voting system. The complete setup of a server can be controlled
+      by the players - the majority decides.<br></li><li> Voice Chat with multiple
+      emission modes:<br><ul class="bb_ul"><li><strong>Near proximity chat:</strong>
+      You can always hear players close to you with no obstacles between you and them.
+      <br></li><li><strong>Team Chat:</strong> Exchange valuable information with
+      your team mates over greater distances.<br></li><li><strong>Announce Mode:</strong>
+      This is mainly to convince all players in the game to vote for a poll.</li></ul></li><li>
+      Spatialized 3d sound - hear the exact position of the footsteps of your opponents.
+      If a disc nearly missed you, know exactly how tight it has just been.<br></li><li>
+      Simple low poly graphics for butter-smooth gaming (nobody wants hickups in the
+      middle of a match deciding 5 on 5 showdown) but realistic lightning for immersion.
+      </li></ul>
+    developers:
+    - Great Boolean
+    fullgame:
+      appid: '828320'
+      name: Grid Clash VR
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1146190/header.jpg?t=1567641215
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Grid Clash VR Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - 'Great Boolean '
+    release_date:
+      coming_soon: false
+      date: Sep 4, 2019
+    required_age: 0
+    short_description: Grid Clash is a physically demanding team based multiplayer
+      disc battle/ ball game. At its core this game is supposed to be a virtual gym
+      where you can just let loose with other people.
+    steam_appid: 1146190
+    support_info:
+      email: gridclashvr@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

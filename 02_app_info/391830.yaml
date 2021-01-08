@@ -1,0 +1,135 @@
+details:
+  data:
+    about_the_game: "The Bowhead Support Ship is a heavy freighter with thrusters\
+      \ in all six directions. If you are a new player, do NOT buy this ship until\
+      \ you've played the game long enough to be absolutely sure you want it. This\
+      \ ship is not required for play and it is difficult to fly (it's a big, heavy,\
+      \ slow ship).<br />\r\n<br />\r\nSupport ships are sold to support more development,\
+      \ artwork, and hopefully some UI work on the game."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/391830/page_bg_generated_v6b.jpg?t=1447377379
+    categories:
+    - description: MMO
+      id: 20
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Bowhead Support Ship is a heavy freighter with thrusters\
+      \ in all six directions. If you are a new player, do NOT buy this ship until\
+      \ you've played the game long enough to be absolutely sure you want it. This\
+      \ ship is not required for play and it is difficult to fly (it's a big, heavy,\
+      \ slow ship).<br />\r\n<br />\r\nSupport ships are sold to support more development,\
+      \ artwork, and hopefully some UI work on the game."
+    developers:
+    - Fluffy Kitten Studios
+    fullgame:
+      appid: '345010'
+      name: Ascent - The Space Game
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/391830/header.jpg?t=1447377379
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Ascent - The Space Game: Bowhead Support Ship'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Ascent - The Space Game: Bowhead Support Ship - $89.99'
+        packageid: 74868
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 8999
+      title: 'Buy Ascent - The Space Game: Bowhead Support Ship'
+    packages:
+    - 74868
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Dual Core, 2Ghz<br></li><li><strong>Memory:</strong>
+        4096 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000, AMD A8<br></li><li><strong>DirectX:</strong>
+        Version 9.0c</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>DirectX:</strong>
+        Version 11</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 8999
+      final_formatted: $89.99
+      initial: 8999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 4, 2015
+    required_age: '13'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/391830/ss_935ba6e4ded359a7b2d81c1cebb19c7641395320.1920x1080.jpg?t=1447377379
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/391830/ss_935ba6e4ded359a7b2d81c1cebb19c7641395320.600x338.jpg?t=1447377379
+    short_description: The Bowhead Support Ship is a heavy freighter with thrusters
+      in all six directions. If you are a new player, do NOT buy this ship until you've
+      played the game long enough to be absolutely sure you want it. This ship is
+      not required for play and it is difficult to fly (it's a big, heavy, slow ship).
+    steam_appid: 391830
+    support_info:
+      email: support@fluffykittenstudios.com
+      url: http://forum.thespacegame.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.thespacegame.com/
+  success: true
+reviews:
+  cursor: AoJw7d/dqs8Cc5ivQw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 8
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198086719741'
+    comment_count: 1
+    language: english
+    received_for_free: false
+    recommendationid: '17660291'
+    review: Been looking for a game like this for ages
+    steam_purchase: true
+    timestamp_created: 1440247906
+    timestamp_updated: 1440247906
+    voted_up: true
+    votes_funny: 10
+    votes_up: 13
+    weighted_vote_score: '0.264012902975082397'
+    written_during_early_access: false
+  success: 1

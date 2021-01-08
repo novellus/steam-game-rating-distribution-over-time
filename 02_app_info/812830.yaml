@@ -1,0 +1,74 @@
+details:
+  data:
+    about_the_game: Este <i>DLC</i> remove a censura dentro do jogo.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/812830/page_bg_generated_v6b.jpg?t=1558998015
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: This games removes the "censorship bar" from Save Statues, and also from
+        the Artwork Gallery Extras.
+    detailed_description: Este <i>DLC</i> remove a censura dentro do jogo.
+    developers:
+    - CleanWaterSoft
+    fullgame:
+      appid: '431220'
+      name: 'Porradaria 2: Pagode of the Night'
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/812830/header.jpg?t=1558998015
+    is_free: false
+    linux_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Ubuntu 14.04 ou superior<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Pentium\xAE4 1.5GHz ou superior<br></li><li><strong>Storage:</strong> 27\
+        \ MB available space<br></li><li><strong>Additional Notes:</strong> Placa\
+        \ de v\xEDdeo e driver compat\xEDveis com OpenGL</li></ul>"
+    mac_requirements: []
+    name: Porradaria 2 - Sem Censura
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Microsoft\xAE Windows\xAE 7 ou superior<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE Pentium\xAE4 1.5GHz ou superior<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0<br></li><li><strong>Storage:</strong> 22 MB available space</li></ul>"
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - CleanWaterSoft
+    release_date:
+      coming_soon: false
+      date: Mar 23, 2018
+    required_age: '18'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/812830/ss_8a694dbe909537af367f4f5416207a5c2c1dae6a.1920x1080.jpg?t=1558998015
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/812830/ss_8a694dbe909537af367f4f5416207a5c2c1dae6a.600x338.jpg?t=1558998015
+    short_description: Este DLC remove a censura dentro do jogo.
+    steam_appid: 812830
+    support_info:
+      email: contato@cleanwatersoft.com.br
+      url: http://cleanwatersoft.com.br
+    supported_languages: Portuguese - Brazil
+    type: dlc
+    website: http://cleanwatersoft.com.br
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

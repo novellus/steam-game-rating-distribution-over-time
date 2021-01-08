@@ -1,0 +1,91 @@
+details:
+  data:
+    about_the_game: "Tracks that are directly used by the game. The OST is subject\
+      \ to change, but old versions of tracks will still be here.<br />\r\nOf course,\
+      \ when the game is updated, the OST is being updated as well, though there might\
+      \ be some delay between the game update and the OST update."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1422310/page_bg_generated_v6b.jpg?t=1602143123
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: Lyrics aren't suited for children.
+    detailed_description: "Tracks that are directly used by the game. The OST is subject\
+      \ to change, but old versions of tracks will still be here.<br />\r\nOf course,\
+      \ when the game is updated, the OST is being updated as well, though there might\
+      \ be some delay between the game update and the OST update."
+    developers:
+    - brennfeu
+    fullgame:
+      appid: '1422150'
+      name: PP Puncher
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1422310/header.jpg?t=1602143123
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: PP Puncher Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: PP Puncher Soundtrack - $3.99
+        packageid: 499418
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy PP Puncher Soundtrack
+    packages:
+    - 499418
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        72 MB available space<br></li><li><strong>Additional Notes:</strong> Last
+        updated when the soundtrack had 16 tracks. I might forget to update the space
+        requirement when updating the OST.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - brennfeu
+    release_date:
+      coming_soon: false
+      date: Oct 8, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1422310/ss_4e69e99bedad5ea1a457bd668b2eb8d39459212e.1920x1080.jpg?t=1602143123
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1422310/ss_4e69e99bedad5ea1a457bd668b2eb8d39459212e.600x338.jpg?t=1602143123
+    short_description: Tracks that are directly used by the game. The OST is subject
+      to change, but old versions of tracks will still be here.
+    steam_appid: 1422310
+    support_info:
+      email: pppunchergame@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

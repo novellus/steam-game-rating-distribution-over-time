@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: The soundtrack for Exit the Gungeon.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1270860/page_bg_generated_v6b.jpg?t=1584463726
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The soundtrack for Exit the Gungeon.
+    developers:
+    - Dodge Roll
+    - Singlecore
+    fullgame:
+      appid: '1209490'
+      name: Exit the Gungeon
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1270860/header.jpg?t=1584463726
+    is_free: false
+    legal_notice: Copyright 2020 Dodge Roll. All Rights Reserved.
+    linux_requirements: []
+    mac_requirements: []
+    name: Exit the Gungeon Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Exit the Gungeon Soundtrack - <span class="discount_original_price">$6.99</span>
+          $4.89
+        packageid: 442298
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 489
+      title: Buy Exit the Gungeon Soundtrack
+    packages:
+    - 442298
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 489
+      final_formatted: $4.89
+      initial: 699
+      initial_formatted: $6.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1270860/ss_689e6ee8a9c45b2f52430f279f4d8f828a0cb378.1920x1080.jpg?t=1584463726
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1270860/ss_689e6ee8a9c45b2f52430f279f4d8f828a0cb378.600x338.jpg?t=1584463726
+    short_description: The soundtrack for Exit the Gungeon.
+    steam_appid: 1270860
+    support_info:
+      email: ''
+      url: http://www.enterthegungeon.com
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ46sCh9fACdfDr+AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 991
+      num_reviews: 488
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198277984478'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '65232645'
+    review: 'bought it to support the artists.
+
+      cheers'
+    steam_purchase: true
+    timestamp_created: 1584482617
+    timestamp_updated: 1584482617
+    voted_up: true
+    votes_funny: 0
+    votes_up: 17
+    weighted_vote_score: '0.657930314540863037'
+    written_during_early_access: false
+  success: 1

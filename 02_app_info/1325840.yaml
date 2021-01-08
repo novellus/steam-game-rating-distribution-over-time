@@ -1,0 +1,94 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1325840/page_bg_generated_v6b.jpg?t=1592328199
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Sleepy Turtles
+    fullgame:
+      appid: '1100320'
+      name: Rest
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1325840/header.jpg?t=1592328199
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Rest Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong>
+        6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 670/AMD HD 7870
+        2GB VRAM<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound
+        Card:</strong> Yes</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i7<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB VRAM<br></li><li><strong>Storage:</strong>
+        10 GB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Sleepy Turtles
+    release_date:
+      coming_soon: false
+      date: Jun 16, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_0dff43ddcfbcd7ff0fb1842d6efa64eb15046476.1920x1080.jpg?t=1592328199
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_0dff43ddcfbcd7ff0fb1842d6efa64eb15046476.600x338.jpg?t=1592328199
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_656d3dfabab90b627636f9ab68f83f9002e06c74.1920x1080.jpg?t=1592328199
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_656d3dfabab90b627636f9ab68f83f9002e06c74.600x338.jpg?t=1592328199
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_d57acc4764ee19ccd2ae88004c7a334e42949610.1920x1080.jpg?t=1592328199
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_d57acc4764ee19ccd2ae88004c7a334e42949610.600x338.jpg?t=1592328199
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_656d927ba8830ddb1cd8df5c3ca00c2cd156096b.1920x1080.jpg?t=1592328199
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_656d927ba8830ddb1cd8df5c3ca00c2cd156096b.600x338.jpg?t=1592328199
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_a3894f82be69d4d820d59a43686969f8663dfa94.1920x1080.jpg?t=1592328199
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1325840/ss_a3894f82be69d4d820d59a43686969f8663dfa94.600x338.jpg?t=1592328199
+    short_description: ''
+    steam_appid: 1325840
+    support_info:
+      email: restthegame@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

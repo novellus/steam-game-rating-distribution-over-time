@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: The soundtrack for Jones on Fire. Kitty chip dubstep and lots
+      of meowing.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/350260/page_bg_generated_v6b.jpg?t=1447369104
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The soundtrack for Jones on Fire. Kitty chip dubstep and
+      lots of meowing.
+    developers:
+    - Glass Bottom Games
+    fullgame:
+      appid: '270810'
+      name: Jones On Fire
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/350260/header.jpg?t=1447369104
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        Any MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        20 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        Any MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        20 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: Jones On Fire Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Jones On Fire Soundtrack - $4.99
+        packageid: 60730
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hot Tin Roof Deluxe - $24.99
+        packageid: 59150
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2499
+      title: Buy Jones On Fire Soundtrack
+    packages:
+    - 60730
+    - 59150
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        Any MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        20 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Glass Bottom Games
+    release_date:
+      coming_soon: false
+      date: Mar 27, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/350260/ss_73b5c0cc33c0278880e49de3fd42b4671b397061.1920x1080.jpg?t=1447369104
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/350260/ss_73b5c0cc33c0278880e49de3fd42b4671b397061.600x338.jpg?t=1447369104
+    short_description: The soundtrack for Jones on Fire. Kitty chip dubstep and lots
+      of meowing.
+    steam_appid: 350260
+    support_info:
+      email: jonesonfire@glassbottomgames.com
+      url: http://glassbottomgames.com
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

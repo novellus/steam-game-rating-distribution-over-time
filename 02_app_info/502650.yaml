@@ -1,0 +1,253 @@
+details:
+  data:
+    about_the_game: "Autumn Park Mini Golf is a first person miniature golf game set\
+      \ in a scenic park. With smooth jazz and piano sets to help set the mood during\
+      \ the day and Halloween themed music for the night, we think you'll enjoy your\
+      \ time relaxing and exploring the park while you play.  With trick shots and\
+      \ rewards based on how well you play the game, Autumn Park Mini Golf will keep\
+      \ you coming back for more. Can you finish the game under par? <br />\r\n<br\
+      \ />\r\nThere is no spoken dialogue in the game.  However, we now offer multi-lingual\
+      \ support for the menu system for seven languages.<br />\r\n<br />\r\nWe are\
+      \ now offering multi-player support, with voice chat.  This feature is still\
+      \ in testing, so if you encounter any issues please let us know in the dedicated\
+      \ thread in our community forum.<br />\r\n<br />\r\nDrop on by and play a few\
+      \ rounds!"
+    achievements:
+      highlighted:
+      - name: 'Hole 02 : Jump The Walls'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/dbed23596a5f3d605efa8d9d2501abe3efa3b316.jpg
+      - name: 'Hole 03 : Just Because You Can...'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/8c9ef3420880ceaeeb6b2f185f91d778fe612c2b.jpg
+      - name: 'Hole 07 : Tasty!'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/7f7a155898bd770f97d4f56d98beba4da6aa7a0e.jpg
+      - name: 'Hole 09 : Doesn''t mean you should...'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/25051fcb5f73939402ea6ba57fceabb2f81e687a.jpg
+      - name: 'Hole 13 : Avoid the sand'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/c48b5e2e6e61ca963075255cfd88e019ae9a8a46.jpg
+      - name: 'Hole 14 : Trick Shot'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/0082500e521f72f94b54675e939868918b5bf41c.jpg
+      - name: Spot Wildlife
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/bc2934166c50cedc8beaba3b0ad3845a3d6c777b.jpg
+      - name: Return the lost Golf Clubs
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/787eb32cf93f7ec0bf9354480c5258c61a89a600.jpg
+      - name: Hole In One
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/d044b0f811e70ce73c997d9095304f645bee198f.jpg
+      - name: Hole In Par
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/502650/4f4938f91ec03b69654771a148a6b888652072e4.jpg
+      total: 15
+    background: https://steamcdn-a.akamaihd.net/steam/apps/502650/page_bg_generated_v6b.jpg?t=1603836858
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>Now With Multiplayer</h1><p>We are now offering multi-player\
+      \ support (with Voice Chat)!  Also, we've given The Pumpkin Patch a complete\
+      \ night-time makeover, with new music for the Halloween theme.</p><br><h1>About\
+      \ the Game</h1>Autumn Park Mini Golf is a first person miniature golf game set\
+      \ in a scenic park. With smooth jazz and piano sets to help set the mood during\
+      \ the day and Halloween themed music for the night, we think you'll enjoy your\
+      \ time relaxing and exploring the park while you play.  With trick shots and\
+      \ rewards based on how well you play the game, Autumn Park Mini Golf will keep\
+      \ you coming back for more. Can you finish the game under par? \r\n\r\nThere\
+      \ is no spoken dialogue in the game.  However, we now offer multi-lingual support\
+      \ for the menu system for seven languages.\r\n\r\nWe are now offering multi-player\
+      \ support, with voice chat.  This feature is still in testing, so if you encounter\
+      \ any issues please let us know in the dedicated thread in our community forum.\r\
+      \n\r\nDrop on by and play a few rounds!"
+    developers:
+    - Serious Tangents
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/502650/header.jpg?t=1603836858
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256806942
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256806942/movie480.mp4?t=1603836228
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256806942/movie_max.mp4?t=1603836228
+      name: Night Falls on The Pumpkin Patch
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256806942/movie.293x165.jpg?t=1603836228
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256806942/movie480_vp9.webm?t=1603836228
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256806942/movie_max_vp9.webm?t=1603836228
+    name: Autumn Park Mini Golf
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Autumn Park Mini Golf - $1.99
+        packageid: 115560
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Autumn Park Mini Golf
+    packages:
+    - 115560
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8.1<br></li><li><strong>Processor:</strong> Intel(R) Core(TM)2 Duo
+        CPU E7400  @ 2.80GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        AMD Radeon R7 200 Series or better for Best performance<br></li><li><strong>Storage:</strong>
+        600 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Serious Tangents
+    release_date:
+      coming_soon: false
+      date: Sep 16, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_ccc81d4f21017e1f7ea821e1edf6afa02e5c8ddb.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_ccc81d4f21017e1f7ea821e1edf6afa02e5c8ddb.600x338.jpg?t=1603836858
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_1693367a3eb3e5a9a37f6589c4702a9d48bc7dcf.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_1693367a3eb3e5a9a37f6589c4702a9d48bc7dcf.600x338.jpg?t=1603836858
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_e52addac18a26e44bfb32bb374a1784472ca0188.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_e52addac18a26e44bfb32bb374a1784472ca0188.600x338.jpg?t=1603836858
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_d1a4c4821be7d1427c456887c93ceae416249780.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_d1a4c4821be7d1427c456887c93ceae416249780.600x338.jpg?t=1603836858
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_56f191dbe35a0fabb8b1b5000c12aff9e6be5497.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_56f191dbe35a0fabb8b1b5000c12aff9e6be5497.600x338.jpg?t=1603836858
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_8c99329b736450f3cb08289f8d6f135827151bba.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_8c99329b736450f3cb08289f8d6f135827151bba.600x338.jpg?t=1603836858
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_d00e387192ba31d15c82e66dc331e3702d7bf280.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_d00e387192ba31d15c82e66dc331e3702d7bf280.600x338.jpg?t=1603836858
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_c27c7d283e067e875503dbd4a2a3513da60c12b0.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_c27c7d283e067e875503dbd4a2a3513da60c12b0.600x338.jpg?t=1603836858
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_bd641e28760910ddcf52932f51957422eeb8b8d6.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_bd641e28760910ddcf52932f51957422eeb8b8d6.600x338.jpg?t=1603836858
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_d5dba0f35b8e27e497c4e242ec34112232512149.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_d5dba0f35b8e27e497c4e242ec34112232512149.600x338.jpg?t=1603836858
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_009a30382994ca9bd217a5f677010ef2d673c41d.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_009a30382994ca9bd217a5f677010ef2d673c41d.600x338.jpg?t=1603836858
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_ec5fd1fb9287b8c7af60ce06aa50e95b668a26d2.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_ec5fd1fb9287b8c7af60ce06aa50e95b668a26d2.600x338.jpg?t=1603836858
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_14c0b8ed9162334bcb5818ad05d554fb011b0287.1920x1080.jpg?t=1603836858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/502650/ss_14c0b8ed9162334bcb5818ad05d554fb011b0287.600x338.jpg?t=1603836858
+    short_description: Autumn Park Mini Golf is a first person miniature golf game
+      set in a scenic park. With smooth jazz, piano, and Halloween music to help set
+      the mood, we think you'll enjoy your time relaxing and exploring the park while
+      you play. Can you finish the game under par?
+    steam_appid: 502650
+    support_info:
+      email: serioustangents@gmail.com
+      url: http://www.autumnparkminigolf.com
+    supported_languages: English, French, Italian, German, Spanish - Spain, Dutch,
+      Russian
+    type: game
+    website: http://www.autumnparkminigolf.com
+  success: true
+reviews:
+  cursor: AoJ4y/GRwvUCfKmj1AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 7
+    total_positive: 25
+    total_reviews: 32
+  reviews:
+  - author:
+      last_played: 1609830215
+      num_games_owned: 132
+      num_reviews: 20
+      playtime_at_review: 3223
+      playtime_forever: 4004
+      playtime_last_two_weeks: 360
+      steamid: '76561198055443878'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '55646876'
+    review: 'Updating comment for game update.  Nov. 1, 2020
+
+
+      Night play in Halloween is okay.  There should be some streetlights here and
+      there...on the fountain and the club house, maybe light the path here and there.  This
+      would give contrast and atmosphere to the dark.
+
+
+      The stroke is now less effective than before.  The stroke should have strength
+      enough to at least leave a possibility of a hole-in-one on each hole.
+
+
+      The maple leaf cluster needs to disappear when the ball is selected.  It can
+      cover the course.  The same with the stroke strength text. it could be smaller
+      and translucent, or better yet, displayed under the ball.
+
+
+      Hole #1 in Halloween replays on single player.  Sometimes twice.  Sometimes
+      several.
+
+
+      I''ll still recommend it.  It can take some getting used to but after that it''s
+      a fun and satisfying short play game.
+
+
+
+
+
+
+      I almost didn''t buy this game for the reviews that said it was difficult to
+      control.  That''s not really true.  I had no problem.  It isn''t without its
+      bugs...minor though.  If I condemn anything it would be its physics engine.  Bounce
+      angles are not entirely predictable.  It didn''t really distract from the game
+      but you''ll curse that first one.  No one is likely to ever get a hole in one
+      but you can shoot under par.  It''s fall in the game.  It would have been nice
+      to pick a season, but then they''d have to rename it...Seasons Park Mini Golf.  Works
+      for me.  The distant scenery is static so they could have given options on that
+      as well.  It might have been a good touch to allow different putter weights.  There
+      is an animated windmill.  More of the moving obstacles would have been appreciated.
+
+
+      All in all it has its appeal and was well worth the dollar purchase.  I won
+      an ice cream sandwich and tried to feed it to the bunny but he wasn''t having
+      it.  Maybe next time I''ll try the cupcake.'
+    steam_purchase: true
+    timestamp_created: 1571348756
+    timestamp_updated: 1604242083
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.519999980926513672'
+    written_during_early_access: false
+  success: 1

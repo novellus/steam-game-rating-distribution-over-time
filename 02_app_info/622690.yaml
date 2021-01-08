@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: Learn more about the jokes and references in the game with the
+      commentary track!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/622690/page_bg_generated_v6b.jpg?t=1493393508
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Captions available
+      id: 13
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Learn more about the jokes and references in the game with
+      the commentary track!
+    developers:
+    - Choice of Games
+    fullgame:
+      appid: '520150'
+      name: A Midsummer Night's Choice
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/622690/header.jpg?t=1493393508
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.6</li></ul>
+    name: A Midsummer Night's Choice - Commentary Track
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: A Midsummer Night's Choice - Commentary Track - $0.99
+        packageid: 167592
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy A Midsummer Night's Choice - Commentary Track
+    packages:
+    - 167592
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Choice of Games
+    release_date:
+      coming_soon: false
+      date: Apr 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/622690/ss_8de1b4ae699982e0101fa62ce35ca5881ef54763.1920x1080.jpg?t=1493393508
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/622690/ss_8de1b4ae699982e0101fa62ce35ca5881ef54763.600x338.jpg?t=1493393508
+    short_description: Learn more about the jokes and references in the game with
+      the commentary track!
+    steam_appid: 622690
+    support_info:
+      email: support-midsummer-steam@choiceofgames.com
+      url: https://www.choiceofgames.com/contact-us/
+    supported_languages: English
+    type: dlc
+    website: https://www.choiceofgames.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

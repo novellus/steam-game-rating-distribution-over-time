@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: "The war continues in this new chapter, you need to discover the\
+      \ mistery of the people infestation and face a new enemy.<br />\r\n<br />\r\n\
+      This expansion includes new gameplay content.<br />\r\n<br />\r\nFeatures.<br\
+      \ />\r\n<br />\r\n-New game chapter with achievements<br />\r\n<br />\r\n-Extra\
+      \ weapons and new enemies.<br />\r\n<br />\r\n-New interesting background music."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1319810/page_bg_generated_v6b.jpg?t=1591655846
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Blood and gore
+    detailed_description: "The war continues in this new chapter, you need to discover\
+      \ the mistery of the people infestation and face a new enemy.<br />\r\n<br />\r\
+      \nThis expansion includes new gameplay content.<br />\r\n<br />\r\nFeatures.<br\
+      \ />\r\n<br />\r\n-New game chapter with achievements<br />\r\n<br />\r\n-Extra\
+      \ weapons and new enemies.<br />\r\n<br />\r\n-New interesting background music."
+    developers:
+    - Initiative Games
+    fullgame:
+      appid: '738880'
+      name: Pain of War
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1319810/header.jpg?t=1591655846
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Pain of War - Expansion Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Expansion Pack - $1.99
+        packageid: 460839
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Pain of War - Expansion Pack
+    packages:
+    - 460839
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP (SP3) or higher<br></li><li><strong>Processor:</strong> Intel Core
+        2 Duo (Merom) 1.66GHz or equivalent<br></li><li><strong>Graphics:</strong>
+        Intel Graphics Media Accelerator 950 or equivalent<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Sound Card:</strong> Soundcard
+        compatible with DirectX 9.0c<br></li><li><strong>Additional Notes:</strong>
+        DirectPlay Legacy requiered</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Pentium
+        4 a 2.4 GHz o equivalente<br></li><li><strong>Graphics:</strong> ATI Radeon
+        X800 / NVIDIA GeForce 7600 / Intel HD Graphics 2000 or higher<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> Soundcard compatible
+        with DirectX 9.0c<br></li><li><strong>Additional Notes:</strong> DirectPlay
+        Legacy requiered</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1319810/ss_929283c458e2fa09b3d33bc29ebc32b8367768f0.1920x1080.jpg?t=1591655846
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1319810/ss_929283c458e2fa09b3d33bc29ebc32b8367768f0.600x338.jpg?t=1591655846
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1319810/ss_4e199b2d0300537976607902b93d774a1e1cf97b.1920x1080.jpg?t=1591655846
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1319810/ss_4e199b2d0300537976607902b93d774a1e1cf97b.600x338.jpg?t=1591655846
+    short_description: The war continues in this new chapter, you need to discover
+      the mistery of the people infestation.
+    steam_appid: 1319810
+    support_info:
+      email: francotf514@gmail.com
+      url: http://www.moddb.com/games/pain-war
+    supported_languages: English
+    type: dlc
+    website: http://www.moddb.com/games/pain-war
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

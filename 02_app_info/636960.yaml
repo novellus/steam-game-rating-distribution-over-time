@@ -1,0 +1,324 @@
+details:
+  data:
+    about_the_game: "<h2 class=\"bb_tag\">Operation System</h2><ul class=\"bb_ul\"\
+      ><li>The player controls a warrior who is good at using machete, spear, bow\
+      \ and arquebus. As you advance more in the game, you will be able to control\
+      \ a guy with special combat skills. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_01.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>The warrior can captivate the enemy and use\
+      \ weapons dropped by others. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store01_SC.jpg?t=1595000055\"\
+      \ /> <br><ul class=\"bb_ul\"><li>The weird guy attack with dancing steps and\
+      \ a unique strike, squeeze.</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store02_SC.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>The character is controlled from the third-person\
+      \ viewpoint, and the camera can rotate freely within the range where the character\
+      \ can reach. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store03_SC.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>The game supports controller. With XBOX 360\
+      \ controller, the game is playable directly. For other controllers, please set\
+      \ it up in the input window when you first start playing the game. </li></ul><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/XBox_C.jpg?t=1595000055\"\
+      \ /><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/K_M.jpg?t=1595000055\"\
+      \ /><h2 class=\"bb_tag\">Game Mode</h2><ul class=\"bb_ul\"><li>This game is\
+      \ divided into 9 chapters and it takes about 2 hours to complete them all.</li></ul><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Dog_Loop_SC.jpg?t=1595000055\"\
+      \ /> <br><ul class=\"bb_ul\"><li>In different chapter, the player could fight\
+      \ on his own, work with some teammates, or lead a troop and give orders.</li></ul><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_03.jpg?t=1595000055\"\
+      \ /><h2 class=\"bb_tag\">Background settings</h2><ul class=\"bb_ul\"><li>This\
+      \ is a world full of gremlins.</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store04_SC.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>You will fight with boar-like creatures, warriors\
+      \ from other tribes, Japanese soldiers in the modern and warring states periods,\
+      \ arena fight warriors from ancient Rome, Chinese soldiers from the Ching Dynasty\u2026\
+      \ etc.</li></ul><ul class=\"bb_ul\"><li>The game designer did refer to objects\
+      \ in history for the costumes and buildings, but the story plot is  a work of\
+      \ fiction. Please take it lightly and have fun.</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_02.jpg?t=1595000055\"\
+      \ /><h2 class=\"bb_tag\">About game designing</h2><ul class=\"bb_ul\"><li>This\
+      \ game is developed with Unity, and Special thanks go to Robin Chun Yu Lin and\
+      \ Chin Yen Huang. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_04.jpg?t=1595000055\"\
+      \ />"
+    achievements:
+      highlighted:
+      - name: Wo Yao Da
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/96231168cf0c71c41edfb2042e6be0bd989717ce.jpg
+      - name: As Smart As a Boar
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/070c3281e4a7b8e48f592dd03db7858c4aca8090.jpg
+      - name: Ahem! I am the Lead.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/911646671eaf44c96e726c7a84580cc7cbc7b81d.jpg
+      - name: Have at Thee!!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/538df6945baf43d7e60bb72a5540d82e70b1e79a.jpg
+      - name: Rock-n-Roll
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/0a5c7c777ca2440e9732b945fdccf67e028e9752.jpg
+      - name: Open Sesame!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/4abe1c3c9896a1fb2ba1fcb5e316fb37692d7896.jpg
+      - name: Are You Happy Now?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/327f6fcf2cd7eeaa6da995fb901562dbb6a93141.jpg
+      - name: So I Am Not That Gorgeous
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/3c85eeede2db14023160747087a5b60eab1e4663.jpg
+      - name: You Are My Fans
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/74c67d9234e5d1200438b6ec7b9d56bae58e9c2a.jpg
+      - name: The Bald King
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/636960/839e427bbdf3a658468973190d66f19f3b5f0783.jpg
+      total: 32
+    background: https://steamcdn-a.akamaihd.net/steam/apps/636960/page_bg_generated_v6b.jpg?t=1595000055
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: null
+    controller_support: full
+    detailed_description: "<h2 class=\"bb_tag\">Operation System</h2><ul class=\"\
+      bb_ul\"><li>The player controls a warrior who is good at using machete, spear,\
+      \ bow and arquebus. As you advance more in the game, you will be able to control\
+      \ a guy with special combat skills. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_01.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>The warrior can captivate the enemy and use\
+      \ weapons dropped by others. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store01_SC.jpg?t=1595000055\"\
+      \ /> <br><ul class=\"bb_ul\"><li>The weird guy attack with dancing steps and\
+      \ a unique strike, squeeze.</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store02_SC.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>The character is controlled from the third-person\
+      \ viewpoint, and the camera can rotate freely within the range where the character\
+      \ can reach. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store03_SC.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>The game supports controller. With XBOX 360\
+      \ controller, the game is playable directly. For other controllers, please set\
+      \ it up in the input window when you first start playing the game. </li></ul><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/XBox_C.jpg?t=1595000055\"\
+      \ /><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/K_M.jpg?t=1595000055\"\
+      \ /><h2 class=\"bb_tag\">Game Mode</h2><ul class=\"bb_ul\"><li>This game is\
+      \ divided into 9 chapters and it takes about 2 hours to complete them all.</li></ul><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Dog_Loop_SC.jpg?t=1595000055\"\
+      \ /> <br><ul class=\"bb_ul\"><li>In different chapter, the player could fight\
+      \ on his own, work with some teammates, or lead a troop and give orders.</li></ul><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_03.jpg?t=1595000055\"\
+      \ /><h2 class=\"bb_tag\">Background settings</h2><ul class=\"bb_ul\"><li>This\
+      \ is a world full of gremlins.</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store04_SC.jpg?t=1595000055\"\
+      \ /><br><ul class=\"bb_ul\"><li>You will fight with boar-like creatures, warriors\
+      \ from other tribes, Japanese soldiers in the modern and warring states periods,\
+      \ arena fight warriors from ancient Rome, Chinese soldiers from the Ching Dynasty\u2026\
+      \ etc.</li></ul><ul class=\"bb_ul\"><li>The game designer did refer to objects\
+      \ in history for the costumes and buildings, but the story plot is  a work of\
+      \ fiction. Please take it lightly and have fun.</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_02.jpg?t=1595000055\"\
+      \ /><h2 class=\"bb_tag\">About game designing</h2><ul class=\"bb_ul\"><li>This\
+      \ game is developed with Unity, and Special thanks go to Robin Chun Yu Lin and\
+      \ Chin Yen Huang. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/636960/extras/Store_04.jpg?t=1595000055\"\
+      \ />"
+    developers:
+    - PING YI LIN
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/636960/header.jpg?t=1595000055
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256707168
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256707168/movie480.mp4?t=1517200144
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256707168/movie_max.mp4?t=1517200144
+      name: Improvement of all roles textures
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256707168/movie.293x165.jpg?t=1517200144
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256707168/movie480.webm?t=1517200144
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256707168/movie_max.webm?t=1517200144
+    - highlight: true
+      id: 256699525
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699525/movie480.mp4?t=1509676816
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699525/movie_max.mp4?t=1509676816
+      name: Wo Yao Da Brand New English Version
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256699525/movie.293x165.jpg?t=1509676816
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699525/movie480.webm?t=1509676816
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699525/movie_max.webm?t=1509676816
+    - highlight: true
+      id: 256699976
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699976/movie480.mp4?t=1509619280
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699976/movie_max.mp4?t=1509619280
+      name: Combat Tutorial of the tribe warrior
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256699976/movie.293x165.jpg?t=1509619280
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699976/movie480.webm?t=1509619280
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699976/movie_max.webm?t=1509619280
+    - highlight: true
+      id: 256700013
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256700013/movie480.mp4?t=1509642310
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256700013/movie_max.mp4?t=1509642310
+      name: Combat Tutorial of the master
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256700013/movie.293x165.jpg?t=1509642310
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256700013/movie480.webm?t=1509642310
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256700013/movie_max.webm?t=1509642310
+    name: "Wo Yao Da  \u6211\u8981\u5927"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wo Yao Da - $2.99
+        packageid: 175127
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: "Buy Wo Yao Da  \u6211\u8981\u5927"
+    packages:
+    - 175127
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7/8/10
+        64 Bit<br></li><li><strong>Processor:</strong> Intel Core i3 540<br></li><li><strong>Memory:</strong>
+        6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTX 550 Ti<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound
+        Card:</strong> any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        7/8/10 64 Bit<br></li><li><strong>Processor:</strong> Intel Core i3 540 over<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTX 660 or
+        better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        3 GB available space<br></li><li><strong>Sound Card:</strong> any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - 'PING YI LIN '
+    recommendations:
+      total: 150
+    release_date:
+      coming_soon: false
+      date: Sep 15, 2017
+    required_age: 0
+    reviews: "\u201C\u610F\u4E49\u4E0D\u660E\uFF01\uFF1F\u7A7F\u8D8A\u53E4\u4ECA\u7684\
+      \u53F0\u6E7E\u52A8\u4F5C\u6E38\u620F\uFF01\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.bilibili.com/video/av41564020\"\
+      \ target=\"_blank\" rel=\"noopener\"  >\u8001E</a><br><br>\u201CIt's time to\
+      \ become the weirdo.\u201D<br><a href=\"https://www.youtube.com/watch?v=WeM3Z1AAov0\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >AllShamNoWow</a><br><br>\u201C\u4E3A\
+      \u4E86\u8C03\u4F83\u4E00\u4F4D\u795E\u68CD\u5927\u5E08\uFF0C\u53F0\u6E7E\u4EBA\
+      \u6C11\u505A\u4E86\u4E00\u4E2A\u66F4\u9B54\u5E7B\u7684\u6E38\u620F\u201D<br><a\
+      \ href=\"https://steamcommunity.com/linkfilter/?url=https://zhuanlan.zhihu.com/p/47646857\"\
+      \ target=\"_blank\" rel=\"noopener\"  >\u6E38\u7814\u793E</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_d266f949e688a313bab407afdb6c9125702e3119.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_d266f949e688a313bab407afdb6c9125702e3119.600x338.jpg?t=1595000055
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_9d1f58c4908bb8dc14b8ced1757b1587d10f6efa.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_9d1f58c4908bb8dc14b8ced1757b1587d10f6efa.600x338.jpg?t=1595000055
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_7903741fba1c7648043631b76a70685896574ade.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_7903741fba1c7648043631b76a70685896574ade.600x338.jpg?t=1595000055
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_b961fa5ce5f430689c5675594f7c56f3b79f25ca.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_b961fa5ce5f430689c5675594f7c56f3b79f25ca.600x338.jpg?t=1595000055
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_c239a43e717ef5a47dc3c7abba369fd16fed5d50.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_c239a43e717ef5a47dc3c7abba369fd16fed5d50.600x338.jpg?t=1595000055
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_f769bf83920e9423fe9e5fd4f7921449bb511ac3.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_f769bf83920e9423fe9e5fd4f7921449bb511ac3.600x338.jpg?t=1595000055
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_ddfac8a4d247ceca2d9ab7de711c7fdc48cbb52f.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_ddfac8a4d247ceca2d9ab7de711c7fdc48cbb52f.600x338.jpg?t=1595000055
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_e4966f9a378f097eed9d9db3c936c84843822979.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_e4966f9a378f097eed9d9db3c936c84843822979.600x338.jpg?t=1595000055
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_ad609720b4d72de6f23b1ef3a39ccda6e543b448.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_ad609720b4d72de6f23b1ef3a39ccda6e543b448.600x338.jpg?t=1595000055
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_dc517f12ed10e59047f1829c48aa1d99a317cad7.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_dc517f12ed10e59047f1829c48aa1d99a317cad7.600x338.jpg?t=1595000055
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_3d155467f0bbcf776e461cc8d103370d504f3a52.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_3d155467f0bbcf776e461cc8d103370d504f3a52.600x338.jpg?t=1595000055
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_beefd526a97c1b84c01c12086c0e63c35a17cf8a.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_beefd526a97c1b84c01c12086c0e63c35a17cf8a.600x338.jpg?t=1595000055
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_4cdf055f3714af4871ff29c2a50e716c5d911158.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_4cdf055f3714af4871ff29c2a50e716c5d911158.600x338.jpg?t=1595000055
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_2fbd7f5c1130518769b3cb8ca9046cf5c5af5cbb.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_2fbd7f5c1130518769b3cb8ca9046cf5c5af5cbb.600x338.jpg?t=1595000055
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_e6af1343f1c86d6056da8ec06b19fdada1c06ef4.1920x1080.jpg?t=1595000055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/636960/ss_e6af1343f1c86d6056da8ec06b19fdada1c06ef4.600x338.jpg?t=1595000055
+    short_description: To play as a tribe warrior and a mysterious weirdo, adventuring
+      in the world of gremlins.
+    steam_appid: 636960
+    support_info:
+      email: wo.yao.da.pc.game@gmail.com
+      url: ''
+    supported_languages: English, Simplified Chinese, Traditional Chinese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwqLCp3PUCdYrmrQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 23
+    total_positive: 127
+    total_reviews: 150
+  reviews:
+  - author:
+      last_played: 1607244177
+      num_games_owned: 2185
+      num_reviews: 2
+      playtime_at_review: 15
+      playtime_forever: 37
+      playtime_last_two_weeks: 0
+      steamid: '76561198160802502'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '79114405'
+    review: "You'll cowards don't even play Wo Yao Da \u6211\u8981\u5927"
+    steam_purchase: true
+    timestamp_created: 1605120656
+    timestamp_updated: 1605120656
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

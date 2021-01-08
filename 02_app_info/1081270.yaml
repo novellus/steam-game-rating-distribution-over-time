@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: "Original Soundtrack to AVARIAvs. Composed by Phillip Merriman\
+      \ aka Lazerwolph.<br />\r\n<br />\r\n1 Avarian Mysteries<br />\r\n2 Ancient\
+      \ Dojo<br />\r\n3 The Overlook<br />\r\n4 Wisdom Of The Elders<br />\r\n5 Structure\
+      \ Outlands<br />\r\n6 Scepter Of Focus<br />\r\n7 Droning Into Dreams<br />\r\
+      \n8 Epic Victory<br />\r\n9 Victory Drone<br />\r\n10 Stunning Defeat<br />\r\
+      \n11 Defeat Drone"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1081270/page_bg_generated_v6b.jpg?t=1557385385
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Original Soundtrack to AVARIAvs. Composed by Phillip Merriman\
+      \ aka Lazerwolph.<br />\r\n<br />\r\n1 Avarian Mysteries<br />\r\n2 Ancient\
+      \ Dojo<br />\r\n3 The Overlook<br />\r\n4 Wisdom Of The Elders<br />\r\n5 Structure\
+      \ Outlands<br />\r\n6 Scepter Of Focus<br />\r\n7 Droning Into Dreams<br />\r\
+      \n8 Epic Victory<br />\r\n9 Victory Drone<br />\r\n10 Stunning Defeat<br />\r\
+      \n11 Defeat Drone"
+    developers:
+    - Juncture Media
+    fullgame:
+      appid: '816560'
+      name: AVARIAvs
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1081270/header.jpg?t=1557385385
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        anything that can play MP3s.<br></li><li><strong>Processor:</strong> anything
+        that can play MP3s.<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Storage:</strong>
+        120 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        anything that can play MP3s.<br></li><li><strong>Processor:</strong> anything
+        that can play MP3s.<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Storage:</strong>
+        120 MB available space</li></ul>
+    name: AVARIAvs OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: AVARIAvs OST - $3.99
+        packageid: 363085
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy AVARIAvs OST
+    packages:
+    - 363085
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        anything that can play MP3s.<br></li><li><strong>Processor:</strong> anything
+        that can play MP3s.<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong>
+        anything that can play MP3s.<br></li><li><strong>Storage:</strong> 300 MB
+        available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        anything that can play MP3s.<br></li><li><strong>Processor:</strong> anything
+        that can play MP3s.<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong>
+        anything that can play MP3s.<br></li><li><strong>Storage:</strong> 300 MB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 9, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1081270/ss_d4abce0b4db9e22704a30a394c216456423951ae.1920x1080.jpg?t=1557385385
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1081270/ss_d4abce0b4db9e22704a30a394c216456423951ae.600x338.jpg?t=1557385385
+    short_description: Original Soundtrack to AVARIAvs. Composed by Phillip Merriman
+      aka Lazerwolph.
+    steam_appid: 1081270
+    support_info:
+      email: ''
+      url: https://lazerwolph.com/#contact
+    type: dlc
+    website: https://AVARIAvs.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

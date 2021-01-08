@@ -1,0 +1,91 @@
+details:
+  data:
+    about_the_game: "This is a short demo.<br />\r\n<br />\r\nThe evil enemy stole\
+      \ a friend of our hero, sent unprecedented woes to the planet, moreover, he\
+      \ imprisoned the main character in the labyrinths of monochrome hell.<br />\r\
+      \nThe protagonist is a cat. To whom nothing remains but to arm himself in the\
+      \ fight against the army of devilish creatures and become a HellCat.<br />\r\
+      \n<br />\r\nGo on a quest for truth into the depths of purgatory, along with\
+      \ an armed to the teeth cat in a pretty red scarf.<br />\r\nPixel top-down shooter\
+      \ with an explosive retro-wave soundtrack!"
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: null
+    detailed_description: "This is a short demo.<br />\r\n<br />\r\nThe evil enemy\
+      \ stole a friend of our hero, sent unprecedented woes to the planet, moreover,\
+      \ he imprisoned the main character in the labyrinths of monochrome hell.<br\
+      \ />\r\nThe protagonist is a cat. To whom nothing remains but to arm himself\
+      \ in the fight against the army of devilish creatures and become a HellCat.<br\
+      \ />\r\n<br />\r\nGo on a quest for truth into the depths of purgatory, along\
+      \ with an armed to the teeth cat in a pretty red scarf.<br />\r\nPixel top-down\
+      \ shooter with an explosive retro-wave soundtrack!"
+    developers:
+    - Verbal Chambers
+    fullgame:
+      appid: '864860'
+      name: HellCat
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/898880/header.jpg?t=1570092132
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04 x64 / SteamOS x64<br></li><li><strong>Processor:</strong> DualCore<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 256<br></li><li><strong>Storage:</strong>
+        27 MB available space<br></li><li><strong>Additional Notes:</strong> OpenAl</li></ul>
+    mac_requirements: []
+    name: HellCat Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7-10<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 128mb<br></li><li><strong>Storage:</strong>
+        27 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - Verbal Chambers
+    release_date:
+      coming_soon: false
+      date: Jul 10, 2018
+    required_age: 0
+    short_description: The protagonist is a cat. To whom nothing remains but to arm
+      himself in the fight against the army of devilish creatures and become a HellCat.
+    steam_appid: 898880
+    support_info:
+      email: 13th.finger@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

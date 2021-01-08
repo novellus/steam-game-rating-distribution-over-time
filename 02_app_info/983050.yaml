@@ -1,0 +1,278 @@
+details:
+  data:
+    about_the_game: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitoryourping.png?t=1558884422"
+      /><br>Sticky Apps :: Monitor Ping is an application to view your network connection
+      to multiple systems on the Internet.  This is a great way to monitor your PING/network
+      to game servers, video streaming servers, or your ISP in general.  This software
+      is titled &quot;Sticky Apps&quot; as each application can be stickied to your
+      desktop, allowing for easy viewing of information.<h2 class="bb_tag">MONITOR
+      YOUR PING</h2><br><ul class="bb_ul"><li>Monitor your ping to various servers
+      on the Internet<br></li><li>Change the number of destinations you monitor<br></li><li>Change
+      colors scheme to fit your needs<br></li><li>Provide alerts if latency/ping gets
+      too high<br></li><li>Provide alerts if packet-loss exists<br></li><li>Sticky
+      this anywhere on your desktop<br></li><li>Export an image of your ping statistics</li></ul><img
+      src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/screenshots.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping1.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping2.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping3-75.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping4-75.png?t=1558884422"
+      /><br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/faqlong.png?t=1558884422"
+      /><br><strong> What is the difference between this and command prompt ping?
+      </strong> <br>The built-in Windows command prompt ping is more of a real-time
+      latency checker to a single host.  This Monitor Ping application improves upon
+      that in several ways:<br><ul class="bb_ul"><li>Ping multiple locations at once
+      with a simple click (it saves locations)<br></li><li>Has a graphical interface
+      that you can scale in size to give an immediate, visual representation of latency<br></li><li>Can
+      alert you if packet-loss exceeds a certain threshold<br></li><li>Can alert you
+      if real-time latency exceeds a certain threshold<br></li><li>Provides an ongoing
+      log-file of packet-loss and excess latency<br></li><li>Tracks packetloss in
+      an ongoing fashion<br></li><li>Has options to enable the tracking graph size
+      (eg, 60 seconds of history vs 60 minutes)<br></li><li>Is visually pleasing<br></li><li>Can
+      1-click export the graph into an image (PNG)</li></ul><br><strong> Won''t this
+      use up a lot of bandwidth? </strong> <br>Not at all!  Each monitor uses approx.
+      32 bytes of traffic per second in/out.  To put that in perspective, you can
+      poll a server 32,000 times before it uses even 1 MB in/out. By comparison, just
+      watching a single second (1 second) of 1080p video on Youtube uses roughly 100,000
+      times more bandwidth than each monitor you have running. <br><br><strong> Why
+      would I use this? </strong> <br>This is a great way to decide &quot;Is it me?&quot;
+      by doing the following:<br><br><ul class="bb_ul"><li>Set up Monitor #1 to be
+      your router (ie, 192.168.0.1 / 10.0.0.1 or such).<br></li><li>Set up Monitor
+      #2 to be your next-up hop of your ISP (do a tracert to determine this).<br></li><li>Set
+      up Monitor #3 to be something typically very reliable.  I suggest 8.8.8.8 or
+      google . com<br></li><li>Set up Monitor #4 to be an online game server you typically
+      play on.</li></ul><br>Now let''s say you''re getting drops from your favorite
+      game server, or experiencing lag.  Just by looking at the Monitor Ping app,
+      you can now confirm some very important information. <br><br><ul class="bb_ul"><li>Is
+      it between your PC and your router (such as bad wifi?).  Well, just check Graph
+      #1 and that will answer it.  No packetloss + steady latency = not a wifi problem.<br></li><li>Is
+      it your connection between your home and your ISP such as a cable model issue?  Well,
+      cheeck Graph #2 and that will answer it.<br></li><li>Is it your ISP backbone?  Well,
+      Graph #3 will help answer that.<br></li><li>Is it the actual game server''s
+      network?  Graph #4 will help that.</li></ul>This application is a great first
+      step in determining network connectivity issues, as well as just having an overall
+      monitor to see how things are operating.<h2 class="bb_tag">RECENT UPDATES</h2><br><strong>
+      New Alerts System! </strong> <br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/AlertUpdate.png?t=1558884422"
+      /><br><br>You can now receive alerts/notification of packetloss as well as high
+      latency by the following methods:<br><ul class="bb_ul"><li>Windows task tray
+      icon alert<br></li><li>Audio alert<br></li><li>Log-file entry of the alert</li></ul><br><strong>
+      Support For 25+ Languages! </strong> <br><br>The application now supports all
+      supported Steam languages!<br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/LanguageSupportUpdate.png?t=1558884422"
+      />'
+    achievements:
+      highlighted:
+      - name: Monitor Ping User
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/983050/390eac33ebe07a01f495852fba5f198856c8957b.jpg
+      - name: 'Features: 1x1'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/983050/1b04c2fa7c2dee6fc3e5b25312ce8d6ded034c50.jpg
+      - name: 'Features: 2x2'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/983050/78f248857c224af44e04720c3dae155f2c1b22c9.jpg
+      - name: 'Features: 3x3'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/983050/2ac3d7f5caa263ec0acfcf21258a7ad80df6c535.jpg
+      total: 4
+    background: https://steamcdn-a.akamaihd.net/steam/apps/983050/page_bg_generated_v6b.jpg?t=1558884422
+    categories:
+    - description: Steam Achievements
+      id: 22
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitoryourping.png?t=1558884422"
+      /><br>Sticky Apps :: Monitor Ping is an application to view your network connection
+      to multiple systems on the Internet.  This is a great way to monitor your PING/network
+      to game servers, video streaming servers, or your ISP in general.  This software
+      is titled &quot;Sticky Apps&quot; as each application can be stickied to your
+      desktop, allowing for easy viewing of information.<h2 class="bb_tag">MONITOR
+      YOUR PING</h2><br><ul class="bb_ul"><li>Monitor your ping to various servers
+      on the Internet<br></li><li>Change the number of destinations you monitor<br></li><li>Change
+      colors scheme to fit your needs<br></li><li>Provide alerts if latency/ping gets
+      too high<br></li><li>Provide alerts if packet-loss exists<br></li><li>Sticky
+      this anywhere on your desktop<br></li><li>Export an image of your ping statistics</li></ul><img
+      src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/screenshots.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping1.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping2.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping3-75.png?t=1558884422"
+      /><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/monitorping4-75.png?t=1558884422"
+      /><br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/faqlong.png?t=1558884422"
+      /><br><strong> What is the difference between this and command prompt ping?
+      </strong> <br>The built-in Windows command prompt ping is more of a real-time
+      latency checker to a single host.  This Monitor Ping application improves upon
+      that in several ways:<br><ul class="bb_ul"><li>Ping multiple locations at once
+      with a simple click (it saves locations)<br></li><li>Has a graphical interface
+      that you can scale in size to give an immediate, visual representation of latency<br></li><li>Can
+      alert you if packet-loss exceeds a certain threshold<br></li><li>Can alert you
+      if real-time latency exceeds a certain threshold<br></li><li>Provides an ongoing
+      log-file of packet-loss and excess latency<br></li><li>Tracks packetloss in
+      an ongoing fashion<br></li><li>Has options to enable the tracking graph size
+      (eg, 60 seconds of history vs 60 minutes)<br></li><li>Is visually pleasing<br></li><li>Can
+      1-click export the graph into an image (PNG)</li></ul><br><strong> Won''t this
+      use up a lot of bandwidth? </strong> <br>Not at all!  Each monitor uses approx.
+      32 bytes of traffic per second in/out.  To put that in perspective, you can
+      poll a server 32,000 times before it uses even 1 MB in/out. By comparison, just
+      watching a single second (1 second) of 1080p video on Youtube uses roughly 100,000
+      times more bandwidth than each monitor you have running. <br><br><strong> Why
+      would I use this? </strong> <br>This is a great way to decide &quot;Is it me?&quot;
+      by doing the following:<br><br><ul class="bb_ul"><li>Set up Monitor #1 to be
+      your router (ie, 192.168.0.1 / 10.0.0.1 or such).<br></li><li>Set up Monitor
+      #2 to be your next-up hop of your ISP (do a tracert to determine this).<br></li><li>Set
+      up Monitor #3 to be something typically very reliable.  I suggest 8.8.8.8 or
+      google . com<br></li><li>Set up Monitor #4 to be an online game server you typically
+      play on.</li></ul><br>Now let''s say you''re getting drops from your favorite
+      game server, or experiencing lag.  Just by looking at the Monitor Ping app,
+      you can now confirm some very important information. <br><br><ul class="bb_ul"><li>Is
+      it between your PC and your router (such as bad wifi?).  Well, just check Graph
+      #1 and that will answer it.  No packetloss + steady latency = not a wifi problem.<br></li><li>Is
+      it your connection between your home and your ISP such as a cable model issue?  Well,
+      cheeck Graph #2 and that will answer it.<br></li><li>Is it your ISP backbone?  Well,
+      Graph #3 will help answer that.<br></li><li>Is it the actual game server''s
+      network?  Graph #4 will help that.</li></ul>This application is a great first
+      step in determining network connectivity issues, as well as just having an overall
+      monitor to see how things are operating.<h2 class="bb_tag">RECENT UPDATES</h2><br><strong>
+      New Alerts System! </strong> <br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/AlertUpdate.png?t=1558884422"
+      /><br><br>You can now receive alerts/notification of packetloss as well as high
+      latency by the following methods:<br><ul class="bb_ul"><li>Windows task tray
+      icon alert<br></li><li>Audio alert<br></li><li>Log-file entry of the alert</li></ul><br><strong>
+      Support For 25+ Languages! </strong> <br><br>The application now supports all
+      supported Steam languages!<br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/983050/extras/LanguageSupportUpdate.png?t=1558884422"
+      />'
+    developers:
+    - Tim Sullivan
+    - StartupTim, LLC
+    genres:
+    - description: Design & Illustration
+      id: '53'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/983050/header.jpg?t=1558884422
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256747967
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256747967/movie480.mp4?t=1555274880
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256747967/movie_max.mp4?t=1555274880
+      name: 04-14-19 Take 1 ENG
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256747967/movie.293x165.jpg?t=1555274880
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256747967/movie480.webm?t=1555274880
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256747967/movie_max.webm?t=1555274880
+    name: 'Sticky Apps :: Monitor Ping'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sticky Apps - Monitor Ping - $3.99
+        packageid: 323506
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: 'Buy Sticky Apps :: Monitor Ping'
+    packages:
+    - 323506
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 64-bit, Windows 8 64-bit, Windows 10 64-bit<br></li><li><strong>Processor:</strong>
+        Any CPU<br></li><li><strong>Memory:</strong> 150 MB RAM<br></li><li><strong>Graphics:</strong>
+        Any semi-modern GPU</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 64-bit, Windows 8 64-bit, Windows 10 64-bit<br></li><li><strong>Processor:</strong>
+        Any CPU<br></li><li><strong>Memory:</strong> 150 MB RAM<br></li><li><strong>Graphics:</strong>
+        Any semi-modern GPU</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Tim Sullivan
+    - StartupTim, LLC
+    release_date:
+      coming_soon: false
+      date: May 8, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_f2087aa3d65d14c9bf07a0ac3ad9864a9852317e.1920x1080.jpg?t=1558884422
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_f2087aa3d65d14c9bf07a0ac3ad9864a9852317e.600x338.jpg?t=1558884422
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_fc788e20864caaeef6851ed063f070cc4bb73c30.1920x1080.jpg?t=1558884422
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_fc788e20864caaeef6851ed063f070cc4bb73c30.600x338.jpg?t=1558884422
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_70f39def5d2a87c1e76a63be2c38b4f47b6e6c41.1920x1080.jpg?t=1558884422
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_70f39def5d2a87c1e76a63be2c38b4f47b6e6c41.600x338.jpg?t=1558884422
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_ccb9dc39d7221c709c99007d1b1d8657c05dc0fa.1920x1080.jpg?t=1558884422
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_ccb9dc39d7221c709c99007d1b1d8657c05dc0fa.600x338.jpg?t=1558884422
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_c79a529f8c29ebc7d50427da35de75680419feb2.1920x1080.jpg?t=1558884422
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_c79a529f8c29ebc7d50427da35de75680419feb2.600x338.jpg?t=1558884422
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_764355e4426b0fb7ad1253e5d8b2fa0a7a8d693b.1920x1080.jpg?t=1558884422
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_764355e4426b0fb7ad1253e5d8b2fa0a7a8d693b.600x338.jpg?t=1558884422
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_350898e1fa7cb6ee128b5db658bf8f203587e771.1920x1080.jpg?t=1558884422
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/983050/ss_350898e1fa7cb6ee128b5db658bf8f203587e771.600x338.jpg?t=1558884422
+    short_description: 'Sticky Apps :: Monitor Ping is an application to view your
+      network connection to multiple systems on the Internet. This is a great way
+      to monitor your PING/network to game servers, video streaming servers, or your
+      ISP in general.'
+    steam_appid: 983050
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/app/983050/discussions/
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4pP7U//UCdai0sAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 4
+    total_positive: 24
+    total_reviews: 28
+  reviews:
+  - author:
+      last_played: 1609718869
+      num_games_owned: 38
+      num_reviews: 5
+      playtime_at_review: 6684
+      playtime_forever: 14882
+      playtime_last_two_weeks: 2640
+      steamid: '76561198327506260'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '79798917'
+    review: very good
+    steam_purchase: true
+    timestamp_created: 1606306493
+    timestamp_updated: 1606306493
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

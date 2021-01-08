@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: This DLC is an additional outfit for Kokoro.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1070055/page_bg_generated_v6b.jpg?t=1575333583
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC is an additional outfit for Kokoro.
+    developers:
+    - FURYU Corporation
+    fullgame:
+      appid: '981750'
+      name: Crystar
+    genres:
+    - description: Action
+      id: '1'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1070055/header.jpg?t=1575333583
+    is_free: false
+    legal_notice: "\xA9FURYU Corporation. Licensed to and Published by Spike Chunsoft\
+      \ Co., Ltd."
+    linux_requirements: []
+    mac_requirements: []
+    name: Crystar - Kokoro's Santa Costume
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Crystar - Kokoro's Santa Costume - <span class="discount_original_price">$1.49</span>
+          $0.59
+        packageid: 358594
+        percent_savings: 0
+        percent_savings_text: '-60% '
+        price_in_cents_with_discount: 59
+      title: Buy Crystar - Kokoro's Santa Costume
+    packages:
+    - 358594
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-4170
+        @ 3.70GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA@ GeForce@ GTX 460 or better<br></li><li><strong>DirectX:</strong> Version
+        11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX compatible soundcard or onboard chipset</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 60
+      final: 59
+      final_formatted: $0.59
+      initial: 149
+      initial_formatted: $1.49
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 2, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1070055/ss_fc43261455c1a5b505b7d637b2d46d4d0e827ba6.1920x1080.jpg?t=1575333583
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1070055/ss_fc43261455c1a5b505b7d637b2d46d4d0e827ba6.600x338.jpg?t=1575333583
+    short_description: This DLC is an additional outfit for Kokoro.
+    steam_appid: 1070055
+    support_info:
+      email: ''
+      url: support-crystar@spike-chunsoft.co.jp
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

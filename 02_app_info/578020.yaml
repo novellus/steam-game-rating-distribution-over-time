@@ -1,0 +1,130 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/578020/page_bg_generated_v6b.jpg?t=1505119661
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Arachnid Games
+    fullgame:
+      appid: '446790'
+      name: 'Diluvion: Resubmerged'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/578020/header.jpg?t=1505119661
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX<br></li><li><strong>Processor:</strong> Intel i5 (or equivalent)<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 300 (or equivalent)<br></li><li><strong>Storage:</strong>
+        4 GB available space</li></ul>
+    name: Diluvion - Pre-Order Sub "Derringer"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Diluvion - Pre-Order Sub - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 147570
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy Diluvion - Pre-Order Sub "Derringer"
+    packages:
+    - 147570
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 10<br></li><li><strong>Processor:</strong> Intel i5 (or equivalent)<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 300 (or equivalent)<br></li><li><strong>Storage:</strong>
+        4 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Good Shepherd Entertainment
+    release_date:
+      coming_soon: false
+      date: Feb 2, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/578020/ss_bd11e6685ecab91c319ccb64eb4e992f36a84597.1920x1080.jpg?t=1505119661
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/578020/ss_bd11e6685ecab91c319ccb64eb4e992f36a84597.600x338.jpg?t=1505119661
+    short_description: ''
+    steam_appid: 578020
+    support_info:
+      email: support@arachnidgames.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French, German, Russian, Polish<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.diluvion.com/
+  success: true
+reviews:
+  cursor: AoJ4iMiW3u8Cf5vj7AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1982
+      num_reviews: 995
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198009474997'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '62069183'
+    review: "A lot of the times we buy these things to support the developers so that\
+      \ they can continue their work on the current game or future games. \n\nThis\
+      \ DLC adds a  extra sub to the game world for you to play with.\n\nHonestly,\
+      \ the game is so buggy that you hardly get to enjoy half of its actual features,\
+      \ so the extra DLC content does not really help or improve the game."
+    steam_purchase: true
+    timestamp_created: 1579413029
+    timestamp_updated: 1579413029
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.459469139575958252'
+    written_during_early_access: false
+  success: 1

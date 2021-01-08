@@ -1,0 +1,95 @@
+details:
+  data:
+    about_the_game: This is the 4 track album made by John Beauchamp for the game
+      Solos.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1293500/page_bg_generated_v6b.jpg?t=1605713928
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This is the 4 track album made by John Beauchamp for the
+      game Solos.
+    developers:
+    - Create Something Interesting
+    - Sixty6Games
+    fullgame:
+      appid: '731300'
+      name: Solos
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1293500/header.jpg?t=1605713928
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Solos Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Solos Soundtrack - $2.99
+        packageid: 451231
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Solos Soundtrack
+    packages:
+    - 451231
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Create Something Interesting
+    - Sixty6Games
+    release_date:
+      coming_soon: false
+      date: Nov 18, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_59592dc24910bbfdab01414a78fcfe01c16c0641.1920x1080.jpg?t=1605713928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_59592dc24910bbfdab01414a78fcfe01c16c0641.600x338.jpg?t=1605713928
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_d3f4d67dc8672144fd7eb3eb8df143cfd32f52b5.1920x1080.jpg?t=1605713928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_d3f4d67dc8672144fd7eb3eb8df143cfd32f52b5.600x338.jpg?t=1605713928
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_82347a16fea66412b0efbb4c4f13d3a48e1005c1.1920x1080.jpg?t=1605713928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_82347a16fea66412b0efbb4c4f13d3a48e1005c1.600x338.jpg?t=1605713928
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_211e5d6e346a2e3eb23613dad29b14ed8b856554.1920x1080.jpg?t=1605713928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_211e5d6e346a2e3eb23613dad29b14ed8b856554.600x338.jpg?t=1605713928
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_033cb7a5c1cb3f235bbd822538fcf6429892c757.1920x1080.jpg?t=1605713928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1293500/ss_033cb7a5c1cb3f235bbd822538fcf6429892c757.600x338.jpg?t=1605713928
+    short_description: This is the 4 track album made by John Beauchamp for the game
+      Solos.
+    steam_appid: 1293500
+    support_info:
+      email: daniel@createsomethinginteresting.com
+      url: https://twitter.com/createsomecool
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,118 @@
+details:
+  data:
+    about_the_game: "The official soundtrack for The Take composed and arranged by\
+      \ Zac Zinger.<br />\r\n<br />\r\nTrack List:<br />\r\n1. The Take (01:07)<br\
+      \ />\r\n2. The Classy Uncle (02:18)<br />\r\n3. The Hider (04:07)<br />\r\n\
+      4. Gin and Squalor (02:20)<br />\r\n5. The Seeker (04:09)<br />\r\n6. Rolled-up\
+      \ (01:30)<br />\r\n7. In the Bag (01:25)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/822690/page_bg_generated_v6b.jpg?t=1522676681
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The official soundtrack for The Take composed and arranged\
+      \ by Zac Zinger.<br />\r\n<br />\r\nTrack List:<br />\r\n1. The Take (01:07)<br\
+      \ />\r\n2. The Classy Uncle (02:18)<br />\r\n3. The Hider (04:07)<br />\r\n\
+      4. Gin and Squalor (02:20)<br />\r\n5. The Seeker (04:09)<br />\r\n6. Rolled-up\
+      \ (01:30)<br />\r\n7. In the Bag (01:25)"
+    developers:
+    - Stuido Studios
+    fullgame:
+      appid: '809410'
+      name: The Take
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/822690/header.jpg?t=1522676681
+    is_free: false
+    legal_notice: "Copyright \xA92018 Eos Interactive LLC. Developed by Stuido Studios.\
+      \ All rights reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    mac_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        : OS X version Leopard 10.5.8, Snow Leopard 10.6.3, or later.<br></li><li><strong>Processor:</strong>
+        Intel Mac 1.0 GHz or better<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong>
+        ATI Radeon(TM) 9500 or better, NVIDIA GeForce(TM) FX 5900 or better, Intel
+        GMA 950 or better<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>'
+    name: 'The Take: Original Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Take: Original Soundtrack - $4.99'
+        packageid: 252396
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: 'Buy The Take: Original Soundtrack'
+    packages:
+    - 252396
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1 or newer.<br></li><li><strong>Processor:</strong> Intel i5-4590
+        equivalent or greater<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GTX 970 / AMD 290 equivalent or greater<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 2, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/822690/ss_8fb323faf2acc1c91823d7ee5ecf0ec02e4cb733.1920x1080.jpg?t=1522676681
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/822690/ss_8fb323faf2acc1c91823d7ee5ecf0ec02e4cb733.600x338.jpg?t=1522676681
+    short_description: The official soundtrack for The Take composed and arranged
+      by Zac Zinger.
+    steam_appid: 822690
+    support_info:
+      email: contact@stuido.co
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://stuido.co/press/sheet.php?p=the_take
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

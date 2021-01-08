@@ -1,0 +1,81 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - 3000AD
+    fullgame:
+      appid: '36900'
+      name: Angle of Attack
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/36930/header.jpg?t=1602355212
+    is_free: true
+    legal_notice: "Angle Of Attack  \xA9 2009, 3000AD, Inc"
+    linux_requirements: []
+    mac_requirements: []
+    name: Angle of Attack Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows XP or Windows Vista<br>\t</li><li><strong>Processor:</strong> Dual\
+        \ Core CPU (Intel Pentium 4 3.4Ghz, AMD Athlon 64 X2 3.0GHz or faster<br>\t\
+        </li><li><strong>Memory:</strong> 1 GB<br>\t</li><li><strong>Graphics:</strong>\
+        \ 256MB GPU with Shader Model 3 nVidia GeForce 7900 / ATI Radeon X1300 or\
+        \ faster<br>\t</li><li><strong>DirectX\xAE:</strong> DirectX 9.0 March 2009\
+        \ Runtime<br>\t</li><li><strong>Hard Drive:</strong> 600 MB<br>\t</li><li><strong>Sound:</strong>\
+        \ DirectX 9.0c compatible (on-board or add-in)</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows XP or Windows Vista<br>\t</li><li><strong>Processor:</strong> Intel\
+        \ Core 2 Duo E6320 / AMD X2 6000 or faster<br>\t</li><li><strong>Memory:</strong>\
+        \ 2 GB<br>\t</li><li><strong>Graphics:</strong> 512MB GPU with Shader Model\
+        \ 3 (nVidia GeForce 8600 GTS / Radeon HD2900 XT or faster)<br>\t</li><li><strong>DirectX\xAE\
+        :</strong> DirectX 9.0 March 2009 Runtime<br>\t</li><li><strong>Hard Drive:</strong>\
+        \ 600 MB<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c compatible (on-board\
+        \ or add-in)</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - 3000AD
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 36930
+    support_info:
+      email: mailto:support@3000ad.com
+      url: http://3000ad.com/support
+    supported_languages: English
+    type: demo
+    website: http://3000ad.com/games/angle-of-attack/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,93 @@
+details:
+  data:
+    about_the_game: "The EasySave Backup demo includes 100% of the basic functions\
+      \ of the program.<br />\r\n<br />\r\n- Adding games to the database.<br />\r\
+      \n- Scan the saves for unknown games.<br />\r\n- Support for saves in the Windows\
+      \ registry.<br />\r\n- Import / export of definitions<br />\r\n- Latest backups,\
+      \ backup archive (limited) and locked backups (unlimited).<br />\r\n- Unlimited\
+      \ backup and restore of your saves.<br />\r\n<br />\r\nAdvanced features limitations\
+      \ in the demo.<br />\r\n<br />\r\n- Automatic backups not available.<br />\r\
+      \n- Backup archive limits locked at 10 files and 5 megabytes per game.<br />\r\
+      \n- Advanced options not available."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1289250/page_bg_generated_v6b.jpg?t=1586873059
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The EasySave Backup demo includes 100% of the basic functions\
+      \ of the program.<br />\r\n<br />\r\n- Adding games to the database.<br />\r\
+      \n- Scan the saves for unknown games.<br />\r\n- Support for saves in the Windows\
+      \ registry.<br />\r\n- Import / export of definitions<br />\r\n- Latest backups,\
+      \ backup archive (limited) and locked backups (unlimited).<br />\r\n- Unlimited\
+      \ backup and restore of your saves.<br />\r\n<br />\r\nAdvanced features limitations\
+      \ in the demo.<br />\r\n<br />\r\n- Automatic backups not available.<br />\r\
+      \n- Backup archive limits locked at 10 files and 5 megabytes per game.<br />\r\
+      \n- Advanced options not available."
+    developers:
+    - Giovanni Solinas
+    fullgame:
+      appid: '1113740'
+      name: EasySave Backup
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1289250/header.jpg?t=1586873059
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: EasySave Backup Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Giovanni Solinas
+    release_date:
+      coming_soon: false
+      date: Apr 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_5f4f69494c927d995bbaf74ba0c88aa87209f38d.1920x1080.jpg?t=1586873059
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_5f4f69494c927d995bbaf74ba0c88aa87209f38d.600x338.jpg?t=1586873059
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_f209c7b2b0b450b157c611693a748753954c9475.1920x1080.jpg?t=1586873059
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_f209c7b2b0b450b157c611693a748753954c9475.600x338.jpg?t=1586873059
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_e4f63244b44571ce2b636aff937b4153eb19f73e.1920x1080.jpg?t=1586873059
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_e4f63244b44571ce2b636aff937b4153eb19f73e.600x338.jpg?t=1586873059
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_e4610722882f9ce10fdc4ac8d784a35b11718789.1920x1080.jpg?t=1586873059
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_e4610722882f9ce10fdc4ac8d784a35b11718789.600x338.jpg?t=1586873059
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_d49ce189f8595c999a753931041c49d60e7f1b50.1920x1080.jpg?t=1586873059
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289250/ss_d49ce189f8595c999a753931041c49d60e7f1b50.600x338.jpg?t=1586873059
+    short_description: Try the basic features of EasySave Backup. Find out where games
+      keep your saves and keep them safe from sudden crashes and data corruption.
+    steam_appid: 1289250
+    support_info:
+      email: tharon@vivaldi.net
+      url: ''
+    supported_languages: English, Italian
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

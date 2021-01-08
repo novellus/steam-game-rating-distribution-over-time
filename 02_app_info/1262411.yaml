@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: "A set of casual clothes just right for Ash.<br />\r\n<br />\r\
+      \nAsh's Casuals x 1<br />\r\nAsh's Goggles x 1<br />\r\n<br />\r\n*These items\
+      \ can be obtained from the DLC tab on the Item page. After obtaining the items,\
+      \ they can be equipped from the Costume page on the Camp Menu."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1262411/page_bg_generated_v6b.jpg?t=1584984846
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A set of casual clothes just right for Ash.<br />\r\n<br\
+      \ />\r\nAsh's Casuals x 1<br />\r\nAsh's Goggles x 1<br />\r\n<br />\r\n*These\
+      \ items can be obtained from the DLC tab on the Item page. After obtaining the\
+      \ items, they can be equipped from the Costume page on the Camp Menu."
+    developers:
+    - Nihon Falcom
+    - Engine Software BV
+    - PH3 GmbH
+    fullgame:
+      appid: '991270'
+      name: 'The Legend of Heroes: Trails of Cold Steel III'
+    genres:
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1262411/header.jpg?t=1584984846
+    is_free: false
+    legal_notice: "\xA9 Nihon Falcom Corporation. All Rights Reserved. Licensed to\
+      \ and published by NIS America, Inc."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Legend of Heroes: Trails of Cold Steel III  - Ash''s Casual Clothes'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Legend of Heroes: Trails of Cold Steel III  - Ash''s Casual
+          Clothes - <span class="discount_original_price">$1.99</span> $1.19'
+        packageid: 438866
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 119
+      title: 'Buy The Legend of Heroes: Trails of Cold Steel III  - Ash''s Casual
+        Clothes'
+    packages:
+    - 438866
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> See main game for details.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 119
+      final_formatted: $1.19
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - NIS America, Inc.
+    release_date:
+      coming_soon: false
+      date: Mar 23, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1262411/ss_382f3c495f75125948cb4227258c1e5b46381003.1920x1080.jpg?t=1584984846
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1262411/ss_382f3c495f75125948cb4227258c1e5b46381003.600x338.jpg?t=1584984846
+    short_description: A set of casual clothes just right for Ash.
+    steam_appid: 1262411
+    support_info:
+      email: ''
+      url: http://nisamerica.com/index.php?nav=s
+    supported_languages: English<strong>*</strong>, French, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://thelegendofheroes.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: This DLC package contains <strong>no content</strong>, it is for
+      donations only and does not affect the game. <br><br>If you like Temple of Rust
+      and would like to donate to the developer, you can do so by buying this DLC.<br><br><strong>THANK
+      YOU!</strong>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/982473/page_bg_generated_v6b.jpg?t=1542872553
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids:
+      - 5
+      notes: This game contains pixel violence and gore.
+    controller_support: full
+    detailed_description: This DLC package contains <strong>no content</strong>, it
+      is for donations only and does not affect the game. <br><br>If you like Temple
+      of Rust and would like to donate to the developer, you can do so by buying this
+      DLC.<br><br><strong>THANK YOU!</strong>
+    developers:
+    - James Mearman
+    fullgame:
+      appid: '460540'
+      name: Temple of Rust
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/982473/header.jpg?t=1542872553
+    is_free: false
+    legal_notice: "\xA92016 James Mearman All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Temple of Rust - Sugar free donation - 10
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Temple of Rust - Sugar free donation - 10 - $9.99
+        packageid: 323265
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Temple of Rust - Sugar free donation - 10
+    packages:
+    - 323265
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> NO HARDWARE REQUIRED!</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> NO HARDWARE REQUIRED!</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982473/ss_357036d0904860e815a1676741f7ecdc8da2b60d.1920x1080.jpg?t=1542872553
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982473/ss_357036d0904860e815a1676741f7ecdc8da2b60d.600x338.jpg?t=1542872553
+    short_description: Sugar Free Donation for the developer.This DLC package contains
+      no content.
+    steam_appid: 982473
+    support_info:
+      email: contact@dev-zoo.net
+      url: www.dev-zoo.net
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

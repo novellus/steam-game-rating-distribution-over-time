@@ -1,0 +1,92 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Game introduction</h2>DLC unlocks new tags
+      for the Workshop !<br>This is a puzzle game that supports extended content !<h2
+      class="bb_tag">Extended picture</h2>You can import any picture you like into
+      the game, support jpg, png format<h2 class="bb_tag">Workshop</h2>The game supports
+      creative workshops, you can upload and download artwork<h2 class="bb_tag">Graffiti
+      function</h2>The game has a built-in doodle tool that can add content to the
+      picture !
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1201980/page_bg_generated_v6b.jpg?t=1578647070
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Workshop
+      id: 30
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 3
+      - 5
+      notes: The game contains some naked and pornographic content, All characters
+        are over 18 years old
+    detailed_description: <h2 class="bb_tag">Game introduction</h2>DLC unlocks new
+      tags for the Workshop !<br>This is a puzzle game that supports extended content
+      !<h2 class="bb_tag">Extended picture</h2>You can import any picture you like
+      into the game, support jpg, png format<h2 class="bb_tag">Workshop</h2>The game
+      supports creative workshops, you can upload and download artwork<h2 class="bb_tag">Graffiti
+      function</h2>The game has a built-in doodle tool that can add content to the
+      picture !
+    developers:
+    - ToolGame
+    fullgame:
+      appid: '1201260'
+      name: Happy Engine
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1201980/header.jpg?t=1578647070
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Happy Engine - Patch
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> Intel Core i3-4130<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics or better<br></li><li><strong>Storage:</strong>
+        140 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ToolGame
+    release_date:
+      coming_soon: false
+      date: Jan 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1201980/ss_330c00091f317ed04c384d00e6ec0ab48980450a.1920x1080.jpg?t=1578647070
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1201980/ss_330c00091f317ed04c384d00e6ec0ab48980450a.600x338.jpg?t=1578647070
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1201980/ss_57c2407e2f3776568b5a0011a8f9b0b0769ef9fa.1920x1080.jpg?t=1578647070
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1201980/ss_57c2407e2f3776568b5a0011a8f9b0b0769ef9fa.600x338.jpg?t=1578647070
+    short_description: DLC unlocks new tags for the Workshop !
+    steam_appid: 1201980
+    support_info:
+      email: 1364276391@qq.com
+      url: ''
+    supported_languages: English, German, Russian, Japanese, Simplified Chinese, Traditional
+      Chinese, Korean
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

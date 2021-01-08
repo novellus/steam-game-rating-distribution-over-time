@@ -1,0 +1,188 @@
+details:
+  data:
+    about_the_game: "Drone Glitch is a fast paced FPS set in a Low-Poly futuristic\
+      \ environment. Avoid killer drones while trying to find better weapons to get\
+      \ to your ship! Each time you play Drone Glitch the world is randomly generated,\
+      \ different every time but always exciting to run through! Collect a number\
+      \ of new weapons to help you take down those pesky drones trying to kill you.\
+      \ All weapons and keys are randomly generated as well, keeping the excitement\
+      \ fresh each time you hit the Play button!<br />\r\n<br />\r\nLevels:<br />\r\
+      \nEach time a level is loaded, whether by death or starting the game, a brand\
+      \ new level layout is generated. Branching paths and locked doors are generated\
+      \ as well as the new weapon pickup locations. Enemy types are also randomly\
+      \ inserted when the game begins, watch out for those larger drones! The level\
+      \ generator is a robust system that ensures every level is unique and presents\
+      \ a new layer of challenge to the player.<br />\r\n<br />\r\nFirst Person Shooter:<br\
+      \ />\r\nDrone Glitch is based off the Unity FPS Microgame framework, built to\
+      \ be fun, efficient, and robust. This framework allows for future additions\
+      \ to be added quickly and easily to the game, new rooms, weapons, enemies, and\
+      \ more!<br />\r\n<br />\r\nEnvironment:<br />\r\nDrone Glitch uses low poly\
+      \ environments to keep the focus on the action, a &quot;Less is More&quot; design\
+      \ approach! This also makes terrain easier to understand and use as cover. Not\
+      \ to mention future maps can be quickly iterated upon!<br />\r\n<br />\r\n<br\
+      \ />\r\n<br />\r\nUpdates:<br />\r\nBug Fixes:<br />\r\n- Fixed a respawn bug\
+      \ where players fell through the ground on respawn"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1413170/page_bg_generated_v6b.jpg?t=1601955592
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Drone Glitch is a fast paced FPS set in a Low-Poly futuristic\
+      \ environment. Avoid killer drones while trying to find better weapons to get\
+      \ to your ship! Each time you play Drone Glitch the world is randomly generated,\
+      \ different every time but always exciting to run through! Collect a number\
+      \ of new weapons to help you take down those pesky drones trying to kill you.\
+      \ All weapons and keys are randomly generated as well, keeping the excitement\
+      \ fresh each time you hit the Play button!<br />\r\n<br />\r\nLevels:<br />\r\
+      \nEach time a level is loaded, whether by death or starting the game, a brand\
+      \ new level layout is generated. Branching paths and locked doors are generated\
+      \ as well as the new weapon pickup locations. Enemy types are also randomly\
+      \ inserted when the game begins, watch out for those larger drones! The level\
+      \ generator is a robust system that ensures every level is unique and presents\
+      \ a new layer of challenge to the player.<br />\r\n<br />\r\nFirst Person Shooter:<br\
+      \ />\r\nDrone Glitch is based off the Unity FPS Microgame framework, built to\
+      \ be fun, efficient, and robust. This framework allows for future additions\
+      \ to be added quickly and easily to the game, new rooms, weapons, enemies, and\
+      \ more!<br />\r\n<br />\r\nEnvironment:<br />\r\nDrone Glitch uses low poly\
+      \ environments to keep the focus on the action, a &quot;Less is More&quot; design\
+      \ approach! This also makes terrain easier to understand and use as cover. Not\
+      \ to mention future maps can be quickly iterated upon!<br />\r\n<br />\r\n<br\
+      \ />\r\n<br />\r\nUpdates:<br />\r\nBug Fixes:<br />\r\n- Fixed a respawn bug\
+      \ where players fell through the ground on respawn"
+    developers:
+    - Corva Nocta
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1413170/header.jpg?t=1601955592
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256800130
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800130/movie480.mp4?t=1600725023
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800130/movie_max.mp4?t=1600725023
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256800130/movie.293x165.jpg?t=1600725023
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800130/movie480_vp9.webm?t=1600725023
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800130/movie_max_vp9.webm?t=1600725023
+    name: DroneGlitch
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: DroneGlitch - $0.99
+        packageid: 495940
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy DroneGlitch
+    packages:
+    - 495940
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1+, 8, 10, 64-bit versions only<br></li><li><strong>Processor:</strong>
+        SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        308 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Corva Nocta
+    release_date:
+      coming_soon: false
+      date: Oct 5, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_219a3ffd9dad290b59df82cb9fbeecdc2afe6fe5.1920x1080.jpg?t=1601955592
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_219a3ffd9dad290b59df82cb9fbeecdc2afe6fe5.600x338.jpg?t=1601955592
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_b15bf0e17d4357e7896090d4b0ef1c943f271866.1920x1080.jpg?t=1601955592
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_b15bf0e17d4357e7896090d4b0ef1c943f271866.600x338.jpg?t=1601955592
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_548479ca398b4ec4e795af7a304b3ed7630674d9.1920x1080.jpg?t=1601955592
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_548479ca398b4ec4e795af7a304b3ed7630674d9.600x338.jpg?t=1601955592
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_5c74acdab3d3e280e6a8b4afa265c417cd08f863.1920x1080.jpg?t=1601955592
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_5c74acdab3d3e280e6a8b4afa265c417cd08f863.600x338.jpg?t=1601955592
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_6f528d782bc0dd4dc7d029b42da0625887300c47.1920x1080.jpg?t=1601955592
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413170/ss_6f528d782bc0dd4dc7d029b42da0625887300c47.600x338.jpg?t=1601955592
+    short_description: Low-Poly FPS with randomly generated levels. Find new weapons
+      while fighting off a variety of drones!
+    steam_appid: 1413170
+    support_info:
+      email: Corvanocta@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ45/DnhPUCfIDWpgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1602183656
+      num_games_owned: 507
+      num_reviews: 3
+      playtime_at_review: 117
+      playtime_forever: 117
+      playtime_last_two_weeks: 0
+      steamid: '76561198031891288'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77246476'
+    review: This is a nice procedural FPS! The particles are very good. The core feedback
+      loop is stronger than I expected. Enemy attacks have a good bit of diversity
+      that make them play well in different matchups against the player. This is a
+      good foundation by the dev and I'm excited to see what they will do next!
+    steam_purchase: true
+    timestamp_created: 1602184251
+    timestamp_updated: 1602184251
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

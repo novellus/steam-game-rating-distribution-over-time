@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: '<strong><i>DLC Features</i></strong><br><br><ul class="bb_ul"><li>Survival
+      Mode: Eliminate as many enemies as possible with a single life. <br></li><li>Arcade
+      EX Mode: Fight off a second enemy invasion across 8 stages.<br></li><li>Boss
+      Rush Mode: Defeat all 8 bosses as quickly as possible.</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/953350/page_bg_generated_v6b.jpg?t=1585168666
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong><i>DLC Features</i></strong><br><br><ul class="bb_ul"><li>Survival
+      Mode: Eliminate as many enemies as possible with a single life. <br></li><li>Arcade
+      EX Mode: Fight off a second enemy invasion across 8 stages.<br></li><li>Boss
+      Rush Mode: Defeat all 8 bosses as quickly as possible.</li></ul>'
+    developers:
+    - Raxasoft Games
+    fullgame:
+      appid: '565110'
+      name: Mobile Astro
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/953350/header.jpg?t=1585168666
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Mobile Astro EX Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Mobile Astro EX Pack - $0.99
+        packageid: 310821
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Mobile Astro EX Pack
+    packages:
+    - 310821
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1.8 GHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> Direct3D 9 compatible graphics
+        card.<br></li><li><strong>Storage:</strong> 37 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Processor must be SSE2 capable.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 15, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_7530591dd7bd1cc23b0d890f9a745332afcd6980.1920x1080.jpg?t=1585168666
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_7530591dd7bd1cc23b0d890f9a745332afcd6980.600x338.jpg?t=1585168666
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_a3520b956a26791fc715c6b9e08e97ce65bf52c0.1920x1080.jpg?t=1585168666
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_a3520b956a26791fc715c6b9e08e97ce65bf52c0.600x338.jpg?t=1585168666
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_7f93aae8c819a4c2567828244c008008afda7f52.1920x1080.jpg?t=1585168666
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_7f93aae8c819a4c2567828244c008008afda7f52.600x338.jpg?t=1585168666
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_f4cfe5c499b92288f3c053771b929f57af6984fc.1920x1080.jpg?t=1585168666
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_f4cfe5c499b92288f3c053771b929f57af6984fc.600x338.jpg?t=1585168666
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_6c206bd15294265c86439cf5399162bcac29b129.1920x1080.jpg?t=1585168666
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953350/ss_6c206bd15294265c86439cf5399162bcac29b129.600x338.jpg?t=1585168666
+    short_description: Run, gun, and survive in more action, more stages, and extra
+      modes!
+    steam_appid: 953350
+    support_info:
+      email: RaxasoftGames@gmail.com
+      url: ''
+    supported_languages: English, Korean
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

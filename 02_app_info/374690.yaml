@@ -1,0 +1,171 @@
+details:
+  data:
+    about_the_game: "RigIT is a 3D computer graphics animation tool that automatically\
+      \ rigs skeletons from an animation library to 3D meshes from 3D mesh libraries.\
+      \ RigIT is a fast, high resolution, near pose, automatic rigger that can rig\
+      \ skeletons to meshes with or without well-defined interiors. It allows you\
+      \ to import skeletons and animations from Motion Capture (.bvh) files and automatically\
+      \ rigs them to objects imported from Wavefront (.obj) files that contain a single\
+      \ object mesh.  These rigged meshes can then be exported to a Collada (.dae)\
+      \ file.  RigIT is designed to decrease time to market costs by reducing the\
+      \ time requirement for, and simplifying the process of, assigning animations\
+      \ to computer graphics. <br />\r\n<br />\r\nSystem requirements: <br />\r\n\
+      Operating system: Windows 7 or later<br />\r\n<br />\r\nKey product features:\
+      \ <br />\r\nAutomatic rigging of skeletons to meshes <br />\r\n<br />\r\nTo\
+      \ see tutorials on how to use RigIT see: <br />\r\nhttps://www.youtube.com/channel/UCIiRDJPsojFIja_cDgUwjQw<br\
+      \ />\r\n<br />\r\nFor more information see our website: <br />\r\nhttp://www.rigitgraphics.com/\
+      \ <br />\r\n<br />\r\nTo download Blender for free visit: <br />\r\nhttp://www.blender.org/"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/374690/page_bg_generated_v6b.jpg?t=1448439027
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "RigIT is a 3D computer graphics animation tool that automatically\
+      \ rigs skeletons from an animation library to 3D meshes from 3D mesh libraries.\
+      \ RigIT is a fast, high resolution, near pose, automatic rigger that can rig\
+      \ skeletons to meshes with or without well-defined interiors. It allows you\
+      \ to import skeletons and animations from Motion Capture (.bvh) files and automatically\
+      \ rigs them to objects imported from Wavefront (.obj) files that contain a single\
+      \ object mesh.  These rigged meshes can then be exported to a Collada (.dae)\
+      \ file.  RigIT is designed to decrease time to market costs by reducing the\
+      \ time requirement for, and simplifying the process of, assigning animations\
+      \ to computer graphics. <br />\r\n<br />\r\nSystem requirements: <br />\r\n\
+      Operating system: Windows 7 or later<br />\r\n<br />\r\nKey product features:\
+      \ <br />\r\nAutomatic rigging of skeletons to meshes <br />\r\n<br />\r\nTo\
+      \ see tutorials on how to use RigIT see: <br />\r\nhttps://www.youtube.com/channel/UCIiRDJPsojFIja_cDgUwjQw<br\
+      \ />\r\n<br />\r\nFor more information see our website: <br />\r\nhttp://www.rigitgraphics.com/\
+      \ <br />\r\n<br />\r\nTo download Blender for free visit: <br />\r\nhttp://www.blender.org/"
+    developers:
+    - RigIT
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/374690/header.jpg?t=1448439027
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256656097
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256656097/movie480.mp4?t=1447377823
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256656097/movie_max.mp4?t=1447377823
+      name: RigIT Desktop Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256656097/movie.293x165.jpg?t=1447377823
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256656097/movie480.webm?t=1447377823
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256656097/movie_max.webm?t=1447377823
+    name: RigIT
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: RigIT - $8.99
+        packageid: 69164
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 899
+      title: Buy RigIT
+    packages:
+    - 69164
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>DirectX:</strong>
+        Version 11</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 899
+      final_formatted: $8.99
+      initial: 899
+      initial_formatted: ''
+    publishers:
+    - RigIT
+    release_date:
+      coming_soon: false
+      date: Oct 1, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_d61a72fea5d69ae0724fe487799bf3a181d539d0.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_d61a72fea5d69ae0724fe487799bf3a181d539d0.600x338.jpg?t=1448439027
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_640aa36058c5968efe8ffc649f3b2ee6b03356a0.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_640aa36058c5968efe8ffc649f3b2ee6b03356a0.600x338.jpg?t=1448439027
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_fcf9037796ae7fdca7c19f7b49da385296562c67.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_fcf9037796ae7fdca7c19f7b49da385296562c67.600x338.jpg?t=1448439027
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_0b3add37af2648033b63fc7c5ecb4b9158dba64c.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_0b3add37af2648033b63fc7c5ecb4b9158dba64c.600x338.jpg?t=1448439027
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_6532673ef02847fc711b6f3e0db70a80f524ed8a.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_6532673ef02847fc711b6f3e0db70a80f524ed8a.600x338.jpg?t=1448439027
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_a792a5f02d55687566c738e87f70c1afc9dbfeec.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_a792a5f02d55687566c738e87f70c1afc9dbfeec.600x338.jpg?t=1448439027
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_8a20789fd934bc0d778bd422571cf1b793cef460.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_8a20789fd934bc0d778bd422571cf1b793cef460.600x338.jpg?t=1448439027
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_64e706bfc96c397372a8dbefb2513cceb9edd015.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_64e706bfc96c397372a8dbefb2513cceb9edd015.600x338.jpg?t=1448439027
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_ebd1c05757bf7cd969f6d5fce529b5190646c011.1920x1080.jpg?t=1448439027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374690/ss_ebd1c05757bf7cd969f6d5fce529b5190646c011.600x338.jpg?t=1448439027
+    short_description: RigIT is a 3D computer graphics animation tool that automatically
+      rigs skeletons from an animation library to 3D meshes from 3D mesh libraries.
+    steam_appid: 374690
+    support_info:
+      email: RigITJames@rigitgraphics.com
+      url: http://www.rigitgraphics.com/
+    supported_languages: English
+    type: game
+    website: http://www.rigitgraphics.com/
+  success: true
+reviews:
+  cursor: AoJwhbvh0+cCcpGatQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 3
+    review_score_desc: Negative
+    total_negative: 9
+    total_positive: 1
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 1573721649
+      num_games_owned: 751
+      num_reviews: 41
+      playtime_at_review: 10
+      playtime_forever: 12
+      playtime_last_two_weeks: 0
+      steamid: '76561198054344135'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '47501586'
+    review: I can't get this product to work correctly on my computer.
+    steam_purchase: true
+    timestamp_created: 1544703826
+    timestamp_updated: 1544703826
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

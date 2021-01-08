@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: "All tracks are MP3's and will most likely be downloaded to a\
+      \ location like this: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Little\
+      \ Walker - Soundtrack<br />\r\n<br />\r\n1. Boppin' (Title Screen) 1:01<br />\r\
+      \n2. Whistlin' 1:46<br />\r\n3. Waterin' Hole 0:30<br />\r\n4. The Plunge 1:36<br\
+      \ />\r\n5. Funky Sunshine 1:20<br />\r\n6. Desert Trek 0:48<br />\r\n7. Snow\
+      \ Top 1:30<br />\r\n8. Dungeon Creep 1:05<br />\r\n9. Boss Battle 1:00<br />\r\
+      \n10. Ghost Battle 1:04<br />\r\n11. Home at Last 1:21<br />\r\n12. Reklaw 0:14"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/460440/page_bg_generated_v6b.jpg?t=1518795139
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "All tracks are MP3's and will most likely be downloaded\
+      \ to a location like this: C:\\Program Files (x86)\\Steam\\steamapps\\common\\\
+      Little Walker - Soundtrack<br />\r\n<br />\r\n1. Boppin' (Title Screen) 1:01<br\
+      \ />\r\n2. Whistlin' 1:46<br />\r\n3. Waterin' Hole 0:30<br />\r\n4. The Plunge\
+      \ 1:36<br />\r\n5. Funky Sunshine 1:20<br />\r\n6. Desert Trek 0:48<br />\r\n\
+      7. Snow Top 1:30<br />\r\n8. Dungeon Creep 1:05<br />\r\n9. Boss Battle 1:00<br\
+      \ />\r\n10. Ghost Battle 1:04<br />\r\n11. Home at Last 1:21<br />\r\n12. Reklaw\
+      \ 0:14"
+    developers:
+    - Blake Fix
+    fullgame:
+      appid: '448500'
+      name: Little Walker
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/460440/header.jpg?t=1518795139
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Little Walker - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Little Walker - Soundtrack - $0.99
+        packageid: 100280
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Little Walker - Soundtrack
+    packages:
+    - 100280
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> Something old should be
+        fine.<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        N/A<br></li><li><strong>Storage:</strong> 5 MB available space<br></li><li><strong>Sound
+        Card:</strong> N/A</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Blake Fix
+    release_date:
+      coming_soon: false
+      date: Feb 16, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/460440/ss_de381bf8f8540602d84b7329d90d49a7a061e0a1.1920x1080.jpg?t=1518795139
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/460440/ss_de381bf8f8540602d84b7329d90d49a7a061e0a1.600x338.jpg?t=1518795139
+    short_description: It's the music from the game, silly!
+    steam_appid: 460440
+    support_info:
+      email: blakefix@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwiqjMteMCc9i/oAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 147
+      num_reviews: 15
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198333393167'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '42073475'
+    review: The soundtrack is good. You know that if you've played this game. And
+      if you're here, that means you're buying it. So this is not helpful. k bai now
+    steam_purchase: true
+    timestamp_created: 1526511780
+    timestamp_updated: 1526511780
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.542828679084777832'
+    written_during_early_access: false
+  success: 1

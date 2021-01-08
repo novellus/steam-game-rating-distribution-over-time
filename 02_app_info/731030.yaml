@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: "DLC with full upgraded 2016 PRETENDER with unique design!<br\
+      \ />\r\nEnjoy this premium car!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/731030/page_bg_generated_v6b.jpg?t=1550649083
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "DLC with full upgraded 2016 PRETENDER with unique design!<br\
+      \ />\r\nEnjoy this premium car!"
+    developers:
+    - Drift Physics Crew
+    fullgame:
+      appid: '658570'
+      name: 'FURIDASHI: Drift Cyber Sport'
+    genres:
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/731030/header.jpg?t=1550649083
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'FURIDASHI - PREMIUM CAR: 2016 PRETENDER'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'FURIDASHI - Premium Car: 2016 PRETENDER - $2.99'
+        packageid: 213246
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy FURIDASHI - PREMIUM CAR: 2016 PRETENDER'
+    packages:
+    - 213246
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GT430 or AMD HD5450
+        or Intel HD4000 with 1GB of VRAM<br></li><li><strong>DirectX:</strong> Version
+        9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible
+        sound card<br></li><li><strong>Additional Notes:</strong> Supported Graphics
+        Cards: AMD HD5000 Series, HD6000 Series, HD7000 Series, R7 Series, R9 Series
+        Nvidia GTX400 Series, GTX500 Series, GTX600 Series, GTX700 Series, GTX900
+        Series Intel HD4000 Series, HD5000 Series</li></ul>'
+      recommended: '<strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 3.0 GHz+<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX780 or AMD R9 290<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible
+        sound card<br></li><li><strong>Additional Notes:</strong> Supported Graphics
+        Cards: AMD HD5000 Series, HD6000 Series, HD7000 Series, R7 Series, R9 Series
+        Nvidia GTX400 Series, GTX500 Series, GTX600 Series, GTX700 Series, GTX900
+        Series Intel HD4000 Series, HD5000 Series</li></ul>'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Drift Physics Crew
+    release_date:
+      coming_soon: false
+      date: Nov 2, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/731030/ss_c1a0d818b077cbbedccc5798f354000e46902dd1.1920x1080.jpg?t=1550649083
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/731030/ss_c1a0d818b077cbbedccc5798f354000e46902dd1.600x338.jpg?t=1550649083
+    short_description: DLC with full upgraded 2016 PRETENDER with unique design! Enjoy
+      this premium car!
+    steam_appid: 731030
+    support_info:
+      email: DriftPhysicsCrew@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

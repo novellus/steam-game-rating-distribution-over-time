@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: This package allows you to support the team developing this game.<br><br>As
+      a thank you, you will receive the following perks:<br><br><ul class="bb_ul"><li>
+      Exclusive Chili Pepper token<br></li><li> Supporter badge on profile</li></ul><br>Thank
+      you!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1316340/page_bg_generated_v6b.jpg?t=1590781242
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This package allows you to support the team developing this
+      game.<br><br>As a thank you, you will receive the following perks:<br><br><ul
+      class="bb_ul"><li> Exclusive Chili Pepper token<br></li><li> Supporter badge
+      on profile</li></ul><br>Thank you!
+    developers:
+    - Lunar Chili
+    fullgame:
+      appid: '1167490'
+      name: Link Wars
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1316340/header.jpg?t=1590781242
+    is_free: false
+    legal_notice: All contents are Copyright 2020 by GXM LLC except otherwise specified.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> 10.13+<br></li><li><strong>Processor:</strong>
+        Any Intel 64 bit processor with SSE2<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Metal capable Intel and AMD
+        GPUs<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Link Wars - Supporter DLC
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Link Wars - Supporter DLC - $4.99
+        packageid: 459701
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Link Wars - Supporter DLC
+    packages:
+    - 459701
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        or newer, 64 bit<br></li><li><strong>Processor:</strong> Any processor Intel
+        or AMD with SSE2<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 10+ Capable GPU<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Lunar Chili
+    release_date:
+      coming_soon: false
+      date: May 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316340/ss_f1ebae0abe89a8bbb517a648fc417a8694897d46.1920x1080.jpg?t=1590781242
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316340/ss_f1ebae0abe89a8bbb517a648fc417a8694897d46.600x338.jpg?t=1590781242
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316340/ss_88b94b17e57c29910c7d0ffa890c49e6685f7aab.1920x1080.jpg?t=1590781242
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316340/ss_88b94b17e57c29910c7d0ffa890c49e6685f7aab.600x338.jpg?t=1590781242
+    short_description: Link Wars - Supporter DLC
+    steam_appid: 1316340
+    support_info:
+      email: support@lunarchili.com
+      url: ''
+    supported_languages: English, Italian, Spanish - Spain, Spanish - Latin America
+    type: dlc
+    website: http://linkwars.lunarchili.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

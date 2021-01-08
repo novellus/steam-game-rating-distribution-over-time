@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: '<h2 class="bb_tag">EXZEAL Original Soundtrack</h2><strong>Composer:
+      naoto</strong><br><br><strong>Formats</strong><br><ul class="bb_ul"><li>MP3
+      (320kbps CBR)<br></li><li>FLAC</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/473110/page_bg_generated_v6b.jpg?t=1586413066
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h2 class="bb_tag">EXZEAL Original Soundtrack</h2><strong>Composer:
+      naoto</strong><br><br><strong>Formats</strong><br><ul class="bb_ul"><li>MP3
+      (320kbps CBR)<br></li><li>FLAC</li></ul>'
+    developers:
+    - TRIANGLE SERVICE
+    fullgame:
+      appid: '465060'
+      name: EXZEAL
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/473110/header.jpg?t=1586413066
+    is_free: false
+    legal_notice: "\xA9TRIANGLE SERVICE"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256667349
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256667349/movie480.mp4?t=1581558766
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256667349/movie_max.mp4?t=1581558766
+      name: EXZEAL OST Preview
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256667349/movie.293x165.jpg?t=1581558766
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256667349/movie480.webm?t=1581558766
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256667349/movie_max.webm?t=1581558766
+    name: EXZEAL Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: EXZEAL Original Soundtrack - $4.99
+        packageid: 104924
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy EXZEAL Original Soundtrack
+    packages:
+    - 104924
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        57 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 171 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Degica
+    release_date:
+      coming_soon: false
+      date: Jul 14, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/473110/ss_28699e9ac662d51a984303ddac56f2f7ffd70d0d.1920x1080.jpg?t=1586413066
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/473110/ss_28699e9ac662d51a984303ddac56f2f7ffd70d0d.600x338.jpg?t=1586413066
+    short_description: EXZEAL Original Soundtrack
+    steam_appid: 473110
+    support_info:
+      email: games@degica.com
+      url: ''
+    supported_languages: English, Japanese, Simplified Chinese, Traditional Chinese
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

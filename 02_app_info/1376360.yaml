@@ -1,0 +1,260 @@
+details:
+  data:
+    about_the_game: 'Drive a kart, a racing car or a offroad car (currently only kart)
+      on different locations (currently 10 racetracks) in first person driver view
+      only.   Each car has his own dynamic physics, behavior and racetracks.  Complete
+      quests like getting a good racetime or for example slalom driving (planned).  Complete
+      the quest for one ractrack to unlock the next racetrack (planned). As further
+      you come as more powerfull will the cars get (planned). Per example you start
+      with a 25PS  kart and in the end you drive a 250PS superkart (planned).   <br><br><img
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1376360/extras/gif_menue_small.gif?t=1608350154"
+      /><br><br>You can drive the cars with keyboard (WASD or Arrow keys , R restart
+      track , 1-9 for radio , /*-+ for volume control). Its a development focus that
+      you can drive good with keyboard. Gamepads and steering wheel are also planned
+      to be supported. (Update: Steering Wheel + Force Feedback works now according
+      to player feedback)<br><br>In moment the game is focused on singleplayer only.
+      Multiplayer racing will maybe added later. Content can be missing, added or
+      removed while in development. How the game looks finally at the end of the development
+      is open.  There will be frequent updates while in development (see update thread
+      in discussions) and you can watch the game grow.  Any comments or sugestions
+      in discussions are welcome. When you found any bugs it would be nice when you
+      can report them in discussions.<br><br>The game is being developed on a Ryzen
+      5 1600 processor with a AMD 570rx graphic card. The graphic card is reduced
+      to 50%  performance in AMD driver settings. So the game can run on less powerfull
+      systems. The 3dmark11 performance benchmark score is P9126. The final requirements
+      will be settled when the game is finished developed, but will not exceed the
+      developer system.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1376360/page_bg_generated_v6b.jpg?t=1608350154
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Drive a kart, a racing car or a offroad car (currently
+      only kart) on different locations (currently 10 racetracks) in first person
+      driver view only.   Each car has his own dynamic physics, behavior and racetracks.  Complete
+      quests like getting a good racetime or for example slalom driving (planned).  Complete
+      the quest for one ractrack to unlock the next racetrack (planned). As further
+      you come as more powerfull will the cars get (planned). Per example you start
+      with a 25PS  kart and in the end you drive a 250PS superkart (planned).   <br><br><img
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1376360/extras/gif_menue_small.gif?t=1608350154"
+      /><br><br>You can drive the cars with keyboard (WASD or Arrow keys , R restart
+      track , 1-9 for radio , /*-+ for volume control). Its a development focus that
+      you can drive good with keyboard. Gamepads and steering wheel are also planned
+      to be supported. (Update: Steering Wheel + Force Feedback works now according
+      to player feedback)<br><br>In moment the game is focused on singleplayer only.
+      Multiplayer racing will maybe added later. Content can be missing, added or
+      removed while in development. How the game looks finally at the end of the development
+      is open.  There will be frequent updates while in development (see update thread
+      in discussions) and you can watch the game grow.  Any comments or sugestions
+      in discussions are welcome. When you found any bugs it would be nice when you
+      can report them in discussions.<br><br>The game is being developed on a Ryzen
+      5 1600 processor with a AMD 570rx graphic card. The graphic card is reduced
+      to 50%  performance in AMD driver settings. So the game can run on less powerfull
+      systems. The 3dmark11 performance benchmark score is P9126. The final requirements
+      will be settled when the game is finished developed, but will not exceed the
+      developer system.'
+    developers:
+    - Brandtner
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1376360/header.jpg?t=1608350154
+    is_free: false
+    legal_notice: Copyright 2020 Christian Brandtner. All Rights Reserved.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256797458
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797458/movie480.mp4?t=1599483331
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797458/movie_max.mp4?t=1599483331
+      name: firsttrack_DEV2
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256797458/movie.293x165.jpg?t=1599483331
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797458/movie480_vp9.webm?t=1599483331
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797458/movie_max_vp9.webm?t=1599483331
+    - highlight: true
+      id: 256800064
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800064/movie480.mp4?t=1599483349
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800064/movie_max.mp4?t=1599483349
+      name: sahara
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256800064/movie.293x165.jpg?t=1599483349
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800064/movie480_vp9.webm?t=1599483349
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800064/movie_max_vp9.webm?t=1599483349
+    - highlight: true
+      id: 256803561
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256803561/movie480.mp4?t=1601848195
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256803561/movie_max.mp4?t=1601848195
+      name: forest5
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256803561/movie.293x165.jpg?t=1601848195
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256803561/movie480_vp9.webm?t=1601848195
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256803561/movie_max_vp9.webm?t=1601848195
+    - highlight: true
+      id: 256800821
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800821/movie480.mp4?t=1600027483
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800821/movie_max.mp4?t=1600027483
+      name: forest4
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256800821/movie.293x165.jpg?t=1600027483
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800821/movie480_vp9.webm?t=1600027483
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800821/movie_max_vp9.webm?t=1600027483
+    - highlight: true
+      id: 256798410
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256798410/movie480.mp4?t=1599483340
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256798410/movie_max.mp4?t=1599483340
+      name: secoundtrack_dev
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256798410/movie.293x165.jpg?t=1599483340
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256798410/movie480_vp9.webm?t=1599483340
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256798410/movie_max_vp9.webm?t=1599483340
+    - highlight: true
+      id: 256795870
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256795870/movie480.mp4?t=1599483358
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256795870/movie_max.mp4?t=1599483358
+      name: 1devday1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256795870/movie.293x165.jpg?t=1599483358
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256795870/movie480_vp9.webm?t=1599483358
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256795870/movie_max_vp9.webm?t=1599483358
+    name: AVANTI - The Joy of Driving
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: AVANTI - The Joy of Driving - $0.99
+        packageid: 482782
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy AVANTI - The Joy of Driving
+    packages:
+    - 482782
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        , 8 , 10  (64 bit)<br></li><li><strong>Processor:</strong> Entry gaming system
+        from 2016 (p.e. 3GHz Quad)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Entry gaming card from 2016  (p.e. NVIDIA GTX 1050, AMD RX 460 , ...)<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional
+        Notes:</strong> Game is in development so requirements can change</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 (64 bit)<br></li><li><strong>Processor:</strong> AMD RYZEN 5  1600 or equal  (Intel
+        I7) or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        AMD RX 570 or equal or better (p.e NVIDIA GTX 1060)<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Brandtner
+    release_date:
+      coming_soon: false
+      date: Oct 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_efcb7aafd33abad89d6ff455b8a0ae1e45baae7f.1920x1080.jpg?t=1608350154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_efcb7aafd33abad89d6ff455b8a0ae1e45baae7f.600x338.jpg?t=1608350154
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_1b82a11912808f1379c02ab926c2439563d61617.1920x1080.jpg?t=1608350154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_1b82a11912808f1379c02ab926c2439563d61617.600x338.jpg?t=1608350154
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_5ec1ab49093040402c274712a247ae4ae2a34b8f.1920x1080.jpg?t=1608350154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_5ec1ab49093040402c274712a247ae4ae2a34b8f.600x338.jpg?t=1608350154
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_9c9d11632b915098477ceb59fbeacd8d6fcf290b.1920x1080.jpg?t=1608350154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_9c9d11632b915098477ceb59fbeacd8d6fcf290b.600x338.jpg?t=1608350154
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_656f3424962085185e59a62c65ece5f47e238d20.1920x1080.jpg?t=1608350154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_656f3424962085185e59a62c65ece5f47e238d20.600x338.jpg?t=1608350154
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_3e9edb8269126e00a515528486133f1b051f2304.1920x1080.jpg?t=1608350154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_3e9edb8269126e00a515528486133f1b051f2304.600x338.jpg?t=1608350154
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_d5de2e4e6a6a80be713da9fa003447d8f0aff6cc.1920x1080.jpg?t=1608350154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376360/ss_d5de2e4e6a6a80be713da9fa003447d8f0aff6cc.600x338.jpg?t=1608350154
+    short_description: Drive different cars on different locations in first person
+      driver view only. Complete quests like getting a good racetime or for example
+      slalom driving to unlock the next racetrack. Or just drive for relaxing.
+    steam_appid: 1376360
+    support_info:
+      email: avanti@chbran.de
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ43uCP2PYCePDHvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 1
+    total_positive: 6
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 1609254035
+      num_games_owned: 3
+      num_reviews: 1
+      playtime_at_review: 400
+      playtime_forever: 400
+      playtime_last_two_weeks: 345
+      steamid: '76561199094141111'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '83509000'
+    review: "Il est tr\xE8s bien il peut ce jouer avec un volant + les devellopements\
+      \ j'ai h\xE2te qui sorte sinon tr\xE8s bon jeux je le recommande"
+    steam_purchase: true
+    timestamp_created: 1609274689
+    timestamp_updated: 1609274689
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

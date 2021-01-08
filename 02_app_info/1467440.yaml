@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: "Composed by Jerry Martin, this is the SimCasino Soundtrack. \
+      \ A total of 16 of the highest-quality tracks that span nearly 90-minutes.<br\
+      \ />\r\n<br />\r\nEach track is available in high-quality MP3 format and lossless\
+      \ FLACC format."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1467440/page_bg_generated_v6b.jpg?t=1606079820
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Composed by Jerry Martin, this is the SimCasino Soundtrack.\
+      \  A total of 16 of the highest-quality tracks that span nearly 90-minutes.<br\
+      \ />\r\n<br />\r\nEach track is available in high-quality MP3 format and lossless\
+      \ FLACC format."
+    developers:
+    - LVGameDev LLC
+    fullgame:
+      appid: '1158420'
+      name: SimCasino
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1467440/header.jpg?t=1606079820
+    is_free: false
+    legal_notice: SimCasino is a registered trademark of LVGameDev LLC. All rights
+      reserved.
+    linux_requirements: []
+    mac_requirements: []
+    name: SimCasino Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SimCasino Soundtrack - $9.99
+        packageid: 516712
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy SimCasino Soundtrack
+    packages:
+    - 516712
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 1500 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - LVGameDev LLC
+    release_date:
+      coming_soon: false
+      date: Nov 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1467440/ss_2229cb247586488b20b61a153908eea00bf2b258.1920x1080.jpg?t=1606079820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1467440/ss_2229cb247586488b20b61a153908eea00bf2b258.600x338.jpg?t=1606079820
+    short_description: Composed by Jerry Martin, the SimCasino Soundtrack.
+    steam_appid: 1467440
+    support_info:
+      email: support@simcasinogame.com
+      url: https://www.simcasinogame.com/
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ42oPy1PYCd6CPvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 399
+      num_reviews: 220
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197972642306'
+    comment_count: 2
+    language: english
+    received_for_free: false
+    recommendationid: '83393031'
+    review: "The music is cheerful enough, but I bought this mostly to support the\
+      \ Dev's in the advancement of this game that I'm growing fond of.\n\n[b][i]\U0001D4D0\
+      \U0001D4FC \U0001D4D0\U0001D4F5\U0001D500\U0001D4EA\U0001D502\U0001D4FC,\n\U0001D4DA\
+      \U0001D4EE\U0001D4EE\U0001D4F9 \U0001D4DE\U0001D4F7 \U0001D4D6\U0001D4EA\U0001D4F6\
+      \U0001D4F2\U0001D4F7\U0001D4F0![/i] \U0001F431\U0001F44D[/b]"
+    steam_purchase: true
+    timestamp_created: 1609166233
+    timestamp_updated: 1609166233
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.562155544757843018'
+    written_during_early_access: false
+  success: 1

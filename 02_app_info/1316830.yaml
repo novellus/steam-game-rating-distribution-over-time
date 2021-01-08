@@ -1,0 +1,180 @@
+details:
+  data:
+    about_the_game: 'Simply Puzzles: Codewords features 100 handmade codewords, presented
+      in a simple, clean format.<br><br>Each letter of the alphabet has a number -
+      figure out which number and fill the grid.<br><br><ul class="bb_ul"><li>100
+      handcrafted codewords<br></li><li>Relaxing, meditative presentation designed
+      to help you focus<br></li><li>Steam achievements<br></li><li>Cloud saves</li></ul><br>No
+      distractions, no fuss - simply codewords.'
+    achievements:
+      highlighted:
+      - name: 10!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/164941ffabaa97d1001f5d7e1e619ec108d7f6a3.jpg
+      - name: 20!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/daaf0d1d43a4e21f936905cf02db12f367c93c59.jpg
+      - name: 30!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/83b9b8e5e937d9f0dab4925693eefe41f1488ec4.jpg
+      - name: 40!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/87c5d80fd30dc861521aaa7b543a9ee266f6b5ea.jpg
+      - name: 50!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/e94265d21a4a426f3b31030dac04099c16700a70.jpg
+      - name: 60!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/c53829d661f1ba7186a3caad21ec0f3d137143d0.jpg
+      - name: 70!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/fc9aba9e41f520873dfac6e120492a96882abb44.jpg
+      - name: 80!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/c3c065dca80a5ea43d6ca9a968a49f842ecf8114.jpg
+      - name: 90!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/0d364ec4c8e470440073261922dd367ec8bff107.jpg
+      - name: And done!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1316830/217875467e7d51600613a0bbfba52f3e0b8540c2.jpg
+      total: 10
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1316830/page_bg_generated_v6b.jpg?t=1591691861
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1344160
+      description: ''
+    detailed_description: 'Simply Puzzles: Codewords features 100 handmade codewords,
+      presented in a simple, clean format.<br><br>Each letter of the alphabet has
+      a number - figure out which number and fill the grid.<br><br><ul class="bb_ul"><li>100
+      handcrafted codewords<br></li><li>Relaxing, meditative presentation designed
+      to help you focus<br></li><li>Steam achievements<br></li><li>Cloud saves</li></ul><br>No
+      distractions, no fuss - simply codewords.'
+    developers:
+    - Simply Puzzles
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1316830/header.jpg?t=1591691861
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Latest Ubuntu LTS<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 2.0+<br></li><li><strong>Storage:</strong>
+        90 MB available space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256784960
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784960/movie480.mp4?t=1589622909
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784960/movie_max.mp4?t=1589622909
+      name: Landing Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256784960/movie.293x165.jpg?t=1589622909
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784960/movie480_vp9.webm?t=1589622909
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784960/movie_max_vp9.webm?t=1589622909
+    name: 'Simply Puzzles: Codewords'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Simply Puzzles: Codewords - $2.99'
+        packageid: 459858
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy Simply Puzzles: Codewords'
+    packages:
+    - 459858
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 2.0+<br></li><li><strong>Storage:</strong>
+        90 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Simply Puzzles
+    release_date:
+      coming_soon: false
+      date: Jun 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_ff1c5aa8805b45393f0887e4ee0e9edbbd384407.1920x1080.jpg?t=1591691861
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_ff1c5aa8805b45393f0887e4ee0e9edbbd384407.600x338.jpg?t=1591691861
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_afa0acc887592c6521adfa42d28f65ae2e0103c3.1920x1080.jpg?t=1591691861
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_afa0acc887592c6521adfa42d28f65ae2e0103c3.600x338.jpg?t=1591691861
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_09a89eee5cf8123da99d6b85b09deb9b0952e5ef.1920x1080.jpg?t=1591691861
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_09a89eee5cf8123da99d6b85b09deb9b0952e5ef.600x338.jpg?t=1591691861
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_1eeba2ad304f898460a4af33fefa103cd78b08c4.1920x1080.jpg?t=1591691861
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_1eeba2ad304f898460a4af33fefa103cd78b08c4.600x338.jpg?t=1591691861
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_ee696d7e8c8a5bce7f6f117c2a2df913b8f9eb7d.1920x1080.jpg?t=1591691861
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316830/ss_ee696d7e8c8a5bce7f6f117c2a2df913b8f9eb7d.600x338.jpg?t=1591691861
+    short_description: 100 handcrafted codewords designed to help you relax. Solve
+      the code and reveal the answers.
+    steam_appid: 1316830
+    support_info:
+      email: simplypuzzlegames@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwsoTk4fYCfbrfvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 2
+    total_positive: 5
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 1609710010
+      num_games_owned: 4
+      num_reviews: 1
+      playtime_at_review: 24
+      playtime_forever: 101
+      playtime_last_two_weeks: 101
+      steamid: '76561198445690949'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83819437'
+    review: It needs a 'show mistake' or a hint button otherwise you'll never get
+      it.
+    steam_purchase: true
+    timestamp_created: 1609598772
+    timestamp_updated: 1609598772
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

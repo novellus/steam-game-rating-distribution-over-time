@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: "The <strong>\u201EUnrailed!\u201C</strong> base soundtrack."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1150930/page_bg_generated_v6b.jpg?t=1605195811
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The <strong>\u201EUnrailed!\u201C</strong> base soundtrack."
+    developers:
+    - Indoor Astronaut
+    fullgame:
+      appid: '1016920'
+      name: Unrailed!
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1150930/header.jpg?t=1605195811
+    is_free: false
+    legal_notice: "\xA92019 Daedalic Entertainment GmbH and Indoor Astronaut GmbH.\
+      \ The Daedalic logo is a trademark of Daedalic Entertainment GmbH, Germany.\
+      \ All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Unrailed! - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Unrailed! - Supporter Pack - <span class="discount_original_price">$6.99</span>
+          $4.89
+        packageid: 392255
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 489
+      title: Buy Unrailed! - Soundtrack
+    packages:
+    - 392255
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        113 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 491 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 489
+      final_formatted: $4.89
+      initial: 699
+      initial_formatted: $6.99
+    publishers:
+    - Daedalic Entertainment
+    - bilibili(China)
+    release_date:
+      coming_soon: false
+      date: Sep 9, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1150930/ss_ff6b1e0d73e2e059abcf2e4f3a9b6a9a698a5114.1920x1080.jpg?t=1605195811
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1150930/ss_ff6b1e0d73e2e059abcf2e4f3a9b6a9a698a5114.600x338.jpg?t=1605195811
+    short_description: "The \u201EUnrailed!\u201C base soundtrack."
+    steam_appid: 1150930
+    support_info:
+      email: support@indoorastronaut.ch
+      url: https://indoorastronaut.ch
+    type: music
+    website: https://unrailed-game.com
+  success: true
+reviews:
+  cursor: AoJwop/biPUCfeT7pgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 48
+      num_reviews: 6
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198867256144'
+    comment_count: 1
+    language: english
+    received_for_free: false
+    recommendationid: '77323853'
+    review: how to access the Nocturne version of the OST?
+    steam_purchase: true
+    timestamp_created: 1602315156
+    timestamp_updated: 1602315156
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

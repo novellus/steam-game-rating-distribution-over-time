@@ -1,0 +1,233 @@
+details:
+  data:
+    about_the_game: This game is unfair. We had a game designer, but we were constantly
+      bombarded with things like &quot;progressive difficulty&quot;, &quot;learning
+      curve&quot; or &quot;level design&quot;, so we fired him and we simply put things
+      that kill you scattered on the screen. Your goal is to reach the end by dodging
+      all the deadly traps that you will encounter along the way. Are you ready?<br><br>In
+      this platform game with pixel art graphics you will have to climb a mountain
+      by jumping, climbing and using different items.<br><br>You will fall into the
+      traps ... there are no hints! Memorize the ones you find to avoid to fall twice
+      in them.<br><br><br><strong>Features</strong><br><ul class="bb_ul"><li> Platform
+      game.<br></li><li> Beautiful pixel art graphics.<br></li><li> Different play
+      areas (stone, lava, ice ...).<br></li><li> Dozens of hidden and unexpected deadly
+      traps.</li></ul>
+    achievements:
+      highlighted:
+      - name: First death
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/9fa6e2f53e818ef2388f51aed3e8ce9ffecbb31b.jpg
+      - name: Zero deaths
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/87972b2bb81899683e07c8089ade67c608bbf5e6.jpg
+      - name: Just a big monkey
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/e6a6495749aea2eae7de71523f99f99afdc32501.jpg
+      - name: More bones here
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/59bedc3f498386f604c3296de80508bf1f97ae42.jpg
+      - name: You have reached the top
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/71096c70a85fb1b93c5dfb8cfc0d7b457f8e7301.jpg
+      - name: Fastest climber
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/75e98244670150e49fa77aaa9c4d13bfd506f5c4.jpg
+      - name: Quite fast
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/013a376c25f715fae53a70d704a4d3d40503ed47.jpg
+      - name: Turtle climber
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/aa7f9a111b41a0a3bdcddc1442ed2912012c69d9.jpg
+      - name: Friend or foe?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/7ee6009e07b1b798da5b3366358b30ce8f70d934.jpg
+      - name: Never seen monument
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1154640/2cac3600e0d488ccaf107537eb000e6f40a8360f.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1154640/page_bg_generated_v6b.jpg?t=1592567249
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: The character is going to die a lot of times with tons of blood.
+    controller_support: full
+    detailed_description: This game is unfair. We had a game designer, but we were
+      constantly bombarded with things like &quot;progressive difficulty&quot;, &quot;learning
+      curve&quot; or &quot;level design&quot;, so we fired him and we simply put things
+      that kill you scattered on the screen. Your goal is to reach the end by dodging
+      all the deadly traps that you will encounter along the way. Are you ready?<br><br>In
+      this platform game with pixel art graphics you will have to climb a mountain
+      by jumping, climbing and using different items.<br><br>You will fall into the
+      traps ... there are no hints! Memorize the ones you find to avoid to fall twice
+      in them.<br><br><br><strong>Features</strong><br><ul class="bb_ul"><li> Platform
+      game.<br></li><li> Beautiful pixel art graphics.<br></li><li> Different play
+      areas (stone, lava, ice ...).<br></li><li> Dozens of hidden and unexpected deadly
+      traps.</li></ul>
+    developers:
+    - Flat Cat Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1154640/header.jpg?t=1592567249
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256784978
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784978/movie480.mp4?t=1589203504
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784978/movie_max.mp4?t=1589203504
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256784978/movie.293x165.jpg?t=1589203504
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784978/movie480_vp9.webm?t=1589203504
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784978/movie_max_vp9.webm?t=1589203504
+    name: Safe Climbing
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Safe Climbing - $4.99
+        packageid: 393736
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Safe Climbing
+    packages:
+    - 393736
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10, 8.1, 8, 7<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>\
+        \ 200 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10, 8.1, 8, 7<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Quad Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>\
+        \ 200 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Flat Cat Games
+    release_date:
+      coming_soon: false
+      date: Jun 19, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_48467cd0be887fccfa1443572c3bcd5549285456.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_48467cd0be887fccfa1443572c3bcd5549285456.600x338.jpg?t=1592567249
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_51e3b13e9e7bef69439f52a8e98d5799139ab556.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_51e3b13e9e7bef69439f52a8e98d5799139ab556.600x338.jpg?t=1592567249
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_accfb85bd7a66e91d78e1d1bbdd00e731df649eb.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_accfb85bd7a66e91d78e1d1bbdd00e731df649eb.600x338.jpg?t=1592567249
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_715c7d13ccf3c9df91c2542457ae2e030ca065e3.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_715c7d13ccf3c9df91c2542457ae2e030ca065e3.600x338.jpg?t=1592567249
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_c8aa10884202a408837a43b27dabb04119a8df72.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_c8aa10884202a408837a43b27dabb04119a8df72.600x338.jpg?t=1592567249
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_9995afbd3acacbdecc8ed28f534a323a2b67255d.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_9995afbd3acacbdecc8ed28f534a323a2b67255d.600x338.jpg?t=1592567249
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_f614b89319cf0babcc4c116765f34fba50d7c2be.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_f614b89319cf0babcc4c116765f34fba50d7c2be.600x338.jpg?t=1592567249
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_f96c92e3a46c3dad09b79a02dca8158f1e204014.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_f96c92e3a46c3dad09b79a02dca8158f1e204014.600x338.jpg?t=1592567249
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_d2b21a9998a0910ce0f6b1326fdf888202e3543d.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_d2b21a9998a0910ce0f6b1326fdf888202e3543d.600x338.jpg?t=1592567249
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_286d048b9ae42d533029f7f412318cf3e56134b8.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_286d048b9ae42d533029f7f412318cf3e56134b8.600x338.jpg?t=1592567249
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_882ce5d5041aec85c8e3ce30462fd5d310550ae4.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_882ce5d5041aec85c8e3ce30462fd5d310550ae4.600x338.jpg?t=1592567249
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_e06e543aa98f41eff3a9f5fb51fa1924f8862817.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_e06e543aa98f41eff3a9f5fb51fa1924f8862817.600x338.jpg?t=1592567249
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_01a9866a2d69e1cd7c2007d0762f4c0291f77be5.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_01a9866a2d69e1cd7c2007d0762f4c0291f77be5.600x338.jpg?t=1592567249
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_445131097edba5103d227e25af91252cd985d467.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_445131097edba5103d227e25af91252cd985d467.600x338.jpg?t=1592567249
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_9a83eaf8fc46ef82c14d9980410bae00dac9ef6f.1920x1080.jpg?t=1592567249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1154640/ss_9a83eaf8fc46ef82c14d9980410bae00dac9ef6f.600x338.jpg?t=1592567249
+    short_description: Your goal is to reach the end by dodging all the deadly traps
+      that you will encounter along the way. Are you ready?
+    steam_appid: 1154640
+    support_info:
+      email: info@flatcatgames.com
+      url: ''
+    supported_languages: English, Spanish - Spain
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwz/z28PUCepysrwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 1
+    total_positive: 5
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1605067492
+      num_games_owned: 138
+      num_reviews: 13
+      playtime_at_review: 16
+      playtime_forever: 16
+      playtime_last_two_weeks: 0
+      steamid: '76561197968056351'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '79520202'
+    review: 'Instant death instant death instant death. That is exactly what you''ll
+      get out of this game. Difficulty is fine, but it must be stressed that it needs
+      to be fair which this game seems to actively avoid being. A standard run is
+      like this: begin play until you meet a sudden unavoidable death. Play again
+      through again until you meet that obstacle and carefully navigate around it
+      until meeting your next unavoidable death. Repeat af nauseum. The problem with
+      this is that there aren''t any real gameplay elements to break up the tedium
+      of rote memorisation of these hazards, which makes it not so much a game as
+      a monotonous test of patience.'
+    steam_purchase: true
+    timestamp_created: 1605812086
+    timestamp_updated: 1605812086
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

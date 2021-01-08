@@ -1,0 +1,134 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">What is this DLC?</h2>This DLC is a &quot;Support
+      Pack&quot; This is meant for people who wish to help financing the development
+      of the game<h2 class="bb_tag"><strong><u>Take note</u></strong>, </h2><u><strong>The
+      DLCs only includes non essential things. </strong></u><br><strong>We do not
+      want to force players to buy the DLCs. Therefore, we won't have any game content
+      locked behind a paywall<br>We believe those are hostile practices</strong><h2
+      class="bb_tag">What does this DLC Includes?</h2><u><i>The Support Pack 1 DLC
+      contain the following:</i></u><br><ul class="bb_ul"><li> A High Definition Digital
+      Poster<br></li><li> A thank you Text file</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1171190/page_bg_generated_v6b.jpg?t=1572497943
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">What is this DLC?</h2>This DLC is a &quot;Support
+      Pack&quot; This is meant for people who wish to help financing the development
+      of the game<h2 class="bb_tag"><strong><u>Take note</u></strong>, </h2><u><strong>The
+      DLCs only includes non essential things. </strong></u><br><strong>We do not
+      want to force players to buy the DLCs. Therefore, we won't have any game content
+      locked behind a paywall<br>We believe those are hostile practices</strong><h2
+      class="bb_tag">What does this DLC Includes?</h2><u><i>The Support Pack 1 DLC
+      contain the following:</i></u><br><ul class="bb_ul"><li> A High Definition Digital
+      Poster<br></li><li> A thank you Text file</li></ul>
+    developers:
+    - Wicpar
+    fullgame:
+      appid: '1164850'
+      name: Sinking Simulator
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1171190/header.jpg?t=1572497943
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    name: 'Sinking Simulator: Support Pack 1'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Support pack 1 - $1.25
+        packageid: 400628
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 125
+      title: 'Buy Sinking Simulator: Support Pack 1'
+    packages:
+    - 400628
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 125
+      final_formatted: $1.25
+      initial: 125
+      initial_formatted: ''
+    publishers:
+    - Pac0master
+    release_date:
+      coming_soon: false
+      date: Oct 30, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1171190/ss_ce5ddbb93133d1fb89f1a7f687c0b4ed6789d5e2.1920x1080.jpg?t=1572497943
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1171190/ss_ce5ddbb93133d1fb89f1a7f687c0b4ed6789d5e2.600x338.jpg?t=1572497943
+    short_description: This is the first Support Pack DLC meant for people who wish
+      to help finance the development of the game
+    steam_appid: 1171190
+    support_info:
+      email: ''
+      url: https://discord.gg/h2ycGkC
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ427WO//QCdoOcpgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 4
+    total_positive: 20
+    total_reviews: 24
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 27
+      num_reviews: 8
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198024653540'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77127734'
+    review: why is not pack 2 for playes
+    steam_purchase: true
+    timestamp_created: 1601993027
+    timestamp_updated: 1601993027
+    voted_up: false
+    votes_funny: 4
+    votes_up: 0
+    weighted_vote_score: '0.311750590801239014'
+    written_during_early_access: false
+  success: 1

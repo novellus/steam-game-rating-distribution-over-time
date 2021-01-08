@@ -1,0 +1,186 @@
+details:
+  data:
+    about_the_game: "It is time to annihilate those damn mice! Try to get more points\
+      \ and defeat your friends in the ranking. Do not let those rats proliferate\
+      \ and rule the world!<br />\r\n<br />\r\nKill as many rats as you can by controlling\
+      \ two basketballs. Try to make as many combos and hits as you can to boost your\
+      \ points. In the end send and compare your score in the world ranking."
+    achievements:
+      highlighted:
+      - name: Down 30000
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/676000/107f05d8f21eb3ef56ea5cf0eaa98ebeb82bce46.jpg
+      - name: Strike
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/676000/d3707ceb2ac94e1a0a87d070c38b4bc7bd7b4de9.jpg
+      - name: Enemy Strike 20
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/676000/1d3a626ae40ccfe63f69d26e9affd1529bd7962c.jpg
+      - name: Score 5000
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/676000/c6ec2adbeff78768e04fa8e7cfc30d19d4b95d54.jpg
+      - name: Score 1000
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/676000/f0423310ab58a9001e362a6c8ce7d22c93500987.jpg
+      - name: Hit 100
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/676000/ae487f06e79a0ea0b285844b6c7c889b9feb8504.jpg
+      - name: Hit 300
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/676000/d33b83644e1a0050ddb8c529d54e7afcb8bc488e.jpg
+      total: 7
+    background: https://steamcdn-a.akamaihd.net/steam/apps/676000/page_bg_generated_v6b.jpg?t=1503158102
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "It is time to annihilate those damn mice! Try to get more\
+      \ points and defeat your friends in the ranking. Do not let those rats proliferate\
+      \ and rule the world!<br />\r\n<br />\r\nKill as many rats as you can by controlling\
+      \ two basketballs. Try to make as many combos and hits as you can to boost your\
+      \ points. In the end send and compare your score in the world ranking."
+    developers:
+    - Tower Up Studios
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/676000/header.jpg?t=1503158102
+    is_free: false
+    linux_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+<br></li><li><strong>Processor:</strong> SSE2 instruction
+        set support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+    mac_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+    movies:
+    - highlight: true
+      id: 256689893
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256689893/movie480.mp4?t=1501987793
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256689893/movie_max.mp4?t=1501987793
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256689893/movie.293x165.jpg?t=1501987793
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256689893/movie480.webm?t=1501987793
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256689893/movie_max.webm?t=1501987793
+    name: Bloody Mice
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Bloody Mice - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 192631
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy Bloody Mice
+    packages:
+    - 192631
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Tower Up Studios
+    release_date:
+      coming_soon: false
+      date: Aug 19, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_f8a2af6eca46282bef5ac62d888e4b25684c8186.1920x1080.jpg?t=1503158102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_f8a2af6eca46282bef5ac62d888e4b25684c8186.600x338.jpg?t=1503158102
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_d12b8e189f0de3f92f4ea3838334a63c3283212c.1920x1080.jpg?t=1503158102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_d12b8e189f0de3f92f4ea3838334a63c3283212c.600x338.jpg?t=1503158102
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_d7e62e8f6a1811588108d784899b5e61b31ca047.1920x1080.jpg?t=1503158102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_d7e62e8f6a1811588108d784899b5e61b31ca047.600x338.jpg?t=1503158102
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_cab04449a06ed96e5a73cb12c7f408a0f3e8e65e.1920x1080.jpg?t=1503158102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_cab04449a06ed96e5a73cb12c7f408a0f3e8e65e.600x338.jpg?t=1503158102
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_e5c6c38ac2c039e9b40dc97e22814bbf069c7e46.1920x1080.jpg?t=1503158102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/676000/ss_e5c6c38ac2c039e9b40dc97e22814bbf069c7e46.600x338.jpg?t=1503158102
+    short_description: It is time to annihilate those damn mice! Try to get more points
+      and defeat your friends in the ranking. Do not let those rats proliferate and
+      rule the world!
+    steam_appid: 676000
+    support_info:
+      email: contato@towerupstudios.com
+      url: http://towerupstudios.com
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwy7XTuPQCfbzaoAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 11
+    total_positive: 28
+    total_reviews: 39
+  reviews:
+  - author:
+      last_played: 1598317795
+      num_games_owned: 201
+      num_reviews: 50
+      playtime_at_review: 110
+      playtime_forever: 110
+      playtime_last_two_weeks: 0
+      steamid: '76561198151343175'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75682765'
+    review: 'maybe for the first time its fun, but repetitive and just for achievement
+      or highscore
+
+      but the last achievement its need so many time maybe and know pattern,
+
+      u just do nothing in this game, but for the price its okay
+
+      but im not recommended this game
+
+      '
+    steam_purchase: true
+    timestamp_created: 1599628750
+    timestamp_updated: 1599628750
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

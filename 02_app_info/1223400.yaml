@@ -1,0 +1,77 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Captions available
+      id: 13
+    - description: In-App Purchases
+      id: 35
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: 'This is a text-based game, no graphics, or sound effects, but does contain
+        written depictions of romance and sex. '
+    detailed_description: ''
+    developers:
+    - Heart's Choice
+    fullgame:
+      appid: '1223390'
+      name: A Player's Heart
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1223400/header.jpg?t=1581609018
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.4</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.9</li></ul>
+    name: A Player's Heart Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Heart's Choice
+    release_date:
+      coming_soon: false
+      date: Feb 13, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1223400
+    support_info:
+      email: support-playersheart-steam@heartschoice.com
+      url: https://www.choiceofgames.com/contact-us
+    supported_languages: English
+    type: demo
+    website: https://www.heartschoice.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

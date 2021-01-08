@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: This is a sponsored page, if you like it and want to support the
+      author, please buy it without hesitation!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1107260/page_bg_generated_v6b.jpg?t=1562082834
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This is a sponsored page, if you like it and want to support
+      the author, please buy it without hesitation!
+    developers:
+    - Team Yume
+    fullgame:
+      appid: '1084570'
+      name: The Lar
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1107260/header.jpg?t=1562082834
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Lar - Support Us!
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Lar - Support Us! - $1.99
+        packageid: 374160
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy The Lar - Support Us!
+    packages:
+    - 374160
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        HEY!<br></li><li><strong>Processor:</strong> HEY!<br></li><li><strong>Memory:</strong>
+        HEY! MB RAM<br></li><li><strong>Graphics:</strong> HEY!<br></li><li><strong>Storage:</strong>
+        HEY! MB available space<br></li><li><strong>Sound Card:</strong> HEY!<br></li><li><strong>Additional
+        Notes:</strong> HEY!</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 2, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1107260/ss_168e6014c24327d8e296e76d8de47d1e476f3864.1920x1080.jpg?t=1562082834
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1107260/ss_168e6014c24327d8e296e76d8de47d1e476f3864.600x338.jpg?t=1562082834
+    short_description: "Support the Team Yume~\uFF01"
+    steam_appid: 1107260
+    support_info:
+      email: 2805707069@QQ.COM
+      url: ''
+    supported_languages: Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4/seCq/YCcKKzuQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 27
+    total_reviews: 28
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 5
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199078064227'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '82156064'
+    review: 2020/12/12 support
+    steam_purchase: true
+    timestamp_created: 1607761281
+    timestamp_updated: 1607761281
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

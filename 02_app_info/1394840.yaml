@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      highlighted:
+      - name: First Ice Cream
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1394840/cb03e0dca9b3a22d97f2edb68ddac02c28bdf031.jpg
+      - name: Gift for Myself
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1394840/50928aee92a529edf89716f380317d0a0562e227.jpg
+      - name: Don't cry over missed balloon
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1394840/e30644e61fff69316ec5e518d30e9a47cd0b00df.jpg
+      - name: Tadah!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1394840/eeae268f3ec31368321faf76e1039250161db486.jpg
+      - name: Nice Catch
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1394840/af541191bddb22fc275ea754a9d7a8f19511c6d8.jpg
+      - name: Employee of the Month
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1394840/c16b2c6f4973255eb8510dd8434c4554baed0c80.jpg
+      total: 6
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Stormev
+    fullgame:
+      appid: '1375040'
+      name: Ice Cream Truck
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1394840/header.jpg?t=1599719676
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Ice Cream Truck Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Stormev
+    release_date:
+      coming_soon: false
+      date: Sep 9, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1394840
+    support_info:
+      email: stormev2016@gmail.com
+      url: https://stormev.com
+    supported_languages: English, Korean
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

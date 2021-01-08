@@ -1,0 +1,60 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: May contain explicit violence, blood, and gore, crude language, partial
+        or veiled nudity, sexual themes, including allusions to sexual assault, suicide,
+        references to alcohol or drug use, and metaphors inappropriate for children.
+    detailed_description: ''
+    developers:
+    - DMM GAMES
+    fullgame:
+      appid: '1372300'
+      name: Iwaihime
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1418000/header.jpg?t=1608651287
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Iwaihime Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Shiravune
+    release_date:
+      coming_soon: false
+      date: Oct 2, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1418000
+    support_info:
+      email: ''
+      url: https://docs.google.com/forms/d/16fNtSXMmSRmv__Y3a2CMiJJlphavtBq7xYXG0bKCg84/
+    supported_languages: English, Japanese<strong>*</strong>, Simplified Chinese,
+      Traditional Chinese<br><strong>*</strong>languages with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

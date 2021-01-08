@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '736000'
+      name: The Reflection
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/736000/header.jpg?t=1552583063
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Reflection: Survivor'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Reflection: Survivor - $1.99'
+        packageid: 216833
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy The Reflection: Survivor'
+    packages:
+    - 216833
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 26, 2017
+    required_age: 0
+    short_description: What is the connection between the flying hero I-Guy and the
+      world-changing event called the Reflection? Will more heroes emerge, or will
+      more Reflected choose to become criminals? Will society give them a choice?
+    steam_appid: 740481
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw696BsN8CfefGiQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1509144517
+      num_games_owned: 435
+      num_reviews: 516
+      playtime_at_review: 23
+      playtime_forever: 23
+      playtime_last_two_weeks: 0
+      steamid: '76561198064494426'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '36058749'
+    review: "(\uFF89\u25D5\u30EE\u25D5)\uFF89*:\uFF65\uFF9F\u2727 \u2727\uFF9F\uFF65\
+      : *\u30FD(\u25D5\u30EE\u25D5\u30FD)"
+    steam_purchase: true
+    timestamp_created: 1509144590
+    timestamp_updated: 1509144590
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.519999980926513672'
+    written_during_early_access: false
+  success: 1

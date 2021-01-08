@@ -1,0 +1,101 @@
+details:
+  data:
+    about_the_game: '<h2 class="bb_tag">What is Slab?</h2>If you don''t know what
+      Slab it is, check the game here: <a href="https://store.steampowered.com/app/844180/Slab/"
+      target="_blank" rel="noreferrer"  >Slab on steam</a><h2 class="bb_tag">About
+      DLC</h2>The DLC includes all tracks from Slab. If you want to support my work
+      you can do it by buying the DLC.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1060642/page_bg_generated_v6b.jpg?t=1586370812
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 981530
+      description: ''
+    detailed_description: '<h1>MORE GAMES</h1><p><a href="https://store.steampowered.com/app/1269630/Western_Sigil/"
+      target="_blank" rel="noreferrer"  id="dynamiclink_0" >https://store.steampowered.com/app/1269630/Western_Sigil/</a></p><br><h1>About
+      the Game</h1><h2 class="bb_tag">What is Slab?</h2>If you don''t know what Slab
+      it is, check the game here: <a href="https://store.steampowered.com/app/844180/Slab/"
+      target="_blank" rel="noreferrer"  >Slab on steam</a><h2 class="bb_tag">About
+      DLC</h2>The DLC includes all tracks from Slab. If you want to support my work
+      you can do it by buying the DLC.'
+    developers:
+    - Smash The Code
+    fullgame:
+      appid: '844180'
+      name: Slab
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1060642/header.jpg?t=1586370812
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Slab - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Soundtrack - <span class="discount_original_price">$2.99</span>
+          $1.49
+        packageid: 354542
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 149
+      title: Buy Slab - Soundtrack
+    packages:
+    - 354542
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 149
+      final_formatted: $1.49
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - Smash The Code
+    release_date:
+      coming_soon: false
+      date: Oct 21, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1060642/ss_a143e9b66a9f697ca240a796d48f086725de41a6.1920x1080.jpg?t=1586370812
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1060642/ss_a143e9b66a9f697ca240a796d48f086725de41a6.600x338.jpg?t=1586370812
+    short_description: The DLC includes all tracks from Slab. If you want to support
+      my work you can do it by buying the DLC.
+    steam_appid: 1060642
+    support_info:
+      email: contact@smashthecode.com
+      url: http://smashthecode.com
+    supported_languages: English
+    type: music
+    website: http://smashthecode.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

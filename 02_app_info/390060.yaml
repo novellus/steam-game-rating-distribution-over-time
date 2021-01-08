@@ -1,0 +1,146 @@
+details:
+  data:
+    about_the_game: "The Dandy original soundtrack, 10 songs in 320kbps mp3 format.<br\
+      \ />\r\n<br />\r\nTracks:<br />\r\n01 The Owl<br />\r\n02 Incoming<br />\r\n\
+      03 A Glimpse<br />\r\n04 The Passage<br />\r\n05 The Barrage<br />\r\n06 Standstill<br\
+      \ />\r\n07 Chance Encounter<br />\r\n08 Starting Over<br />\r\n09 The End<br\
+      \ />\r\n10 In Closing<br />\r\n(Total Time: 18:01)<br />\r\n<br />\r\nYou can\
+      \ find the mp3's inside the Dandy folder in the Steam folder:<br />\r\nSteam\\\
+      steamapps\\common\\Dandy\\Dandy Soundtrack<br />\r\n<br />\r\nComposed by Steph\
+      \ Fung."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/390060/page_bg_generated_v6b.jpg?t=1447377269
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The Dandy original soundtrack, 10 songs in 320kbps mp3\
+      \ format.<br />\r\n<br />\r\nTracks:<br />\r\n01 The Owl<br />\r\n02 Incoming<br\
+      \ />\r\n03 A Glimpse<br />\r\n04 The Passage<br />\r\n05 The Barrage<br />\r\
+      \n06 Standstill<br />\r\n07 Chance Encounter<br />\r\n08 Starting Over<br />\r\
+      \n09 The End<br />\r\n10 In Closing<br />\r\n(Total Time: 18:01)<br />\r\n<br\
+      \ />\r\nYou can find the mp3's inside the Dandy folder in the Steam folder:<br\
+      \ />\r\nSteam\\steamapps\\common\\Dandy\\Dandy Soundtrack<br />\r\n<br />\r\n\
+      Composed by Steph Fung."
+    developers:
+    - wefiends, Inc.
+    fullgame:
+      appid: '381610'
+      name: 'Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/390060/header.jpg?t=1447377269
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        NA</li></ul>
+    name: Dandy Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dandy Original Soundtrack - $1.99
+        packageid: 74154
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Dandy Original Soundtrack
+    packages:
+    - 74154
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        NA</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 4, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/390060/ss_40b9cfe4baa85412c7bbd199dbe08c36e3ac6172.1920x1080.jpg?t=1447377269
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/390060/ss_40b9cfe4baa85412c7bbd199dbe08c36e3ac6172.600x338.jpg?t=1447377269
+    short_description: The Dandy original soundtrack, 10 songs in 320kbps mp3 format.
+    steam_appid: 390060
+    support_info:
+      email: support@wefiends.com
+      url: http://wefiends.com/support
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://dandy.wefiends.com
+  success: true
+reviews:
+  cursor: AoJ4lf/Rht0Cerjffg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 4384
+      num_reviews: 373
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198039863301'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '33225610'
+    review: 'I congratulate the author of this incredible soundtrack, for me, the
+      best of Steam.
+
+      I would love to meet his author.
+
+      Please, can you contact me?'
+    steam_purchase: true
+    timestamp_created: 1499166099
+    timestamp_updated: 1499166407
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.520547926425933838'
+    written_during_early_access: false
+  success: 1

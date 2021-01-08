@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: KURSK The Board Game in PDF format for self-printing;
+    background: https://steamcdn-a.akamaihd.net/steam/apps/978350/page_bg_generated_v6b.jpg?t=1549040403
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: KURSK The Board Game in PDF format for self-printing;
+    developers:
+    - Jujubee S.A.
+    fullgame:
+      appid: '860620'
+      name: KURSK
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/978350/header.jpg?t=1549040403
+    is_free: false
+    legal_notice: "\xA9 2018, JUJUBEE S.A. | All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: KURSK - Board Game
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: KURSK - Board Game - $7.99
+        packageid: 321394
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy KURSK - Board Game
+    packages:
+    - 321394
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10 64-bit<br></li><li><strong>Processor:</strong> 3.2 GHz Dual
+        Core Processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        GeForce GTX 670, Radeon R9 380 or equivalent with 2GB of video RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Jujubee S.A.
+    release_date:
+      coming_soon: false
+      date: Nov 7, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/978350/ss_c0bc64c1a7ee081449ff82362c1a6ea115861016.1920x1080.jpg?t=1549040403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/978350/ss_c0bc64c1a7ee081449ff82362c1a6ea115861016.600x338.jpg?t=1549040403
+    short_description: KURSK The Board Game in PDF format for self-printing;
+    steam_appid: 978350
+    support_info:
+      email: support@jujubee.pl
+      url: ''
+    supported_languages: English, Polish
+    type: dlc
+    website: http://kurskthegame.com
+  success: true
+reviews:
+  cursor: AoJ4xamWl/MCdb3jkwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 759
+      num_reviews: 1791
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198036176076'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '72293333'
+    review: "\u0412 \u0438\u0433\u0440\u0443 \u041A\u0443\u0440\u0441\u043A \u0441\
+      \u043B\u0435\u0434\u0443\u0435\u0442 \u0441\u044B\u0433\u0440\u0430\u0442\u044C\
+      , \u043D\u043E \u0432\u043E\u0442 \u0432 \u043A\u0430\u0440\u0442\u0438\u0448\
+      \u043A\u0438 \u043F\u043E\u0438\u0433\u0440\u0430\u0442\u044C \u0432 \u0438\u0433\
+      \u0440\u0435 \u0433\u043E\u0440\u0430\u0437\u0434\u043E \u0438\u043D\u0442\u0435\
+      \u0440\u0435\u0441\u043D\u0435\u0435"
+    steam_purchase: true
+    timestamp_created: 1594210471
+    timestamp_updated: 1594210471
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.56400221586227417'
+    written_during_early_access: false
+  success: 1

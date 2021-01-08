@@ -1,0 +1,212 @@
+details:
+  data:
+    about_the_game: <strong>This is a cooperative game for two or more players.</strong>  Multiplayer
+      options are currently limited to local co-op or screen sharing applications
+      such as Steam's Remote Play Together or Parsec.  Although the game may be played
+      with just a keyboard and mouse, we recommend using an Xbox 360 controller for
+      control of the Captive.<br><br>In I Will Be Your Eyes, players team up to guide
+      a blinded captive out of a maze of death.  Players assume one of two roles:<br><ul
+      class="bb_ul"><li>The <strong>Captive</strong> is tasked with controlling the
+      character and escaping the maze.  This player cannot see, and must navigate
+      using the instructions of the Operator as well as audio and tactile cues.<br></li><li>The
+      <strong>Operator(s)</strong> observe the action via security cameras and direct
+      the Captive on where and when to go.  Operators are able to move between cameras
+      but have no direct control over the character.</li></ul><br>I Will Be Your Eyes
+      is a low-fidelity game.  Maps are randomly generated to put the focus on teamwork
+      rather than memorization.  At the end of the run, the Captive's movements can
+      be replayed so as to allow all the players to see what happened.<h2 class="bb_tag">How
+      to Play</h2><br>The Captive plays like a normal video game character, using
+      WASD movement or (ideally) a controller.  The player playing as the Captive
+      should not look at the screen when the game is unpaused.  Use the A button on
+      your controller, or the E button on your keyboard, to push buttons.  The RB
+      and LB buttons can be used to turn exactly 90 degrees at a time.<br><br>The
+      Operator moves between security cameras using the left and right arrow keys.  You
+      can also press spacebar to zoom your camera and use the number pad to swivel
+      around while zoomed.<br><br>Currently only keyboard controls can be reassigned
+      through the in-game UI.  <strong>If you'd like to reassign controls that are
+      not listed in the Options menu, or use a controller not supported by the default
+      configuration, hold Alt as the game launches and go to the &quot;Input&quot;
+      tab.</strong>
+    achievements:
+      highlighted:
+      - name: Escape
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1180000/07057672de468b0129e006dfbcf9c22b161d3aa5.jpg
+      - name: The Unknown
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1180000/e82459ac10d3dbda33830dafcd316175e8b30aaa.jpg
+      total: 2
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1180000/page_bg_generated_v6b.jpg?t=1573744833
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1180050
+      description: ''
+    detailed_description: <strong>This is a cooperative game for two or more players.</strong>  Multiplayer
+      options are currently limited to local co-op or screen sharing applications
+      such as Steam's Remote Play Together or Parsec.  Although the game may be played
+      with just a keyboard and mouse, we recommend using an Xbox 360 controller for
+      control of the Captive.<br><br>In I Will Be Your Eyes, players team up to guide
+      a blinded captive out of a maze of death.  Players assume one of two roles:<br><ul
+      class="bb_ul"><li>The <strong>Captive</strong> is tasked with controlling the
+      character and escaping the maze.  This player cannot see, and must navigate
+      using the instructions of the Operator as well as audio and tactile cues.<br></li><li>The
+      <strong>Operator(s)</strong> observe the action via security cameras and direct
+      the Captive on where and when to go.  Operators are able to move between cameras
+      but have no direct control over the character.</li></ul><br>I Will Be Your Eyes
+      is a low-fidelity game.  Maps are randomly generated to put the focus on teamwork
+      rather than memorization.  At the end of the run, the Captive's movements can
+      be replayed so as to allow all the players to see what happened.<h2 class="bb_tag">How
+      to Play</h2><br>The Captive plays like a normal video game character, using
+      WASD movement or (ideally) a controller.  The player playing as the Captive
+      should not look at the screen when the game is unpaused.  Use the A button on
+      your controller, or the E button on your keyboard, to push buttons.  The RB
+      and LB buttons can be used to turn exactly 90 degrees at a time.<br><br>The
+      Operator moves between security cameras using the left and right arrow keys.  You
+      can also press spacebar to zoom your camera and use the number pad to swivel
+      around while zoomed.<br><br>Currently only keyboard controls can be reassigned
+      through the in-game UI.  <strong>If you'd like to reassign controls that are
+      not listed in the Options menu, or use a controller not supported by the default
+      configuration, hold Alt as the game launches and go to the &quot;Input&quot;
+      tab.</strong>
+    developers:
+    - Jake Johnson
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1180000/header.jpg?t=1573744833
+    is_free: false
+    legal_notice: Copyright 2019 Jake Johnson
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256764823
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764823/movie480.mp4?t=1571925358
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764823/movie_max.mp4?t=1571925358
+      name: Basic Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256764823/movie.293x165.jpg?t=1571925358
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764823/movie480.webm?t=1571925358
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764823/movie_max.webm?t=1571925358
+    name: I Will Be Your Eyes
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: I Will Be Your Eyes - $3.99
+        packageid: 405460
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy I Will Be Your Eyes
+    packages:
+    - 405460
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or newer<br></li><li><strong>Processor:</strong> Dual core Intel
+        or AMD<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 10 graphics card<br></li><li><strong>Storage:</strong> 100 MB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Jake Johnson
+    release_date:
+      coming_soon: false
+      date: Nov 14, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_0550753fce84372fcd4ac7c073831968167f6c17.1920x1080.jpg?t=1573744833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_0550753fce84372fcd4ac7c073831968167f6c17.600x338.jpg?t=1573744833
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_0d8ed63a5d0590183971948b1dcf830cf4b8daa2.1920x1080.jpg?t=1573744833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_0d8ed63a5d0590183971948b1dcf830cf4b8daa2.600x338.jpg?t=1573744833
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_0bf5ea142898cba7754ab42bd8b1ea1c32cc1c27.1920x1080.jpg?t=1573744833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_0bf5ea142898cba7754ab42bd8b1ea1c32cc1c27.600x338.jpg?t=1573744833
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_392c64912d4b1e118f677b1991589dae13c1a7bc.1920x1080.jpg?t=1573744833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_392c64912d4b1e118f677b1991589dae13c1a7bc.600x338.jpg?t=1573744833
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_001f387cbcb012012981fee6bb2e7f438cd7a063.1920x1080.jpg?t=1573744833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180000/ss_001f387cbcb012012981fee6bb2e7f438cd7a063.600x338.jpg?t=1573744833
+    short_description: Two or more players work together to lead a blinded Captive
+      out of a maze of death. Work against the clock as you avoid traps like walls
+      of spikes, bottomless pits, and smashing hammers!
+    steam_appid: 1180000
+    support_info:
+      email: blindfoldedgame@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw6dDt2e4Cc+6I3wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1577540563
+      num_games_owned: 44
+      num_reviews: 16
+      playtime_at_review: 223
+      playtime_forever: 260
+      playtime_last_two_weeks: 0
+      steamid: '76561198059755998'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '58476259'
+    review: The game is bloody brilliant, the concept is very good and the execution
+      is near perfect. There is more to the game than you first think, and some things
+      you only see later in-game. It's the co-op game I've been meaning to play, it
+      helps strengthen friendships or lose any trust in your friend's capabilities.
+      Also, it supports the steam online splitscreen function lets me play with friends
+      from further away, which is awesome! Thank you developer, absolutely worth the
+      money so far and I hope to see updates!
+    steam_purchase: true
+    timestamp_created: 1574973114
+    timestamp_updated: 1574973114
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.580419540405273438'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,135 @@
+details:
+  data:
+    about_the_game: "The enemy is attacking in the spaceship.<br />\r\nYou are a combatant,\
+      \ so you have to fight.<br />\r\n<br />\r\nThe game is easy to operate.<br />\r\
+      \nYou can play with direction button and 2 buttons.<br />\r\nPlease see the\
+      \ following for the operation method.<br />\r\n<br />\r\n\u2192\u2191\u2190\u2193\
+      : move<br />\r\nX: Attack\uFF08keyboard &quot;D&quot;)<br />\r\n\uFF21:Crouching\
+      \ \uFF08keyboard &quot;S&quot;)<br />\r\nB:Jet\uFF08keyboard &quot;A&quot;)<br\
+      \ />\r\n<br />\r\n<br />\r\nFeature:<br />\r\n\u30FBSmooth animation<br />\r\
+      \n\u3000\xB7space<br />\r\n\u30FBShoot a gun<br />\r\n\u30FBAction games<br\
+      \ />\r\n16-bit graphic"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1383220/page_bg_generated_v6b.jpg?t=1609833758
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The enemy is attacking in the spaceship.<br />\r\nYou are\
+      \ a combatant, so you have to fight.<br />\r\n<br />\r\nThe game is easy to\
+      \ operate.<br />\r\nYou can play with direction button and 2 buttons.<br />\r\
+      \nPlease see the following for the operation method.<br />\r\n<br />\r\n\u2192\
+      \u2191\u2190\u2193: move<br />\r\nX: Attack\uFF08keyboard &quot;D&quot;)<br\
+      \ />\r\n\uFF21:Crouching \uFF08keyboard &quot;S&quot;)<br />\r\nB:Jet\uFF08\
+      keyboard &quot;A&quot;)<br />\r\n<br />\r\n<br />\r\nFeature:<br />\r\n\u30FB\
+      Smooth animation<br />\r\n\u3000\xB7space<br />\r\n\u30FBShoot a gun<br />\r\
+      \n\u30FBAction games<br />\r\n16-bit graphic"
+    developers:
+    - Nacks Soft
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1383220/header.jpg?t=1609833758
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256814555
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256814555/movie480.mp4?t=1608203302
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256814555/movie_max.mp4?t=1608203302
+      name: SC
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256814555/movie.293x165.jpg?t=1608203302
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256814555/movie480_vp9.webm?t=1608203302
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256814555/movie_max_vp9.webm?t=1608203302
+    name: Space Crisis
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Space Crisis - $0.99
+        packageid: 485354
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Space Crisis
+    packages:
+    - 485354
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WindowsR 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong>
+        Intel Core2 Duo 2.0GHz or better<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Nacks Soft
+    release_date:
+      coming_soon: false
+      date: Aug 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_2952d83f3e3f389cc4cb92cda38bbee0a3fc0f54.1920x1080.jpg?t=1609833758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_2952d83f3e3f389cc4cb92cda38bbee0a3fc0f54.600x338.jpg?t=1609833758
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_d4c094723d89f36f6b7549e5bcebce47a5aed838.1920x1080.jpg?t=1609833758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_d4c094723d89f36f6b7549e5bcebce47a5aed838.600x338.jpg?t=1609833758
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_8cfb62c31fa7b1007b6e3461b393b1d094f98a6a.1920x1080.jpg?t=1609833758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_8cfb62c31fa7b1007b6e3461b393b1d094f98a6a.600x338.jpg?t=1609833758
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_480dc3689748da33962de4e25244e2cb32068754.1920x1080.jpg?t=1609833758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_480dc3689748da33962de4e25244e2cb32068754.600x338.jpg?t=1609833758
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_6d8a719473c35e95a84fb6e4128ce08c6e086703.1920x1080.jpg?t=1609833758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1383220/ss_6d8a719473c35e95a84fb6e4128ce08c6e086703.600x338.jpg?t=1609833758
+    short_description: The enemy is attacking in the spaceship. You are a combatant,
+      so you have to fight.
+    steam_appid: 1383220
+    support_info:
+      email: coltworld_suzuki@s6.dion.ne.jp
+      url: ''
+    supported_languages: English, Simplified Chinese, Japanese, Traditional Chinese,
+      Korean, French, Italian, German, Spanish - Spain, Arabic, Ukrainian, Dutch,
+      Greek, Swedish, Spanish - Latin America, Thai, Czech, Danish, Turkish, Norwegian,
+      Hungarian, Finnish, Bulgarian, Vietnamese, Portuguese, Portuguese - Brazil,
+      Polish, Romanian, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,224 @@
+details:
+  data:
+    about_the_game: "Dissonance combines novelette and point-and-click puzzles to\
+      \ create a genuinely unique video game experience. <br />\r\n<br />\r\nDissonance\
+      \ follows the story of Bartholomew Brittle (a movie theater projectionist) and\
+      \ Clementine Cleu (an inquisitive theater patron) in a thought provoking discussion\
+      \ of the meaning of life. <br />\r\n<br />\r\nFrom the creator of Super Pixalo\
+      \ <br />\r\n<br />\r\nAnd with an amazing soundtrack by Cornukousa Friend"
+    achievements:
+      highlighted:
+      - name: Card Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/421620/0e6a06e130dc7302b5d855b80eef993454a5b48a.jpg
+      - name: Hermes
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/421620/2675151c26fac8e55e86447c4b9e27f4c551ecef.jpg
+      - name: Invincible
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/421620/7eddcc1a8700b11123919ba4857de2557ef4b06f.jpg
+      - name: First Notes
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/421620/904050c6aaf224815546929c877119c904993f0b.jpg
+      - name: Egg Hunter
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/421620/446741392625b5c2e00a5f6b022536755e0db147.jpg
+      - name: Lazy Math
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/421620/dacea7f679aaeedd2ca403e46799d3042d6fb4f4.jpg
+      total: 6
+    background: https://steamcdn-a.akamaihd.net/steam/apps/421620/page_bg_generated_v6b.jpg?t=1448978941
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Dissonance combines novelette and point-and-click puzzles\
+      \ to create a genuinely unique video game experience. <br />\r\n<br />\r\nDissonance\
+      \ follows the story of Bartholomew Brittle (a movie theater projectionist) and\
+      \ Clementine Cleu (an inquisitive theater patron) in a thought provoking discussion\
+      \ of the meaning of life. <br />\r\n<br />\r\nFrom the creator of Super Pixalo\
+      \ <br />\r\n<br />\r\nAnd with an amazing soundtrack by Cornukousa Friend"
+    developers:
+    - Philip Royer
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/421620/header.jpg?t=1448978941
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12<br></li><li><strong>Processor:</strong> 2.0 ghz Dual Core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD3000 or higher with
+        OpenGL 2.1 support<br></li><li><strong>Storage:</strong> 200 MB available
+        space<br></li><li><strong>Additional Notes:</strong> ARM processor is currently
+        not supported</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Snow Leopard and above<br></li><li><strong>Processor:</strong> 2.0 ghz Dual
+        Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD3000 or higher with OpenGL 2.1 support<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256658490
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256658490/movie480.mp4?t=1448926183
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256658490/movie_max.mp4?t=1448926183
+      name: Gameplay Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256658490/movie.293x165.jpg?t=1448926183
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256658490/movie480.webm?t=1448926183
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256658490/movie_max.webm?t=1448926183
+    - highlight: true
+      id: 256658489
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256658489/movie480.mp4?t=1448926173
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256658489/movie_max.mp4?t=1448926173
+      name: Teaser Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256658489/movie.293x165.jpg?t=1448926173
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256658489/movie480.webm?t=1448926173
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256658489/movie_max.webm?t=1448926173
+    name: 'Dissonance: An Interactive Novelette'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Dissonance: An Interactive Novelette - $0.99'
+        packageid: 86086
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Dissonance: An Interactive Novelette'
+    packages:
+    - 86086
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2.0 ghz Dual Core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD3000 or higher with
+        OpenGL 2.1 support<br></li><li><strong>Storage:</strong> 200 MB available
+        space<br></li><li><strong>Additional Notes:</strong> ARM processor is currently
+        not supported</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel i5, i7<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD3000 or higher with
+        OpenGL 2.1 support<br></li><li><strong>Storage:</strong> 200 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Philip Royer
+    release_date:
+      coming_soon: false
+      date: Dec 1, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_d70c875408e9d624a8b55277fbefee3b7c929c8f.1920x1080.jpg?t=1448978941
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_d70c875408e9d624a8b55277fbefee3b7c929c8f.600x338.jpg?t=1448978941
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_cb1c9a6b1b9c630d498ca233f770b0717da307c8.1920x1080.jpg?t=1448978941
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_cb1c9a6b1b9c630d498ca233f770b0717da307c8.600x338.jpg?t=1448978941
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_925923640490dba298e5f095d047a9526c78af25.1920x1080.jpg?t=1448978941
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_925923640490dba298e5f095d047a9526c78af25.600x338.jpg?t=1448978941
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_bc0b55e9c6981cbe4d0225211261edcb5fc686ae.1920x1080.jpg?t=1448978941
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_bc0b55e9c6981cbe4d0225211261edcb5fc686ae.600x338.jpg?t=1448978941
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_7ada91c74865e1416cbf5031169880bfd3d134fd.1920x1080.jpg?t=1448978941
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_7ada91c74865e1416cbf5031169880bfd3d134fd.600x338.jpg?t=1448978941
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_d5ed5b8f3d55f90ebb4f82cb0a9eb74bf3ba5bcb.1920x1080.jpg?t=1448978941
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/421620/ss_d5ed5b8f3d55f90ebb4f82cb0a9eb74bf3ba5bcb.600x338.jpg?t=1448978941
+    short_description: Dissonance follows the story of Bartholomew Brittle (a movie
+      theater projectionist) and Clementine Cleu (an inquisitive theater patron) in
+      a thought provoking discussion of the meaning of life.
+    steam_appid: 421620
+    support_info:
+      email: littletinman@gmail.com
+      url: http://littletinman.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://littletinman.com/projects/dissonance/
+  success: true
+reviews:
+  cursor: AoJwxIbIpPYCc527uAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 4
+    total_positive: 4
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 1607544394
+      num_games_owned: 265
+      num_reviews: 15
+      playtime_at_review: 16
+      playtime_forever: 16
+      playtime_last_two_weeks: 0
+      steamid: '76561198041491196'
+    comment_count: 1
+    language: russian
+    received_for_free: false
+    recommendationid: '81910227'
+    review: "\u041C\u043D\u043E\u0433\u043E \u0442\u0435\u043A\u0441\u0442\u0430,\
+      \ \u0448\u0440\u0438\u0444\u0442 \u0442\u0430\u043A \u0441\u0435\u0431\u0435\
+      \ (\u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u044D\u0442\u043E \u0437\
+      \u0430\u043C\u0435\u0442\u043D\u043E, \u043A\u043E\u0433\u0434\u0430 \u043C\u0435\
+      \u043D\u044F\u0435\u0448\u044C \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043D\
+      \u0438\u0435 \u2014 \u0447\u0430\u0441\u0442\u044C \u0431\u0443\u043A\u0432\
+      \ \u043F\u0440\u043E\u0441\u0442\u043E \u043D\u0435\u043E\u0442\u043B\u0438\u0447\
+      \u0438\u043C\u044B), \u0441\u0443\u0442\u044C \u0442\u043E\u0436\u0435 \u0442\
+      \u0430\u043A \u0441\u0435\u0431\u0435. \u041F\u0440\u0438 \u0432\u0441\u0435\
+      \u0439 \u043C\u043E\u0435\u0439 \u043B\u044E\u0431\u0432\u0438 \u043A \u0438\
+      \u0433\u0440\u0430\u043C \u0441 \u043F\u0440\u043E\u043F\u0438\u0441\u0430\u043D\
+      \u043D\u044B\u043C\u0438 \u0438\u0441\u0442\u043E\u0440\u0438\u044F\u043C\u0438\
+      , \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u0434\u043E \u0438\
+      \u043C\u0435\u043D\u043D\u043E \u0447\u0438\u0442\u0430\u0442\u044C, \u0437\u0434\
+      \u0435\u0441\u044C \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u043E\u0441\u044C\
+      \ \u043A\u0430\u043A\u043E\u0435-\u0442\u043E (\u043F\u0441\u0435\u0432\u0434\
+      \u043E)\u0444\u0438\u043B\u043E\u0441\u043E\u0444\u0441\u043A\u043E\u0435 \u0443\
+      \u043D\u044B\u043D\u0438\u0435. \n\n\u0418\u0433\u0440\u043E\u0432\u043E\u0439\
+      \ \u043F\u0440\u043E\u0446\u0435\u0441\u0441 \u0442\u043E\u0436\u0435 \u0442\
+      \u0430\u043A \u0441\u0435\u0431\u0435, \u043F\u043E\u0434\u0441\u043A\u0430\u0437\
+      \u043A\u0438 \u043F\u043E \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\
+      \u044E \u0432 \u043C\u0438\u043D\u0438-\u0438\u0433\u0440\u0430\u0445 \u0438\
+      \ \u0441\u0430\u043C\u043E \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\
+      \u0435 \u2014 \u0440\u0435\u0434\u043A\u0438\u0439 \u043E\u0442\u0441\u0442\u043E\
+      \u0439. \u0417\u0430\u0442\u043E \u0435\u0441\u0442\u044C \u043F\u043E\u0434\
+      \u0434\u0435\u0440\u0436\u043A\u0430 \u0433\u0435\u0439\u043C\u043F\u0430\u0434\
+      \u0430!11\n\n\u041D\u0435 \u043F\u0440\u043E\u0448\u043B\u0430 \u0438 \u043F\
+      \u0440\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u043D\u0435 \u0431\u0443\u0434\
+      \u0443."
+    steam_purchase: true
+    timestamp_created: 1607544616
+    timestamp_updated: 1607544616
+    voted_up: false
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.56204378604888916'
+    written_during_early_access: false
+  success: 1

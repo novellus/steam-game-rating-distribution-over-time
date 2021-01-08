@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: "Track[0] - Transmission<br>Track[1] - Hey Judy<br>Track[2] -\
+      \ Corridor<br>Track[3] - Merge<br>Track[4] - Kaizen<br><br>The Soundtrack will\
+      \ be placed in your Event[0] folder in the Steam Directory: \u2026\\Steam\\\
+      steamapps\\common\\Event[0]"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/571120/page_bg_generated_v6b.jpg?t=1484082815
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Track[0] - Transmission<br>Track[1] - Hey Judy<br>Track[2]\
+      \ - Corridor<br>Track[3] - Merge<br>Track[4] - Kaizen<br><br>The Soundtrack\
+      \ will be placed in your Event[0] folder in the Steam Directory: \u2026\\Steam\\\
+      steamapps\\common\\Event[0]"
+    developers:
+    - Ocelot Society
+    fullgame:
+      appid: '470260'
+      name: Event[0]
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/571120/header.jpg?t=1484082815
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    name: Event[0] - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Event[0] - Soundtrack - $1.99
+        packageid: 144959
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Event[0] - Soundtrack
+    packages:
+    - 144959
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win XP<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 10, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/571120/ss_0a01330ac4d487a967403dc2f16f5831797c5324.1920x1080.jpg?t=1484082815
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/571120/ss_0a01330ac4d487a967403dc2f16f5831797c5324.600x338.jpg?t=1484082815
+    short_description: "Track[0] - TransmissionTrack[1] - Hey JudyTrack[2] - CorridorTrack[3]\
+      \ - MergeTrack[4] - KaizenThe Soundtrack will be placed in your Event[0] folder\
+      \ in the Steam Directory: \u2026\\Steam\\steamapps\\common\\Event[0]"
+    steam_appid: 571120
+    support_info:
+      email: support@ocelotsociety.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://event0game.com/
+  success: true
+reviews:
+  cursor: AoJ4tpqNgNwCea3+eA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 542
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197970462319'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '31716057'
+    review: 'Only 5 tracks, but the best ones you can hope you''ll get from the game
+      after experiencing it. A must have! Hey Judy hey...
+
+
+      PS: Merge alone deserves the money. Also, FLAC and WAV formats!'
+    steam_purchase: true
+    timestamp_created: 1494652081
+    timestamp_updated: 1494652081
+    voted_up: true
+    votes_funny: 0
+    votes_up: 5
+    weighted_vote_score: '0.607861101627349854'
+    written_during_early_access: false
+  success: 1

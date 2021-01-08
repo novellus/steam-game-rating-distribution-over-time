@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: '<h2 class="bb_tag">Welcome to the Astro Monsters Show!</h2><br>The
+      Official Soundtrack for Redneck Ed: Astro Monsters Show will dive you into the
+      atmosphere of this crazy alien world full of funny, dangerous and mysterious
+      creatures. <br><br>Composed by Constantine Chistiakov.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1419080/page_bg_generated_v6b.jpg?t=1599906447
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h2 class="bb_tag">Welcome to the Astro Monsters Show!</h2><br>The
+      Official Soundtrack for Redneck Ed: Astro Monsters Show will dive you into the
+      atmosphere of this crazy alien world full of funny, dangerous and mysterious
+      creatures. <br><br>Composed by Constantine Chistiakov.'
+    developers:
+    - Rustic Fantastic
+    fullgame:
+      appid: '1237490'
+      name: 'Redneck Ed: Astro Monsters Show'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1419080/header.jpg?t=1599906447
+    is_free: false
+    legal_notice: All titles, content, publisher names, trademarks, artwork, and associated
+      imagery are trademarks and/or copyright material of their respective owners.
+      All rights reserved.
+    linux_requirements: []
+    mac_requirements: []
+    name: "Redneck Ed: Astro Monsters Show \u2013 Official Soundtrack"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Redneck Ed: Astro Monsters Show Soundtrack - $9.99'
+        packageid: 498028
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: "Buy Redneck Ed: Astro Monsters Show \u2013 Official Soundtrack"
+    packages:
+    - 498028
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - 101XP
+    release_date:
+      coming_soon: false
+      date: Sep 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1419080/ss_1a00dd9a32cc85a480a7c9987c64fe5318f99582.1920x1080.jpg?t=1599906447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1419080/ss_1a00dd9a32cc85a480a7c9987c64fe5318f99582.600x338.jpg?t=1599906447
+    short_description: This is additional content for https://store.steampowered.com/app/1237490/Redneck_Ed_Astro_Monsters_Show/,
+      but does not include the base game.
+    steam_appid: 1419080
+    support_info:
+      email: support@101xp.com
+      url: ''
+    type: music
+    website: https://store.101xp.com/redneck/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

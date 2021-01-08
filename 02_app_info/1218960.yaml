@@ -1,0 +1,133 @@
+details:
+  data:
+    about_the_game: "Original Music Package for \u521D\u604B\u65E5\u8BB0<br />\r\n\
+      Please be aware that only copyright musics are included in the package, which\
+      \ means you will not find the authorized ones in it."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1218960/page_bg_generated_v6b.jpg?t=1588618730
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Original Music Package for \u521D\u604B\u65E5\u8BB0<br\
+      \ />\r\nPlease be aware that only copyright musics are included in the package,\
+      \ which means you will not find the authorized ones in it."
+    developers:
+    - YEARS
+    fullgame:
+      appid: '1125480'
+      name: School Years
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1218960/header.jpg?t=1588618730
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u521D\u604B\u65E5\u8BB0 - \u65E0\u635F\u97F3\u4E50\u5305"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u521D\u604B\u65E5\u8BB0 - \u65E0\u635F\u97F3\u4E50\u5305 -\
+          \ $3.99"
+        packageid: 422026
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: "Buy \u521D\u604B\u65E5\u8BB0 - \u65E0\u635F\u97F3\u4E50\u5305"
+    packages:
+    - 422026
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win7<br></li><li><strong>Processor:</strong> i4<br></li><li><strong>Memory:</strong>
+        1 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 8, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_53e5f3c7322001ef99a58018c529e7835145089c.1920x1080.jpg?t=1588618730
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_53e5f3c7322001ef99a58018c529e7835145089c.600x338.jpg?t=1588618730
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_7559076627d5d51135886f26441e081219075612.1920x1080.jpg?t=1588618730
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_7559076627d5d51135886f26441e081219075612.600x338.jpg?t=1588618730
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_75c9c0c8308259f558e5fa80c247c1e1dd2d077e.1920x1080.jpg?t=1588618730
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_75c9c0c8308259f558e5fa80c247c1e1dd2d077e.600x338.jpg?t=1588618730
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_9778b94a64782d5cc34b75f733c1ccc18c7635c6.1920x1080.jpg?t=1588618730
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218960/ss_9778b94a64782d5cc34b75f733c1ccc18c7635c6.600x338.jpg?t=1588618730
+    short_description: Original Music Package
+    steam_appid: 1218960
+    support_info:
+      email: vgp123@foxmail.com
+      url: https://weibo.com/p/1005057262333515
+    supported_languages: Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwvOuV4PUCea6IrgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 13
+    total_reviews: 13
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 89
+      num_reviews: 4
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198358088566'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '79184617'
+    review: "\u652F\u6301\u4E0B\uFF0C\u671F\u5F85\u7B2C\u4E8C\u7AE0"
+    steam_purchase: true
+    timestamp_created: 1605249752
+    timestamp_updated: 1605249752
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.490487515926361084'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: "Natalia looks adorable dressed up as her favorite Teddy bear,\
+      \ Lottie.<br />\r\n<br />\r\n*Content exclusive to Campaign.<br />\r\n*Episode\
+      \ One required to access content."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/320362/page_bg_generated_v6b.jpg?t=1447363381
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Co-op
+      id: 9
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Natalia looks adorable dressed up as her favorite Teddy\
+      \ bear, Lottie.<br />\r\n<br />\r\n*Content exclusive to Campaign.<br />\r\n\
+      *Episode One required to access content."
+    developers:
+    - Capcom
+    fullgame:
+      appid: '287290'
+      name: Resident Evil Revelations 2
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/320362/header.jpg?t=1447363381
+    is_free: false
+    legal_notice: "\xA9CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED."
+    linux_requirements: []
+    mac_requirements: []
+    name: Natalia's Lottie Suit Costume
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Natalia's Lottie Suit Costume - $2.99
+        packageid: 49837
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Resident Evil Revelations 2 / Biohazard Revelations 2 Deluxe
+          Edition - $29.99
+        packageid: 84647
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy Natalia's Lottie Suit Costume
+    packages:
+    - 49837
+    - 84647
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Capcom
+    release_date:
+      coming_soon: false
+      date: Feb 24, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320362/ss_c6fc11eda842e08ef179c27b53771325a6c591ce.1920x1080.jpg?t=1447363381
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320362/ss_c6fc11eda842e08ef179c27b53771325a6c591ce.600x338.jpg?t=1447363381
+    short_description: Natalia looks adorable dressed up as her favorite Teddy bear,
+      Lottie.
+    steam_appid: 320362
+    support_info:
+      email: support@capcom.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>,
+      Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4qJXy8fQCdZuXpQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 6
+    total_positive: 8
+    total_reviews: 14
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 3211
+      num_reviews: 1789
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198137285867'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '76855733'
+    review: 6/10
+    steam_purchase: true
+    timestamp_created: 1601549413
+    timestamp_updated: 1601549413
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

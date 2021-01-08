@@ -1,0 +1,214 @@
+details:
+  data:
+    about_the_game: <strong>The Lost Marble</strong> is a platformer in which the
+      player controls an intrepid marble. Roll fast, hop gaps, push cubes, explore
+      and avoid enemies to find the goal of each level. Create and share levels too!<br><br>Includes
+      20 hand-made levels, unlockable marbles, leaderboards, and an in-game level
+      editor.<br><br><strong>Steam Workshop:</strong> Download and share your user
+      created levels through the steam workshop!<br><br><strong>Steam Leaderboards:</strong>
+      Compete for the best times on 20 levels!<br><br><strong>Controller Support:</strong>
+      Playing on a controller is recommended but not required.
+    achievements:
+      highlighted:
+      - name: Tutorial
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/1e046027da065c74dcbfd606489de9e076ef4eb4.jpg
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/8b88f7e1c8db77c6dc74b08997c06612746cfff8.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/ef081e2ab00ae51d4ee546959fc2102745dd4b24.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/e91c8871867e2d4675004080d25726397cba5388.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/5f11c723c1e103cb1d736100aaaf7115d5dfb0e2.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/3c58137745816b608803434b87019597a2c4b1f4.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/067bc6ad7fb68d45011ee332a61f319fae7c5718.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/b3a75297373180dabb5653fd597357c9cf5dd08d.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/344a1ec37df839f8a9459bad179ec3b8db967ca6.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1313640/d9723ba6edc7a19b78e49adb9d453a55c6000a2a.jpg
+      total: 28
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1313640/page_bg_generated_v6b.jpg?t=1606196318
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Workshop
+      id: 30
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Leaderboards
+      id: 25
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>The Lost Marble</strong> is a platformer in which
+      the player controls an intrepid marble. Roll fast, hop gaps, push cubes, explore
+      and avoid enemies to find the goal of each level. Create and share levels too!<br><br>Includes
+      20 hand-made levels, unlockable marbles, leaderboards, and an in-game level
+      editor.<br><br><strong>Steam Workshop:</strong> Download and share your user
+      created levels through the steam workshop!<br><br><strong>Steam Leaderboards:</strong>
+      Compete for the best times on 20 levels!<br><br><strong>Controller Support:</strong>
+      Playing on a controller is recommended but not required.
+    developers:
+    - Jubcow
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1313640/header.jpg?t=1606196318
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256786649
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256786649/movie480.mp4?t=1590799385
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256786649/movie_max.mp4?t=1590799385
+      name: New Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256786649/movie.293x165.jpg?t=1590799385
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256786649/movie480_vp9.webm?t=1590799385
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256786649/movie_max_vp9.webm?t=1590799385
+    name: The Lost Marble
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Lost Marble - $4.99
+        packageid: 458557
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy The Lost Marble
+    packages:
+    - 458557
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong>
+        Intel Core i3 560 or AMD FX 6300<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 650 or AMD Radeon HD
+        7770<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10<br></li><li><strong>Processor:</strong> Intel Core i5 4690k or AMD Ryzen
+        5 1600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GTX 750 ti or AMD Radeon R7 260X<br></li><li><strong>Storage:</strong>
+        400 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Jubcow
+    release_date:
+      coming_soon: false
+      date: May 28, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_23c2ed6b5bede6a726b94fd967123a5562c19dd2.1920x1080.jpg?t=1606196318
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_23c2ed6b5bede6a726b94fd967123a5562c19dd2.600x338.jpg?t=1606196318
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_6397646b30f366560a831158287ca05e1fbc0a41.1920x1080.jpg?t=1606196318
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_6397646b30f366560a831158287ca05e1fbc0a41.600x338.jpg?t=1606196318
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_5b09c28b495e6d7ea48e6ccbbb1cf12f05f1b216.1920x1080.jpg?t=1606196318
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_5b09c28b495e6d7ea48e6ccbbb1cf12f05f1b216.600x338.jpg?t=1606196318
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_4a978a760f6befd2b0b25d1a948f829561c5cedd.1920x1080.jpg?t=1606196318
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_4a978a760f6befd2b0b25d1a948f829561c5cedd.600x338.jpg?t=1606196318
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_6295f35728cf7649f0eb2d9421c25787566a6dda.1920x1080.jpg?t=1606196318
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_6295f35728cf7649f0eb2d9421c25787566a6dda.600x338.jpg?t=1606196318
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_6af4a49414a88a3819b0bd90d4ee6c0e9afffbae.1920x1080.jpg?t=1606196318
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1313640/ss_6af4a49414a88a3819b0bd90d4ee6c0e9afffbae.600x338.jpg?t=1606196318
+    short_description: The Lost Marble is a platformer in which the player controls
+      an intrepid marble. Roll fast, hop gaps, push cubes, explore and avoid enemies
+      to find the goal of each level. Create and share levels too! Includes 20 hand-made
+      levels, unlockable marbles, and an in-game level editor.
+    steam_appid: 1313640
+    support_info:
+      email: jubcow@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4lLWBq/UCfYLQqQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1603733443
+      num_games_owned: 44
+      num_reviews: 5
+      playtime_at_review: 80
+      playtime_forever: 90
+      playtime_last_two_weeks: 0
+      steamid: '76561199052801050'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '78020653'
+    review: "Me encantan \xE9ste tipo de juegos desde la \xE9poca del marble madness.\
+      \ Es ciertos aspectos es como una versi\xF3n mejorada del fenomenal Spindizzy.\
+      \ Descubr\xED \xE9ste juego por casualidad en un video de youtube. Debo decir\
+      \ que por un lado me ha encantado. Creo que es el juego de \xE9ste tipo en el\
+      \ que el movimiento de la bola est\xE1 mejor logrado y he probado unos cuantos.\
+      \ Por otro lado lo veo incompleto. Tan s\xF3lo 20 niveles. He estado buscando\
+      \ niveles creados por los usuarios y no he encontrado ni uno. Si te gustan \xE9\
+      ste tipo de juegos pru\xE9balo. A\xFAn con sus carencias por su precio merece\
+      \ la pena"
+    steam_purchase: true
+    timestamp_created: 1603465260
+    timestamp_updated: 1603466013
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

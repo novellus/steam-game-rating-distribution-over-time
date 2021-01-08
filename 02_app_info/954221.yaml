@@ -1,0 +1,101 @@
+details:
+  data:
+    about_the_game: "A 40-page, full color guidebook for the game in PDF format! Contains\
+      \ tons of artwork and insight about the game!<br />\r\nBoth the English and\
+      \ Japanese versions of the guidebook are included.<br />\r\nThe guidebook comes\
+      \ in the form of a PDF file downloaded to the game's installation folder."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/954221/page_bg_generated_v6b.jpg?t=1539658827
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A 40-page, full color guidebook for the game in PDF format!\
+      \ Contains tons of artwork and insight about the game!<br />\r\nBoth the English\
+      \ and Japanese versions of the guidebook are included.<br />\r\nThe guidebook\
+      \ comes in the form of a PDF file downloaded to the game's installation folder."
+    developers:
+    - OTUSUN LAND
+    fullgame:
+      appid: '937490'
+      name: Neighbor
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/954221/header.jpg?t=1539658827
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Neighbor - Official Guidebook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Neighbor - Official Guidebook - $19.99
+        packageid: 311221
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Neighbor - Official Guidebook
+    packages:
+    - 311221
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Additional Notes:</strong> A program
+        to view PDF files is required.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1999
+      final_formatted: $19.99
+      initial: 1999
+      initial_formatted: ''
+    publishers:
+    - OTUSUN LAND
+    release_date:
+      coming_soon: false
+      date: Oct 15, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/954221/ss_b7e97bc71fd21d58b74dfc3ee64a99f9b3e29576.1920x1080.jpg?t=1539658827
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/954221/ss_b7e97bc71fd21d58b74dfc3ee64a99f9b3e29576.600x338.jpg?t=1539658827
+    short_description: A 40-page, full color guidebook for the game in PDF format!
+      Contains tons of artwork and insight about the game!
+    steam_appid: 954221
+    support_info:
+      email: support@otusunland.com
+      url: https://www.otusunland.com/
+    supported_languages: English, Japanese
+    type: dlc
+    website: https://www.otusunland.com/neighbor
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

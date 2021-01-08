@@ -1,0 +1,166 @@
+details:
+  data:
+    about_the_game: "Story:<br />\r\nSlimey's was born in a world created by Kofi-S.\
+      \ Kofi-S is planning on releasing this game for the public but is uncertain\
+      \ about how things should be changed. Slimey's doesn't know nor care why he\
+      \ is here, he just does what Kofi-S wants. But when Slimey decides to go out\
+      \ of bounds that might upset Kofi-S. Will Slimey continue to follow the rules\
+      \ placed by Kofi-S or will he complete Kofi-S test and claim his reward. <br\
+      \ />\r\n<br />\r\nGameplay:<br />\r\nSlimey Story is a Time, Puzzle, Shooter,\
+      \ Platformer. Slimey is light, but quick, being able to shoot energy blast faster\
+      \ than the speed of sound. While using energy to create platforms to get around.\
+      \ Play the Story alone and try to pass Kofi-S Worlds(Test) or play with a friend\
+      \ and enjoy the world that Kofi-S made for Slimey."
+    achievements:
+      highlighted:
+      - name: Finish the Test
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1216560/f5a5777486986ed59da00fec219f3dc4e5ce8359.jpg
+      - name: Delete Slimey.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1216560/03d929fb6e1290a379fd36f28b972c978f2290f2.jpg
+      - name: Fail Kofi-S Test
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1216560/28c3e3c9719202f26f26e42cbd647e3a029682da.jpg
+      - name: Pass Kofi-S Test
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1216560/1cd7c3130d863edf3e8cf78f835f5f21f860623e.jpg
+      - name: Join other Slimeys
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1216560/f5a5777486986ed59da00fec219f3dc4e5ce8359.jpg
+      total: 5
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1216560/page_bg_generated_v6b.jpg?t=1601956134
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1305770
+      description: ''
+    detailed_description: "Story:<br />\r\nSlimey's was born in a world created by\
+      \ Kofi-S. Kofi-S is planning on releasing this game for the public but is uncertain\
+      \ about how things should be changed. Slimey's doesn't know nor care why he\
+      \ is here, he just does what Kofi-S wants. But when Slimey decides to go out\
+      \ of bounds that might upset Kofi-S. Will Slimey continue to follow the rules\
+      \ placed by Kofi-S or will he complete Kofi-S test and claim his reward. <br\
+      \ />\r\n<br />\r\nGameplay:<br />\r\nSlimey Story is a Time, Puzzle, Shooter,\
+      \ Platformer. Slimey is light, but quick, being able to shoot energy blast faster\
+      \ than the speed of sound. While using energy to create platforms to get around.\
+      \ Play the Story alone and try to pass Kofi-S Worlds(Test) or play with a friend\
+      \ and enjoy the world that Kofi-S made for Slimey."
+    developers:
+    - Kofi-S
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1216560/header.jpg?t=1601956134
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Slimey's Story
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Slimey's Story - $14.99
+        packageid: 421070
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Slimey's Story
+    packages:
+    - 421070
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong>
+        Core i3 2.4 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD 4000</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10<br></li><li><strong>Processor:</strong> Core i5 2.8 Ghz<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 660 or AMD Radeon
+        HD 7870 equivalent DX11 GPU</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Kofi-S
+    release_date:
+      coming_soon: false
+      date: Sep 26, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_601c2461e809aeb38a38b42b09ca6de32f6b03e3.1920x1080.jpg?t=1601956134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_601c2461e809aeb38a38b42b09ca6de32f6b03e3.600x338.jpg?t=1601956134
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_1d48aa7d542a702a0d113b97e9de9729df477174.1920x1080.jpg?t=1601956134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_1d48aa7d542a702a0d113b97e9de9729df477174.600x338.jpg?t=1601956134
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_a492526bfebc13cb1122c171db90762ce5667ace.1920x1080.jpg?t=1601956134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_a492526bfebc13cb1122c171db90762ce5667ace.600x338.jpg?t=1601956134
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_773f1439e6dc6c76996a03ef4aa450fee383b85e.1920x1080.jpg?t=1601956134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_773f1439e6dc6c76996a03ef4aa450fee383b85e.600x338.jpg?t=1601956134
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_f57a863ffbba17ad402d5135b9a2c956b48a3393.1920x1080.jpg?t=1601956134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_f57a863ffbba17ad402d5135b9a2c956b48a3393.600x338.jpg?t=1601956134
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_9b5c29679f2ff5811a9d427dbaaa123a1b2647ea.1920x1080.jpg?t=1601956134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_9b5c29679f2ff5811a9d427dbaaa123a1b2647ea.600x338.jpg?t=1601956134
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_390820f86691a9ca2a20ce8139895d964a4bba14.1920x1080.jpg?t=1601956134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1216560/ss_390820f86691a9ca2a20ce8139895d964a4bba14.600x338.jpg?t=1601956134
+    short_description: A timed, puzzle, shooting platformer. Where Slimey travels
+      to different areas in Kofi-S world to pass his test.
+    steam_appid: 1216560
+    support_info:
+      email: icepuppycocoa@gmail.com
+      url: https://icepuppycocoa.org/
+    supported_languages: English
+    type: game
+    website: https://icepuppycocoa.org/slimeys-story
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

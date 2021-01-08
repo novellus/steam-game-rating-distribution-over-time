@@ -1,0 +1,52 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Josh
+    fullgame:
+      appid: '469900'
+      name: Paradox Paradigm
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/470570/header.jpg?t=1463714278
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Paradox Paradigm Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - GamingVNetwork
+    release_date:
+      coming_soon: false
+      date: May 16, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 470570
+    support_info:
+      email: gamingvnetwork@gmail.com
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: Official soundtrack by Andrey Bryazgin.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1373340/page_bg_generated_v6b.jpg?t=1601653159
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Official soundtrack by Andrey Bryazgin.
+    developers:
+    - No Words
+    fullgame:
+      appid: '1273570'
+      name: Four Rendezvous
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1373340/header.jpg?t=1601653159
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Four Rendezvous Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Four Rendezvous Soundtrack - <span class="discount_original_price">$4.99</span>
+          $4.24
+        packageid: 481702
+        percent_savings: 0
+        percent_savings_text: '-15% '
+        price_in_cents_with_discount: 424
+      title: Buy Four Rendezvous Soundtrack
+    packages:
+    - 481702
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        134 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 495 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 15
+      final: 424
+      final_formatted: $4.24
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Diada Novels
+    release_date:
+      coming_soon: false
+      date: Oct 2, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1373340/ss_5c8b9691466490c756a4f8b212705ece3269ab35.1920x1080.jpg?t=1601653159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1373340/ss_5c8b9691466490c756a4f8b212705ece3269ab35.600x338.jpg?t=1601653159
+    short_description: Official soundtrack by Andrey Bryazgin.
+    steam_appid: 1373340
+    support_info:
+      email: diadanovels@gmail.com
+      url: ''
+    type: music
+    website: https://vk.com/nowords_music
+  success: true
+reviews:
+  cursor: AoJ4g6CCqfUCcZu/qQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 46
+      num_reviews: 46
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199067202097'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '77986225'
+    review: "\u0412 \u044D\u0442\u043E\u0442 \u0441\u0430\u0443\u043D\u0434\u0442\u0440\
+      \u0435\u043A \u0432\u043B\u044E\u0431\u043B\u044F\u0435\u0448\u044C\u0441\u044F\
+      \ \u0431\u0443\u043A\u0432\u0430\u043B\u044C\u043D\u043E \u0441 \u043F\u0435\
+      \u0440\u0432\u044B\u0445 \u043D\u043E\u0442."
+    steam_purchase: true
+    timestamp_created: 1603399123
+    timestamp_updated: 1603399123
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.5'
+    written_during_early_access: false
+  success: 1

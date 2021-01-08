@@ -1,0 +1,188 @@
+details:
+  data:
+    about_the_game: In ScribbleDude, you play as an unknown creature who wants to
+      explore the world around him and defeat the evil forces.<br>It's a challenging
+      non-linear 2D platformer where you encounter action-filled platforming with
+      gimmicks, explore areas and defeat unique bosses.<br><br>The game has a lot
+      of inspirations based on oldschool games where most things take you more than
+      one attempt.<br>Other inspirations were taking from games such as &quot;I wanna
+      be the Guy&quot; or &quot;Shovel Knight&quot;.<br><br><u>Features:</u><br><br><strong>Graphics</strong><br>Everything
+      in the game is fully handdrawn animated.<br><br><strong>Areas</strong><br>Explore
+      7 areas filled with their own theme, enemies, gimmicks and challenging platforming.<br><br><strong>Boss
+      Battles</strong><br>Fight against bosses that have several phases, fightstyles
+      and a lot of unique attacks.<br><br><strong>Achievements, Secrets, etc!</strong><br>Insane
+      Achievements! - From the easy ones to the insane ones.<br>Also, hidden secrets!
+    achievements:
+      highlighted:
+      - name: Slime Slayer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/25c314725f32865a9d9b4c180eb487b35ccd19e2.jpg
+      - name: Rainy Day
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/82be1ba447c4a02627a7c4e08a22fa818f784a5c.jpg
+      - name: Insect Spray
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/2558e50d3a46fa1c861c38ad49125b49aeb1e490.jpg
+      - name: Used to be king
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/f7330359bbb91f1bc4b245fa19697fceda0c9081.jpg
+      - name: Frostflakies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/9c56528fadadbdb7a43b0601053ea89e3ca6bd6e.jpg
+      - name: Delicious frozen fruit
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/9570d1ea103805f03cc4f02bf31c5d78e26f41b7.jpg
+      - name: Poisssoned
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/bad22082893f77af5d8236ee93a0fe7e699ec5b4.jpg
+      - name: Fuzzy Dizzy
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/6b415288069a2d1977ea11c0b8c71da2123a2b13.jpg
+      - name: Bolts & Hexs
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/71351d53b37d9f38d3abc371970d65468d0b9d27.jpg
+      - name: Sharpness V
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1190930/2cbfafa41fcd3846bda4ee421f620196eff49281.jpg
+      total: 22
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1190930/page_bg_generated_v6b.jpg?t=1587726367
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: In ScribbleDude, you play as an unknown creature who wants
+      to explore the world around him and defeat the evil forces.<br>It's a challenging
+      non-linear 2D platformer where you encounter action-filled platforming with
+      gimmicks, explore areas and defeat unique bosses.<br><br>The game has a lot
+      of inspirations based on oldschool games where most things take you more than
+      one attempt.<br>Other inspirations were taking from games such as &quot;I wanna
+      be the Guy&quot; or &quot;Shovel Knight&quot;.<br><br><u>Features:</u><br><br><strong>Graphics</strong><br>Everything
+      in the game is fully handdrawn animated.<br><br><strong>Areas</strong><br>Explore
+      7 areas filled with their own theme, enemies, gimmicks and challenging platforming.<br><br><strong>Boss
+      Battles</strong><br>Fight against bosses that have several phases, fightstyles
+      and a lot of unique attacks.<br><br><strong>Achievements, Secrets, etc!</strong><br>Insane
+      Achievements! - From the easy ones to the insane ones.<br>Also, hidden secrets!
+    developers:
+    - RandomErik
+    - Sparxe
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1190930/header.jpg?t=1587726367
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256766532
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766532/movie480.mp4?t=1574832952
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766532/movie_max.mp4?t=1574832952
+      name: Teaser Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256766532/movie.293x165.jpg?t=1574832952
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766532/movie480.webm?t=1574832952
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766532/movie_max.webm?t=1574832952
+    name: ScribbleDude
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ScribbleDude - $6.99
+        packageid: 409927
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy ScribbleDude
+    packages:
+    - 409927
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or later<br></li><li><strong>Processor:</strong> Intel Core 2<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - RandomErik
+    release_date:
+      coming_soon: false
+      date: Jan 31, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_93e98621a7989f74254b0b133e8101f854d0af68.1920x1080.jpg?t=1587726367
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_93e98621a7989f74254b0b133e8101f854d0af68.600x338.jpg?t=1587726367
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_80a1d4bf8c9017940131c5cf7dec7782234954ce.1920x1080.jpg?t=1587726367
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_80a1d4bf8c9017940131c5cf7dec7782234954ce.600x338.jpg?t=1587726367
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_1bb6c6600fd12f31cb72c93a262d546b3fe9db0a.1920x1080.jpg?t=1587726367
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_1bb6c6600fd12f31cb72c93a262d546b3fe9db0a.600x338.jpg?t=1587726367
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_094364caba7130ae0ed9792fc8fc97ef5ebba311.1920x1080.jpg?t=1587726367
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_094364caba7130ae0ed9792fc8fc97ef5ebba311.600x338.jpg?t=1587726367
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_5a68c33eed073608c37a365bd293ae561bfb2ef3.1920x1080.jpg?t=1587726367
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_5a68c33eed073608c37a365bd293ae561bfb2ef3.600x338.jpg?t=1587726367
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_7d52cde6e4f13d0a5131538d9675ab3ac6d4c60f.1920x1080.jpg?t=1587726367
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1190930/ss_7d52cde6e4f13d0a5131538d9675ab3ac6d4c60f.600x338.jpg?t=1587726367
+    short_description: In ScribbleDude, you play as an unknown creature who wants
+      to explore the world around him and defeat the evil forces. It's a challenging
+      non-linear 2D platformer where you encounter action-filled platforming with
+      gimmicks, explore areas and defeat unique bosses.
+    steam_appid: 1190930
+    support_info:
+      email: erikcompany01@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw47C+j/YCdYO9tgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 14
+    total_reviews: 14
+  reviews:
+  - author:
+      last_played: 1609510857
+      num_games_owned: 26
+      num_reviews: 4
+      playtime_at_review: 453
+      playtime_forever: 1151
+      playtime_last_two_weeks: 414
+      steamid: '76561198926365385'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '81389621'
+    review: "\u5927\u5BB6\u8BB0\u5F97\u6253\u5B8Cboss\u522B\u6B7B\u8D76\u7D27\u5B58\
+      \u6863\uFF0C\u6211\u8FDE\u7EED\u4E24\u4E2Aboss\u6253\u4E86\u4E24\u904D\uFF0C\
+      \u6C14\u6B7B\u6211\u4E86\n\u624B\u6B8B\u522B\u4E70\uFF0C\u4F1A\u5410"
+    steam_purchase: true
+    timestamp_created: 1606837438
+    timestamp_updated: 1606837438
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

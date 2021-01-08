@@ -1,0 +1,181 @@
+details:
+  data:
+    about_the_game: Bricks In The Box is an arcade game inspired by the breakout title,
+      in contrast to the classic version, the game takes place on boards of various
+      shapes - hexagon, triangle, pentagon ect - the slat and hole is in the middle
+      of the level. The player's task is to break down as many boxes as possible and
+      to beat his own and global records.
+    achievements:
+      highlighted:
+      - name: 'Just do it on hexagon '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/81cf120bebe717e508a60d76d9e259974314dd53.jpg
+      - name: Just do it on square ?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/f34b8f469b78fca2e85f1fc4445ce14b74986124.jpg
+      - name: Just do it on pentagon
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/fbfcfe7f78266888e33fc1a253e38bd03f40250d.jpg
+      - name: Just do it on diamond
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/9d34cabc8ba5e2a53744c1b75a18fa129c97f152.jpg
+      - name: Just do it on on triangle
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/19fb782839fb5c17b7693cc1a10092a44fcc46f4.jpg
+      - name: Just do it on darth
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/2c96f5111f389fa486df4b336edb63dd43377e43.jpg
+      - name: Chempion
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/62bed9e13e95f21c805d12a7f88adbaf3d5268f6.jpg
+      - name: Smasher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/daeef9cfcdc81c10a04fe5b7a43a1fe2e75e1056.jpg
+      - name: Big Smasher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/07a4f30e4f61a4de149fc3471fff2ee80183d9f8.jpg
+      - name: Super Smasher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/686630/c9f45a0ddc8ab85ed064a68e3a5a307d1ddaaa75.jpg
+      total: 15
+    background: https://steamcdn-a.akamaihd.net/steam/apps/686630/page_bg_generated_v6b.jpg?t=1531376186
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Bricks In The Box is an arcade game inspired by the breakout
+      title, in contrast to the classic version, the game takes place on boards of
+      various shapes - hexagon, triangle, pentagon ect - the slat and hole is in the
+      middle of the level. The player's task is to break down as many boxes as possible
+      and to beat his own and global records.
+    developers:
+    - Nanite Storm
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/686630/header.jpg?t=1531376186
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256720796
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720796/movie480.mp4?t=1529792313
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720796/movie_max.mp4?t=1529792313
+      name: BricksInTheBox - Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256720796/movie.293x165.jpg?t=1529792313
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720796/movie480.webm?t=1529792313
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720796/movie_max.webm?t=1529792313
+    name: Bricks In The Box
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Bricks In The Box - $3.99
+        packageid: 196585
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Bricks In The Box
+    packages:
+    - 196585
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Windows 10<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Windows 10<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Nanite Storm
+    release_date:
+      coming_soon: false
+      date: Jul 11, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_bf281387112cf46e5acd6060eede7d09e987129e.1920x1080.jpg?t=1531376186
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_bf281387112cf46e5acd6060eede7d09e987129e.600x338.jpg?t=1531376186
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_714bb059056d384b3e3f81a9c5c640b9dea9613e.1920x1080.jpg?t=1531376186
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_714bb059056d384b3e3f81a9c5c640b9dea9613e.600x338.jpg?t=1531376186
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_2599441d3437b07733cabf431119ed4a2ddfcdc7.1920x1080.jpg?t=1531376186
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_2599441d3437b07733cabf431119ed4a2ddfcdc7.600x338.jpg?t=1531376186
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_ee9c6adac0b117eb8a7b4cfdec1a421d016a1d83.1920x1080.jpg?t=1531376186
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_ee9c6adac0b117eb8a7b4cfdec1a421d016a1d83.600x338.jpg?t=1531376186
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_34464e3748b9228416eaf08c33cff7f2e1db891d.1920x1080.jpg?t=1531376186
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/686630/ss_34464e3748b9228416eaf08c33cff7f2e1db891d.600x338.jpg?t=1531376186
+    short_description: Bricks In The Box is an arcade game inspired by the breakout
+      title, in contrast to the classic version, the game takes place on boards of
+      various shapes - hexagon, triangle, pentagon - the slat and hole is in the middle
+      of the level. The player's task is to break down as many boxes as possible and
+      to beat his own and global records.
+    steam_appid: 686630
+    support_info:
+      email: support@nanitestorm.com
+      url: http://www.nanitestorm.com/contact/
+    supported_languages: English<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>,
+      Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full
+      audio support
+    type: game
+    website: http://www.nanitestorm.com/games/bricks-in-the-box/
+  success: true
+reviews:
+  cursor: AoJ46bCqy+gCdOS6uQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1548715903
+      num_games_owned: 360
+      num_reviews: 14
+      playtime_at_review: 15
+      playtime_forever: 15
+      playtime_last_two_weeks: 0
+      steamid: '76561198139378822'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48617028'
+    review: Easy to learn hard to master :) Good for a quick break, brings back memories
+      of the classic Arkanoid.
+    steam_purchase: true
+    timestamp_created: 1548715919
+    timestamp_updated: 1548715919
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

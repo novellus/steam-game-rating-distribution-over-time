@@ -1,0 +1,184 @@
+details:
+  data:
+    about_the_game: "Hello everyone, we are happy to announce SCUM Supporter pack.\
+      \ This is a bundle of extra goodies for the people who want to go another extra\
+      \ mile to support SCUM developers.<br />\r\n<br />\r\nAll items that you get\
+      \ are purely for visual purpose and do not affect game play in any impactful\
+      \ way. More items will be added to the supporter pack as we progress through\
+      \ the Early Access period of SCUM. The SCUM Supporter Pack includes the following\
+      \ digital items:<br />\r\n<br />\r\n- Unique blue glowing BCU<br />\r\n<br />\r\
+      \n- SCUM developer undershirt that have only people who have worked on SCUM.<br\
+      \ />\r\n<br />\r\n- Exclusive skull tattoo. (Head, and left arm)<br />\r\n<br\
+      \ />\r\n- Mini Game Design Document. So you can see how SCUM was made from the\
+      \ beginning. <br />\r\n<br />\r\n- Templates for our orange and black t-shirts\
+      \ so you can print them out for yourself.<br />\r\n<br />\r\n- Mystery prison\
+      \ pocket item. How to claim it? You'll figure it out.<br />\r\n<br />\r\nUPDATE\
+      \ 1<br />\r\n<br />\r\n- Nice Watch (in-game watch)<br />\r\n<br />\r\nUPDATE\
+      \ 2<br />\r\n<br />\r\n- 2 inches in length<br />\r\n<br />\r\nUPDATE 3<br />\r\
+      \n<br />\r\n- Willy Warmer<br />\r\n<br />\r\nUPDATE 4<br />\r\n<br />\r\n-\
+      \ Whistling<br />\r\n<br />\r\nThis list will expand through time so stay tuned\
+      \ for more goodies!! Thank you everybody from the bottom of our hearts for all\
+      \ your support. <br />\r\n-Gamepires Team"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/919680/page_bg_generated_v6b.jpg?t=1576164902
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 5
+      notes: null
+    detailed_description: "Hello everyone, we are happy to announce SCUM Supporter\
+      \ pack. This is a bundle of extra goodies for the people who want to go another\
+      \ extra mile to support SCUM developers.<br />\r\n<br />\r\nAll items that you\
+      \ get are purely for visual purpose and do not affect game play in any impactful\
+      \ way. More items will be added to the supporter pack as we progress through\
+      \ the Early Access period of SCUM. The SCUM Supporter Pack includes the following\
+      \ digital items:<br />\r\n<br />\r\n- Unique blue glowing BCU<br />\r\n<br />\r\
+      \n- SCUM developer undershirt that have only people who have worked on SCUM.<br\
+      \ />\r\n<br />\r\n- Exclusive skull tattoo. (Head, and left arm)<br />\r\n<br\
+      \ />\r\n- Mini Game Design Document. So you can see how SCUM was made from the\
+      \ beginning. <br />\r\n<br />\r\n- Templates for our orange and black t-shirts\
+      \ so you can print them out for yourself.<br />\r\n<br />\r\n- Mystery prison\
+      \ pocket item. How to claim it? You'll figure it out.<br />\r\n<br />\r\nUPDATE\
+      \ 1<br />\r\n<br />\r\n- Nice Watch (in-game watch)<br />\r\n<br />\r\nUPDATE\
+      \ 2<br />\r\n<br />\r\n- 2 inches in length<br />\r\n<br />\r\nUPDATE 3<br />\r\
+      \n<br />\r\n- Willy Warmer<br />\r\n<br />\r\nUPDATE 4<br />\r\n<br />\r\n-\
+      \ Whistling<br />\r\n<br />\r\nThis list will expand through time so stay tuned\
+      \ for more goodies!! Thank you everybody from the bottom of our hearts for all\
+      \ your support. <br />\r\n-Gamepires Team"
+    developers:
+    - Gamepires
+    fullgame:
+      appid: '513710'
+      name: SCUM
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/919680/header.jpg?t=1576164902
+    is_free: false
+    legal_notice: Copyright 2015-2019 Gamepires & Croteam. All Rights Reserved.
+    linux_requirements: []
+    mac_requirements: []
+    name: SCUM Supporter Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SCUM Deluxe - $9.99
+        packageid: 295979
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy SCUM Supporter Pack
+    packages:
+    - 295979
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong>
+        Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB
+        RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960 2GB / AMD
+        Radeon R7 370 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB
+        available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong>
+        Intel Core i5-6600K / AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 3GB
+        / AMD Radeon RX 580 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Gamepires
+    recommendations:
+      total: 481
+    release_date:
+      coming_soon: false
+      date: Aug 29, 2018
+    required_age: 0
+    screenshots:
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/919680/ss_bc3329b5420550a2117e32986d354b0d2da0aef8.1920x1080.jpg?t=1576164902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/919680/ss_bc3329b5420550a2117e32986d354b0d2da0aef8.600x338.jpg?t=1576164902
+    short_description: Hello everyone, we are happy to announce SCUM Supporter pack.
+      This is a bundle of extra goodies for the people who want to go another extra
+      mile to support SCUM developers.
+    steam_appid: 919680
+    support_info:
+      email: scumgame@gamepires.com
+      url: http://www.scumgame.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.scumgame.com
+  success: true
+reviews:
+  cursor: AoJw//uJ5vYCfIaowAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 45
+    total_positive: 436
+    total_reviews: 481
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 151
+      num_reviews: 22
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199004657647'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83968108'
+    review: 'Nothing game breaking or anything super kool, but nice to be able to
+      throw some extra money there way to help support the game, actually get something
+      in return :Thumbs up:'
+    steam_purchase: true
+    timestamp_created: 1609742934
+    timestamp_updated: 1609742934
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

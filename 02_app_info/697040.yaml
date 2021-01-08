@@ -1,0 +1,79 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Commentary available
+      id: 14
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '693470'
+      name: Dead Hand
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/697040/header.jpg?t=1503756603
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Dead Hand: Last day of War'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 26, 2017
+    required_age: '6'
+    short_description: A cartoon parable about the end of the last war in the history
+      of mankind. And what will remain after the war.
+    steam_appid: 697040
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw0bCozeQCfqqIpgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 0
+    total_positive: 5
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 1531602593
+      num_games_owned: 24
+      num_reviews: 3
+      playtime_at_review: 7
+      playtime_forever: 7
+      playtime_last_two_weeks: 0
+      steamid: '76561198027984040'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '43532974'
+    review: epic video!
+    steam_purchase: true
+    timestamp_created: 1531602634
+    timestamp_updated: 1531602634
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: "\u672CDLC\u83B7\u5F97\u9053\u5177\u5217\u8868\u5982\u4E0B\uFF1A\
+      <br />\r\n<br />\r\n3\u7EA7\u5965\u91D1\u626D\u86CB\t\t8<br />\r\n3\u7EA7\u767E\
+      \u7075\u626D\u86CB\t\t8<br />\r\n3\u7EA7\u6C34\u6708\u626D\u86CB\t\t8<br />\r\
+      \n3\u7EA7\u70BD\u70BC\u626D\u86CB\t\t8<br />\r\n3\u7EA7\u6DF1\u6E0A\u626D\u86CB\
+      \t\t8"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1207980/page_bg_generated_v6b.jpg?t=1577069373
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u672CDLC\u83B7\u5F97\u9053\u5177\u5217\u8868\u5982\u4E0B\
+      \uFF1A<br />\r\n<br />\r\n3\u7EA7\u5965\u91D1\u626D\u86CB\t\t8<br />\r\n3\u7EA7\
+      \u767E\u7075\u626D\u86CB\t\t8<br />\r\n3\u7EA7\u6C34\u6708\u626D\u86CB\t\t8<br\
+      \ />\r\n3\u7EA7\u70BD\u70BC\u626D\u86CB\t\t8<br />\r\n3\u7EA7\u6DF1\u6E0A\u626D\
+      \u86CB\t\t8"
+    developers:
+    - Elementman Technology
+    fullgame:
+      appid: '1195870'
+      name: "\u96F6\u754C\u6218\u7EBF"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1207980/header.jpg?t=1577069373
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u96F6\u754C\u6218\u7EBF-\u7EB9\u7AE0\u626D\u86CB\u5305"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u7EB9\u7AE0\u626D\u86CB\u5305 - $34.99"
+        packageid: 417346
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3499
+      title: "Buy \u96F6\u754C\u6218\u7EBF-\u7EB9\u7AE0\u626D\u86CB\u5305"
+    packages:
+    - 417346
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Microsoft Windows 7 SP1, Windows 8, Windows 10<br></li><li><strong>Processor:</strong>
+        1,7GHz dual core<br></li><li><strong>Graphics:</strong> </li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 3499
+      final_formatted: $34.99
+      initial: 3499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1207980/ss_ca01bc596e09596fc5f8e1e58b2f198630ed30f7.1920x1080.jpg?t=1577069373
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1207980/ss_ca01bc596e09596fc5f8e1e58b2f198630ed30f7.600x338.jpg?t=1577069373
+    short_description: "\u8BE5\u5185\u5BB9\u9700\u8981\u5728 Steam \u62E5\u6709\u57FA\
+      \u7840\u6E38\u620F \u96F6\u754C\u6218\u7EBF \u624D\u80FD\u8FD0\u884C\u3002"
+    steam_appid: 1207980
+    support_info:
+      email: ''
+      url: http://zszd.ligugame.com/
+    supported_languages: Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

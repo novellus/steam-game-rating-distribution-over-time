@@ -1,0 +1,162 @@
+details:
+  data:
+    about_the_game: "The Color Grabber package simply enables you to quickly grab\
+      \ color information from pixels on screen and access this information in various\
+      \ formats or copy directly to clipboard.  You can also quickly copy a single\
+      \ pixel or color swatch of configurable size as an image.<br>This product is\
+      \ available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Color Grabber (\U0001F58C\u2BA3\U0001F4CB)<h2\
+      \ class=\"bb_tag\">Color Grabber (\U0001F58C\u2BA3\U0001F4CB)</h2>Copies the\
+      \ color under the cursor to the clipboard in the configured format.<br><ul class=\"\
+      bb_ul\"><li>Preview Color Field: </li></ul>Settings:<ul class=\"bb_ul\"><li>Color\
+      \ Picker Format (Default: Hex #[AA]RRGGBB)<br>This is the format that the Color\
+      \ Picker will use when copying color information to your clipboard.<br> - Hex\
+      \ #[AA]RRGGBB: A compact hexadecimal color format.  The alpha transparency (if\
+      \ included) is incompatible with many older web browsers.<br> - CSS rgb[a](RRR,GGG,BBB[,A]):\
+      \ A color format with general compatibility with all browsers' CSS implementations,\
+      \ including alpha transparency support.<br></li><li>Color Picker Copy Paint\
+      \ Swatch (Default: False)<br>If enabled, copies a paint swatch to the clipboard\
+      \ instead of the color string.<br></li><li>Color Picker Copy Paint Swatch Size\
+      \ (Default: 64)<br>Controls the size of the paint swatch that the color picker\
+      \ will put on the clipboard.<br></li><li>Color Picker Preview Target Rate (Default:\
+      \ 4)<br>This is the target rate at which the color grabber preview will try\
+      \ to update itself when visible, in frames per second.  Setting the rate to\
+      \ 0 will disable the feature.<br></li><li>Color Picker Watch Clipboard (Default:\
+      \ True)<br>If enabled, the color grabber window will watch the clipboard for\
+      \ valid colors and update the captured color accordingly.  This is useful for\
+      \ quickly converting color information from decimal to hexadecimal or from hexadecimal\
+      \ to decimal.<br></li><li>Color Picker Notifications (Default: True)<br>If enabled,\
+      \ the color picker will create a visible notification of the color found.<br></li><li>Color\
+      \ Picker Crosshair Cursor (Default: True)<br>The crosshair cursor is supposed\
+      \ to be better for pixel accurate selection.  When enabled, the system crosshair\
+      \ cursor will be used when grabbing a color.  If you use the secondary action\
+      \ or a hotkey, however, the cursor will not change, as this setting only impacts\
+      \ the two-step selection process where you click the button and then click your\
+      \ target.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1264114/page_bg_generated_v6b.jpg?t=1606275230
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Color Grabber package simply enables you to quickly\
+      \ grab color information from pixels on screen and access this information in\
+      \ various formats or copy directly to clipboard.  You can also quickly copy\
+      \ a single pixel or color swatch of configurable size as an image.<br>This product\
+      \ is available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Color Grabber (\U0001F58C\u2BA3\U0001F4CB)<h2\
+      \ class=\"bb_tag\">Color Grabber (\U0001F58C\u2BA3\U0001F4CB)</h2>Copies the\
+      \ color under the cursor to the clipboard in the configured format.<br><ul class=\"\
+      bb_ul\"><li>Preview Color Field: </li></ul>Settings:<ul class=\"bb_ul\"><li>Color\
+      \ Picker Format (Default: Hex #[AA]RRGGBB)<br>This is the format that the Color\
+      \ Picker will use when copying color information to your clipboard.<br> - Hex\
+      \ #[AA]RRGGBB: A compact hexadecimal color format.  The alpha transparency (if\
+      \ included) is incompatible with many older web browsers.<br> - CSS rgb[a](RRR,GGG,BBB[,A]):\
+      \ A color format with general compatibility with all browsers' CSS implementations,\
+      \ including alpha transparency support.<br></li><li>Color Picker Copy Paint\
+      \ Swatch (Default: False)<br>If enabled, copies a paint swatch to the clipboard\
+      \ instead of the color string.<br></li><li>Color Picker Copy Paint Swatch Size\
+      \ (Default: 64)<br>Controls the size of the paint swatch that the color picker\
+      \ will put on the clipboard.<br></li><li>Color Picker Preview Target Rate (Default:\
+      \ 4)<br>This is the target rate at which the color grabber preview will try\
+      \ to update itself when visible, in frames per second.  Setting the rate to\
+      \ 0 will disable the feature.<br></li><li>Color Picker Watch Clipboard (Default:\
+      \ True)<br>If enabled, the color grabber window will watch the clipboard for\
+      \ valid colors and update the captured color accordingly.  This is useful for\
+      \ quickly converting color information from decimal to hexadecimal or from hexadecimal\
+      \ to decimal.<br></li><li>Color Picker Notifications (Default: True)<br>If enabled,\
+      \ the color picker will create a visible notification of the color found.<br></li><li>Color\
+      \ Picker Crosshair Cursor (Default: True)<br>The crosshair cursor is supposed\
+      \ to be better for pixel accurate selection.  When enabled, the system crosshair\
+      \ cursor will be used when grabbing a color.  If you use the secondary action\
+      \ or a hotkey, however, the cursor will not change, as this setting only impacts\
+      \ the two-step selection process where you click the button and then click your\
+      \ target.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Design & Illustration
+      id: '53'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1264114/header.jpg?t=1606275230
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Color Grabber
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Color Grabber - $0.99
+        packageid: 439580
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Simplode Suite - Color Grabber
+    packages:
+    - 439580
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1264114/ss_660859fdba11f24b89449c803ce80747f25b34fb.1920x1080.jpg?t=1606275230
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1264114/ss_660859fdba11f24b89449c803ce80747f25b34fb.600x338.jpg?t=1606275230
+    short_description: The Color Grabber package simply enables you to quickly grab
+      color information from pixels on screen and access this information in various
+      formats or copy directly to clipboard. You can also quickly copy a single pixel
+      or color swatch of configurable size as an image.
+    steam_appid: 1264114
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-color-grabber
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

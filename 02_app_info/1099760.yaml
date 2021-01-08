@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Storming Tech
+    fullgame:
+      appid: '995000'
+      name: Escape Legacy VR
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1099760/header.jpg?t=1559821553
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Escape Legacy VR Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Quad Core Intel or Amd<br></li><li><strong>Graphics:</strong>
+        GeForce GTS 450 or Radeon HD 5670<br></li><li><strong>DirectX:</strong> Version
+        10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        2 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Quad Core Intel or Amd<br></li><li><strong>Graphics:</strong>
+        GeForce GTX 950 or Radeon RX 560<br></li><li><strong>DirectX:</strong> Version
+        11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        2 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Storming Tech
+    release_date:
+      coming_soon: false
+      date: Jun 6, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1099760
+    support_info:
+      email: StormingTech.info@gmail.com
+      url: https://storming-tech.com/contact_us/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://www.Storming-Tech.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

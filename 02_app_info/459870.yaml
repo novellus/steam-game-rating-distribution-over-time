@@ -1,0 +1,176 @@
+details:
+  data:
+    about_the_game: 'VIRTUAnimator is a simple, easy-to-use animation tool, made for
+      VR.<br><br>Load a scene, spawn some objects, then pose them - create keyframes,
+      and watch it animate between each pose automatically. You can even render out
+      your animation as an image sequence (and an MP4 file soon)!<br><br>If you''re
+      not too great at animation, you can still pose objects, characters, add particles
+      and lights, and more, and render out cool stills or backgrounds!<br><br>With
+      Steam Workshop support, you can even add your own content, whether that be weapons,
+      props, characters, or even entire scenes!<br><br>With the addition of Live Recording,
+      Pose Blending, and Collada DAE export, you can even use it as a quick-pose tool
+      for your favorite 3D software!<br><br>Video tutorials: <a href="https://www.youtube.com/playlist?list=PL7GBs1QsuR23D0Lm6mxP_SZJaZ-LyOwZt"
+      target="_blank" rel="noreferrer"  >https://www.youtube.com/playlist?list=PL7GBs1QsuR23D0Lm6mxP_SZJaZ-LyOwZt</a><br>Content
+      Creation tutorial: <a href="https://steamcommunity.com/linkfilter/?url=http://www.virtuanimator.com/create-content/"
+      target="_blank" rel="noopener"  >http://www.virtuanimator.com/create-content/</a>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/459870/page_bg_generated_v6b.jpg?t=1473510332
+    categories:
+    - description: Steam Workshop
+      id: 30
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h1>Steam Workshop</h1><p>VIRTUAnimator has Steam Workshop
+      support, so you can share your own content!</p><br><h1>About the Software</h1>VIRTUAnimator
+      is a simple, easy-to-use animation tool, made for VR.<br><br>Load a scene, spawn
+      some objects, then pose them - create keyframes, and watch it animate between
+      each pose automatically. You can even render out your animation as an image
+      sequence (and an MP4 file soon)!<br><br>If you''re not too great at animation,
+      you can still pose objects, characters, add particles and lights, and more,
+      and render out cool stills or backgrounds!<br><br>With Steam Workshop support,
+      you can even add your own content, whether that be weapons, props, characters,
+      or even entire scenes!<br><br>With the addition of Live Recording, Pose Blending,
+      and Collada DAE export, you can even use it as a quick-pose tool for your favorite
+      3D software!<br><br>Video tutorials: <a href="https://www.youtube.com/playlist?list=PL7GBs1QsuR23D0Lm6mxP_SZJaZ-LyOwZt"
+      target="_blank" rel="noreferrer"  >https://www.youtube.com/playlist?list=PL7GBs1QsuR23D0Lm6mxP_SZJaZ-LyOwZt</a><br>Content
+      Creation tutorial: <a href="https://steamcommunity.com/linkfilter/?url=http://www.virtuanimator.com/create-content/"
+      target="_blank" rel="noopener"  >http://www.virtuanimator.com/create-content/</a>'
+    developers:
+    - Pheonise
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/459870/header.jpg?t=1473510332
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256663845
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256663845/movie480.mp4?t=1462833658
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256663845/movie_max.mp4?t=1462833658
+      name: VIRTUAnimator Trailer 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256663845/movie.293x165.jpg?t=1462833658
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256663845/movie480.webm?t=1462833658
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256663845/movie_max.webm?t=1462833658
+    - highlight: true
+      id: 256670429
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670429/movie480.mp4?t=1473510314
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670429/movie_max.mp4?t=1473510314
+      name: VIRTUAnimator v0.8 Feature Recap
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256670429/movie.293x165.jpg?t=1473510314
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670429/movie480.webm?t=1473510314
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670429/movie_max.webm?t=1473510314
+    name: VIRTUAnimator
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: VIRTUAnimator - $9.99
+        packageid: 100126
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy VIRTUAnimator
+    packages:
+    - 100126
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7 SP1, Windows 8.1 or later, Windows 10 (64 bit)<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE i5-4590/AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\xAE GTX\
+        \ 970, AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>Additional\
+        \ Notes:</strong> A VR-Ready rig is minimum recommended. You might be able\
+        \ to go lower, but you'll probably lose frames.</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Pheonise
+    release_date:
+      coming_soon: false
+      date: May 9, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_19f33365c6898407fb3284e0a1e6aad50bb10977.1920x1080.jpg?t=1473510332
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_19f33365c6898407fb3284e0a1e6aad50bb10977.600x338.jpg?t=1473510332
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_11ab428f020483c7543a35f9291f4ca24100b880.1920x1080.jpg?t=1473510332
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_11ab428f020483c7543a35f9291f4ca24100b880.600x338.jpg?t=1473510332
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_d9c9440573066ae056341696bcdbcdf0d0d52595.1920x1080.jpg?t=1473510332
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_d9c9440573066ae056341696bcdbcdf0d0d52595.600x338.jpg?t=1473510332
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_c02714eb7ecc63c80a33254bfc44c4046a80196c.1920x1080.jpg?t=1473510332
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_c02714eb7ecc63c80a33254bfc44c4046a80196c.600x338.jpg?t=1473510332
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_398e27a287d078bb1d56c99642d80c576496c2da.1920x1080.jpg?t=1473510332
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/459870/ss_398e27a287d078bb1d56c99642d80c576496c2da.600x338.jpg?t=1473510332
+    short_description: VIRUTAnimator is a fun and easy animation tool for VR. It allows
+      anyone to easily create animated scenes by simply moving objects in virtual
+      space with supported motion controllers. Share your animations, or get more
+      objects to work with from the Steam Workshop!
+    steam_appid: 459870
+    support_info:
+      email: support@virtuanimator.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://www.virtuanimator.com
+  success: true
+reviews:
+  cursor: AoJw66KryfACeM/TcA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 3
+    total_positive: 3
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1592871568
+      num_games_owned: 34
+      num_reviews: 4
+      playtime_at_review: 1769
+      playtime_forever: 1769
+      playtime_last_two_weeks: 0
+      steamid: '76561198324494064'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '29531384'
+    review: The software is out of date and no long works with unity3d. Unity has
+      change formats or converts them incorrectly leaving this priceless software
+      to the waste side. Author no where to be found.
+    steam_purchase: true
+    timestamp_created: 1485564782
+    timestamp_updated: 1583008782
+    voted_up: false
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.525862038135528564'
+    written_during_early_access: true
+  success: 1

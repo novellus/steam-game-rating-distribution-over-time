@@ -1,0 +1,186 @@
+details:
+  data:
+    about_the_game: "Relive your favourite club nights and gigs, load your own music\
+      \ (Hardcore, Punk, Metal, any genre really, via .wav audio file format) and\
+      \ go to the dance floor,  annihilate anyone in your path using the classic metal\
+      \ moshing moves (lots of NPC's doing the same), stage dive as you please, head\
+      \ bang with realistic hair physics. The music you load drives the game, your\
+      \ experience. In a nutshell, it's a next level heavy metal music sim. <br />\r\
+      \n<br />\r\nHone your inner Metal head or be straightedge, or go punk and destroy\
+      \ everything,  or play some classical Beethoven while moshing, we don't mind.\
+      \ Or visit other clubs and explore.<br />\r\n<br />\r\nIMPORTANT - Setup instructions:<br\
+      \ />\r\nFor the ideal playing experience, before playing the game grab some\
+      \ of your favourite artists .wav tracks, copy those into the folder ..\\Windows\\\
+      MadMosh_Data\\StreamingAssets<br />\r\nWhen the game loads it loads those songs\
+      \ and plays them in order, to get data such as beats per minute. If you do not\
+      \ perform this step, don't worry, the default in-game music will play! When\
+      \ you are ready start the game.<br />\r\n<br />\r\nOnce playing, press the escape\
+      \ key to get the options, help, player customisation. To stage dive press the\
+      \ right shift key while in dance more (Hold both left and right shift for a\
+      \ BIG stage dive, to stop/start dance mode press left ctrl key), power moves\
+      \ controlled by M, , ? keys, L is for headbanging. Take a drink to get your\
+      \ strength back, press E key near a drink. C key is for slow motion.<br />\r\
+      \n<br />\r\nHave fun in the mosh pit."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1359910/page_bg_generated_v6b.jpg?t=1597403094
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Relive your favourite club nights and gigs, load your own\
+      \ music (Hardcore, Punk, Metal, any genre really, via .wav audio file format)\
+      \ and go to the dance floor,  annihilate anyone in your path using the classic\
+      \ metal moshing moves (lots of NPC's doing the same), stage dive as you please,\
+      \ head bang with realistic hair physics. The music you load drives the game,\
+      \ your experience. In a nutshell, it's a next level heavy metal music sim. <br\
+      \ />\r\n<br />\r\nHone your inner Metal head or be straightedge, or go punk\
+      \ and destroy everything,  or play some classical Beethoven while moshing, we\
+      \ don't mind. Or visit other clubs and explore.<br />\r\n<br />\r\nIMPORTANT\
+      \ - Setup instructions:<br />\r\nFor the ideal playing experience, before playing\
+      \ the game grab some of your favourite artists .wav tracks, copy those into\
+      \ the folder ..\\Windows\\MadMosh_Data\\StreamingAssets<br />\r\nWhen the game\
+      \ loads it loads those songs and plays them in order, to get data such as beats\
+      \ per minute. If you do not perform this step, don't worry, the default in-game\
+      \ music will play! When you are ready start the game.<br />\r\n<br />\r\nOnce\
+      \ playing, press the escape key to get the options, help, player customisation.\
+      \ To stage dive press the right shift key while in dance more (Hold both left\
+      \ and right shift for a BIG stage dive, to stop/start dance mode press left\
+      \ ctrl key), power moves controlled by M, , ? keys, L is for headbanging. Take\
+      \ a drink to get your strength back, press E key near a drink. C key is for\
+      \ slow motion.<br />\r\n<br />\r\nHave fun in the mosh pit."
+    developers:
+    - khos85
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1359910/header.jpg?t=1597403094
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256793535
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256793535/movie480.mp4?t=1595918753
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256793535/movie_max.mp4?t=1595918753
+      name: Mad Mosh Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256793535/movie.293x165.jpg?t=1595918753
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256793535/movie480_vp9.webm?t=1595918753
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256793535/movie_max_vp9.webm?t=1595918753
+    name: Mad Mosh
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Mad Mosh - $3.99
+        packageid: 476676
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Mad Mosh
+    packages:
+    - 476676
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7<br></li><li><strong>Processor:</strong> Core i5 equivalent<br></li><li><strong>Memory:</strong>
+        1500 MB RAM<br></li><li><strong>Graphics:</strong> nvidia 760 equivalent<br></li><li><strong>Storage:</strong>
+        600 MB available space<br></li><li><strong>Sound Card:</strong> n/a</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10<br></li><li><strong>Processor:</strong> Core i7 equivalent<br></li><li><strong>Memory:</strong>
+        1500 MB RAM<br></li><li><strong>Graphics:</strong> nvidia 1060 or + equivelant<br></li><li><strong>Storage:</strong>
+        600 MB available space<br></li><li><strong>Sound Card:</strong> n/a</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - khos85
+    release_date:
+      coming_soon: false
+      date: Aug 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_9fa3534a1f308fcfba2e24aafe5ce40fab15029b.1920x1080.jpg?t=1597403094
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_9fa3534a1f308fcfba2e24aafe5ce40fab15029b.600x338.jpg?t=1597403094
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_e31be15de25842c392473ed6a6a44a024ca8c5a4.1920x1080.jpg?t=1597403094
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_e31be15de25842c392473ed6a6a44a024ca8c5a4.600x338.jpg?t=1597403094
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_f2538ed2f19a089beee33f18bdc3c2af5389fbc2.1920x1080.jpg?t=1597403094
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_f2538ed2f19a089beee33f18bdc3c2af5389fbc2.600x338.jpg?t=1597403094
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_f8cccb01810f5c47be87f363178afdd5050d7046.1920x1080.jpg?t=1597403094
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_f8cccb01810f5c47be87f363178afdd5050d7046.600x338.jpg?t=1597403094
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_6d8c3145ddc24aaf6bcc39df956077c1bf8176f6.1920x1080.jpg?t=1597403094
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_6d8c3145ddc24aaf6bcc39df956077c1bf8176f6.600x338.jpg?t=1597403094
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_00b9b18839e39daa438a60bb482ad4dcd3bcaf53.1920x1080.jpg?t=1597403094
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_00b9b18839e39daa438a60bb482ad4dcd3bcaf53.600x338.jpg?t=1597403094
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_83a8414bb57a1699811e88b21bebf12fa4eab40a.1920x1080.jpg?t=1597403094
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1359910/ss_83a8414bb57a1699811e88b21bebf12fa4eab40a.600x338.jpg?t=1597403094
+    short_description: Next level heavy metal music sim - Stage dive, pogo, head bang
+      to your hearts content. Or Load up some classical tunes and mosh to that, we
+      don't mind.
+    steam_appid: 1359910
+    support_info:
+      email: kim.hoskin@btinternet.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4/7yy3fYCc6ycvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1609451491
+      num_games_owned: 29
+      num_reviews: 7
+      playtime_at_review: 36
+      playtime_forever: 36
+      playtime_last_two_weeks: 36
+      steamid: '76561198401998519'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '83681987'
+    review: I need more projects like this. Sometimes just wanna on gig...
+    steam_purchase: true
+    timestamp_created: 1609451563
+    timestamp_updated: 1609451563
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

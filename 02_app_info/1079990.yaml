@@ -1,0 +1,198 @@
+details:
+  data:
+    about_the_game: '<ul class="bb_ul"><li> Two new outfits (male and female) with
+      three different skins each<br></li><li> New hat (male) and a new hairstyle (female)<br></li><li>
+      New earrings (female)<br></li><li> New backpack: Spanish Guitar<br></li><li>
+      New crops: Redcurrant and Blackcurrant<br></li><li> New tree: Blackthorn<br></li><li>
+      New fences: Tiled Wall and Horseshow Arch<br></li><li> New road: Decorative
+      Stream<br></li><li> New house: Spanish Farmhouse<br></li><li> New recipe: Paella<br></li><li>
+      New house decorations: Spanish Chair, Spanish Stool, Spanish Table, Wall Lantern
+      and Decorative Plates<br></li><li> New house walls and floor</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1079990/page_bg_generated_v6b.jpg?t=1575020479
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: '<ul class="bb_ul"><li> Two new outfits (male and female)
+      with three different skins each<br></li><li> New hat (male) and a new hairstyle
+      (female)<br></li><li> New earrings (female)<br></li><li> New backpack: Spanish
+      Guitar<br></li><li> New crops: Redcurrant and Blackcurrant<br></li><li> New
+      tree: Blackthorn<br></li><li> New fences: Tiled Wall and Horseshow Arch<br></li><li>
+      New road: Decorative Stream<br></li><li> New house: Spanish Farmhouse<br></li><li>
+      New recipe: Paella<br></li><li> New house decorations: Spanish Chair, Spanish
+      Stool, Spanish Table, Wall Lantern and Decorative Plates<br></li><li> New house
+      walls and floor</li></ul>'
+    developers:
+    - Milkstone Studios
+    fullgame:
+      appid: '673950'
+      name: Farm Together
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1079990/header.jpg?t=1575020479
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.10 or newer<br></li><li><strong>Processor:</strong> Dual Core processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2 Graphics card<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.10 or newer<br></li><li><strong>Processor:</strong> Quad Core Processor<br></li><li><strong>Memory:</strong>
+        6 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+, tested on OSX 10.12+<br></li><li><strong>Processor:</strong>
+        2.5GHz dual-core Intel Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2 Graphics card<br></li><li><strong>Storage:</strong> 1 GB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+, tested on OSX 10.12+<br></li><li><strong>Processor:</strong>
+        Quad core processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    name: Farm Together - Paella Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Farm Together - Paella Pack - $3.99
+        packageid: 362602
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Farm Together - Paella Pack
+    packages:
+    - 362602
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or newer<br></li><li><strong>Processor:</strong> Dual Core processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 10 capable hardware<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or newer<br></li><li><strong>Processor:</strong> Quad core processor<br></li><li><strong>Memory:</strong>
+        6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 960 or better<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 4, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_756fc629ca3a3468c931caf5805e05bf5eb1df98.1920x1080.jpg?t=1575020479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_756fc629ca3a3468c931caf5805e05bf5eb1df98.600x338.jpg?t=1575020479
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_b70b1ea856a86320e5fb44cffbe137b928d47f6a.1920x1080.jpg?t=1575020479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_b70b1ea856a86320e5fb44cffbe137b928d47f6a.600x338.jpg?t=1575020479
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_055523cfc3e696b5054b9f7747a989866c140216.1920x1080.jpg?t=1575020479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_055523cfc3e696b5054b9f7747a989866c140216.600x338.jpg?t=1575020479
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_945bcf0c7e7785cad787bdeb8b263fe92e393616.1920x1080.jpg?t=1575020479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_945bcf0c7e7785cad787bdeb8b263fe92e393616.600x338.jpg?t=1575020479
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_bdde0608a7d14eb419a3e704d8b4ff09a38d471d.1920x1080.jpg?t=1575020479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_bdde0608a7d14eb419a3e704d8b4ff09a38d471d.600x338.jpg?t=1575020479
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_4facd8419889670178bf5f362a9057fc2ac4c4f3.1920x1080.jpg?t=1575020479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079990/ss_4facd8419889670178bf5f362a9057fc2ac4c4f3.600x338.jpg?t=1575020479
+    short_description: Plenty of Spanish themed content for Farm Together, such as
+      new outfits, decorations and farm items to plant and harvest!
+    steam_appid: 1079990
+    support_info:
+      email: support@milkstonestudios.com
+      url: http://www.milkstonestudios.com
+    supported_languages: English, Spanish - Spain, Italian, Russian, Norwegian, Romanian,
+      Swedish, German, Portuguese - Brazil, French, Simplified Chinese, Finnish, Dutch,
+      Portuguese, Turkish, Hungarian, Japanese, Thai, Danish, Polish, Traditional
+      Chinese, Spanish - Latin America, Czech, Korean
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ41p6Uoe0CebO30gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 1
+    total_positive: 6
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 179
+      num_reviews: 27
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198384226889'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '55163705'
+    review: "\u4E3A\u4EC0\u4E48\u897F\u73ED\u7259\u5973\u88C5\u8FD9\u4E48\u50CF\u5B55\
+      \u5987\u88C5\uFF01\uFF08\u867D\u7136\u7A7F\u8D77\u6765\u4E5F\u5F88\u7F8E\u4E3D\
+      \n\n\u80CC\u4E0A\u7684\u5409\u4ED6\u771F\u662F\u592A\u597D\u770B\u4E86\uFF0C\
+      \u5404\u79CD\u88C5\u9970\u4E5F\u7EDD\u7F8E\uFF0C\u6211\u7231\u897F\u73ED\u7259\
+      \u5305\uFF01\uFF01"
+    steam_purchase: true
+    timestamp_created: 1568775665
+    timestamp_updated: 1568775665
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.455353975296020508'
+    written_during_early_access: false
+  success: 1

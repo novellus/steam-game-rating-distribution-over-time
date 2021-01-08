@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: Here is the soundtrack of Neon Beats. It is available for purchase
+      if you want to support our work! You can find the different songs related to
+      their levels.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1256930/page_bg_generated_v6b.jpg?t=1584126534
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Here is the soundtrack of Neon Beats. It is available for
+      purchase if you want to support our work! You can find the different songs related
+      to their levels.
+    developers:
+    - OKYO GAMES
+    fullgame:
+      appid: '1064610'
+      name: Neon Beats
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1256930/header.jpg?t=1584126534
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Neon Beats - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Neon Beats Soundtrack - <span class="discount_original_price">$1.99</span>
+          $1.49
+        packageid: 436536
+        percent_savings: 0
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 149
+      title: Buy Neon Beats - Original Soundtrack
+    packages:
+    - 436536
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 25
+      final: 149
+      final_formatted: $1.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - OKYO GAMES
+    release_date:
+      coming_soon: false
+      date: Mar 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1256930/ss_399325881c05bb1cbd2b721ad620a35ecc2f0b38.1920x1080.jpg?t=1584126534
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1256930/ss_399325881c05bb1cbd2b721ad620a35ecc2f0b38.600x338.jpg?t=1584126534
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1256930/ss_1ff10e00f5ac1b5c6a36a47a85c22a23ca90194c.1920x1080.jpg?t=1584126534
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1256930/ss_1ff10e00f5ac1b5c6a36a47a85c22a23ca90194c.600x338.jpg?t=1584126534
+    short_description: Here is the soundtrack of Neon Beats. It is available for purchase
+      if you want to support our work! You can find the different songs related to
+      their levels.
+    steam_appid: 1256930
+    support_info:
+      email: neonbeatsgame@gmail.com
+      url: ''
+    type: music
+    website: http://okyogames.com
+  success: true
+reviews:
+  cursor: AoJ4vtW0jfMCd47lkgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 383
+      num_reviews: 13
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198837301846'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '72034535'
+    review: "OST\u4E70\u7206\u554A\u554A\u554A\u8FD9\u97F3\u4E50\u592A\u68D2\u5566"
+    steam_purchase: true
+    timestamp_created: 1593882881
+    timestamp_updated: 1593882881
+    voted_up: true
+    votes_funny: 1
+    votes_up: 4
+    weighted_vote_score: '0.558394193649291992'
+    written_during_early_access: false
+  success: 1

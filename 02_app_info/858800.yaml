@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: This DLC includes the soundtrack for the game Planet Stronghold
+      2.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/858800/page_bg_generated_v6b.jpg?t=1586326993
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC includes the soundtrack for the game Planet Stronghold
+      2.
+    developers:
+    - Winter Wolves
+    fullgame:
+      appid: '857200'
+      name: Planet Stronghold 2
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/858800/header.jpg?t=1586326993
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Planet Stronghold 2 - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Planet Stronghold 2 - OST - $3.99
+        packageid: 270271
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Planet Stronghold 2 - OST
+    packages:
+    - 270271
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 7, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/858800/ss_eeea8c94dfdce350832edb5c610b1200ba78c03f.1920x1080.jpg?t=1586326993
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/858800/ss_eeea8c94dfdce350832edb5c610b1200ba78c03f.600x338.jpg?t=1586326993
+    short_description: This DLC contains the game full soundtrack
+    steam_appid: 858800
+    support_info:
+      email: ''
+      url: https://www.winterwolves.com/info.php
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

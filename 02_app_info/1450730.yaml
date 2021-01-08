@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: "Kuro Neko is a 2D platformer.<br />\r\n<br />\r\nIn Kuro Neko\
+      \ you have got lost and you must find your way home by collecting oil lanterns\
+      \ and avoiding monsters. <br />\r\n<br />\r\nIn local co-op you and a friend\
+      \ can play the levels together.<br />\r\n<br />\r\nIn 4 player battle you see\
+      \ who can survive until the end."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1450730/page_bg_generated_v6b.jpg?t=1604758129
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Kuro Neko is a 2D platformer.<br />\r\n<br />\r\nIn Kuro\
+      \ Neko you have got lost and you must find your way home by collecting oil lanterns\
+      \ and avoiding monsters. <br />\r\n<br />\r\nIn local co-op you and a friend\
+      \ can play the levels together.<br />\r\n<br />\r\nIn 4 player battle you see\
+      \ who can survive until the end."
+    developers:
+    - GXPlay
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1450730/header.jpg?t=1604758129
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Kuro Neko
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> x86, x64 architecture with
+        SSE2 instruction set support<br></li><li><strong>Graphics:</strong> DX10,
+        DX11, DX12 capable</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - GXPlay
+    release_date:
+      coming_soon: true
+      date: Nov 25, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_cbd58609033b42c3524931ebd7f651311c28fcba.1920x1080.jpg?t=1604758129
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_cbd58609033b42c3524931ebd7f651311c28fcba.600x338.jpg?t=1604758129
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_b5f3f5ae53b712a209dbadec7587bda77049c5c6.1920x1080.jpg?t=1604758129
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_b5f3f5ae53b712a209dbadec7587bda77049c5c6.600x338.jpg?t=1604758129
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_290157741e9cc4933367d137f6fde0078ceeb729.1920x1080.jpg?t=1604758129
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_290157741e9cc4933367d137f6fde0078ceeb729.600x338.jpg?t=1604758129
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_e3118a4a07d7d395eed1c68b3bd3e12f7e2f35aa.1920x1080.jpg?t=1604758129
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_e3118a4a07d7d395eed1c68b3bd3e12f7e2f35aa.600x338.jpg?t=1604758129
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_fff8bc5c04eb80aee3cbba570382697def76cfb5.1920x1080.jpg?t=1604758129
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1450730/ss_fff8bc5c04eb80aee3cbba570382697def76cfb5.600x338.jpg?t=1604758129
+    short_description: Kuro Neko is a 2D platformer. In Kuro Neko you have got lost
+      and you must find your way home by collecting oil lanterns and avoiding monsters.
+    steam_appid: 1450730
+    support_info:
+      email: admin@gxplay.net
+      url: http://www.gxplay.net
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

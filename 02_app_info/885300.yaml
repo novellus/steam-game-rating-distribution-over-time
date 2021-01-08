@@ -1,0 +1,82 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/885300/page_bg_generated_v6b.jpg?t=1590399646
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 5
+      notes: null
+    detailed_description: ''
+    developers:
+    - Flat Chest Dev
+    fullgame:
+      appid: '879510'
+      name: Lucy Got Problems
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/885300/header.jpg?t=1590399646
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Lucy Got Problems Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Flat Chest Dev
+    release_date:
+      coming_soon: false
+      date: Jul 11, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_6a003234cde3fde481355f6a7bcb154e453991d6.1920x1080.jpg?t=1590399646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_6a003234cde3fde481355f6a7bcb154e453991d6.600x338.jpg?t=1590399646
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_d126f4e061357b80c9b0ac76e518d2e3781de2cb.1920x1080.jpg?t=1590399646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_d126f4e061357b80c9b0ac76e518d2e3781de2cb.600x338.jpg?t=1590399646
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_acb807c15f8a044ade6ff979143f34043e435165.1920x1080.jpg?t=1590399646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_acb807c15f8a044ade6ff979143f34043e435165.600x338.jpg?t=1590399646
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_417a1730d9e000531d2dc5f5420339b2611582ba.1920x1080.jpg?t=1590399646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_417a1730d9e000531d2dc5f5420339b2611582ba.600x338.jpg?t=1590399646
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_b8ff51a8665ec7e2a021507dba5fd3d7648a37f0.1920x1080.jpg?t=1590399646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/885300/ss_b8ff51a8665ec7e2a021507dba5fd3d7648a37f0.600x338.jpg?t=1590399646
+    short_description: ''
+    steam_appid: 885300
+    support_info:
+      email: flatchestdev@gmail.com
+      url: ''
+    supported_languages: English, German, Portuguese - Brazil, Simplified Chinese,
+      Spanish - Latin America
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

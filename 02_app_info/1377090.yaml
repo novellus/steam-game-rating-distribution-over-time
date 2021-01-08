@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: "The Blankspace Original Soundtrack composed by OddTillTheEnd.<br\
+      \ />\r\nIt includes the &quot;A World of Black and White&quot; song sung by\
+      \ Sapphire."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1377090/page_bg_generated_v6b.jpg?t=1595520740
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Blankspace Original Soundtrack composed by OddTillTheEnd.<br\
+      \ />\r\nIt includes the &quot;A World of Black and White&quot; song sung by\
+      \ Sapphire."
+    developers:
+    - NoBreadStudio
+    fullgame:
+      appid: '1228600'
+      name: Blankspace
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1377090/header.jpg?t=1595520740
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256793454
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256793454/movie480.mp4?t=1595409404
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256793454/movie_max.mp4?t=1595409404
+      name: Blankspace OST 11 Beryl's Theme
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256793454/movie.293x165.jpg?t=1595409404
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256793454/movie480_vp9.webm?t=1595409404
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256793454/movie_max_vp9.webm?t=1595409404
+    - highlight: true
+      id: 256793453
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256793453/movie480.mp4?t=1595409412
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256793453/movie_max.mp4?t=1595409412
+      name: Blankspace OST 01 Fill in the Blank
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256793453/movie.293x165.jpg?t=1595409412
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256793453/movie480_vp9.webm?t=1595409412
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256793453/movie_max_vp9.webm?t=1595409412
+    name: Blankspace Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Blankspace Soundtrack - $5.99
+        packageid: 483023
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Blankspace Soundtrack
+    packages:
+    - 483023
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        70 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 600 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - NoBreadStudio
+    release_date:
+      coming_soon: false
+      date: Jul 23, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1377090/ss_b7dc87ea3b8e4e279c50be17b69370a477f0712f.1920x1080.jpg?t=1595520740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1377090/ss_b7dc87ea3b8e4e279c50be17b69370a477f0712f.600x338.jpg?t=1595520740
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1377090/ss_1d54dc09c9131c476ba7435a5b9f659a78870573.1920x1080.jpg?t=1595520740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1377090/ss_1d54dc09c9131c476ba7435a5b9f659a78870573.600x338.jpg?t=1595520740
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1377090/ss_7ef3e5b963a042eafdc48168fc6ec116d87de837.1920x1080.jpg?t=1595520740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1377090/ss_7ef3e5b963a042eafdc48168fc6ec116d87de837.600x338.jpg?t=1595520740
+    short_description: The Blankspace Original Soundtrack composed by OddTillTheEnd.
+      It includes the &quot;A World of Black and White&quot; song sung by Sapphire.
+    steam_appid: 1377090
+    support_info:
+      email: nobreadstudio@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

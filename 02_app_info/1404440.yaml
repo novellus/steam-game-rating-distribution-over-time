@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: The first level on loop, shows the main title and game over screen
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1404440/page_bg_generated_v6b.jpg?t=1605413671
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The first level on loop, shows the main title and game over
+      screen
+    developers:
+    - Lady Wolfie
+    fullgame:
+      appid: '1251090'
+      name: Wolfie's Break Out
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1404440/header.jpg?t=1605413671
+    is_free: true
+    legal_notice: "Wolfie's Break Out software \xA9 2020 Wolf and Blitz Media. All\
+      \ other trademarks and trade names are the property of their respective owners.\
+      \ All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Wolfie's Break Out Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong>
+        Yes<br></li><li><strong>Storage:</strong> 4 MB available space<br></li><li><strong>Sound
+        Card:</strong> Yes</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Wolf and Blitz Meida
+    release_date:
+      coming_soon: false
+      date: Aug 25, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_aa9ebac62c80288f2c6619c8985d86c88d8a653f.1920x1080.jpg?t=1605413671
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_aa9ebac62c80288f2c6619c8985d86c88d8a653f.600x338.jpg?t=1605413671
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_a9489191cfeae70c3c293172da4165d040ce195e.1920x1080.jpg?t=1605413671
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_a9489191cfeae70c3c293172da4165d040ce195e.600x338.jpg?t=1605413671
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_5c29ec4747d560a0a3b3c94d1677e0331e77d86e.1920x1080.jpg?t=1605413671
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_5c29ec4747d560a0a3b3c94d1677e0331e77d86e.600x338.jpg?t=1605413671
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_803f394dfcada3bbcf6334fb3e7230da6fcd3686.1920x1080.jpg?t=1605413671
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_803f394dfcada3bbcf6334fb3e7230da6fcd3686.600x338.jpg?t=1605413671
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_a758759376064a5a5127708b3e0d4b413649df96.1920x1080.jpg?t=1605413671
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_a758759376064a5a5127708b3e0d4b413649df96.600x338.jpg?t=1605413671
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_096fb7f79015f01dff9a924e9a6998209014af9e.1920x1080.jpg?t=1605413671
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1404440/ss_096fb7f79015f01dff9a924e9a6998209014af9e.600x338.jpg?t=1605413671
+    short_description: The first level on loop
+    steam_appid: 1404440
+    support_info:
+      email: wolfblitzmedia@yahoo.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

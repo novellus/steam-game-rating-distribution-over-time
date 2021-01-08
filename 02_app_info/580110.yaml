@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: <strong>Abyssal Zone</strong> is a tile-based puzzle game where
+      you can only move forward or turn, a distinctive mechanic which is the focus
+      of the game. It features a collection of puzzles built around this, which reward
+      you with pearls should you complete them under the specified number of moves.<br><br>Partner
+      up with a friend to solve the co-op exclusive puzzles, where both players' moves
+      count towards the pearl counter, or play solo and experience the dialogue between
+      two omnipresent entities who are watching you.<br><br>The game can be controlled
+      completely with two buttons, including menu navigation, but other keys and controller
+      support are also available for ease.
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <strong>Abyssal Zone</strong> is a tile-based puzzle game
+      where you can only move forward or turn, a distinctive mechanic which is the
+      focus of the game. It features a collection of puzzles built around this, which
+      reward you with pearls should you complete them under the specified number of
+      moves.<br><br>Partner up with a friend to solve the co-op exclusive puzzles,
+      where both players' moves count towards the pearl counter, or play solo and
+      experience the dialogue between two omnipresent entities who are watching you.<br><br>The
+      game can be controlled completely with two buttons, including menu navigation,
+      but other keys and controller support are also available for ease.
+    developers:
+    - Led
+    fullgame:
+      appid: '537380'
+      name: Abyssal Zone
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/580110/header.jpg?t=1485494782
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.10<br></li><li><strong>Processor:</strong> Virtually Any<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3<br></li><li><strong>Storage:</strong>
+        60 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: Abyssal Zone Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Virtually Any<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0<br></li><li><strong>Storage:</strong>
+        30 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Led
+    release_date:
+      coming_soon: false
+      date: Jan 26, 2017
+    required_age: 0
+    short_description: 'Abyssal Zone is a tile-based puzzler which incorporates a
+      distinctive mechanic: you can only turn clockwise. Go solo and make your way
+      through puzzles while being watched by two entities, or bring a friend along
+      and play the exclusive co-op stages.'
+    steam_appid: 580110
+    support_info:
+      email: ledgamedev@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

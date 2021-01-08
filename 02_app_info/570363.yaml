@@ -1,0 +1,149 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Gem Bricks</h2><br>Have you heard about this
+      trick?<br>It's time to decorate your brick.<br><br>This adds the following bricks:<br><ul
+      class="bb_ul"><li>Gem Bricks</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/570363/page_bg_generated_v6b.jpg?t=1489507472
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <h2 class="bb_tag">Gem Bricks</h2><br>Have you heard about
+      this trick?<br>It's time to decorate your brick.<br><br>This adds the following
+      bricks:<br><ul class="bb_ul"><li>Gem Bricks</li></ul>
+    developers:
+    - WeirdBeard
+    fullgame:
+      appid: '437920'
+      name: Tricky Towers
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/570363/header.jpg?t=1489507472
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Steam OS<br></li><li><strong>Processor:</strong> 2GHZ or higher<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Additional Notes:</strong> Controllers
+        needed for local multiplayer</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8<br></li><li><strong>Processor:</strong> Dual core or higher<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Additional Notes:</strong> Controllers
+        needed for local multiplayer</li></ul>
+    name: Tricky Towers - Gem Bricks
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tricky Towers - Gem Bricks - $0.99
+        packageid: 144586
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Tricky Towers - Gem Bricks
+    packages:
+    - 144586
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1.73 GHz Intel Pentium
+        M or higher<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Additional Notes:</strong> Controllers
+        needed for local multiplayer</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 14, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/570363/ss_7a64398e7362e921cc3c59e70fe90fb6c5933b0a.1920x1080.jpg?t=1489507472
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/570363/ss_7a64398e7362e921cc3c59e70fe90fb6c5933b0a.600x338.jpg?t=1489507472
+    short_description: Have you heard about this trick? It's time to decorate your
+      brick.
+    steam_appid: 570363
+    support_info:
+      email: info@trickytowers.com
+      url: http://www.trickytowers.com
+    supported_languages: English, French, Italian, German, Spanish - Spain, Japanese,
+      Russian, Portuguese, Dutch, Simplified Chinese, Arabic, Finnish, Korean, Norwegian,
+      Polish, Portuguese - Brazil, Swedish, Turkish
+    type: dlc
+    website: http://www.trickytowers.com
+  success: true
+reviews:
+  cursor: AoJw+If64PYCd7nSvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 21
+    total_reviews: 21
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2116
+      num_reviews: 1893
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198025089345'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '83792791'
+    review: "\u5B9D\u77F3\u65B9\u5757~\u4EAE\u95EA\u95EA\u7684~"
+    steam_purchase: true
+    timestamp_created: 1609570992
+    timestamp_updated: 1609570992
+    voted_up: true
+    votes_funny: 3
+    votes_up: 16
+    weighted_vote_score: '0.686586081981658936'
+    written_during_early_access: false
+  success: 1

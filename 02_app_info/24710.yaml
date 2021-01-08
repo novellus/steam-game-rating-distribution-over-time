@@ -1,0 +1,60 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - EA Los Angeles
+    fullgame:
+      appid: '17480'
+      name: 'Command & Conquer: Red Alert 3'
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/24710/header.jpg?t=1447351660
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 82
+    name: 'Command and Conquer: Red Alert 3 Demo'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Electronic Arts
+    release_date:
+      coming_soon: false
+      date: Jan 16, 2008
+    required_age: 0
+    short_description: ''
+    steam_appid: 24710
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://www.ea.com/redalert/main.jsp
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

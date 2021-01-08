@@ -1,0 +1,210 @@
+details:
+  data:
+    about_the_game: "The Blobs Fight is a silly, same-screen, arena party game about\
+      \ creatures of blob like nature. Run around as a blob attacking other players\
+      \ to knock pieces of them off, if you collect those pieces, you get bigger.\
+      \ The bigger you are, the more damage you can endure, but the slower you move.\
+      \ Play across a variety of modes from Last Blob Standing, to King of the Hill,\
+      \ on nine maps ranging from a lava covered apocalypse to a laser filled combat\
+      \ arena!<br />\r\n<br />\r\nThe controls are simple, but the strategies are\
+      \ complex, making it a great game for any skill level. The Blobs Fight supports\
+      \ 1 to 8 players locally, with hundreds of costume combinations and lots of\
+      \ settings to customize your gameplay."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/830500/page_bg_generated_v6b.jpg?t=1599085467
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The Blobs Fight is a silly, same-screen, arena party game\
+      \ about creatures of blob like nature. Run around as a blob attacking other\
+      \ players to knock pieces of them off, if you collect those pieces, you get\
+      \ bigger. The bigger you are, the more damage you can endure, but the slower\
+      \ you move. Play across a variety of modes from Last Blob Standing, to King\
+      \ of the Hill, on nine maps ranging from a lava covered apocalypse to a laser\
+      \ filled combat arena!<br />\r\n<br />\r\nThe controls are simple, but the strategies\
+      \ are complex, making it a great game for any skill level. The Blobs Fight supports\
+      \ 1 to 8 players locally, with hundreds of costume combinations and lots of\
+      \ settings to customize your gameplay."
+    developers:
+    - SkyPyre Studios
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/830500/header.jpg?t=1599085467
+    is_free: false
+    legal_notice: "\xA9 2020 SkyPyre Studios Ltd. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256795448
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256795448/movie480.mp4?t=1596640612
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256795448/movie_max.mp4?t=1596640612
+      name: Mob Blobs Trailer - The Blobs Fight Update
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256795448/movie.293x165.jpg?t=1596640612
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256795448/movie480_vp9.webm?t=1596640612
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256795448/movie_max_vp9.webm?t=1596640612
+    - highlight: true
+      id: 256720484
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720484/movie480.mp4?t=1529626819
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720484/movie_max.mp4?t=1529626819
+      name: The Blobs Fight! - Launch Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256720484/movie.293x165.jpg?t=1529626819
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720484/movie480.webm?t=1529626819
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720484/movie_max.webm?t=1529626819
+    - highlight: true
+      id: 256720103
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720103/movie480.mp4?t=1529180040
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720103/movie_max.mp4?t=1529180040
+      name: The Blobs Fight - Official Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256720103/movie.293x165.jpg?t=1529180040
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720103/movie480.webm?t=1529180040
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720103/movie_max.webm?t=1529180040
+    name: The Blobs Fight
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Blobs Fight - $7.99
+        packageid: 255878
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy The Blobs Fight
+    packages:
+    - 255878
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8/10<br></li><li><strong>Processor:</strong> Intel Core i5-5200U 2.2GHz
+        or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics 5500 or equivalent<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8/10<br></li><li><strong>Processor:</strong> Intel Core i7-4790 4.0GHz
+        or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 970 or equivalent<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - SkyPyre Studios
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_96f76016ff2d480b2c7c1d73577a49bb832dbf59.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_96f76016ff2d480b2c7c1d73577a49bb832dbf59.600x338.jpg?t=1599085467
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_541859dbe522e037a4698ba34538287cdd0859e0.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_541859dbe522e037a4698ba34538287cdd0859e0.600x338.jpg?t=1599085467
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_458f16bfdfd760a91a20a8e748a2aac742d77330.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_458f16bfdfd760a91a20a8e748a2aac742d77330.600x338.jpg?t=1599085467
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_11a1352b63509ae7fc130233061df07dada25f25.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_11a1352b63509ae7fc130233061df07dada25f25.600x338.jpg?t=1599085467
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_19bcab94c5ca5fe24243a43c7bfee2c5dbeadec4.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_19bcab94c5ca5fe24243a43c7bfee2c5dbeadec4.600x338.jpg?t=1599085467
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_b6da35d24df43019ef9dca05a46baa1690ea6b22.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_b6da35d24df43019ef9dca05a46baa1690ea6b22.600x338.jpg?t=1599085467
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_533d1478f42a798eaeb8cab9640c2ec7076147cc.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_533d1478f42a798eaeb8cab9640c2ec7076147cc.600x338.jpg?t=1599085467
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_c30872a88e099a474c0a7163fe8c556419d5e792.1920x1080.jpg?t=1599085467
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/830500/ss_c30872a88e099a474c0a7163fe8c556419d5e792.600x338.jpg?t=1599085467
+    short_description: The Blobs Fight is a silly, local multiplayer, arena party
+      game about creatures of blob like nature. Run around as a blob attacking other
+      players to knock pieces of them off, if you collect those pieces, you get bigger.
+      The bigger you are, the more damage you can endure, but the slower you move.
+    steam_appid: 830500
+    support_info:
+      email: general@skypyre.com
+      url: https://www.skypyre.com/contact/
+    supported_languages: English, French
+    type: game
+    website: https://www.skypyre.com/blobs-game
+  success: true
+reviews:
+  cursor: AoJwweGmheUCdZrTpwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1565044658
+      num_games_owned: 198
+      num_reviews: 3
+      playtime_at_review: 556
+      playtime_forever: 558
+      playtime_last_two_weeks: 0
+      steamid: '76561198024408709'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '43948453'
+    review: Fantastic little game that i played with my 7 years old dauther. My wife
+      join us even if she's not a gamer. I hope devs will add  a online single player
+      mode.
+    steam_purchase: true
+    timestamp_created: 1533481258
+    timestamp_updated: 1533481258
+    voted_up: true
+    votes_funny: 0
+    votes_up: 5
+    weighted_vote_score: '0.558218598365783691'
+    written_during_early_access: false
+  success: 1

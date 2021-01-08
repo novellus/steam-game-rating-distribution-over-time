@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: "The digital artbook containing different images and sketches,\
+      \ character art and in-game designs used in Spaceland.<br />\r\nAll files are\
+      \ downloaded to &quot;Artbook&quot; subfolder in the game folder."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1166871/page_bg_generated_v6b.jpg?t=1569862853
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The digital artbook containing different images and sketches,\
+      \ character art and in-game designs used in Spaceland.<br />\r\nAll files are\
+      \ downloaded to &quot;Artbook&quot; subfolder in the game folder."
+    developers:
+    - Tortuga Team
+    fullgame:
+      appid: '1021070'
+      name: Spaceland
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1166871/header.jpg?t=1569862853
+    is_free: false
+    legal_notice: "\xA9 2019 Tortuga Team Ltd., All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Spaceland Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Spaceland Artbook - $4.99
+        packageid: 398663
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Spaceland Artbook
+    packages:
+    - 398663
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Tortuga Team
+    release_date:
+      coming_soon: false
+      date: Sep 30, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_3d36e9be9d6983e22c09e829eaaade477e4b89a9.1920x1080.jpg?t=1569862853
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_3d36e9be9d6983e22c09e829eaaade477e4b89a9.600x338.jpg?t=1569862853
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_6a6af96e15b4d9c8bf044e953865467c42fae43f.1920x1080.jpg?t=1569862853
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_6a6af96e15b4d9c8bf044e953865467c42fae43f.600x338.jpg?t=1569862853
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_b57a92c6e6fa078e83c904b568641fa34daee4ec.1920x1080.jpg?t=1569862853
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_b57a92c6e6fa078e83c904b568641fa34daee4ec.600x338.jpg?t=1569862853
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_148effe10b635f217a7b2c03afa90e8415587527.1920x1080.jpg?t=1569862853
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_148effe10b635f217a7b2c03afa90e8415587527.600x338.jpg?t=1569862853
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_927f1ec98e854dae840dff6a8184844c28dc9466.1920x1080.jpg?t=1569862853
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166871/ss_927f1ec98e854dae840dff6a8184844c28dc9466.600x338.jpg?t=1569862853
+    short_description: The artbook containing different images and sketches, character
+      art and in-game designs used in Spaceland.
+    steam_appid: 1166871
+    support_info:
+      email: spaceland@tortugateam.com
+      url: https://www.tortugateam.com/
+    supported_languages: English, Russian
+    type: dlc
+    website: http://www.tortugateam.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

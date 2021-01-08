@@ -1,0 +1,245 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag"> A tower defense game with Japanese castle!</h2><br>This
+      game is a game to make your dream come true, &quot;I want to make a fortress&quot;
+      or &quot;I want to be besieged in a fortress.&quot;<br>Decide where to build
+      the fortress on the randomly generated map, dig to make moats, build fences
+      and walls to make your own fortress.<br><br>This game is still in the process
+      of being created, and we would like to add functions at any time.<br>If you
+      have any requests regarding the game, please post them on the forum.<h2 class="bb_tag">Implemented
+      element</h2><ul class="bb_ul"><li> Normal mode ... This is a basic game mode
+      where you get resources and enlarge the fortress while repelling enemies.<br></li><li>
+      Endless mode ... Repel enemies while expanding and expanding the castle.<br></li><li>
+      Creative mode ... A way of playing that allows you to use resources indefinitely.
+      You can also be attacked by the set number of enemies.<br></li><li> Siege Mode
+      ... A game mode that searches for combinations of enemies that can attack efficiently
+      against castle save data.<br></li><li> Walking mode ... This is a mode to walk
+      around the created fortress from FPS viewpoint.<br></li><li> Custom game ...
+      A mode where you can play after selecting optional functions and changing almost
+      all parameters.<br></li><li> Appearance change function ... We are considering
+      distributing Mods that change the appearance of buildings in Workshop.<br></li><li>
+      Ranking event ... Event to start endless mode on the same map and compete for
+      the reaching round.<br></li><li> Tutorial ... A campaign to understand the basic
+      elements.<br></li><li> Replay function ... This function allows you to replay
+      how the fortress is developing.<br></li><li> Sharing of save data in Workshop
+      ... Register and download save data of the castle you made.</li></ul><h2 class="bb_tag">Element
+      to be implemented</h2><ul class="bb_ul"><li> Campaign ... This is the mode to
+      advance to the next stage after achieving the victory conditions presented.<br></li><li>
+      VR support for walk mode.<br></li><li> AI play function ... We are considering
+      implementing a communication function that allows the bot to perform each operation
+      after the game starts.<br></li><li> Campaign creation function ... We are considering
+      creating a campaign and distributing it in Workshop.<br></li><li> Trial release
+      ... We are considering binary distribution that allows you to play only the
+      campaign to check if the game works.</li></ul>
+    achievements:
+      highlighted:
+      - name: First base
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/0af1572091b0ec2240f27c42aa833cff81be46ec.jpg
+      - name: Castle on the plains
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/c22fdc059a6dbaf5b4b221c36e55e95c8e6392c8.jpg
+      - name: Castle on the mountain
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/28ddd389ba94c7ce1a35a959f662d63da5f1dc1c.jpg
+      - name: Castle on the sea
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/fe9a7fcc6a3f44f464ca7067669d6b8f166bbad1.jpg
+      - name: Matchlock
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/37e32f01717a1d26e1fc7460e4eebdc0fa26dc9a.jpg
+      - name: Fort
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/60846b46562666b2ca06965b700977055f455311.jpg
+      - name: Castle
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/bf96d17d5678fafaa139d425be7a4ed71f0aacc1.jpg
+      - name: Hard worker
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/36f9b93e85c24697dd46577e48e24397293bc4bf.jpg
+      - name: City
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/9f397cd49f98585182b943d7a2cf4e72c266a03d.jpg
+      - name: Lighthouse
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1183480/f1c791341c0d157e522dd73a2d646973fb9c770d.jpg
+      total: 16
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1183480/page_bg_generated_v6b.jpg?t=1600095984
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Workshop
+      id: 30
+    - description: Steam Cloud
+      id: 23
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag"> A tower defense game with Japanese castle!</h2><br>This
+      game is a game to make your dream come true, &quot;I want to make a fortress&quot;
+      or &quot;I want to be besieged in a fortress.&quot;<br>Decide where to build
+      the fortress on the randomly generated map, dig to make moats, build fences
+      and walls to make your own fortress.<br><br>This game is still in the process
+      of being created, and we would like to add functions at any time.<br>If you
+      have any requests regarding the game, please post them on the forum.<h2 class="bb_tag">Implemented
+      element</h2><ul class="bb_ul"><li> Normal mode ... This is a basic game mode
+      where you get resources and enlarge the fortress while repelling enemies.<br></li><li>
+      Endless mode ... Repel enemies while expanding and expanding the castle.<br></li><li>
+      Creative mode ... A way of playing that allows you to use resources indefinitely.
+      You can also be attacked by the set number of enemies.<br></li><li> Siege Mode
+      ... A game mode that searches for combinations of enemies that can attack efficiently
+      against castle save data.<br></li><li> Walking mode ... This is a mode to walk
+      around the created fortress from FPS viewpoint.<br></li><li> Custom game ...
+      A mode where you can play after selecting optional functions and changing almost
+      all parameters.<br></li><li> Appearance change function ... We are considering
+      distributing Mods that change the appearance of buildings in Workshop.<br></li><li>
+      Ranking event ... Event to start endless mode on the same map and compete for
+      the reaching round.<br></li><li> Tutorial ... A campaign to understand the basic
+      elements.<br></li><li> Replay function ... This function allows you to replay
+      how the fortress is developing.<br></li><li> Sharing of save data in Workshop
+      ... Register and download save data of the castle you made.</li></ul><h2 class="bb_tag">Element
+      to be implemented</h2><ul class="bb_ul"><li> Campaign ... This is the mode to
+      advance to the next stage after achieving the victory conditions presented.<br></li><li>
+      VR support for walk mode.<br></li><li> AI play function ... We are considering
+      implementing a communication function that allows the bot to perform each operation
+      after the game starts.<br></li><li> Campaign creation function ... We are considering
+      creating a campaign and distributing it in Workshop.<br></li><li> Trial release
+      ... We are considering binary distribution that allows you to play only the
+      campaign to check if the game works.</li></ul>
+    developers:
+    - Hyakuren Soft
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1183480/header.jpg?t=1600095984
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256766904
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766904/movie480.mp4?t=1573403877
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766904/movie_max.mp4?t=1573403877
+      name: Game Play 0
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256766904/movie.293x165.jpg?t=1573403877
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766904/movie480.webm?t=1573403877
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766904/movie_max.webm?t=1573403877
+    name: Bonsai Castles
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: BonsaiCastles - $9.99
+        packageid: 406909
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Bonsai Castles
+    packages:
+    - 406909
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Microsoft Windows 8, 10<br></li><li><strong>Processor:</strong> 1.8 GHz Pentium
+        4<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        1280 x 720<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Hyakuren Soft
+    release_date:
+      coming_soon: false
+      date: Dec 10, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_1a76b01b49db7ac0534e0b2bfd7cdc05c2601469.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_1a76b01b49db7ac0534e0b2bfd7cdc05c2601469.600x338.jpg?t=1600095984
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_bddeeb04b3614b10515f1f27a229892df8adfb96.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_bddeeb04b3614b10515f1f27a229892df8adfb96.600x338.jpg?t=1600095984
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_30ad728e3e5ae8a1bba24bf24d76fcf4d6d473bb.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_30ad728e3e5ae8a1bba24bf24d76fcf4d6d473bb.600x338.jpg?t=1600095984
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_0ab8835c5b8fdbfc8fa7bd3a390f53e6043e9da4.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_0ab8835c5b8fdbfc8fa7bd3a390f53e6043e9da4.600x338.jpg?t=1600095984
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_d131e90e593fa227273238dd49fb203c40a87d5f.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_d131e90e593fa227273238dd49fb203c40a87d5f.600x338.jpg?t=1600095984
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_65c909120852daa98de4d9d2a01efa1aab6b8c5a.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_65c909120852daa98de4d9d2a01efa1aab6b8c5a.600x338.jpg?t=1600095984
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_825931e649149015e778d5ea7cdb52a666e1b6f4.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_825931e649149015e778d5ea7cdb52a666e1b6f4.600x338.jpg?t=1600095984
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_76a43c3cad96cf01d089a67b20df5a55f15ea9ed.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_76a43c3cad96cf01d089a67b20df5a55f15ea9ed.600x338.jpg?t=1600095984
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_d4e6b0677e059a24adb3b7c60ea77f7ab186271a.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_d4e6b0677e059a24adb3b7c60ea77f7ab186271a.600x338.jpg?t=1600095984
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_70427245a21870983d04e983f92a4585a1c70d2d.1920x1080.jpg?t=1600095984
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1183480/ss_70427245a21870983d04e983f92a4585a1c70d2d.600x338.jpg?t=1600095984
+    short_description: A tower defense game based on Japanese castles. Excavate the
+      ground to create a moat, build walls and turrets, and fight off the enemies
+      that attack you!
+    steam_appid: 1183480
+    support_info:
+      email: support@hyakuren-soft.sakura.ne.jp
+      url: ''
+    supported_languages: Japanese, English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4ioeY4vYCc+HnvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 15
+    total_reviews: 15
+  reviews:
+  - author:
+      last_played: 1609676233
+      num_games_owned: 122
+      num_reviews: 30
+      playtime_at_review: 401
+      playtime_forever: 585
+      playtime_last_two_weeks: 585
+      steamid: '76561198021855947'
+    comment_count: 0
+    language: japanese
+    received_for_free: false
+    recommendationid: '83836435'
+    review: "\u5C71\u57CE\u6700\u5F37\u304B\u3041~\uFF01\uFF1F"
+    steam_purchase: true
+    timestamp_created: 1609612409
+    timestamp_updated: 1609612409
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

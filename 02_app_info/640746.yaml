@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '640580'
+      name: Saga of Tanya the Evil
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/640580/header.jpg?t=1553556300
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Saga of Tanya the Evil: War Report'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Saga of Tanya the Evil: War Report - $1.99'
+        packageid: 177728
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Saga of Tanya the Evil: War Report'
+    packages:
+    - 177728
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: Recap episode. Tanya reflects on how she went from Tokyo salaryman
+      to 11-year old mage, and swears her revenge on Being X for putting her here.
+    steam_appid: 640746
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwwKSKlt0Cc6TCfw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1541945688
+      num_games_owned: 1031
+      num_reviews: 136
+      playtime_at_review: 25
+      playtime_forever: 25
+      playtime_last_two_weeks: 0
+      steamid: '76561198077047344'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '33428035'
+    review: It's a great anime!
+    steam_purchase: true
+    timestamp_created: 1499684480
+    timestamp_updated: 1499684480
+    voted_up: true
+    votes_funny: 1
+    votes_up: 1
+    weighted_vote_score: '0.438271611928939819'
+    written_during_early_access: false
+  success: 1

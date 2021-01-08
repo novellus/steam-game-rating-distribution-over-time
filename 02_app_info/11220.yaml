@@ -1,0 +1,69 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Frozenbyte
+    fullgame:
+      appid: '11200'
+      name: Shadowgrounds Survivor
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/11220/header.jpg?t=1447351253
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 79
+    name: Shadowgrounds Survivor Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported\
+        \ OS:</strong> Windows&reg; XP / Windows&reg; Vista</li>\n\t\t\t\t\t<li><strong>Processor:</strong>\
+        \ 1.5 GHz Processor (2.0 GHz+ recommended)</li>\n\t\t\t\t\t<li><strong>Memory:</strong>\
+        \ 512 MB RAM (1024 MB RAM recommended)</li>\n\t\t\t\t\t<li><strong>Graphics:</strong>\
+        \ DirectX compatible 128 MB graphics card (512 MB recommended)</li>\n\t\t\t\
+        \t\t<li><strong>DirectX Version:</strong> DirectX&reg; 9.0c</li>\n\t\t\t\t\
+        \t<li><strong>Sound:</strong> DirectX compatible sound card</li>\n\t\t\t\t\
+        \t<li><strong>Hard Drive:</strong>1 GB Hard Drive space</li>\n\t\t\t\t\t<li>Gamepad\
+        \ required for co-op play</li></ul>\n"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Frozenbyte
+    release_date:
+      coming_soon: false
+      date: Feb 15, 2008
+    required_age: 0
+    short_description: ''
+    steam_appid: 11220
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

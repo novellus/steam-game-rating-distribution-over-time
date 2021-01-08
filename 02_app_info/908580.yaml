@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Deep Dive Interactive
+    fullgame:
+      appid: '755410'
+      name: Vengeful Rites
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/908580/header.jpg?t=1571880061
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Vengeful Rites Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 SP1, Windows 8.1, or Windows 10<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE i5-4590 or equivalent<br></li><li><strong>Graphics:</strong> NVIDIA\
+        \ GeForce\xAE GTX 980 or equivalent<br></li><li><strong>Storage:</strong>\
+        \ 2 GB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> Intel i7-4770 equivalent\
+        \ or greater<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX\
+        \ 1070 equivalent or greater<br></li><li><strong>Storage:</strong> 2 GB available\
+        \ space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Deep Dive Interactive
+    release_date:
+      coming_soon: false
+      date: Aug 21, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 908580
+    support_info:
+      email: deepdivehelp@gmail.com
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

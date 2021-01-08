@@ -1,0 +1,67 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Q Entertainment Inc.
+    fullgame:
+      appid: '11900'
+      name: Uninitialized
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/11910/header.jpg?t=1530210181
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: "LUMINES\u2122 Demo"
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>OS:</strong>\
+        \ Windows&reg; XP/Vista</li>\n\t\t\t\t\t<li><strong>Processor:</strong> Intel(R)\
+        \ Pentium(R) 3 900 MHz or better</li>\n\t\t\t\t\t<li><strong>Memory:</strong>\
+        \ 256 MB RAM</li>\n\t\t\t\t\t<li><strong>Graphics:</strong> DirectX compatible\
+        \ 64 MB graphics card  </li>\n\t\t\t\t\t<li><strong>DirectX Version:</strong>\
+        \ DirectX&reg; 9.0 or above</li>\n\t\t\t\t\t<li><strong>Sound:</strong> 16-bit\
+        \ sound card</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Q Entertainment Inc.
+    release_date:
+      coming_soon: false
+      date: Apr 18, 2008
+    required_age: 0
+    short_description: ''
+    steam_appid: 11910
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, German, Italian, Spanish - Spain
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

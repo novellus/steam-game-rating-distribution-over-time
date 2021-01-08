@@ -1,0 +1,237 @@
+details:
+  data:
+    about_the_game: "War of Velana is a single player 16-bit RPG that combines world\
+      \ exploration and interaction with an orthographic grid-based tactical battle\
+      \ system. In many ways, War of Velana is in many ways a spiritual successor\
+      \ to the Shining Force series on the Sega Genesis. Elements of those games are\
+      \ the core, and combine with some design ideas from Fire Emblem and Final Fantasy\
+      \ Tactics to create a new tactical experience. In War of Velana, your characters\
+      \ have static classes and gain a variety of skills and equipment upgrades as\
+      \ you progress through the game. In between combat, you\u2019ll be able to explore\
+      \ and interact with the world around you.<br><br><strong>Setting:</strong><br><br>The\
+      \ world of Velana, in its current state, has four nations: <br><ul class=\"\
+      bb_ul\"><li>Alta, a royal kingdom of sprawling green fields, meadows, and riverlands.\
+      \ <br></li><li>Kovell, a nation with a wide plain of autumn-gold, a dark forest,\
+      \ and a northern tundra.<br></li><li>Ishdar, a small desert island nation of\
+      \ artisans and warriors to the far east.<br></li><li>Jakka, a jungle archipelago\
+      \ with towering mountains and devout monasteries.</li></ul><br><strong>Story:</strong><br><br>Our\
+      \ story starts in Alta near the foothills of the Goravia Ridge, outside the\
+      \ small village of Pell. A pair of hunters close in on their mark. As they make\
+      \ their way back to the village, they run into Jon, a trader who frequents the\
+      \ northern roads. They help him repair his cart, but quickly realize that bandits\
+      \ have taken over their home. Events continue to unfold, the party bears witness\
+      \ to a mysterious encounter and potential sparks of a new war.<br><br><strong>Characters:</strong><br><ul\
+      \ class=\"bb_ul\"><li>Arnen, a hunter from Pell Village. He is skilled with\
+      \ a bow and keen to help people. Arnen lives with his sister, Karissa.<br></li><li>Krell,\
+      \ a hunter alongside Arnen. He wields an axe and is learning to cook from his\
+      \ grandmother\u2019s journal<br></li><li>Dolvis, a soldier from Dellador City.\
+      \ He is a sword and shield fighter and vows to right wrongs in the world.<br></li><li>Prym,\
+      \ another villager of Pell, she left for a number of years to train in magic\
+      \ at the Archive in Glasmere. She takes care of her sister Pryscilla.<br></li><li>Karissa,\
+      \ Arnen\u2019s younger sister. She is a priest in the Velana Order and has been\
+      \ training in healing and holy magic for the last year.</li></ul><br><br><strong>Gameplay\
+      \ Overview</strong><br><br><ul class=\"bb_ul\"><li>Grid-based tactical combat\
+      \ based on unit speed. Each unit moves in Turn Order, rather than Player-vs-Enemy\
+      \ phases.<br></li><li>Unit inventories can be managed in and out of combat.\
+      \ Equipping items and even trading them between units is possible and doesn\u2019\
+      t count as a turn action.<br></li><li>Each class has different magic spells\
+      \ and weapon skills to learn. Though you may find two allies of the same class,\
+      \ each will have unique abilities and different stat growth ranges.<br></li><li>When\
+      \ a unit levels up, their HP, SP, and stats increase based on growth ranges\
+      \ for their class. Melee units will focus on Attack, Defense, or Speed growth\
+      \ whereas casters will focus on Magic and Resistance, in most cases.<br></li><li>There\
+      \ are many allies, items, and secrets to uncover all over the country of Alta.\
+      \ As you adventure around, you\u2019ll be able to interact with most everything\
+      \ you see, talk to townspeople and visit all sorts of shops.<br></li><li>In\
+      \ battle, you\u2019ll have an active party of 8 units to face off against enemies.\
+      \ You can configure your active party before or after combat, but not during.<br></li><li>There\
+      \ are many areas around the world where enemies gather. While you\u2019re never\
+      \ required to engage them, you can choose to enter combat and hone your skills\
+      \ or earn some extra gold.</li></ul><br><strong>Demo Changelog</strong><br><br>0.0.14.17<br>-\
+      \ Added additional world text<br>- Added food items<br>- Added visual tutorials<br>-\
+      \ Added additional world items/pickups<br>- Added new late-level specials for\
+      \ Arnen, Dolvis, and Krell<br><br>- Adjusted Guard SP cost and Exp gain<br>-\
+      \ Adjusted level up particle sizing<br>- Adjusted button mapping for keyboard\
+      \ (added WASD set, adjusted Skip/Snapshot buttons)<br><br>- Updated colors for\
+      \ item icons<br>- Updated Yes/No choice framing for better contrast<br>- Remade\
+      \ Skip Mode UI pop up so it\u2019s more noticeable<br><br>- Fixed grass animation\
+      \ layering in Tratas Plains West<br>- Fixed Karissa\u2019s tombstone offset<br>-\
+      \ Fixed lock when using Guard during skip mode<br>- Fixed ! event audio issues<br>-\
+      \ Fixed Sleep spell AI and damage shown<br>- Fixed various typos<br>- Fixed\
+      \ various minor visual issues<br>- Fixed bug where healing a fallen unit revives\
+      \ them (sorry)<br>- Fixed bug in self-heal HP/SP bar issues<br>- Fixed bug where\
+      \ items equipped during battle disappear after battle is won<br>- Fixed various\
+      \ bugs related to Skip Mode"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1288720/page_bg_generated_v6b.jpg?t=1604730028
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    demos:
+    - appid: 1376440
+      description: ''
+    detailed_description: "War of Velana is a single player 16-bit RPG that combines\
+      \ world exploration and interaction with an orthographic grid-based tactical\
+      \ battle system. In many ways, War of Velana is in many ways a spiritual successor\
+      \ to the Shining Force series on the Sega Genesis. Elements of those games are\
+      \ the core, and combine with some design ideas from Fire Emblem and Final Fantasy\
+      \ Tactics to create a new tactical experience. In War of Velana, your characters\
+      \ have static classes and gain a variety of skills and equipment upgrades as\
+      \ you progress through the game. In between combat, you\u2019ll be able to explore\
+      \ and interact with the world around you.<br><br><strong>Setting:</strong><br><br>The\
+      \ world of Velana, in its current state, has four nations: <br><ul class=\"\
+      bb_ul\"><li>Alta, a royal kingdom of sprawling green fields, meadows, and riverlands.\
+      \ <br></li><li>Kovell, a nation with a wide plain of autumn-gold, a dark forest,\
+      \ and a northern tundra.<br></li><li>Ishdar, a small desert island nation of\
+      \ artisans and warriors to the far east.<br></li><li>Jakka, a jungle archipelago\
+      \ with towering mountains and devout monasteries.</li></ul><br><strong>Story:</strong><br><br>Our\
+      \ story starts in Alta near the foothills of the Goravia Ridge, outside the\
+      \ small village of Pell. A pair of hunters close in on their mark. As they make\
+      \ their way back to the village, they run into Jon, a trader who frequents the\
+      \ northern roads. They help him repair his cart, but quickly realize that bandits\
+      \ have taken over their home. Events continue to unfold, the party bears witness\
+      \ to a mysterious encounter and potential sparks of a new war.<br><br><strong>Characters:</strong><br><ul\
+      \ class=\"bb_ul\"><li>Arnen, a hunter from Pell Village. He is skilled with\
+      \ a bow and keen to help people. Arnen lives with his sister, Karissa.<br></li><li>Krell,\
+      \ a hunter alongside Arnen. He wields an axe and is learning to cook from his\
+      \ grandmother\u2019s journal<br></li><li>Dolvis, a soldier from Dellador City.\
+      \ He is a sword and shield fighter and vows to right wrongs in the world.<br></li><li>Prym,\
+      \ another villager of Pell, she left for a number of years to train in magic\
+      \ at the Archive in Glasmere. She takes care of her sister Pryscilla.<br></li><li>Karissa,\
+      \ Arnen\u2019s younger sister. She is a priest in the Velana Order and has been\
+      \ training in healing and holy magic for the last year.</li></ul><br><br><strong>Gameplay\
+      \ Overview</strong><br><br><ul class=\"bb_ul\"><li>Grid-based tactical combat\
+      \ based on unit speed. Each unit moves in Turn Order, rather than Player-vs-Enemy\
+      \ phases.<br></li><li>Unit inventories can be managed in and out of combat.\
+      \ Equipping items and even trading them between units is possible and doesn\u2019\
+      t count as a turn action.<br></li><li>Each class has different magic spells\
+      \ and weapon skills to learn. Though you may find two allies of the same class,\
+      \ each will have unique abilities and different stat growth ranges.<br></li><li>When\
+      \ a unit levels up, their HP, SP, and stats increase based on growth ranges\
+      \ for their class. Melee units will focus on Attack, Defense, or Speed growth\
+      \ whereas casters will focus on Magic and Resistance, in most cases.<br></li><li>There\
+      \ are many allies, items, and secrets to uncover all over the country of Alta.\
+      \ As you adventure around, you\u2019ll be able to interact with most everything\
+      \ you see, talk to townspeople and visit all sorts of shops.<br></li><li>In\
+      \ battle, you\u2019ll have an active party of 8 units to face off against enemies.\
+      \ You can configure your active party before or after combat, but not during.<br></li><li>There\
+      \ are many areas around the world where enemies gather. While you\u2019re never\
+      \ required to engage them, you can choose to enter combat and hone your skills\
+      \ or earn some extra gold.</li></ul><br><strong>Demo Changelog</strong><br><br>0.0.14.17<br>-\
+      \ Added additional world text<br>- Added food items<br>- Added visual tutorials<br>-\
+      \ Added additional world items/pickups<br>- Added new late-level specials for\
+      \ Arnen, Dolvis, and Krell<br><br>- Adjusted Guard SP cost and Exp gain<br>-\
+      \ Adjusted level up particle sizing<br>- Adjusted button mapping for keyboard\
+      \ (added WASD set, adjusted Skip/Snapshot buttons)<br><br>- Updated colors for\
+      \ item icons<br>- Updated Yes/No choice framing for better contrast<br>- Remade\
+      \ Skip Mode UI pop up so it\u2019s more noticeable<br><br>- Fixed grass animation\
+      \ layering in Tratas Plains West<br>- Fixed Karissa\u2019s tombstone offset<br>-\
+      \ Fixed lock when using Guard during skip mode<br>- Fixed ! event audio issues<br>-\
+      \ Fixed Sleep spell AI and damage shown<br>- Fixed various typos<br>- Fixed\
+      \ various minor visual issues<br>- Fixed bug where healing a fallen unit revives\
+      \ them (sorry)<br>- Fixed bug in self-heal HP/SP bar issues<br>- Fixed bug where\
+      \ items equipped during battle disappear after battle is won<br>- Fixed various\
+      \ bugs related to Skip Mode"
+    developers:
+    - Loreweaver Creativeworks
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1288720/header.jpg?t=1604730028
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: War of Velana
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2010 Dual-core or better<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intel 750 or better<br></li><li><strong>Storage:</strong>
+        3 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Loreweaver Creativeworks
+    release_date:
+      coming_soon: true
+      date: Tentatively 2022
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_173afb580a1c75fcfcc3c7a2f04bb351c1576420.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_173afb580a1c75fcfcc3c7a2f04bb351c1576420.600x338.jpg?t=1604730028
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_89542410fb5e96629dca94b29c2ef1077f268ccd.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_89542410fb5e96629dca94b29c2ef1077f268ccd.600x338.jpg?t=1604730028
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_0b43118f5b3fdf8e0d915f4605fc26c48d2c9919.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_0b43118f5b3fdf8e0d915f4605fc26c48d2c9919.600x338.jpg?t=1604730028
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_62f7607e1b1a5088988c5872eba55ab0697baf11.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_62f7607e1b1a5088988c5872eba55ab0697baf11.600x338.jpg?t=1604730028
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_4ade1c41072252132d05453537c561f38190fcb3.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_4ade1c41072252132d05453537c561f38190fcb3.600x338.jpg?t=1604730028
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_a8eb8c1967138e48fc9b3eaa454e33f60c73c5d2.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_a8eb8c1967138e48fc9b3eaa454e33f60c73c5d2.600x338.jpg?t=1604730028
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_56427250998ac3a03e88bfcf4e576a68ae8637ba.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_56427250998ac3a03e88bfcf4e576a68ae8637ba.600x338.jpg?t=1604730028
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_3ef861c3b4d5fb084b247db14d3e3ec3944e9ea1.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_3ef861c3b4d5fb084b247db14d3e3ec3944e9ea1.600x338.jpg?t=1604730028
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_1c4b96b7962a77626f690a16b351fe7f38453fa6.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_1c4b96b7962a77626f690a16b351fe7f38453fa6.600x338.jpg?t=1604730028
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_334a4597c03b18ed745213e02dbeaa60fc39ad50.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_334a4597c03b18ed745213e02dbeaa60fc39ad50.600x338.jpg?t=1604730028
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_48e9e55faf3e25a9b6cf74b8377c197179cfb1bf.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_48e9e55faf3e25a9b6cf74b8377c197179cfb1bf.600x338.jpg?t=1604730028
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_e400de6dde1833e641159531ad5af3e7dd8d012d.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_e400de6dde1833e641159531ad5af3e7dd8d012d.600x338.jpg?t=1604730028
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_3018d62230bbe4d8a0303866c9a3af911bb30bf7.1920x1080.jpg?t=1604730028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288720/ss_3018d62230bbe4d8a0303866c9a3af911bb30bf7.600x338.jpg?t=1604730028
+    short_description: War of Velana is a 16-bit Tactical JRPG where you play as a
+      group of villagers that stumble upon curious events and try to prevent a new
+      war from sparking in their homeland. Explore Alta, find new friends, and discover
+      secrets as they chase after a mysterious elven woman with dark magic.
+    steam_appid: 1288720
+    support_info:
+      email: ''
+      url: http://loreweaver.io
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://warofvelana.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

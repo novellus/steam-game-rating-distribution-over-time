@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: This is the script for which the main game is based on.  However,
+      there are a large number of differences.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1268390/page_bg_generated_v6b.jpg?t=1584133074
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: "Adult humour\r\nSexual innuendo"
+    detailed_description: This is the script for which the main game is based on.  However,
+      there are a large number of differences.
+    developers:
+    - Triority Interactive Novels
+    fullgame:
+      appid: '1265730'
+      name: 'Welcome To... Chichester OVN 3 : The Mysterious Affair At The Violet
+        Hotel'
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1268390/header.jpg?t=1584133074
+    is_free: false
+    legal_notice: For educational purposes only
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    name: 'Welcome To... Chichester OVN 3 : The Script'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Welcome To... Chichester OVN 3 : The Script - $6.99'
+        packageid: 441369
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: 'Buy Welcome To... Chichester OVN 3 : The Script'
+    packages:
+    - 441369
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Triority InteractiveNovels
+    release_date:
+      coming_soon: false
+      date: Mar 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1268390/ss_fd2b962e91299d433f3687363eaeb566f2b9425a.1920x1080.jpg?t=1584133074
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1268390/ss_fd2b962e91299d433f3687363eaeb566f2b9425a.600x338.jpg?t=1584133074
+    short_description: Script for the main game
+    steam_appid: 1268390
+    support_info:
+      email: triority_developer@outlook.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: The Soundtrack for Rage.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/452290/page_bg_generated_v6b.jpg?t=1581547709
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Soundtrack for Rage.
+    developers:
+    - id Software
+    fullgame:
+      appid: '9200'
+      name: RAGE
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/452290/header.jpg?t=1581547709
+    is_free: false
+    legal_notice: "\xA9 2011 id Software LLC, a ZeniMax Media company. Bethesda, Bethesda\
+      \ Softworks, ZeniMax and related logos are registered trademarks or trademarks\
+      \ of ZeniMax Media Inc. in the U.S. and/or other countries. RAGE, id, id Software,\
+      \ id Tech and related logos are registered trademarks or trademarks of id Software\
+      \ LLC in the U.S. and/or other countries. All other trademarks or trade names\
+      \ are the property of their respective owners. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Rage Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Rage Soundtrack - $9.99
+        packageid: 97469
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Rage Soundtrack
+    packages:
+    - 97469
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        121 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Bethesda Softworks
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2018
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/452290/ss_666f606c66e73c538df1fd34f40338e123784d04.1920x1080.jpg?t=1581547709
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/452290/ss_666f606c66e73c538df1fd34f40338e123784d04.600x338.jpg?t=1581547709
+    short_description: The Soundtrack for Rage
+    steam_appid: 452290
+    support_info:
+      email: ''
+      url: http://support.bethsoft.com/
+    supported_languages: English, Czech, French, German, Italian, Japanese, Polish,
+      Russian, Spanish - Spain
+    type: music
+    website: http://rage.com/gate/
+  success: true
+reviews:
+  cursor: AoJ45oGCivYCfoSXtQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 119
+      num_reviews: 116
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198056750261'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '81049678'
+    review: "\u0412\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u044B\u0439\
+      \ \u0441\u0430\u0443\u043D\u0434\u0442\u0440\u0435\u043A."
+    steam_purchase: true
+    timestamp_created: 1606653841
+    timestamp_updated: 1606653841
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

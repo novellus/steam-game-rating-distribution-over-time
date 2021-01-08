@@ -1,0 +1,78 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '589880'
+      name: Ghost in the Shell
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/604380/header.jpg?t=1490919799
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Ghost in the Shell: The Making of Ghost in the Shell'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 30, 2017
+    required_age: 0
+    short_description: The Making of Ghost in the Shell
+    steam_appid: 604380
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw5Mfx5PICfJvtjgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1592523081
+      num_games_owned: 435
+      num_reviews: 516
+      playtime_at_review: 18
+      playtime_forever: 18
+      playtime_last_two_weeks: 0
+      steamid: '76561198064494426'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '71002556'
+    review: "\U0001F44D"
+    steam_purchase: true
+    timestamp_created: 1592523112
+    timestamp_updated: 1592523112
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.519999980926513672'
+    written_during_early_access: false
+  success: 1

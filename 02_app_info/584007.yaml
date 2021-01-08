@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '581490'
+      name: 'Ghost In The Shell: Stand Alone Complex'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/584007/header.jpg?t=1490891291
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Ghost In The Shell: Stand Alone Complex: Fake Food'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Ghost In The Shell: Stand Alone Complex: Fake Food - $2.99'
+        packageid: 150303
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy Ghost In The Shell: Stand Alone Complex: Fake Food'
+    packages:
+    - 150303
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 30, 2017
+    required_age: 0
+    short_description: Tired of being manipulated by Gohda, Aramaki decides to take
+      the initiative and conduct his own investigation on the Individual Eleven case
+      while simultaneously looking into the Cabinet Intelligence Agency.
+    steam_appid: 584007
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

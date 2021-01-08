@@ -1,0 +1,458 @@
+details:
+  data:
+    about_the_game: "Contains various minor features of Simplode Suite.  Some of them\
+      \ simply do not fit into other categories, and others were included so that\
+      \ they would be available in a lower priced package than the one that they naturally\
+      \ fit.<br>This product is available natively in English, but it has automated\
+      \ translations for most major languages.<br>Contents: Unlock Drag Drop (\U0001F4A7\
+      \U0001F513), Special Theme (\U0001F58C\U0001F41A), Recycle Bin (\U0001F5D1\uFE0F\
+      ), Reset Network Adapter (\U0001F5A7\u21BB), Restart Explorer (\u2756\u21BB\
+      ), Scan for Hardware Changes (\U0001F5A5*), Toggle Taskbar Autohide (\u2756\U0001F5D5\
+      ), Orbit All of the Things (\u2605\u21BB\U0001F389), Generate QR Code (QR+),\
+      \ Cursor Finder (\U0001F5B0?), Mouse Display (\U0001F5B0\U0001F441), Delete\
+      \ Temp Files (\u274CTemp), Memory Limit App (\U0001F5D4\U0001F5DC), Limit Simplode\
+      \ Suite RAM Usage (\xA7\U0001F5DC)<h2 class=\"bb_tag\">Unlock Drag Drop (\U0001F4A7\
+      \U0001F513)</h2>Allows a prompt for drag and drop to windows with administrator\
+      \ rights.<br><ul class=\"bb_ul\"><li>The operating system does not allow drag\
+      \ and drop functionality from a regular app to a secured app.  When enabled,\
+      \ the tool will detect when you are trying to do this, and a drag and drop security\
+      \ converter window will appear.  If you want to override the security measure,\
+      \ you can place the cursor over the unlock button until it unlocks.  At this\
+      \ point, the tool takes over the cursor in administrative mode, preventing programs\
+      \ with lower access levels from forcing the drag drop to complete.  You should\
+      \ now be able to complete the drag drop into programs that were previously blocked.<br></li><li>This\
+      \ feature requires that the tool be started with administrator rights.  Without\
+      \ administrator rights, this feature will simply do nothing.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Drag Drop Unlocker (Default: True)<br>Allows you to override\
+      \ operating system restrictions on some drag and drop operations to secured\
+      \ windows.<br></li><li>Run as Admin (Default: True)<br>If enabled, Simplode\
+      \ Suite will try to always have admin privileges.  Without admin privileges,\
+      \ some features only partially work and some features do not work at all.  Some\
+      \ of these features provide the ability to get admin privileges on demand, but\
+      \ some require restarting the application which may result in the loss of some\
+      \ session level configuration, such as window linking and tab layouts.</li></ul><h2\
+      \ class=\"bb_tag\">Special Theme (\U0001F58C\U0001F41A)</h2>Enable a special\
+      \ theme.<br><br>Settings:<ul class=\"bb_ul\"><li>Special Theme Enabled (Default:\
+      \ False)<br>Enables a cool animated gradient effect throughout the tool.<br></li><li>Special\
+      \ Theme (Default: 0)<br> - 0<br> - 1<br></li><li>Theme Animation (Default: True)<br>Theme\
+      \ animations can be very taxing on your computing resources.  By disabling theme\
+      \ animations, you can experience a static version of your chosen theme which\
+      \ will save some energy.<br></li><li>Bonkers Mode (Default: False)<br>For when\
+      \ too far is not far enough...<br></li><li>Theme Shape (Default: 0,0,2,0)<br></li><li>Animated\
+      \ Theme Horizontal Slide (Default: 1)<br></li><li>Animated Theme Vertical Slide\
+      \ (Default: 0)<br></li><li>Theme Panel Background and Border Opacity (Default:\
+      \ 0.4)<br>Adjusts the transparency of panels and their borders throughout the\
+      \ application when theme is enabled.  Values closer to 1 are less transparent.\
+      \  Values closer to 0 are more transparent.<br></li><li>Theme Ring Background\
+      \ and Border Opacity (Default: 0.4)<br>Adjusts the transparency of the rings\
+      \ and their borders throughout the application when theme is enabled.  Values\
+      \ closer to 1 are less transparent.  Values closer to 0 are more transparent.</li></ul><h2\
+      \ class=\"bb_tag\">Recycle Bin (\U0001F5D1\uFE0F)</h2>Opens the recycle bin\
+      \ for managing deleted items and freeing hard drive space.<h2 class=\"bb_tag\"\
+      >Reset Network Adapter (\U0001F5A7\u21BB)</h2>Resets the active WAN network\
+      \ adapter.<br><ul class=\"bb_ul\"><li>Sometimes computers act like the internet\
+      \ is broken when it is really not broken.  Resetting the network adapter will\
+      \ often get you back online in this case.</li></ul>Settings:<ul class=\"bb_ul\"\
+      ><li>Automatically Reset Network Adapters (Default: False)<br>If enabled, program\
+      \ will attempt to automatically reset network adapters when internet problems\
+      \ are detected.  Warning: This may occasionally reset network adapters for partial\
+      \ connectivity issues, which may result in being unnecessarily disconnected\
+      \ from services that were not having issues.<br></li><li>Seconds to Wait After\
+      \ Network Adapter Reset (Default: 15)<br>If set too low, you may experience\
+      \ problems with a reset not completing successfully.<br></li><li>Seconds to\
+      \ Wait to Reset Network Adapters (Default: 30)<br>If set higher, reduces the\
+      \ chance that an automatic reset will occur for temporary issues.<br></li><li>Automatically\
+      \ Reset Network Adapters Second Chance Ping Address (Default: 1.1.1.1)<br>Sometimes\
+      \ the operating system falsely detects internet problems.  If set, the program\
+      \ will double check by pinging the selected address to make sure the internet\
+      \ is really having problems, so as not to suddenly disconnect you from your\
+      \ favorite game unnecessarily.<br></li><li>Automatically Reset Network Adapters\
+      \ Second Chance Ping Timeout Milliseconds (Default: 1000)<br>Determines how\
+      \ long to wait for a ping from the second chance address before initiating the\
+      \ automatic network reset.<br></li><li>Automatically Reset Network Adapters\
+      \ Number of Double Checks (Default: 2)<br>When internet failure is detected,\
+      \ double check this number of times.  Double checking reduces the probability\
+      \ that the network will reset unnecessarily.<br></li><li>Automatically Reset\
+      \ Network Adapters Double Check Rate Milliseconds (Default: 1000)<br>When internet\
+      \ failure is detected, double checks will occur at this specified rate.</li></ul><h2\
+      \ class=\"bb_tag\">Restart Explorer (\u2756\u21BB)</h2>Restarts Windows Explorer.<h2\
+      \ class=\"bb_tag\">Scan for Hardware Changes (\U0001F5A5*)</h2>Scan for hardware\
+      \ changes.<br><ul class=\"bb_ul\"><li>Sometimes helps get wonky hardware going\
+      \ again.</li></ul><h2 class=\"bb_tag\">Toggle Taskbar Autohide (\u2756\U0001F5D5\
+      )</h2>Toggles auto-hide for the taskbar.<br><ul class=\"bb_ul\"><li>I have seen\
+      \ the taskbar misbehave with this setting sometimes.  I can usually get it to\
+      \ clear up by restarting the explorer.  See Restart Explorer (\u2756\u21BB)</li></ul><h2\
+      \ class=\"bb_tag\">Orbit All of the Things (\u2605\u21BB\U0001F389)</h2>This\
+      \ action is just for fun.  It will cause all ring menus to begin rotating. \
+      \ It is more interesting when used in conjunction with the Super Ring feature.<h2\
+      \ class=\"bb_tag\">Generate QR Code (QR+)</h2>Quickly generate QR codes.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Generate QR Code ECC Level (Default: 2)<br>ECC allows\
+      \ error detection and correction.  The level changes how much error correction\
+      \ information will be included.<br> - 0<br> - 1<br> - 2<br> - 3</li></ul><h2\
+      \ class=\"bb_tag\">Cursor Finder (\U0001F5B0?)</h2>Helps you keep track of your\
+      \ cursor.  When enabled, shaking your mouse will temporarily put a spotlight\
+      \ on your cursor.<br><br>Settings:<ul class=\"bb_ul\"><li>Cursor Finder (Default:\
+      \ False)<br>If you lose track of your cursor, this feature can put a visual\
+      \ indicator around the cursor temporarily to help you out.  All you need to\
+      \ do is wave the mouse around like a crazy person.<br></li><li>Cursor Finder\
+      \ Opacity (Default: 0.62)<br>Controls how visible the cursor highlighting will\
+      \ be when shaken.<br></li><li>Cursor Finder Shake Distance (Default: 4)<br>Controls\
+      \ how intense the mouse shake needs to be to trigger the cursor finder.<br></li><li>Cursor\
+      \ Finder Shake Amount (Default: 6)<br>Controls how much mouse shaking is needed\
+      \ to be to trigger the cursor finder.<br></li><li>Cursor Finder Always On Opacity\
+      \ (Default: 0)<br>Controls how visible the cursor highlighting will be at all\
+      \ times.<br></li><li>Cursor Finder Invisible Cursor (Default: False)<br>Unless\
+      \ you turn this feature on, the cursor highlighting feature will be automatically\
+      \ disabled when the cursor is not visible.<br></li><li>Deep Cursor Visibility\
+      \ Check (Default: False)<br>When checking whether or not a cursor is visible,\
+      \ sometimes a deeper check is required.  The deep cursor check has some performance\
+      \ implications, though likely not noticeable.  Keep this off if you aren't noticing\
+      \ any problems with how the tool reacts to invisible cursors.</li></ul><h2 class=\"\
+      bb_tag\">Mouse Display (\U0001F5B0\U0001F441)</h2>Produces a visual representation\
+      \ of your mouse on screen to aid with presentations.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Mouse Display (Default: False)<br>If enabled, a visual representation\
+      \ of your mouse will follow the cursor, making it clear to viewers what the\
+      \ mouse is doing and what buttons are being pressed.<br></li><li>Mouse Display\
+      \ Background (Default: #40ADD8E6)<br>Changes the background color of the display\
+      \ mouse.<br></li><li>Mouse Display Background Pressed (Default: #8080FFFF)<br>Changes\
+      \ the background color of the display mouse when pressed.<br></li><li>Mouse\
+      \ Display Border (Default: #40FFFFFF)<br>Changes the border color of the display\
+      \ mouse.<br></li><li>Mouse Display Layout (Default: 15,0,50,100)<br>Controls\
+      \ the offset and size of the mouse display.<br></li><li>Mouse Display Follow\
+      \ (Default: True)<br>Mouse display will follow the cursor with the offset specified\
+      \ in the Mouse Display Layout configuration.</li></ul><h2 class=\"bb_tag\">Delete\
+      \ Temp Files (\u274CTemp)</h2>Deletes temp files to free up drive space.<br><ul\
+      \ class=\"bb_ul\"><li>You can specify a time period to keep recently created/modified\
+      \ temp files, which can reduce potential problems experienced by programs which\
+      \ rely on temporary storage.  Some files may be currently in use, and will be\
+      \ automatically skipped.</li></ul>Settings:<ul class=\"bb_ul\"><li>Delete Temp\
+      \ Files Minimum Hours (Default: 48)<br>Specifies the number of hours which should\
+      \ be considered too recent of modification to delete a temp file.<br></li><li>Delete\
+      \ Temp Files on Start (Default: False)<br>If enabled, tool will automatically\
+      \ delete temp files every time it starts.</li></ul><h2 class=\"bb_tag\">Memory\
+      \ Limit App (\U0001F5D4\U0001F5DC)</h2>Tell the focused app to reduce its physical\
+      \ memory usage.<br><ul class=\"bb_ul\"><li>This feature may appear more useful\
+      \ than it really is.  Programs use more memory than they need when extra memory\
+      \ is available and will release that memory when it is needed by other apps.\
+      \  Limiting memory usage unnecessarily can be wasteful.  Ultimately no matter\
+      \ how smart the computer thinks it is at managing your memory, it is possible\
+      \ that you know better how you plan to use your apps, and for that reason I\
+      \ included this feature despite its dubious merits.<br></li><li>The limit works\
+      \ more like a suggestion, where the system will override the limit to give more\
+      \ memory when necessary.</li></ul>Settings:<ul class=\"bb_ul\"><li>App Memory\
+      \ Usage Default Target Mebibytes (Default: 150)<br>When setting memory targets\
+      \ for other apps, this value will be used as the default target value.<br></li><li>Automatic\
+      \ App Memory Limiter (Default: False)<br>If enabled, the tool will try to automatically\
+      \ reduce the amount of physical memory that the apps you have selected are using\
+      \ according to their respective target sizes.<br></li><li>Automatic App Memory\
+      \ Limiter Interval (Default: 30)<br>This setting is the number of seconds the\
+      \ tool will wait between checks when managing the memory usage of other applications.</li></ul><h2\
+      \ class=\"bb_tag\">Limit Simplode Suite RAM Usage (\xA7\U0001F5DC)</h2>Tell\
+      \ Simplode Suite to reduce its physical memory usage.<br><ul class=\"bb_ul\"\
+      ><li>This feature may be less useful than it appears.  Programs automatically\
+      \ use more memory than they need when extra memory is available and will release\
+      \ that memory when it is needed by other apps.  Limiting memory usage unnecessarily\
+      \ can be wasteful, but it can also be beneficial to already have the memory\
+      \ free when loading new apps or features, rather than having to unload old memory\
+      \ first before loading new memory.<br></li><li>This feature does not currently\
+      \ work with features that run in separate processes, but those features tend\
+      \ to use less memory than the main process anyways.</li></ul>Settings:<ul class=\"\
+      bb_ul\"><li>Automatic Memory Limiter (Default: False)<br>If enabled, the tool\
+      \ will try to automatically reduce the amount of physical memory it is using\
+      \ according to the selected target size.<br></li><li>Memory Usage Target Mebibytes\
+      \ (Default: 150)<br>Depending on which features of the tool you are using and\
+      \ your scaling/DPI settings, the minimum amount of memory necessary for the\
+      \ tool varies.  If this value is lower than the minimum required memory, there\
+      \ will be wasted effort unloading and then immediately reloading necessary resources.<br></li><li>Automatic\
+      \ Memory Limiter Interval (Default: 30)<br>This setting is the number of seconds\
+      \ the tool will wait between checks when the automatic memory limiter is enabled.<br></li><li>Individual\
+      \ Process Executable Names (Default: True)<br>When enabled, each coprocess will\
+      \ use its own separate executable file.  This makes it easier to identify specific\
+      \ types of Simplode Suite activity with other tools, such as the task manager.\
+      \  You must restart the tool for changes to this setting to go into effect.\
+      \  This setting has nearly zero cost, because nearly all of the code is located\
+      \ in library files which the processes share.  When I last checked, the individual\
+      \ executables files themselves are only around 14KB each.<br></li><li>Show Process\
+      \ Windows (Default: False)<br>When enabled, coprocesses will have visible windows.\
+      \  This makes it easier to identify specific types of Simplode Suite activity\
+      \ when looking at them with other tools, such as the task manager, but may clutter\
+      \ your taskbar or screen in certain situations.  You must restart the tool for\
+      \ changes to this setting to go into effect.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1291038/page_bg_generated_v6b.jpg?t=1606276059
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Contains various minor features of Simplode Suite.  Some\
+      \ of them simply do not fit into other categories, and others were included\
+      \ so that they would be available in a lower priced package than the one that\
+      \ they naturally fit.<br>This product is available natively in English, but\
+      \ it has automated translations for most major languages.<br>Contents: Unlock\
+      \ Drag Drop (\U0001F4A7\U0001F513), Special Theme (\U0001F58C\U0001F41A), Recycle\
+      \ Bin (\U0001F5D1\uFE0F), Reset Network Adapter (\U0001F5A7\u21BB), Restart\
+      \ Explorer (\u2756\u21BB), Scan for Hardware Changes (\U0001F5A5*), Toggle Taskbar\
+      \ Autohide (\u2756\U0001F5D5), Orbit All of the Things (\u2605\u21BB\U0001F389\
+      ), Generate QR Code (QR+), Cursor Finder (\U0001F5B0?), Mouse Display (\U0001F5B0\
+      \U0001F441), Delete Temp Files (\u274CTemp), Memory Limit App (\U0001F5D4\U0001F5DC\
+      ), Limit Simplode Suite RAM Usage (\xA7\U0001F5DC)<h2 class=\"bb_tag\">Unlock\
+      \ Drag Drop (\U0001F4A7\U0001F513)</h2>Allows a prompt for drag and drop to\
+      \ windows with administrator rights.<br><ul class=\"bb_ul\"><li>The operating\
+      \ system does not allow drag and drop functionality from a regular app to a\
+      \ secured app.  When enabled, the tool will detect when you are trying to do\
+      \ this, and a drag and drop security converter window will appear.  If you want\
+      \ to override the security measure, you can place the cursor over the unlock\
+      \ button until it unlocks.  At this point, the tool takes over the cursor in\
+      \ administrative mode, preventing programs with lower access levels from forcing\
+      \ the drag drop to complete.  You should now be able to complete the drag drop\
+      \ into programs that were previously blocked.<br></li><li>This feature requires\
+      \ that the tool be started with administrator rights.  Without administrator\
+      \ rights, this feature will simply do nothing.</li></ul>Settings:<ul class=\"\
+      bb_ul\"><li>Drag Drop Unlocker (Default: True)<br>Allows you to override operating\
+      \ system restrictions on some drag and drop operations to secured windows.<br></li><li>Run\
+      \ as Admin (Default: True)<br>If enabled, Simplode Suite will try to always\
+      \ have admin privileges.  Without admin privileges, some features only partially\
+      \ work and some features do not work at all.  Some of these features provide\
+      \ the ability to get admin privileges on demand, but some require restarting\
+      \ the application which may result in the loss of some session level configuration,\
+      \ such as window linking and tab layouts.</li></ul><h2 class=\"bb_tag\">Special\
+      \ Theme (\U0001F58C\U0001F41A)</h2>Enable a special theme.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Special Theme Enabled (Default: False)<br>Enables a cool\
+      \ animated gradient effect throughout the tool.<br></li><li>Special Theme (Default:\
+      \ 0)<br> - 0<br> - 1<br></li><li>Theme Animation (Default: True)<br>Theme animations\
+      \ can be very taxing on your computing resources.  By disabling theme animations,\
+      \ you can experience a static version of your chosen theme which will save some\
+      \ energy.<br></li><li>Bonkers Mode (Default: False)<br>For when too far is not\
+      \ far enough...<br></li><li>Theme Shape (Default: 0,0,2,0)<br></li><li>Animated\
+      \ Theme Horizontal Slide (Default: 1)<br></li><li>Animated Theme Vertical Slide\
+      \ (Default: 0)<br></li><li>Theme Panel Background and Border Opacity (Default:\
+      \ 0.4)<br>Adjusts the transparency of panels and their borders throughout the\
+      \ application when theme is enabled.  Values closer to 1 are less transparent.\
+      \  Values closer to 0 are more transparent.<br></li><li>Theme Ring Background\
+      \ and Border Opacity (Default: 0.4)<br>Adjusts the transparency of the rings\
+      \ and their borders throughout the application when theme is enabled.  Values\
+      \ closer to 1 are less transparent.  Values closer to 0 are more transparent.</li></ul><h2\
+      \ class=\"bb_tag\">Recycle Bin (\U0001F5D1\uFE0F)</h2>Opens the recycle bin\
+      \ for managing deleted items and freeing hard drive space.<h2 class=\"bb_tag\"\
+      >Reset Network Adapter (\U0001F5A7\u21BB)</h2>Resets the active WAN network\
+      \ adapter.<br><ul class=\"bb_ul\"><li>Sometimes computers act like the internet\
+      \ is broken when it is really not broken.  Resetting the network adapter will\
+      \ often get you back online in this case.</li></ul>Settings:<ul class=\"bb_ul\"\
+      ><li>Automatically Reset Network Adapters (Default: False)<br>If enabled, program\
+      \ will attempt to automatically reset network adapters when internet problems\
+      \ are detected.  Warning: This may occasionally reset network adapters for partial\
+      \ connectivity issues, which may result in being unnecessarily disconnected\
+      \ from services that were not having issues.<br></li><li>Seconds to Wait After\
+      \ Network Adapter Reset (Default: 15)<br>If set too low, you may experience\
+      \ problems with a reset not completing successfully.<br></li><li>Seconds to\
+      \ Wait to Reset Network Adapters (Default: 30)<br>If set higher, reduces the\
+      \ chance that an automatic reset will occur for temporary issues.<br></li><li>Automatically\
+      \ Reset Network Adapters Second Chance Ping Address (Default: 1.1.1.1)<br>Sometimes\
+      \ the operating system falsely detects internet problems.  If set, the program\
+      \ will double check by pinging the selected address to make sure the internet\
+      \ is really having problems, so as not to suddenly disconnect you from your\
+      \ favorite game unnecessarily.<br></li><li>Automatically Reset Network Adapters\
+      \ Second Chance Ping Timeout Milliseconds (Default: 1000)<br>Determines how\
+      \ long to wait for a ping from the second chance address before initiating the\
+      \ automatic network reset.<br></li><li>Automatically Reset Network Adapters\
+      \ Number of Double Checks (Default: 2)<br>When internet failure is detected,\
+      \ double check this number of times.  Double checking reduces the probability\
+      \ that the network will reset unnecessarily.<br></li><li>Automatically Reset\
+      \ Network Adapters Double Check Rate Milliseconds (Default: 1000)<br>When internet\
+      \ failure is detected, double checks will occur at this specified rate.</li></ul><h2\
+      \ class=\"bb_tag\">Restart Explorer (\u2756\u21BB)</h2>Restarts Windows Explorer.<h2\
+      \ class=\"bb_tag\">Scan for Hardware Changes (\U0001F5A5*)</h2>Scan for hardware\
+      \ changes.<br><ul class=\"bb_ul\"><li>Sometimes helps get wonky hardware going\
+      \ again.</li></ul><h2 class=\"bb_tag\">Toggle Taskbar Autohide (\u2756\U0001F5D5\
+      )</h2>Toggles auto-hide for the taskbar.<br><ul class=\"bb_ul\"><li>I have seen\
+      \ the taskbar misbehave with this setting sometimes.  I can usually get it to\
+      \ clear up by restarting the explorer.  See Restart Explorer (\u2756\u21BB)</li></ul><h2\
+      \ class=\"bb_tag\">Orbit All of the Things (\u2605\u21BB\U0001F389)</h2>This\
+      \ action is just for fun.  It will cause all ring menus to begin rotating. \
+      \ It is more interesting when used in conjunction with the Super Ring feature.<h2\
+      \ class=\"bb_tag\">Generate QR Code (QR+)</h2>Quickly generate QR codes.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Generate QR Code ECC Level (Default: 2)<br>ECC allows\
+      \ error detection and correction.  The level changes how much error correction\
+      \ information will be included.<br> - 0<br> - 1<br> - 2<br> - 3</li></ul><h2\
+      \ class=\"bb_tag\">Cursor Finder (\U0001F5B0?)</h2>Helps you keep track of your\
+      \ cursor.  When enabled, shaking your mouse will temporarily put a spotlight\
+      \ on your cursor.<br><br>Settings:<ul class=\"bb_ul\"><li>Cursor Finder (Default:\
+      \ False)<br>If you lose track of your cursor, this feature can put a visual\
+      \ indicator around the cursor temporarily to help you out.  All you need to\
+      \ do is wave the mouse around like a crazy person.<br></li><li>Cursor Finder\
+      \ Opacity (Default: 0.62)<br>Controls how visible the cursor highlighting will\
+      \ be when shaken.<br></li><li>Cursor Finder Shake Distance (Default: 4)<br>Controls\
+      \ how intense the mouse shake needs to be to trigger the cursor finder.<br></li><li>Cursor\
+      \ Finder Shake Amount (Default: 6)<br>Controls how much mouse shaking is needed\
+      \ to be to trigger the cursor finder.<br></li><li>Cursor Finder Always On Opacity\
+      \ (Default: 0)<br>Controls how visible the cursor highlighting will be at all\
+      \ times.<br></li><li>Cursor Finder Invisible Cursor (Default: False)<br>Unless\
+      \ you turn this feature on, the cursor highlighting feature will be automatically\
+      \ disabled when the cursor is not visible.<br></li><li>Deep Cursor Visibility\
+      \ Check (Default: False)<br>When checking whether or not a cursor is visible,\
+      \ sometimes a deeper check is required.  The deep cursor check has some performance\
+      \ implications, though likely not noticeable.  Keep this off if you aren't noticing\
+      \ any problems with how the tool reacts to invisible cursors.</li></ul><h2 class=\"\
+      bb_tag\">Mouse Display (\U0001F5B0\U0001F441)</h2>Produces a visual representation\
+      \ of your mouse on screen to aid with presentations.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Mouse Display (Default: False)<br>If enabled, a visual representation\
+      \ of your mouse will follow the cursor, making it clear to viewers what the\
+      \ mouse is doing and what buttons are being pressed.<br></li><li>Mouse Display\
+      \ Background (Default: #40ADD8E6)<br>Changes the background color of the display\
+      \ mouse.<br></li><li>Mouse Display Background Pressed (Default: #8080FFFF)<br>Changes\
+      \ the background color of the display mouse when pressed.<br></li><li>Mouse\
+      \ Display Border (Default: #40FFFFFF)<br>Changes the border color of the display\
+      \ mouse.<br></li><li>Mouse Display Layout (Default: 15,0,50,100)<br>Controls\
+      \ the offset and size of the mouse display.<br></li><li>Mouse Display Follow\
+      \ (Default: True)<br>Mouse display will follow the cursor with the offset specified\
+      \ in the Mouse Display Layout configuration.</li></ul><h2 class=\"bb_tag\">Delete\
+      \ Temp Files (\u274CTemp)</h2>Deletes temp files to free up drive space.<br><ul\
+      \ class=\"bb_ul\"><li>You can specify a time period to keep recently created/modified\
+      \ temp files, which can reduce potential problems experienced by programs which\
+      \ rely on temporary storage.  Some files may be currently in use, and will be\
+      \ automatically skipped.</li></ul>Settings:<ul class=\"bb_ul\"><li>Delete Temp\
+      \ Files Minimum Hours (Default: 48)<br>Specifies the number of hours which should\
+      \ be considered too recent of modification to delete a temp file.<br></li><li>Delete\
+      \ Temp Files on Start (Default: False)<br>If enabled, tool will automatically\
+      \ delete temp files every time it starts.</li></ul><h2 class=\"bb_tag\">Memory\
+      \ Limit App (\U0001F5D4\U0001F5DC)</h2>Tell the focused app to reduce its physical\
+      \ memory usage.<br><ul class=\"bb_ul\"><li>This feature may appear more useful\
+      \ than it really is.  Programs use more memory than they need when extra memory\
+      \ is available and will release that memory when it is needed by other apps.\
+      \  Limiting memory usage unnecessarily can be wasteful.  Ultimately no matter\
+      \ how smart the computer thinks it is at managing your memory, it is possible\
+      \ that you know better how you plan to use your apps, and for that reason I\
+      \ included this feature despite its dubious merits.<br></li><li>The limit works\
+      \ more like a suggestion, where the system will override the limit to give more\
+      \ memory when necessary.</li></ul>Settings:<ul class=\"bb_ul\"><li>App Memory\
+      \ Usage Default Target Mebibytes (Default: 150)<br>When setting memory targets\
+      \ for other apps, this value will be used as the default target value.<br></li><li>Automatic\
+      \ App Memory Limiter (Default: False)<br>If enabled, the tool will try to automatically\
+      \ reduce the amount of physical memory that the apps you have selected are using\
+      \ according to their respective target sizes.<br></li><li>Automatic App Memory\
+      \ Limiter Interval (Default: 30)<br>This setting is the number of seconds the\
+      \ tool will wait between checks when managing the memory usage of other applications.</li></ul><h2\
+      \ class=\"bb_tag\">Limit Simplode Suite RAM Usage (\xA7\U0001F5DC)</h2>Tell\
+      \ Simplode Suite to reduce its physical memory usage.<br><ul class=\"bb_ul\"\
+      ><li>This feature may be less useful than it appears.  Programs automatically\
+      \ use more memory than they need when extra memory is available and will release\
+      \ that memory when it is needed by other apps.  Limiting memory usage unnecessarily\
+      \ can be wasteful, but it can also be beneficial to already have the memory\
+      \ free when loading new apps or features, rather than having to unload old memory\
+      \ first before loading new memory.<br></li><li>This feature does not currently\
+      \ work with features that run in separate processes, but those features tend\
+      \ to use less memory than the main process anyways.</li></ul>Settings:<ul class=\"\
+      bb_ul\"><li>Automatic Memory Limiter (Default: False)<br>If enabled, the tool\
+      \ will try to automatically reduce the amount of physical memory it is using\
+      \ according to the selected target size.<br></li><li>Memory Usage Target Mebibytes\
+      \ (Default: 150)<br>Depending on which features of the tool you are using and\
+      \ your scaling/DPI settings, the minimum amount of memory necessary for the\
+      \ tool varies.  If this value is lower than the minimum required memory, there\
+      \ will be wasted effort unloading and then immediately reloading necessary resources.<br></li><li>Automatic\
+      \ Memory Limiter Interval (Default: 30)<br>This setting is the number of seconds\
+      \ the tool will wait between checks when the automatic memory limiter is enabled.<br></li><li>Individual\
+      \ Process Executable Names (Default: True)<br>When enabled, each coprocess will\
+      \ use its own separate executable file.  This makes it easier to identify specific\
+      \ types of Simplode Suite activity with other tools, such as the task manager.\
+      \  You must restart the tool for changes to this setting to go into effect.\
+      \  This setting has nearly zero cost, because nearly all of the code is located\
+      \ in library files which the processes share.  When I last checked, the individual\
+      \ executables files themselves are only around 14KB each.<br></li><li>Show Process\
+      \ Windows (Default: False)<br>When enabled, coprocesses will have visible windows.\
+      \  This makes it easier to identify specific types of Simplode Suite activity\
+      \ when looking at them with other tools, such as the task manager, but may clutter\
+      \ your taskbar or screen in certain situations.  You must restart the tool for\
+      \ changes to this setting to go into effect.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Audio Production
+      id: '52'
+    - description: Utilities
+      id: '57'
+    - description: Video Production
+      id: '58'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1291038/header.jpg?t=1606276059
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Extras
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Extras - <span class="discount_original_price">$3.99</span>
+          $0.99
+        packageid: 450350
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 99
+      title: Buy Simplode Suite - Extras
+    packages:
+    - 450350
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 99
+      final_formatted: $0.99
+      initial: 399
+      initial_formatted: $3.99
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1291038/ss_70088c346267d2bf30327cd900f91d72ec54891d.1920x1080.jpg?t=1606276059
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1291038/ss_70088c346267d2bf30327cd900f91d72ec54891d.600x338.jpg?t=1606276059
+    short_description: Contains various minor features of Simplode Suite. Some of
+      them simply do not fit into other categories, and others were included so that
+      they would be available in a lower priced package than the one that they naturally
+      fit.
+    steam_appid: 1291038
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-extras
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

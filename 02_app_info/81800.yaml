@@ -1,0 +1,60 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Valve
+    fullgame:
+      appid: '440'
+      name: Team Fortress 2
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/81800/header.jpg?t=1519429778
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 81800
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/81800/movie480.mp4?t=1519429778
+        max: http://steamcdn-a.akamaihd.net/steam/apps/81800/movie_max.mp4?t=1519429778
+      name: Meet the Pyro - TF2
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/81800/movie.293x165.jpg?t=1519429778
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/81800/movie480.webm?t=1519429778
+        max: http://steamcdn-a.akamaihd.net/steam/apps/81800/movie_max.webm?t=1519429778
+    name: Meet the Pyro - TF2
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 27, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 81800
+    support_info:
+      email: ''
+      url: ''
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

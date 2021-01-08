@@ -1,0 +1,184 @@
+details:
+  data:
+    about_the_game: "The dead walk. The aliens have arrived. It's the end of the world\
+      \ as we know it! Explore a world where everything you thought you knew is wrong.<br><br><i>Zombien</i>\
+      \ is a 275,000 word interactive novel by Leon Naylor, where your choices control\
+      \ the story. It's entirely text-based\u2014without graphics or sound effects\u2014\
+      and fueled by the vast, unstoppable power of your imagination.<br><br>Can you\
+      \ navigate the harsh new realities of life? Do you have what it takes to survive?\
+      \ Will you be the savior of humanity, or it's damnation? Develop your character\
+      \ to face whatever comes. <br><br><ul class=\"bb_ul\"><li> Battle forces from\
+      \ beyond the stars. <br></li><li> Duel with the undead. <br></li><li> Explore\
+      \ a terrifying new world where everything you thought you knew is wrong. <br></li><li>\
+      \ Play as male or female; gay, straight, or bi.<br></li><li> Will you be the\
+      \ savior or humanity? Or it's damnation? </li></ul>"
+    achievements:
+      highlighted:
+      - name: Oppenheimer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/c628c90fbed5a2227a85cecdf4e59a062310bfa4.jpg
+      - name: First Steps
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg
+      - name: Martyr
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: Genius
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg
+      - name: Exodus
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: Feed the poor.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/c628c90fbed5a2227a85cecdf4e59a062310bfa4.jpg
+      - name: Great Leader
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/57a5476c2c116e9153aa7eec78cd1fef65a55a8f.jpg
+      - name: Enemy within
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/57a5476c2c116e9153aa7eec78cd1fef65a55a8f.jpg
+      - name: Love
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/c628c90fbed5a2227a85cecdf4e59a062310bfa4.jpg
+      - name: Semper Fidelis
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124400/57a5476c2c116e9153aa7eec78cd1fef65a55a8f.jpg
+      total: 32
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1124400/page_bg_generated_v6b.jpg?t=1566508483
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1124470
+      description: ''
+    detailed_description: "The dead walk. The aliens have arrived. It's the end of\
+      \ the world as we know it! Explore a world where everything you thought you\
+      \ knew is wrong.<br><br><i>Zombien</i> is a 275,000 word interactive novel by\
+      \ Leon Naylor, where your choices control the story. It's entirely text-based\u2014\
+      without graphics or sound effects\u2014and fueled by the vast, unstoppable power\
+      \ of your imagination.<br><br>Can you navigate the harsh new realities of life?\
+      \ Do you have what it takes to survive? Will you be the savior of humanity,\
+      \ or it's damnation? Develop your character to face whatever comes. <br><br><ul\
+      \ class=\"bb_ul\"><li> Battle forces from beyond the stars. <br></li><li> Duel\
+      \ with the undead. <br></li><li> Explore a terrifying new world where everything\
+      \ you thought you knew is wrong. <br></li><li> Play as male or female; gay,\
+      \ straight, or bi.<br></li><li> Will you be the savior or humanity? Or it's\
+      \ damnation? </li></ul>"
+    developers:
+    - Hosted Games
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1124400/header.jpg?t=1566508483
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.9</li></ul>
+    name: Zombien
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Zombien - $2.99
+        packageid: 381736
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Zombien
+    packages:
+    - 381736
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Hosted Games
+    release_date:
+      coming_soon: false
+      date: Aug 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_057018e85a3b306ca32631960ef42e3d037bc627.1920x1080.jpg?t=1566508483
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_057018e85a3b306ca32631960ef42e3d037bc627.600x338.jpg?t=1566508483
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_1ccec523de17b9f0e7c2b0b979912e8e85b315d4.1920x1080.jpg?t=1566508483
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_1ccec523de17b9f0e7c2b0b979912e8e85b315d4.600x338.jpg?t=1566508483
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_e774aed85296d7ee35476fe28dbced8e2ed16145.1920x1080.jpg?t=1566508483
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_e774aed85296d7ee35476fe28dbced8e2ed16145.600x338.jpg?t=1566508483
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_d161fa05bbd0aa3af0203e9cc432dd7d4431d546.1920x1080.jpg?t=1566508483
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_d161fa05bbd0aa3af0203e9cc432dd7d4431d546.600x338.jpg?t=1566508483
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_0333d76dcac545bcf746be584fb218fd54e0f393.1920x1080.jpg?t=1566508483
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124400/ss_0333d76dcac545bcf746be584fb218fd54e0f393.600x338.jpg?t=1566508483
+    short_description: The dead walk. The aliens have arrived. It's the end of the
+      world as we know it! Explore a world where everything you thought you knew is
+      wrong.
+    steam_appid: 1124400
+    support_info:
+      email: support-zombien-steam@hostedgames.org
+      url: https://www.choiceofgames.com/contact-us/
+    supported_languages: English
+    type: game
+    website: https://www.choiceofgames.com/
+  success: true
+reviews:
+  cursor: AoJwgoG2vPECe9TagAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 2
+    total_positive: 2
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1586544436
+      num_games_owned: 110
+      num_reviews: 4
+      playtime_at_review: 324
+      playtime_forever: 324
+      playtime_last_two_weeks: 0
+      steamid: '76561198003320148'
+    comment_count: 0
+    language: hungarian
+    received_for_free: false
+    recommendationid: '67294539'
+    review: "Remek kis sz\xF6veges RPG idegenekkel \xE9s zombikkal p\xE1ros\xEDtva.\
+      \ K\xF6nnyed hangv\xE9tel\u0171, sok v\xE1laszt\xE1si lehet\u0151s\xE9ggel \xE9\
+      s bej\xE1rhat\xF3 ter\xFClettel. Arr\xF3l nem is besz\xE9lve, hogy a kezd\u0151\
+      \ angolosok is nyugodtan tehetnek vele egy pr\xF3b\xE1t, ugyanis a Zombien nyelvezete\
+      \ meglehet\u0151sen letisztult."
+    steam_purchase: true
+    timestamp_created: 1586870356
+    timestamp_updated: 1586870356
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

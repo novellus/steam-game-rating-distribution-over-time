@@ -1,0 +1,101 @@
+details:
+  data:
+    about_the_game: "Get a permanent OnlySimps subscription for only $199. For an\
+      \ ultimate simp like yourself, this won't be an issue.<br />\r\n<br />\r\nThis\
+      \ DLC will grant you an access to &quot;Simpy Mistress&quot; DLC and set your\
+      \ cash balance to $2,000,000."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1412940/page_bg_generated_v6b.jpg?t=1599023604
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Get a permanent OnlySimps subscription for only $199. For\
+      \ an ultimate simp like yourself, this won't be an issue.<br />\r\n<br />\r\n\
+      This DLC will grant you an access to &quot;Simpy Mistress&quot; DLC and set\
+      \ your cash balance to $2,000,000."
+    developers:
+    - RIVERSIDE SPORTS
+    fullgame:
+      appid: '1350340'
+      name: Simp Simulator
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1412940/header.jpg?t=1599023604
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simp Simulator - OnlySimps Subscription
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simp Simulator - OnlySimps Subscription - <span class="discount_original_price">$199.99</span>
+          $19.99
+        packageid: 495860
+        percent_savings: 0
+        percent_savings_text: '-90% '
+        price_in_cents_with_discount: 1999
+      title: Buy Simp Simulator - OnlySimps Subscription
+    packages:
+    - 495860
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 90
+      final: 1999
+      final_formatted: $19.99
+      initial: 19999
+      initial_formatted: $199.99
+    publishers:
+    - RIVERSIDE SPORTS
+    release_date:
+      coming_soon: false
+      date: Sep 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412940/ss_a719715cb8ac2677985f22a38964b503772af3af.1920x1080.jpg?t=1599023604
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412940/ss_a719715cb8ac2677985f22a38964b503772af3af.600x338.jpg?t=1599023604
+    short_description: Get a permanent OnlySimps subscription for only $199. For an
+      ultimate simp like yourself, this won't be an issue.
+    steam_appid: 1412940
+    support_info:
+      email: riverside-sports@hotmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

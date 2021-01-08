@@ -1,0 +1,145 @@
+details:
+  data:
+    about_the_game: "a low stress physics based game where you swing the moon around\
+      \ to hit targets.<br />\r\n<br />\r\n&quot;Still&quot; game mode: the moon steadily\
+      \ accelerates toward the mouse cursor during gameplay. use this effect to swing\
+      \ the moon at other planets that appear on screen. after each planet is hit\
+      \ it will disappear and reappear in a new random location.<br />\r\n<br />\r\
+      \n&quot;Drift&quot; game mode: the moon steadily accelerates toward the mouse\
+      \ cursor during gameplay. use this effect to swing the moon at small moving\
+      \ planets that orbit the earth from different random angles. after each small\
+      \ planet is hit it will disappear and reappear to start a new random orbit.<br\
+      \ />\r\n<br />\r\nadditional game modes will be added at a later date."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1459650/page_bg_generated_v6b.jpg?t=1608587752
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "a low stress physics based game where you swing the moon\
+      \ around to hit targets.<br />\r\n<br />\r\n&quot;Still&quot; game mode: the\
+      \ moon steadily accelerates toward the mouse cursor during gameplay. use this\
+      \ effect to swing the moon at other planets that appear on screen. after each\
+      \ planet is hit it will disappear and reappear in a new random location.<br\
+      \ />\r\n<br />\r\n&quot;Drift&quot; game mode: the moon steadily accelerates\
+      \ toward the mouse cursor during gameplay. use this effect to swing the moon\
+      \ at small moving planets that orbit the earth from different random angles.\
+      \ after each small planet is hit it will disappear and reappear to start a new\
+      \ random orbit.<br />\r\n<br />\r\nadditional game modes will be added at a\
+      \ later date."
+    developers:
+    - Feral Code Monkey
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1459650/header.jpg?t=1608587752
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256806760
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256806760/movie480.mp4?t=1604429208
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256806760/movie_max.mp4?t=1604429208
+      name: drift
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256806760/movie.293x165.jpg?t=1604429208
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256806760/movie480_vp9.webm?t=1604429208
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256806760/movie_max_vp9.webm?t=1604429208
+    - highlight: true
+      id: 256806756
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256806756/movie480.mp4?t=1604429218
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256806756/movie_max.mp4?t=1604429218
+      name: still
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256806756/movie.293x165.jpg?t=1604429218
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256806756/movie480_vp9.webm?t=1604429218
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256806756/movie_max_vp9.webm?t=1604429218
+    name: Pull
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Pull - $6.99
+        packageid: 513901
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Pull
+    packages:
+    - 513901
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows XP<br></li><li><strong>Processor:</strong> pentium 233 MHz<br></li><li><strong>Memory:</strong>
+        64 MB RAM<br></li><li><strong>Graphics:</strong> SVGA 1024x768<br></li><li><strong>Storage:</strong>
+        1 MB available space<br></li><li><strong>Sound Card:</strong> NA</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows XP<br></li><li><strong>Processor:</strong> pentium 233 MHz<br></li><li><strong>Memory:</strong>
+        64 MB RAM<br></li><li><strong>Graphics:</strong> SVGA 1024x768<br></li><li><strong>Storage:</strong>
+        1 MB available space<br></li><li><strong>Sound Card:</strong> NA</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Feral Code Monkey
+    release_date:
+      coming_soon: false
+      date: Dec 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_3bbecd1329a2cd56b43bdf96b70a5267f26bdb38.1920x1080.jpg?t=1608587752
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_3bbecd1329a2cd56b43bdf96b70a5267f26bdb38.600x338.jpg?t=1608587752
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_bdf6c447bbc7bfa13e428d30985e355d46b666e7.1920x1080.jpg?t=1608587752
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_bdf6c447bbc7bfa13e428d30985e355d46b666e7.600x338.jpg?t=1608587752
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_bf1f1e081611ce866fc83001277bb93a8169651d.1920x1080.jpg?t=1608587752
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_bf1f1e081611ce866fc83001277bb93a8169651d.600x338.jpg?t=1608587752
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_3f6c88c1a525ce4f54e2d33c50fc64bf0dc08bf8.1920x1080.jpg?t=1608587752
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_3f6c88c1a525ce4f54e2d33c50fc64bf0dc08bf8.600x338.jpg?t=1608587752
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_77d1b9343f64ac32020de65d321d3d59a4ed9318.1920x1080.jpg?t=1608587752
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1459650/ss_77d1b9343f64ac32020de65d321d3d59a4ed9318.600x338.jpg?t=1608587752
+    short_description: a low stress physics based game where you swing the moon around
+      to hit targets.
+    steam_appid: 1459650
+    support_info:
+      email: FeralCodeMonkey@hotmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: "You are the AI in charge of Earth's final interstellar spaceship,\
+      \ tasked with delivering your human crew to a suitable new home among the stars.\
+      \ The fate of previous ships is unknown--with a set of galactic maps to guide\
+      \ you, it's your job to decide which planets to visit, which crew to send down\
+      \ to the surface, and which choices they should make along the way. You are\
+      \ humanity's last hope.<br />\r\n<br />\r\nIn this demo you can access 2 main\
+      \ story missions, 2 side missions and all other random and resource based missions."
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Trading Cards
+      id: 29
+    - description: Captions available
+      id: 13
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "You are the AI in charge of Earth's final interstellar\
+      \ spaceship, tasked with delivering your human crew to a suitable new home among\
+      \ the stars. The fate of previous ships is unknown--with a set of galactic maps\
+      \ to guide you, it's your job to decide which planets to visit, which crew to\
+      \ send down to the surface, and which choices they should make along the way.\
+      \ You are humanity's last hope.<br />\r\n<br />\r\nIn this demo you can access\
+      \ 2 main story missions, 2 side missions and all other random and resource based\
+      \ missions."
+    developers:
+    - Underflow Studios
+    fullgame:
+      appid: '426290'
+      name: 'The Away Team: Lost Exodus'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/828390/header.jpg?t=1545032920
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any Linux 64bit<br></li><li><strong>Processor:</strong> 1 ghz<br></li><li><strong>Graphics:</strong>
+        Shader 1.1 support</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04 Linux 64bit<br></li><li><strong>Graphics:</strong> Shader 2.0
+        Supprt</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.12.2 64bit<br></li><li><strong>Processor:</strong> 1 ghz<br></li><li><strong>Graphics:</strong>
+        Shader 1.1 support<br></li><li><strong>Sound Card:</strong> Our sound guy
+        would be sad if you don't have one but you technically could play without
+        one... You monster</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.12.2 64bit or later<br></li><li><strong>Processor:</strong> 2
+        ghz<br></li><li><strong>Graphics:</strong> Shader 2.0 Supprt</li></ul>
+    name: The Away Team Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher 32bit<br></li><li><strong>Processor:</strong> 1 ghz<br></li><li><strong>Graphics:</strong>
+        Shader 1.1 support<br></li><li><strong>Sound Card:</strong> Our sound guy
+        would be sad if you don't have one but you technically could play without
+        one... You monster</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows  7 or higher 64 bit<br></li><li><strong>Processor:</strong> 2 ghz<br></li><li><strong>Graphics:</strong>
+        Shader 2.0 Supprt<br></li><li><strong>Sound Card:</strong> Soundbooster 540
+        5 terabit sound chip.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Crackshell
+    release_date:
+      coming_soon: false
+      date: Dec 16, 2018
+    required_age: 0
+    short_description: You are the AI in charge of Earth's final interstellar spaceship,
+      tasked with delivering your human crew to a suitable new home among the stars.
+      The fate of previous ships is unknown--with a set of galactic maps to guide
+      you, it's your job to decide which planets to visit, which crew to send down
+      to the surface, and which choices they...
+    steam_appid: 828390
+    support_info:
+      email: support@awayteam.space
+      url: https://underflowstudios.com/contact/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://www.awayteam.space
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

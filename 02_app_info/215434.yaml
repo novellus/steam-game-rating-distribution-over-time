@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: The P-40N variant features an even more powerful engine than its
+      predecessor and adds rockets.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/215434/page_bg_generated_v6b.jpg?t=1447356137
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The P-40N variant features an even more powerful engine
+      than its predecessor and adds rockets.
+    developers:
+    - Trickstar Games
+    fullgame:
+      appid: '215390'
+      name: Damage Inc. Pacific Squadron WWII
+    genres:
+    - description: Action
+      id: '1'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/215434/header.jpg?t=1447356137
+    is_free: false
+    legal_notice: Mad Catz Interactive, Damage Inc., Pacific Squadron WWII and the
+      Mad Catz Interactive logo are trademarks or registered trademarks of Mad Catz
+      Interactive, Inc., its subsidiary and/or affiliated companies. All rights reserved.
+      Published by Mad Catz. Developed by Trickstar.
+    linux_requirements: []
+    mac_requirements: []
+    name: Damage Inc P-40N "Blackfin" Warhawk
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Damage Inc P-40N Blackfin Warhawk - $2.99
+        packageid: 17997
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Damage Inc - Complete - $59.99
+        packageid: 18009
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 5999
+      title: Buy Damage Inc P-40N "Blackfin" Warhawk
+    packages:
+    - 17997
+    - 18009
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Windows\
+        \ XP (SP2)</li>\n\t<li><strong>Processor:</strong>Intel Core 2 Duo 2.0GHz\
+        \ or AMD Athlon X2 4000+</li>\n\t<li><strong>Memory:</strong>1 GB RAM</li>\n\
+        \t<li><strong>DirectX&reg;:</strong>9.0c</li>\n\t<li><strong>Hard Drive:</strong>4\
+        \ GB HD space</li>\n\t<li><strong>Sound:</strong>DirectX 9.0c-compatible Sound\
+        \ Card</li>\n\t<li><strong>Other Requirements:</strong>Broadband Internet\
+        \ connection</li>\n</ul>"
+      recommended: "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>Memory:</strong>2\
+        \ GB RAM</li>\n</ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Mad Catz
+    release_date:
+      coming_soon: false
+      date: Nov 8, 2012
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/215434/ss_0f8c996f8dfc2047d282960bd11b9880db852e64.1920x1080.jpg?t=1447356137
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/215434/ss_0f8c996f8dfc2047d282960bd11b9880db852e64.600x338.jpg?t=1447356137
+    short_description: The P-40N variant features an even more powerful engine than
+      its predecessor and adds rockets.
+    steam_appid: 215434
+    support_info:
+      email: ''
+      url: http://support.madcatz.com/
+    supported_languages: English<strong>*</strong>, German, French, Italian, Spanish
+      - Spain<br><strong>*</strong>languages with full audio support
+    type: dlc
+    website: http://www.damageincthegame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

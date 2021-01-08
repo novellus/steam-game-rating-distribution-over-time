@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: "\u8FD9\u4E2Adlc\u53EF\u4EE5\u8BA9\u4F60\u5728\u6E38\u620F\u7684\
+      \u4E00\u5F00\u59CB\u9886\u53D6\u4E00\u7B14\u5DE8\u989D\u5B58\u6B3E(5,000gold)\uFF0C\
+      <br />\r\n\u8BF7\u5230\u201C\u738B\u57CE\u201D\u7684\u201C\u8BB0\u5F55\u5B98\
+      \u201D\u5904\u9009\u62E9\u9886\u53D6;\u63A8\u8350\u524D\u671F\u5F00\u8352\u4F7F\
+      \u7528\u3002<br />\r\n(\u8FD9\u662F\u4E00\u4E2A\u7C7B\u4F3C\u4E8E\u5F69\u86CB\
+      \uFF0C\u8D5E\u52A9\u5956\u52B1\u6027\u8D28\u7684dlc)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1091430/page_bg_generated_v6b.jpg?t=1560157076
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Commentary available
+      id: 14
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u8FD9\u4E2Adlc\u53EF\u4EE5\u8BA9\u4F60\u5728\u6E38\u620F\
+      \u7684\u4E00\u5F00\u59CB\u9886\u53D6\u4E00\u7B14\u5DE8\u989D\u5B58\u6B3E(5,000gold)\uFF0C\
+      <br />\r\n\u8BF7\u5230\u201C\u738B\u57CE\u201D\u7684\u201C\u8BB0\u5F55\u5B98\
+      \u201D\u5904\u9009\u62E9\u9886\u53D6;\u63A8\u8350\u524D\u671F\u5F00\u8352\u4F7F\
+      \u7528\u3002<br />\r\n(\u8FD9\u662F\u4E00\u4E2A\u7C7B\u4F3C\u4E8E\u5F69\u86CB\
+      \uFF0C\u8D5E\u52A9\u5956\u52B1\u6027\u8D28\u7684dlc)"
+    developers:
+    - "\u7EDD\u6C6A"
+    fullgame:
+      appid: '1088870'
+      name: "\u5947\u5E7B\u4E0E\u780D\u6740 Fantasy & Blade"
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1091430/header.jpg?t=1560157076
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "DLC-\u5BCC\u4EBA\u9057\u4EA7"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "DLC-\u5BCC\u4EBA\u7684\u9057\u4EA7 - $0.99"
+        packageid: 367631
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: "Buy DLC-\u5BCC\u4EBA\u9057\u4EA7"
+    packages:
+    - 367631
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Microsoft\xAE Windows\xAE 7/8/8.1/10 (32bit/64bit)</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 6, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1091430/ss_c24d2c53bb15607cc74aa695738de4a6961210a7.1920x1080.jpg?t=1560157076
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1091430/ss_c24d2c53bb15607cc74aa695738de4a6961210a7.600x338.jpg?t=1560157076
+    short_description: "\u8FD9\u4E2ADLC\u53EF\u4EE5\u8BA9\u4F60\u5728\u6E38\u620F\u7684\
+      \u4E00\u5F00\u59CB\u9886\u53D6\u4E00\u7B14\u5DE8\u989D\u5B58\u6B3E\uFF0C \u8BF7\
+      \u5230\u201C\u738B\u57CE\u201D\u7684\u201C\u8BB0\u5F55\u5B98\u201D\u5904\u9009\
+      \u62E9\u9886\u53D6\u3002"
+    steam_appid: 1091430
+    support_info:
+      email: 623414226@qq.com
+      url: ''
+    supported_languages: Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

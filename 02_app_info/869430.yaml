@@ -1,0 +1,96 @@
+details:
+  data:
+    about_the_game: "This add-on includes the entire soundtrack of the game(1 track).<br\
+      \ />\r\nThe track is called &quot;Gravity Jump - OST&quot; and lasts 5 minutes,\
+      \ 22 seconds. Available in WAVE format."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/869430/page_bg_generated_v6b.jpg?t=1546694512
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This add-on includes the entire soundtrack of the game(1\
+      \ track).<br />\r\nThe track is called &quot;Gravity Jump - OST&quot; and lasts\
+      \ 5 minutes, 22 seconds. Available in WAVE format."
+    developers:
+    - Laush Dmitriy Sergeevich
+    fullgame:
+      appid: '867800'
+      name: Gravity Jump
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/869430/header.jpg?t=1546694512
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Gravity Jump - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Gravity Jump - OST - $0.99
+        packageid: 274441
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Gravity Jump - OST
+    packages:
+    - 274441
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        60 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Laush Studio
+    release_date:
+      coming_soon: false
+      date: Jun 12, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/869430/ss_6070e0f3888e82b8d4d7785f27b3c0cb98629bd6.1920x1080.jpg?t=1546694512
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/869430/ss_6070e0f3888e82b8d4d7785f27b3c0cb98629bd6.600x338.jpg?t=1546694512
+    short_description: This add-on includes the entire soundtrack of the game(1 track).
+      The track is called &quot;Gravity Jump - OST&quot; and lasts 5 minutes, 22 seconds.
+      Available in WAVE format.
+    steam_appid: 869430
+    support_info:
+      email: laushds@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

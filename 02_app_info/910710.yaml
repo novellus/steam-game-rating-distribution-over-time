@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: You've graduated Spacefleet Academy and are moving up in the world!
+      You get access to DLC-Exclusive content, online bonuses, and gain access to
+      tons of new operators!<h2 class="bb_tag">Join the fight for Spacefleet!</h2>Evil
+      pours through the land like a plague threatening the peace and stability of
+      the United Alliance of Planets! Get access to new operators to deploy and take
+      out this alien threat!<br><br><strong>Immediately gain access to</strong><br><ul
+      class="bb_ul"><li>A Permanent 10% Experience Boost<br></li><li>Unlock All In-Game
+      Standard Operators<br></li><li>Unlock All DLC-Exclusive Skins</li></ul><br><strong>Ask
+      not for an easier life, ask to be stronger to take on life.</strong>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/910710/page_bg_generated_v6b.jpg?t=1579844866
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: null
+    detailed_description: You've graduated Spacefleet Academy and are moving up in
+      the world! You get access to DLC-Exclusive content, online bonuses, and gain
+      access to tons of new operators!<h2 class="bb_tag">Join the fight for Spacefleet!</h2>Evil
+      pours through the land like a plague threatening the peace and stability of
+      the United Alliance of Planets! Get access to new operators to deploy and take
+      out this alien threat!<br><br><strong>Immediately gain access to</strong><br><ul
+      class="bb_ul"><li>A Permanent 10% Experience Boost<br></li><li>Unlock All In-Game
+      Standard Operators<br></li><li>Unlock All DLC-Exclusive Skins</li></ul><br><strong>Ask
+      not for an easier life, ask to be stronger to take on life.</strong>
+    developers:
+    - Bondo Games
+    fullgame:
+      appid: '907050'
+      name: Deep Space Classic
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/910710/header.jpg?t=1579844866
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Deep Space Classic - Spacefleet Edition
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Deep Space - Spacefleet Edition - $4.99
+        packageid: 292006
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Deep Space Classic - Spacefleet Edition
+    packages:
+    - 292006
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        3GB memory<br></li><li><strong>DirectX:</strong> Version 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Bondo Games
+    release_date:
+      coming_soon: false
+      date: Aug 1, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/910710/ss_059fbc299c6bf04a0afe648155fb82763814f28e.1920x1080.jpg?t=1579844866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/910710/ss_059fbc299c6bf04a0afe648155fb82763814f28e.600x338.jpg?t=1579844866
+    short_description: Gain access to DLC-Exclusive content such as a new operator,
+      multiplayer buffs, skins, and other gameplay enhancing features
+    steam_appid: 910710
+    support_info:
+      email: bondogamesofficial@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

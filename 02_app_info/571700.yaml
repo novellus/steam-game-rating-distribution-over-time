@@ -1,0 +1,91 @@
+details:
+  data:
+    about_the_game: <strong>Kalaban</strong> is an immersive topdown action-adventure
+      game. The full game is a story-oriented experience, which takes its inspiration
+      from the adventure games of the 90s, mixed with open world gameplay and hack
+      n slash action. <br><br>This is the action-oriented demo for Kalaban. The full
+      game includes this 'Horde Mode' as a bonus play mode.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/571700/page_bg_generated_v6b.jpg?t=1572423566
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 5
+      notes: null
+    detailed_description: <strong>Kalaban</strong> is an immersive topdown action-adventure
+      game. The full game is a story-oriented experience, which takes its inspiration
+      from the adventure games of the 90s, mixed with open world gameplay and hack
+      n slash action. <br><br>This is the action-oriented demo for Kalaban. The full
+      game includes this 'Horde Mode' as a bonus play mode.
+    developers:
+    - Rayhouse Productions
+    fullgame:
+      appid: '571520'
+      name: Kalaban
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/571700/header.jpg?t=1572423566
+    is_free: true
+    legal_notice: Kalaban was developed by Rayhouse Productions, and its original
+      concept was created by Tuukka Kuusisto and Harri Jokinen.
+    linux_requirements: []
+    mac_requirements: []
+    name: Kalaban Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> 1.6 Dual-core<br></li><li><strong>Graphics:</strong>
+        256 MB graphics card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> 2.6 Quad-core<br></li><li><strong>Graphics:</strong>
+        2 GB graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Rayhouse Productions
+    release_date:
+      coming_soon: false
+      date: Jan 2, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_daec46fc26af3fd52c5ad07da8930b6f50d6f941.1920x1080.jpg?t=1572423566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_daec46fc26af3fd52c5ad07da8930b6f50d6f941.600x338.jpg?t=1572423566
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_58d1df51b02b36a1b4f277ba56d240a08414afe8.1920x1080.jpg?t=1572423566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_58d1df51b02b36a1b4f277ba56d240a08414afe8.600x338.jpg?t=1572423566
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_0d2f5d1fe73e4627dbac986f466783b259cb115b.1920x1080.jpg?t=1572423566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_0d2f5d1fe73e4627dbac986f466783b259cb115b.600x338.jpg?t=1572423566
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_a6cf838d74c6439a803d9b2e66b0e50804040594.1920x1080.jpg?t=1572423566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/571700/ss_a6cf838d74c6439a803d9b2e66b0e50804040594.600x338.jpg?t=1572423566
+    short_description: Action-oriented demo of Kalaban.
+    steam_appid: 571700
+    support_info:
+      email: kalabangame@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

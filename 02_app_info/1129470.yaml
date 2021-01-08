@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: Enjoy Bouncing that DVD around the screen? Why not support the
+      developer and buy them a beer!<br><br>We're a small team of people making games.
+      Why not buy us a beer? <i>You bought that &quot;coffin&quot; for your loved
+      one, why not buy a beer for a strange?</i> Ay? AY?
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1129470/page_bg_generated_v6b.jpg?t=1564418602
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Enjoy Bouncing that DVD around the screen? Why not support
+      the developer and buy them a beer!<br><br>We're a small team of people making
+      games. Why not buy us a beer? <i>You bought that &quot;coffin&quot; for your
+      loved one, why not buy a beer for a strange?</i> Ay? AY?
+    developers:
+    - RoomsforRockets
+    fullgame:
+      appid: '1014370'
+      name: 'Bouncing DVD : The Game'
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1129470/header.jpg?t=1564418602
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Bouncing DVD : The Game - Beer For Developer'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Bouncing DVD : The Game - Beer For Developer - $3.99'
+        packageid: 383873
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: 'Buy Bouncing DVD : The Game - Beer For Developer'
+    packages:
+    - 383873
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel(R) Celeron(R) CPU
+        N3350 @ 1.10GHz<br></li><li><strong>Graphics:</strong> Intel(R) HD Graphics<br></li><li><strong>Storage:</strong>
+        700 MB available space<br></li><li><strong>Sound Card:</strong> Realtek High
+        Definition Audio(SST)</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel(R) Celeron(R) CPU
+        N3350 @ 1.10GHz<br></li><li><strong>Graphics:</strong> Intel(R) HD Graphics<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> Realtek High
+        Definition Audio(SST)</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 29, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1129470/ss_39255ef23bed973deb60f0e8d55ae0da8300780a.1920x1080.jpg?t=1564418602
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1129470/ss_39255ef23bed973deb60f0e8d55ae0da8300780a.600x338.jpg?t=1564418602
+    short_description: Enjoy Bouncing that DVD around the screen? Why not support
+      the developer and buy them a beer!
+    steam_appid: 1129470
+    support_info:
+      email: roomsforrockets@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4z4W3oOwCfvWxzwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 202
+      num_reviews: 4
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198078895828'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '54366046'
+    review: 10/10 would buy again
+    steam_purchase: true
+    timestamp_created: 1564456267
+    timestamp_updated: 1564456267
+    voted_up: true
+    votes_funny: 4
+    votes_up: 11
+    weighted_vote_score: '0.644869089126586914'
+    written_during_early_access: false
+  success: 1

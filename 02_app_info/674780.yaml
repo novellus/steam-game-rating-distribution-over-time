@@ -1,0 +1,92 @@
+details:
+  data:
+    about_the_game: "The original soundtrack of Code 7 by Zein Okko. This DLC includes\
+      \ the soundtrack of future episodes as well and will be updated upon release.<br\
+      \ />\r\nSongs will be placed in a subfolder of your Code 7 Steam install directory:\
+      \ ...Steam\\steamapps\\common\\Code7\\"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/674780/page_bg_generated_v6b.jpg?t=1581627255
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The original soundtrack of Code 7 by Zein Okko. This DLC\
+      \ includes the soundtrack of future episodes as well and will be updated upon\
+      \ release.<br />\r\nSongs will be placed in a subfolder of your Code 7 Steam\
+      \ install directory: ...Steam\\steamapps\\common\\Code7\\"
+    developers:
+    - Goodwolf Studio
+    fullgame:
+      appid: '650570'
+      name: 'Code 7: A Story-Driven Hacking Adventure'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/674780/header.jpg?t=1581627255
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Code 7 - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Code 7 - Soundtrack - <span class="discount_original_price">$9.99</span>
+          $3.99
+        packageid: 192127
+        percent_savings: 0
+        percent_savings_text: '-60% '
+        price_in_cents_with_discount: 399
+      title: Buy Code 7 - Soundtrack
+    packages:
+    - 192127
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 60
+      final: 399
+      final_formatted: $3.99
+      initial: 999
+      initial_formatted: $9.99
+    publishers:
+    - Goodwolf Studio
+    release_date:
+      coming_soon: false
+      date: Aug 11, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/674780/ss_c7a833f8e376e9621aedd84ccad8219a02497cce.1920x1080.jpg?t=1581627255
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/674780/ss_c7a833f8e376e9621aedd84ccad8219a02497cce.600x338.jpg?t=1581627255
+    short_description: The original soundtrack of Code 7 by Zein Okko
+    steam_appid: 674780
+    support_info:
+      email: contact@goodwolf-studio.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://www.code7-game.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

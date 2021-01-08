@@ -1,0 +1,187 @@
+details:
+  data:
+    about_the_game: "\u300APx Art\u300B\u662F\u4E00\u6B3E\u50CF\u7D20\u6A21\u578B\u5236\
+      \u4F5C\u6E38\u620F\uFF0C\u5728\u6E38\u620F\u91CC\u4F60\u53EF\u4EE5\u5355\u4EBA\
+      \u6E38\u73A9\u521B\u5EFA\u81EA\u5DF1\u768424*24*24\u50CF\u7D20\u6A21\u578B\uFF0C\
+      \u4E5F\u53EF\u4EE5\u53C2\u52A0\u5728\u7EBF\u6BD4\u8D5B\uFF0C\u5728\u6709\u9650\
+      \u7684\u65F6\u95F4\u4E2D\u53D1\u6325\u4F60\u7684\u521B\u610F\uFF0C\u540C\u5176\
+      \u4ED6\u4EBA\u8FDB\u884C\u6BD4\u62FC\uFF0C\u6BD4\u8D5B\u7ED3\u675F\u540E\uFF0C\
+      \u4F60\u53EF\u4EE5\u770B\u5230\u6240\u6709\u4EBA\u7684\u50CF\u7D20\u6A21\u578B\
+      \uFF0C\u5E76\u4E14\u8FDB\u884C\u6295\u7968\u3002"
+    achievements:
+      highlighted:
+      - name: "\u7B2C\u4E00\u4E2A"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378250/47bc22dec5a834f97cf5abb8cc87966603c85f4e.jpg
+      - name: "\u5389\u5BB3\uFF01"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1378250/6382ec85ce87fd5740e09d32835284bab3a180f3.jpg
+      total: 2
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1378250/page_bg_generated_v6b.jpg?t=1597808472
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u300APx Art\u300B\u662F\u4E00\u6B3E\u50CF\u7D20\u6A21\u578B\
+      \u5236\u4F5C\u6E38\u620F\uFF0C\u5728\u6E38\u620F\u91CC\u4F60\u53EF\u4EE5\u5355\
+      \u4EBA\u6E38\u73A9\u521B\u5EFA\u81EA\u5DF1\u768424*24*24\u50CF\u7D20\u6A21\u578B\
+      \uFF0C\u4E5F\u53EF\u4EE5\u53C2\u52A0\u5728\u7EBF\u6BD4\u8D5B\uFF0C\u5728\u6709\
+      \u9650\u7684\u65F6\u95F4\u4E2D\u53D1\u6325\u4F60\u7684\u521B\u610F\uFF0C\u540C\
+      \u5176\u4ED6\u4EBA\u8FDB\u884C\u6BD4\u62FC\uFF0C\u6BD4\u8D5B\u7ED3\u675F\u540E\
+      \uFF0C\u4F60\u53EF\u4EE5\u770B\u5230\u6240\u6709\u4EBA\u7684\u50CF\u7D20\u6A21\
+      \u578B\uFF0C\u5E76\u4E14\u8FDB\u884C\u6295\u7968\u3002"
+    developers:
+    - Xiangsu Tang
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1378250/header.jpg?t=1597808472
+    is_free: false
+    legal_notice: Xiangsu Tang
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256794566
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256794566/movie480.mp4?t=1596097100
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256794566/movie_max.mp4?t=1596097100
+      name: '1'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256794566/movie.293x165.jpg?t=1596097100
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256794566/movie480_vp9.webm?t=1596097100
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256794566/movie_max_vp9.webm?t=1596097100
+    name: Px Art
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Px Art - $0.99
+        packageid: 483444
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Px Art
+    packages:
+    - 483444
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 2 GHz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4600 (AMD or NVIDIA
+        equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 100 MB
+        available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 (64 bit)</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Xiangsu Tang
+    release_date:
+      coming_soon: false
+      date: Aug 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_5cb21fab545fb1144d5edd13110044b8668c7331.1920x1080.jpg?t=1597808472
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_5cb21fab545fb1144d5edd13110044b8668c7331.600x338.jpg?t=1597808472
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_215c548282ac8bf87fc0c1f9070efba1bbd5c21c.1920x1080.jpg?t=1597808472
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_215c548282ac8bf87fc0c1f9070efba1bbd5c21c.600x338.jpg?t=1597808472
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_2d164c0093975ff98f1c7b3ba1dbe1f2ff8d56a5.1920x1080.jpg?t=1597808472
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_2d164c0093975ff98f1c7b3ba1dbe1f2ff8d56a5.600x338.jpg?t=1597808472
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_8e7e6be950399dac0e4784bfdbc6d8625f96b1eb.1920x1080.jpg?t=1597808472
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_8e7e6be950399dac0e4784bfdbc6d8625f96b1eb.600x338.jpg?t=1597808472
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_0229fcab229efe5a4d339516af219227e67a2490.1920x1080.jpg?t=1597808472
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_0229fcab229efe5a4d339516af219227e67a2490.600x338.jpg?t=1597808472
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_c9552395eb34f39df0a6278c9f4f44eb91f4e418.1920x1080.jpg?t=1597808472
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1378250/ss_c9552395eb34f39df0a6278c9f4f44eb91f4e418.600x338.jpg?t=1597808472
+    short_description: "\u300APx Art\u300B\u662F\u4E00\u6B3E\u50CF\u7D20\u6A21\u578B\
+      \u5236\u4F5C\u6E38\u620F\uFF0C\u5728\u6E38\u620F\u91CC\u4F60\u53EF\u4EE5\u5355\
+      \u4EBA\u6E38\u73A9\u521B\u5EFA\u81EA\u5DF1\u768424*24*24\u50CF\u7D20\u6A21\u578B\
+      \uFF0C\u4E5F\u53EF\u4EE5\u53C2\u52A0\u5728\u7EBF\u6BD4\u8D5B\uFF0C\u5728\u6709\
+      \u9650\u7684\u65F6\u95F4\u4E2D\u53D1\u6325\u4F60\u7684\u521B\u610F\uFF0C\u540C\
+      \u5176\u4ED6\u4EBA\u8FDB\u884C\u6BD4\u62FC\uFF0C\u6BD4\u8D5B\u7ED3\u675F\u540E\
+      \uFF0C\u4F60\u53EF\u4EE5\u770B\u5230\u6240\u6709\u4EBA\u7684\u50CF\u7D20\u6A21\
+      \u578B\uFF0C\u5E76\u4E14\u8FDB\u884C\u6295\u7968\u3002"
+    steam_appid: 1378250
+    support_info:
+      email: tyzhangyj@163.com
+      url: ''
+    supported_languages: Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ43fyW/PMCfsPvmwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1608415806
+      num_games_owned: 27
+      num_reviews: 14
+      playtime_at_review: 20
+      playtime_forever: 184
+      playtime_last_two_weeks: 0
+      steamid: '76561198451548905'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '74415166'
+    review: I love this, its very easy to figure out what the buttons do even without
+      knowing the language. I do wish the space to build was bigger tbh, but thats
+      my only comeplaint
+    steam_purchase: true
+    timestamp_created: 1597599639
+    timestamp_updated: 1597599639
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: true
+  success: 1

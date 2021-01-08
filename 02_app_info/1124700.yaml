@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: Help support the devs of Wintercearig with a $1 donation.<br><br><strong>Disclaimer:</strong>
+      purchasing this will provide you with nothing except perhaps a warm fuzzy feeling
+      for helping to financially supporting a couple of new indie developers.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1124700/page_bg_generated_v6b.jpg?t=1565003693
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Help support the devs of Wintercearig with a $1 donation.<br><br><strong>Disclaimer:</strong>
+      purchasing this will provide you with nothing except perhaps a warm fuzzy feeling
+      for helping to financially supporting a couple of new indie developers.
+    developers:
+    - SynAtria Studios
+    fullgame:
+      appid: '1118580'
+      name: Wintercearig
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1124700/header.jpg?t=1565003693
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Graphics:</strong>
+        N/A<br></li><li><strong>Storage:</strong> N/A MB available space<br></li><li><strong>Sound
+        Card:</strong> N/A</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Memory:</strong>
+        N/A MB RAM<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Storage:</strong>
+        N/A MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>
+    name: Wintercearig - Support the Devs ($1)
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wintercearig - Support the Devs ($1) - $0.99
+        packageid: 381844
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Wintercearig - Support the Devs ($1)
+    packages:
+    - 381844
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Memory:</strong>
+        N/A MB RAM<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Storage:</strong>
+        N/A MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 5, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124700/ss_e8f100c5e8be2e789ae65314743d70af6c207b82.1920x1080.jpg?t=1565003693
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124700/ss_e8f100c5e8be2e789ae65314743d70af6c207b82.600x338.jpg?t=1565003693
+    short_description: Help support the devs of Wintercearig with a $1 donation.
+    steam_appid: 1124700
+    support_info:
+      email: trey@synatria.com
+      url: https://www.synatria.com/contact-us
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

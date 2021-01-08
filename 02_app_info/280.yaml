@@ -1,0 +1,144 @@
+details:
+  data:
+    about_the_game: 'Winner of over 50 Game of the Year awards, Half-Life set new
+      standards for action games when it was released in 1998. Half-Life: Source is
+      a digitally remastered version of the critically acclaimed and best selling
+      PC game, enhanced via Source technology to include physics simulation, enhanced
+      effects, and more.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/280/page_bg_generated_v6b.jpg?t=1579630049
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Winner of over 50 Game of the Year awards, Half-Life set
+      new standards for action games when it was released in 1998. Half-Life: Source
+      is a digitally remastered version of the critically acclaimed and best selling
+      PC game, enhanced via Source technology to include physics simulation, enhanced
+      effects, and more.'
+    developers:
+    - Valve
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/280/header.jpg?t=1579630049
+    is_free: false
+    linux_requirements:
+      minimum: '<strong>Minimum: </strong>OS: Ubuntu 12.04<br>Processor: Dual core
+        from Intel or AMD at 2.8 GHz <br>Memory: 4 GB RAM <br>Graphics: nVidia GeForce
+        8600/9600GT, ATI/AMD Radeaon HD2600/3600 (Graphic Drivers: nVidia 310, AMD
+        12.11), OpenGL 2.1 <br>Network: Broadband Internet connection <br>Hard Drive:
+        8 GB available space <br>Sound Card: OpenAL Compatible Sound Card'
+    mac_requirements:
+      minimum: '<strong>Minimum: </strong>OS:OS X version Leopard 10.5.8, Snow Leopard
+        10.6.3<br>Memory: 1GB RAM<br>Graphics: NVIDIA GeForce 8 or higher, ATI X1600
+        or higher, or Intel HD 3000 or higher <br>Network: Internet Connection<br>Other:
+        Mouse, Keyboard'
+    name: 'Half-Life: Source'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Half-Life 1: Source - $9.99'
+        packageid: 38
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: 'Buy Half-Life: Source'
+    packages:
+    - 38
+    pc_requirements:
+      minimum: "\r\n\t\t\t<p><strong>Minimum:</strong> 1.2 GHz Processor, 256MB RAM,\
+        \ DirectX 7 level graphics card, Windows XP, Mouse, Keyboard, Internet Connection<br\
+        \ /></p>\r\n\t\t\t<p><strong>Recommended:</strong> 2.4 GHz Processor, 512MB\
+        \ RAM, DirectX 9 level graphics card, Windows XP, Mouse, Keyboard, Internet\
+        \ Connection<br /></p>\r\n\t\t\t"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Valve
+    recommendations:
+      total: 6994
+    release_date:
+      coming_soon: false
+      date: Jun 1, 2004
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000187.1920x1080.jpg?t=1579630049
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000187.600x338.jpg?t=1579630049
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000188.1920x1080.jpg?t=1579630049
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000188.600x338.jpg?t=1579630049
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000189.1920x1080.jpg?t=1579630049
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000189.600x338.jpg?t=1579630049
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000190.1920x1080.jpg?t=1579630049
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/280/0000000190.600x338.jpg?t=1579630049
+    short_description: 'Winner of over 50 Game of the Year awards, Half-Life set new
+      standards for action games when it was released in 1998. Half-Life: Source is
+      a digitally remastered version of the critically acclaimed and best selling
+      PC game, enhanced via Source technology to include physics simulation, enhanced
+      effects, and more.'
+    steam_appid: 280
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, German, Italian, Japanese, Spanish - Spain,
+      Russian, Simplified Chinese, Traditional Chinese, Thai, Korean
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw0+by7PYCfpaQwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 1732
+    total_positive: 5262
+    total_reviews: 6994
+  reviews:
+  - author:
+      last_played: 1609862087
+      num_games_owned: 60
+      num_reviews: 4
+      playtime_at_review: 18
+      playtime_forever: 18
+      playtime_last_two_weeks: 18
+      steamid: '76561198096218511'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84181358'
+    review: if you want to play Half-Life, find the original GoldSRC version, but
+      Half-Life Source is a great gmod asset pack.
+    steam_purchase: true
+    timestamp_created: 1609971718
+    timestamp_updated: 1609971742
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

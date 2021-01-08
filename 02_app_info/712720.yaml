@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: High quality D'LIRIUM soundtrack by Ihor Koval. Includes some
+      deleted music.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/712720/page_bg_generated_v6b.jpg?t=1589825431
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: High quality D'LIRIUM soundtrack by Ihor Koval. Includes
+      some deleted music.
+    developers:
+    - B52 Development Team
+    fullgame:
+      appid: '670160'
+      name: D'LIRIUM
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/712720/header.jpg?t=1589825431
+    is_free: false
+    legal_notice: "D'LIRIUM \xA9 2017 by Ihor Koval. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: D'LIRIUM Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: D'LIRIUM Soundtrack - <span class="discount_original_price">$2.99</span>
+          $1.04
+        packageid: 206254
+        percent_savings: 0
+        percent_savings_text: '-65% '
+        price_in_cents_with_discount: 104
+      title: Buy D'LIRIUM Soundtrack
+    packages:
+    - 206254
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 65
+      final: 104
+      final_formatted: $1.04
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - B52 Development Team
+    release_date:
+      coming_soon: false
+      date: Sep 11, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/712720/ss_33effad7f4c36f2fe3662fc0b2f181194bbc3f2b.1920x1080.jpg?t=1589825431
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/712720/ss_33effad7f4c36f2fe3662fc0b2f181194bbc3f2b.600x338.jpg?t=1589825431
+    short_description: High quality D'LIRIUM soundtrack.
+    steam_appid: 712720
+    support_info:
+      email: kodes11@gmail.com
+      url: http://b52team.blogspot.com/
+    supported_languages: English, Russian, French, German, Hungarian, Traditional
+      Chinese, Simplified Chinese, Polish, Ukrainian
+    type: music
+    website: http://b52team.blogspot.com/
+  success: true
+reviews:
+  cursor: AoJw3P34+PUCec76rwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 23
+    total_reviews: 23
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 21
+      num_reviews: 11
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198878722305'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '79680745'
+    review: "\u041E\u0442\u043B\u0438\u0447\u043D\u044B\u0435 \u0441\u0430\u0443\u043D\
+      \u0434\u0442\u0440\u0435\u043A\u0438"
+    steam_purchase: true
+    timestamp_created: 1606081048
+    timestamp_updated: 1606081048
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.578813016414642334'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,169 @@
+details:
+  data:
+    about_the_game: "Increases your in-game experience gain. This DLC includes 1 premium\
+      \ upgrade (stacks with other DLC).<br />\r\n<br />\r\nFor specific details to\
+      \ your current point in progression, see the in-game DLC tab.<br />\r\n<br />\r\
+      \nThe default effect is:<br />\r\n<br />\r\nPremium experience multiplier: 2\
+      \ ^ prestige layers unlocked (or 1, if none are unlocked) ^ premium upgrades.\
+      \ So at layer 3, with 1 premium upgrade bought it would be 2^3^1 = x8.<br />\r\
+      \n<br />\r\nPremium gold gain and soft-prestige: 2 ^ multipliers bought with\
+      \ real money. So with 1 upgrade bought it would be 2^1 = x2. This multiplier\
+      \ is added before exponential floor scaling is applied. Keep in mind that the\
+      \ soft-prestige multiplier is applied to points gained, not (directly) to stats\
+      \ gained, as they increase in price.<br />\r\n<br />\r\nIn short, the upgrade\
+      \ increases in effect during your playthrough. But with the way the game scales,\
+      \ it becomes less important over time. This is by design, playing the game rewards\
+      \ you more than paying with real money.<br />\r\n<br />\r\nIt is advised to\
+      \ play the game for free before checking out the DLC options, as they are not\
+      \ required to play the game."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1372490/page_bg_generated_v6b.jpg?t=1597157330
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Increases your in-game experience gain. This DLC includes\
+      \ 1 premium upgrade (stacks with other DLC).<br />\r\n<br />\r\nFor specific\
+      \ details to your current point in progression, see the in-game DLC tab.<br\
+      \ />\r\n<br />\r\nThe default effect is:<br />\r\n<br />\r\nPremium experience\
+      \ multiplier: 2 ^ prestige layers unlocked (or 1, if none are unlocked) ^ premium\
+      \ upgrades. So at layer 3, with 1 premium upgrade bought it would be 2^3^1 =\
+      \ x8.<br />\r\n<br />\r\nPremium gold gain and soft-prestige: 2 ^ multipliers\
+      \ bought with real money. So with 1 upgrade bought it would be 2^1 = x2. This\
+      \ multiplier is added before exponential floor scaling is applied. Keep in mind\
+      \ that the soft-prestige multiplier is applied to points gained, not (directly)\
+      \ to stats gained, as they increase in price.<br />\r\n<br />\r\nIn short, the\
+      \ upgrade increases in effect during your playthrough. But with the way the\
+      \ game scales, it becomes less important over time. This is by design, playing\
+      \ the game rewards you more than paying with real money.<br />\r\n<br />\r\n\
+      It is advised to play the game for free before checking out the DLC options,\
+      \ as they are not required to play the game."
+    developers:
+    - Gniller
+    fullgame:
+      appid: '1371630'
+      name: Incremental Adventures
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1372490/header.jpg?t=1597157330
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04, Fedora 21, Debian 8 (or later)<br></li><li><strong>Processor:</strong>
+        An Intel Pentium 4 processor or later that's SSE2 capable<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional
+        Notes:</strong> If your device is able to run a modern browser (Chrome, Safari,
+        Firefox and the like), it should be good to run Incremental Adventures</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.10 (Yosemite) or later<br></li><li><strong>Processor:</strong> A
+        64bit Intel processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Additional Notes:</strong> If your
+        device is able to run a modern browser (Chrome, Safari, Firefox and the like),
+        it should be good to run Incremental Adventures</li></ul>
+    name: Incremental Adventures - Premium Experience Bonus
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Premium experience bonus - $4.99
+        packageid: 481423
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Incremental Adventures - Premium Experience Bonus
+    packages:
+    - 481423
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later<br></li><li><strong>Processor:</strong> An Intel Pentium
+        4 processor or later that's SSE2 capable<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional
+        Notes:</strong> If your device is able to run a modern browser (Chrome, Safari,
+        Firefox and the like), it should be good to run Incremental Adventures</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Gniller
+    release_date:
+      coming_soon: false
+      date: Aug 11, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1372490/ss_2c6ba6c822c1a39aa1f13cd43bf734f37e2cc48d.1920x1080.jpg?t=1597157330
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1372490/ss_2c6ba6c822c1a39aa1f13cd43bf734f37e2cc48d.600x338.jpg?t=1597157330
+    short_description: Increases your in-game experience gain. This DLC includes 1
+      premium upgrade (stacks with other DLC).
+    steam_appid: 1372490
+    support_info:
+      email: gniller@live.nl
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ44YOXrvQCcYLvnwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 607
+      num_reviews: 20
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198206416069'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75462689'
+    review: 'Pretty fun incremental/idle game. I always support IDLE games that doesn''t
+      force to pay ;)
+
+
+      One suggestion, it would be great if the UI could be a little better and items
+      being positioned in a nice way so that no scrolling is needed.'
+    steam_purchase: true
+    timestamp_created: 1599277375
+    timestamp_updated: 1599277375
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.580419540405273438'
+    written_during_early_access: false
+  success: 1

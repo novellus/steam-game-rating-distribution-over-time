@@ -1,0 +1,190 @@
+details:
+  data:
+    about_the_game: "Feeling a little nostalgic? Is your Dad wanting to play video\
+      \ games with you, but generally sucks at games made after 2005?<br />\r\nWelcome\
+      \ to Silentium 2D, a local, splitscreen game which pits you and a friend (soon\
+      \ to be enemy) against eachother in 1v1 arcade combat!<br />\r\nFight your foe\
+      \ in the city, the field, or even the freakin' moon! (Yes, the moon!) <br />\r\
+      \nGameplay is *loosely* inspired by the Halo franchise (Silentium 2D does not\
+      \ use any Halo/343/microsoft assets), and features classical, arcade gameplay!<br\
+      \ />\r\n<br />\r\nBest of all, it's affordable, fun, and can be played offline\
+      \ with a friend! The controls are remarkably easy to use, and allows for anyone\
+      \ to play! By purchasing Silentium 2D, you support Frentwick Indie in making\
+      \ future titles, and updating this one!<br />\r\n<br />\r\nWe hope to see you\
+      \ on the virtual battlefield ;)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/700450/page_bg_generated_v6b.jpg?t=1534371377
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>Success!</h1><p>So, after a critical bug in the game\
+      \ was finally fixed, we got things running normally again. We did have to remove\
+      \ some of the polish on the game to clear up the bug (such as death animations\
+      \ and smooth screen transitions) but, we will be re-integrating these this week!</p><br><h1>About\
+      \ the Game</h1>Feeling a little nostalgic? Is your Dad wanting to play video\
+      \ games with you, but generally sucks at games made after 2005?\r\nWelcome to\
+      \ Silentium 2D, a local, splitscreen game which pits you and a friend (soon\
+      \ to be enemy) against eachother in 1v1 arcade combat!\r\nFight your foe in\
+      \ the city, the field, or even the freakin' moon! (Yes, the moon!) \r\nGameplay\
+      \ is *loosely* inspired by the Halo franchise (Silentium 2D does not use any\
+      \ Halo/343/microsoft assets), and features classical, arcade gameplay!\r\n\r\
+      \nBest of all, it's affordable, fun, and can be played offline with a friend!\
+      \ The controls are remarkably easy to use, and allows for anyone to play! By\
+      \ purchasing Silentium 2D, you support Frentwick Indie in making future titles,\
+      \ and updating this one!\r\n\r\nWe hope to see you on the virtual battlefield\
+      \ ;)"
+    developers:
+    - Frentwick Indie
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/700450/header.jpg?t=1534371377
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256725341
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256725341/movie480.mp4?t=1534116087
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256725341/movie_max.mp4?t=1534116087
+      name: Silentium 2D Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256725341/movie.293x165.jpg?t=1534116087
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256725341/movie480.webm?t=1534116087
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256725341/movie_max.webm?t=1534116087
+    name: Silentium 2D
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Silentium 2D - Commercial License - $1.20
+        packageid: 313622
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 120
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Silentium 2D - $2.99
+        packageid: 201790
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Silentium 2D
+    packages:
+    - 313622
+    - 201790
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows XP<br></li><li><strong>Processor:</strong> Intel\xAE Pentium\xAE\
+        \ 4 2.0 GHz equivalent or faster processor<br></li><li><strong>Memory:</strong>\
+        \ 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280 x 720 pixels or higher\
+        \ desktop resolution<br></li><li><strong>Storage:</strong> 200 MB available\
+        \ space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7<br></li><li><strong>Processor:</strong> Intel\xAE Pentium\xAE\
+        \ 4 2.0 GHz equivalent or faster processor<br></li><li><strong>Graphics:</strong>\
+        \ 1280 x 720 pixels or higher desktop resolution<br></li><li><strong>Storage:</strong>\
+        \ 1000 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Jacob Francis
+    - Frentwick Indie
+    release_date:
+      coming_soon: false
+      date: Aug 13, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_7c366b6256f869e752a12d86390e490d6144e9da.1920x1080.jpg?t=1534371377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_7c366b6256f869e752a12d86390e490d6144e9da.600x338.jpg?t=1534371377
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_583cafad8822e4898e6e3dcc96247f6153a013ff.1920x1080.jpg?t=1534371377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_583cafad8822e4898e6e3dcc96247f6153a013ff.600x338.jpg?t=1534371377
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_e539c487ca9f1b8fe42b23c4b3131c4148316802.1920x1080.jpg?t=1534371377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_e539c487ca9f1b8fe42b23c4b3131c4148316802.600x338.jpg?t=1534371377
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_81044cd1ba76eb5f3917aca7f733492965a80055.1920x1080.jpg?t=1534371377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_81044cd1ba76eb5f3917aca7f733492965a80055.600x338.jpg?t=1534371377
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_2406944b9eb70520604c52b04742b1463f549297.1920x1080.jpg?t=1534371377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/700450/ss_2406944b9eb70520604c52b04742b1463f549297.600x338.jpg?t=1534371377
+    short_description: Silentium 2D is a fun, classy, arcade based game which puts
+      you and a friend in a 1v1 arena. Loosely inspired by Halo, this game uses simple
+      controls so that anyone can pick it up, and sci-fi aesthetic to add to the experience.
+    steam_appid: 700450
+    support_info:
+      email: frentwickindie@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwqNOR6/YCcdb1wAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews:
+  - author:
+      last_played: 1609912472
+      num_games_owned: 36
+      num_reviews: 1
+      playtime_at_review: 16
+      playtime_forever: 16
+      playtime_last_two_weeks: 9
+      steamid: '76561198354388780'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84127073'
+    review: 10/10 would play test the remote play with the dev again
+    steam_purchase: true
+    timestamp_created: 1609912720
+    timestamp_updated: 1609912720
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

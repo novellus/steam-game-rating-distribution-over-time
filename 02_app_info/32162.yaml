@@ -1,0 +1,58 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - MumboJumbo
+    fullgame:
+      appid: '32160'
+      name: Zombie Bowl-o-Rama
+    genres:
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/32162/header.jpg?t=1447352627
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Zombie Bowl-o-Rama Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - MumboJumbo
+    release_date:
+      coming_soon: false
+      date: Oct 15, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 32162
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

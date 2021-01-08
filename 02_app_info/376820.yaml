@@ -1,0 +1,132 @@
+details:
+  data:
+    about_the_game: "The Official Soundtrack to the indie hit Guild of Dungeoneering.\
+      \  This little gem is full of all the theme music with lyrics, all the background\
+      \ music in the game, the bonus song with lyrics from the official launch trailer\
+      \ and of course all of the Bard's in game tunes that have taunted you, made\
+      \ you laugh or sung your praises.  <br />\r\n<br />\r\nThis is a total of 23\
+      \ tracks for a total playtime of 1 hour 47 minutes.  (Not including the Bard's\
+      \ songs)<br />\r\n<br />\r\nComposed by: Steve Gregan<br />\r\nVocals 'This\
+      \ is the Guild of Dungeoneering': Barry Keatley<br />\r\nVocals 'Dungeoneer\
+      \ Mania' and The Bard: Frankie Lane"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/376820/page_bg_generated_v6b.jpg?t=1581548890
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Official Soundtrack to the indie hit Guild of Dungeoneering.\
+      \  This little gem is full of all the theme music with lyrics, all the background\
+      \ music in the game, the bonus song with lyrics from the official launch trailer\
+      \ and of course all of the Bard's in game tunes that have taunted you, made\
+      \ you laugh or sung your praises.  <br />\r\n<br />\r\nThis is a total of 23\
+      \ tracks for a total playtime of 1 hour 47 minutes.  (Not including the Bard's\
+      \ songs)<br />\r\n<br />\r\nComposed by: Steve Gregan<br />\r\nVocals 'This\
+      \ is the Guild of Dungeoneering': Barry Keatley<br />\r\nVocals 'Dungeoneer\
+      \ Mania' and The Bard: Frankie Lane"
+    developers:
+    - Gambrinous
+    fullgame:
+      appid: '317820'
+      name: Guild of Dungeoneering
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/376820/header.jpg?t=1581548890
+    is_free: false
+    legal_notice: "\xA9 GAMBRINOUS 2008-2015<br />\r\n<br />\r\nCopyright \xA9 2015\
+      \ Versus Evil LLC. All rights reserved.<br />\r\nVersus Evil \xAE is a registered\
+      \ trademark of Versus Evil LLC."
+    linux_requirements: []
+    mac_requirements: []
+    name: Guild of Dungeoneering Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Guild of Dungeoneering Soundtrack - $7.99
+        packageid: 69781
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Guild of Dungeoneering Deluxe Ice Cream Edition - $24.99
+        packageid: 135688
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2499
+      title: Buy Guild of Dungeoneering Soundtrack
+    packages:
+    - 69781
+    - 135688
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Versus Evil
+    release_date:
+      coming_soon: false
+      date: Jul 15, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/376820/ss_065c7e3797869926ebf5283d9e05aa224f0c3516.1920x1080.jpg?t=1581548890
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/376820/ss_065c7e3797869926ebf5283d9e05aa224f0c3516.600x338.jpg?t=1581548890
+    short_description: The Official Soundtrack to the indie hit Guild of Dungeoneering.
+    steam_appid: 376820
+    support_info:
+      email: support@vsevil.net
+      url: ''
+    supported_languages: English
+    type: music
+    website: http://www.guildofdungeoneering.com
+  success: true
+reviews:
+  cursor: AoJw263//9YCdqLpYA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 56
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198320686491'
+    comment_count: 1
+    language: spanish
+    received_for_free: false
+    recommendationid: '25381414'
+    review: "\xBFEl soundtrack no es descargable para MAC?"
+    steam_purchase: true
+    timestamp_created: 1473173614
+    timestamp_updated: 1473173614
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.419026046991348267'
+    written_during_early_access: false
+  success: 1

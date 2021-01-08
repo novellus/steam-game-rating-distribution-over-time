@@ -1,0 +1,77 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Workshop
+      id: 30
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Firaxis Games
+    fullgame:
+      appid: '65980'
+      name: "Sid Meier's Civilization\xAE: Beyond Earth\u2122"
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/322610/header.jpg?t=1572543402
+    is_free: true
+    legal_notice: "\xA9 1991-2014 Take-Two Interactive Software and its subsidiaries.\
+      \ Developed by Firaxis Games. Sid Meier\u2019s Civilization: Beyond Earth, Sid\
+      \ Meier\u2019s Civilization, Civ, Civilization, 2K, Firaxis Games, Take-Two\
+      \ Interactive Software and their respective logos are all trademarks of Take-Two\
+      \ Interactive Software, Inc. All other marks and trademarks are the property\
+      \ of their respective owners. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 81
+    name: 'Sid Meier''s Civilization: Beyond Earth Demo'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 24, 2014
+    required_age: 0
+    short_description: ''
+    steam_appid: 322610
+    support_info:
+      email: ''
+      url: http://support.2k.com
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese, Korean,
+      Polish<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://www.civilization.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

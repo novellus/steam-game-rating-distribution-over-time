@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '640500'
+      name: Magical Girl Raising Project
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/640500/header.jpg?t=1553554747
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Magical Girl Raising Project: Welcome to a World of Dreams and Magic!'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Magical Girl Raising Project: Welcome to a World of Dreams and
+          Magic! - $1.99'
+        packageid: 179979
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Magical Girl Raising Project: Welcome to a World of Dreams and Magic!'
+    packages:
+    - 179979
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: There was a rumor that one out of several tens of thousands
+      of players of Magical Girl Raising Project would be transformed into a real
+      Magical Girl. Himekawa Koyuki, a middle school student who had been fond of
+      Magical Girls ever since she was little, was lucky enough to be granted magical
+      powers...
+    steam_appid: 643440
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4v5D2tt8Ce/7viQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1509381059
+      num_games_owned: 154
+      num_reviews: 10
+      playtime_at_review: 23
+      playtime_forever: 23
+      playtime_last_two_weeks: 0
+      steamid: '76561197974754241'
+    comment_count: 0
+    language: thai
+    received_for_free: false
+    recommendationid: '36143083'
+    review: "\u0E41\u0E1B\u0E25\u0E07\u0E23\u0E48\u0E32\u0E07!"
+    steam_purchase: true
+    timestamp_created: 1509376427
+    timestamp_updated: 1509376427
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

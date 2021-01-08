@@ -1,0 +1,97 @@
+details:
+  data:
+    about_the_game: The original soundtrack of Together - A Wish No One Remembers
+      by Red Robotix.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1224620/page_bg_generated_v6b.jpg?t=1582842768
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The original soundtrack of Together - A Wish No One Remembers
+      by Red Robotix.
+    developers:
+    - Hangover Cat Purrroduction
+    fullgame:
+      appid: '1193330'
+      name: Together - A Wish No One Remembers
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1224620/header.jpg?t=1582842768
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Together - A Wish No One Remembers Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Together - A Wish No One Remembers Soundtrack - <span class="discount_original_price">$2.99</span>
+          $2.00
+        packageid: 424198
+        percent_savings: 0
+        percent_savings_text: '-33% '
+        price_in_cents_with_discount: 200
+      title: Buy Together - A Wish No One Remembers Soundtrack
+    packages:
+    - 424198
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        40 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 33
+      final: 200
+      final_formatted: $2.00
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - Hangover Cat Purrroduction
+    release_date:
+      coming_soon: false
+      date: Feb 4, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1224620/ss_3dc534ddea6ea651820d88c27eebacc615211bec.1920x1080.jpg?t=1582842768
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1224620/ss_3dc534ddea6ea651820d88c27eebacc615211bec.600x338.jpg?t=1582842768
+    short_description: The original soundtrack of Together - A Wish No One Remembers
+    steam_appid: 1224620
+    support_info:
+      email: hself@hangovercatpurrroduction.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

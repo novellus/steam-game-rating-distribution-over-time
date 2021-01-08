@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: "Execute the following file to start DLC.<br />\r\nC:\\Program\
+      \ Files\\Steam\\SteamApps\\common\\Hentai Seek Girl\\HentaiSeekGirl-HentaiBooks\\\
+      Game.exe<br />\r\n<br />\r\n<br />\r\nThis DLC allows you to browse the creative\
+      \ books of the characters.<br />\r\nTalk to the women who appeared on stage.<br\
+      \ />\r\nYou can read their original story comics.<br />\r\n<br />\r\nMethod\
+      \ of operation:<br />\r\nAn event occurs when you operate a character and talk\
+      \ to a woman.<br />\r\nThe comic can operate the page with the button.<br />\r\
+      \n<br />\r\nYou can enjoy books with 5 women in all."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1278850/page_bg_generated_v6b.jpg?t=1585940627
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 1
+      - 3
+      - 5
+      notes: "This Game contains may contain content not appropriate for all ages,\
+        \ or may not be appropriate for viewing at work: Nudity or Sexual Content,\
+        \ General Mature Content.\r\n\r\nAll persons involved in sexual content are\
+        \ over the age of 18."
+    detailed_description: "Execute the following file to start DLC.<br />\r\nC:\\\
+      Program Files\\Steam\\SteamApps\\common\\Hentai Seek Girl\\HentaiSeekGirl-HentaiBooks\\\
+      Game.exe<br />\r\n<br />\r\n<br />\r\nThis DLC allows you to browse the creative\
+      \ books of the characters.<br />\r\nTalk to the women who appeared on stage.<br\
+      \ />\r\nYou can read their original story comics.<br />\r\n<br />\r\nMethod\
+      \ of operation:<br />\r\nAn event occurs when you operate a character and talk\
+      \ to a woman.<br />\r\nThe comic can operate the page with the button.<br />\r\
+      \n<br />\r\nYou can enjoy books with 5 women in all."
+    developers:
+    - HoneyGame
+    fullgame:
+      appid: '1229510'
+      name: Hentai Seek Girl
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1278850/header.jpg?t=1585940627
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Hentai Seek Girl - Hentai books
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hentai Seek Girl - Hentai books - $1.99
+        packageid: 445458
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Hentai Seek Girl - Hentai books
+    packages:
+    - 445458
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7/8/8.1/10<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable
+        GPU<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 2, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1278850/ss_a15cb21ca8ba3c88a759ba5225356d09418c8c3d.1920x1080.jpg?t=1585940627
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1278850/ss_a15cb21ca8ba3c88a759ba5225356d09418c8c3d.600x338.jpg?t=1585940627
+    short_description: Release their original manga and support multiple languages.
+      DLC full of volumes with beautiful illustrations.
+    steam_appid: 1278850
+    support_info:
+      email: ''
+      url: https://adoomessage.wixsite.com/honeygame
+    supported_languages: Japanese, English, French, German, Spanish - Spain, Spanish
+      - Latin America, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese,
+      Traditional Chinese, Korean
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

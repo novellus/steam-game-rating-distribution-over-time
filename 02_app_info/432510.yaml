@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: Soundtrack for ebi-hime's Strawberry Vinegar.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/432510/page_bg_generated_v6b.jpg?t=1581627809
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack for ebi-hime's Strawberry Vinegar.
+    developers:
+    - ebi-hime
+    fullgame:
+      appid: '407340'
+      name: Strawberry Vinegar
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/432510/header.jpg?t=1581627809
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Strawberry Vinegar - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Strawberry Vinegar Original Soundtrack - $4.99
+        packageid: 89945
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Strawberry Vinegar - Original Soundtrack
+    packages:
+    - 89945
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        60 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ebi-hime
+    release_date:
+      coming_soon: false
+      date: Jan 5, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/432510/ss_f3baf3704e4d84abecd651dfad3572842f2c5502.1920x1080.jpg?t=1581627809
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/432510/ss_f3baf3704e4d84abecd651dfad3572842f2c5502.600x338.jpg?t=1581627809
+    short_description: Soundtrack for ebi-hime's Strawberry Vinegar.
+    steam_appid: 432510
+    support_info:
+      email: ebihimes@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ43aDThekCceOwuwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2297
+      num_reviews: 263
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198124135678'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '49120817'
+    review: "\u0425\u043E\u0440\u043E\u0448\u0438\u0439 OST."
+    steam_purchase: true
+    timestamp_created: 1550672791
+    timestamp_updated: 1550672791
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

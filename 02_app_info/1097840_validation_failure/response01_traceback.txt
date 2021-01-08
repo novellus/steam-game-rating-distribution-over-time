@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 72, in validate_parsed_data
+    common.parse_steam_date(data['details']['data']['release_date']['date'])  # try to parse date
+  File "C:\Users\novel\Desktop\steam-game-rating-distribution-over-time\common.py", line 26, in parse_steam_date
+    raise ValueError('All date formats failed to parse date string, ' + date_string)
+ValueError: All date formats failed to parse date string, 9. Sep. 2019

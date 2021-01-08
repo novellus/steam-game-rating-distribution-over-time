@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: "A 56-page official artbook for Red Embrace: Hollywood, featuring\
+      \ sketches, alternate versions, comments on the design process, and more!<br><br>The\
+      \ digital book comes in PDF format, and can be opened via web browser or Adobe\
+      \ Reader.<br><br>Featured sections:<br><ul class=\"bb_ul\"><li> Backgrounds<br></li><li>\
+      \ Sprites<br></li><li> CGs<br></li><li> Extra (fanart, programmer art, revision\
+      \ marks)</li></ul><br>Instructions:<br><ul class=\"bb_ul\"><li>Right click Red\
+      \ Embrace: Hollywood (must be installed) in your Steam Library and select &quot;Properties&quot;.<br></li><li>Under\
+      \ the &quot;Local Files&quot; tab, select \u201CBrowse Local Files\u201D.<br></li><li>Open\
+      \ &quot;Artbook.pdf&quot; in the main folder.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1156740/page_bg_generated_v6b.jpg?t=1570469567
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A 56-page official artbook for Red Embrace: Hollywood,\
+      \ featuring sketches, alternate versions, comments on the design process, and\
+      \ more!<br><br>The digital book comes in PDF format, and can be opened via web\
+      \ browser or Adobe Reader.<br><br>Featured sections:<br><ul class=\"bb_ul\"\
+      ><li> Backgrounds<br></li><li> Sprites<br></li><li> CGs<br></li><li> Extra (fanart,\
+      \ programmer art, revision marks)</li></ul><br>Instructions:<br><ul class=\"\
+      bb_ul\"><li>Right click Red Embrace: Hollywood (must be installed) in your Steam\
+      \ Library and select &quot;Properties&quot;.<br></li><li>Under the &quot;Local\
+      \ Files&quot; tab, select \u201CBrowse Local Files\u201D.<br></li><li>Open &quot;Artbook.pdf&quot;\
+      \ in the main folder.</li></ul>"
+    developers:
+    - Argent Games
+    fullgame:
+      appid: '904520'
+      name: 'Red Embrace: Hollywood'
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1156740/header.jpg?t=1570469567
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux x86/x86_64<br></li><li><strong>Processor:</strong> 1GHz<br></li><li><strong>Memory:</strong>
+        500 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible
+        card<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.6+<br></li><li><strong>Processor:</strong> 1GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible
+        card<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    name: 'Red Embrace: Hollywood - Artbook'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Red Embrace: Hollywood - Artbook - <span class="discount_original_price">$6.99</span>
+          $5.24'
+        packageid: 394491
+        percent_savings: 0
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 524
+      title: 'Buy Red Embrace: Hollywood - Artbook'
+    packages:
+    - 394491
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible
+        card<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 25
+      final: 524
+      final_formatted: $5.24
+      initial: 699
+      initial_formatted: $6.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 7, 2019
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1156740/ss_1c39347983832f7e616d356ee49ab90915f4a36a.1920x1080.jpg?t=1570469567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1156740/ss_1c39347983832f7e616d356ee49ab90915f4a36a.600x338.jpg?t=1570469567
+    short_description: 'The 56-page official artbook for Red Embrace: Hollywood, featuring
+      sketches, alternate versions, comments on the design process, and more!'
+    steam_appid: 1156740
+    support_info:
+      email: contact@argentgames.co
+      url: http://argentgames.co
+    supported_languages: English
+    type: dlc
+    website: http://argentgames.co/
+  success: true
+reviews:
+  cursor: AoJw6umt3O0CeJPy0wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 94
+      num_reviews: 11
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198073693253'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '55546168'
+    review: I love seeing original designs vs what they've become in the final product
+      and the artbook didn't disappoint. I loved seeing the seeing the different sketches
+      and sprite variations and some of the commentary was hilarious! Definitely worth
+      a read through!
+    steam_purchase: true
+    timestamp_created: 1570762084
+    timestamp_updated: 1570762084
+    voted_up: true
+    votes_funny: 0
+    votes_up: 5
+    weighted_vote_score: '0.597855210304260254'
+    written_during_early_access: false
+  success: 1

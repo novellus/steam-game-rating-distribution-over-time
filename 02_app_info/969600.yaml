@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: Official soundtrack from Ego Hearts<br>MP3, 320 kbps.<br><br><strong>Tracklist:</strong><br><ul
+      class="bb_ul"><li> 1. Ego Hearts<br></li><li> 2. Up and Down<br></li><li> 3.
+      Lonely<br></li><li> 4. February<br></li><li> 5. Spring<br></li><li> 6. Ego Hearts
+      (Trailer version)</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/969600/page_bg_generated_v6b.jpg?t=1549044815
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Official soundtrack from Ego Hearts<br>MP3, 320 kbps.<br><br><strong>Tracklist:</strong><br><ul
+      class="bb_ul"><li> 1. Ego Hearts<br></li><li> 2. Up and Down<br></li><li> 3.
+      Lonely<br></li><li> 4. February<br></li><li> 5. Spring<br></li><li> 6. Ego Hearts
+      (Trailer version)</li></ul>
+    developers:
+    - Ironic Title Studio
+    fullgame:
+      appid: '960320'
+      name: Ego Hearts
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/969600/header.jpg?t=1549044815
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        27 MB available space</li></ul>
+    name: Ego Hearts - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ego Hearts - Soundtrack - $5.99
+        packageid: 317737
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Ego Hearts - Soundtrack
+    packages:
+    - 317737
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        27 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 1, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/969600/ss_ec48c56bbefd10a40d0bb5a02c8589d1b8421326.1920x1080.jpg?t=1549044815
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/969600/ss_ec48c56bbefd10a40d0bb5a02c8589d1b8421326.600x338.jpg?t=1549044815
+    short_description: Official soundtrack from Ego Hearts.
+    steam_appid: 969600
+    support_info:
+      email: contact@ironictitle.com
+      url: https://ironictitle.com
+    supported_languages: English
+    type: dlc
+    website: https://ironictitle.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

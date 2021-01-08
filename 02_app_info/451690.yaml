@@ -1,0 +1,183 @@
+details:
+  data:
+    about_the_game: 'This DLC lets you support the continued development of Simply
+      Chess and get a few bonuses out of it, in the process!<br><ul class="bb_ul"><li>
+      No more cross-promotions for our other games. This way you can create a new
+      game 7 seconds faster*!<br></li><li> The game will now have a way to show up
+      in your Steam Library.<br></li><li> Unlocks the &quot;Patron of the Arts&quot;
+      achievement.<br></li><li> Adds a &quot;Limitless&quot; level of AI which unlocks
+      the full potential of the Stockfish AI. You will not beat this AI. It is a helpful
+      learning tool for analyzing what _should_ be done in a given situation.<br></li><li>
+      Any new features we add to Premium, you will get automatically!</li></ul><br><br>*:
+      An average game of Simply Chess is around 40 minutes, so you will get a 0.3%
+      speed improvement!  SO FAST!<br><br>PLEASE NOTE: If you already own the Premium
+      version through the previous In-App-Purchase system, you don''t need to buy
+      the DLC. You will be granted a DLC key the first time you play a game, for &quot;free&quot;
+      (eg: you''ve already paid for it by buying the IAP whenever you did that) .'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/451690/page_bg_generated_v6b.jpg?t=1485975637
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    - description: Steam Turn Notifications
+      id: 32
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: 'This DLC lets you support the continued development of
+      Simply Chess and get a few bonuses out of it, in the process!<br><ul class="bb_ul"><li>
+      No more cross-promotions for our other games. This way you can create a new
+      game 7 seconds faster*!<br></li><li> The game will now have a way to show up
+      in your Steam Library.<br></li><li> Unlocks the &quot;Patron of the Arts&quot;
+      achievement.<br></li><li> Adds a &quot;Limitless&quot; level of AI which unlocks
+      the full potential of the Stockfish AI. You will not beat this AI. It is a helpful
+      learning tool for analyzing what _should_ be done in a given situation.<br></li><li>
+      Any new features we add to Premium, you will get automatically!</li></ul><br><br>*:
+      An average game of Simply Chess is around 40 minutes, so you will get a 0.3%
+      speed improvement!  SO FAST!<br><br>PLEASE NOTE: If you already own the Premium
+      version through the previous In-App-Purchase system, you don''t need to buy
+      the DLC. You will be granted a DLC key the first time you play a game, for &quot;free&quot;
+      (eg: you''ve already paid for it by buying the IAP whenever you did that) .'
+    developers:
+    - BlueLine Games
+    fullgame:
+      appid: '312280'
+      name: Simply Chess
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/451690/header.jpg?t=1485975637
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Only requires base version of Simply Chess, no additional
+        requirements.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Only requires base version of Simply Chess, no additional
+        requirements.</li></ul>
+    name: Simply Chess - Premium Upgrade!
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simply Chess - Premium Upgrade! - <span class="discount_original_price">$4.99</span>
+          $1.99
+        packageid: 97261
+        percent_savings: 0
+        percent_savings_text: '-60% '
+        price_in_cents_with_discount: 199
+      title: Buy Simply Chess - Premium Upgrade!
+    packages:
+    - 97261
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Only requires base version of Simply Chess, no additional
+        requirements.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 60
+      final: 199
+      final_formatted: $1.99
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - BlueLine Games
+    release_date:
+      coming_soon: false
+      date: Apr 13, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/451690/ss_924cc5eadf07d91a9486d25e938ed0874af5320e.1920x1080.jpg?t=1485975637
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/451690/ss_924cc5eadf07d91a9486d25e938ed0874af5320e.600x338.jpg?t=1485975637
+    short_description: This DLC lets you support the continued development of Simply
+      Chess and get a few bonuses out of it, in the process! No more cross-promos
+      (7 second win!); Simply Chess will show up in your Steam Library!; Unlocks the
+      &quot;Patron of the Arts&quot; achievement; adds &quot;Limitless&quot; AI (un-nerfed
+      Stockfish 6); automatically get any...
+    steam_appid: 451690
+    support_info:
+      email: support@bluelinegamestudios.com
+      url: http://bluelinegamestudios.com
+    supported_languages: English, Spanish - Spain, Polish, Finnish, Russian
+    type: dlc
+    website: http://bluelinegamestudios.com/simply-chess/
+  success: true
+reviews:
+  cursor: AoJ4r9+Ey/YCeafsvAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 3
+    total_positive: 9
+    total_reviews: 12
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 72
+      num_reviews: 3
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198087352801'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83059321'
+    review: 'I have tried to learn how to play chess for many years, and while there
+      were some games which may have been a bit more instructional, being able to
+      select the level of play is a great feature.  Add to it symphonic music that
+      is both soothing and easy on the ears, and you''ve got a great experience to
+      learn and play chess.  You can decide to play the computer or go online and
+      find someone to play against.  If you find someone online that''s really good,
+      you can ask questions, and they will usually try to help you learn better moves
+      and counter moves.  I love that part of the game''s community.
+
+
+      Play is definitely spotty on Linux, so I don''t play it when I''m logged into
+      my Linux system but it''s perfect on Windows.'
+    steam_purchase: true
+    timestamp_created: 1608835595
+    timestamp_updated: 1608835595
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

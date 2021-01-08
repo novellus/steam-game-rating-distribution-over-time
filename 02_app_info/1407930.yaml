@@ -1,0 +1,65 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Kurenaibook
+    fullgame:
+      appid: '1400270'
+      name: Fox face kills!
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1407930/header.jpg?t=1602015268
+    is_free: true
+    legal_notice: "\xA9Kurenaibook<br />\r\nClickteam Fusion 2.5 Copyright (C) 1996-2011\
+      \ Clickteam."
+    linux_requirements: []
+    mac_requirements: []
+    name: Fox face kills! Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 (windows 64bit only)<br></li><li><strong>Processor:</strong> Pentium4<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Kurenaibook
+    release_date:
+      coming_soon: false
+      date: Oct 6, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1407930
+    support_info:
+      email: ''
+      url: http://akimasanari.sakura.ne.jp/
+    supported_languages: English
+    type: demo
+    website: http://akimasanari.sakura.ne.jp/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

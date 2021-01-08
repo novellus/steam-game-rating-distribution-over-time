@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: "This Nyanco Mine Happy Pack DLC contains the following contents:<br\
+      \ />\r\n<br />\r\n1. Nyanco Channel - Nyanco Avatar<br />\r\n2. Nyanco Channel\
+      \ - Nyanco Rewards<br />\r\n3. Nyanco Channel - Nyanco Emoticons<br />\r\n4.\
+      \ Nyanco Channel - Bookmark &amp; Banner"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1435260/page_bg_generated_v6b.jpg?t=1602748914
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This Nyanco Mine Happy Pack DLC contains the following\
+      \ contents:<br />\r\n<br />\r\n1. Nyanco Channel - Nyanco Avatar<br />\r\n2.\
+      \ Nyanco Channel - Nyanco Rewards<br />\r\n3. Nyanco Channel - Nyanco Emoticons<br\
+      \ />\r\n4. Nyanco Channel - Bookmark &amp; Banner"
+    developers:
+    - Nyanco Channel
+    fullgame:
+      appid: '1435160'
+      name: NYANCO MINE
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1435260/header.jpg?t=1602748914
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Nyanco Mine - Happy Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Nyanco Mine - Happy Pack - $1.99
+        packageid: 504318
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Nyanco Mine - Happy Pack
+    packages:
+    - 504318
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7/8/8.1/10<br></li><li><strong>Processor:</strong> Intel Core2\
+        \ Duo or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Storage:</strong> 10\
+        \ MB available space<br></li><li><strong>Additional Notes:</strong> Nyanco\
+        \ Channel All Rights Reserved</li></ul>"
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        10 MB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Nyanco Channel
+    release_date:
+      coming_soon: false
+      date: Oct 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1435260/ss_6e59ad3e7ad1c452d5449f68ac77e5cfd56a6d6d.1920x1080.jpg?t=1602748914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1435260/ss_6e59ad3e7ad1c452d5449f68ac77e5cfd56a6d6d.600x338.jpg?t=1602748914
+    short_description: It's a wonderful DLC that supports Nyanco Channel!
+    steam_appid: 1435260
+    support_info:
+      email: ''
+      url: https://store.steampowered.com/curator/33855818-Nyanco-Channel/
+    supported_languages: English, Japanese, Simplified Chinese, Traditional Chinese
+    type: dlc
+    website: https://store.steampowered.com/curator/33855818-Nyanco-Channel/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

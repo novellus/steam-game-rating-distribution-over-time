@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '517030'
+      name: The Adventures of Super Mario Bros. 3
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/517030/header.jpg?t=1519348672
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Adventures of Super Mario Bros. 3: Do The Koopa / Kootie Pie Rocks'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Adventures of Super Mario Bros. 3: Do The Koopa / Kootie
+          Pie Rocks - <span class="discount_original_price">$1.99</span> $0.49'
+        packageid: 125956
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 49
+      title: 'Buy The Adventures of Super Mario Bros. 3: Do The Koopa / Kootie Pie
+        Rocks'
+    packages:
+    - 125956
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 49
+      final_formatted: $0.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 16, 2016
+    required_age: 0
+    short_description: Mario and his friends set out for Darkland and the Temple of
+      Gloom. // Mario, Luigi and the Princess go to the real world to see Milli Vanilli
+      in concert.
+    steam_appid: 526227
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4hrXI/NoCdoeEdQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1577877654
+      num_games_owned: 995
+      num_reviews: 61
+      playtime_at_review: 585
+      playtime_forever: 792
+      playtime_last_two_weeks: 0
+      steamid: '76561198113503355'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '30679158'
+    review: pure kino
+    steam_purchase: true
+    timestamp_created: 1490238417
+    timestamp_updated: 1490238417
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.502262473106384277'
+    written_during_early_access: false
+  success: 1

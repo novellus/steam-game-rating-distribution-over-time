@@ -1,0 +1,181 @@
+details:
+  data:
+    about_the_game: "<strong>Delta0</strong>: A puzzle game to stimulate your brain!<br><br><strong><i>Features</i></strong><br><br>[1500\
+      \ Levels]<br>- 500 Easy<br>- 500 Medium<br>- 500 Hard<br><br>[200 Achievements]<br>-\
+      \ Global platform leaderboard<br><br>[8 Game Modes]<br>- Static levels: Easy,\
+      \ Medium, Hard<br>- Infinite levels: Daily, Quick, Timer, News, Messages/Emails<br><br>[Cipher\
+      \ Messages]<br>- Send encrypted messages to your friends.<br><br><br><strong><i>How\
+      \ to Play?</i></strong><br><br>[TL;DR] You need to get the same number as what\
+      \ you see in the corner based on the sum of the 3 circles connected by a triangle.<br><br>Each\
+      \ big circle contains a number inside.<br>Each triangle is connected to 3 big\
+      \ circles and represents a sum.<br><br>A green triangle means that you have\
+      \ the same sum as the number expected from the corner.<br>3 small circles will\
+      \ appear when you have the correct sum.<br>Example: (1+1+1) -&gt; 3 {\u2714\uFE0F\
+      } (2+0+1) -&gt; 3 {\u2714\uFE0F}<br><br>A red triangle means that you don't\
+      \ have the same sum as the number expected from the corner.<br>The number inside\
+      \ { } represents the delta between the sum you have and the expected value.<br>Example:\
+      \ (1+0+1) -&gt; 3 {-1 \u274C} (1+2+1) -&gt; 3 {+1 \u274C}<br><br>You can drag\
+      \ and drop each circle between other circles.<br>The level is completed when\
+      \ you get a Delta0 for each corner (4) (your sum = sum expected).<br>Don't forget\
+      \ to check out the Tutorial. It may look easy, but it does require some skill\
+      \ ;)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1424570/page_bg_generated_v6b.jpg?t=1606809735
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong>Delta0</strong>: A puzzle game to stimulate your\
+      \ brain!<br><br><strong><i>Features</i></strong><br><br>[1500 Levels]<br>- 500\
+      \ Easy<br>- 500 Medium<br>- 500 Hard<br><br>[200 Achievements]<br>- Global platform\
+      \ leaderboard<br><br>[8 Game Modes]<br>- Static levels: Easy, Medium, Hard<br>-\
+      \ Infinite levels: Daily, Quick, Timer, News, Messages/Emails<br><br>[Cipher\
+      \ Messages]<br>- Send encrypted messages to your friends.<br><br><br><strong><i>How\
+      \ to Play?</i></strong><br><br>[TL;DR] You need to get the same number as what\
+      \ you see in the corner based on the sum of the 3 circles connected by a triangle.<br><br>Each\
+      \ big circle contains a number inside.<br>Each triangle is connected to 3 big\
+      \ circles and represents a sum.<br><br>A green triangle means that you have\
+      \ the same sum as the number expected from the corner.<br>3 small circles will\
+      \ appear when you have the correct sum.<br>Example: (1+1+1) -&gt; 3 {\u2714\uFE0F\
+      } (2+0+1) -&gt; 3 {\u2714\uFE0F}<br><br>A red triangle means that you don't\
+      \ have the same sum as the number expected from the corner.<br>The number inside\
+      \ { } represents the delta between the sum you have and the expected value.<br>Example:\
+      \ (1+0+1) -&gt; 3 {-1 \u274C} (1+2+1) -&gt; 3 {+1 \u274C}<br><br>You can drag\
+      \ and drop each circle between other circles.<br>The level is completed when\
+      \ you get a Delta0 for each corner (4) (your sum = sum expected).<br>Don't forget\
+      \ to check out the Tutorial. It may look easy, but it does require some skill\
+      \ ;)"
+    developers:
+    - JSR-Productions
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1424570/header.jpg?t=1606809735
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Processor:</strong> DualCore
+        1.2 GHZ<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Processor:</strong>
+        DualCore 2.4 GHZ<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Processor:</strong> DualCore
+        1.2 GHZ<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Processor:</strong>
+        DualCore 2.4 GHZ<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256802031
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256802031/movie480.mp4?t=1603394053
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256802031/movie_max.mp4?t=1603394053
+      name: Trailer 1.0
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256802031/movie.293x165.jpg?t=1603394053
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256802031/movie480_vp9.webm?t=1603394053
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256802031/movie_max_vp9.webm?t=1603394053
+    name: Delta0
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Delta0 - $2.99
+        packageid: 500248
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Delta0
+    packages:
+    - 500248
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7-10<br></li><li><strong>Processor:</strong>
+        DualCore 1.2 GHZ<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        7-10<br></li><li><strong>Processor:</strong> DualCore 2.4 GHZ<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - JSR-Productions
+    release_date:
+      coming_soon: false
+      date: Dec 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_844caf032b7ec31a8b7774df4eaf66c4cb7aab65.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_844caf032b7ec31a8b7774df4eaf66c4cb7aab65.600x338.jpg?t=1606809735
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_33db9a07bf65530149b015037f3ce1a8a5dccd36.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_33db9a07bf65530149b015037f3ce1a8a5dccd36.600x338.jpg?t=1606809735
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_c1b567de97b28bb2d043f483ba6b5178ef8c19ba.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_c1b567de97b28bb2d043f483ba6b5178ef8c19ba.600x338.jpg?t=1606809735
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_a1cb92fabefddf2f052909f396347387a5a85f7c.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_a1cb92fabefddf2f052909f396347387a5a85f7c.600x338.jpg?t=1606809735
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_e58f35a47497a24567f343ddbdc1bc98a059cb22.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_e58f35a47497a24567f343ddbdc1bc98a059cb22.600x338.jpg?t=1606809735
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_59628f49a7dff83efd2f3bf61eb1c68965121b16.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_59628f49a7dff83efd2f3bf61eb1c68965121b16.600x338.jpg?t=1606809735
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_df27d693c93933b9f3397d72e16320d814d1f21f.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_df27d693c93933b9f3397d72e16320d814d1f21f.600x338.jpg?t=1606809735
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_87a9a283aa7bf9579835b9d07bab2e74adca362a.1920x1080.jpg?t=1606809735
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1424570/ss_87a9a283aa7bf9579835b9d07bab2e74adca362a.600x338.jpg?t=1606809735
+    short_description: 'Delta0: A puzzle game to stimulate your brain!'
+    steam_appid: 1424570
+    support_info:
+      email: delta0@jeansebastienroyer.com
+      url: https://www.delta0.link/
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: game
+    website: https://www.delta0.link/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

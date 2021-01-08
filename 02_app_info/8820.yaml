@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Firaxis Games
+    fullgame:
+      appid: '8800'
+      name: 'Civilization IV: Beyond the Sword'
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/8820/header.jpg?t=1447351120
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 86
+    name: 'Civilization IV: Beyond the Sword Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum: </strong> Windows 2000 (plus Service Pack 1 or\
+        \ higher), Windows XP Home or Professional (plus Service Pack 1 or higher),\
+        \ or Windows Vista; 1.2GHz Intel Pentium 4 or AMD Athlon processor, 256 MB\
+        \ RAM, 64 MB video card with hardware T&L (GeForce 2, Radeon 7500 or better),\
+        \ DirectX 7 compatible sound card, 1.7 GB of free hard drive space, DirectX\
+        \ 9.0c (included)</p>\n\t\t\t\t\t<p><strong>Recommended: </strong> 1.8GHz\
+        \ Intel Pentium 4 or AMD Athlon processor or equivalent (or better), 512 MB\
+        \ RAM, 128 MB video card with DirectX 8 support (pixel and vertex shaders),\
+        \ DirectX 7 compatible sound card, 1.7 GB of free hard drive space, DirectX\
+        \ 9.0c (included)</p>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - 2K Games
+    release_date:
+      coming_soon: false
+      date: Jul 26, 2007
+    required_age: 0
+    short_description: ''
+    steam_appid: 8820
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, German, Italian, Spanish - Spain
+    type: demo
+    website: http://www.2kgames.com/civ4/beyondthesword/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

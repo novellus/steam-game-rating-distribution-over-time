@@ -1,0 +1,78 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Mindware Studios
+    fullgame:
+      appid: '3270'
+      name: Painkiller Overdose
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/3280/header.jpg?t=1447351171
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 65
+    name: Painkiller Overdose Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>MINIMUM</strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported\
+        \ OS: </strong>Microsoft(R) Windows(R) XP/Vista</li>\n\t\t\t\t\t<li><strong>Processor:\
+        \ </strong>1.5 GHz Intel Pentium III or AMD Athlon processor</li>\n\t\t\t\t\
+        \t<li><strong>RAM: </strong>512MB RAM</li>\n\t\t\t\t\t<li><strong>Hard Drive:\
+        \ </strong>2.5 GB available</li>\n\t\t\t\t\t<li><strong>DirectX Version: </strong>128\
+        \ MB DirectX(R) 9 Compatible Video Card (NVIDIA(R) GeForce(R) FX 5600, ATI(TM)\
+        \ Radeon(TM) 9600 or Better)</li>\n\t\t\t\t\t<li><strong>Sound: </strong>DirectX\
+        \ 9 or better compatible sound card</li></ul>\n\t\t\t\t\t<p><strong>RECOMMENDED</strong></p>\n\
+        \t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported OS: </strong>Microsoft(R)\
+        \ Windows(R) XP/Vista</li>\n\t\t\t\t\t<li><strong>Processor: </strong>2.4\
+        \ GHz Intel Pentium 4 or AMD Athlon processor</li>\n\t\t\t\t\t<li><strong>RAM:\
+        \ </strong>1024 MB</li>\n\t\t\t\t\t<li><strong>Hard Drive: </strong>2.5 GB\
+        \ available</li>\n\t\t\t\t\t<li><strong>DirectX Version: </strong>256 MB DirectX(R)\
+        \ 9 Compatible Video Card (NVIDIA(R) GeForce(R) 7800, ATI(TM) Radeon(TM) X1800\
+        \ or Better)</li>\n\t\t\t\t\t<li><strong>Sound: </strong>DirectX 9 or better\
+        \ compatible sound card</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Nordic Games
+    release_date:
+      coming_soon: false
+      date: Oct 17, 2007
+    required_age: '17'
+    short_description: ''
+    steam_appid: 3280
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

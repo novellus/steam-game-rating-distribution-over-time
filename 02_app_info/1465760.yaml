@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: "Prodeus is a first-person shooter of old, re-imagined using modern\
+      \ rendering techniques. It reaches the quality you expect from a AAA experience\
+      \ while adhering to some of the aesthetic technical limits of older hardware.<br\
+      \ />\r\n<br />\r\nThe game features a hand-crafted campaign from industry FPS\
+      \ veterans, a fully-integrated level editor, and a built-in community map browser\
+      \ for instantaneous action with nearly limitless levels to play. <br />\r\n\
+      <br />\r\nGet ready to paint the walls red. This is the Boomer Shooter you\u2019\
+      ve been waiting for."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1465760/page_bg_generated_v6b.jpg?t=1605199945
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Prodeus is a first-person shooter of old, re-imagined using\
+      \ modern rendering techniques. It reaches the quality you expect from a AAA\
+      \ experience while adhering to some of the aesthetic technical limits of older\
+      \ hardware.<br />\r\n<br />\r\nThe game features a hand-crafted campaign from\
+      \ industry FPS veterans, a fully-integrated level editor, and a built-in community\
+      \ map browser for instantaneous action with nearly limitless levels to play.\
+      \ <br />\r\n<br />\r\nGet ready to paint the walls red. This is the Boomer Shooter\
+      \ you\u2019ve been waiting for."
+    developers:
+    - Bounding Box Software Inc.
+    fullgame:
+      appid: '964800'
+      name: Prodeus
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1465760/header.jpg?t=1605199945
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256809156
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256809156/movie480.mp4?t=1605199940
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256809156/movie_max.mp4?t=1605199940
+      name: OST Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256809156/movie.293x165.jpg?t=1605199940
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256809156/movie480_vp9.webm?t=1605199940
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256809156/movie_max_vp9.webm?t=1605199940
+    name: Prodeus Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Prodeus Soundtrack - $9.99
+        packageid: 516138
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Prodeus Soundtrack
+    packages:
+    - 516138
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Humble Games
+    release_date:
+      coming_soon: false
+      date: Nov 9, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1465760/ss_a28688c2cf75d2d3fa1313973d2ef8d782816c2e.1920x1080.jpg?t=1605199945
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1465760/ss_a28688c2cf75d2d3fa1313973d2ef8d782816c2e.600x338.jpg?t=1605199945
+    short_description: Prodeus is a first-person shooter of old, re-imagined using
+      modern rendering techniques. It reaches the quality you expect from a AAA experience
+      while adhering to some of the aesthetic technical limits of older hardware.
+    steam_appid: 1465760
+    support_info:
+      email: prodeusgame@gmail.com
+      url: http://www.prodeusgame.com/
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4y9ax4fYCcL/YvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 0
+    total_positive: 8
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 467
+      num_reviews: 22
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198008063720'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '83805168'
+    review: Gr8
+    steam_purchase: true
+    timestamp_created: 1609585571
+    timestamp_updated: 1609585571
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,65 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - J. Li
+    fullgame:
+      appid: '1402010'
+      name: Table Soccer Club
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1432990/header.jpg?t=1601311550
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Table Soccer Club Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Limeade Games
+    release_date:
+      coming_soon: false
+      date: Sep 28, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1432990
+    support_info:
+      email: limeadegames@gmail.com
+      url: ''
+    supported_languages: English, Simplified Chinese
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

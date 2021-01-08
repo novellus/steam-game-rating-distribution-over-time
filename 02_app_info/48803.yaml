@@ -1,0 +1,178 @@
+details:
+  data:
+    about_the_game: "<p>Experience the responsibility of a ferry captain as you take\
+      \ the rudder of different ferry types on some of the most popular routes in\
+      \ the world in this add-on pack for Ship Simulator Extremes. Whether it carries\
+      \ cars & cargo in its belly across the channel or is used as a municipal public\
+      \ transportation service, going on the ferry is always a bit of an adventure!</p>\n\
+      \n\t\t\t\t\t\t<p>Many of the world's capital cities have local ferry services,\
+      \ providing an indispensable and affordable link for its residents. The Ferry\
+      \ Pack brings 5 new ferries, a brand new player campaign with 10 missions and\
+      \ new ferry specific gameplay features to Ship Simulator Extremes, adding many\
+      \ hours of gameplay for all virtual captains!</p>\n\n\t\t\t\t\t\t<h2>Key Features</h2>\n\
+      \t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>5 new Ferry types (Fast, Channel, River, etc.)\
+      \ available in Campaign, Free Roam and Multiplayer mode.</li>\n\t\t\t\t\t\t\
+      <li>Ferry specific gameplay: Ferry ramp & door opening for loading/unloading,\
+      \ Directional switch for two-ender ferries, etc.</li>\n\t\t\t\t\t\t<li>New Ferry\
+      \ campaign featuring 10 missions all over the world</li>\n\t\t\t\t\t\t<li>Ferry\
+      \ mission functionality added to the Mission Editor, allowing for creation and\
+      \ sharing of Ferry specific missions</li>\n\t\t\t\t\t\t</ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/48803/page_bg_generated_v6b.jpg?t=1447354100
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 48810
+      description: ''
+    detailed_description: "<p>Experience the responsibility of a ferry captain as\
+      \ you take the rudder of different ferry types on some of the most popular routes\
+      \ in the world in this add-on pack for Ship Simulator Extremes. Whether it carries\
+      \ cars & cargo in its belly across the channel or is used as a municipal public\
+      \ transportation service, going on the ferry is always a bit of an adventure!</p>\n\
+      \n\t\t\t\t\t\t<p>Many of the world's capital cities have local ferry services,\
+      \ providing an indispensable and affordable link for its residents. The Ferry\
+      \ Pack brings 5 new ferries, a brand new player campaign with 10 missions and\
+      \ new ferry specific gameplay features to Ship Simulator Extremes, adding many\
+      \ hours of gameplay for all virtual captains!</p>\n\n\t\t\t\t\t\t<h2>Key Features</h2>\n\
+      \t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>5 new Ferry types (Fast, Channel, River, etc.)\
+      \ available in Campaign, Free Roam and Multiplayer mode.</li>\n\t\t\t\t\t\t\
+      <li>Ferry specific gameplay: Ferry ramp & door opening for loading/unloading,\
+      \ Directional switch for two-ender ferries, etc.</li>\n\t\t\t\t\t\t<li>New Ferry\
+      \ campaign featuring 10 missions all over the world</li>\n\t\t\t\t\t\t<li>Ferry\
+      \ mission functionality added to the Mission Editor, allowing for creation and\
+      \ sharing of Ferry specific missions</li>\n\t\t\t\t\t\t</ul>"
+    developers:
+    - VStep
+    fullgame:
+      appid: '48800'
+      name: Ship Simulator Extremes
+    genres:
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/48803/header.jpg?t=1447354100
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Ship Simulator Extremes: Ferry Pack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Ship Simulator Extremes: Ferry Pack - $3.99'
+        packageid: 7777
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: 'Buy Ship Simulator Extremes: Ferry Pack'
+    packages:
+    - 7777
+    pc_requirements:
+      minimum: "<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li><strong>OS:</strong> Windows XP\
+        \ (Min. service pack 2), Windows Vista or Windows 7. 32 and 64 bits OS supported</li>\n\
+        \t\t\t\t\t\t\t\t\t\t\t\t\t<li><strong>Processor:</strong> 3 Ghz P4 Intel or\
+        \ AMD equivalent processor</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li><strong>Memory:</strong>\
+        \ 2GB (Windows XP) or 3GB (Vista or Windows 7)</li>\n\t\t\t\t\t\t\t\t\t\t\t\
+        \t\t<li><strong>Hard Disk Space:</strong> 3.5 GB</li>\n\t\t\t\t\t\t\t\t\t\t\
+        \t\t\t<li><strong>Video Card:</strong> Geforce 8800GT or ATI Radeon 4850 with\
+        \ 256MB ram (At least Shader model 3.0)</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li><strong>Sound:</strong>\
+        \ DirectX compatible</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li><strong>DirectX&reg;:</strong>\
+        \ 9.0c</li>\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Paradox Interactive
+    release_date:
+      coming_soon: false
+      date: Apr 5, 2011
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_fe1c557929b7ce14cd1a496dcbde91603ed042d6.1920x1080.jpg?t=1447354100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_fe1c557929b7ce14cd1a496dcbde91603ed042d6.600x338.jpg?t=1447354100
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_e7f7348fe49e8bb51727303c55289e9257c07fb4.1920x1080.jpg?t=1447354100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_e7f7348fe49e8bb51727303c55289e9257c07fb4.600x338.jpg?t=1447354100
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_ed75368a8447d79974e9a92728c2cbc8a378390d.1920x1080.jpg?t=1447354100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_ed75368a8447d79974e9a92728c2cbc8a378390d.600x338.jpg?t=1447354100
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_547ec475e806f5c6272158f6d7e4f2d26efef857.1920x1080.jpg?t=1447354100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_547ec475e806f5c6272158f6d7e4f2d26efef857.600x338.jpg?t=1447354100
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_df72fb94a2b92a624b023fa8838da6141f836573.1920x1080.jpg?t=1447354100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_df72fb94a2b92a624b023fa8838da6141f836573.600x338.jpg?t=1447354100
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_c6332c462fff9c20b688ca8b915c5a08948a0b0e.1920x1080.jpg?t=1447354100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_c6332c462fff9c20b688ca8b915c5a08948a0b0e.600x338.jpg?t=1447354100
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_e8e3768efe0e929f36f069ed7c1ca8edc01d65b2.1920x1080.jpg?t=1447354100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/48803/ss_e8e3768efe0e929f36f069ed7c1ca8edc01d65b2.600x338.jpg?t=1447354100
+    short_description: Experience the responsibility of a ferry captain as you take
+      the rudder of different ferry types on some of the most popular routes in the
+      world in this add-on pack for Ship Simulator Extremes. Whether it carries cars
+      & cargo in its belly across the channel or is used as a municipal public transportation
+      service, going on the ferry is...
+    steam_appid: 48803
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, German, Spanish - Spain
+    type: dlc
+    website: http://www.shipsim.com/
+  success: true
+reviews:
+  cursor: AoJ4/4+g6/UCfL74rgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 6
+    total_positive: 21
+    total_reviews: 27
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199096003846'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '79414252'
+    review: I wish i can use the pack becasue when i go to put the code in for the
+      pack it say's at the last two numers just ... and i cant pick it out what the
+      rest of the code is
+    steam_purchase: true
+    timestamp_created: 1605621547
+    timestamp_updated: 1605621547
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

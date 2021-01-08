@@ -1,0 +1,142 @@
+details:
+  data:
+    about_the_game: "An original comic adventure by Volkenfox and T.F. Wright! Find\
+      \ out the secret of the coin that started it all, with 20 full color pages.<br\
+      \ />\r\n<br />\r\nTo locate the DLC please follow these instructions: Right-click\
+      \ (Ctrl+Click on Mac) The Pirate's Fate in your library, then select Properties&gt;Local\
+      \ Files&gt;Browse Local Files."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/823261/page_bg_generated_v6b.jpg?t=1522149279
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 5
+      notes: null
+    detailed_description: "An original comic adventure by Volkenfox and T.F. Wright!\
+      \ Find out the secret of the coin that started it all, with 20 full color pages.<br\
+      \ />\r\n<br />\r\nTo locate the DLC please follow these instructions: Right-click\
+      \ (Ctrl+Click on Mac) The Pirate's Fate in your library, then select Properties&gt;Local\
+      \ Files&gt;Browse Local Files."
+    developers:
+    - T.F. Wright
+    - Volkenfox
+    fullgame:
+      appid: '553480'
+      name: The Pirate's Fate
+    genres:
+    - description: Sexual Content
+      id: '71'
+    - description: Violent
+      id: '73'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/823261/header.jpg?t=1522149279
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.11</li></ul>
+    name: The Pirate's Fate - Comic
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Pirate's Fate - Comic - $4.99
+        packageid: 252640
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy The Pirate's Fate - Comic
+    packages:
+    - 252640
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1.0 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong>
+        70 MB available space<br></li><li><strong>Sound Card:</strong> Integrated
+        Audio</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 27, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/823261/ss_0d3a4bb1572690ed9f7063782d58880d043c4934.1920x1080.jpg?t=1522149279
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/823261/ss_0d3a4bb1572690ed9f7063782d58880d043c4934.600x338.jpg?t=1522149279
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/823261/ss_05c75a48d7e89581d55269dfed781012e2950181.1920x1080.jpg?t=1522149279
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/823261/ss_05c75a48d7e89581d55269dfed781012e2950181.600x338.jpg?t=1522149279
+    short_description: An original comic adventure by Volkenfox and T.F. Wright! Find
+      out the secret of the coin that started it all, with 20 full color pages.
+    steam_appid: 823261
+    support_info:
+      email: thepiratesfate@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwp6Oz2O4CcqWV3gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 115
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198056284799'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '58239570'
+    review: A fun little comic that gives the events just before the game begins.
+      Good art.
+    steam_purchase: true
+    timestamp_created: 1574874535
+    timestamp_updated: 1574924262
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

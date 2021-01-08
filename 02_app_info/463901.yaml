@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: "New to Force of Elements?  Purchase our \u201CNew Player bundle\u201D\
+      \ to receive 1500 Shards, all 5 Basic Auras, and Berserker Aura!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/463901/page_bg_generated_v6b.jpg?t=1463528593
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "New to Force of Elements?  Purchase our \u201CNew Player\
+      \ bundle\u201D to receive 1500 Shards, all 5 Basic Auras, and Berserker Aura!"
+    developers:
+    - Wicked Fun, Inc.
+    fullgame:
+      appid: '368980'
+      name: Force of Elements
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/463901/header.jpg?t=1463528593
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: New Player Bundle
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: New Player Bundle - $9.99
+        packageid: 101603
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy New Player Bundle
+    packages:
+    - 101603
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 17, 2016
+    required_age: 0
+    reviews: "\u201CI've found the perfect online game for me!\u201D<br><a href=\"\
+      http://kotaku.com/ive-found-the-perfect-competitive-online-game-for-me-1750365762\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >Kotaku</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/463901/ss_d5c6f245daf5e2acbbbca7d7f6b810b0ca969eae.1920x1080.jpg?t=1463528593
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/463901/ss_d5c6f245daf5e2acbbbca7d7f6b810b0ca969eae.600x338.jpg?t=1463528593
+    short_description: New Player Bundle
+    steam_appid: 463901
+    support_info:
+      email: devin@wickedfun.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://wickedfun.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

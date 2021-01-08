@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '640460'
+      name: Dream Festival
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/640460/header.jpg?t=1552581729
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Dream Festival: The New Face That Plays Our Bonds!!'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Dream Festival: The New Face That Plays Our Bonds!! - $1.99'
+        packageid: 178586
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Dream Festival: The New Face That Plays Our Bonds!!'
+    packages:
+    - 178586
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 4, 2017
+    required_age: 0
+    short_description: Kanade Amamiya, a normal high school student, suddenly gets
+      scouted by the legendary idol, Hayato Mikami. Kanade was going to decline the
+      offer to become an idol, but then he finds himself going at it with the rookie
+      class idol, Junya Sasaki.
+    steam_appid: 642120
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwxNOZh90CdZvlfg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1499185188
+      num_games_owned: 4623
+      num_reviews: 89
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198018473339'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '33237429'
+    review: 'Totally no homo
+
+      100% guy''s things'
+    steam_purchase: true
+    timestamp_created: 1499185192
+    timestamp_updated: 1499185192
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - 2K Boston
+    - 2K Australia
+    fullgame:
+      appid: '7670'
+      name: "BioShock\u2122"
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/7710/header.jpg?t=1447351134
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 96
+    name: BioShock Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum: </strong>Operating System: Windows XP (with Service\
+        \ Pack 2) or Windows Vista, CPU: Intel single-core Pentium 4 processor at\
+        \ 2.4GHz, System RAM: 1 GB, Video Card: Direct X 9.0c compliant video card\
+        \ with 128MB RAM and Pixel Shader 3.0 (NVIDIA 6600 or better/ATI X1300 or\
+        \ better, excluding ATI X1550), Sound Card: 100% direct X 9.0c compatible\
+        \ sound card, 8GB of free hard drive space.</p>\n\t\t\t\t\t<p><strong>Recommended:\
+        \ </strong>CPU: Intel Core 2 Duo processor; System RAM: 2GB; Video Card: DX\
+        \ 9 - Direct X 9.0c compliant video card with 512 MB RAM and Pixel Shader\
+        \ 3.0 (NVIDIA GeForce 7900 GT or better), DX 10 - NVIDIA GeForce 8600 or better;\
+        \ Sound Card: SoundBlaster(r) X-Fi(tm) series (optimized foruse with Creative\
+        \ Labs EAX ADVANCED HD 4.0 or EAX ADVANCED HD 5.0 compatible sound cards);</p>\n\
+        \t\t\t\t\t<p>Game requires Internet connection for activation</p>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - 2K Games
+    release_date:
+      coming_soon: false
+      date: Aug 20, 2007
+    required_age: 0
+    short_description: ''
+    steam_appid: 7710
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, Italian, Spanish - Spain
+    type: demo
+    website: http://www.BioShockGame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

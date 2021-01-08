@@ -1,0 +1,160 @@
+details:
+  data:
+    about_the_game: "Includes the Borderless Fullscreen feature, which allows you\
+      \ to force some programs and games which normally would not support a borderless\
+      \ full screen mode to become borderless full screen.  This feature is also available\
+      \ as a selection in Free Select package.<br>This product is available natively\
+      \ in English, but it has automated translations for most major languages.<br>Contents:\
+      \ Borderless Fullscreen (\u21F1\u21F2)<h2 class=\"bb_tag\">Borderless Fullscreen\
+      \ (\u21F1\u21F2)</h2>Attempts to make the current window into a borderless full\
+      \ screen window.<br><ul class=\"bb_ul\"><li>Warning: May cause graphical glitches\
+      \ and potentially even functionality glitches on some programs.  You should\
+      \ save work before trying this for the first time on an app.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Borderless Full Screen Interaction Tweak (Default: True)<br>Some\
+      \ programs try to get smart and do things when they detect they are in borderless\
+      \ full screen mode.  In my experiences, these things are usually detrimental.\
+      \  This tweak will set the pixels off by one, which can avoid this in the cases\
+      \ I saw.  If the programs you are using behave fine without this tweak, maybe\
+      \ keep it off to get a bit closer to pixel perfection.<br></li><li>Borderless\
+      \ Full Screen Full Window Fix (Default: False)<br>When enabled, borderless full\
+      \ screen will not attempt to remove the borders, but instead will try size the\
+      \ program in such a way that the borders would be outside of your screen.  Some\
+      \ programs try to fight the normal mode, but will work with this enabled.<br></li><li>Borderless\
+      \ Full Screen Span All Screens (Default: False)<br>Span all screens when using\
+      \ the borderless full screen feature.<br></li><li>Borderless Full Screen Horizontal\
+      \ Overscan (Default: 1)<br>When switching to borderless full screen, attempt\
+      \ to overscan/underscan horizontally by this ratio.  Some programs may resist\
+      \ overscan, but underscan should work more often.<br></li><li>Borderless Full\
+      \ Screen Vertical Overscan (Default: 1)<br>When switching to borderless full\
+      \ screen, attempt to overscan/underscan vertically by this ratio.  Some programs\
+      \ may resist overscan, but underscan should work more often.<br></li><li>Borderless\
+      \ Full Screen Lock (Default: True)<br>When enabled, programs that have been\
+      \ set to borderless full screen will automatically reset to full screen if changed.\
+      \  This is helpful for some applications which change their sizes and positions\
+      \ for strange reasons.  You will need to toggle the borderless full screen off\
+      \ for it to unlock.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1264110/page_bg_generated_v6b.jpg?t=1606274892
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Includes the Borderless Fullscreen feature, which allows\
+      \ you to force some programs and games which normally would not support a borderless\
+      \ full screen mode to become borderless full screen.  This feature is also available\
+      \ as a selection in Free Select package.<br>This product is available natively\
+      \ in English, but it has automated translations for most major languages.<br>Contents:\
+      \ Borderless Fullscreen (\u21F1\u21F2)<h2 class=\"bb_tag\">Borderless Fullscreen\
+      \ (\u21F1\u21F2)</h2>Attempts to make the current window into a borderless full\
+      \ screen window.<br><ul class=\"bb_ul\"><li>Warning: May cause graphical glitches\
+      \ and potentially even functionality glitches on some programs.  You should\
+      \ save work before trying this for the first time on an app.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Borderless Full Screen Interaction Tweak (Default: True)<br>Some\
+      \ programs try to get smart and do things when they detect they are in borderless\
+      \ full screen mode.  In my experiences, these things are usually detrimental.\
+      \  This tweak will set the pixels off by one, which can avoid this in the cases\
+      \ I saw.  If the programs you are using behave fine without this tweak, maybe\
+      \ keep it off to get a bit closer to pixel perfection.<br></li><li>Borderless\
+      \ Full Screen Full Window Fix (Default: False)<br>When enabled, borderless full\
+      \ screen will not attempt to remove the borders, but instead will try size the\
+      \ program in such a way that the borders would be outside of your screen.  Some\
+      \ programs try to fight the normal mode, but will work with this enabled.<br></li><li>Borderless\
+      \ Full Screen Span All Screens (Default: False)<br>Span all screens when using\
+      \ the borderless full screen feature.<br></li><li>Borderless Full Screen Horizontal\
+      \ Overscan (Default: 1)<br>When switching to borderless full screen, attempt\
+      \ to overscan/underscan horizontally by this ratio.  Some programs may resist\
+      \ overscan, but underscan should work more often.<br></li><li>Borderless Full\
+      \ Screen Vertical Overscan (Default: 1)<br>When switching to borderless full\
+      \ screen, attempt to overscan/underscan vertically by this ratio.  Some programs\
+      \ may resist overscan, but underscan should work more often.<br></li><li>Borderless\
+      \ Full Screen Lock (Default: True)<br>When enabled, programs that have been\
+      \ set to borderless full screen will automatically reset to full screen if changed.\
+      \  This is helpful for some applications which change their sizes and positions\
+      \ for strange reasons.  You will need to toggle the borderless full screen off\
+      \ for it to unlock.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1264110/header.jpg?t=1606274892
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Borderless Fullscreen
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Borderless Fullscreen - $1.99
+        packageid: 439568
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Simplode Suite - Borderless Fullscreen
+    packages:
+    - 439568
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1264110/ss_c9791ca5e517420937ebfa5eb166b8198c2daa7f.1920x1080.jpg?t=1606274892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1264110/ss_c9791ca5e517420937ebfa5eb166b8198c2daa7f.600x338.jpg?t=1606274892
+    short_description: Includes the Borderless Fullscreen feature, which allows you
+      to force some programs and games which normally would not support a borderless
+      full screen mode to become borderless full screen. This feature is also available
+      as a selection in Free Select package.
+    steam_appid: 1264110
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-borderless-fullscreen
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

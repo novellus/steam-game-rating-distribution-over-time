@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: Fielding Shredder's iconic red Nissan S14 from the TV show Hyper-drive!<br>Add
+      this car to your garage and slide it in both online events and all practice
+      modes.<br><br><strong>Note:</strong> This car is pre-built which means it cannot
+      be extensively tuned or customised.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1414131/page_bg_generated_v6b.jpg?t=1599199541
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Fielding Shredder's iconic red Nissan S14 from the TV show
+      Hyper-drive!<br>Add this car to your garage and slide it in both online events
+      and all practice modes.<br><br><strong>Note:</strong> This car is pre-built
+      which means it cannot be extensively tuned or customised.
+    developers:
+    - Grease Monkey Games
+    fullgame:
+      appid: '1029550'
+      name: Torque Drift
+    genres:
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1414131/header.jpg?t=1599199541
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Torque Drift - Fielding Shredder Driver Car
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Torque Drift - Fielding Shredder Driver Car - $7.99
+        packageid: 496279
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy Torque Drift - Fielding Shredder Driver Car
+    packages:
+    - 496279
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 10<br></li><li><strong>Processor:</strong> Intel Core i5-9400F
+        or AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        2GB (GeForce GTX 970 / amd RX 5500 XT)<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Grease Monkey Games
+    release_date:
+      coming_soon: false
+      date: Sep 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414131/ss_cc19f0bc7495debd06bf9e3fc54b7223b2c6949a.1920x1080.jpg?t=1599199541
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414131/ss_cc19f0bc7495debd06bf9e3fc54b7223b2c6949a.600x338.jpg?t=1599199541
+    short_description: Fielding Shredder's iconic red Nissan S14 from the TV show
+      Hyper-drive! Add this car to your garage and slide it in both online events
+      and all practice modes.
+    steam_appid: 1414131
+    support_info:
+      email: Support@GreaseMonkeyGames.com
+      url: ''
+    supported_languages: English, French, German, Spanish - Spain, Japanese, Korean,
+      Portuguese - Brazil, Russian, Simplified Chinese, Turkish
+    type: dlc
+    website: https://www.TorqueDrift.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

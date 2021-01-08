@@ -1,0 +1,146 @@
+details:
+  data:
+    about_the_game: "Curing Covid is a falling block puzzle game. Match 4 colors in\
+      \ a row to clear blocks. Clear all virus blocks to win the stage and progress\
+      \ through all 20 levels. The title menu features a level select and every stage\
+      \ features a reset button in case all hope is lost. Stacking blocks to high\
+      \ causes you to lose the stage and have to start over.<br />\r\n<br />\r\nInspired\
+      \ by retro games of the same genre. Curing Covid started as a solo project for\
+      \ an indie game jam with the theme &quot;Quarantine&quot; and slowly morphed\
+      \ into a 20 stage block puzzle game with an original dubstep theme song and\
+      \ virus sprites."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1290550/page_bg_generated_v6b.jpg?t=1590483002
+    categories:
+    - description: "\u5355\u4EBA"
+      id: 2
+    - description: "\u5B8C\u5168\u652F\u6301\u63A7\u5236\u5668"
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Curing Covid is a falling block puzzle game. Match 4 colors\
+      \ in a row to clear blocks. Clear all virus blocks to win the stage and progress\
+      \ through all 20 levels. The title menu features a level select and every stage\
+      \ features a reset button in case all hope is lost. Stacking blocks to high\
+      \ causes you to lose the stage and have to start over.<br />\r\n<br />\r\nInspired\
+      \ by retro games of the same genre. Curing Covid started as a solo project for\
+      \ an indie game jam with the theme &quot;Quarantine&quot; and slowly morphed\
+      \ into a 20 stage block puzzle game with an original dubstep theme song and\
+      \ virus sprites."
+    developers:
+    - SteelySam
+    genres:
+    - description: "\u4F11\u95F2"
+      id: '4'
+    - description: "\u72EC\u7ACB"
+      id: '23'
+    - description: "\u7B56\u7565"
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1290550/header.jpg?t=1590483002
+    is_free: false
+    linux_requirements:
+      minimum: "<strong>\u6700\u4F4E\u914D\u7F6E:</strong><br><ul class=\"bb_ul\"\
+        ><li><strong>\u64CD\u4F5C\u7CFB\u7EDF:</strong> Ubuntu 16.04, Ubuntu 18.04,\
+        \ and CentOS 7<br></li><li><strong>\u5904\u7406\u5668:</strong> X64 architecture\
+        \ with SSE2 instruction set support<br></li><li><strong>\u663E\u5361:</strong>\
+        \ OpenGL 3.2+ or Vulkan-capable, Nvidia and AMD GPUs.</li></ul>"
+    mac_requirements:
+      minimum: "<strong>\u6700\u4F4E\u914D\u7F6E:</strong><br><ul class=\"bb_ul\"\
+        ><li><strong>\u64CD\u4F5C\u7CFB\u7EDF:</strong> Sierra 10.12.6+<br></li><li><strong>\u5904\
+        \u7406\u5668:</strong> X64 architecture with SSE2 instruction set support<br></li><li><strong>\u663E\
+        \u5361:</strong> Metal-capable Intel and AMD GPUs</li></ul>"
+    movies:
+    - highlight: true
+      id: 256781426
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256781426/movie480.mp4?t=1589285125
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256781426/movie_max.mp4?t=1589285125
+      name: Curing Covid Gameplay Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256781426/movie.293x165.jpg?t=1589285125
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256781426/movie480_vp9.webm?t=1589285125
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256781426/movie_max_vp9.webm?t=1589285125
+    name: Curing Covid
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: "\u9009\u62E9\u4E00\u4E2A\u8D2D\u4E70\u9009\u9879"
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Curing Covid - HK$ 28.00
+        packageid: 450144
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2800
+      title: "\u8D2D\u4E70 Curing Covid"
+    packages:
+    - 450144
+    pc_requirements:
+      minimum: "<strong>\u6700\u4F4E\u914D\u7F6E:</strong><br><ul class=\"bb_ul\"\
+        ><li><strong>\u64CD\u4F5C\u7CFB\u7EDF:</strong> Windows 7 (SP1+) and Windows\
+        \ 10<br></li><li><strong>\u5904\u7406\u5668:</strong> X64 architecture with\
+        \ SSE2 instruction set support<br></li><li><strong>\u5185\u5B58:</strong>\
+        \ 2 GB RAM<br></li><li><strong>\u663E\u5361:</strong> DX10, DX11, and DX12-capable\
+        \ GPUs<br></li><li><strong>\u5B58\u50A8\u7A7A\u95F4:</strong> \u9700\u8981\
+        \ 500 MB \u53EF\u7528\u7A7A\u95F4</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: HKD
+      discount_percent: 0
+      final: 2800
+      final_formatted: HK$ 28.00
+      initial: 2800
+      initial_formatted: ''
+    publishers:
+    - SteelySam
+    release_date:
+      coming_soon: false
+      date: "2020\u5E745\u670826\u65E5"
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_0be7fee53021eba10dc5a7ad6098b1e8a7321cc8.1920x1080.jpg?t=1590483002
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_0be7fee53021eba10dc5a7ad6098b1e8a7321cc8.600x338.jpg?t=1590483002
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_3683143b453eff9a225aa23330c7ac8dc824c419.1920x1080.jpg?t=1590483002
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_3683143b453eff9a225aa23330c7ac8dc824c419.600x338.jpg?t=1590483002
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_fa991fd3baa880e32fb8e53f71a5d1b53ebe3543.1920x1080.jpg?t=1590483002
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_fa991fd3baa880e32fb8e53f71a5d1b53ebe3543.600x338.jpg?t=1590483002
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_96e5bb94005cbc5a9e6278a964449d86d5243223.1920x1080.jpg?t=1590483002
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_96e5bb94005cbc5a9e6278a964449d86d5243223.600x338.jpg?t=1590483002
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_defa8478158c9c36f9675382cd787fdc1f3209d2.1920x1080.jpg?t=1590483002
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290550/ss_defa8478158c9c36f9675382cd787fdc1f3209d2.600x338.jpg?t=1590483002
+    short_description: Eliminate all viruses by dropping colored vitamins in this
+      20 level block puzzle game with a Covid-19 theme.
+    steam_appid: 1290550
+    support_info:
+      email: ''
+      url: https://twitter.com/steelysam
+    supported_languages: "\u82F1\u8BED<strong>*</strong><br><strong>*</strong>\u5177\
+      \u6709\u5B8C\u5168\u97F3\u9891\u652F\u6301\u7684\u8BED\u8A00"
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

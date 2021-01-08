@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: <strong>Das Geisterschiff Original Soundtrack</strong> contains
+      24 tracks and offers over an hour of atmospheric electronic music composed by
+      Romanus Surt.<br><br>Available in both MP3 and FLAC (lossless 24bit) formats.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/975260/page_bg_generated_v6b.jpg?t=1583891040
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>Das Geisterschiff Original Soundtrack</strong> contains
+      24 tracks and offers over an hour of atmospheric electronic music composed by
+      Romanus Surt.<br><br>Available in both MP3 and FLAC (lossless 24bit) formats.
+    developers:
+    - Graverobber Foundation
+    fullgame:
+      appid: '975230'
+      name: Das Geisterschiff / The Ghost Ship
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/975260/header.jpg?t=1583891040
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    name: Das Geisterschiff Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Das Geisterschiff Original Soundtrack - $4.99
+        packageid: 320109
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Das Geisterschiff Original Soundtrack
+    packages:
+    - 320109
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        N/A<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Storage
+        (high-quality audio):</strong> Additional 800 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Graverobber Foundation
+    release_date:
+      coming_soon: false
+      date: Nov 26, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/975260/ss_fbcd16733784d2821293958e918345544911d288.1920x1080.jpg?t=1583891040
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/975260/ss_fbcd16733784d2821293958e918345544911d288.600x338.jpg?t=1583891040
+    short_description: Music from Das Geisterschiff.
+    steam_appid: 975260
+    support_info:
+      email: surt.romanus@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

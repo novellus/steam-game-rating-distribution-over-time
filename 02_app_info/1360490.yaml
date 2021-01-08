@@ -1,0 +1,158 @@
+details:
+  data:
+    about_the_game: "A Puzzle Action Game Based On Green.<br />\r\nThe player changes\
+      \ in three steps depending on the proportion of the stage reflected in the camera,\
+      \ and the size and jumping power change with the change.<br />\r\nAlso, some\
+      \ blocks appear when the stage is shown, and some blocks appear when a specific\
+      \ block is shown.<br />\r\nLet's guide the player to the goal by considering\
+      \ where to project on the stage considering these gimmicks.(Google Translation)"
+    achievements:
+      highlighted:
+      - name: Open_Game
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/9db10359dcd62a84555c555ef7609b646562583d.jpg
+      - name: Clear_Stage1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/2852b42d842bff085d9fd3ff32bc9d6c5ba93ca2.jpg
+      - name: Clear_Stage2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/66506f02cd071082cc5fe0f300c3b7f51dcd60e3.jpg
+      - name: Clear_Stage3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/f46ead1a8e022f06e2c55c6861d3b60fc8947fa5.jpg
+      - name: Clear_Stage4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/2ef3ba31416cf9e23e4210909eaa9387894ed1fc.jpg
+      - name: Clear_Stage5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/69225116b065cd05dfcaed4b3c0dd960a3184236.jpg
+      - name: Clear_Stage6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/791a1f964620f01101930eaf2323b06211cb9b5e.jpg
+      - name: Clear_Stage7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/6d56b21a13f474729135ad3676c1670f8b4d34e7.jpg
+      - name: Clear_Stage8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/2867409da5221e086b069e0775f59b1146d93248.jpg
+      - name: Clear_Stage9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1360490/4652af2615513868526adc0babba2f0b7bd58568.jpg
+      total: 32
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1360490/page_bg_generated_v6b.jpg?t=1601939833
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "A Puzzle Action Game Based On Green.<br />\r\nThe player\
+      \ changes in three steps depending on the proportion of the stage reflected\
+      \ in the camera, and the size and jumping power change with the change.<br />\r\
+      \nAlso, some blocks appear when the stage is shown, and some blocks appear when\
+      \ a specific block is shown.<br />\r\nLet's guide the player to the goal by\
+      \ considering where to project on the stage considering these gimmicks.(Google\
+      \ Translation)"
+    developers:
+    - RootSerious
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1360490/header.jpg?t=1601939833
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256797757
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797757/movie480.mp4?t=1599752194
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797757/movie_max.mp4?t=1599752194
+      name: PECO
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256797757/movie.293x165.jpg?t=1599752194
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797757/movie480_vp9.webm?t=1599752194
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797757/movie_max_vp9.webm?t=1599752194
+    name: PECO
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: PECO - <span class="discount_original_price">$2.99</span> $1.49
+        packageid: 477000
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 149
+      title: Buy PECO
+    packages:
+    - 477000
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows 7<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>DirectX:</strong>
+        Version 11</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 149
+      final_formatted: $1.49
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - RootSerious
+    release_date:
+      coming_soon: false
+      date: Oct 4, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_b25f730bd668e96209a32a91bb8c325742161eab.1920x1080.jpg?t=1601939833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_b25f730bd668e96209a32a91bb8c325742161eab.600x338.jpg?t=1601939833
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_7dcbbfbf24fcaec6b9af76a5558782affd00a2a7.1920x1080.jpg?t=1601939833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_7dcbbfbf24fcaec6b9af76a5558782affd00a2a7.600x338.jpg?t=1601939833
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_3f33acc00f8b512375dcc146dbb4cafe52e40bab.1920x1080.jpg?t=1601939833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_3f33acc00f8b512375dcc146dbb4cafe52e40bab.600x338.jpg?t=1601939833
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_a3f4b2da2e0e0cc25048ea351a01df9a8c5ad5a0.1920x1080.jpg?t=1601939833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_a3f4b2da2e0e0cc25048ea351a01df9a8c5ad5a0.600x338.jpg?t=1601939833
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_ea70953ad6117bcb81cedb4365bdf0ecdd0bdb39.1920x1080.jpg?t=1601939833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_ea70953ad6117bcb81cedb4365bdf0ecdd0bdb39.600x338.jpg?t=1601939833
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_e8a58cb53b0077cf527da9a4cc3cdc88daae14ce.1920x1080.jpg?t=1601939833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_e8a58cb53b0077cf527da9a4cc3cdc88daae14ce.600x338.jpg?t=1601939833
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_401b4b3f009aab72cef0b9c13e6013bac7bfcb7b.1920x1080.jpg?t=1601939833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360490/ss_401b4b3f009aab72cef0b9c13e6013bac7bfcb7b.600x338.jpg?t=1601939833
+    short_description: An action-puzzle game that guides the player to the goal by
+      considering where the stage is projected with the camera.
+    steam_appid: 1360490
+    support_info:
+      email: RootSeriousTeam@gmail.com
+      url: ''
+    supported_languages: Japanese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

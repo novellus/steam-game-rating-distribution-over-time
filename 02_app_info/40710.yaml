@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Amanita Design
+    fullgame:
+      appid: '40700'
+      name: Machinarium
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/40710/header.jpg?t=1526889498
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 85
+    name: Machinarium Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Amanita Design
+    release_date:
+      coming_soon: false
+      date: Oct 5, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 40710
+    support_info:
+      email: support@amanita-design.net
+      url: ''
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech<strong>*</strong>,
+      Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>,
+      Portuguese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>,
+      Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

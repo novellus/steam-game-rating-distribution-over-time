@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: "This is the project reset soundtrack.<br />\r\nTracks included<br\
+      \ />\r\n1. Main theme - mp4<br />\r\n2. AREYOUTHERE - mp4<br />\r\nTo access\
+      \ the music, go into the game's files and find the music.zip file and extract\
+      \ it."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/914520/page_bg_generated_v6b.jpg?t=1545265668
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is the project reset soundtrack.<br />\r\nTracks included<br\
+      \ />\r\n1. Main theme - mp4<br />\r\n2. AREYOUTHERE - mp4<br />\r\nTo access\
+      \ the music, go into the game's files and find the music.zip file and extract\
+      \ it."
+    fullgame:
+      appid: '914510'
+      name: Project Reset
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/914520/header.jpg?t=1545265668
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> any</li></ul>
+    name: Project Reset - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Project Reset - Soundtrack - $0.99
+        packageid: 293466
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Project Reset - Soundtrack
+    packages:
+    - 293466
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 19, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/914520/ss_7d46f0215068ee610fafade147b8060c82aa63f1.1920x1080.jpg?t=1545265668
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/914520/ss_7d46f0215068ee610fafade147b8060c82aa63f1.600x338.jpg?t=1545265668
+    short_description: This is the project reset soundtrack, the soundtrack comes
+      with the main theme.
+    steam_appid: 914520
+    support_info:
+      email: questions@teamreset.net
+      url: https://www.teamreset.net
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

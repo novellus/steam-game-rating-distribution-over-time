@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: The Close to the Sun artbook in wonderful PDF format.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1293591/page_bg_generated_v6b.jpg?t=1588687697
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 5
+      notes: Some instances of blood and horror content
+    detailed_description: The Close to the Sun artbook in wonderful PDF format.
+    developers:
+    - Storm in a Teacup
+    fullgame:
+      appid: '968870'
+      name: Close to the Sun
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1293591/header.jpg?t=1588687697
+    is_free: false
+    legal_notice: "\xA9 2020 Storm in a Teacup S.R.L. Developed by Storm in a Teacup\
+      \ S.R.L and published by Wired Productions Ltd. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Close to the Sun Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Close to the Sun Artbook - <span class="discount_original_price">$4.99</span>
+          $2.49
+        packageid: 451262
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 249
+      title: Buy Close to the Sun Artbook
+    packages:
+    - 451262
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF viewer</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 249
+      final_formatted: $2.49
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Wired Productions
+    release_date:
+      coming_soon: false
+      date: May 5, 2020
+    required_age: '18'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1293591/ss_88961523c7fd580fe735ad1d6328f292b9dd1f7e.1920x1080.jpg?t=1588687697
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1293591/ss_88961523c7fd580fe735ad1d6328f292b9dd1f7e.600x338.jpg?t=1588687697
+    short_description: The Close to the Sun artbook in wonderful PDF format.
+    steam_appid: 1293591
+    support_info:
+      email: support@wiredproductions.com
+      url: http://www.wiredproductions.com/contact
+    supported_languages: English
+    type: dlc
+    website: http://www.closetothesungame.com/
+  success: true
+reviews:
+  cursor: AoJwouHn2fICf/GCjgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 759
+      num_reviews: 1788
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198036176076'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '70784799'
+    review: "\u041E\u0445\u0444\u0438\u0433\u0435\u043D\u043D\u044B\u0439 \u0430\u0440\
+      \u0442\u0431\u0443\u043A."
+    steam_purchase: true
+    timestamp_created: 1592151444
+    timestamp_updated: 1592151444
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

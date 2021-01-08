@@ -1,0 +1,179 @@
+details:
+  data:
+    about_the_game: "Easily reduce the atlas sizes in your games! Optimize large images\
+      \ for your UI by creating sliced versions.<br />\r\n<br />\r\n1. Mock up your\
+      \ UI in your image editing program (such as Photoshop).<br />\r\n2. Export each\
+      \ full-sized UI element from your image editing program as png files.<br />\r\
+      \n3. Load the full sized UI element png into Nine-Slicer.<br />\r\n4. Define\
+      \ your slicing margins.<br />\r\n5. Preview the results side-by-side with the\
+      \ original.<br />\r\n6. Export the optimized image, along with a text file to\
+      \ remember the margins that were used.<br />\r\n7. Use the optimized exported\
+      \ image in an app that supports nine-sliced images.<br />\r\n<br />\r\nNine-sliced\
+      \ images can be used in various game engines, including Unity.<br />\r\nNo more\
+      \ labor-intensive manual slicing work in Photoshop.<br />\r\nSpend seconds on\
+      \ what would take several minutes to do manually, on each UI image. The saved\
+      \ time adds up!<br />\r\n<br />\r\nTo see a full demonstration video, click\
+      \ the &quot;View the manual&quot; link on the right."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/839180/page_bg_generated_v6b.jpg?t=1566486547
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Easily reduce the atlas sizes in your games! Optimize large\
+      \ images for your UI by creating sliced versions.<br />\r\n<br />\r\n1. Mock\
+      \ up your UI in your image editing program (such as Photoshop).<br />\r\n2.\
+      \ Export each full-sized UI element from your image editing program as png files.<br\
+      \ />\r\n3. Load the full sized UI element png into Nine-Slicer.<br />\r\n4.\
+      \ Define your slicing margins.<br />\r\n5. Preview the results side-by-side\
+      \ with the original.<br />\r\n6. Export the optimized image, along with a text\
+      \ file to remember the margins that were used.<br />\r\n7. Use the optimized\
+      \ exported image in an app that supports nine-sliced images.<br />\r\n<br />\r\
+      \nNine-sliced images can be used in various game engines, including Unity.<br\
+      \ />\r\nNo more labor-intensive manual slicing work in Photoshop.<br />\r\n\
+      Spend seconds on what would take several minutes to do manually, on each UI\
+      \ image. The saved time adds up!<br />\r\n<br />\r\nTo see a full demonstration\
+      \ video, click the &quot;View the manual&quot; link on the right."
+    developers:
+    - Gilligames
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Design & Illustration
+      id: '53'
+    - description: Utilities
+      id: '57'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/839180/header.jpg?t=1566486547
+    is_free: false
+    legal_notice: Copyright 2019 Gilligames
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: false
+      id: 256757416
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757416/movie480.mp4?t=1565287511
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757416/movie_max.mp4?t=1565287511
+      name: UI Workflow Demo
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256757416/movie.293x165.jpg?t=1565287511
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757416/movie480.webm?t=1565287511
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757416/movie_max.webm?t=1565287511
+    name: Nine-Slicer
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Nine-Slicer - $9.99
+        packageid: 261885
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Nine-Slicer
+    packages:
+    - 261885
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Gilligames
+    release_date:
+      coming_soon: false
+      date: Aug 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_1c3e75fb758ec6a8679f6a4f70f5a59efb51f7ec.1920x1080.jpg?t=1566486547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_1c3e75fb758ec6a8679f6a4f70f5a59efb51f7ec.600x338.jpg?t=1566486547
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_a35a4b1f06659401218603ae4d43807aeb6be191.1920x1080.jpg?t=1566486547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_a35a4b1f06659401218603ae4d43807aeb6be191.600x338.jpg?t=1566486547
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_723c682d16a7c3eb5caaded3506fc376ddea19a0.1920x1080.jpg?t=1566486547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_723c682d16a7c3eb5caaded3506fc376ddea19a0.600x338.jpg?t=1566486547
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_56009ab75fd4dd225b5fb03426e5d5b8ce2bb95a.1920x1080.jpg?t=1566486547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_56009ab75fd4dd225b5fb03426e5d5b8ce2bb95a.600x338.jpg?t=1566486547
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_9ecd3353f4b80468bf59f09519ccf547d3a50472.1920x1080.jpg?t=1566486547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_9ecd3353f4b80468bf59f09519ccf547d3a50472.600x338.jpg?t=1566486547
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_46e0471ca5374c235e77c7df696781f6dab158f5.1920x1080.jpg?t=1566486547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/839180/ss_46e0471ca5374c235e77c7df696781f6dab158f5.600x338.jpg?t=1566486547
+    short_description: Reduce your atlas sizes! Optimize large images for your UI
+      by creating sliced versions. Nine-sliced images can be used in various game
+      engines, including Unity. No more labor-intensive manual slicing work in Photoshop.
+      Spend seconds on what would take several minutes to do manually.
+    steam_appid: 839180
+    support_info:
+      email: ''
+      url: https://www.facebook.com/gilligames/
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4+Z+IuPECfeOlgAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1586729498
+      num_games_owned: 145
+      num_reviews: 19
+      playtime_at_review: 300
+      playtime_forever: 349
+      playtime_last_two_weeks: 0
+      steamid: '76561198032667199'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '67186237'
+    review: 'greate tool, works fine
+
+      thanks!'
+    steam_purchase: true
+    timestamp_created: 1586724143
+    timestamp_updated: 1586724143
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

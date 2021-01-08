@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: "This DLC contains a short fun quiz game in the Kokorogawari world!<br\
+      \ />\r\n<br />\r\nHave a fun time challenging yourself with trivia about Kokorogawari\
+      \ and its developer team!<br />\r\n<br />\r\nBeat the quiz and get rewarded\
+      \ with some of our early dev knickknacks such as how Kokorogawari looked like\
+      \ before it was refined and some insider jokes in the developer team!<br />\r\
+      \n<br />\r\nWell then, have fun! ;)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/934960/page_bg_generated_v6b.jpg?t=1538570305
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC contains a short fun quiz game in the Kokorogawari\
+      \ world!<br />\r\n<br />\r\nHave a fun time challenging yourself with trivia\
+      \ about Kokorogawari and its developer team!<br />\r\n<br />\r\nBeat the quiz\
+      \ and get rewarded with some of our early dev knickknacks such as how Kokorogawari\
+      \ looked like before it was refined and some insider jokes in the developer\
+      \ team!<br />\r\n<br />\r\nWell then, have fun! ;)"
+    developers:
+    - Precatio
+    fullgame:
+      appid: '895820'
+      name: Kokorogawari
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/934960/header.jpg?t=1538570305
+    is_free: false
+    legal_notice: All graphics, music and story are copyrighted by Precatio.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux Ubuntu 12.04 or SteamOS 2.20<br></li><li><strong>Memory:</strong> 512
+        MB RAM</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.4<br></li><li><strong>Processor:</strong> 1Ghz<br></li><li><strong>Memory:</strong>
+        512 MB RAM</li></ul>
+    name: Kokorogawari Mini Quiz Game
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Kokorogawari Mini Quiz Game - $4.99
+        packageid: 303305
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Kokorogawari Mini Quiz Game
+    packages:
+    - 303305
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1Ghz<br></li><li><strong>Memory:</strong>
+        512 MB RAM</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Precatio
+    release_date:
+      coming_soon: false
+      date: Oct 1, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_1caeebf1414ce62e932d09ad2ae62146fc8bab9c.1920x1080.jpg?t=1538570305
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_1caeebf1414ce62e932d09ad2ae62146fc8bab9c.600x338.jpg?t=1538570305
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_3dd38db11002bb287e959c6ee7171344dca967e4.1920x1080.jpg?t=1538570305
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_3dd38db11002bb287e959c6ee7171344dca967e4.600x338.jpg?t=1538570305
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_fd39f94649480617b7d905f65c95f015fb9cae82.1920x1080.jpg?t=1538570305
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_fd39f94649480617b7d905f65c95f015fb9cae82.600x338.jpg?t=1538570305
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_7ec75485cf3517fb5c17c3e09263afd48828eafa.1920x1080.jpg?t=1538570305
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934960/ss_7ec75485cf3517fb5c17c3e09263afd48828eafa.600x338.jpg?t=1538570305
+    short_description: Kokorogawari Quiz is a short fun quiz which will reward you
+      with trivia about Kokorogawari and its developer team. Answer the quiz correctly
+      and be rewarded with some pre-created content and jokes by the dev team not
+      shared elsewhere!
+    steam_appid: 934960
+    support_info:
+      email: jyuuguchi@gmail.com
+      url: https://precatio.wordpress.com/helpdesk
+    supported_languages: English
+    type: dlc
+    website: https://precatio.wordpress.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

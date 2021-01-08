@@ -1,0 +1,130 @@
+details:
+  data:
+    about_the_game: "The original soundtrack of Anoxemia contains 10 tracks in MP3\
+      \ and FLAC formats.<h2 class=\"bb_tag\">Tracks</h2><ul class=\"bb_ul\"><li>01\t\
+      \ - Anoxemia\t\t\t2:09<br></li><li>02\t - Is This Autonomous?\t3:16<br></li><li>03\t\
+      \ - Embrace Reality!\t\t1:57<br></li><li>04\t - Since The War\t\t3:19<br></li><li>05\t\
+      \ - I Died Here\t\t\t0:15<br></li><li>06\t - And Then I Died Here\t0:23<br></li><li>07\t\
+      \ - Bigger Inside\t\t\t3:30<br></li><li>08\t - Finale\t\t\t\t3:11<br></li><li>09\t\
+      \ - Credits\t\t\t\t2:09<br></li><li>10 - Anoxemia Trailer\t\t1:31</li></ul><br>Album\
+      \ length 21:40"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/404670/page_bg_generated_v6b.jpg?t=1565020780
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The original soundtrack of Anoxemia contains 10 tracks\
+      \ in MP3 and FLAC formats.<h2 class=\"bb_tag\">Tracks</h2><ul class=\"bb_ul\"\
+      ><li>01\t - Anoxemia\t\t\t2:09<br></li><li>02\t - Is This Autonomous?\t3:16<br></li><li>03\t\
+      \ - Embrace Reality!\t\t1:57<br></li><li>04\t - Since The War\t\t3:19<br></li><li>05\t\
+      \ - I Died Here\t\t\t0:15<br></li><li>06\t - And Then I Died Here\t0:23<br></li><li>07\t\
+      \ - Bigger Inside\t\t\t3:30<br></li><li>08\t - Finale\t\t\t\t3:11<br></li><li>09\t\
+      \ - Credits\t\t\t\t2:09<br></li><li>10 - Anoxemia Trailer\t\t1:31</li></ul><br>Album\
+      \ length 21:40"
+    developers:
+    - BSK Games
+    fullgame:
+      appid: '338050'
+      name: Anoxemia
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/404670/header.jpg?t=1565020780
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    name: Anoxemia - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Anoxemia - Soundtrack - $2.99
+        packageid: 79390
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Anoxemia - Soundtrack
+    packages:
+    - 79390
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 22, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404670/ss_1a131cece4a1a19f19a647a26c4d1b9f05977f12.1920x1080.jpg?t=1565020780
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404670/ss_1a131cece4a1a19f19a647a26c4d1b9f05977f12.600x338.jpg?t=1565020780
+    short_description: Anoxemia soundtrack features all in-game tracks.
+    steam_appid: 404670
+    support_info:
+      email: contact@bskgames.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://anoxemia.net
+  success: true
+reviews:
+  cursor: AoJ4l9SJ+88CeridRQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 129
+      num_reviews: 3
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198001254658'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '18148234'
+    review: Great Soundtrack!
+    steam_purchase: true
+    timestamp_created: 1442943771
+    timestamp_updated: 1442943771
+    voted_up: true
+    votes_funny: 0
+    votes_up: 10
+    weighted_vote_score: '0.616992592811584473'
+    written_during_early_access: false
+  success: 1

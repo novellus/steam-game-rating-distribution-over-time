@@ -1,0 +1,231 @@
+details:
+  data:
+    about_the_game: Your objective is to move to the left or the right while you constantly
+      bouncing and collect the stars that are floating above you. Your goal seems
+      simple at first but in later levels, you meet many different obstacles. One
+      of these obstacles is rotating saws that move and you need to avoid them. You
+      will also meet shooting turrets that fire bullets that you need to dodge. Traverse
+      the levels by jumping on moving platforms, disappearing platforms, platforms
+      that only let you jump on them for specific times. Later on, all these gameplay
+      mechanics will be combined to make the higher levels even more challenging.
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/fd6002caba7cc308af019427d3792980835de46d.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/85147e2ccd508d06111091aa541f0d2758dcc810.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/e3b961af0cc63f89ce5c4ab0e2ac2b0e6e14d6ea.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/20b69d4f9a1b0556d3a3393bb7701723cad63613.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/c4c2ab2c8cb5e127d2411cafe76b5e51d4a6e11f.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/caf48a478ec89234728402307c377442a07d6a40.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/32a532c7d5fbbbc9eff7485caf042c22cfa9cce8.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/ab7465114f77f4eb9d42ddf6c77cc15b12b6a22b.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/890c8031d282b97f4bded32c53b4715153aa659a.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283860/4d5a277493c731ad0bdb91366aa1de18de6d3487.jpg
+      total: 50
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1283860/page_bg_generated_v6b.jpg?t=1609499899
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Your objective is to move to the left or the right while
+      you constantly bouncing and collect the stars that are floating above you. Your
+      goal seems simple at first but in later levels, you meet many different obstacles.
+      One of these obstacles is rotating saws that move and you need to avoid them.
+      You will also meet shooting turrets that fire bullets that you need to dodge.
+      Traverse the levels by jumping on moving platforms, disappearing platforms,
+      platforms that only let you jump on them for specific times. Later on, all these
+      gameplay mechanics will be combined to make the higher levels even more challenging.
+    developers:
+    - NanningsGames
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1283860/header.jpg?t=1609499899
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256779922
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779922/movie480.mp4?t=1586203466
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779922/movie_max.mp4?t=1586203466
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256779922/movie.293x165.jpg?t=1586203466
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779922/movie480.webm?t=1586203466
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779922/movie_max.webm?t=1586203466
+    name: Super Bounce Ball
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Super Bounce Ball - $1.99
+        packageid: 447398
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Super Bounce Ball
+    packages:
+    - 447398
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel(R) Celeron(R)
+        CPU N3450 @ 1.10GHz (cpu 2.2 GHz)<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> Intel(R) HD Graphics (128 MB)<br></li><li><strong>Storage:</strong>
+        110 MB available space<br></li><li><strong>Sound Card:</strong> Intel(R) Display
+        Audio</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - NanningsGames
+    release_date:
+      coming_soon: false
+      date: Apr 20, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_8604ba467c2aca7f7fb25537a3b1c183e763316b.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_8604ba467c2aca7f7fb25537a3b1c183e763316b.600x338.jpg?t=1609499899
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_70a16812e0a359b10d6e6abf132c61f1b1ecf014.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_70a16812e0a359b10d6e6abf132c61f1b1ecf014.600x338.jpg?t=1609499899
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_bfeb121e6ba6532d19b8395afc6eaf38efdc85fa.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_bfeb121e6ba6532d19b8395afc6eaf38efdc85fa.600x338.jpg?t=1609499899
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_fdddf50241756d7b43ad6b61650731d51ce8bec9.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_fdddf50241756d7b43ad6b61650731d51ce8bec9.600x338.jpg?t=1609499899
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_9cc7a8567d1e00868582100277fcc73760289a4b.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_9cc7a8567d1e00868582100277fcc73760289a4b.600x338.jpg?t=1609499899
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_75da44b26c92795f4218aab38afdfcb6e4c45828.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_75da44b26c92795f4218aab38afdfcb6e4c45828.600x338.jpg?t=1609499899
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_957e4b81f7d533ddfc0dd0e84c9c918ea4b54108.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_957e4b81f7d533ddfc0dd0e84c9c918ea4b54108.600x338.jpg?t=1609499899
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_694cd4f967591d9e658d4ba784ea5fd61e992971.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_694cd4f967591d9e658d4ba784ea5fd61e992971.600x338.jpg?t=1609499899
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_6f1b236ad8c3de3a0b67226f90eccb4712476421.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_6f1b236ad8c3de3a0b67226f90eccb4712476421.600x338.jpg?t=1609499899
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_65fe842d50920432eb4775e9f4d7aeb8df15020d.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_65fe842d50920432eb4775e9f4d7aeb8df15020d.600x338.jpg?t=1609499899
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_92a4da6fef3e887764e2687a66b743f56c4332b4.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_92a4da6fef3e887764e2687a66b743f56c4332b4.600x338.jpg?t=1609499899
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_9a90fff7c960f51186f6f57dfb7fbf5dd6083b7e.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_9a90fff7c960f51186f6f57dfb7fbf5dd6083b7e.600x338.jpg?t=1609499899
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_8d2891b67f9589f8feca7e0f8b2d143d7abf4c05.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_8d2891b67f9589f8feca7e0f8b2d143d7abf4c05.600x338.jpg?t=1609499899
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_da08079882dccd324643cabf56663afbbcb4a013.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_da08079882dccd324643cabf56663afbbcb4a013.600x338.jpg?t=1609499899
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_222d42d16c81ba0a635f9d44cac1c1e9f619b311.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_222d42d16c81ba0a635f9d44cac1c1e9f619b311.600x338.jpg?t=1609499899
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_2c26e11d3169f7d991954a6decfcee57e9417133.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_2c26e11d3169f7d991954a6decfcee57e9417133.600x338.jpg?t=1609499899
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_de282528b5d5371d2d2501813ec8119fca905fc2.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_de282528b5d5371d2d2501813ec8119fca905fc2.600x338.jpg?t=1609499899
+    - id: 17
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_dce02b144591619ef6360c5a12060c612e2e76a9.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_dce02b144591619ef6360c5a12060c612e2e76a9.600x338.jpg?t=1609499899
+    - id: 18
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_a4f9af0790aba574e2e2c87d0e66c2e0f3b80bc5.1920x1080.jpg?t=1609499899
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283860/ss_a4f9af0790aba574e2e2c87d0e66c2e0f3b80bc5.600x338.jpg?t=1609499899
+    short_description: Bounce balls and collect star on the platform, easy in early
+      levels, but gets harder. There will be rotating saws that move which you must
+      avoid. Shooting turrets that fire bullets that you need to dodge.
+    steam_appid: 1283860
+    support_info:
+      email: mrnannings@gmail.com
+      url: http://www.nannings.nz
+    supported_languages: English
+    type: game
+    website: http://www.nannings.nz
+  success: true
+reviews:
+  cursor: AoJwmoq6jvYCd4SftgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1606801650
+      num_games_owned: 123
+      num_reviews: 2
+      playtime_at_review: 16
+      playtime_forever: 16
+      playtime_last_two_weeks: 0
+      steamid: '76561198156748670'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81328199'
+    review: "THIS GAME CONTAINS EXTREME EPILEPTIC FLASHING\nEpileptic flashing whenever\
+      \ you die, and no epilepsy warning at the start. I don't even have epilepsy\
+      \ and I want to get through this game but it's making me feel sick enough that\
+      \ I have to stop playing. \n\nAll of the colors' hues on screen rapidly invert\
+      \ when you die.\n\nThis game is a hazard. I got this game in a bundle so I didn't\
+      \ see the trailer on this game's store page that shows that this flashing happens\
+      \ whenever the player dies. I tried closing my eyes whenever the flashing happens,\
+      \ but the colors are bright enough that it shines through eyelids so it didn't\
+      \ help much. \n\nI would report this game, but I want to finish it first. Game\
+      \ Developer, please patch out the flashing ASAP."
+    steam_purchase: true
+    timestamp_created: 1606802756
+    timestamp_updated: 1606802756
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.52173912525177002'
+    written_during_early_access: false
+  success: 1

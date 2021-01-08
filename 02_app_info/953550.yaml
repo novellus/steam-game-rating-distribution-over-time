@@ -1,0 +1,160 @@
+details:
+  data:
+    about_the_game: "Temple Scramble is a fast-paced, asymmetrical two-player game\
+      \ that pits keyboard against mouse. The player at the keyboard controls Indira,\
+      \ an adventurer exploring an ancient temple in search of valuable artifacts.\
+      \ She must run through the temple and collect five pieces of treasure, avoiding\
+      \ deadly traps along the way. The player at the mouse controls Phulax, a guardian\
+      \ spirit protecting the temple's treasure from would-be thieves. He must prevent\
+      \ Indira from leaving the temple with the treasure, by shifting around the floor\
+      \ she walks on, matching three tiles of the same color to create traps for her.<br><br>Test\
+      \ your wits in three different chambers of the Temple:<br><ul class=\"bb_ul\"\
+      ><li><strong>Bridge</strong> \u2013 If Indira doesn't watch her step, Phulax\
+      \ could whisk away the ground beneath her feet, sending her plummeting to the\
+      \ forest below!<br></li><li><strong>Courtyard</strong> \u2013 Huge spikes block\
+      \ Indira's path to the treasure. She must move quickly, or Phulax may use the\
+      \ spikes to destory the treasure- or her!<br></li><li><strong>Crypt</strong>\
+      \ \u2013 This chamber is full of giant boulders, and Phulax is ready to roll!\
+      \ Can Indira dodge all the rolling boulders, or will she be flattened before\
+      \ she can escape?</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/953550/page_bg_generated_v6b.jpg?t=1541808148
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Temple Scramble is a fast-paced, asymmetrical two-player\
+      \ game that pits keyboard against mouse. The player at the keyboard controls\
+      \ Indira, an adventurer exploring an ancient temple in search of valuable artifacts.\
+      \ She must run through the temple and collect five pieces of treasure, avoiding\
+      \ deadly traps along the way. The player at the mouse controls Phulax, a guardian\
+      \ spirit protecting the temple's treasure from would-be thieves. He must prevent\
+      \ Indira from leaving the temple with the treasure, by shifting around the floor\
+      \ she walks on, matching three tiles of the same color to create traps for her.<br><br>Test\
+      \ your wits in three different chambers of the Temple:<br><ul class=\"bb_ul\"\
+      ><li><strong>Bridge</strong> \u2013 If Indira doesn't watch her step, Phulax\
+      \ could whisk away the ground beneath her feet, sending her plummeting to the\
+      \ forest below!<br></li><li><strong>Courtyard</strong> \u2013 Huge spikes block\
+      \ Indira's path to the treasure. She must move quickly, or Phulax may use the\
+      \ spikes to destory the treasure- or her!<br></li><li><strong>Crypt</strong>\
+      \ \u2013 This chamber is full of giant boulders, and Phulax is ready to roll!\
+      \ Can Indira dodge all the rolling boulders, or will she be flattened before\
+      \ she can escape?</li></ul>"
+    developers:
+    - Birdwards
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/953550/header.jpg?t=1541808148
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04<br></li><li><strong>Processor:</strong> 1.5 GHz, single-core<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Additional
+        Notes:</strong> SteamOS not currently supported</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.6<br></li><li><strong>Processor:</strong> 1.5 GHz, single-core<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256733020
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256733020/movie480.mp4?t=1540436682
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256733020/movie_max.mp4?t=1540436682
+      name: Release Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256733020/movie.293x165.jpg?t=1540436682
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256733020/movie480.webm?t=1540436682
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256733020/movie_max.webm?t=1540436682
+    name: Temple Scramble
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Temple Scramble - $4.99
+        packageid: 310891
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Temple Scramble
+    packages:
+    - 310891
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1.5 GHz, single-core<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Birdwards
+    release_date:
+      coming_soon: false
+      date: Nov 9, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_5da00cdd06a13f50450db8321db3754770f52e12.1920x1080.jpg?t=1541808148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_5da00cdd06a13f50450db8321db3754770f52e12.600x338.jpg?t=1541808148
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_170ccf92c5280a13b7b4db596bd33c3d98d563e0.1920x1080.jpg?t=1541808148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_170ccf92c5280a13b7b4db596bd33c3d98d563e0.600x338.jpg?t=1541808148
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_fb1dc92b815b80a27d18134f24b48610bb0109d9.1920x1080.jpg?t=1541808148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_fb1dc92b815b80a27d18134f24b48610bb0109d9.600x338.jpg?t=1541808148
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_5211285a821a84dc7973ff76e7b6a6a97dacd215.1920x1080.jpg?t=1541808148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_5211285a821a84dc7973ff76e7b6a6a97dacd215.600x338.jpg?t=1541808148
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_f7337b5c2a771267eced89e27b5080d98545e057.1920x1080.jpg?t=1541808148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/953550/ss_f7337b5c2a771267eced89e27b5080d98545e057.600x338.jpg?t=1541808148
+    short_description: A fast-paced, asymmetrical two-player game that pits keyboard
+      against mouse. Will you become an adventurer, exploring an ancient temple in
+      search of valuable artifacts, or will you take control of a guardian spirit,
+      protecting the temple's treasure from would-be thieves?
+    steam_appid: 953550
+    support_info:
+      email: support@templescramble.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

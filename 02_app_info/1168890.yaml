@@ -1,0 +1,86 @@
+details:
+  data:
+    about_the_game: "In the demo, a part of the first map is available to you. <br\
+      \ />\r\nYou will get access to a small part of the punch forms to get an insight\
+      \ into the combat system.<br />\r\n<br />\r\nThis demo does not represent the\
+      \ main story."
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 5
+      notes: "There will be battle scenes led against machines and artificially created\
+        \ biomass. \r\nNo living creatures will be killed, only machines and artificially\
+        \ created biomass will be destroyed, respect for life is an important part\
+        \ of the main story. "
+    detailed_description: "In the demo, a part of the first map is available to you.\
+      \ <br />\r\nYou will get access to a small part of the punch forms to get an\
+      \ insight into the combat system.<br />\r\n<br />\r\nThis demo does not represent\
+      \ the main story."
+    developers:
+    - Sebastian Moratti
+    fullgame:
+      appid: '1142890'
+      name: Heart in the Dark
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1168890/header.jpg?t=1606210702
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Heart in the Dark Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Sebastian Moratti
+    release_date:
+      coming_soon: false
+      date: May 28, 2020
+    required_age: 0
+    short_description: In the demo, a part of the first map is available to you. You
+      will get access to a small part of the punch forms to get an insight into the
+      combat system. This demo does not represent the main story.
+    steam_appid: 1168890
+    support_info:
+      email: support@heartinthedark
+      url: http://www.heartinthedark.com
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

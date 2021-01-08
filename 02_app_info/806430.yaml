@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: "This Supplement includes the entire soundtrack of the game(1\
+      \ track).<br />\r\nThe track is called &quot;Do you know de way - OST&quot;\
+      \ and lasts 4 minutes, 08 seconds. Available in the format of &quot;MP3&quot;."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/806430/page_bg_generated_v6b.jpg?t=1547403033
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This Supplement includes the entire soundtrack of the game(1\
+      \ track).<br />\r\nThe track is called &quot;Do you know de way - OST&quot;\
+      \ and lasts 4 minutes, 08 seconds. Available in the format of &quot;MP3&quot;."
+    developers:
+    - Laush Dmitriy Sergeevich
+    fullgame:
+      appid: '805870'
+      name: Do you know de way
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/806430/header.jpg?t=1547403033
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Do you know de way - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Do you know de way - OST - $0.99
+        packageid: 245784
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Do you know de way - OST
+    packages:
+    - 245784
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP and newer<br></li><li><strong>Processor:</strong> Athlon 2 X3 450<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Graphics:</strong> GeForce EN9600 GT<br></li><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Laush Studio
+    release_date:
+      coming_soon: false
+      date: Mar 2, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/806430/ss_8ad9e693fd9929428438efc03203118595780855.1920x1080.jpg?t=1547403033
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/806430/ss_8ad9e693fd9929428438efc03203118595780855.600x338.jpg?t=1547403033
+    short_description: This Supplement includes the entire soundtrack of the game(1
+      track). The track is called &quot;Do you know de way - OST&quot; and lasts 4
+      minutes, 08 seconds. Available in the format of &quot;MP3&quot;.
+    steam_appid: 806430
+    support_info:
+      email: laushds@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJw3L60ouQCfLy+pAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 71
+      num_reviews: 10
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198804489376'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '43119564'
+    review: no me aparece en musica de steam
+    steam_purchase: true
+    timestamp_created: 1530162968
+    timestamp_updated: 1530162968
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.51327437162399292'
+    written_during_early_access: false
+  success: 1

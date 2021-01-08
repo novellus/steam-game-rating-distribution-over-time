@@ -1,0 +1,153 @@
+details:
+  data:
+    about_the_game: A napalm discharge device for military use. Napalm sets everything
+      it touches ablaze, damaging not only the target but the surrounding environment
+      as well. Because it's possible to launch at different trajectories, it can also
+      be used to hit enemies hiding behind cover.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/473442/page_bg_generated_v6b.jpg?t=1468897233
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: A napalm discharge device for military use. Napalm sets
+      everything it touches ablaze, damaging not only the target but the surrounding
+      environment as well. Because it's possible to launch at different trajectories,
+      it can also be used to hit enemies hiding behind cover.
+    developers:
+    - SANDLOT
+    fullgame:
+      appid: '410320'
+      name: EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/473442/header.jpg?t=1468897233
+    is_free: false
+    legal_notice: "\xA92016 SANDLOT  \xA92016 D3 PUBLISHER"
+    linux_requirements: []
+    mac_requirements: []
+    name: Volatile Napalm
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Volatile Napalm - $0.99
+        packageid: 105029
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Volatile Napalm
+    packages:
+    - 105029
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 64bit, Windows 8.1 64bit Windows 10 64bit<br></li><li><strong>Processor:</strong>
+        3 GHz 2 Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        AMD Radeon HD 7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available
+        space<br></li><li><strong>Sound Card:</strong> DirectX 11 sound device</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 64bit, Windows 8.1 64bit Windows 10 64bit<br></li><li><strong>Processor:</strong>
+        3.2GHz 4Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        AMD Radeon HD 7970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available
+        space<br></li><li><strong>Sound Card:</strong> DirectX 11 sound device</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - D3 PUBLISHER
+    release_date:
+      coming_soon: false
+      date: Jul 18, 2016
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_a144e479b9cb4be0bff35932383594cd07f59f23.1920x1080.jpg?t=1468897233
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_a144e479b9cb4be0bff35932383594cd07f59f23.600x338.jpg?t=1468897233
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_e7e327531b237dab1f05cb4f792fb5b99ed9d0e4.1920x1080.jpg?t=1468897233
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_e7e327531b237dab1f05cb4f792fb5b99ed9d0e4.600x338.jpg?t=1468897233
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_8ac25678fe3fc6b84b9d2b3fa07da0015294c72a.1920x1080.jpg?t=1468897233
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_8ac25678fe3fc6b84b9d2b3fa07da0015294c72a.600x338.jpg?t=1468897233
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_dc1e4d29369ba73c7e3b5e7ac59169130bdc403c.1920x1080.jpg?t=1468897233
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/473442/ss_dc1e4d29369ba73c7e3b5e7ac59169130bdc403c.600x338.jpg?t=1468897233
+    short_description: A napalm discharge device for military use. Napalm sets everything
+      it touches ablaze, damaging not only the target but the surrounding environment
+      as well. Because it's possible to launch at different trajectories, it can also
+      be used to hit enemies hiding behind cover.
+    steam_appid: 473442
+    support_info:
+      email: steam_support@d3p.co.jp
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4vJSs9eACc67slQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 1
+    total_positive: 4
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 83
+      num_reviews: 7
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198077869038'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '39281379'
+    review: "Too easy for underground missions... but definitely I like the sounds\
+      \ of the screams of burning bugs [spoiler] and them queen\t[/spoiler]"
+    steam_purchase: true
+    timestamp_created: 1515765933
+    timestamp_updated: 1515765933
+    voted_up: true
+    votes_funny: 1
+    votes_up: 3
+    weighted_vote_score: '0.551589787006378174'
+    written_during_early_access: false
+  success: 1

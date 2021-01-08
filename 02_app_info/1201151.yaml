@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: "No encounters in dungeons &amp; fast movement.<br />\r\nSettings\
+      \ can be changed in the Additional Content section of the menu."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1201151/page_bg_generated_v6b.jpg?t=1580864570
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "No encounters in dungeons &amp; fast movement.<br />\r\n\
+      Settings can be changed in the Additional Content section of the menu."
+    developers:
+    - Hit-Point Co.,Ltd.
+    fullgame:
+      appid: '1195710'
+      name: Monster Viator
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1201151/header.jpg?t=1580864570
+    is_free: false
+    legal_notice: "\xA9 2019-2020 KEMCO/Hit-Point"
+    linux_requirements: []
+    mac_requirements: []
+    name: White Pancho - Monster Viator
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: White Pancho - Monster Viator - $2.99
+        packageid: 414547
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy White Pancho - Monster Viator
+    packages:
+    - 414547
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 4, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1201151/ss_cb072de4326fd0f04109834aa142c5597321455a.1920x1080.jpg?t=1580864570
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1201151/ss_cb072de4326fd0f04109834aa142c5597321455a.600x338.jpg?t=1580864570
+    short_description: No encounters in dungeons &amp; fast movement.
+    steam_appid: 1201151
+    support_info:
+      email: keitai-info@kemco.jp
+      url: https://www.kemco-games.com/
+    supported_languages: English, Japanese
+    type: dlc
+    website: https://www.kemco-games.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

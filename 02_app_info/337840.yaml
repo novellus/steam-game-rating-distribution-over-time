@@ -1,0 +1,217 @@
+details:
+  data:
+    about_the_game: "Challenge your friends to fight through TowerFall\u2019s Dark\
+      \ World, with or against you, in this massive expansion for the acclaimed archery\
+      \ brawler.<br><br>Enigmatic portals open to four new battlegrounds across TowerFall's\
+      \ twisted alternate reality. Fight aboard legendary ghost ship The Amaranth,\
+      \ across the murky bogs of Dreadwood, or through the crumbling halls of Darkfang.\
+      \ Enter Cataclysm, an all-consuming vortex where levels shift into unique layouts\
+      \ with every match. Murder your friends with new game-changing arrow types and\
+      \ variants.<br><br>Team up to challenge the all-new Dark World Mode - a co-op\
+      \ campaign for 1-4 players. Battle your way to hideous boss monsters, and face\
+      \ the brutal challenge of the added Legendary difficulty mode. Expand your roster\
+      \ of playable fighters with the undead pirate Vainglorious Ghoul and 9 more\
+      \ alternate archers.<br><br>Dark World also adds a powerful level creation tool,\
+      \ allowing players to create and share their own new Versus towers. Of course,\
+      \ <a href=\"http://steamcommunity.com/app/251470/workshop/\" target=\"_blank\"\
+      \ rel=\"noreferrer\"  >Steam Workshop</a> is fully supported for the editor.<br><br>The\
+      \ Dark World Expansion pushes TowerFall further in every direction, a great\
+      \ excuse to revisit the beloved indie fighter."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/337840/page_bg_generated_v6b.jpg?t=1447365886
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Workshop
+      id: 30
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Challenge your friends to fight through TowerFall\u2019\
+      s Dark World, with or against you, in this massive expansion for the acclaimed\
+      \ archery brawler.<br><br>Enigmatic portals open to four new battlegrounds across\
+      \ TowerFall's twisted alternate reality. Fight aboard legendary ghost ship The\
+      \ Amaranth, across the murky bogs of Dreadwood, or through the crumbling halls\
+      \ of Darkfang. Enter Cataclysm, an all-consuming vortex where levels shift into\
+      \ unique layouts with every match. Murder your friends with new game-changing\
+      \ arrow types and variants.<br><br>Team up to challenge the all-new Dark World\
+      \ Mode - a co-op campaign for 1-4 players. Battle your way to hideous boss monsters,\
+      \ and face the brutal challenge of the added Legendary difficulty mode. Expand\
+      \ your roster of playable fighters with the undead pirate Vainglorious Ghoul\
+      \ and 9 more alternate archers.<br><br>Dark World also adds a powerful level\
+      \ creation tool, allowing players to create and share their own new Versus towers.\
+      \ Of course, <a href=\"http://steamcommunity.com/app/251470/workshop/\" target=\"\
+      _blank\" rel=\"noreferrer\"  >Steam Workshop</a> is fully supported for the\
+      \ editor.<br><br>The Dark World Expansion pushes TowerFall further in every\
+      \ direction, a great excuse to revisit the beloved indie fighter."
+    developers:
+    - Matt Thorson
+    fullgame:
+      appid: '251470'
+      name: TowerFall Ascension
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/337840/header.jpg?t=1447365886
+    is_free: false
+    legal_notice: Copyright 2012-2014 Matt Makes Games Inc.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        glibc 2.15+, 32/64-bit. S3TC support is NOT required.<br></li><li><strong>Processor:</strong>
+        Intel Core i3 M380<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong>
+        400 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Snow Leopard 10.6.8, 32/64-bit<br></li><li><strong>Processor:</strong> Intel
+        Core i3 M380<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong>
+        400 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 2039172
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2039172/movie480.mp4?t=1447374400
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2039172/movie_max.mp4?t=1447374400
+      name: Release Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2039172/movie.293x165.jpg?t=1447374400
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2039172/movie480.webm?t=1447374400
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2039172/movie_max.webm?t=1447374400
+    name: TowerFall Dark World Expansion
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: TowerFall Dark World Expansion - $4.99
+        packageid: 56179
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy TowerFall Dark World Expansion
+    packages:
+    - 56179
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or newer<br></li><li><strong>Processor:</strong> Intel Core
+        i3 M380<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 12, 2015
+    required_age: 0
+    reviews: "\u201CIf you like TowerFall, then buy Dark World. It's that simple.\u201D\
+      <br>9.5 / 10 \u2013 <a href=\"http://www.destructoid.com/review-towerfall-dark-world-292091.phtml\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >Destructoid</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_d4777e610027dda93bad0370702d504b407a16d4.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_d4777e610027dda93bad0370702d504b407a16d4.600x338.jpg?t=1447365886
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_0f043552e874c86d1abe03e84579355dc58968f2.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_0f043552e874c86d1abe03e84579355dc58968f2.600x338.jpg?t=1447365886
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_5e36154093f2d6157e2fb4739d1e16c27542eed6.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_5e36154093f2d6157e2fb4739d1e16c27542eed6.600x338.jpg?t=1447365886
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_efed3adb75564e946077b13143d56c6069aa5712.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_efed3adb75564e946077b13143d56c6069aa5712.600x338.jpg?t=1447365886
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_d5fbd879d50e1da6b7c18c4da88c47a9fc7b9794.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_d5fbd879d50e1da6b7c18c4da88c47a9fc7b9794.600x338.jpg?t=1447365886
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_3e5522a35ef87dfb93689ca180834b38a8a605f6.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_3e5522a35ef87dfb93689ca180834b38a8a605f6.600x338.jpg?t=1447365886
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_fff4286e94a506a1584e998dcae2c5eea433760b.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_fff4286e94a506a1584e998dcae2c5eea433760b.600x338.jpg?t=1447365886
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_3fe58553a3a135c2ccb7a5265a307ca28ef40abe.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_3fe58553a3a135c2ccb7a5265a307ca28ef40abe.600x338.jpg?t=1447365886
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_4d77867c20e680ae2f2f3065d89f07ae26c0baf5.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_4d77867c20e680ae2f2f3065d89f07ae26c0baf5.600x338.jpg?t=1447365886
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_a94092839c311244a5afe19fb49e22fcfc3d43c2.1920x1080.jpg?t=1447365886
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/337840/ss_a94092839c311244a5afe19fb49e22fcfc3d43c2.600x338.jpg?t=1447365886
+    short_description: "Challenge your friends to fight through the Dark World, with\
+      \ or against you, in this massive expansion for the acclaimed archery brawler.\
+      \ Through the portal you\u2019ll find an all-new 1-4 player co-op mode, along\
+      \ with a wealth of new archers, powerups and arenas."
+    steam_appid: 337840
+    support_info:
+      email: ''
+      url: http://www.towerfall-game.com/info/support.html
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.towerfall-game.com
+  success: true
+reviews:
+  cursor: AoJ4rfOIu/QCea/xoAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 3
+    total_positive: 55
+    total_reviews: 58
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 312
+      num_reviews: 3
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198096704430'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '75729657'
+    review: bobo darkmode igual chato
+    steam_purchase: true
+    timestamp_created: 1599709879
+    timestamp_updated: 1599709879
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.494505524635314941'
+    written_during_early_access: false
+  success: 1

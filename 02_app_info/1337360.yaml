@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: CNDL is free for educational / hobby use. If you are a professional
+      (Revenue &gt; $2000/year) who uses CNDL as part of your workflow, we ask that
+      you please support CNDL financially.<br><br>This DLC does <strong>NOT</strong>
+      add any functionally. All features are available in the free version.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1337360/page_bg_generated_v6b.jpg?t=1591304514
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: CNDL is free for educational / hobby use. If you are a professional
+      (Revenue &gt; $2000/year) who uses CNDL as part of your workflow, we ask that
+      you please support CNDL financially.<br><br>This DLC does <strong>NOT</strong>
+      add any functionally. All features are available in the free version.
+    developers:
+    - Lazy Morning Games
+    fullgame:
+      appid: '1282740'
+      name: CNDL
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1337360/header.jpg?t=1591304514
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: CNDL - Professional use
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: CNDL - Commercial use - $49.99
+        packageid: 467505
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 4999
+      title: Buy CNDL - Professional use
+    packages:
+    - 467505
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> 3 Ghz<br></li><li><strong>Memory:</strong>
+        8 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 4999
+      final_formatted: $49.99
+      initial: 4999
+      initial_formatted: ''
+    publishers:
+    - Lazy Morning Games
+    release_date:
+      coming_soon: false
+      date: Jun 4, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_d4a800acc5cbb724f195b0adcbab3e040a35345c.1920x1080.jpg?t=1591304514
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_d4a800acc5cbb724f195b0adcbab3e040a35345c.600x338.jpg?t=1591304514
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_24d8aa8e691bad8471d180df8261ad480d02a13c.1920x1080.jpg?t=1591304514
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_24d8aa8e691bad8471d180df8261ad480d02a13c.600x338.jpg?t=1591304514
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_7dbb7926aa048cbd8da267c6df9754c669fa37fa.1920x1080.jpg?t=1591304514
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_7dbb7926aa048cbd8da267c6df9754c669fa37fa.600x338.jpg?t=1591304514
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_9c6750e840ac389709d5ee6813a574a0d0ebf87b.1920x1080.jpg?t=1591304514
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_9c6750e840ac389709d5ee6813a574a0d0ebf87b.600x338.jpg?t=1591304514
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_8206114827412c8f0806253e16e9cee3d4ff7901.1920x1080.jpg?t=1591304514
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1337360/ss_8206114827412c8f0806253e16e9cee3d4ff7901.600x338.jpg?t=1591304514
+    short_description: If you are a professional (Revenue &gt; $2000/annual) who uses
+      CNDL as part of your workflow, we ask that you please support CNDL financially
+      in some way.This DLC does NOT add any functionally. All features are available
+      in the free version.
+    steam_appid: 1337360
+    support_info:
+      email: nick@lazymorninggames.com
+      url: https://cndl.io
+    supported_languages: English
+    type: dlc
+    website: https://cndl.io
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

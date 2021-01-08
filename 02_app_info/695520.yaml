@@ -1,0 +1,199 @@
+details:
+  data:
+    about_the_game: "In this experimental 360 video experience you are transported\
+      \ into space via a pod ship. During the trip you will encounter the visual stunning\
+      \ aspects of space. The 9 minute film is set to a cinematic score that will\
+      \ make you feel relaxed and whisked away into the vast unknown. <br />\r\n<br\
+      \ />\r\nRuntime: 8min 47sec"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/695520/page_bg_generated_v6b.jpg?t=1503014179
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "<h1>Steam 360 Video Beta</h1><p>This video is part of the\
+      \ Steam 360 Video beta program. After installing the Steam 360 Video tool in\
+      \ the Steam Client, you can watch this video in a supported Virtual Reality\
+      \ headset or on your desktop monitor. More information can be found in the <a\
+      \ href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871#360\"\
+      >Steam 360 Video FAQ</a>.</p><br><h1>About the Video</h1>In this experimental\
+      \ 360 video experience you are transported into space via a pod ship. During\
+      \ the trip you will encounter the visual stunning aspects of space. The 9 minute\
+      \ film is set to a cinematic score that will make you feel relaxed and whisked\
+      \ away into the vast unknown. \r\n\r\nRuntime: 8min 47sec"
+    developers:
+    - Capon Design
+    genres:
+    - description: Movie
+      id: '80'
+    - description: Short
+      id: '83'
+    - description: 360 Video
+      id: '85'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/695520/header.jpg?t=1503014179
+    is_free: false
+    legal_notice: CaponDesign All rights reserved, 2017
+    linux_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10, 64-Bit Only<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ i5-4590, AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX 970,\
+        \ AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 MB\
+        \ available space<br></li><li><strong>Additional Notes:</strong> Bandwidth\
+        \ requirements depend on the resolution and quality of the video being played.\
+        \ Please see the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871#360_bandwidth\"\
+        \ target=\"_blank\" rel=\"noreferrer\"  >Steam 360 Video FAQ</a> for more\
+        \ information.</li></ul>"
+    mac_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10, 64-Bit Only<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ i5-4590, AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX 970,\
+        \ AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 MB\
+        \ available space<br></li><li><strong>Additional Notes:</strong> Bandwidth\
+        \ requirements depend on the resolution and quality of the video being played.\
+        \ Please see the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871#360_bandwidth\"\
+        \ target=\"_blank\" rel=\"noreferrer\"  >Steam 360 Video FAQ</a> for more\
+        \ information.</li></ul>"
+    movies:
+    - highlight: true
+      id: 256692419
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256692419/movie480.mp4?t=1502731161
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256692419/movie_max.mp4?t=1502731161
+      name: Journey VR Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256692419/movie.293x165.jpg?t=1502731161
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256692419/movie480.webm?t=1502731161
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256692419/movie_max.webm?t=1502731161
+    name: Journey VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Journey VR - $1.99
+        packageid: 199800
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Journey VR - $2.99
+        packageid: 199799
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Journey VR
+    packages:
+    - 199800
+    - 199799
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10, 64-Bit Only<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ i5-4590, AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX 970,\
+        \ AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 MB\
+        \ available space<br></li><li><strong>Additional Notes:</strong> Bandwidth\
+        \ requirements depend on the resolution and quality of the video being played.\
+        \ Please see the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871#360_bandwidth\"\
+        \ target=\"_blank\" rel=\"noreferrer\"  >Steam 360 Video FAQ</a> for more\
+        \ information.</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 17, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_6b0f6ae5a26ca606ceaada85deea3c008d688ec7.1920x1080.jpg?t=1503014179
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_6b0f6ae5a26ca606ceaada85deea3c008d688ec7.600x338.jpg?t=1503014179
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_83513e8195919ea27cb4dfe501ed6b31cb8a62bd.1920x1080.jpg?t=1503014179
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_83513e8195919ea27cb4dfe501ed6b31cb8a62bd.600x338.jpg?t=1503014179
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_956b16469160a51ef73452c26ffb637aa2065353.1920x1080.jpg?t=1503014179
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_956b16469160a51ef73452c26ffb637aa2065353.600x338.jpg?t=1503014179
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_9ab5afc6b0385afd246a98535c61b5f477a387da.1920x1080.jpg?t=1503014179
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_9ab5afc6b0385afd246a98535c61b5f477a387da.600x338.jpg?t=1503014179
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_3ea5ddb0c8b4fd14c0f5ae578b31e5b335fbda38.1920x1080.jpg?t=1503014179
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_3ea5ddb0c8b4fd14c0f5ae578b31e5b335fbda38.600x338.jpg?t=1503014179
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_4cc6d80624ef54d5bdc8955563a65cf57e1bd277.1920x1080.jpg?t=1503014179
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/695520/ss_4cc6d80624ef54d5bdc8955563a65cf57e1bd277.600x338.jpg?t=1503014179
+    short_description: In this experimental 360 video experience you are transported
+      into space via a pod ship. During the trip you will encounter the visual stunning
+      aspects of space. The 9 minute film is set to a cinematic score that will make
+      you feel relaxed and whisked away into the vast unknown.
+    steam_appid: 695520
+    support_info:
+      email: manager@capondesign.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: video
+    website: null
+  success: true
+reviews:
+  cursor: AoJwhvCY0eMCe8W1oQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 3
+    total_positive: 1
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1527437716
+      num_games_owned: 29
+      num_reviews: 1
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198804087809'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '42314843'
+    review: "\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0443\u0447\u043D\u044B\
+      \u0439 \u0432\u0438\u0434\u0435\u043E\u0440\u043E\u043B\u0438\u043A, \u0441\
+      \ \u043F\u043B\u043E\u0445\u043E\u0439 \u0433\u0440\u0430\u0444\u0438\u043A\u043E\
+      \u0439"
+    steam_purchase: true
+    timestamp_created: 1527437820
+    timestamp_updated: 1527437820
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.52173912525177002'
+    written_during_early_access: false
+  success: 1

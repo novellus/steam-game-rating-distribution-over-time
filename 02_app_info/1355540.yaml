@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: This is an early access version of the demo and the game, it may
+      have bugs and missing features. Keep it in mind while testing.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1355540/page_bg_generated_v6b.jpg?t=1594822913
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h1>Early Beta Access</h1><p>This is an early access version
+      of the demo and the game, it may have bugs and missing features. Keep it in
+      mind while testing.</p><br><h1>About the Game</h1>This is an early access version
+      of the demo and the game, it may have bugs and missing features. Keep it in
+      mind while testing.
+    developers:
+    - Dysnomia
+    fullgame:
+      appid: '1299430'
+      name: Extortion
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1355540/header.jpg?t=1594822913
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        2 GHz Dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        4 GB RAM</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.7.5+<br></li><li><strong>Processor:</strong> 2 GHz Dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.8<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>
+    name: Extortion Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2 GHz Dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Dysnomia
+    release_date:
+      coming_soon: false
+      date: Jul 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_f56308d7e6a96d13e9e9099d34bbf3ddaa7b99d5.1920x1080.jpg?t=1594822913
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_f56308d7e6a96d13e9e9099d34bbf3ddaa7b99d5.600x338.jpg?t=1594822913
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_2f0d95090caeb943e5f4535d498f6eaa9461c5c5.1920x1080.jpg?t=1594822913
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_2f0d95090caeb943e5f4535d498f6eaa9461c5c5.600x338.jpg?t=1594822913
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_d9064470f03ea5a3c36234ba1db05e64ad8f8fdd.1920x1080.jpg?t=1594822913
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_d9064470f03ea5a3c36234ba1db05e64ad8f8fdd.600x338.jpg?t=1594822913
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_14b778bd28981ff7d16ff9739f9e065cdcbf3dd4.1920x1080.jpg?t=1594822913
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_14b778bd28981ff7d16ff9739f9e065cdcbf3dd4.600x338.jpg?t=1594822913
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_130e276920aa3bebe74fa0072e15ec419caf4428.1920x1080.jpg?t=1594822913
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355540/ss_130e276920aa3bebe74fa0072e15ec419caf4428.600x338.jpg?t=1594822913
+    short_description: This is an early access version of the demo and the game, it
+      may have bugs and missing features. Keep it in mind while testing.
+    steam_appid: 1355540
+    support_info:
+      email: contact@dysnomia.studio
+      url: https://dysnomia.studio
+    supported_languages: English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

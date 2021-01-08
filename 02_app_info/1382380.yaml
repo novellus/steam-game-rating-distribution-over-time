@@ -1,0 +1,194 @@
+details:
+  data:
+    about_the_game: "With dawn the Night falls from the skies, as well as her children,\
+      \ the stars. Climb the tower towards the skies on this 2D precision platform\
+      \ while evading sharp crystals and recovering your lost children.<br />\r\n\
+      Whenever a star joins the Night, new skills are obtained, allowing you to go\
+      \ through more difficult challenges.<br />\r\n<br />\r\nDelight yourself with\
+      \ the stained glass windows that tell the Aurora narrative.<br />\r\n<br />\r\
+      \nCombine your skills in different ways to surpass the stages in a variety of\
+      \ ways.<br />\r\n<br />\r\nEach failure is just a stepping stone to the inevitable\
+      \ success."
+    achievements:
+      highlighted:
+      - name: The First Star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/e30558553352c3ee9147618f8aded3a782811430.jpg
+      - name: The Second Star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/0faf3fbe4030fba643f7c2591d7926416665ef6a.jpg
+      - name: The Third Star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/18df704f24bcfbea3e2ef7c7b555260063646dfb.jpg
+      - name: The Fourth Star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/ba7d677fb954b589f44f2bb266fcbb80c56693b1.jpg
+      - name: The Fifth Star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/8ed50aefabf3466dea3c243bf34d43e42b2812a5.jpg
+      - name: ' Twilight of Love'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/3fce69ee97f450444e7b6445c79624b482b25489.jpg
+      - name: 'Intangible '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/02005c01995d92aa6f50cfc762d31d779ae5ae94.jpg
+      - name: Star Bringer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/6734bd8f35df3ed3012a094effe6594af81dd40d.jpg
+      - name: Winter Solstice
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/2ec28fffefe7a9b57753e86991ad6fd6b1261770.jpg
+      - name: The True Night
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382380/23a01d1caf4a2cb5c331c7c5425b48e4128bb32d.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1382380/page_bg_generated_v6b.jpg?t=1603197877
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "With dawn the Night falls from the skies, as well as her\
+      \ children, the stars. Climb the tower towards the skies on this 2D precision\
+      \ platform while evading sharp crystals and recovering your lost children.<br\
+      \ />\r\nWhenever a star joins the Night, new skills are obtained, allowing you\
+      \ to go through more difficult challenges.<br />\r\n<br />\r\nDelight yourself\
+      \ with the stained glass windows that tell the Aurora narrative.<br />\r\n<br\
+      \ />\r\nCombine your skills in different ways to surpass the stages in a variety\
+      \ of ways.<br />\r\n<br />\r\nEach failure is just a stepping stone to the inevitable\
+      \ success."
+    developers:
+    - Michel Coelho da Silveira
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1382380/header.jpg?t=1603197877
+    is_free: false
+    legal_notice: 2020 Michel Coelho da Silveira.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256799016
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799016/movie480.mp4?t=1602040109
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799016/movie_max.mp4?t=1602040109
+      name: Aurora Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256799016/movie.293x165.jpg?t=1602040109
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799016/movie480_vp9.webm?t=1602040109
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799016/movie_max_vp9.webm?t=1602040109
+    name: Aurora
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Aurora - $3.99
+        packageid: 484945
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Aurora
+    packages:
+    - 484945
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> Windows\
+        \ 7 ou superior<br></li><li><strong>Processor:</strong> Processador Intel\xAE\
+        \ Core\u2122 i5-3210M<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Storage:</strong>\
+        \ 1140 MB available space</li></ul>"
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Michel Coelho da Silveira
+    release_date:
+      coming_soon: false
+      date: Oct 20, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_c87495b9ce93fe8f43f0668c15024e802f463a79.1920x1080.jpg?t=1603197877
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_c87495b9ce93fe8f43f0668c15024e802f463a79.600x338.jpg?t=1603197877
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_aa2fa285e3e6c1ae0ae45635b0a50264d1e35311.1920x1080.jpg?t=1603197877
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_aa2fa285e3e6c1ae0ae45635b0a50264d1e35311.600x338.jpg?t=1603197877
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_30a8b1dfbc56a8c584d7b5bdbd9a7faf284ed97c.1920x1080.jpg?t=1603197877
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_30a8b1dfbc56a8c584d7b5bdbd9a7faf284ed97c.600x338.jpg?t=1603197877
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_3519959e34ed4a2d5cacc43a844edffbd06199f5.1920x1080.jpg?t=1603197877
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_3519959e34ed4a2d5cacc43a844edffbd06199f5.600x338.jpg?t=1603197877
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_2074a22110646fff3faf756ef735eb2a59d6ad8a.1920x1080.jpg?t=1603197877
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1382380/ss_2074a22110646fff3faf756ef735eb2a59d6ad8a.600x338.jpg?t=1603197877
+    short_description: Aurora is a precision platform game about how the Night takes
+      her lost stars back to the skies.
+    steam_appid: 1382380
+    support_info:
+      email: aurorasuporteoficial@gmail.com
+      url: ''
+    supported_languages: English, Portuguese - Brazil
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwu+Tn1fYCecehvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1609398732
+      num_games_owned: 578
+      num_reviews: 47
+      playtime_at_review: 123
+      playtime_forever: 298
+      playtime_last_two_weeks: 298
+      steamid: '76561198016754181'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83430521'
+    review: "It might not feel like your typical polished platformer initially, but\
+      \ it works very well. The dash is NOT a single input, and you can micro it technically,\
+      \ which leads to some cool and wonky plays. I would love to see a TAS. \nI must\
+      \ say, this game is addicting to run. It's a fun platformer! It's cute as fuck\
+      \ too, omg. So cute. Get on sale if you enjoy platformers"
+    steam_purchase: true
+    timestamp_created: 1609197102
+    timestamp_updated: 1609197102
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

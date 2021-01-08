@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: 'From first sketch to what we see today: <strong>Beauties &amp;
+      Brainfarts</strong> documents the wavy road of artwork and design for UpBreakers.<br><br>The
+      task of literally giving this project a face fell to Max very early on when
+      all we had for the game was only the general idea of the mechanics.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1008350/page_bg_generated_v6b.jpg?t=1547715436
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: 'From first sketch to what we see today: <strong>Beauties
+      &amp; Brainfarts</strong> documents the wavy road of artwork and design for
+      UpBreakers.<br><br>The task of literally giving this project a face fell to
+      Max very early on when all we had for the game was only the general idea of
+      the mechanics.'
+    developers:
+    - Bootsmann Games
+    fullgame:
+      appid: '886120'
+      name: UpBreakers
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1008350/header.jpg?t=1547715436
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: UpBreakers - Artwork
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: UpBreakers - Artwork - <span class="discount_original_price">$2.99</span>
+          $0.59
+        packageid: 333611
+        percent_savings: 0
+        percent_savings_text: '-80% '
+        price_in_cents_with_discount: 59
+      title: Buy UpBreakers - Artwork
+    packages:
+    - 333611
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF reader</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF reader</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 80
+      final: 59
+      final_formatted: $0.59
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 17, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_e21f295d8bfa8f6c561b01a74f3c91a6c8cf918c.1920x1080.jpg?t=1547715436
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_e21f295d8bfa8f6c561b01a74f3c91a6c8cf918c.600x338.jpg?t=1547715436
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_6312ab631339742f9c6a35df52c24ae50afd1eea.1920x1080.jpg?t=1547715436
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_6312ab631339742f9c6a35df52c24ae50afd1eea.600x338.jpg?t=1547715436
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_479ff193d2ae44760aa4a60809127f3906881b23.1920x1080.jpg?t=1547715436
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_479ff193d2ae44760aa4a60809127f3906881b23.600x338.jpg?t=1547715436
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_6114f01de264041bca9147ec89f31e14d9a8b950.1920x1080.jpg?t=1547715436
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1008350/ss_6114f01de264041bca9147ec89f31e14d9a8b950.600x338.jpg?t=1547715436
+    short_description: 'From first sketch to what we see today: Beauties &amp; Brainfarts
+      documents the wavy road of artwork and design for UpBreakers.'
+    steam_appid: 1008350
+    support_info:
+      email: support@upbreakers.com
+      url: http://www.bootsmann-games.de
+    supported_languages: English
+    type: dlc
+    website: http://www.bootsmann-games.de
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

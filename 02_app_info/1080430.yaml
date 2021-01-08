@@ -1,0 +1,87 @@
+details:
+  data:
+    about_the_game: In this DLC you find full soundtrack from the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1080430/page_bg_generated_v6b.jpg?t=1581550055
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: In this DLC you find full soundtrack from the game.
+    developers:
+    - Zloy Krot Studio
+    fullgame:
+      appid: '1035930'
+      name: Nyasha
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1080430/header.jpg?t=1581550055
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Nyasha Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Nyasha Soundtrack - <span class="discount_original_price">$1.99</span>
+          $0.49
+        packageid: 362771
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 49
+      title: Buy Nyasha Soundtrack
+    packages:
+    - 362771
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 49
+      final_formatted: $0.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - IR Studio
+    release_date:
+      coming_soon: false
+      date: May 6, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1080430/ss_576b6a91a786f73fcd1757cda77c2fc4399d6bd8.1920x1080.jpg?t=1581550055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1080430/ss_576b6a91a786f73fcd1757cda77c2fc4399d6bd8.600x338.jpg?t=1581550055
+    short_description: In this DLC you find full soundtrack from the game.
+    steam_appid: 1080430
+    support_info:
+      email: irstudio2016@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

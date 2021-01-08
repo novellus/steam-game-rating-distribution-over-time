@@ -1,0 +1,213 @@
+details:
+  data:
+    about_the_game: "Brainfuck is an extremely minimalistic, fully competent, Turing-complete\
+      \ esoteric programming language created in 1993 as more of a theoretical joke\
+      \ rather than a tool for real-world software development. With just 8 extremely\
+      \ simple commands, Brainfuck code can be used to write algorithms performing\
+      \ virtually any computational task possible.<br />\r\n<br />\r\nDue to its simplicity,\
+      \ Brainfuck has a very shallow learning curve. It takes 5 minutes to learn but\
+      \ days of active thinking to master. This game, being a combination of an interactive\
+      \ guide with a powerful simulator equipped with debugging features, leads players\
+      \ through the primitive structures and basic patterns of the language with the\
+      \ ultimate goal of writing a self-interpreter (a program written in Brainfuck\
+      \ that can execute any valid Brainfuck code). Waves of frustration commonly\
+      \ associated with learning by many are fought against by a rich set of notes\
+      \ and hints that make completion of individual tasks painless and if one ever\
+      \ gets lost at any point, the game comes with a database of thoroughly worked\
+      \ solutions.<br />\r\n<br />\r\nA part of the content of the game is subdivided\
+      \ into schemas of scenarios that each focus on different aspects of Brainfuck\
+      \ programming. The basic tutorial demonstrates the many capabilities of the\
+      \ language and can be completed in just 20 minutes. Scenarios on calculations,\
+      \ number sequences, sorting and optimization give players a broad overview of\
+      \ what's possible not just in Brainfuck, but in the programming world in general.\
+      \ All of the problem-solving skills acquired can be further used in one's personal\
+      \ and professional interests. Should one feel like experimenting or working\
+      \ on their own project, the Sandbox schema provides the environment to do so.\
+      \ <br />\r\n<br />\r\nThe game also features a level editor that can be brought\
+      \ up at any time by a single mouse click on both distributed and custom content.\
+      \ Schematics of different scenarios, testing plans, and savegames are hand-editable\
+      \ and the documentation is provided in the game itself, allowing players to\
+      \ create their own custom fork of the content."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/933970/page_bg_generated_v6b.jpg?t=1538409914
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Brainfuck is an extremely minimalistic, fully competent,\
+      \ Turing-complete esoteric programming language created in 1993 as more of a\
+      \ theoretical joke rather than a tool for real-world software development. With\
+      \ just 8 extremely simple commands, Brainfuck code can be used to write algorithms\
+      \ performing virtually any computational task possible.<br />\r\n<br />\r\n\
+      Due to its simplicity, Brainfuck has a very shallow learning curve. It takes\
+      \ 5 minutes to learn but days of active thinking to master. This game, being\
+      \ a combination of an interactive guide with a powerful simulator equipped with\
+      \ debugging features, leads players through the primitive structures and basic\
+      \ patterns of the language with the ultimate goal of writing a self-interpreter\
+      \ (a program written in Brainfuck that can execute any valid Brainfuck code).\
+      \ Waves of frustration commonly associated with learning by many are fought\
+      \ against by a rich set of notes and hints that make completion of individual\
+      \ tasks painless and if one ever gets lost at any point, the game comes with\
+      \ a database of thoroughly worked solutions.<br />\r\n<br />\r\nA part of the\
+      \ content of the game is subdivided into schemas of scenarios that each focus\
+      \ on different aspects of Brainfuck programming. The basic tutorial demonstrates\
+      \ the many capabilities of the language and can be completed in just 20 minutes.\
+      \ Scenarios on calculations, number sequences, sorting and optimization give\
+      \ players a broad overview of what's possible not just in Brainfuck, but in\
+      \ the programming world in general. All of the problem-solving skills acquired\
+      \ can be further used in one's personal and professional interests. Should one\
+      \ feel like experimenting or working on their own project, the Sandbox schema\
+      \ provides the environment to do so. <br />\r\n<br />\r\nThe game also features\
+      \ a level editor that can be brought up at any time by a single mouse click\
+      \ on both distributed and custom content. Schematics of different scenarios,\
+      \ testing plans, and savegames are hand-editable and the documentation is provided\
+      \ in the game itself, allowing players to create their own custom fork of the\
+      \ content."
+    developers:
+    - Esoterics
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/933970/header.jpg?t=1538409914
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any Ubuntu LTS version<br></li><li><strong>Processor:</strong> 2-core processor<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Requires libgconf-2.so.4, use `sudo apt -y install libgconf2-4`</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Requires libgconf-2.so.4, use `sudo apt -y install libgconf2-4`</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256727663
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256727663/movie480.mp4?t=1536566505
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256727663/movie_max.mp4?t=1536566505
+      name: Brainf*ck
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256727663/movie.293x165.jpg?t=1536566505
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256727663/movie480.webm?t=1536566505
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256727663/movie_max.webm?t=1536566505
+    name: Brainfuck
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Brainf*ck - <span class="discount_original_price">$2.99</span>
+          $1.94
+        packageid: 302928
+        percent_savings: 0
+        percent_savings_text: '-35% '
+        price_in_cents_with_discount: 194
+      title: Buy Brainfuck
+    packages:
+    - 302928
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 2-core processor<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Internet Connection needed on the first run</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 35
+      final: 194
+      final_formatted: $1.94
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - Esoterics
+    release_date:
+      coming_soon: false
+      date: Sep 27, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_e27a6a129254aac2e4e5be9dcd33f143739bb655.1920x1080.jpg?t=1538409914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_e27a6a129254aac2e4e5be9dcd33f143739bb655.600x338.jpg?t=1538409914
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_5f666f7d63d8d60ac14117f6efa3f2e108881984.1920x1080.jpg?t=1538409914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_5f666f7d63d8d60ac14117f6efa3f2e108881984.600x338.jpg?t=1538409914
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_e62a4527e1eb787d4965911e21523c2542689b3a.1920x1080.jpg?t=1538409914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_e62a4527e1eb787d4965911e21523c2542689b3a.600x338.jpg?t=1538409914
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_e25d3da95577afee0e25abcb6aa47a02e90e73c7.1920x1080.jpg?t=1538409914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_e25d3da95577afee0e25abcb6aa47a02e90e73c7.600x338.jpg?t=1538409914
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_814625b8695da0c9052236226a30a09724237c54.1920x1080.jpg?t=1538409914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/933970/ss_814625b8695da0c9052236226a30a09724237c54.600x338.jpg?t=1538409914
+    short_description: Brainfuck is a guide and a highly-interactive simulator of
+      the smallest complete programming language in the world. Master all of its 8
+      commands to program with capabilities equivalent to those of codes written in
+      any other modern language.
+    steam_appid: 933970
+    support_info:
+      email: hwengame@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4s+zT6/MCeMm/mgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 9
+    total_positive: 7
+    total_reviews: 16
+  reviews:
+  - author:
+      last_played: 1597047891
+      num_games_owned: 87
+      num_reviews: 16
+      playtime_at_review: 422
+      playtime_forever: 472
+      playtime_last_two_weeks: 0
+      steamid: '76561198242129770'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '74054808'
+    review: It's a good game or at least it could be, but it's rigged with bugs and
+      seriously lacks functionality and the developer won't do anything about from
+      the other posts I've read. For some people the game won't even launch.
+    steam_purchase: true
+    timestamp_created: 1597017096
+    timestamp_updated: 1597045171
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

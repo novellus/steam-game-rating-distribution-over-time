@@ -1,0 +1,187 @@
+details:
+  data:
+    about_the_game: MotoVR - a game in which we tried to make as &quot;real&quot;
+      driving a motorcycle. You can compete with other players online or play in a
+      race against time
+    background: https://steamcdn-a.akamaihd.net/steam/apps/713500/page_bg_generated_v6b.jpg?t=1575999232
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: MotoVR - a game in which we tried to make as &quot;real&quot;
+      driving a motorcycle. You can compete with other players online or play in a
+      race against time
+    developers:
+    - Anea_Duo_Dev
+    genres:
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/713500/header.jpg?t=1575999232
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256710006
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256710006/movie480.mp4?t=1519700370
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256710006/movie_max.mp4?t=1519700370
+      name: New track
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256710006/movie.293x165.jpg?t=1519700370
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256710006/movie480.webm?t=1519700370
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256710006/movie_max.webm?t=1519700370
+    - highlight: true
+      id: 256709386
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256709386/movie480.mp4?t=1519097543
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256709386/movie_max.mp4?t=1519097543
+      name: New sports bike
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256709386/movie.293x165.jpg?t=1519097543
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256709386/movie480.webm?t=1519097543
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256709386/movie_max.webm?t=1519097543
+    name: Moto VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Moto VR - $9.99
+        packageid: 206495
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Moto VR
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $2.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$9.99 at checkout,
+          auto-renewed every 1 month(s) at $2.99.</p>
+        option_text: $9.99 for a month, then $2.99 / month
+        packageid: 249166
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Moto VR Subscription Plan
+    packages:
+    - 206495
+    - 249166
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i5-6600K<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or
+        comparable<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0
+        Compatible Sound</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i5-6600K<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1070 or
+        comparable<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0
+        Compatible Sound</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Anea_Duo_Dev
+    release_date:
+      coming_soon: false
+      date: Feb 23, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_ce4b436679aed2533ec47629a7c1ed6488fafde3.1920x1080.jpg?t=1575999232
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_ce4b436679aed2533ec47629a7c1ed6488fafde3.600x338.jpg?t=1575999232
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_48c419075e8fc23a8f5cc94ca01924e424f181c9.1920x1080.jpg?t=1575999232
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_48c419075e8fc23a8f5cc94ca01924e424f181c9.600x338.jpg?t=1575999232
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_48e42f0aeae88b5beb37441411fb22499165fe5f.1920x1080.jpg?t=1575999232
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_48e42f0aeae88b5beb37441411fb22499165fe5f.600x338.jpg?t=1575999232
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_41cdad9be21073e0bb579fe2607324d3c3bd01c8.1920x1080.jpg?t=1575999232
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_41cdad9be21073e0bb579fe2607324d3c3bd01c8.600x338.jpg?t=1575999232
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_859a59a89d82c4a04b109194740e9e6c5d17c82a.1920x1080.jpg?t=1575999232
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_859a59a89d82c4a04b109194740e9e6c5d17c82a.600x338.jpg?t=1575999232
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_3c5940a71a166b841dd6fc56c3386e2e972f14b2.1920x1080.jpg?t=1575999232
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713500/ss_3c5940a71a166b841dd6fc56c3386e2e972f14b2.600x338.jpg?t=1575999232
+    short_description: MotoVR - a game about Motorsport and possible fun associated
+      with motorcycling.
+    steam_appid: 713500
+    support_info:
+      email: anea.duo.dew@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw69PKw/YCdfCDvAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 5
+    total_positive: 6
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 1526940894
+      num_games_owned: 75
+      num_reviews: 13
+      playtime_at_review: 7
+      playtime_forever: 7
+      playtime_last_two_weeks: 0
+      steamid: '76561198058220163'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82845445'
+    review: As a motorcyclist, I recommend you stay away from this pile of garbage.
+      It WILL make you sick even if you can handle VR just fine. You will NOT receive
+      a refund. It DOESN'T handle like a bike at all. The physics make RIDE look like
+      Assetto Corsa. Get this abandonware crap off steam.
+    steam_purchase: true
+    timestamp_created: 1608585486
+    timestamp_updated: 1608585486
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

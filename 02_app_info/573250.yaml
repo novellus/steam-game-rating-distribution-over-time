@@ -1,0 +1,53 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Oudidon
+    fullgame:
+      appid: '573070'
+      name: BAFL - Brakes Are For Losers
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/573250/header.jpg?t=1551359774
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: BAFL - Brakes Are For Losers Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Dear Villagers
+    - Plug In Digital
+    release_date:
+      coming_soon: false
+      date: Oct 13, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 573250
+    support_info:
+      email: bafl@thesidek.com
+      url: http://www.bafl-game.com
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

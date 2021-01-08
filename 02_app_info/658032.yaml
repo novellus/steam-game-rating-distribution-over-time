@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '653400'
+      name: Anne Happy!
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/653400/header.jpg?t=1553553438
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Anne Happy!: My First Happiness Training'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Anne Happy!: My First Happiness Training - $1.99'
+        packageid: 186016
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Anne Happy!: My First Happiness Training'
+    packages:
+    - 186016
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: Today's lesson for class 1-7 of Tennomifune Academy is a dice
+      game?! Hanako, Hbari, and Botan form a team and set out for the finish line,
+      but at this rate they'll finish last. Meanwhile, their competitive classmate
+      Hagyu Hibiki is determined to win as she drags along her childhood friend Ekoda...
+    steam_appid: 658032
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4tbOZ7dwCd7LsfA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1533572545
+      num_games_owned: 449
+      num_reviews: 125
+      playtime_at_review: 47
+      playtime_forever: 217
+      playtime_last_two_weeks: 0
+      steamid: '76561198056431281'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '32727847'
+    review: "\u0421\u0435\u0440\u0438\u0439 \u043C\u043D\u043E\u0433\u043E, \u0438\
+      \ \u0432 \u043A\u0430\u0436\u0434\u043E\u0439 \u043F\u0440\u0438 \u0431\u043E\
+      \u043B\u044C\u0448\u043E\u0439 \u0441\u043C\u044B\u0441\u043B"
+    steam_purchase: true
+    timestamp_created: 1498312711
+    timestamp_updated: 1498312711
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

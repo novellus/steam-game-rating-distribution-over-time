@@ -1,0 +1,149 @@
+details:
+  data:
+    about_the_game: "Ever wanted to use a huge sledgehammer to destroy your foes while\
+      \ having a maniac murderer mask on your face? Well now its possible! <br />\r\
+      \n<br />\r\nThis DLC unlocks you the Maniac Viking -skin + the Maniac mask for\
+      \ any class in game."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/520320/page_bg_generated_v6b.jpg?t=1564580212
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Ever wanted to use a huge sledgehammer to destroy your\
+      \ foes while having a maniac murderer mask on your face? Well now its possible!\
+      \ <br />\r\n<br />\r\nThis DLC unlocks you the Maniac Viking -skin + the Maniac\
+      \ mask for any class in game."
+    developers:
+    - Elias Viglione
+    - Jussi Kukkonen
+    fullgame:
+      appid: '269210'
+      name: Hero Siege
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/520320/header.jpg?t=1564580212
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+    name: Skin - Maniac Viking
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Maniac Viking - <span class="discount_original_price">$1.99</span>
+          $1.19
+        packageid: 123285
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 119
+      title: Buy Skin - Maniac Viking
+    packages:
+    - 123285
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 119
+      final_formatted: $1.19
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 29, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_8aa529db7d3d6979b78dab664c793d7938624624.1920x1080.jpg?t=1564580212
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_8aa529db7d3d6979b78dab664c793d7938624624.600x338.jpg?t=1564580212
+    short_description: Ever wanted to use a huge sledgehammer to destroy your foes
+      while having a maniac murderer mask on your face? Well now its possible! This
+      DLC unlocks you the Maniac Viking -skin + the Maniac mask for any class in game.
+    steam_appid: 520320
+    support_info:
+      email: panicartstudios@gmail.com
+      url: http://panicartstudios.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwv57FqO4Cf6Hx2AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 7
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198816753850'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '56855071'
+    review: "\u600E\u4E48\u88C5\u5907\u554A"
+    steam_purchase: true
+    timestamp_created: 1573318358
+    timestamp_updated: 1573318358
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: "Listen to everyone giving their best to voice various characters\
+      \ of Halfquake, and look at dozens of various notes and sketches.<br />\r\n\
+      <br />\r\nAll files retain their original names for authenticity.<br />\r\n\
+      <br />\r\n(This was previously available on the Halfquake DVD.)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/910930/page_bg_generated_v6b.jpg?t=1538751762
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Listen to everyone giving their best to voice various characters\
+      \ of Halfquake, and look at dozens of various notes and sketches.<br />\r\n\
+      <br />\r\nAll files retain their original names for authenticity.<br />\r\n\
+      <br />\r\n(This was previously available on the Halfquake DVD.)"
+    developers:
+    - Philipp Lehner
+    fullgame:
+      appid: '644320'
+      name: Halfquake Trilogy
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Free to Play
+      id: '37'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/910930/header.jpg?t=1538751762
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Behind The Death Scenes
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Behind The Death Scenes - $0.99
+        packageid: 292101
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Behind The Death Scenes
+    packages:
+    - 292101
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 500 MHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB Video Card<br></li><li><strong>Storage:</strong>
+        642 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 5, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_1892bb65fd31b75bd4fbf7a5bc189001cc4e19af.1920x1080.jpg?t=1538751762
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_1892bb65fd31b75bd4fbf7a5bc189001cc4e19af.600x338.jpg?t=1538751762
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_6ac9383d2ad3b0bc65d21ec58d0c9750963f0f7b.1920x1080.jpg?t=1538751762
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_6ac9383d2ad3b0bc65d21ec58d0c9750963f0f7b.600x338.jpg?t=1538751762
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_d61bf0233f089444432d8816698bb2e97e241d51.1920x1080.jpg?t=1538751762
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_d61bf0233f089444432d8816698bb2e97e241d51.600x338.jpg?t=1538751762
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_6619511d385a461797b673919a2889d73d249224.1920x1080.jpg?t=1538751762
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/910930/ss_6619511d385a461797b673919a2889d73d249224.600x338.jpg?t=1538751762
+    short_description: Contains various bloopers, notes and sketches.
+    steam_appid: 910930
+    support_info:
+      email: muddasheep@gmail.com
+      url: http://www.muddasheep.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.moddb.com/mods/halfquake-sunrise
+  success: true
+reviews:
+  cursor: AoJ44Ja5yvECepmLggI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 0
+    total_positive: 5
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 497
+      num_reviews: 25
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198029054175'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '67656090'
+    review: Cool 2.
+    steam_purchase: true
+    timestamp_created: 1587340949
+    timestamp_updated: 1587340949
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

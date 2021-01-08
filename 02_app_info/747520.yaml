@@ -1,0 +1,292 @@
+details:
+  data:
+    about_the_game: Create beautiful buildings for your game environment in few clicks!<br>Building
+      Generator is a procedural building generator plug-in for S2ENGINE HD editor.<br>It
+      lets you to create quality and realistic building 3d models with minimal effort.<br><br>If
+      you need 3d building models for your game environment but you aren't a professional
+      3d artist, or you don't want to waste money in buying 3rd party building models,
+      S2ENGINE HD Building Generator is what you are looking for!<br><br>Unlike similar
+      commercial products S2ENGINE HD Building Generator is completely procedural,
+      no external meshes to compose, all geometry is created by the program and highly
+      customizable.<h2 class="bb_tag">FEATURES</h2><ul class="bb_ul"><li> Completely
+      procedural geometry generation<br></li><li> Multiple types of customizable roofs<br></li><li>
+      Lots of different customizable window, door, balcony types<br></li><li> Second
+      UV texture channel generation for material layers painting<br></li><li> Multiple
+      buildings packed texture atlas for speeding up rendering<br></li><li> Customizable
+      building structure (roofs, pillars, floors, ground floor) for generating various
+      modules to be composed into S2ENGINE HD Editor SceneViewport<br></li><li> A
+      set of premade buildings you can use as template</li></ul><h2 class="bb_tag">FUTURE
+      IMPROVEMENTS</h2>Just like other S2ENGINE HD DLCs Building Generator is planned
+      to be expanded and improved in the next future. <br>Following are some of features
+      we are planning to add:<br><br><ul class="bb_ul"><li> Automated building material
+      generation (DONE)<br></li><li> Export for use into external applications (DONE)<br></li><li>
+      New windows and doors types<br></li><li> Enhanced building details<br></li><li>
+      Automatic LOD generation<br></li><li> Building Indoor generation</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/747520/page_bg_generated_v6b.jpg?t=1557851200
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Create beautiful buildings for your game environment in
+      few clicks!<br>Building Generator is a procedural building generator plug-in
+      for S2ENGINE HD editor.<br>It lets you to create quality and realistic building
+      3d models with minimal effort.<br><br>If you need 3d building models for your
+      game environment but you aren't a professional 3d artist, or you don't want
+      to waste money in buying 3rd party building models, S2ENGINE HD Building Generator
+      is what you are looking for!<br><br>Unlike similar commercial products S2ENGINE
+      HD Building Generator is completely procedural, no external meshes to compose,
+      all geometry is created by the program and highly customizable.<h2 class="bb_tag">FEATURES</h2><ul
+      class="bb_ul"><li> Completely procedural geometry generation<br></li><li> Multiple
+      types of customizable roofs<br></li><li> Lots of different customizable window,
+      door, balcony types<br></li><li> Second UV texture channel generation for material
+      layers painting<br></li><li> Multiple buildings packed texture atlas for speeding
+      up rendering<br></li><li> Customizable building structure (roofs, pillars, floors,
+      ground floor) for generating various modules to be composed into S2ENGINE HD
+      Editor SceneViewport<br></li><li> A set of premade buildings you can use as
+      template</li></ul><h2 class="bb_tag">FUTURE IMPROVEMENTS</h2>Just like other
+      S2ENGINE HD DLCs Building Generator is planned to be expanded and improved in
+      the next future. <br>Following are some of features we are planning to add:<br><br><ul
+      class="bb_ul"><li> Automated building material generation (DONE)<br></li><li>
+      Export for use into external applications (DONE)<br></li><li> New windows and
+      doors types<br></li><li> Enhanced building details<br></li><li> Automatic LOD
+      generation<br></li><li> Building Indoor generation</li></ul>
+    developers:
+    - Profenix Studio SRLS
+    fullgame:
+      appid: '443970'
+      name: S2ENGINE HD
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Education
+      id: '54'
+    - description: Software Training
+      id: '56'
+    - description: Utilities
+      id: '57'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/747520/header.jpg?t=1557851200
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256699893
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699893/movie480.mp4?t=1510339380
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699893/movie_max.mp4?t=1510339380
+      name: S2ENGINE - Building Generator Presentation
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256699893/movie.293x165.jpg?t=1510339380
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699893/movie480.webm?t=1510339380
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699893/movie_max.webm?t=1510339380
+    - highlight: true
+      id: 256700800
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256700800/movie480.mp4?t=1510363618
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256700800/movie_max.mp4?t=1510363618
+      name: S2ENGINE - Building Generator Overview Tutorial
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256700800/movie.293x165.jpg?t=1510363618
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256700800/movie480.webm?t=1510363618
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256700800/movie_max.webm?t=1510363618
+    name: S2ENGINE HD - Building Generator
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: S2ENGINE HD - Building Generator - $29.99
+        packageid: 219419
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy S2ENGINE HD - Building Generator
+    packages:
+    - 219419
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7,8,10<br></li><li><strong>Processor:</strong> dual core<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 650 GTX, Radeon HD
+        5850, IntelHD 4000*<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7,8,10<br></li><li><strong>Processor:</strong> quad core<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 970 GTX, Radeon R9
+        390<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 2999
+      final_formatted: $29.99
+      initial: 2999
+      initial_formatted: ''
+    publishers:
+    - Profenix Studio SRLS
+    release_date:
+      coming_soon: false
+      date: Nov 10, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_5a3ee66e0d1e9fe3aef5ff5830af373debe00641.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_5a3ee66e0d1e9fe3aef5ff5830af373debe00641.600x338.jpg?t=1557851200
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_12b98c2d137c139f4dfd836b89b4e692e92dd6d6.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_12b98c2d137c139f4dfd836b89b4e692e92dd6d6.600x338.jpg?t=1557851200
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_31089ae44304a1720a67f4071bdef8872d051d90.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_31089ae44304a1720a67f4071bdef8872d051d90.600x338.jpg?t=1557851200
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_2fb259e5da59e4589e7f09812bb8a24954d2d577.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_2fb259e5da59e4589e7f09812bb8a24954d2d577.600x338.jpg?t=1557851200
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_3b0d7438782238a9cc1d68d3efb9f6c4854f94f8.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_3b0d7438782238a9cc1d68d3efb9f6c4854f94f8.600x338.jpg?t=1557851200
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_93b9facc637ed42b0195ebd4945aadee14f1698f.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_93b9facc637ed42b0195ebd4945aadee14f1698f.600x338.jpg?t=1557851200
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_d03c5b8010a54caf89397a1ec60b83b3c7515b80.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_d03c5b8010a54caf89397a1ec60b83b3c7515b80.600x338.jpg?t=1557851200
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_70ee1f6c38b5237a0faf90c5e79ff64f943fb125.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_70ee1f6c38b5237a0faf90c5e79ff64f943fb125.600x338.jpg?t=1557851200
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_95e8aea86eec0754a5bf339cbe6f82d6fea9c700.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_95e8aea86eec0754a5bf339cbe6f82d6fea9c700.600x338.jpg?t=1557851200
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_864b9d679d2f2b3d512316c70209fac97037e70a.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_864b9d679d2f2b3d512316c70209fac97037e70a.600x338.jpg?t=1557851200
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_d572abdcabd1512bf0eaf3c0548c810fc397cc75.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_d572abdcabd1512bf0eaf3c0548c810fc397cc75.600x338.jpg?t=1557851200
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_2c92dbb40e6e9c81498492fe37414918a9147ac0.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_2c92dbb40e6e9c81498492fe37414918a9147ac0.600x338.jpg?t=1557851200
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_453b0e6f4b27d41c5ef3cba7780e72167d02a872.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_453b0e6f4b27d41c5ef3cba7780e72167d02a872.600x338.jpg?t=1557851200
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_aef0167db965aacbfc16ab16ba8753a09a37b988.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_aef0167db965aacbfc16ab16ba8753a09a37b988.600x338.jpg?t=1557851200
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_20cf496eabf7a93803a933b80464b3dfdfb0cf92.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_20cf496eabf7a93803a933b80464b3dfdfb0cf92.600x338.jpg?t=1557851200
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_9b04a8f07091044ac65ac15494e8f4370b6f2863.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_9b04a8f07091044ac65ac15494e8f4370b6f2863.600x338.jpg?t=1557851200
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_3592cc7139eee5ad6ef28e4beec5d54b90ddfd81.1920x1080.jpg?t=1557851200
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/747520/ss_3592cc7139eee5ad6ef28e4beec5d54b90ddfd81.600x338.jpg?t=1557851200
+    short_description: Create beautiful buildings for your game environment in few
+      clicks! Building Generator is a procedural building generator plug-in for S2ENGINE
+      HD editor. With minimal effort you will be able to create realistic and wonderful
+      building 3d models.
+    steam_appid: 747520
+    support_info:
+      email: profenixstudio@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://www.s2powered.com/
+  success: true
+reviews:
+  cursor: AoJwqovb1PUCebKbrQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 10
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 275
+      num_reviews: 24
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198030641584'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '78961449'
+    review: "\u042D\u0442\u043E\u0442 \u043F\u043B\u0430\u0433\u0438\u043D \u043C\u0435\
+      \u043D\u044F \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043B\u044C\
+      \u043D\u043E \u0443\u0434\u0438\u0432\u0438\u043B. \u0412\u0441\u0435 \u0441\
+      \u0433\u0435\u043D\u0435\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\
+      \u0435 \u043C\u043E\u0434\u0435\u043B\u0438 \u0437\u0434\u0430\u043D\u0438\u0439\
+      \ \u0438\u043C\u0435\u044E\u0442 \u043E\u0447\u0435\u043D\u044C \u0432\u044B\
+      \u0441\u043E\u043A\u043E\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u043E\
+      . \u042F \u0434\u043E\u0432\u043E\u043B\u0435\u043D! \u0425\u043E\u0442\u0435\
+      \u043B\u043E\u0441\u044C \u0431\u044B \u0438\u043C\u0435\u0442\u044C \u0442\u0430\
+      \u043A\u043E\u0439 \u0436\u0435 \u043F\u043B\u0430\u0433\u0438\u043D \u0434\u043B\
+      \u044F \u0433\u0435\u043D\u0435\u0440\u0430\u0446\u0438\u0438 \u0441\u0440\u0435\
+      \u0434\u043D\u0435\u0432\u0435\u043A\u043E\u0432\u044B\u0445 \u0437\u0434\u0430\
+      \u043D\u0438\u0439. \n\n\u0415\u0441\u043B\u0438 \u0431\u044B \u044F \u0437\u043D\
+      \u0430\u043B, \u0447\u0442\u043E \u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\
+      \u0440 \u0437\u0434\u0430\u043D\u0438\u0439 \u043D\u0430\u0441\u0442\u043E\u043B\
+      \u044C\u043A\u043E \u043A\u0440\u0443\u0442\u043E\u0439, \u0442\u043E \u043A\
+      \u0443\u043F\u0438\u043B \u0431\u044B \u044D\u0442\u043E\u0442 \u043F\u043B\u0430\
+      \u0433\u0438\u043D \u0434\u0430\u0432\u043D\u044B\u043C \u0434\u0430\u0432\u043D\
+      \u043E. \u042D\u0442\u043E\u0442 \u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\
+      \u0440 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0442 \u0443\u0439\u043C\u0443\
+      \ \u0432\u0440\u0435\u043C\u0435\u043D\u0438. \u0417\u0430 \u043D\u0435\u0441\
+      \u043A\u043E\u043B\u044C\u043A\u043E \u043C\u0438\u043D\u0443\u0442 \u0441\u043E\
+      \u0437\u0434\u0430\u0451\u0442 \u043C\u043E\u0434\u0435\u043B\u044C \u0437\u0434\
+      \u0430\u043D\u0438\u044F, \u0430 \u0437\u0430\u0442\u0435\u043C, \u0435\u0441\
+      \u043B\u0438 \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E, \u043C\
+      \u043E\u0436\u043D\u043E \u044D\u043A\u0441\u043F\u043E\u0440\u0442\u0438\u0440\
+      \u043E\u0432\u0430\u0442\u044C \u0441\u0433\u0435\u043D\u0435\u0440\u0438\u0440\
+      \u043E\u0432\u0430\u043D\u043D\u0443\u044E \u043C\u043E\u0434\u0435\u043B\u044C\
+      \ \u0434\u043E\u043C\u0430 \u0432 \u043B\u044E\u0431\u0443\u044E \u043F\u0440\
+      \u043E\u0433\u0440\u0430\u043C\u043C\u0443 3D-\u043C\u043E\u0434\u0435\u043B\
+      \u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u0438 \u0442\u0430\u043C \u0443\
+      \u0436\u0435 \u043A\u0430\u043A \u0443\u0433\u043E\u0434\u043D\u043E \u043E\u0442\
+      \u0440\u0435\u0434\u0430\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C\
+      \ \u043E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u0443\u044E\
+      \ \u0432\u0435\u0440\u0441\u0438\u044E \u0437\u0434\u0430\u043D\u0438\u044F\
+      . \u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440 \u0437\u0434\u0430\u043D\
+      \u0438\u0439 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043B\u044C\
+      \u043D\u043E \u043E\u0447\u0435\u043D\u044C \u043A\u0440\u0443\u0442!\n\n\u0411\
+      \u044B\u043B\u043E \u0431\u044B \u0441\u043E\u0432\u0441\u0435\u043C \u0438\u0434\
+      \u0435\u0430\u043B\u044C\u043D\u043E, \u0435\u0441\u043B\u0438 \u0431\u044B\
+      \ \u0432 \u0431\u0443\u0434\u0443\u0449\u0438\u0445 \u043E\u0431\u043D\u043E\
+      \u0432\u043B\u0435\u043D\u0438\u044F\u0445 \u0441\u0434\u0435\u043B\u0430\u043B\
+      \u0438 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0433\
+      \u0435\u043D\u0435\u0440\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0432\u043D\
+      \u0443\u0442\u0440\u0435\u043D\u043D\u0438\u0435 \u043F\u043E\u043C\u0435\u0449\
+      \u0435\u043D\u0438\u044F, \u0434\u0432\u0435\u0440\u043D\u044B\u0435 \u043F\u0440\
+      \u043E\u0451\u043C\u044B \u0438 \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u044B\
+      \ \u043C\u0435\u0436\u0434\u0443 \u044D\u0442\u0430\u0436\u0430\u043C\u0438\
+      . \u0427\u0442\u043E\u0431\u044B \u0432 \u0437\u0434\u0430\u043D\u0438\u0435\
+      \ \u043C\u043E\u0436\u043D\u043E \u0431\u044B\u043B\u043E \u0432\u043E\u0439\
+      \u0442\u0438. \u0421\u0435\u0439\u0447\u0430\u0441 \u0432\u043E\u0439\u0442\u0438\
+      \ \u0432 \u0437\u0434\u0430\u043D\u0438\u0435 \u043D\u0435\u043B\u044C\u0437\
+      \u044F."
+    steam_purchase: true
+    timestamp_created: 1604865252
+    timestamp_updated: 1604865252
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.562557339668273926'
+    written_during_early_access: false
+  success: 1

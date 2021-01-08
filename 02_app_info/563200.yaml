@@ -1,0 +1,150 @@
+details:
+  data:
+    about_the_game: Slay is a turn based strategy game where your goal is to conquer
+      the island by buying men and using them to capture your enemies' hexagons. By
+      combining two men you can create a single more powerful man who is able to kill
+      weaker men. The twist to the game is that the more powerful a man that you create
+      is, the more expensive he is to maintain. Men cannot be un-bought so you must
+      tread a fine line between building up your forces, and not being rashly ambitious.
+      Sneakily cutting an enemy territory in half to bankrupt one side of it is an
+      essential skill to learn!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/563200/page_bg_generated_v6b.jpg?t=1480526850
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Slay is a turn based strategy game where your goal is to
+      conquer the island by buying men and using them to capture your enemies' hexagons.
+      By combining two men you can create a single more powerful man who is able to
+      kill weaker men. The twist to the game is that the more powerful a man that
+      you create is, the more expensive he is to maintain. Men cannot be un-bought
+      so you must tread a fine line between building up your forces, and not being
+      rashly ambitious. Sneakily cutting an enemy territory in half to bankrupt one
+      side of it is an essential skill to learn!
+    developers:
+    - Sean O'Connor
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/563200/header.jpg?t=1480526850
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256675312
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256675312/movie480.mp4?t=1480526840
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256675312/movie_max.mp4?t=1480526840
+      name: Default
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256675312/movie.293x165.jpg?t=1480526840
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256675312/movie480.webm?t=1480526840
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256675312/movie_max.webm?t=1480526840
+    name: Slay
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Slay - $9.99
+        packageid: 141638
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Slay
+    packages:
+    - 141638
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        80 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound
+        Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Sean O'Connor
+    release_date:
+      coming_soon: false
+      date: Nov 30, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_5a2d7cf633c2b56df7ff8ece4a118796652590f0.1920x1080.jpg?t=1480526850
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_5a2d7cf633c2b56df7ff8ece4a118796652590f0.600x338.jpg?t=1480526850
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_48bee01d69f4afb975372bafac5b9104844bf873.1920x1080.jpg?t=1480526850
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_48bee01d69f4afb975372bafac5b9104844bf873.600x338.jpg?t=1480526850
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_dcfcd0f0ee371bbf186630cc356d7ccdefaed12e.1920x1080.jpg?t=1480526850
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_dcfcd0f0ee371bbf186630cc356d7ccdefaed12e.600x338.jpg?t=1480526850
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_4fea5d860ea1672d1ee9b752592f31e0a90ea00e.1920x1080.jpg?t=1480526850
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_4fea5d860ea1672d1ee9b752592f31e0a90ea00e.600x338.jpg?t=1480526850
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_0a6812845977fdcfaf0529dac461ba5e61bdf047.1920x1080.jpg?t=1480526850
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/563200/ss_0a6812845977fdcfaf0529dac461ba5e61bdf047.600x338.jpg?t=1480526850
+    short_description: Slay is a turn based strategy game where your goal is to conquer
+      the island by buying men and using them to capture your enemies' hexagons. By
+      combining two men you can create a single more powerful man who is able to kill
+      weaker men.
+    steam_appid: 563200
+    support_info:
+      email: sean@windowsgames.co.uk
+      url: http://www.windowsgames.co.uk/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.windowsgames.co.uk/slay.html
+  success: true
+reviews:
+  cursor: AoJwha+PmfYCcb+6twI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 16
+    total_positive: 73
+    total_reviews: 89
+  reviews:
+  - author:
+      last_played: 1609874115
+      num_games_owned: 23
+      num_reviews: 1
+      playtime_at_review: 31580
+      playtime_forever: 32573
+      playtime_last_two_weeks: 945
+      steamid: '76561198048403558'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81646577'
+    review: Best time killer ever made. Simple concept but challenging at the same
+      time.
+    steam_purchase: true
+    timestamp_created: 1607160658
+    timestamp_updated: 1607160658
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,74 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Flyleap Studios Pty. Ltd.
+    fullgame:
+      appid: '461680'
+      name: FPV Air Tracks
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/571270/header.jpg?t=1482379560
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: FPV Air Tracks Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong>
+        4000 MB RAM<br></li><li><strong>Graphics:</strong> GTX680<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 1000 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Flyleap Studios Pty. Ltd.
+    release_date:
+      coming_soon: false
+      date: Dec 21, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 571270
+    support_info:
+      email: ''
+      url: www.flyleapstudios.com
+    supported_languages: English
+    type: demo
+    website: http://www.flyleapstudios.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: "It's a donation with a couple of game related pictures as colored\
+      \ eggs.<br />\r\nThank you for your donation."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1124100/page_bg_generated_v6b.jpg?t=1600171783
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "It's a donation with a couple of game related pictures\
+      \ as colored eggs.<br />\r\nThank you for your donation."
+    developers:
+    - "\u6211\u59BB\u5BD2\u5341"
+    fullgame:
+      appid: '1124090'
+      name: "\u544A\u6B7B\u5929\u4F7F\u4E4B\u8A00-Death angel"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1124100/header.jpg?t=1600171783
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Death angel - donation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Death angel - donation - $0.99
+        packageid: 381562
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Death angel - donation - Commercial License - $0.99
+        packageid: 390415
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Death angel - donation
+    packages:
+    - 381562
+    - 390415
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> any x86 cpu 1GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> any cpu<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - JingtuStudio
+    release_date:
+      coming_soon: false
+      date: Jul 30, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124100/ss_6a8d00f098ffbe9506fc2d6aa6448b2a9314908d.1920x1080.jpg?t=1600171783
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124100/ss_6a8d00f098ffbe9506fc2d6aa6448b2a9314908d.600x338.jpg?t=1600171783
+    short_description: It's a donation with a couple of game related pictures as colored
+      eggs. Thank you for your donation.
+    steam_appid: 1124100
+    support_info:
+      email: ''
+      url: https://space.bilibili.com/11591868/article
+    supported_languages: Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwk6/n5PUCfqu4rgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 82
+      num_reviews: 12
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198971397766'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '79282878'
+    review: "\u6211\u662F\u6C99\u6BD4"
+    steam_purchase: true
+    timestamp_created: 1605405342
+    timestamp_updated: 1605405342
+    voted_up: true
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

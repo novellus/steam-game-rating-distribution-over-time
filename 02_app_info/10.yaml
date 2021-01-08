@@ -1,0 +1,181 @@
+details:
+  data:
+    about_the_game: Play the world's number 1 online action game. Engage in an incredibly
+      realistic brand of terrorist warfare in this wildly popular team-based game.
+      Ally with teammates to complete strategic missions. Take out enemy sites. Rescue
+      hostages. Your role affects your team's success. Your team's success affects
+      your role.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/10/page_bg_generated_v6b.jpg?t=1602535893
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Valve Anti-Cheat enabled
+      id: 8
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Includes intense violence and blood.
+    detailed_description: Play the world's number 1 online action game. Engage in
+      an incredibly realistic brand of terrorist warfare in this wildly popular team-based
+      game. Ally with teammates to complete strategic missions. Take out enemy sites.
+      Rescue hostages. Your role affects your team's success. Your team's success
+      affects your role.
+    developers:
+    - Valve
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/10/header.jpg?t=1602535893
+    is_free: false
+    linux_requirements:
+      minimum: 'Minimum: Linux Ubuntu 12.04, Dual-core from Intel or AMD at 2.8 GHz,
+        1GB Memory, nVidia GeForce 8600/9600GT, ATI/AMD Radeaon HD2600/3600 (Graphic
+        Drivers: nVidia 310, AMD 12.11), OpenGL 2.1, 4GB Hard Drive Space, OpenAL
+        Compatible Sound Card'
+    mac_requirements:
+      minimum: 'Minimum: OS X  Snow Leopard 10.6.3, 1GB RAM, 4GB Hard Drive Space,NVIDIA
+        GeForce 8 or higher, ATI X1600 or higher, or Intel HD 3000 or higher Mouse,
+        Keyboard, Internet Connection'
+    metacritic:
+      score: 88
+      url: https://www.metacritic.com/game/pc/counter-strike?ftag=MCD-06-10aaa1f
+    name: Counter-Strike
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Counter-Strike: Condition Zero - $9.99'
+        packageid: 7
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Counter-Strike
+    packages:
+    - 7
+    pc_requirements:
+      minimum: "\r\n\t\t\t<p><strong>Minimum:</strong> 500 mhz processor, 96mb ram,\
+        \ 16mb video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\r\
+        \n\t\t\t<p><strong>Recommended:</strong> 800 mhz processor, 128mb ram, 32mb+\
+        \ video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\r\
+        \n\t\t\t"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Valve
+    recommendations:
+      total: 100210
+    release_date:
+      coming_soon: false
+      date: Nov 1, 2000
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000132.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000132.600x338.jpg?t=1602535893
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000133.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000133.600x338.jpg?t=1602535893
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000134.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000134.600x338.jpg?t=1602535893
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000135.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000135.600x338.jpg?t=1602535893
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000136.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000000136.600x338.jpg?t=1602535893
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002540.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002540.600x338.jpg?t=1602535893
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002539.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002539.600x338.jpg?t=1602535893
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002538.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002538.600x338.jpg?t=1602535893
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002537.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002537.600x338.jpg?t=1602535893
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002536.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002536.600x338.jpg?t=1602535893
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002541.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002541.600x338.jpg?t=1602535893
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002542.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002542.600x338.jpg?t=1602535893
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002543.1920x1080.jpg?t=1602535893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/10/0000002543.600x338.jpg?t=1602535893
+    short_description: Play the world's number 1 online action game. Engage in an
+      incredibly realistic brand of terrorist warfare in this wildly popular team-based
+      game. Ally with teammates to complete strategic missions. Take out enemy sites.
+      Rescue hostages. Your role affects your team's success. Your team's success
+      affects your role.
+    steam_appid: 10
+    support_info:
+      email: ''
+      url: http://steamcommunity.com/app/10
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>,
+      Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>,
+      Traditional Chinese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4ueuL7PYCdMyCwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 9
+    review_score_desc: Overwhelmingly Positive
+    total_negative: 3143
+    total_positive: 97047
+    total_reviews: 100190
+  reviews:
+  - author:
+      last_played: 1609945670
+      num_games_owned: 6
+      num_reviews: 2
+      playtime_at_review: 436
+      playtime_forever: 450
+      playtime_last_two_weeks: 450
+      steamid: '76561199039183133'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84153540'
+    review: Pretty GOOD
+    steam_purchase: true
+    timestamp_created: 1609944751
+    timestamp_updated: 1609944751
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

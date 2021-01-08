@@ -1,0 +1,217 @@
+details:
+  data:
+    about_the_game: "Box Factory is an isometric puzzle game where the player needs\
+      \ to push boxes on the right tiles to complete the levels. To move a box to\
+      \ the right place involves logical thinking. This game is of course inspired\
+      \ by Sokoban but with a couple of new game mechanics. The player can use stairs\
+      \ to reach higher places and push boxes down to a lower tile even stack the\
+      \ boxes on top of each other. Other levels include teleports that transports\
+      \ a box to a different place.<br />\r\n<br />\r\nIf you make a mistake you can\
+      \ undo your steps by clicking the undo button. There is also a button that rotates\
+      \ the camera if you need to navigate from a different angle because the game\
+      \ is 3D. Use WASD or the arrow keys or the left stick on the gamepad or use\
+      \ onscreen buttons to move around the map."
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/0cbf978faa4bfb8f12cd73de8ea2ad67b4774ab0.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/2cae0f62e764811ec29091f55c84d26920c96d37.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/cfca3233ca983fc812999a66a1c475cbf597d50a.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/89ce158642d26803fa6411f58ab7f6dabd9aab7e.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/981e6d630aea32fc4d7a415fadfb08a2d8727066.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/81b2007278a7e0949970e065acb38a840d70cc4b.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/4b26d4131c4fd63688fc18ff4d1608c95f54df63.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/11cbe022cf3ea01cd3f8261271494004307fcdd4.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/21cc5cfdfce26652fcf77088a16ff0d880fea95f.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1357750/e86e8388c99aeec276a165c5dc6fa51ad531a193.jpg
+      total: 27
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1357750/page_bg_generated_v6b.jpg?t=1609501573
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Box Factory is an isometric puzzle game where the player\
+      \ needs to push boxes on the right tiles to complete the levels. To move a box\
+      \ to the right place involves logical thinking. This game is of course inspired\
+      \ by Sokoban but with a couple of new game mechanics. The player can use stairs\
+      \ to reach higher places and push boxes down to a lower tile even stack the\
+      \ boxes on top of each other. Other levels include teleports that transports\
+      \ a box to a different place.<br />\r\n<br />\r\nIf you make a mistake you can\
+      \ undo your steps by clicking the undo button. There is also a button that rotates\
+      \ the camera if you need to navigate from a different angle because the game\
+      \ is 3D. Use WASD or the arrow keys or the left stick on the gamepad or use\
+      \ onscreen buttons to move around the map."
+    developers:
+    - NanningsGames
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1357750/header.jpg?t=1609501573
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256790583
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256790583/movie480.mp4?t=1593137353
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256790583/movie_max.mp4?t=1593137353
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256790583/movie.293x165.jpg?t=1593137353
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256790583/movie480_vp9.webm?t=1593137353
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256790583/movie_max_vp9.webm?t=1593137353
+    name: Box Factory
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Box Factory - $0.99
+        packageid: 475923
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Box Factory
+    packages:
+    - 475923
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel(R) Celeron(R)
+        CPU N3450 @ 1.10GHz (cpu 2.2 GHz)<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> Intel(R) HD Graphics (128 MB)<br></li><li><strong>Storage:</strong>
+        120 MB available space<br></li><li><strong>Sound Card:</strong> Intel(R) Display
+        Audio</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - NanningsGames
+    release_date:
+      coming_soon: false
+      date: Jul 9, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_6c10b4f628997adefffe55822d6d4d1b8d79a8d0.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_6c10b4f628997adefffe55822d6d4d1b8d79a8d0.600x338.jpg?t=1609501573
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_a890f4e462edae2fc677c55e581aea82bbbcbd7d.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_a890f4e462edae2fc677c55e581aea82bbbcbd7d.600x338.jpg?t=1609501573
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_2190eed7c4a941f39609bd0aec64b21779145781.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_2190eed7c4a941f39609bd0aec64b21779145781.600x338.jpg?t=1609501573
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_ab9644b93c76da6a0eaf547bd46dd3a2aaea97e3.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_ab9644b93c76da6a0eaf547bd46dd3a2aaea97e3.600x338.jpg?t=1609501573
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_0c5e18cb6e8ba76cecd3eccd1cba7ad412dbecc4.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_0c5e18cb6e8ba76cecd3eccd1cba7ad412dbecc4.600x338.jpg?t=1609501573
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_35da59f2302f6400c7b1dee7ffa770e6d66b1dfc.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_35da59f2302f6400c7b1dee7ffa770e6d66b1dfc.600x338.jpg?t=1609501573
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_c785699f49c40377132be69adfb045e1d7a9c6dd.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_c785699f49c40377132be69adfb045e1d7a9c6dd.600x338.jpg?t=1609501573
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_c6eb1491fbbfb49d231cf650b0677b09ef3b6272.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_c6eb1491fbbfb49d231cf650b0677b09ef3b6272.600x338.jpg?t=1609501573
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_b40851ac0c55d4a6361de112b7f394d1a995b239.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_b40851ac0c55d4a6361de112b7f394d1a995b239.600x338.jpg?t=1609501573
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_e58ce1eedd77e1a60a3474f4e711d74d7a0a5c52.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_e58ce1eedd77e1a60a3474f4e711d74d7a0a5c52.600x338.jpg?t=1609501573
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_c4d17c45a45d8156d0ad5554c753d2a09f26a75e.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_c4d17c45a45d8156d0ad5554c753d2a09f26a75e.600x338.jpg?t=1609501573
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_9975919e6e74f2442d8f2a9719cea05247a86d4f.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_9975919e6e74f2442d8f2a9719cea05247a86d4f.600x338.jpg?t=1609501573
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_049dc1110f557ef1880bc426b501acdcbab9564a.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_049dc1110f557ef1880bc426b501acdcbab9564a.600x338.jpg?t=1609501573
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_2ca3385b8b6ab43a8fb94f0e23fb7303bc7e83cd.1920x1080.jpg?t=1609501573
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357750/ss_2ca3385b8b6ab43a8fb94f0e23fb7303bc7e83cd.600x338.jpg?t=1609501573
+    short_description: Box Factory is an isometric puzzle game where the player needs
+      to push boxes on the right tiles in full 3D and teleports.
+    steam_appid: 1357750
+    support_info:
+      email: mrnannings@gmail.com
+      url: http://www.nannings.nz
+    supported_languages: English
+    type: game
+    website: http://www.nannings.nz
+  success: true
+reviews:
+  cursor: AoJ46arKnfQCdLzHngI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 1
+    total_positive: 5
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1607974381
+      num_games_owned: 42
+      num_reviews: 17
+      playtime_at_review: 170
+      playtime_forever: 188
+      playtime_last_two_weeks: 0
+      steamid: '76561197960511337'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75119556'
+    review: 'I enjoyed playing Box Factory. Puzzles were progressively more difficult
+      even if they seemed simple at first especially the last one (27) which frustrated
+      me for 30 minutes (doh).
+
+
+      Ohh, my graphics card was thrashing at 1,980fps. I think there should be a "limit
+      FPS" option in the settings as it does not need any more than 60 fps and would
+      save electricity and heat'
+    steam_purchase: true
+    timestamp_created: 1598719585
+    timestamp_updated: 1598720399
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

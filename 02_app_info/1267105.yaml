@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: "This DLC extends CUR3D Steam Edition with the following import\
+      \ file format:<br />\r\nAdditive Manufacturing File (*.amf)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1267105/page_bg_generated_v6b.jpg?t=1585997531
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC extends CUR3D Steam Edition with the following\
+      \ import file format:<br />\r\nAdditive Manufacturing File (*.amf)"
+    developers:
+    - RUHRSOURCE GmbH
+    fullgame:
+      appid: '668660'
+      name: CUR3D Steam Edition
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Education
+      id: '54'
+    - description: Software Training
+      id: '56'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1267105/header.jpg?t=1585997531
+    is_free: false
+    legal_notice: "\xA9 2015-2020 RUHRSOURCE GmbH, Germany<br />\r\n<br />\r\n*Microsoft\xAE\
+      , Windows\xAE, Windows 7\xAE und DirectX\xAE Are trademarks or registered trademarks\
+      \ of Microsoft Corporation in the United States and / or other countries."
+    linux_requirements: []
+    mac_requirements: []
+    name: Additive Manufacturing File (*.amf)
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Additive Manufacturing File (*.amf) - <span class="discount_original_price">$1.99</span>
+          $0.49
+        packageid: 440836
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 49
+      title: Buy Additive Manufacturing File (*.amf)
+    packages:
+    - 440836
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Microsoft Windows 7*<br></li><li><strong>Processor:</strong> 64 bit system<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX* 11 graphics card<br></li><li><strong>DirectX:</strong>
+        Version 11</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 49
+      final_formatted: $0.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - RUHRSOURCE GmbH
+    release_date:
+      coming_soon: false
+      date: Apr 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1267105/ss_443feb1048ca6024e3fc8c0e83002242729b36bc.1920x1080.jpg?t=1585997531
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1267105/ss_443feb1048ca6024e3fc8c0e83002242729b36bc.600x338.jpg?t=1585997531
+    short_description: 'This DLC extends CUR3D Steam Edition with the following import
+      file format: Additive Manufacturing File (*.'
+    steam_appid: 1267105
+    support_info:
+      email: steam@ruhrsource.com
+      url: https://www.ruhrsource.com
+    supported_languages: English, German, Simplified Chinese
+    type: dlc
+    website: https://www.ruhrsource.com/cur3d/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

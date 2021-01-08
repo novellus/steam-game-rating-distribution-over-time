@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: "This is just a donation.<br />\r\nThank you for your donation!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1120070/page_bg_generated_v6b.jpg?t=1563444407
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is just a donation.<br />\r\nThank you for your donation!"
+    developers:
+    - "\u673D\u6728\u5E03\u53EF\u51CB\u591C"
+    fullgame:
+      appid: '1120050'
+      name: Hyacinthus
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1120070/header.jpg?t=1563444407
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Hyacinthus-donation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hyacinthus-donation - $0.99
+        packageid: 379477
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hyacinthus-donation - Commercial License - $0.99
+        packageid: 382224
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Hyacinthus-donation
+    packages:
+    - 379477
+    - 382224
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows xp or later<br></li><li><strong>Processor:</strong> any cpu 1GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - JingtuStudio
+    release_date:
+      coming_soon: false
+      date: Jul 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1120070/ss_33ba7a6c37a4825cbc7bd1b6b75460ba959b12d2.1920x1080.jpg?t=1563444407
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1120070/ss_33ba7a6c37a4825cbc7bd1b6b75460ba959b12d2.600x338.jpg?t=1563444407
+    short_description: This is just a donation. Thank you for your donation!
+    steam_appid: 1120070
+    support_info:
+      email: ''
+      url: https://weibo.com/moulderwood
+    supported_languages: Japanese, Simplified Chinese, Traditional Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

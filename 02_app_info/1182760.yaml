@@ -1,0 +1,184 @@
+details:
+  data:
+    about_the_game: "This is a simple casual game.You only need to do is clicking\
+      \ the right stars.<br />\r\nHow to play:<br />\r\nClick the yellow stars to\
+      \ collect them, avoid to click blue and green stars.<br />\r\nFeatures:<br />\r\
+      \n-4 kind of stars<br />\r\n-10 different background"
+    achievements:
+      highlighted:
+      - name: Starlight Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/b60d6579a975de14e8d416e5490078abb2bef03a.jpg
+      - name: Starlight Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/c315921a8df8f73b0565ccb22147ff43d3de05c1.jpg
+      - name: Starlight Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/e34f1f7118c499b8bfd699aa26b0abfd2b2cd146.jpg
+      - name: Starlight Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/e4d9594b577429abfcd65bf87e96519ad23aece7.jpg
+      - name: Starlight Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/7236ea3a45572497ca094cc46ee22a7916c69f28.jpg
+      - name: Starlight Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/645c49a1cdaf5002040c890d9944ba7aed211953.jpg
+      - name: Starlight Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/69c11be341bf54fb57dc87575233027b631fb160.jpg
+      - name: Starlight Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/d5b08baac978618931abdad0bfdf8d4881ac5b43.jpg
+      - name: Starlight Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/7c1d3088594a687032135976853e0c8f40f5d685.jpg
+      - name: Starlight Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182760/e3886910b5dddda47bc87bb5264dbc4a6d2b4bfa.jpg
+      total: 32
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1182760/page_bg_generated_v6b.jpg?t=1574865675
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is a simple casual game.You only need to do is clicking\
+      \ the right stars.<br />\r\nHow to play:<br />\r\nClick the yellow stars to\
+      \ collect them, avoid to click blue and green stars.<br />\r\nFeatures:<br />\r\
+      \n-4 kind of stars<br />\r\n-10 different background"
+    developers:
+    - Bambuseae Games
+    dlc:
+    - 1195840
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1182760/header.jpg?t=1574865675
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256766635
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766635/movie480.mp4?t=1574865669
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766635/movie_max.mp4?t=1574865669
+      name: StarlightTrailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256766635/movie.293x165.jpg?t=1574865669
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256766635/movie480.webm?t=1574865669
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256766635/movie_max.webm?t=1574865669
+    name: Starlight
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Starlight - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 406626
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Starlight - Commercial License - $0.99
+        packageid: 431308
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Starlight
+    packages:
+    - 406626
+    - 431308
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WIN7 SP1/WIN8/WIN10/XP<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible graphics
+        card<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Bambuseae Games
+    recommendations:
+      total: 105
+    release_date:
+      coming_soon: false
+      date: Nov 24, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_85b4b737d4d3288c89b2f80d9b83b28010280524.1920x1080.jpg?t=1574865675
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_85b4b737d4d3288c89b2f80d9b83b28010280524.600x338.jpg?t=1574865675
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_8983382d95fe6ebf659395b6f94fe6368c8fdeb2.1920x1080.jpg?t=1574865675
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_8983382d95fe6ebf659395b6f94fe6368c8fdeb2.600x338.jpg?t=1574865675
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_d24ecd25461d008477fb0b5bd3dcdf56bf391e4c.1920x1080.jpg?t=1574865675
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_d24ecd25461d008477fb0b5bd3dcdf56bf391e4c.600x338.jpg?t=1574865675
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_17792f4e2a15a39aab4e2f9b6c68efc052a785ff.1920x1080.jpg?t=1574865675
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_17792f4e2a15a39aab4e2f9b6c68efc052a785ff.600x338.jpg?t=1574865675
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_1832fd21e76be5b0e5beadce64da7e8d1bbe22ad.1920x1080.jpg?t=1574865675
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1182760/ss_1832fd21e76be5b0e5beadce64da7e8d1bbe22ad.600x338.jpg?t=1574865675
+    short_description: This is a simple casual game.You only need to do is clicking
+      the right stars.
+    steam_appid: 1182760
+    support_info:
+      email: BambuseaeGames@gmail.com
+      url: ''
+    supported_languages: English, German, Ukrainian, Russian, Turkish, Japanese, Thai,
+      Simplified Chinese, Traditional Chinese, Portuguese, Spanish - Latin America,
+      Korean
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ41Nab6PYCc7fKwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 46
+    total_positive: 59
+    total_reviews: 105
+  reviews:
+  - author:
+      last_played: 1609814579
+      num_games_owned: 95
+      num_reviews: 112
+      playtime_at_review: 8
+      playtime_forever: 8
+      playtime_last_two_weeks: 8
+      steamid: '76561198150349452'
+    comment_count: 0
+    language: portuguese
+    received_for_free: false
+    recommendationid: '84038515'
+    review: "esse jogo e muito estupido \n\ne feito para crian\xE7a ( devido a dificuldade)\
+      \ mas tem +18\n\n\nmano que merda \xE9 essa pora\n\n\nrecomendo so pelo +18\n\
+      \n\nrecomendo: 5/10"
+    steam_purchase: true
+    timestamp_created: 1609814685
+    timestamp_updated: 1609814685
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

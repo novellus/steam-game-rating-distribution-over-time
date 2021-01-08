@@ -1,0 +1,123 @@
+details:
+  data:
+    about_the_game: Online User Registration code
+    background: https://steamcdn-a.akamaihd.net/steam/apps/388700/page_bg_generated_v6b.jpg?t=1550181107
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Online User Registration code
+    developers:
+    - KOEI TECMO GAMES CO., LTD.
+    fullgame:
+      appid: '292990'
+      name: 'NOBUNAGA''S AMBITION: Souzou (Traditional Chinese version)'
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/388700/header.jpg?t=1550181107
+    is_free: false
+    legal_notice: "\xA92013-2014 KOEI TECMO GAMES CO., LTD.  All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: "Nobunaga's Ambition: Souzou WPK(TC) - GAMECITY\u7DDA\u4E0A\u7528\u6236\u767B\
+      \u9304\u7528\u5E8F\u865F"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Nobunaga''s Ambition: Souzou with Power Up Kit - $42.99'
+        packageid: 73346
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 4299
+      title: "Buy Nobunaga's Ambition: Souzou WPK(TC) - GAMECITY\u7DDA\u4E0A\u7528\
+        \u6236\u767B\u9304\u7528\u5E8F\u865F"
+    packages:
+    - 73346
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Traditional Chinese Windows\xAE Vista, Windows\xAE 7, Windows\xAE 8, Windows\xAE\
+        \ 8.1<br></li><li><strong>Processor:</strong> Pentium\xAE4 1.6GHz<br></li><li><strong>Memory:</strong>\
+        \ 256 MB RAM<br></li><li><strong>Graphics:</strong> VRAM 128MB or better<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional\
+        \ Notes:</strong> This game is only supported for Traditional Chinese versions\
+        \ of Windows\xAE Vista, Windows\xAE 7, Windows\xAE 8, Windows\xAE 8.1.</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 4299
+      final_formatted: $42.99
+      initial: 4299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 21, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/388700/ss_0bfd7843107a1bb5a732088bca0a7bd24fe0483d.1920x1080.jpg?t=1550181107
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/388700/ss_0bfd7843107a1bb5a732088bca0a7bd24fe0483d.600x338.jpg?t=1550181107
+    short_description: Online User Registration code
+    steam_appid: 388700
+    support_info:
+      email: service@koeitecmo.com.tw
+      url: http://www.koei.com.tw/html/support/
+    supported_languages: Traditional Chinese
+    type: dlc
+    website: http://www.gamecity.com.tw/souzou/
+  success: true
+reviews:
+  cursor: AoJ4u+6b7PECfc6XhQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 3
+    total_positive: 2
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 24
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198994223789'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '68467949'
+    review: "\u81EA\u5EFA\u6B66\u5C06\u59D3\u540D\u95EE\u9898\u662F\u4FE1\u957F\u7CFB\
+      \u5217\u7684\u901A\u75C5\u3002\u5C31\u7B97\u7528qq\u3001\u641C\u72D7\u5927\u4E94\
+      \u7801\u4E5F\u4E0D\u662F\u5B8C\u5168\u53EF\u4EE5\u89E3\u51B3\u3002\u7EC6\u8282\
+      \u51B3\u5B9A\u6210\u8D25\u554A\uFF01\u6697\u803B\u4F60\u53EF\u957F\u70B9\u5FC3\
+      \u628A\u3002"
+    steam_purchase: true
+    timestamp_created: 1588474115
+    timestamp_updated: 1588474115
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.525862038135528564'
+    written_during_early_access: false
+  success: 1

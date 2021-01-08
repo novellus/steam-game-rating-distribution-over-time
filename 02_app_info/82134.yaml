@@ -1,0 +1,85 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Fun Labs
+    fullgame:
+      appid: '214210'
+      name: Uninitialized
+    genres:
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/82134/header.jpg?t=1447356893
+    is_free: false
+    legal_notice: "\xA92012 Activision Publishing, Inc. Activision is a registered\
+      \ trademark of Activision Publishing Inc. All rights reserved. Cabela\u2019\
+      s and the Cabela\u2019s logo are registered trademarks of Cabela\u2019s Inc.\
+      \ ESRB rating icons are registered trademarks of the Entertainment Software\
+      \ Association (ESA) and may not be used without permission of the ESA.  All\
+      \ other trademarks and trade names are the properties of their respective owners."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 82134
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82134/movie480.mp4?t=1447356893
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82134/movie_max.mp4?t=1447356893
+      name: Cabelas Hunting Expeditions Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/82134/movie.293x165.jpg?t=1447356893
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82134/movie480.webm?t=1447356893
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82134/movie_max.webm?t=1447356893
+    name: Cabelas Hunting Expeditions Trailer
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>\
+        \ Windows\xAE XP (with Service Pack 2 or higher)</li>\n\t<li><strong>Processor:</strong>\
+        \ Intel Core\xAE 2 2 GHz or higher</li>\n\t<li><strong>Memory:</strong> 1\
+        \ GB RAM</li>\n\t<li><strong>Graphics:</strong> NVidia GeForce 8600 GT 256MB</li>\n\
+        \t<li><strong>DirectX&reg;:</strong> 9.0c</li>\n\t<li><strong>Hard Drive:</strong>\
+        \ 5 GB HD space</li>\n\t<li><strong>Sound:</strong> 100% DirectX 9.0c compatible\
+        \ sound card</li>\n\t<li><strong>Other Requirements:</strong> Broadband Internet\
+        \ connection</li>\n\t<li><strong>Additional:</strong> Internet connection\
+        \ is for Steam only. No online MP.</li>\n</ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 19, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 82134
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: movie
+    website: ''
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

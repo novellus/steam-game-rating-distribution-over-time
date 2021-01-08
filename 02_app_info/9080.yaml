@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - id Software
+    fullgame:
+      appid: '2200'
+      name: Quake III Arena
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/9080/header.jpg?t=1447351116
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Quake III Arena Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <p><strong></strong>3-D Hardware Accelerator with full OpenGL&reg;
+        support, Pentium&reg; 233 Mhz MMX&reg;processor with 8 MB Video Card or Pentium
+        II 266 Mhz processor with 4 MB Video Card, or AMD&reg; 350 Mhz K6&reg;-2 processor
+        with 4 MB Video Card, 64 MB RAM, a 100% Windows&reg; XP/Vista compatible computer
+        system (including compatible 32-bit drivers for video card, sound card and
+        input devices), 25 MB of uncompressed hard disk space for game files (Minimum
+        Install), plus 45 MB for the Windows swap file, 100% DirectX 3.0 or higher
+        compatible sound card, 100% Microsoft-compatible mouse and driver, joystick
+        (optional)</p>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - id Software
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2007
+    required_age: 0
+    short_description: ''
+    steam_appid: 9080
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: AoJ40oLHw9oCc+Sycw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1488325413
+      num_games_owned: 64
+      num_reviews: 73
+      playtime_at_review: 5
+      playtime_forever: 5
+      playtime_last_two_weeks: 0
+      steamid: '76561198150948406'
+    comment_count: 0
+    language: portuguese
+    received_for_free: false
+    recommendationid: '30250563'
+    review: Muito Mau. O Demo!!
+    steam_purchase: true
+    timestamp_created: 1488325449
+    timestamp_updated: 1488325449
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

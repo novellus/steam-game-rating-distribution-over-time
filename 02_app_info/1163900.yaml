@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: '<strong>Grotesque Beauty Artbook</strong><br><br>The official
+      fan pack for Grotesque Beauty featuring a 30-page artbook showing off early
+      concept art, design process to the final visual look of the game. Annotations
+      help provide an insight into the early stages of development.<br><br><strong>The
+      Uninvited Comic</strong><br><br>A 14-page horror comic I made years taking my
+      stories into a game format. The Uninvited is a story inspired by one night where
+      I came home to find someone had burgled my house. Of course, things don''t seem
+      right about the home intrusion.<br><br><strong>Blink Comic</strong><br>A wordless
+      15-page horror comic inspired by a scary image that came to my mind when I left
+      my house one night: What if I looked back at my house and saw the lights coming
+      back on?'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1163900/page_bg_generated_v6b.jpg?t=1570140500
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong>Grotesque Beauty Artbook</strong><br><br>The official
+      fan pack for Grotesque Beauty featuring a 30-page artbook showing off early
+      concept art, design process to the final visual look of the game. Annotations
+      help provide an insight into the early stages of development.<br><br><strong>The
+      Uninvited Comic</strong><br><br>A 14-page horror comic I made years taking my
+      stories into a game format. The Uninvited is a story inspired by one night where
+      I came home to find someone had burgled my house. Of course, things don''t seem
+      right about the home intrusion.<br><br><strong>Blink Comic</strong><br>A wordless
+      15-page horror comic inspired by a scary image that came to my mind when I left
+      my house one night: What if I looked back at my house and saw the lights coming
+      back on?'
+    developers:
+    - Digital Bento
+    fullgame:
+      appid: '1056280'
+      name: Grotesque Beauty - A Horror Visual Novel
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1163900/header.jpg?t=1570140500
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    name: Grotesque Beauty Artbook and Comics
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Grotesque Beauty Artbook - $1.99
+        packageid: 397470
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Grotesque Beauty Artbook and Comics
+    packages:
+    - 397470
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 3, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_936db8df23a5adf5cc7d3d88284215d537e66f80.1920x1080.jpg?t=1570140500
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_936db8df23a5adf5cc7d3d88284215d537e66f80.600x338.jpg?t=1570140500
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_eb0a6a575afc6b8556aa9c1895197468a6eecdc3.1920x1080.jpg?t=1570140500
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_eb0a6a575afc6b8556aa9c1895197468a6eecdc3.600x338.jpg?t=1570140500
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_402574d95a831987b455c7bbe1fa44471a565f94.1920x1080.jpg?t=1570140500
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_402574d95a831987b455c7bbe1fa44471a565f94.600x338.jpg?t=1570140500
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_5261c0c0abbb10a7fc146cdec1518702d392fcad.1920x1080.jpg?t=1570140500
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1163900/ss_5261c0c0abbb10a7fc146cdec1518702d392fcad.600x338.jpg?t=1570140500
+    short_description: Artbook for Grotesque Beauty featuring 30 pages of art and
+      thoughts. Also includes 29 pages of horror comic created years before the game.
+    steam_appid: 1163900
+    support_info:
+      email: benartist8@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

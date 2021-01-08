@@ -1,0 +1,178 @@
+details:
+  data:
+    about_the_game: "You control the briquette.<br />\r\nUse the W A S D keys to move\
+      \ the briquette.<br />\r\nYour goal, with the help of coups to deliver the briquette\
+      \ in the golden field.<br />\r\nIf you go out of bounds or fall on the red wall\
+      \ - you lose.<br />\r\nSpecial color fields give a different effect.<br />\r\
+      \nYou need to calculate your way in advance in order not to fall into the trap\
+      \ from which there will be no way out.<br />\r\nThe game features various levels\
+      \ with increasing difficulty as you progress.<br />\r\nIn each level are counted\
+      \ steps, so you can compare with your friends and find out who was the best."
+    achievements:
+      highlighted:
+      - name: Welcome to the Neo world
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      - name: 5 sec
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/989560/38dc2b803591c3eb5f949cf23463273b11401ae3.jpg
+      total: 100
+    background: https://steamcdn-a.akamaihd.net/steam/apps/989560/page_bg_generated_v6b.jpg?t=1549276662
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "You control the briquette.<br />\r\nUse the W A S D keys\
+      \ to move the briquette.<br />\r\nYour goal, with the help of coups to deliver\
+      \ the briquette in the golden field.<br />\r\nIf you go out of bounds or fall\
+      \ on the red wall - you lose.<br />\r\nSpecial color fields give a different\
+      \ effect.<br />\r\nYou need to calculate your way in advance in order not to\
+      \ fall into the trap from which there will be no way out.<br />\r\nThe game\
+      \ features various levels with increasing difficulty as you progress.<br />\r\
+      \nIn each level are counted steps, so you can compare with your friends and\
+      \ find out who was the best."
+    developers:
+    - BJGameInd
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/989560/header.jpg?t=1549276662
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256738322
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256738322/movie480.mp4?t=1544730142
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256738322/movie_max.mp4?t=1544730142
+      name: NeoGeometry
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256738322/movie.293x165.jpg?t=1544730142
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256738322/movie480.webm?t=1544730142
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256738322/movie_max.webm?t=1544730142
+    name: NeoGeometry
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: NeoGeometry - $0.99
+        packageid: 326075
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy NeoGeometry
+    packages:
+    - 326075
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1.6 GHZ<br></li><li><strong>Graphics:</strong>
+        512 MB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - BJGameInd
+    release_date:
+      coming_soon: false
+      date: Feb 4, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_7cdb45c6db37f69daf69d8472bbca65a1573aa1a.1920x1080.jpg?t=1549276662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_7cdb45c6db37f69daf69d8472bbca65a1573aa1a.600x338.jpg?t=1549276662
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_8f33f219ee33f44f5413e9e1bc718005c7799c69.1920x1080.jpg?t=1549276662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_8f33f219ee33f44f5413e9e1bc718005c7799c69.600x338.jpg?t=1549276662
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_14298045eef4eb86dea98111ba21484e0aee2247.1920x1080.jpg?t=1549276662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_14298045eef4eb86dea98111ba21484e0aee2247.600x338.jpg?t=1549276662
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_37103583168da96bda475866c160d61e2e8ceca6.1920x1080.jpg?t=1549276662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_37103583168da96bda475866c160d61e2e8ceca6.600x338.jpg?t=1549276662
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_94b4fb9cce63835af0b43f08c68cf6c85bef5157.1920x1080.jpg?t=1549276662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989560/ss_94b4fb9cce63835af0b43f08c68cf6c85bef5157.600x338.jpg?t=1549276662
+    short_description: Welcome back to the world of Neo! Your task is to deliver the
+      NeoBriquette with the help of coups in the desired point. Beware Neo walls that
+      can kill you. Just do not fall out of the field.
+    steam_appid: 989560
+    support_info:
+      email: bjgameind@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ474aKx/MCfaHilwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 4
+    total_positive: 9
+    total_reviews: 13
+  reviews:
+  - author:
+      last_played: 1594494872
+      num_games_owned: 3464
+      num_reviews: 98
+      playtime_at_review: 66
+      playtime_forever: 66
+      playtime_last_two_weeks: 0
+      steamid: '76561198018111026'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '73339421'
+    review: 'I''m starting to think Neo from the Matrix isn''t even in these games.
+
+      Really wanted to do some Geometry with him while the achievements rolled in.
+
+      Unless....maybe I did, and didn''t even realize.'
+    steam_purchase: true
+    timestamp_created: 1595817867
+    timestamp_updated: 1595817867
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

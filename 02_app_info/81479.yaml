@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen
+      id: 24
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Doublesix Games
+    fullgame:
+      appid: '204140'
+      name: Uninitialized
+    genres:
+    - description: Action
+      id: '1'
+    - description: RPG
+      id: '3'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/81479/header.jpg?t=1447355491
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 81479
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/81479/movie480.mp4?t=1447355491
+        max: http://steamcdn-a.akamaihd.net/steam/apps/81479/movie_max.mp4?t=1447355491
+      name: All Zombies Must Die Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/81479/movie.293x165.jpg?t=1447355491
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/81479/movie480.webm?t=1447355491
+        max: http://steamcdn-a.akamaihd.net/steam/apps/81479/movie_max.webm?t=1447355491
+    name: All Zombies Must Die Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Doublesix Games
+    release_date:
+      coming_soon: false
+      date: Mar 9, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 81479
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: http://store.steampowered.com/app/204140
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,217 @@
+details:
+  data:
+    about_the_game: "Comic&amp;Picture Shelf is a software for managing and browsing\
+      \ comics\u3001pictures<br><br><strong>Function</strong><br>Generate corresponding\
+      \ covers for imported folders or compressed packages.<br>Support browsing pictures,\
+      \ directly reading pictures in compressed packages, and preloading pictures.<br>Can\
+      \ browse pictures in pull mode, and automatically play pictures.<br>Brightness,\
+      \ contrast, saturation adjustment.<br><br><strong>Supported format</strong><br>Picture\
+      \ format: PNG, JPG, JPEG<br>Compressed package format: ZIP, RAR, 7z<br><br><strong>Features</strong><br>Picture\
+      \ wall mode: Each folder or compressed package has a corresponding cover, and\
+      \ you can choose the comic you are interested in by the cover.<br>Search function:\
+      \ Quickly search the imported files.<br>Pre-loading function: when browsing\
+      \ pictures, the software will silently load the following pictures.<br>Drop-down\
+      \ waterfall browsing function: After a page of pictures moves to the bottom,\
+      \ the next picture will be stitched in the back, and will not jump to the next\
+      \ page abruptly.<br>Auto-play function: set the speed and pause time, enable\
+      \ auto-play to liberate your hands.<br>Zoom in function: browse the picture\
+      \ interface, hold down the right button and scroll the wheel to zoom in on the\
+      \ arrow position.<br>Minimize the window: Press the mouse wheel or the Esc key\
+      \ on the keyboard to minimize the window to the taskbar.<br>Gesture support:\
+      \ hold down the left mouse button-slide up and down on the shelf page to switch\
+      \ pages. In the browse picture page, slide the slide mode left and right to\
+      \ switch the front and rear pictures. Move the picture up and down in waterfall\
+      \ mode."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1352750/page_bg_generated_v6b.jpg?t=1594983753
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1372970
+      description: ''
+    detailed_description: "Comic&amp;Picture Shelf is a software for managing and\
+      \ browsing comics\u3001pictures<br><br><strong>Function</strong><br>Generate\
+      \ corresponding covers for imported folders or compressed packages.<br>Support\
+      \ browsing pictures, directly reading pictures in compressed packages, and preloading\
+      \ pictures.<br>Can browse pictures in pull mode, and automatically play pictures.<br>Brightness,\
+      \ contrast, saturation adjustment.<br><br><strong>Supported format</strong><br>Picture\
+      \ format: PNG, JPG, JPEG<br>Compressed package format: ZIP, RAR, 7z<br><br><strong>Features</strong><br>Picture\
+      \ wall mode: Each folder or compressed package has a corresponding cover, and\
+      \ you can choose the comic you are interested in by the cover.<br>Search function:\
+      \ Quickly search the imported files.<br>Pre-loading function: when browsing\
+      \ pictures, the software will silently load the following pictures.<br>Drop-down\
+      \ waterfall browsing function: After a page of pictures moves to the bottom,\
+      \ the next picture will be stitched in the back, and will not jump to the next\
+      \ page abruptly.<br>Auto-play function: set the speed and pause time, enable\
+      \ auto-play to liberate your hands.<br>Zoom in function: browse the picture\
+      \ interface, hold down the right button and scroll the wheel to zoom in on the\
+      \ arrow position.<br>Minimize the window: Press the mouse wheel or the Esc key\
+      \ on the keyboard to minimize the window to the taskbar.<br>Gesture support:\
+      \ hold down the left mouse button-slide up and down on the shelf page to switch\
+      \ pages. In the browse picture page, slide the slide mode left and right to\
+      \ switch the front and rear pictures. Move the picture up and down in waterfall\
+      \ mode."
+    developers:
+    - StudyWellDDU
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1352750/header.jpg?t=1594983753
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256792822
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256792822/movie480.mp4?t=1594778624
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256792822/movie_max.mp4?t=1594778624
+      name: '001'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256792822/movie.293x165.jpg?t=1594778624
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256792822/movie480_vp9.webm?t=1594778624
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256792822/movie_max_vp9.webm?t=1594778624
+    - highlight: true
+      id: 256792836
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256792836/movie480.mp4?t=1594789475
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256792836/movie_max.mp4?t=1594789475
+      name: '002'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256792836/movie.293x165.jpg?t=1594789475
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256792836/movie480_vp9.webm?t=1594789475
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256792836/movie_max_vp9.webm?t=1594789475
+    name: Comic&Picture Shelf
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Comic&Picture Shelf - $2.99
+        packageid: 473914
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Comic&Picture Shelf
+    packages:
+    - 473914
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7,Windows
+        8, Windows 10<br></li><li><strong>Processor:</strong> 2GHZ<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> stand by DirectX11<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 256 MB available space<br></li><li><strong>Sound
+        Card:</strong> no<br></li><li><strong>Additional Notes:</strong> no</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10<br></li><li><strong>Processor:</strong> 4GHZ<br></li><li><strong>Memory:</strong>
+        8192 MB RAM<br></li><li><strong>Graphics:</strong> 1080ti<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 1024 MB available space<br></li><li><strong>Sound
+        Card:</strong> no<br></li><li><strong>Additional Notes:</strong> no</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - StudyWellDDU
+    release_date:
+      coming_soon: false
+      date: Jul 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_56fea9ea909c25a539bd0cded4e06b9762d116cc.1920x1080.jpg?t=1594983753
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_56fea9ea909c25a539bd0cded4e06b9762d116cc.600x338.jpg?t=1594983753
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_1e94afba56698ad9de44e372a6b1b46cebc56d3d.1920x1080.jpg?t=1594983753
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_1e94afba56698ad9de44e372a6b1b46cebc56d3d.600x338.jpg?t=1594983753
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_b84d236ceab5361a64d991644396da2e77fc914e.1920x1080.jpg?t=1594983753
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_b84d236ceab5361a64d991644396da2e77fc914e.600x338.jpg?t=1594983753
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_ec8b4af250a9ff2e2e8675d5bbed84979df11ee7.1920x1080.jpg?t=1594983753
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_ec8b4af250a9ff2e2e8675d5bbed84979df11ee7.600x338.jpg?t=1594983753
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_612fe61debc3abdbc4089706c373c8b5c9f9754e.1920x1080.jpg?t=1594983753
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_612fe61debc3abdbc4089706c373c8b5c9f9754e.600x338.jpg?t=1594983753
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_0fa9b81b9c25a443a158de5e1bf037892283e61a.1920x1080.jpg?t=1594983753
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1352750/ss_0fa9b81b9c25a443a158de5e1bf037892283e61a.600x338.jpg?t=1594983753
+    short_description: "Comic&amp;Picture Shelf is a software for managing and browsing\
+      \ comics\u3001pictures. direct reading of pictures in compressed package, and\
+      \ drop-down waterfall browsing."
+    steam_appid: 1352750
+    support_info:
+      email: ComicPictureShelf@outlook.com
+      url: ''
+    supported_languages: Simplified Chinese, English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwvI6MnfQCfOLBngI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 2
+    total_positive: 4
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1604089308
+      num_games_owned: 268
+      num_reviews: 16
+      playtime_at_review: 21
+      playtime_forever: 307
+      playtime_last_two_weeks: 0
+      steamid: '76561198114362656'
+    comment_count: 0
+    developer_response: "\u5173\u4E8E\u66F4\u65B0\uFF1A\n\u4F1A\u66F4\u65B0\u7684\uFF0C\
+      \n\u6CA1\u65F6\u95F4\u4FEE\u6539\u7A0B\u5E8F\uFF0C\u5DE5\u4F5C\u3001\u73A9\u6E38\
+      \u620F\u7B49\u5360\u636E\u4E86\u5927\u90E8\u5206\u65F6\u95F4\u3002\n\u5173\u4E8E\
+      \u7A97\u53E3\uFF1A\n\u53F3\u4E0A\u89D2\uFF0C\u4ECE\u53F3\u5F80\u5DE6\u6570\u7B2C\
+      \u4E8C\u6309\u94AE\u9000\u51FA\u5168\u5C4F\uFF0C\u6216alt+enter\u9000\u51FA\u5168\
+      \u5C4F\uFF0C\n\u9000\u51FA\u5168\u5C4F\u540E\u80FD\u50CF\u4E00\u822C\u7A97\u53E3\
+      \u4E00\u6837\u6539\u53D8\u5927\u5C0F\u548C\u62D6\u52A8\u7A97\u53E3\u3002\n\u5173\
+      \u4E8E\u56FE\u7247\u6ED1\u52A8\u4E5F\u4E0D\u65B9\u4FBF\uFF1A\n\u8FD9\u4E2A\u80FD\
+      \u8BE6\u7EC6\u8BF4\u8BF4\u4E0D\uFF0C"
+    language: schinese
+    received_for_free: false
+    recommendationid: '75107884'
+    review: "\u7528\u4E86\u4E00\u6BB5\u65F6\u95F4\u8FD8\u662F\u7ED9\u4E2A\u5DEE\u8BC4\
+      \u5427\uFF0C\u592A\u7B80\u964B\u4E86\u800C\u4E14\u4E00\u76F4\u6CA1\u770B\u5230\
+      \u8FC7\u66F4\u65B0\uFF0C\u9996\u5148\u5E94\u7528\u7A97\u53E3\u5927\u5C0F\u65E0\
+      \u6CD5\u6539\u53D8\u548C\u62D6\u52A8\uFF0C\u56FE\u7247\u6ED1\u52A8\u4E5F\u4E0D\
+      \u65B9\u4FBF\uFF0C\u5B98\u65B9\u662F\u4E0D\u6253\u7B97\u66F4\u65B0\u4E86\u5417"
+    steam_purchase: true
+    timestamp_created: 1598704088
+    timestamp_dev_responded: 1598878465
+    timestamp_updated: 1598704088
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

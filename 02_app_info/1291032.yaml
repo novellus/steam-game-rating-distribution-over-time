@@ -1,0 +1,1382 @@
+details:
+  data:
+    about_the_game: "These features are core to the Simplode Suite experience.  The\
+      \ ring menu system and the quick search flyout provide a stylish and customizable\
+      \ platform to explore and manage all of the available utilities.<br>This product\
+      \ is available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Action Search (&gt;_), Customize Style (\U0001F58C\
+      ), Safe Mode (\U0001F4A5), Toggle Ring Menu (\U0001F53E), Notifications (\U0001F514\
+      ), Installation (\U0001F4BF), Auto Start (\u21BB), Config File (\u2699\U0001F4BE\
+      ), Generate Documentation (?\U0001F5CE*), Toggle External Input (\U0001F5A6\
+      ), Tray Manager (Tray), About (About), Product Registration (\U0001F511), Logging\
+      \ (\u26A0\uFE0F\U0001F4DC), Exit (\u274C\uFE0E), Reset Action Arrangement (\u235F\
+      \u238C), Mouse Button Combos (\U0001F5B1\uFE0FCombo), Super Ring (\u235F), Toggle\
+      \ Edit Mode (\u270E), Related Settings (\u2699), Toggle Favorite (\u2605), Help\
+      \ (?), Toggle Tray (Tray), Related Settings (\u2699), New Standard Window (\U0001F5D4\
+      *), Resize Flyout Window (\u21F2), Lock Flyout Window (\U0001F512), Move Flyout\
+      \ Window (\u21F3\u2B04), Toggle Flyout Window Always on Top (\U0001F5D4\u234F\
+      ), Super Ring Associated Menu (\u235F), Close Flyout Window (\u274C\uFE0E),\
+      \ Reset Action Arrangement (\u235F\u238C), Steam Integration (Steam), Simplode\
+      \ Protocol Handler (\xA7://), Welcome (Hi), Achievements (\U0001F3C6), Free\
+      \ Beta Features (Free<br>Beta), Free Trial (Free Trial), Feature of the Day\
+      \ (Free FOTD)<h2 class=\"bb_tag\">Action Search (&gt;_)</h2>This is a searchable\
+      \ list of actions.<br><ul class=\"bb_ul\"><li>Before typing in a query, or after\
+      \ you have cleared out a query, the list will prioritize items in your favorites\
+      \ menu to maximize the chance that you will not even need to type anything.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Focus Free Interactions (Default: True)<br>If enabled,\
+      \ many interactions with the tool will attempt to be focus free, meaning they\
+      \ will not take focus away from the application you are currently using.  To\
+      \ do this, the feature intercepts your input at a low level and redirects it\
+      \ to the tool.  Support for international keyboards and IMEs may be limited\
+      \ for this feature.<br></li><li>Action Search Max Results (Default: 10)<br>This\
+      \ is the maximum number of action search results which will be shown in the\
+      \ action search.  Keeping this low can improve the performance of the action\
+      \ search.<br></li><li>Action Search Include Unlicensed (Default: True)<br>If\
+      \ enabled, action search will include actions that are not currently licensed.\
+      \  This may enable you to discover useful features of Simplode Suite that you\
+      \ might want.  If you haven't changed your Free Select feature in the last 24\
+      \ hours, any of these features will be instantly available for unlock.<br></li><li>Action\
+      \ Search Max Actions with Configs (Default: 2)<br>The top action search results\
+      \ can include matching configs for easy access.  The maximum number of actions\
+      \ that can show configs is determined by this setting.  For example, if you\
+      \ set this value to 5, then the top 5 action search results can contain config\
+      \ results.<br></li><li>Action Search Max Configs Per Action (Default: 2)<br>For\
+      \ action results which have configs that match your query, this is the maximum\
+      \ number of configs which can display for each action.  So, at its default value\
+      \ of 2, the tool will try to give you the two best config results.  Hopefully\
+      \ the result you are looking for will be ranked highest so that you will not\
+      \ have to open the action's menu to find it.<br></li><li>Action Search Results\
+      \ Delay Seconds (Default: 0)<br>Performance of search results can be improved\
+      \ by checking less often for new results.  This is the number of seconds the\
+      \ tool will wait after you stop typing before it will get new results.  If you\
+      \ set this low enough, it will trigger between key presses and performance may\
+      \ suffer.</li></ul><h2 class=\"bb_tag\">Customize Style (\U0001F58C)</h2>Customize\
+      \ Simplode Suite style.<br><br>Settings:<ul class=\"bb_ul\"><li>Theme (Default:\
+      \ Moonlight)<br>The theme setting allows you to create, load, and delete themes\
+      \ for the application.<br>Currently Available Themes: Dark, Fun, Light, Midnight,\
+      \ Moonlight<br></li><li>Panel Background (Default: #E6002B39)<br>Changes the\
+      \ background color of most flyouts and indicator windows of the program.<br></li><li>Panel\
+      \ Border (Default: #9BFFFFFF)<br>Changes the border color around most flyouts\
+      \ and indicator windows of the program.<br></li><li>Ring Background (Default:\
+      \ #A288A6B0)<br>Changes the background color of the ring menus throughout the\
+      \ program.<br></li><li>Ring Border (Default: #D0FFFFFF)<br>Changes the border\
+      \ color around the menu rings.<br></li><li>Cache Maximum Fidelity (Default:\
+      \ 2)<br>Limits the amount of resources that can be dedicated to caching visuals.\
+      \  At high scaling, caching visuals can use a lot of memory.<br></li><li>Glow\
+      \ Content Effect Enabled (Default: True)<br>This setting can toggle the glow\
+      \ effect for text throughout the application.  The glow effect enables more\
+      \ creativity with styling the application.  Transparent background effects look\
+      \ cool, but they can make text difficult to read.  The glow effect helps out\
+      \ with this problem while also enhancing style.  The glow effect can negatively\
+      \ impact performance, and might not fit with the stylistic look you are going\
+      \ for anyways, so you can turn it off with this setting if you like.  You may\
+      \ need to restart the tool to completely add/remove the effect, but once it\
+      \ is enabled you can play around with it by adjusting the glow color in real\
+      \ time.<br></li><li>Glow Content Brush (Default: #FF001923)<br>Changes the color\
+      \ of the glow effect for text content throughout the program.<br></li><li>Glow\
+      \ Content Intensity (Default: 4)<br>Controls the intensity of the glow effect\
+      \ for text content throughout the application except in orb button icons.  Higher\
+      \ values can reduce performance.  Glow maps are generally cached, so changes\
+      \ to this may not change existing visuals until restarting the application.<br></li><li>Glow\
+      \ Content Maximum Fidelity (Default: 1)<br>Limits the amount of resources that\
+      \ can be dedicated to making the content glow effect look good.  Depending on\
+      \ your monitor scaling and application scaling, pixel perfect glow effects may\
+      \ require large amounts of memory.  Glow effects will often still look good\
+      \ at lower resolution, so limiting this value may produce good looking results\
+      \ with less performance cost.  After changing the value, existing cached glow\
+      \ effects will not be changed, so you may need to restart the application to\
+      \ see how the new setting value looks.<br></li><li>Glow Lock (Default: False)<br>This\
+      \ is a performance enhancing setting which will prevent glowing areas from resizing.\
+      \  When resizing an element, its glow cache must be refreshed which requires\
+      \ some GPU and CPU resources.  By avoiding this, things like resizing a window\
+      \ in the tool can perform much better at the cost of having some elements not\
+      \ adjust their sizes properly to reflect the new window size.<br></li><li>Glow\
+      \ Icon Effect Enabled (Default: True)<br>This setting can toggle the glow effect\
+      \ for orb button icons throughout the application.  The glow button effect has\
+      \ much less impact on performance than the glow content effect, but you may\
+      \ still want to disable it depending on your stylistic preferences.<br></li><li>Glow\
+      \ Icon Brush (Default: #FFFFFFFF)<br>Changes the color of the glow effect which\
+      \ occurs throughout the program.<br></li><li>Glow Icon Intensity (Default: 5)<br>Controls\
+      \ the intensity of the glow effect for orb button icons.  Higher values can\
+      \ reduce performance.  Glow maps are generally cached, so changes to this may\
+      \ not change existing visuals until restarting the application.<br></li><li>Orb\
+      \ Button Background (Default: #40D0D0D0)<br>This is the background color of\
+      \ the action orbs throughout the application.<br></li><li>Content Foreground\
+      \ (Default: #FFFFFFF0)<br>Changes the color of text and symbols throughout the\
+      \ program.<br></li><li>Link Color (Default: #FFAFAFFA)<br>Color of hyperlinks.<br></li><li>Icon\
+      \ Foreground (Default: #FF000000)<br>Changes the color of text and symbols in\
+      \ orb buttons.<br></li><li>Panel Background and Border Opacity (Default: 0.91)<br>Adjusts\
+      \ the transparency of panels and their borders throughout the application. \
+      \ Values closer to 1 are less transparent.  Values closer to 0 are more transparent.<br></li><li>Ring\
+      \ Background and Border Opacity (Default: 0.4)<br>Adjusts the transparency of\
+      \ the rings and their borders throughout the application.  Values closer to\
+      \ 1 are less transparent.  Values closer to 0 are more transparent.<br></li><li>Scale\
+      \ (Default: 1)<br>Adjusts the size of UI elements throughout the program.  Some\
+      \ graphical elements are cached for performance and may become blurry with scaling\
+      \ changes, so you may need to restart the application after changing scaling\
+      \ to refresh these caches.  The available range is wider if you type it in manually.<br></li><li>Multiple\
+      \ Display DPI Scales (Default: True)<br>If enabled, the tool will try to appropriately\
+      \ size its own windows based on your individual monitor DPI settings.  The tool\
+      \ will wait until you are done moving a window before it will change the scaling.<br></li><li>Animation\
+      \ Time Base Multiplier (Default: 1)<br>Changes the duration of most animation\
+      \ effects throughout the program.  This can improve performance by eliminating\
+      \ animations if set to 0.<br></li><li>Flyout Min Width (Default: 200)<br>This\
+      \ setting controls the minimum width of flyouts.  Flyouts which do not contain\
+      \ much content may become difficult to use if they shrink too much.<br></li><li>Flyout\
+      \ Fancy Mode (Default: True)<br>When enabled, flyouts support animations, rounded\
+      \ corners, partial transparency, and glowing text.  Flyout windows may perform\
+      \ smoother with this off.<br></li><li>Flyout Animation Style (Default: 1)<br>None\
+      \ - Turn off flyout animations, increasing performance while still allowing\
+      \ other animations to occur.<br>Single - Animate window flyouts in a single\
+      \ motion.<br>Double - Animate window flyouts in two motions.  May actually perform\
+      \ better than single due to technical differences.<br> - 0<br> - 1<br> - 2<br></li><li>Flyout\
+      \ Animation Duration Multiplier (Default: 1)<br>Lowering this value will increase\
+      \ the speed at which flyouts are animated when displayed.  If you set this to\
+      \ 0, flyouts will be fully rendered in one frame, increasing performance.<br></li><li>Flyout\
+      \ Ripple Duration Multiplier (Default: 0)<br>Lowering this value will increase\
+      \ the speed at which the ripple effect moves when a flyout is displayed.  If\
+      \ you set this to 0, the ripple effect will be removed.  The ripple effect will\
+      \ show a visible ripple across the flyout window when it opens, which functions\
+      \ as a visual aid to make flyout windows less jarring.  The ripple effect is\
+      \ most useful when the flyout motion animation is disabled, as you get the instant\
+      \ feedback of the flyout window appearing all at once while at the same time\
+      \ having the animated ripple as a visual indicator to the flyout opening sequence\
+      \ which may reduce confusion.<br></li><li>Flyout Border Thickness (Default:\
+      \ 1)<br>This adjusts the thickness of the border around flyout windows.  Changes\
+      \ will go into effect as new flyouts are opened<br></li><li>Flyout Margin Thickness\
+      \ (Default: 2)<br>This adjusts the thickness of the margin in flyout windows.\
+      \  Changes will go into effect as new flyouts are opened.<br></li><li>Ring Notch\
+      \ (Default: True)<br>This option puts a notch between the first and last items\
+      \ in the ring in most cases.  Disabling this may improve performance.  The ring\
+      \ notch will still be enabled when using the concentric super ring.<br></li><li>Max\
+      \ Content Columns (Default: 2)<br>This is the max number of columns that interface\
+      \ content will use when columns are available.  This feature can help you better\
+      \ take advantage of screen space when using the tool's user interface.  Performance\
+      \ may improve with fewer columns.<br></li><li>Min Content Column Size (Default:\
+      \ 400)<br>When showing multiple columns of interface content, each column will\
+      \ be at least this size.<br></li><li>Min Content Column Members (Default: 2)<br>When\
+      \ showing multiple columns of interface content, each column will have at least\
+      \ this many members.<br></li><li>More Color Icons (Default: True)<br>If enabled,\
+      \ buttons will use full color icons for some built-in tools.  You may want to\
+      \ disable this if the color icons don't fit well with your style settings. \
+      \ Tool restart is required to see changes.<br></li><li>More Color Icons Clean\
+      \ (Default: True)<br>If enabled, select full color icons will be omitted for\
+      \ a cleaner look.  Tool restart is required to see changes.</li></ul><h2 class=\"\
+      bb_tag\">Safe Mode (\U0001F4A5)</h2>Safe Mode will revert all tool settings\
+      \ to default and save your old settings.  This is useful if you accidently put\
+      \ the tool into an unusable state.<h2 class=\"bb_tag\">Toggle Ring Menu (\U0001F53E\
+      )</h2>Toggles the Simplode Suite ring menu.<br><ul class=\"bb_ul\"><li>The ring\
+      \ menu system is inspired by my favorite video game of all time, Secret of Mana.<br></li><li>I\
+      \ think ring menus are easier on the brain than lists.  It is really just a\
+      \ list that wraps around, so it starts off with all of the advantages of a list,\
+      \ but your brain can also use the directional component for fast access.<br></li><li>Ring\
+      \ menus are not without drawbacks, of course.  Scanning text in a ring is both\
+      \ ugly and inefficient, so simple icons are necessary.  Simple icons often need\
+      \ to be learned, as they are usually not completely intuitive.<br></li><li>You\
+      \ might want to stick with the action search function or the flyout menus at\
+      \ first until you start recognizing the icons.  You can access the flyout menus\
+      \ and detailed information by right clicking or long pressing or hovering the\
+      \ cursor on menu buttons.<br></li><li>Touch screen users may more likely want\
+      \ to jump directly to learning the ring menu, as it is designed to be touch\
+      \ friendly.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ring Drag Rearrange (Default:\
+      \ True)<br>Allows you to drag buttons to rearrange them within a ring, but only\
+      \ within the favorites ring or the task ring.<br></li><li>Hide Ring Menu When\
+      \ Dragged to Screen Edge (Default: True)<br>When enabled, the ring menu will\
+      \ be hidden when dragged to the edge of the screen.<br></li><li>Menu Include\
+      \ Unlicensed Features (Default: False)<br>When enabled, unlicensed features\
+      \ will be visible in menus.<br></li><li>Orb Button Tool Tips (Default: Name,\
+      \ Instruction, Hotkey)<br>Determines what will be in tool tips for orb buttons.<br>\
+      \ - Disabled: Do not show a tooltip.<br> - Name: Includes the action name in\
+      \ the tool tip.<br> - Description: Includes the action description in the tool\
+      \ tip.<br> - Instruction: Includes basic instructions in the tool tip.<br> -\
+      \ Hotkey: Includes any associated hotkey in the tool tip.<br></li><li>Orb Button\
+      \ Tool Tip Delay (Default: 1000)<br>Determines how long orb buttons will wait\
+      \ to show a tool tip.<br></li><li>Toggle Ring Menu to Favorites (Default: False)<br>If\
+      \ enabled, the standard ring menu toggling operation will automatically bring\
+      \ you to the Favorites menu instead of the Main menu.  You can use this option\
+      \ to get more control over what you see when using the tool, as you can freely\
+      \ change items in your favorites ring.  You will still be able to access any\
+      \ items outside of your favorites menu by right clicking on the center orb of\
+      \ the main ring.<br></li><li>Auto Flyout (Default: False)<br>This setting controls\
+      \ whether or not button flyouts will automatically launch from buttons.<br></li><li>Auto\
+      \ Flyout Milliseconds (Default: 1000)<br>This setting controls the amount of\
+      \ wait time for launching a flyout from a button when you leave the mouse cursor\
+      \ on the button.<br></li><li>Ring in Taskbar (Default: True)<br>When enabled,\
+      \ the ring control has a taskbar entry which can be used to show/hide it.<br></li><li>Launch\
+      \ Menu Ring on Start (Default: True)<br>When enabled, the ring will open when\
+      \ the application starts.<br></li><li>Toggle Ring Menu with Bump Right (Default:\
+      \ True)<br>When you hold the middle mouse button and then press the right mouse\
+      \ button, the menu ring will toggle.<br></li><li>Toggle Ring Menu with Right\
+      \ Bump (Default: False)<br>When you hold the right mouse button and then press\
+      \ the middle mouse button, the menu ring will toggle.<br></li><li>Toggle Ring\
+      \ Menu Mouse Combo Timing (Default: 650)<br>This is the number of milliseconds\
+      \ allowed after hitting the middle mouse button for activating the ring menu\
+      \ with the right click.  A value of 0 will mean that the middle mouse button\
+      \ must still be pressed at the time of the right click.<br></li><li>Ring Menu\
+      \ Fit Edge (Default: False)<br>If enabled, the ring menu will arrange itself\
+      \ in an arc to avoid the edges of the screen.<br></li><li>Ring Notch (Default:\
+      \ True)<br>This option puts a notch between the first and last items in the\
+      \ ring in most cases.  Disabling this may improve performance.  The ring notch\
+      \ will still be enabled when using the concentric super ring.<br></li><li>Ring\
+      \ Menu Quick Toggle Settings (Default: True)<br>If enabled, clicking on a settings\
+      \ toggling action button in a ring menu will instantly toggle the setting. \
+      \ If disabled, it will open the flyout window where you can click again to toggle\
+      \ the setting.<br></li><li>Ring Menu Quick Activate Actions (Default: True)<br>If\
+      \ enabled, clicking on an action activating button in a ring menu will instantly\
+      \ activate the action.  If disabled, it will open the flyout window where you\
+      \ can click again to activate the action.</li></ul><h2 class=\"bb_tag\">Notifications\
+      \ (\U0001F514)</h2>Manages tool notifications.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>OS Notification Integration (Default: True)<br>If enabled, tool\
+      \ notifications are displayed using the operating system's standard notification\
+      \ handling approach.<br></li><li>Application Update Notifications (Default:\
+      \ True)<br>If enabled, the tool will automatically check for updates and notify\
+      \ you.  This will only occur when the tool is running out of its installation\
+      \ directory.  For Steam based installations, updates are handled through Steam.<br></li><li>Notification\
+      \ Display Duration (Default: 4)<br>Number of seconds that new tool notifications\
+      \ are displayed.<br></li><li>Notification View Time Limit (Default: 5)<br>Number\
+      \ of minutes that new tool notifications are displayed in the notification viewer.<br></li><li>Notification\
+      \ View Count Limit (Default: 20)<br>Maximum number of notifications that can\
+      \ be displayed in the notification viewer.</li></ul><h2 class=\"bb_tag\">Installation\
+      \ (\U0001F4BF)</h2>Manages the installation of Simplode Suite.<br><ul class=\"\
+      bb_ul\"><li>Install, uninstall, or upgrade the tool here.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Application Update Notifications (Default: True)<br>If\
+      \ enabled, the tool will automatically check for updates and notify you.  This\
+      \ will only occur when the tool is running out of its installation directory.\
+      \  For Steam based installations, updates are handled through Steam.</li></ul><h2\
+      \ class=\"bb_tag\">Auto Start (\u21BB)</h2>Habilita el inicio autom\xE1tico\
+      \ de Simplode Suite.<br><ul class=\"bb_ul\"><li>If you install Simplode Suite\
+      \ within the Program Files or Program Files (x86) folder, you can automatically\
+      \ start Simplode Suite with administrator rights without a prompt.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Auto Start (Default: True)<br>If enabled, Simplode Suite\
+      \ will automatically start up.<br></li><li>Run as Admin (Default: True)<br>If\
+      \ enabled, Simplode Suite will try to always have admin privileges.  Without\
+      \ admin privileges, some features only partially work and some features do not\
+      \ work at all.  Some of these features provide the ability to get admin privileges\
+      \ on demand, but some require restarting the application which may result in\
+      \ the loss of some session level configuration, such as window linking and tab\
+      \ layouts.</li></ul><h2 class=\"bb_tag\">Config File (\u2699\U0001F4BE)</h2>Save\
+      \ and load settings here.<br><ul class=\"bb_ul\"><li>Get Config Partial Filter\
+      \ - Compares an existing config file with the current config and lists the options\
+      \ that have changed.  The changed option list can be used to save a partial\
+      \ config file, which will only overwrite the changed options when loaded.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Partial Config Fields (Default: LoadFilterAll)<br>This\
+      \ is a utility configuration for making a saved config file load partially.\
+      \  This makes it possible to have config files that will only effect certain\
+      \ areas when loaded, leaving prior config values alone outside of those areas.\
+      \  This is a comma separated list of config names, though the config names may\
+      \ be different from their displayed names in the tool, usually just by missing\
+      \ spaces.</li></ul><h2 class=\"bb_tag\">Generate Documentation (?\U0001F5CE\
+      *)</h2>Generates the documentation web pages from the current configuration.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Generate Documentation Include Favorites (Default: True)<br>When\
+      \ generating local documentation, include personal information such as the user\
+      \ favorites ring.<br></li><li>Generate Documentation Include Current Tasks (Default:\
+      \ False)<br>When generating local documentation, include currently running tasks.<br></li><li>Generate\
+      \ Documentation Automatically (Default: True)<br>Automatically generate local\
+      \ documentation.<br></li><li>Generate Documentation Rerender Images (Default:\
+      \ False)<br>When generating documentation, overwrite any saved images with new\
+      \ images.  This is needed to update changed images, but since they usually do\
+      \ not change the default is to reuse the existing images for improved performance.<br></li><li>Icon\
+      \ Lossy Compression (Default: False)<br>If enabled, icons that are generated\
+      \ by the application will be allowed to lose fidelity during compression, allowing\
+      \ far greater compression.<br></li><li>Generate Documentation Text File (Default:\
+      \ False)<br>When generating documentation, include a simple text file version\
+      \ of the output.<br></li><li>Go Directly to Online Documentation (Default: False)<br>When\
+      \ enabled, help features will take you directly to online documentation instead\
+      \ of your local documentation files.</li></ul><h2 class=\"bb_tag\">Toggle External\
+      \ Input (\U0001F5A6)</h2>Toggles the tool's external input capabilities.<br><ul\
+      \ class=\"bb_ul\"><li>The tool is designed to function without having to watch\
+      \ your keyboard and mouse where possible, but some features require it and other\
+      \ features are enhanced by it.  When disabled, the tool will not watch your\
+      \ mouse and keyboard, but because of this it will only respond to direct input,\
+      \ such as clicking on button or menu within the tool.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Input Active Desired (Default: True)<br>If enabled, the\
+      \ program will assume the capability of watching and manipulating input as required\
+      \ for enabled features.  If disabled, some features will not be able to work.<br></li><li>Input\
+      \ Grabber (Default: True)<br>If enabled, the program will use an invisible window\
+      \ at times to capture input for some features.  If disabled, some features will\
+      \ not be able to work.<br></li><li>Input Active (Default: False)<br>Determines\
+      \ if the tool is attempting to read external inputs.<br></li><li>Hook Pass Through\
+      \ (Default: False)<br>When enabled, low level hooks remain enabled, but simply\
+      \ pass through any information.  This is to help diagnose issues where hooks\
+      \ may be causing lag.<br></li><li>Focus Free Interactions (Default: True)<br>If\
+      \ enabled, many interactions with the tool will attempt to be focus free, meaning\
+      \ they will not take focus away from the application you are currently using.\
+      \  To do this, the feature intercepts your input at a low level and redirects\
+      \ it to the tool.  Support for international keyboards and IMEs may be limited\
+      \ for this feature.<br></li><li>Focus Free Interactions Click to Grab Keyboard\
+      \ (Default: False)<br>If enabled, windows with focus free interactions will\
+      \ grab the keyboard when you click on them.  Without this setting enabled, only\
+      \ certain clicks will grab the keyboard, such as clicking on a text box.  You\
+      \ might want to enable this if you want to tab through the controls in tool\
+      \ windows without having to find a textbox to click on first.<br></li><li>Focus\
+      \ Free Interactions Grab Keyboard on Launch (Default: False)<br>If enabled,\
+      \ windows with focus free interactions will grab the keyboard when they are\
+      \ launched.  With this setting enabled, you can immediately tab through controls\
+      \ without having to click on the window at all.  Some tool windows were designed\
+      \ to provide immediate keyboard access, and they will take the keyboard on launch\
+      \ without considering this setting.<br></li><li>Use Priority Input Process (Default:\
+      \ True)<br>Runs input features in a separate priority process to avoid input\
+      \ lag.<br></li><li>Input Process Priority (Default: Real Time)<br>Select the\
+      \ desired priority for the input process.  I think &quot;Real Time&quot; will\
+      \ get you the best results, but perhaps you have a different sort of environment\
+      \ where it is not allowed or you are just uncomfortable with &quot;Real Time&quot;.<br>\
+      \ - Normal<br> - Idle<br> - High<br> - Real Time: Real Time priority processes\
+      \ will generally get all of the processing time they want, and if they want\
+      \ too much it can cause your system to become unstable.<br> - Below Normal<br>\
+      \ - Above Normal<br></li><li>Input Hook Refresh Seconds (Default: 5)<br>Occasionally,\
+      \ input hooks can stop working for various reasons without any notification.\
+      \  To combat this, the tool will automatically refresh necessary input hooks\
+      \ on this interval.  It is possible, though unlikely, for input features to\
+      \ work incorrectly if input happens to line up perfectly with a refresh.  You\
+      \ can disable this feature by setting it to 0, but then the tool will not be\
+      \ able to automatically recover from a broken hook.  Setting this value higher\
+      \ may improve input performance, at the cost of having to wait longer for features\
+      \ to work correctly if hooks fail.</li></ul><h2 class=\"bb_tag\">Tray Manager\
+      \ (Tray)</h2>Manage tray icons.<br><br>Settings:<ul class=\"bb_ul\"><li>Tray\
+      \ Icon Color (Default: #FFFFFFFF)<br>This is the color used when rendering emblem\
+      \ symbols with glow disabled.  If full color emojis are enabled, this color\
+      \ may be overridden.<br></li><li>Tray Icon Glow Foreground (Default: #FF000000)<br>This\
+      \ is the color used when rendering emblem symbols with glow enabled.  If full\
+      \ color emojis are enabled, this color may be overridden.<br></li><li>Tray Icon\
+      \ Glow Color (Default: #FFFFFFFF)<br>This is the color of the glow when rendering\
+      \ emblem symbols with glow enabled.</li></ul><h2 class=\"bb_tag\">About (About)</h2>Get\
+      \ information about Simplode Suite.<h2 class=\"bb_tag\">Product Registration\
+      \ (\U0001F511)</h2>Register the Simplode Suite product here.<br><ul class=\"\
+      bb_ul\"><li>You can log in here directly using your Simplode user name and password,\
+      \ or you can use the Link Account Hyperlink or QR Code to connect through the\
+      \ website, which also supports some third-party login services as well as password\
+      \ resets.<br></li><li>When you first purchase the product, you are issued temporary\
+      \ product validations.  After the refund period for your payment method is over,\
+      \ you get a non-expiring validation.  The product can automatically update its\
+      \ validations if you allow it, or you can manually handle the updates here.<br></li><li>Steam\
+      \ integration will automatically validate the product in the same as any normal\
+      \ product on Steam, and the extra licensing features here offer additional flexibility,\
+      \ so that it may be possible to launch Simplode Suite without opening Steam\
+      \ after validating your licenses.<br></li><li>Validation expiration exists to\
+      \ allow fair refunds.  You receive a non-expiring validation that no longer\
+      \ needs to check back with the validation server after the refund period for\
+      \ your payment method is over.  Depending on your chosen payment method, you\
+      \ may continue to receive expiring validations as long as 180 days.  Don't worry\
+      \ though, if the validation server is down or your internet is not working,\
+      \ the application will detect this and allow you to keep using it even if your\
+      \ validation lapses.</li></ul>Settings:<ul class=\"bb_ul\"><li>Upsell Notifications\
+      \ (Default: True)<br>I didn't put these in here to annoy you, but I apologize\
+      \ if they do.  I just want to make sure that users don't miss out on features\
+      \ without realizing.  The upsell notifications will remind you that you need\
+      \ to link to a Simplode account to make sure you do not lose any features that\
+      \ you have unlocked in the future and that you can unlock the rest of the features\
+      \ by purchasing the product.  You can turn off these notifications with this\
+      \ setting.<br></li><li>Allow Automatic Product Validations (Default: True)<br>If\
+      \ enabled, the tool will automatically update your product license when possible.\
+      \   In order to allow for no hassle refunds for purchases, the tool will continue\
+      \ to check your license status until the return window is over, at which point\
+      \ the tool will obtain a non-expiring license and will no longer need to contact\
+      \ the licensing server for updated licenses.</li></ul><h2 class=\"bb_tag\">Logging\
+      \ (\u26A0\uFE0F\U0001F4DC)</h2>Configure application logging here.<br><ul class=\"\
+      bb_ul\"><li>By default, application events and errors are logged to your hard\
+      \ drive so that if you experience problems with the application, you can send\
+      \ me the logs if you want.  The more information I have, the better my chances\
+      \ of fixing problems you might have.</li></ul>Settings:<ul class=\"bb_ul\"><li>Logging\
+      \ Master Switch (Default: True)<br>This is the master switch for logging.  If\
+      \ you turn this off, logging will not occur.  If you enable it, the application\
+      \ will log according to your other logging settings.<br></li><li>Priority Error\
+      \ Service (Default: False)<br>When enabled, your error logs will contain higher\
+      \ quality information that will allow Simplode LLC to more easily fix errors\
+      \ you send using the logging tool.  The tool may run slower when this feature\
+      \ is enabled.  Restarting the tool is required for changes to this setting to\
+      \ go into effect.<br></li><li>Automatically Compress Logs (Default: True)<br>If\
+      \ enabled, logs will automatically be compressed.<br></li><li>Automatically\
+      \ Open Error Log After Crash (Default: True)<br>In case my program was to ever\
+      \ crash, open the error log in a browser window with the option to review and\
+      \ send the information.<br></li><li>Automatically Send Error Logs to Server\
+      \ (Default: False)<br>If you have the application configured to automatically\
+      \ open the error log after a crash, enabling this option will automatically\
+      \ send it to my servers.  Beware that it will send before you get the chance\
+      \ to review it.</li></ul><h2 class=\"bb_tag\">Exit (\u274C\uFE0E)</h2>Exits\
+      \ Simplode Suite.<br><ul class=\"bb_ul\"><li>By default, Simplode Suite leaves\
+      \ hidden items such as unselected tabs in the taskbar minimized, so after closing,\
+      \ even if Simplode Suite were to somehow crash, the hidden applications should\
+      \ remain accessible.<br></li><li>You can also exit the app from the context\
+      \ menu of any exit button.  This can be reached by right clicking on an exit\
+      \ button for any flyout.<br></li><li>If you have the ring menu visible in the\
+      \ task bar, closing it while it is visible will collapse it and get it out of\
+      \ the way.  Closing it again while it is collapsed will present you with the\
+      \ option to completely exit the tool.</li></ul><h2 class=\"bb_tag\">Reset Action\
+      \ Arrangement (\u235F\u238C)</h2>Reverts actions to default positions.<br><ul\
+      \ class=\"bb_ul\"><li>In case you made a mess using the menu system rearrangement,\
+      \ or maybe a bug messed out the layout somehow, this action will return all\
+      \ of the stock actions to their stock positions.</li></ul><h2 class=\"bb_tag\"\
+      >Mouse Button Combos (\U0001F5B1\uFE0FCombo)</h2>Enables certain mouse button\
+      \ combos.<br><br>Settings:<ul class=\"bb_ul\"><li>Mouse Button Combos (Default:\
+      \ True)<br>When enabled, mouse button combos are allowed.  Mouse button combos\
+      \ can possibly cause delays in processing lesser used mouse buttons (buttons\
+      \ other than left click). When disabled, features that rely on mouse button\
+      \ combos will stop working.  If you toggle off and on individual settings that\
+      \ require combo mouse buttons to work, this setting might get toggled back on\
+      \ automatically.<br></li><li>Always Use Mouse Hook (Default: False)<br>This\
+      \ setting exists to allow you to fix situations where mouse combos might cause\
+      \ unintended side effects, like additional clicks.  Mouse hooks are used to\
+      \ customize how the mouse behaves.  They add a delay to mouse processing, though\
+      \ often the delay is low enough that it would be impossible to see it.  However,\
+      \ because of the delay potential, by default the application tries to have mouse\
+      \ hooks open only when absolutely necessary and for as short of time as possible,\
+      \ but this may cause it to miss some events.  If you enable this setting, the\
+      \ mouse hook will remain on and can avoid missing events.</li></ul><h2 class=\"\
+      bb_tag\">Super Ring (\u235F)</h2>Opens super ring mode.<br><ul class=\"bb_ul\"\
+      ><li>You can also open up the super ring by double clicking on a menu button,\
+      \ and the super ring will use that menu as its root.<br></li><li>When clicking\
+      \ on a menu in super ring mode, it will make room for itself and open as an\
+      \ additional level.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ring Drag Rearrange\
+      \ (Default: True)<br>Allows you to drag buttons to rearrange them within a ring,\
+      \ but only within the favorites ring or the task ring.<br></li><li>Ring Change\
+      \ Ring (Default: True)<br>Allows you to drag buttons from one ring to another.\
+      \  Within the favorites ring, dragged buttons will be moved.  Outside of the\
+      \ favorites ring, dragged buttons can be copied to the favorites ring.<br></li><li>Anti\
+      \ Flicker (Default: False)<br>Includes some fixes for animation flicker when\
+      \ moving menus or opening super rings.  The fixes have minor performance implications\
+      \ during movements and animations.<br></li><li>Big Ring Scale Adjustment (Default:\
+      \ 1)<br></li><li>Little Ring Scale Adjustment (Default: 1)<br></li><li>Super\
+      \ Ring Type (Default: 0)<br>When double clicking on a menu button or using the\
+      \ super ring button, the tool will attempt to show you as much functionality\
+      \ as possible.  This setting adjusts which style you prefer for showing the\
+      \ additional menus.<br> - 0: Automatically decides the Super Ring style based\
+      \ on available space at the current position.<br> - 1: Additional rings will\
+      \ all be centered at the same point, forming segments which the tool tries to\
+      \ size and position according to their respective menu buttons.  This option\
+      \ makes better use of screen space and can adapt more easily to different positions\
+      \ and screen sizes.<br> - 2: Additional rings will be centered around the menu\
+      \ button that launches them.  Rings will attempt to adjust to available space\
+      \ to reduce overlap.  This option gives the clearest visual indication of the\
+      \ relationships between the menus and keeps positioning consistent.<br></li><li>Target\
+      \ Number of Simultaneous Ring Animations (Default: 3)<br>Some features limit\
+      \ the number of simultaneous ring animations for both performance and aesthetic\
+      \ reasons.  You can adjust it with this setting.<br></li><li>Super Ring Animation\
+      \ Time Multiplier (Default: 1)<br>Changes the duration of animations when super\
+      \ rings open and close.  This can improve performance by eliminating animations\
+      \ if set to 0.  Making it slow and increasing the number of concurrent animations\
+      \ can have a cool effect.<br></li><li>Super Ring Animation Simplified (Default:\
+      \ False)<br>When enabled, simplifies the super ring animation for better performance.<br></li><li>Super\
+      \ Ring Concentric Starting Levels (Default: 5)<br>This number of levels will\
+      \ be opened up with a concentric super ring.<br></li><li>Equalizer Ring Disable\
+      \ for Super Ring (Default: True)<br>The Equalizer Ring can cause slowness if\
+      \ active at the same time as a super ring.  This feature will automatically\
+      \ disable the equalizer ring while the super ring is open.</li></ul><h2 class=\"\
+      bb_tag\">Toggle Edit Mode (\u270E)</h2>Toggles edit mode for the associated\
+      \ task or favorites menu item.  Toggling once puts the selected action into\
+      \ edit mode, and toggling again saves the changes made.<h2 class=\"bb_tag\"\
+      >Related Settings (\u2699)</h2>Contains settings related to the associated action\
+      \ or menu.<h2 class=\"bb_tag\">Toggle Favorite (\u2605)</h2>Adds or removes\
+      \ the associated action or menu from your favorites menu.<br><ul class=\"bb_ul\"\
+      ><li>If the item is not in your favorites menu, it will be added to the root\
+      \ of your favorites menu.<br></li><li>If the item already in your favorites\
+      \ menu, it will be removed from your favorites menu.<br></li><li>Also contains\
+      \ a hierarchical listing of your favorites menu which you can use to add or\
+      \ remove the item in specific locations within your favorites menu.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Flyout Include Favorites Button (Default: True)<br>If\
+      \ enabled, flyouts will include a quick access favorites button.</li></ul><h2\
+      \ class=\"bb_tag\">Help (?)</h2>Opens the help menu for the associated action\
+      \ or menu.<br><br>Settings:<ul class=\"bb_ul\"><li>Go Directly to Online Documentation\
+      \ (Default: False)<br>When enabled, help features will take you directly to\
+      \ online documentation instead of your local documentation files.<br></li><li>Verbosity\
+      \ Level (Default: 1)<br>Throughout the app I have tried to include plenty of\
+      \ easily accessible information about each feature.  I predicted that some people\
+      \ might feel the amount of information was excessive, so I started categorizing\
+      \ some the information into verbosity levels.  By setting higher levels of verbosity,\
+      \ more of the information I wrote will appear in flyout menus.  This information\
+      \ is also available in the documentation, so you can keep a low verbosity level\
+      \ for flyouts and still access the addition information relatively quickly using\
+      \ the &quot;?&quot; orbs.  You will need to reopen a flyout to see changes to\
+      \ verbosity levels.<br></li><li>Generate Documentation Automatically (Default:\
+      \ True)<br>Automatically generate local documentation.<br></li><li>Generate\
+      \ Documentation Include Favorites (Default: True)<br>When generating local documentation,\
+      \ include personal information such as the user favorites ring.<br></li><li>Generate\
+      \ Documentation Include Current Tasks (Default: False)<br>When generating local\
+      \ documentation, include currently running tasks.<br></li><li>Flyout Include\
+      \ Help Button (Default: True)<br>If enabled, flyouts will include a quick access\
+      \ help button.</li></ul><h2 class=\"bb_tag\">Toggle Tray (Tray)</h2>Toggles\
+      \ the appearance of the associated action or menu in the system tray.<h2 class=\"\
+      bb_tag\">Related Settings (\u2699)</h2>Contains settings related to the associated\
+      \ action or menu.<h2 class=\"bb_tag\">New Standard Window (\U0001F5D4*)</h2>Launches\
+      \ the associated flyout window as a new standard window.<br><ul class=\"bb_ul\"\
+      ><li>The standard window offers greater efficiency by opening a simple unthemed\
+      \ window without transparency or animations.  This may be useful if you are\
+      \ looking at something complicated such as the Chill Boost flyout.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Flyout Include New Standard Window Button (Default: False)<br>If\
+      \ enabled, flyouts will include a quick access New Standard Window button.</li></ul><h2\
+      \ class=\"bb_tag\">Resize Flyout Window (\u21F2)</h2>Resizes the associated\
+      \ flyout window.<br><ul class=\"bb_ul\"><li>Flyout windows do support standard\
+      \ border resizing like other windows, but due to theming it may become difficult,\
+      \ so you may need this.</li></ul>Settings:<ul class=\"bb_ul\"><li>Flyout Include\
+      \ Resize Button (Default: False)<br>If enabled, flyouts will include a quick\
+      \ access resize button.</li></ul><h2 class=\"bb_tag\">Lock Flyout Window (\U0001F512\
+      )</h2>Toggle on to keep the flyout window open when your mouse leaves and does\
+      \ other things.<br><br>Settings:<ul class=\"bb_ul\"><li>Flyout Include Lock\
+      \ Button (Default: False)<br>If enabled, flyouts will include a lock button.<br></li><li>Flyout\
+      \ Locking Rules (Default: 30)<br>Determines when flyout windows will automatically\
+      \ remain open.<br> - 1: Bitmask: 1 (1)<br> - 2: Bitmask: 2 (2)<br> - 4: Bitmask:\
+      \ 4 (4)<br> - 8: Bitmask: 8 (8)<br> - 16: Bitmask: 10 (16)</li></ul><h2 class=\"\
+      bb_tag\">Move Flyout Window (\u21F3\u2B04)</h2>Moves the associated flyout window.<br><ul\
+      \ class=\"bb_ul\"><li>Flyout windows do support title bar drag and drop movement\
+      \ like other windows, but due to theming it may become difficult, so you may\
+      \ need this.</li></ul>Settings:<ul class=\"bb_ul\"><li>Flyout Include Move Button\
+      \ (Default: False)<br>If enabled, flyouts will include a quick access move button.</li></ul><h2\
+      \ class=\"bb_tag\">Toggle Flyout Window Always on Top (\U0001F5D4\u234F)</h2>Toggles\
+      \ whether the flyout window stays on top of other windows.<br><ul class=\"bb_ul\"\
+      ><li>Flyout windows do support title bar drag and drop movement like other windows,\
+      \ but due to theming it may become difficult, so you may need this.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Flyout Include Always on Top Button (Default: False)<br>If\
+      \ enabled, flyouts will include an always on top toggle button.<br></li><li>Flyout\
+      \ Auto Remove Topmost (Default: True)<br>If enabled, focusing on a window will\
+      \ remove the always on top status of flyouts that are mostly blocking the window.</li></ul><h2\
+      \ class=\"bb_tag\">Super Ring Associated Menu (\u235F)</h2>Opens super ring\
+      \ mode.<br><ul class=\"bb_ul\"><li>You can also open up the super ring by double\
+      \ clicking on a menu button, and the super ring will use that menu as its root.<br></li><li>When\
+      \ clicking on a menu in super ring mode, it will make room for itself and open\
+      \ as an additional level.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ring Drag\
+      \ Rearrange (Default: True)<br>Allows you to drag buttons to rearrange them\
+      \ within a ring, but only within the favorites ring or the task ring.<br></li><li>Ring\
+      \ Change Ring (Default: True)<br>Allows you to drag buttons from one ring to\
+      \ another.  Within the favorites ring, dragged buttons will be moved.  Outside\
+      \ of the favorites ring, dragged buttons can be copied to the favorites ring.<br></li><li>Anti\
+      \ Flicker (Default: False)<br>Includes some fixes for animation flicker when\
+      \ moving menus or opening super rings.  The fixes have minor performance implications\
+      \ during movements and animations.<br></li><li>Big Ring Scale Adjustment (Default:\
+      \ 1)<br></li><li>Little Ring Scale Adjustment (Default: 1)<br></li><li>Super\
+      \ Ring Type (Default: 0)<br>When double clicking on a menu button or using the\
+      \ super ring button, the tool will attempt to show you as much functionality\
+      \ as possible.  This setting adjusts which style you prefer for showing the\
+      \ additional menus.<br> - 0: Automatically decides the Super Ring style based\
+      \ on available space at the current position.<br> - 1: Additional rings will\
+      \ all be centered at the same point, forming segments which the tool tries to\
+      \ size and position according to their respective menu buttons.  This option\
+      \ makes better use of screen space and can adapt more easily to different positions\
+      \ and screen sizes.<br> - 2: Additional rings will be centered around the menu\
+      \ button that launches them.  Rings will attempt to adjust to available space\
+      \ to reduce overlap.  This option gives the clearest visual indication of the\
+      \ relationships between the menus and keeps positioning consistent.<br></li><li>Target\
+      \ Number of Simultaneous Ring Animations (Default: 3)<br>Some features limit\
+      \ the number of simultaneous ring animations for both performance and aesthetic\
+      \ reasons.  You can adjust it with this setting.<br></li><li>Super Ring Animation\
+      \ Time Multiplier (Default: 1)<br>Changes the duration of animations when super\
+      \ rings open and close.  This can improve performance by eliminating animations\
+      \ if set to 0.  Making it slow and increasing the number of concurrent animations\
+      \ can have a cool effect.<br></li><li>Super Ring Animation Simplified (Default:\
+      \ False)<br>When enabled, simplifies the super ring animation for better performance.<br></li><li>Super\
+      \ Ring Concentric Starting Levels (Default: 5)<br>This number of levels will\
+      \ be opened up with a concentric super ring.<br></li><li>Equalizer Ring Disable\
+      \ for Super Ring (Default: True)<br>The Equalizer Ring can cause slowness if\
+      \ active at the same time as a super ring.  This feature will automatically\
+      \ disable the equalizer ring while the super ring is open.<br></li><li>Flyout\
+      \ Include Super Ring Button (Default: False)<br>If enabled, flyouts for menu\
+      \ actions will include the Super Ring button.</li></ul><h2 class=\"bb_tag\"\
+      >Close Flyout Window (\u274C\uFE0E)</h2>Closes the associated flyout window.<br><ul\
+      \ class=\"bb_ul\"><li>This is just the close button for the associated flyout\
+      \ window.</li></ul><h2 class=\"bb_tag\">Reset Action Arrangement (\u235F\u238C\
+      )</h2>Reverts actions to default positions.<br><ul class=\"bb_ul\"><li>In case\
+      \ you made a mess using the menu system rearrangement, or maybe a bug messed\
+      \ out the layout somehow, this action will return all of the stock actions to\
+      \ their stock positions.</li></ul><h2 class=\"bb_tag\">Steam Integration (Steam)</h2>Here\
+      \ you can manage the integration settings between Simplode Suite and Steam.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Steam Integration Enabled (Default: True)<br>If disabled,\
+      \ the tool will isolate itself from Steam.  The tool tries to automatically\
+      \ maintain a copy of your licensing information so that it may continue working\
+      \ once separated from Steam, though you will need use Steam integration to validate\
+      \ your Steam purchase once at first, and then one more time after 30 days (this\
+      \ is to facilitate refund returns).  You may also want to disable this option\
+      \ if you don't have Steam and want to slightly improve start time.  If you are\
+      \ trying to get the tool to stop showing up in your status, you can either mark\
+      \ your Steam status as private in Steam settings, or you can disable the integration\
+      \ using this option or by using the &quot;Disconnect at Start&quot; option.<br></li><li>Auto\
+      \ Start Steam (Default: True)<br>If enabled, the tool will launch Steam when\
+      \ starting if Steam is present but not running.  This will help ensure all Steam\
+      \ integration features like achievements and licensing will work automatically.<br></li><li>Steam\
+      \ Auto Reconnect (Default: True)<br>Automatically reconnect to Steam if unable\
+      \ to connect at first.  This will enable Steam integration features automatically\
+      \ once Steam starts.<br></li><li>Steam Disconnect At Start (Default: False)<br>If\
+      \ enabled, the tool will disconnect from Steam shortly after starting.  This\
+      \ will prevent you from showing your status as using Simplode Suite all day\
+      \ long, while still allowing you to show your friends which games you are playing.\
+      \  Steam integrated features such as licensing and achievements get a small\
+      \ window of time to occur during application start up.  As the developer, of\
+      \ course I would like you to show off Simplode Suite to your friends all the\
+      \ time, but as a user I would find it annoying, so I give you this option. \
+      \ If you want to prevent your status from showing entirely, you can mark it\
+      \ private in your Steam settings, but this impacts all Steam apps and games.\
+      \  Alternatively, you can disable Steam Integration completely using the &quot;Steam\
+      \ Integration Enabled&quot; option.<br></li><li>Steam Sync Achievements (Default:\
+      \ True)<br>If enabled, acheivement data will be automatically synced with your\
+      \ Steam profile if linked (this is how applications on Steam normally work).\
+      \  Disable this if you want to keep this information private.</li></ul><h2 class=\"\
+      bb_tag\">Simplode Protocol Handler (\xA7://)</h2>Handles simplode:// protocol\
+      \ commands.<br><ul class=\"bb_ul\"><li>Supports launching the details flyout\
+      \ for any action, which is used for start menu and desktop shortcuts generated\
+      \ in favorites options. (Example: simplode://flyout/MainMenu)</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Simplode URL Protocol (Default: True)<br>If enabled, Simplode\
+      \ Suite can respond to commands through the Simplode URL Protocol (simplode://).</li></ul><h2\
+      \ class=\"bb_tag\">Welcome (Hi)</h2>The Welcome menu is here to welcome you\
+      \ to Simplode Suite.  There is a lot to the application, and this screen gives\
+      \ you a way to specify what kind of experience you want without having to tour\
+      \ the entire application upfront.  It is primarily for new users.  If you have\
+      \ used the application a lot and put some effort into customizing it, be careful\
+      \ about changing presets, as they can change a lot of your other settings throughout\
+      \ the application.<br><br>Settings:<ul class=\"bb_ul\"><li>Show Welcome on Launch\
+      \ (Default: True)<br>Uncheck this option to prevent the Welcome screen from\
+      \ automatically appearing when Simplode Suite launches.<br></li><li>Launch Menu\
+      \ Ring on Start (Default: True)<br>When enabled, the ring will open when the\
+      \ application starts.<br></li><li>Auto Start (Default: True)<br>If enabled,\
+      \ Simplode Suite will automatically start up.</li></ul><h2 class=\"bb_tag\"\
+      >Achievements (\U0001F3C6)</h2>Here you can see various goals that have been\
+      \ prepared to help you explore the software in a fun way.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Steam Sync Achievements (Default: True)<br>If enabled,\
+      \ acheivement data will be automatically synced with your Steam profile if linked\
+      \ (this is how applications on Steam normally work).  Disable this if you want\
+      \ to keep this information private.</li></ul><h2 class=\"bb_tag\">Free Beta\
+      \ Features (Free<br>Beta)</h2>Get access to free beta features here.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Enable Free Beta Features (Default: False)<br>If you would\
+      \ like to help us test new features, simply enable this option and free beta\
+      \ features will be enabled.  We appreciate any feedback regarding these features.</li></ul><h2\
+      \ class=\"bb_tag\">Free Trial (Free Trial)</h2>Get free trial access to the\
+      \ entire product here.<br><ul class=\"bb_ul\"><li>When installing Simplode Suite,\
+      \ a 24 hour trial of all features is automatically enabled.  You can enable\
+      \ additional trial periods with this feature.</li></ul>Settings:<ul class=\"\
+      bb_ul\"><li>Free Trial Disabled (Default: False)<br>If checked, the any activated\
+      \ free trial period will be temporarily disabled.  The free trial period will\
+      \ still expire at the same time, but you can use this option to end your free\
+      \ trial period prematurely or resume it.  When disabling your free trial, you\
+      \ will need to restart the application to see the change.</li></ul><h2 class=\"\
+      bb_tag\">Feature of the Day (Free FOTD)</h2>Get access to the Feature of the\
+      \ Day here.<br><ul class=\"bb_ul\"><li>The feature of the day gives you the\
+      \ opportunity to try each of Simplode Suite's features over a longer period\
+      \ of time.  The number of features available in the application make it a daunting\
+      \ task to explore all of the possibilities in any reasonable amount of time,\
+      \ but the Feature of the Day will keep cycling forever, so even after you use\
+      \ your free trial periods, you will still be able to try different features\
+      \ every day.</li></ul>Settings:<ul class=\"bb_ul\"><li>Feature of the Day (Default:\
+      \ True)<br>Each day, a set of features will be made available to try for 48\
+      \ hours if enabled.  When disabling this option, you may need to restart Simplode\
+      \ Suite to get everything back to normal.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1291032/page_bg_generated_v6b.jpg?t=1606276767
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "These features are core to the Simplode Suite experience.\
+      \  The ring menu system and the quick search flyout provide a stylish and customizable\
+      \ platform to explore and manage all of the available utilities.<br>This product\
+      \ is available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Action Search (&gt;_), Customize Style (\U0001F58C\
+      ), Safe Mode (\U0001F4A5), Toggle Ring Menu (\U0001F53E), Notifications (\U0001F514\
+      ), Installation (\U0001F4BF), Auto Start (\u21BB), Config File (\u2699\U0001F4BE\
+      ), Generate Documentation (?\U0001F5CE*), Toggle External Input (\U0001F5A6\
+      ), Tray Manager (Tray), About (About), Product Registration (\U0001F511), Logging\
+      \ (\u26A0\uFE0F\U0001F4DC), Exit (\u274C\uFE0E), Reset Action Arrangement (\u235F\
+      \u238C), Mouse Button Combos (\U0001F5B1\uFE0FCombo), Super Ring (\u235F), Toggle\
+      \ Edit Mode (\u270E), Related Settings (\u2699), Toggle Favorite (\u2605), Help\
+      \ (?), Toggle Tray (Tray), Related Settings (\u2699), New Standard Window (\U0001F5D4\
+      *), Resize Flyout Window (\u21F2), Lock Flyout Window (\U0001F512), Move Flyout\
+      \ Window (\u21F3\u2B04), Toggle Flyout Window Always on Top (\U0001F5D4\u234F\
+      ), Super Ring Associated Menu (\u235F), Close Flyout Window (\u274C\uFE0E),\
+      \ Reset Action Arrangement (\u235F\u238C), Steam Integration (Steam), Simplode\
+      \ Protocol Handler (\xA7://), Welcome (Hi), Achievements (\U0001F3C6), Free\
+      \ Beta Features (Free<br>Beta), Free Trial (Free Trial), Feature of the Day\
+      \ (Free FOTD)<h2 class=\"bb_tag\">Action Search (&gt;_)</h2>This is a searchable\
+      \ list of actions.<br><ul class=\"bb_ul\"><li>Before typing in a query, or after\
+      \ you have cleared out a query, the list will prioritize items in your favorites\
+      \ menu to maximize the chance that you will not even need to type anything.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Focus Free Interactions (Default: True)<br>If enabled,\
+      \ many interactions with the tool will attempt to be focus free, meaning they\
+      \ will not take focus away from the application you are currently using.  To\
+      \ do this, the feature intercepts your input at a low level and redirects it\
+      \ to the tool.  Support for international keyboards and IMEs may be limited\
+      \ for this feature.<br></li><li>Action Search Max Results (Default: 10)<br>This\
+      \ is the maximum number of action search results which will be shown in the\
+      \ action search.  Keeping this low can improve the performance of the action\
+      \ search.<br></li><li>Action Search Include Unlicensed (Default: True)<br>If\
+      \ enabled, action search will include actions that are not currently licensed.\
+      \  This may enable you to discover useful features of Simplode Suite that you\
+      \ might want.  If you haven't changed your Free Select feature in the last 24\
+      \ hours, any of these features will be instantly available for unlock.<br></li><li>Action\
+      \ Search Max Actions with Configs (Default: 2)<br>The top action search results\
+      \ can include matching configs for easy access.  The maximum number of actions\
+      \ that can show configs is determined by this setting.  For example, if you\
+      \ set this value to 5, then the top 5 action search results can contain config\
+      \ results.<br></li><li>Action Search Max Configs Per Action (Default: 2)<br>For\
+      \ action results which have configs that match your query, this is the maximum\
+      \ number of configs which can display for each action.  So, at its default value\
+      \ of 2, the tool will try to give you the two best config results.  Hopefully\
+      \ the result you are looking for will be ranked highest so that you will not\
+      \ have to open the action's menu to find it.<br></li><li>Action Search Results\
+      \ Delay Seconds (Default: 0)<br>Performance of search results can be improved\
+      \ by checking less often for new results.  This is the number of seconds the\
+      \ tool will wait after you stop typing before it will get new results.  If you\
+      \ set this low enough, it will trigger between key presses and performance may\
+      \ suffer.</li></ul><h2 class=\"bb_tag\">Customize Style (\U0001F58C)</h2>Customize\
+      \ Simplode Suite style.<br><br>Settings:<ul class=\"bb_ul\"><li>Theme (Default:\
+      \ Moonlight)<br>The theme setting allows you to create, load, and delete themes\
+      \ for the application.<br>Currently Available Themes: Dark, Fun, Light, Midnight,\
+      \ Moonlight<br></li><li>Panel Background (Default: #E6002B39)<br>Changes the\
+      \ background color of most flyouts and indicator windows of the program.<br></li><li>Panel\
+      \ Border (Default: #9BFFFFFF)<br>Changes the border color around most flyouts\
+      \ and indicator windows of the program.<br></li><li>Ring Background (Default:\
+      \ #A288A6B0)<br>Changes the background color of the ring menus throughout the\
+      \ program.<br></li><li>Ring Border (Default: #D0FFFFFF)<br>Changes the border\
+      \ color around the menu rings.<br></li><li>Cache Maximum Fidelity (Default:\
+      \ 2)<br>Limits the amount of resources that can be dedicated to caching visuals.\
+      \  At high scaling, caching visuals can use a lot of memory.<br></li><li>Glow\
+      \ Content Effect Enabled (Default: True)<br>This setting can toggle the glow\
+      \ effect for text throughout the application.  The glow effect enables more\
+      \ creativity with styling the application.  Transparent background effects look\
+      \ cool, but they can make text difficult to read.  The glow effect helps out\
+      \ with this problem while also enhancing style.  The glow effect can negatively\
+      \ impact performance, and might not fit with the stylistic look you are going\
+      \ for anyways, so you can turn it off with this setting if you like.  You may\
+      \ need to restart the tool to completely add/remove the effect, but once it\
+      \ is enabled you can play around with it by adjusting the glow color in real\
+      \ time.<br></li><li>Glow Content Brush (Default: #FF001923)<br>Changes the color\
+      \ of the glow effect for text content throughout the program.<br></li><li>Glow\
+      \ Content Intensity (Default: 4)<br>Controls the intensity of the glow effect\
+      \ for text content throughout the application except in orb button icons.  Higher\
+      \ values can reduce performance.  Glow maps are generally cached, so changes\
+      \ to this may not change existing visuals until restarting the application.<br></li><li>Glow\
+      \ Content Maximum Fidelity (Default: 1)<br>Limits the amount of resources that\
+      \ can be dedicated to making the content glow effect look good.  Depending on\
+      \ your monitor scaling and application scaling, pixel perfect glow effects may\
+      \ require large amounts of memory.  Glow effects will often still look good\
+      \ at lower resolution, so limiting this value may produce good looking results\
+      \ with less performance cost.  After changing the value, existing cached glow\
+      \ effects will not be changed, so you may need to restart the application to\
+      \ see how the new setting value looks.<br></li><li>Glow Lock (Default: False)<br>This\
+      \ is a performance enhancing setting which will prevent glowing areas from resizing.\
+      \  When resizing an element, its glow cache must be refreshed which requires\
+      \ some GPU and CPU resources.  By avoiding this, things like resizing a window\
+      \ in the tool can perform much better at the cost of having some elements not\
+      \ adjust their sizes properly to reflect the new window size.<br></li><li>Glow\
+      \ Icon Effect Enabled (Default: True)<br>This setting can toggle the glow effect\
+      \ for orb button icons throughout the application.  The glow button effect has\
+      \ much less impact on performance than the glow content effect, but you may\
+      \ still want to disable it depending on your stylistic preferences.<br></li><li>Glow\
+      \ Icon Brush (Default: #FFFFFFFF)<br>Changes the color of the glow effect which\
+      \ occurs throughout the program.<br></li><li>Glow Icon Intensity (Default: 5)<br>Controls\
+      \ the intensity of the glow effect for orb button icons.  Higher values can\
+      \ reduce performance.  Glow maps are generally cached, so changes to this may\
+      \ not change existing visuals until restarting the application.<br></li><li>Orb\
+      \ Button Background (Default: #40D0D0D0)<br>This is the background color of\
+      \ the action orbs throughout the application.<br></li><li>Content Foreground\
+      \ (Default: #FFFFFFF0)<br>Changes the color of text and symbols throughout the\
+      \ program.<br></li><li>Link Color (Default: #FFAFAFFA)<br>Color of hyperlinks.<br></li><li>Icon\
+      \ Foreground (Default: #FF000000)<br>Changes the color of text and symbols in\
+      \ orb buttons.<br></li><li>Panel Background and Border Opacity (Default: 0.91)<br>Adjusts\
+      \ the transparency of panels and their borders throughout the application. \
+      \ Values closer to 1 are less transparent.  Values closer to 0 are more transparent.<br></li><li>Ring\
+      \ Background and Border Opacity (Default: 0.4)<br>Adjusts the transparency of\
+      \ the rings and their borders throughout the application.  Values closer to\
+      \ 1 are less transparent.  Values closer to 0 are more transparent.<br></li><li>Scale\
+      \ (Default: 1)<br>Adjusts the size of UI elements throughout the program.  Some\
+      \ graphical elements are cached for performance and may become blurry with scaling\
+      \ changes, so you may need to restart the application after changing scaling\
+      \ to refresh these caches.  The available range is wider if you type it in manually.<br></li><li>Multiple\
+      \ Display DPI Scales (Default: True)<br>If enabled, the tool will try to appropriately\
+      \ size its own windows based on your individual monitor DPI settings.  The tool\
+      \ will wait until you are done moving a window before it will change the scaling.<br></li><li>Animation\
+      \ Time Base Multiplier (Default: 1)<br>Changes the duration of most animation\
+      \ effects throughout the program.  This can improve performance by eliminating\
+      \ animations if set to 0.<br></li><li>Flyout Min Width (Default: 200)<br>This\
+      \ setting controls the minimum width of flyouts.  Flyouts which do not contain\
+      \ much content may become difficult to use if they shrink too much.<br></li><li>Flyout\
+      \ Fancy Mode (Default: True)<br>When enabled, flyouts support animations, rounded\
+      \ corners, partial transparency, and glowing text.  Flyout windows may perform\
+      \ smoother with this off.<br></li><li>Flyout Animation Style (Default: 1)<br>None\
+      \ - Turn off flyout animations, increasing performance while still allowing\
+      \ other animations to occur.<br>Single - Animate window flyouts in a single\
+      \ motion.<br>Double - Animate window flyouts in two motions.  May actually perform\
+      \ better than single due to technical differences.<br> - 0<br> - 1<br> - 2<br></li><li>Flyout\
+      \ Animation Duration Multiplier (Default: 1)<br>Lowering this value will increase\
+      \ the speed at which flyouts are animated when displayed.  If you set this to\
+      \ 0, flyouts will be fully rendered in one frame, increasing performance.<br></li><li>Flyout\
+      \ Ripple Duration Multiplier (Default: 0)<br>Lowering this value will increase\
+      \ the speed at which the ripple effect moves when a flyout is displayed.  If\
+      \ you set this to 0, the ripple effect will be removed.  The ripple effect will\
+      \ show a visible ripple across the flyout window when it opens, which functions\
+      \ as a visual aid to make flyout windows less jarring.  The ripple effect is\
+      \ most useful when the flyout motion animation is disabled, as you get the instant\
+      \ feedback of the flyout window appearing all at once while at the same time\
+      \ having the animated ripple as a visual indicator to the flyout opening sequence\
+      \ which may reduce confusion.<br></li><li>Flyout Border Thickness (Default:\
+      \ 1)<br>This adjusts the thickness of the border around flyout windows.  Changes\
+      \ will go into effect as new flyouts are opened<br></li><li>Flyout Margin Thickness\
+      \ (Default: 2)<br>This adjusts the thickness of the margin in flyout windows.\
+      \  Changes will go into effect as new flyouts are opened.<br></li><li>Ring Notch\
+      \ (Default: True)<br>This option puts a notch between the first and last items\
+      \ in the ring in most cases.  Disabling this may improve performance.  The ring\
+      \ notch will still be enabled when using the concentric super ring.<br></li><li>Max\
+      \ Content Columns (Default: 2)<br>This is the max number of columns that interface\
+      \ content will use when columns are available.  This feature can help you better\
+      \ take advantage of screen space when using the tool's user interface.  Performance\
+      \ may improve with fewer columns.<br></li><li>Min Content Column Size (Default:\
+      \ 400)<br>When showing multiple columns of interface content, each column will\
+      \ be at least this size.<br></li><li>Min Content Column Members (Default: 2)<br>When\
+      \ showing multiple columns of interface content, each column will have at least\
+      \ this many members.<br></li><li>More Color Icons (Default: True)<br>If enabled,\
+      \ buttons will use full color icons for some built-in tools.  You may want to\
+      \ disable this if the color icons don't fit well with your style settings. \
+      \ Tool restart is required to see changes.<br></li><li>More Color Icons Clean\
+      \ (Default: True)<br>If enabled, select full color icons will be omitted for\
+      \ a cleaner look.  Tool restart is required to see changes.</li></ul><h2 class=\"\
+      bb_tag\">Safe Mode (\U0001F4A5)</h2>Safe Mode will revert all tool settings\
+      \ to default and save your old settings.  This is useful if you accidently put\
+      \ the tool into an unusable state.<h2 class=\"bb_tag\">Toggle Ring Menu (\U0001F53E\
+      )</h2>Toggles the Simplode Suite ring menu.<br><ul class=\"bb_ul\"><li>The ring\
+      \ menu system is inspired by my favorite video game of all time, Secret of Mana.<br></li><li>I\
+      \ think ring menus are easier on the brain than lists.  It is really just a\
+      \ list that wraps around, so it starts off with all of the advantages of a list,\
+      \ but your brain can also use the directional component for fast access.<br></li><li>Ring\
+      \ menus are not without drawbacks, of course.  Scanning text in a ring is both\
+      \ ugly and inefficient, so simple icons are necessary.  Simple icons often need\
+      \ to be learned, as they are usually not completely intuitive.<br></li><li>You\
+      \ might want to stick with the action search function or the flyout menus at\
+      \ first until you start recognizing the icons.  You can access the flyout menus\
+      \ and detailed information by right clicking or long pressing or hovering the\
+      \ cursor on menu buttons.<br></li><li>Touch screen users may more likely want\
+      \ to jump directly to learning the ring menu, as it is designed to be touch\
+      \ friendly.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ring Drag Rearrange (Default:\
+      \ True)<br>Allows you to drag buttons to rearrange them within a ring, but only\
+      \ within the favorites ring or the task ring.<br></li><li>Hide Ring Menu When\
+      \ Dragged to Screen Edge (Default: True)<br>When enabled, the ring menu will\
+      \ be hidden when dragged to the edge of the screen.<br></li><li>Menu Include\
+      \ Unlicensed Features (Default: False)<br>When enabled, unlicensed features\
+      \ will be visible in menus.<br></li><li>Orb Button Tool Tips (Default: Name,\
+      \ Instruction, Hotkey)<br>Determines what will be in tool tips for orb buttons.<br>\
+      \ - Disabled: Do not show a tooltip.<br> - Name: Includes the action name in\
+      \ the tool tip.<br> - Description: Includes the action description in the tool\
+      \ tip.<br> - Instruction: Includes basic instructions in the tool tip.<br> -\
+      \ Hotkey: Includes any associated hotkey in the tool tip.<br></li><li>Orb Button\
+      \ Tool Tip Delay (Default: 1000)<br>Determines how long orb buttons will wait\
+      \ to show a tool tip.<br></li><li>Toggle Ring Menu to Favorites (Default: False)<br>If\
+      \ enabled, the standard ring menu toggling operation will automatically bring\
+      \ you to the Favorites menu instead of the Main menu.  You can use this option\
+      \ to get more control over what you see when using the tool, as you can freely\
+      \ change items in your favorites ring.  You will still be able to access any\
+      \ items outside of your favorites menu by right clicking on the center orb of\
+      \ the main ring.<br></li><li>Auto Flyout (Default: False)<br>This setting controls\
+      \ whether or not button flyouts will automatically launch from buttons.<br></li><li>Auto\
+      \ Flyout Milliseconds (Default: 1000)<br>This setting controls the amount of\
+      \ wait time for launching a flyout from a button when you leave the mouse cursor\
+      \ on the button.<br></li><li>Ring in Taskbar (Default: True)<br>When enabled,\
+      \ the ring control has a taskbar entry which can be used to show/hide it.<br></li><li>Launch\
+      \ Menu Ring on Start (Default: True)<br>When enabled, the ring will open when\
+      \ the application starts.<br></li><li>Toggle Ring Menu with Bump Right (Default:\
+      \ True)<br>When you hold the middle mouse button and then press the right mouse\
+      \ button, the menu ring will toggle.<br></li><li>Toggle Ring Menu with Right\
+      \ Bump (Default: False)<br>When you hold the right mouse button and then press\
+      \ the middle mouse button, the menu ring will toggle.<br></li><li>Toggle Ring\
+      \ Menu Mouse Combo Timing (Default: 650)<br>This is the number of milliseconds\
+      \ allowed after hitting the middle mouse button for activating the ring menu\
+      \ with the right click.  A value of 0 will mean that the middle mouse button\
+      \ must still be pressed at the time of the right click.<br></li><li>Ring Menu\
+      \ Fit Edge (Default: False)<br>If enabled, the ring menu will arrange itself\
+      \ in an arc to avoid the edges of the screen.<br></li><li>Ring Notch (Default:\
+      \ True)<br>This option puts a notch between the first and last items in the\
+      \ ring in most cases.  Disabling this may improve performance.  The ring notch\
+      \ will still be enabled when using the concentric super ring.<br></li><li>Ring\
+      \ Menu Quick Toggle Settings (Default: True)<br>If enabled, clicking on a settings\
+      \ toggling action button in a ring menu will instantly toggle the setting. \
+      \ If disabled, it will open the flyout window where you can click again to toggle\
+      \ the setting.<br></li><li>Ring Menu Quick Activate Actions (Default: True)<br>If\
+      \ enabled, clicking on an action activating button in a ring menu will instantly\
+      \ activate the action.  If disabled, it will open the flyout window where you\
+      \ can click again to activate the action.</li></ul><h2 class=\"bb_tag\">Notifications\
+      \ (\U0001F514)</h2>Manages tool notifications.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>OS Notification Integration (Default: True)<br>If enabled, tool\
+      \ notifications are displayed using the operating system's standard notification\
+      \ handling approach.<br></li><li>Application Update Notifications (Default:\
+      \ True)<br>If enabled, the tool will automatically check for updates and notify\
+      \ you.  This will only occur when the tool is running out of its installation\
+      \ directory.  For Steam based installations, updates are handled through Steam.<br></li><li>Notification\
+      \ Display Duration (Default: 4)<br>Number of seconds that new tool notifications\
+      \ are displayed.<br></li><li>Notification View Time Limit (Default: 5)<br>Number\
+      \ of minutes that new tool notifications are displayed in the notification viewer.<br></li><li>Notification\
+      \ View Count Limit (Default: 20)<br>Maximum number of notifications that can\
+      \ be displayed in the notification viewer.</li></ul><h2 class=\"bb_tag\">Installation\
+      \ (\U0001F4BF)</h2>Manages the installation of Simplode Suite.<br><ul class=\"\
+      bb_ul\"><li>Install, uninstall, or upgrade the tool here.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Application Update Notifications (Default: True)<br>If\
+      \ enabled, the tool will automatically check for updates and notify you.  This\
+      \ will only occur when the tool is running out of its installation directory.\
+      \  For Steam based installations, updates are handled through Steam.</li></ul><h2\
+      \ class=\"bb_tag\">Auto Start (\u21BB)</h2>Habilita el inicio autom\xE1tico\
+      \ de Simplode Suite.<br><ul class=\"bb_ul\"><li>If you install Simplode Suite\
+      \ within the Program Files or Program Files (x86) folder, you can automatically\
+      \ start Simplode Suite with administrator rights without a prompt.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Auto Start (Default: True)<br>If enabled, Simplode Suite\
+      \ will automatically start up.<br></li><li>Run as Admin (Default: True)<br>If\
+      \ enabled, Simplode Suite will try to always have admin privileges.  Without\
+      \ admin privileges, some features only partially work and some features do not\
+      \ work at all.  Some of these features provide the ability to get admin privileges\
+      \ on demand, but some require restarting the application which may result in\
+      \ the loss of some session level configuration, such as window linking and tab\
+      \ layouts.</li></ul><h2 class=\"bb_tag\">Config File (\u2699\U0001F4BE)</h2>Save\
+      \ and load settings here.<br><ul class=\"bb_ul\"><li>Get Config Partial Filter\
+      \ - Compares an existing config file with the current config and lists the options\
+      \ that have changed.  The changed option list can be used to save a partial\
+      \ config file, which will only overwrite the changed options when loaded.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Partial Config Fields (Default: LoadFilterAll)<br>This\
+      \ is a utility configuration for making a saved config file load partially.\
+      \  This makes it possible to have config files that will only effect certain\
+      \ areas when loaded, leaving prior config values alone outside of those areas.\
+      \  This is a comma separated list of config names, though the config names may\
+      \ be different from their displayed names in the tool, usually just by missing\
+      \ spaces.</li></ul><h2 class=\"bb_tag\">Generate Documentation (?\U0001F5CE\
+      *)</h2>Generates the documentation web pages from the current configuration.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Generate Documentation Include Favorites (Default: True)<br>When\
+      \ generating local documentation, include personal information such as the user\
+      \ favorites ring.<br></li><li>Generate Documentation Include Current Tasks (Default:\
+      \ False)<br>When generating local documentation, include currently running tasks.<br></li><li>Generate\
+      \ Documentation Automatically (Default: True)<br>Automatically generate local\
+      \ documentation.<br></li><li>Generate Documentation Rerender Images (Default:\
+      \ False)<br>When generating documentation, overwrite any saved images with new\
+      \ images.  This is needed to update changed images, but since they usually do\
+      \ not change the default is to reuse the existing images for improved performance.<br></li><li>Icon\
+      \ Lossy Compression (Default: False)<br>If enabled, icons that are generated\
+      \ by the application will be allowed to lose fidelity during compression, allowing\
+      \ far greater compression.<br></li><li>Generate Documentation Text File (Default:\
+      \ False)<br>When generating documentation, include a simple text file version\
+      \ of the output.<br></li><li>Go Directly to Online Documentation (Default: False)<br>When\
+      \ enabled, help features will take you directly to online documentation instead\
+      \ of your local documentation files.</li></ul><h2 class=\"bb_tag\">Toggle External\
+      \ Input (\U0001F5A6)</h2>Toggles the tool's external input capabilities.<br><ul\
+      \ class=\"bb_ul\"><li>The tool is designed to function without having to watch\
+      \ your keyboard and mouse where possible, but some features require it and other\
+      \ features are enhanced by it.  When disabled, the tool will not watch your\
+      \ mouse and keyboard, but because of this it will only respond to direct input,\
+      \ such as clicking on button or menu within the tool.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Input Active Desired (Default: True)<br>If enabled, the\
+      \ program will assume the capability of watching and manipulating input as required\
+      \ for enabled features.  If disabled, some features will not be able to work.<br></li><li>Input\
+      \ Grabber (Default: True)<br>If enabled, the program will use an invisible window\
+      \ at times to capture input for some features.  If disabled, some features will\
+      \ not be able to work.<br></li><li>Input Active (Default: False)<br>Determines\
+      \ if the tool is attempting to read external inputs.<br></li><li>Hook Pass Through\
+      \ (Default: False)<br>When enabled, low level hooks remain enabled, but simply\
+      \ pass through any information.  This is to help diagnose issues where hooks\
+      \ may be causing lag.<br></li><li>Focus Free Interactions (Default: True)<br>If\
+      \ enabled, many interactions with the tool will attempt to be focus free, meaning\
+      \ they will not take focus away from the application you are currently using.\
+      \  To do this, the feature intercepts your input at a low level and redirects\
+      \ it to the tool.  Support for international keyboards and IMEs may be limited\
+      \ for this feature.<br></li><li>Focus Free Interactions Click to Grab Keyboard\
+      \ (Default: False)<br>If enabled, windows with focus free interactions will\
+      \ grab the keyboard when you click on them.  Without this setting enabled, only\
+      \ certain clicks will grab the keyboard, such as clicking on a text box.  You\
+      \ might want to enable this if you want to tab through the controls in tool\
+      \ windows without having to find a textbox to click on first.<br></li><li>Focus\
+      \ Free Interactions Grab Keyboard on Launch (Default: False)<br>If enabled,\
+      \ windows with focus free interactions will grab the keyboard when they are\
+      \ launched.  With this setting enabled, you can immediately tab through controls\
+      \ without having to click on the window at all.  Some tool windows were designed\
+      \ to provide immediate keyboard access, and they will take the keyboard on launch\
+      \ without considering this setting.<br></li><li>Use Priority Input Process (Default:\
+      \ True)<br>Runs input features in a separate priority process to avoid input\
+      \ lag.<br></li><li>Input Process Priority (Default: Real Time)<br>Select the\
+      \ desired priority for the input process.  I think &quot;Real Time&quot; will\
+      \ get you the best results, but perhaps you have a different sort of environment\
+      \ where it is not allowed or you are just uncomfortable with &quot;Real Time&quot;.<br>\
+      \ - Normal<br> - Idle<br> - High<br> - Real Time: Real Time priority processes\
+      \ will generally get all of the processing time they want, and if they want\
+      \ too much it can cause your system to become unstable.<br> - Below Normal<br>\
+      \ - Above Normal<br></li><li>Input Hook Refresh Seconds (Default: 5)<br>Occasionally,\
+      \ input hooks can stop working for various reasons without any notification.\
+      \  To combat this, the tool will automatically refresh necessary input hooks\
+      \ on this interval.  It is possible, though unlikely, for input features to\
+      \ work incorrectly if input happens to line up perfectly with a refresh.  You\
+      \ can disable this feature by setting it to 0, but then the tool will not be\
+      \ able to automatically recover from a broken hook.  Setting this value higher\
+      \ may improve input performance, at the cost of having to wait longer for features\
+      \ to work correctly if hooks fail.</li></ul><h2 class=\"bb_tag\">Tray Manager\
+      \ (Tray)</h2>Manage tray icons.<br><br>Settings:<ul class=\"bb_ul\"><li>Tray\
+      \ Icon Color (Default: #FFFFFFFF)<br>This is the color used when rendering emblem\
+      \ symbols with glow disabled.  If full color emojis are enabled, this color\
+      \ may be overridden.<br></li><li>Tray Icon Glow Foreground (Default: #FF000000)<br>This\
+      \ is the color used when rendering emblem symbols with glow enabled.  If full\
+      \ color emojis are enabled, this color may be overridden.<br></li><li>Tray Icon\
+      \ Glow Color (Default: #FFFFFFFF)<br>This is the color of the glow when rendering\
+      \ emblem symbols with glow enabled.</li></ul><h2 class=\"bb_tag\">About (About)</h2>Get\
+      \ information about Simplode Suite.<h2 class=\"bb_tag\">Product Registration\
+      \ (\U0001F511)</h2>Register the Simplode Suite product here.<br><ul class=\"\
+      bb_ul\"><li>You can log in here directly using your Simplode user name and password,\
+      \ or you can use the Link Account Hyperlink or QR Code to connect through the\
+      \ website, which also supports some third-party login services as well as password\
+      \ resets.<br></li><li>When you first purchase the product, you are issued temporary\
+      \ product validations.  After the refund period for your payment method is over,\
+      \ you get a non-expiring validation.  The product can automatically update its\
+      \ validations if you allow it, or you can manually handle the updates here.<br></li><li>Steam\
+      \ integration will automatically validate the product in the same as any normal\
+      \ product on Steam, and the extra licensing features here offer additional flexibility,\
+      \ so that it may be possible to launch Simplode Suite without opening Steam\
+      \ after validating your licenses.<br></li><li>Validation expiration exists to\
+      \ allow fair refunds.  You receive a non-expiring validation that no longer\
+      \ needs to check back with the validation server after the refund period for\
+      \ your payment method is over.  Depending on your chosen payment method, you\
+      \ may continue to receive expiring validations as long as 180 days.  Don't worry\
+      \ though, if the validation server is down or your internet is not working,\
+      \ the application will detect this and allow you to keep using it even if your\
+      \ validation lapses.</li></ul>Settings:<ul class=\"bb_ul\"><li>Upsell Notifications\
+      \ (Default: True)<br>I didn't put these in here to annoy you, but I apologize\
+      \ if they do.  I just want to make sure that users don't miss out on features\
+      \ without realizing.  The upsell notifications will remind you that you need\
+      \ to link to a Simplode account to make sure you do not lose any features that\
+      \ you have unlocked in the future and that you can unlock the rest of the features\
+      \ by purchasing the product.  You can turn off these notifications with this\
+      \ setting.<br></li><li>Allow Automatic Product Validations (Default: True)<br>If\
+      \ enabled, the tool will automatically update your product license when possible.\
+      \   In order to allow for no hassle refunds for purchases, the tool will continue\
+      \ to check your license status until the return window is over, at which point\
+      \ the tool will obtain a non-expiring license and will no longer need to contact\
+      \ the licensing server for updated licenses.</li></ul><h2 class=\"bb_tag\">Logging\
+      \ (\u26A0\uFE0F\U0001F4DC)</h2>Configure application logging here.<br><ul class=\"\
+      bb_ul\"><li>By default, application events and errors are logged to your hard\
+      \ drive so that if you experience problems with the application, you can send\
+      \ me the logs if you want.  The more information I have, the better my chances\
+      \ of fixing problems you might have.</li></ul>Settings:<ul class=\"bb_ul\"><li>Logging\
+      \ Master Switch (Default: True)<br>This is the master switch for logging.  If\
+      \ you turn this off, logging will not occur.  If you enable it, the application\
+      \ will log according to your other logging settings.<br></li><li>Priority Error\
+      \ Service (Default: False)<br>When enabled, your error logs will contain higher\
+      \ quality information that will allow Simplode LLC to more easily fix errors\
+      \ you send using the logging tool.  The tool may run slower when this feature\
+      \ is enabled.  Restarting the tool is required for changes to this setting to\
+      \ go into effect.<br></li><li>Automatically Compress Logs (Default: True)<br>If\
+      \ enabled, logs will automatically be compressed.<br></li><li>Automatically\
+      \ Open Error Log After Crash (Default: True)<br>In case my program was to ever\
+      \ crash, open the error log in a browser window with the option to review and\
+      \ send the information.<br></li><li>Automatically Send Error Logs to Server\
+      \ (Default: False)<br>If you have the application configured to automatically\
+      \ open the error log after a crash, enabling this option will automatically\
+      \ send it to my servers.  Beware that it will send before you get the chance\
+      \ to review it.</li></ul><h2 class=\"bb_tag\">Exit (\u274C\uFE0E)</h2>Exits\
+      \ Simplode Suite.<br><ul class=\"bb_ul\"><li>By default, Simplode Suite leaves\
+      \ hidden items such as unselected tabs in the taskbar minimized, so after closing,\
+      \ even if Simplode Suite were to somehow crash, the hidden applications should\
+      \ remain accessible.<br></li><li>You can also exit the app from the context\
+      \ menu of any exit button.  This can be reached by right clicking on an exit\
+      \ button for any flyout.<br></li><li>If you have the ring menu visible in the\
+      \ task bar, closing it while it is visible will collapse it and get it out of\
+      \ the way.  Closing it again while it is collapsed will present you with the\
+      \ option to completely exit the tool.</li></ul><h2 class=\"bb_tag\">Reset Action\
+      \ Arrangement (\u235F\u238C)</h2>Reverts actions to default positions.<br><ul\
+      \ class=\"bb_ul\"><li>In case you made a mess using the menu system rearrangement,\
+      \ or maybe a bug messed out the layout somehow, this action will return all\
+      \ of the stock actions to their stock positions.</li></ul><h2 class=\"bb_tag\"\
+      >Mouse Button Combos (\U0001F5B1\uFE0FCombo)</h2>Enables certain mouse button\
+      \ combos.<br><br>Settings:<ul class=\"bb_ul\"><li>Mouse Button Combos (Default:\
+      \ True)<br>When enabled, mouse button combos are allowed.  Mouse button combos\
+      \ can possibly cause delays in processing lesser used mouse buttons (buttons\
+      \ other than left click). When disabled, features that rely on mouse button\
+      \ combos will stop working.  If you toggle off and on individual settings that\
+      \ require combo mouse buttons to work, this setting might get toggled back on\
+      \ automatically.<br></li><li>Always Use Mouse Hook (Default: False)<br>This\
+      \ setting exists to allow you to fix situations where mouse combos might cause\
+      \ unintended side effects, like additional clicks.  Mouse hooks are used to\
+      \ customize how the mouse behaves.  They add a delay to mouse processing, though\
+      \ often the delay is low enough that it would be impossible to see it.  However,\
+      \ because of the delay potential, by default the application tries to have mouse\
+      \ hooks open only when absolutely necessary and for as short of time as possible,\
+      \ but this may cause it to miss some events.  If you enable this setting, the\
+      \ mouse hook will remain on and can avoid missing events.</li></ul><h2 class=\"\
+      bb_tag\">Super Ring (\u235F)</h2>Opens super ring mode.<br><ul class=\"bb_ul\"\
+      ><li>You can also open up the super ring by double clicking on a menu button,\
+      \ and the super ring will use that menu as its root.<br></li><li>When clicking\
+      \ on a menu in super ring mode, it will make room for itself and open as an\
+      \ additional level.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ring Drag Rearrange\
+      \ (Default: True)<br>Allows you to drag buttons to rearrange them within a ring,\
+      \ but only within the favorites ring or the task ring.<br></li><li>Ring Change\
+      \ Ring (Default: True)<br>Allows you to drag buttons from one ring to another.\
+      \  Within the favorites ring, dragged buttons will be moved.  Outside of the\
+      \ favorites ring, dragged buttons can be copied to the favorites ring.<br></li><li>Anti\
+      \ Flicker (Default: False)<br>Includes some fixes for animation flicker when\
+      \ moving menus or opening super rings.  The fixes have minor performance implications\
+      \ during movements and animations.<br></li><li>Big Ring Scale Adjustment (Default:\
+      \ 1)<br></li><li>Little Ring Scale Adjustment (Default: 1)<br></li><li>Super\
+      \ Ring Type (Default: 0)<br>When double clicking on a menu button or using the\
+      \ super ring button, the tool will attempt to show you as much functionality\
+      \ as possible.  This setting adjusts which style you prefer for showing the\
+      \ additional menus.<br> - 0: Automatically decides the Super Ring style based\
+      \ on available space at the current position.<br> - 1: Additional rings will\
+      \ all be centered at the same point, forming segments which the tool tries to\
+      \ size and position according to their respective menu buttons.  This option\
+      \ makes better use of screen space and can adapt more easily to different positions\
+      \ and screen sizes.<br> - 2: Additional rings will be centered around the menu\
+      \ button that launches them.  Rings will attempt to adjust to available space\
+      \ to reduce overlap.  This option gives the clearest visual indication of the\
+      \ relationships between the menus and keeps positioning consistent.<br></li><li>Target\
+      \ Number of Simultaneous Ring Animations (Default: 3)<br>Some features limit\
+      \ the number of simultaneous ring animations for both performance and aesthetic\
+      \ reasons.  You can adjust it with this setting.<br></li><li>Super Ring Animation\
+      \ Time Multiplier (Default: 1)<br>Changes the duration of animations when super\
+      \ rings open and close.  This can improve performance by eliminating animations\
+      \ if set to 0.  Making it slow and increasing the number of concurrent animations\
+      \ can have a cool effect.<br></li><li>Super Ring Animation Simplified (Default:\
+      \ False)<br>When enabled, simplifies the super ring animation for better performance.<br></li><li>Super\
+      \ Ring Concentric Starting Levels (Default: 5)<br>This number of levels will\
+      \ be opened up with a concentric super ring.<br></li><li>Equalizer Ring Disable\
+      \ for Super Ring (Default: True)<br>The Equalizer Ring can cause slowness if\
+      \ active at the same time as a super ring.  This feature will automatically\
+      \ disable the equalizer ring while the super ring is open.</li></ul><h2 class=\"\
+      bb_tag\">Toggle Edit Mode (\u270E)</h2>Toggles edit mode for the associated\
+      \ task or favorites menu item.  Toggling once puts the selected action into\
+      \ edit mode, and toggling again saves the changes made.<h2 class=\"bb_tag\"\
+      >Related Settings (\u2699)</h2>Contains settings related to the associated action\
+      \ or menu.<h2 class=\"bb_tag\">Toggle Favorite (\u2605)</h2>Adds or removes\
+      \ the associated action or menu from your favorites menu.<br><ul class=\"bb_ul\"\
+      ><li>If the item is not in your favorites menu, it will be added to the root\
+      \ of your favorites menu.<br></li><li>If the item already in your favorites\
+      \ menu, it will be removed from your favorites menu.<br></li><li>Also contains\
+      \ a hierarchical listing of your favorites menu which you can use to add or\
+      \ remove the item in specific locations within your favorites menu.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Flyout Include Favorites Button (Default: True)<br>If\
+      \ enabled, flyouts will include a quick access favorites button.</li></ul><h2\
+      \ class=\"bb_tag\">Help (?)</h2>Opens the help menu for the associated action\
+      \ or menu.<br><br>Settings:<ul class=\"bb_ul\"><li>Go Directly to Online Documentation\
+      \ (Default: False)<br>When enabled, help features will take you directly to\
+      \ online documentation instead of your local documentation files.<br></li><li>Verbosity\
+      \ Level (Default: 1)<br>Throughout the app I have tried to include plenty of\
+      \ easily accessible information about each feature.  I predicted that some people\
+      \ might feel the amount of information was excessive, so I started categorizing\
+      \ some the information into verbosity levels.  By setting higher levels of verbosity,\
+      \ more of the information I wrote will appear in flyout menus.  This information\
+      \ is also available in the documentation, so you can keep a low verbosity level\
+      \ for flyouts and still access the addition information relatively quickly using\
+      \ the &quot;?&quot; orbs.  You will need to reopen a flyout to see changes to\
+      \ verbosity levels.<br></li><li>Generate Documentation Automatically (Default:\
+      \ True)<br>Automatically generate local documentation.<br></li><li>Generate\
+      \ Documentation Include Favorites (Default: True)<br>When generating local documentation,\
+      \ include personal information such as the user favorites ring.<br></li><li>Generate\
+      \ Documentation Include Current Tasks (Default: False)<br>When generating local\
+      \ documentation, include currently running tasks.<br></li><li>Flyout Include\
+      \ Help Button (Default: True)<br>If enabled, flyouts will include a quick access\
+      \ help button.</li></ul><h2 class=\"bb_tag\">Toggle Tray (Tray)</h2>Toggles\
+      \ the appearance of the associated action or menu in the system tray.<h2 class=\"\
+      bb_tag\">Related Settings (\u2699)</h2>Contains settings related to the associated\
+      \ action or menu.<h2 class=\"bb_tag\">New Standard Window (\U0001F5D4*)</h2>Launches\
+      \ the associated flyout window as a new standard window.<br><ul class=\"bb_ul\"\
+      ><li>The standard window offers greater efficiency by opening a simple unthemed\
+      \ window without transparency or animations.  This may be useful if you are\
+      \ looking at something complicated such as the Chill Boost flyout.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Flyout Include New Standard Window Button (Default: False)<br>If\
+      \ enabled, flyouts will include a quick access New Standard Window button.</li></ul><h2\
+      \ class=\"bb_tag\">Resize Flyout Window (\u21F2)</h2>Resizes the associated\
+      \ flyout window.<br><ul class=\"bb_ul\"><li>Flyout windows do support standard\
+      \ border resizing like other windows, but due to theming it may become difficult,\
+      \ so you may need this.</li></ul>Settings:<ul class=\"bb_ul\"><li>Flyout Include\
+      \ Resize Button (Default: False)<br>If enabled, flyouts will include a quick\
+      \ access resize button.</li></ul><h2 class=\"bb_tag\">Lock Flyout Window (\U0001F512\
+      )</h2>Toggle on to keep the flyout window open when your mouse leaves and does\
+      \ other things.<br><br>Settings:<ul class=\"bb_ul\"><li>Flyout Include Lock\
+      \ Button (Default: False)<br>If enabled, flyouts will include a lock button.<br></li><li>Flyout\
+      \ Locking Rules (Default: 30)<br>Determines when flyout windows will automatically\
+      \ remain open.<br> - 1: Bitmask: 1 (1)<br> - 2: Bitmask: 2 (2)<br> - 4: Bitmask:\
+      \ 4 (4)<br> - 8: Bitmask: 8 (8)<br> - 16: Bitmask: 10 (16)</li></ul><h2 class=\"\
+      bb_tag\">Move Flyout Window (\u21F3\u2B04)</h2>Moves the associated flyout window.<br><ul\
+      \ class=\"bb_ul\"><li>Flyout windows do support title bar drag and drop movement\
+      \ like other windows, but due to theming it may become difficult, so you may\
+      \ need this.</li></ul>Settings:<ul class=\"bb_ul\"><li>Flyout Include Move Button\
+      \ (Default: False)<br>If enabled, flyouts will include a quick access move button.</li></ul><h2\
+      \ class=\"bb_tag\">Toggle Flyout Window Always on Top (\U0001F5D4\u234F)</h2>Toggles\
+      \ whether the flyout window stays on top of other windows.<br><ul class=\"bb_ul\"\
+      ><li>Flyout windows do support title bar drag and drop movement like other windows,\
+      \ but due to theming it may become difficult, so you may need this.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Flyout Include Always on Top Button (Default: False)<br>If\
+      \ enabled, flyouts will include an always on top toggle button.<br></li><li>Flyout\
+      \ Auto Remove Topmost (Default: True)<br>If enabled, focusing on a window will\
+      \ remove the always on top status of flyouts that are mostly blocking the window.</li></ul><h2\
+      \ class=\"bb_tag\">Super Ring Associated Menu (\u235F)</h2>Opens super ring\
+      \ mode.<br><ul class=\"bb_ul\"><li>You can also open up the super ring by double\
+      \ clicking on a menu button, and the super ring will use that menu as its root.<br></li><li>When\
+      \ clicking on a menu in super ring mode, it will make room for itself and open\
+      \ as an additional level.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ring Drag\
+      \ Rearrange (Default: True)<br>Allows you to drag buttons to rearrange them\
+      \ within a ring, but only within the favorites ring or the task ring.<br></li><li>Ring\
+      \ Change Ring (Default: True)<br>Allows you to drag buttons from one ring to\
+      \ another.  Within the favorites ring, dragged buttons will be moved.  Outside\
+      \ of the favorites ring, dragged buttons can be copied to the favorites ring.<br></li><li>Anti\
+      \ Flicker (Default: False)<br>Includes some fixes for animation flicker when\
+      \ moving menus or opening super rings.  The fixes have minor performance implications\
+      \ during movements and animations.<br></li><li>Big Ring Scale Adjustment (Default:\
+      \ 1)<br></li><li>Little Ring Scale Adjustment (Default: 1)<br></li><li>Super\
+      \ Ring Type (Default: 0)<br>When double clicking on a menu button or using the\
+      \ super ring button, the tool will attempt to show you as much functionality\
+      \ as possible.  This setting adjusts which style you prefer for showing the\
+      \ additional menus.<br> - 0: Automatically decides the Super Ring style based\
+      \ on available space at the current position.<br> - 1: Additional rings will\
+      \ all be centered at the same point, forming segments which the tool tries to\
+      \ size and position according to their respective menu buttons.  This option\
+      \ makes better use of screen space and can adapt more easily to different positions\
+      \ and screen sizes.<br> - 2: Additional rings will be centered around the menu\
+      \ button that launches them.  Rings will attempt to adjust to available space\
+      \ to reduce overlap.  This option gives the clearest visual indication of the\
+      \ relationships between the menus and keeps positioning consistent.<br></li><li>Target\
+      \ Number of Simultaneous Ring Animations (Default: 3)<br>Some features limit\
+      \ the number of simultaneous ring animations for both performance and aesthetic\
+      \ reasons.  You can adjust it with this setting.<br></li><li>Super Ring Animation\
+      \ Time Multiplier (Default: 1)<br>Changes the duration of animations when super\
+      \ rings open and close.  This can improve performance by eliminating animations\
+      \ if set to 0.  Making it slow and increasing the number of concurrent animations\
+      \ can have a cool effect.<br></li><li>Super Ring Animation Simplified (Default:\
+      \ False)<br>When enabled, simplifies the super ring animation for better performance.<br></li><li>Super\
+      \ Ring Concentric Starting Levels (Default: 5)<br>This number of levels will\
+      \ be opened up with a concentric super ring.<br></li><li>Equalizer Ring Disable\
+      \ for Super Ring (Default: True)<br>The Equalizer Ring can cause slowness if\
+      \ active at the same time as a super ring.  This feature will automatically\
+      \ disable the equalizer ring while the super ring is open.<br></li><li>Flyout\
+      \ Include Super Ring Button (Default: False)<br>If enabled, flyouts for menu\
+      \ actions will include the Super Ring button.</li></ul><h2 class=\"bb_tag\"\
+      >Close Flyout Window (\u274C\uFE0E)</h2>Closes the associated flyout window.<br><ul\
+      \ class=\"bb_ul\"><li>This is just the close button for the associated flyout\
+      \ window.</li></ul><h2 class=\"bb_tag\">Reset Action Arrangement (\u235F\u238C\
+      )</h2>Reverts actions to default positions.<br><ul class=\"bb_ul\"><li>In case\
+      \ you made a mess using the menu system rearrangement, or maybe a bug messed\
+      \ out the layout somehow, this action will return all of the stock actions to\
+      \ their stock positions.</li></ul><h2 class=\"bb_tag\">Steam Integration (Steam)</h2>Here\
+      \ you can manage the integration settings between Simplode Suite and Steam.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Steam Integration Enabled (Default: True)<br>If disabled,\
+      \ the tool will isolate itself from Steam.  The tool tries to automatically\
+      \ maintain a copy of your licensing information so that it may continue working\
+      \ once separated from Steam, though you will need use Steam integration to validate\
+      \ your Steam purchase once at first, and then one more time after 30 days (this\
+      \ is to facilitate refund returns).  You may also want to disable this option\
+      \ if you don't have Steam and want to slightly improve start time.  If you are\
+      \ trying to get the tool to stop showing up in your status, you can either mark\
+      \ your Steam status as private in Steam settings, or you can disable the integration\
+      \ using this option or by using the &quot;Disconnect at Start&quot; option.<br></li><li>Auto\
+      \ Start Steam (Default: True)<br>If enabled, the tool will launch Steam when\
+      \ starting if Steam is present but not running.  This will help ensure all Steam\
+      \ integration features like achievements and licensing will work automatically.<br></li><li>Steam\
+      \ Auto Reconnect (Default: True)<br>Automatically reconnect to Steam if unable\
+      \ to connect at first.  This will enable Steam integration features automatically\
+      \ once Steam starts.<br></li><li>Steam Disconnect At Start (Default: False)<br>If\
+      \ enabled, the tool will disconnect from Steam shortly after starting.  This\
+      \ will prevent you from showing your status as using Simplode Suite all day\
+      \ long, while still allowing you to show your friends which games you are playing.\
+      \  Steam integrated features such as licensing and achievements get a small\
+      \ window of time to occur during application start up.  As the developer, of\
+      \ course I would like you to show off Simplode Suite to your friends all the\
+      \ time, but as a user I would find it annoying, so I give you this option. \
+      \ If you want to prevent your status from showing entirely, you can mark it\
+      \ private in your Steam settings, but this impacts all Steam apps and games.\
+      \  Alternatively, you can disable Steam Integration completely using the &quot;Steam\
+      \ Integration Enabled&quot; option.<br></li><li>Steam Sync Achievements (Default:\
+      \ True)<br>If enabled, acheivement data will be automatically synced with your\
+      \ Steam profile if linked (this is how applications on Steam normally work).\
+      \  Disable this if you want to keep this information private.</li></ul><h2 class=\"\
+      bb_tag\">Simplode Protocol Handler (\xA7://)</h2>Handles simplode:// protocol\
+      \ commands.<br><ul class=\"bb_ul\"><li>Supports launching the details flyout\
+      \ for any action, which is used for start menu and desktop shortcuts generated\
+      \ in favorites options. (Example: simplode://flyout/MainMenu)</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Simplode URL Protocol (Default: True)<br>If enabled, Simplode\
+      \ Suite can respond to commands through the Simplode URL Protocol (simplode://).</li></ul><h2\
+      \ class=\"bb_tag\">Welcome (Hi)</h2>The Welcome menu is here to welcome you\
+      \ to Simplode Suite.  There is a lot to the application, and this screen gives\
+      \ you a way to specify what kind of experience you want without having to tour\
+      \ the entire application upfront.  It is primarily for new users.  If you have\
+      \ used the application a lot and put some effort into customizing it, be careful\
+      \ about changing presets, as they can change a lot of your other settings throughout\
+      \ the application.<br><br>Settings:<ul class=\"bb_ul\"><li>Show Welcome on Launch\
+      \ (Default: True)<br>Uncheck this option to prevent the Welcome screen from\
+      \ automatically appearing when Simplode Suite launches.<br></li><li>Launch Menu\
+      \ Ring on Start (Default: True)<br>When enabled, the ring will open when the\
+      \ application starts.<br></li><li>Auto Start (Default: True)<br>If enabled,\
+      \ Simplode Suite will automatically start up.</li></ul><h2 class=\"bb_tag\"\
+      >Achievements (\U0001F3C6)</h2>Here you can see various goals that have been\
+      \ prepared to help you explore the software in a fun way.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Steam Sync Achievements (Default: True)<br>If enabled,\
+      \ acheivement data will be automatically synced with your Steam profile if linked\
+      \ (this is how applications on Steam normally work).  Disable this if you want\
+      \ to keep this information private.</li></ul><h2 class=\"bb_tag\">Free Beta\
+      \ Features (Free<br>Beta)</h2>Get access to free beta features here.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Enable Free Beta Features (Default: False)<br>If you would\
+      \ like to help us test new features, simply enable this option and free beta\
+      \ features will be enabled.  We appreciate any feedback regarding these features.</li></ul><h2\
+      \ class=\"bb_tag\">Free Trial (Free Trial)</h2>Get free trial access to the\
+      \ entire product here.<br><ul class=\"bb_ul\"><li>When installing Simplode Suite,\
+      \ a 24 hour trial of all features is automatically enabled.  You can enable\
+      \ additional trial periods with this feature.</li></ul>Settings:<ul class=\"\
+      bb_ul\"><li>Free Trial Disabled (Default: False)<br>If checked, the any activated\
+      \ free trial period will be temporarily disabled.  The free trial period will\
+      \ still expire at the same time, but you can use this option to end your free\
+      \ trial period prematurely or resume it.  When disabling your free trial, you\
+      \ will need to restart the application to see the change.</li></ul><h2 class=\"\
+      bb_tag\">Feature of the Day (Free FOTD)</h2>Get access to the Feature of the\
+      \ Day here.<br><ul class=\"bb_ul\"><li>The feature of the day gives you the\
+      \ opportunity to try each of Simplode Suite's features over a longer period\
+      \ of time.  The number of features available in the application make it a daunting\
+      \ task to explore all of the possibilities in any reasonable amount of time,\
+      \ but the Feature of the Day will keep cycling forever, so even after you use\
+      \ your free trial periods, you will still be able to try different features\
+      \ every day.</li></ul>Settings:<ul class=\"bb_ul\"><li>Feature of the Day (Default:\
+      \ True)<br>Each day, a set of features will be made available to try for 48\
+      \ hours if enabled.  When disabling this option, you may need to restart Simplode\
+      \ Suite to get everything back to normal.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1291032/header.jpg?t=1606276767
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Core
+    package_groups: []
+    packages:
+    - 505112
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1291032/ss_2c23435cda7a81dd05fdb8542e451cc6299ef8f4.1920x1080.jpg?t=1606276767
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1291032/ss_2c23435cda7a81dd05fdb8542e451cc6299ef8f4.600x338.jpg?t=1606276767
+    short_description: These features are core to the Simplode Suite experience. The
+      ring menu system and the quick search flyout provide a stylish and customizable
+      platform to explore and manage all of the available utilities.
+    steam_appid: 1291032
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-simplode-suite-core
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

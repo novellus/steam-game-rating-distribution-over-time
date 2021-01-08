@@ -1,0 +1,100 @@
+details:
+  data:
+    about_the_game: Phantom 3D Map Pack I offers new maps for extra spooks and adrenaline
+      rushes.<br><br>This DLC adds:<br><ul class="bb_ul"><li> 12 small levels<br></li><li>
+      12 medium levels<br></li><li> 12 large levels</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1161610/page_bg_generated_v6b.jpg?t=1569500791
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Phantom 3D Map Pack I offers new maps for extra spooks and
+      adrenaline rushes.<br><br>This DLC adds:<br><ul class="bb_ul"><li> 12 small
+      levels<br></li><li> 12 medium levels<br></li><li> 12 large levels</li></ul>
+    developers:
+    - Graverobber Foundation
+    fullgame:
+      appid: '1132930'
+      name: Phantom 3D
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1161610/header.jpg?t=1569500791
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 MB available space</li></ul>
+    mac_requirements: []
+    name: Phantom 3D Map Pack I
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Phantom 3D Map Pack I - $0.99
+        packageid: 396438
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Phantom 3D Map Pack I
+    packages:
+    - 396438
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Graverobber Foundation
+    release_date:
+      coming_soon: false
+      date: Sep 26, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1161610/ss_0f55fd69103fbae114b9bcb3542fdd8af9e3e31d.1920x1080.jpg?t=1569500791
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1161610/ss_0f55fd69103fbae114b9bcb3542fdd8af9e3e31d.600x338.jpg?t=1569500791
+    short_description: Phantom 3D Map Pack I offers 36 new maps for extra spooks and
+      adrenaline rushes.
+    steam_appid: 1161610
+    support_info:
+      email: surt.romanus@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

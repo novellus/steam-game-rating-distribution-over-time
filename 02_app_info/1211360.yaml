@@ -1,0 +1,223 @@
+details:
+  data:
+    about_the_game: "This is a simple tower defend like game,click mouse left button\
+      \ to shoot enemies, make sure you don't get hurt.<br />\r\nDefeat Neomorph,\
+      \ fight with ladies!<br />\r\n<br />\r\nFeature:<br />\r\n-8 different enemies<br\
+      \ />\r\n-4 characters<br />\r\n-7 itemes<br />\r\n-3 skills"
+    achievements:
+      highlighted:
+      - name: Space Commander Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/a82e88e3222105f36c47e3a511183314ea791767.jpg
+      - name: Space Commander Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/c8fbf556eeaec667e3a65623812f3c65a798806e.jpg
+      - name: Space Commander Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/9e16340f48eefcc7089dfb6b8554d343402e3418.jpg
+      - name: Space Commander Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/158ef98eb73330323fedc90c4d4b6656f1ee8bc9.jpg
+      - name: Space Commander Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/5ecdc9e519f597ed42f7aa127347ab4bcb8450e0.jpg
+      - name: Space Commander Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/ea40caf342034dd76566206377e1067b67ddd03c.jpg
+      - name: Space Commander Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/fb9d6686b41f9e95df68b65fce245d121f7110e8.jpg
+      - name: Space Commander Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/41489b720de0c2f2640b617e5b248c02e4407cac.jpg
+      - name: Ship Destroyer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/266251cc8e25863da719af5ff073c112b7d0f158.jpg
+      - name: Guard Of Space Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1211360/7829b4eee9514156ce806620f67678a37685ef84.jpg
+      total: 29
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1211360/page_bg_generated_v6b.jpg?t=1608151656
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: "This is a simple tower defend like game,click mouse left\
+      \ button to shoot enemies, make sure you don't get hurt.<br />\r\nDefeat Neomorph,\
+      \ fight with ladies!<br />\r\n<br />\r\nFeature:<br />\r\n-8 different enemies<br\
+      \ />\r\n-4 characters<br />\r\n-7 itemes<br />\r\n-3 skills"
+    developers:
+    - BambuseaeGames
+    dlc:
+    - 1219330
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1211360/header.jpg?t=1608151656
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256770672
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770672/movie480.mp4?t=1579707622
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770672/movie_max.mp4?t=1579707622
+      name: NEOMORPH Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256770672/movie.293x165.jpg?t=1579707622
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770672/movie480.webm?t=1579707622
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770672/movie_max.webm?t=1579707622
+    name: NEOMORPH
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: NEOMORPH - $0.99
+        packageid: 418771
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: NEOMORPH - Commercial License - $0.99
+        packageid: 426238
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy NEOMORPH
+    packages:
+    - 418771
+    - 426238
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WIN7 SP1/WIN8/WIN10/XP<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - BambuseaeGames
+    recommendations:
+      total: 430
+    release_date:
+      coming_soon: false
+      date: Jan 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_07202360f2a49933292cc371092794c2532fd9a6.1920x1080.jpg?t=1608151656
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_07202360f2a49933292cc371092794c2532fd9a6.600x338.jpg?t=1608151656
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_22d633990843c8e5bff3a255181c578405112fcb.1920x1080.jpg?t=1608151656
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_22d633990843c8e5bff3a255181c578405112fcb.600x338.jpg?t=1608151656
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_122cc66fbd9c4939c17cfe1db818bb54e4800e53.1920x1080.jpg?t=1608151656
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_122cc66fbd9c4939c17cfe1db818bb54e4800e53.600x338.jpg?t=1608151656
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_49027d7a1866fe59b478697533761bd06dab90ce.1920x1080.jpg?t=1608151656
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_49027d7a1866fe59b478697533761bd06dab90ce.600x338.jpg?t=1608151656
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_aa0ec12c0bc4e6605c6f2a2fe3f9ada1107c177d.1920x1080.jpg?t=1608151656
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1211360/ss_aa0ec12c0bc4e6605c6f2a2fe3f9ada1107c177d.600x338.jpg?t=1608151656
+    short_description: This is a simple tower defend like game,click mouse left button
+      to shoot enemies, make sure you don't get hurt. Defeat Neomorph, fight with
+      ladies!
+    steam_appid: 1211360
+    support_info:
+      email: BambuseaeGames@gmail.com
+      url: ''
+    supported_languages: English, German, Spanish - Spain, Ukrainian, Russian, Turkish,
+      Japanese, Thai, Simplified Chinese, Traditional Chinese, Portuguese, Korean
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw4+yc5/YCe/G5wAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 88
+    total_positive: 342
+    total_reviews: 430
+  reviews:
+  - author:
+      last_played: 1609780763
+      num_games_owned: 92
+      num_reviews: 17
+      playtime_at_review: 234
+      playtime_forever: 234
+      playtime_last_two_weeks: 234
+      steamid: '76561198862624465'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84004635'
+    review: "\u2809\u2809\u2809\u2809\u2809\u2809\u2809\u2809\u2809\u2809\u2809\u2809\
+      \u2809\u2877\u2844\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\n\u28B8\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2847\u2822\u28C0\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\n\u28B8\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2847\u2800\u2800\
+      \u2808\u2811\u28A6\u2840\u2800\u2800\u2800\u2800\u2800Are you winning son?\n\
+      \u28B8\u2800\u2800\u2800\u2800\u2880\u2816\u2812\u2812\u2812\u28A4\u2800\u2800\
+      \u2800\u2800\u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2819\u28A6\u2840\u2800\
+      \u2800\u2800\u2800\n\u28B8\u2800\u2800\u28C0\u28A4\u28FC\u28C0\u2860\u2824\u2824\
+      \u283C\u2824\u2844\u2800\u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2819\u2884\u2800\u2800\u2800\u2800\n\u28B8\u2800\u2800\u2811\u2864\u2824\u2852\
+      \u2812\u2812\u284A\u2819\u284F\u2800\u2880\u2800\u2847\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2811\u2822\u2844\u2800\n\u28B8\u2800\u2800\u2800\
+      \u2807\u2800\u28C0\u28C0\u28C0\u28C0\u2880\u2827\u281F\u2801\u2800\u2847\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2847\u2800\n\u28B8\
+      \u2800\u2800\u2800\u2838\u28C0\u2800\u2800\u2808\u2889\u281F\u2813\u2800\u2800\
+      \u2800\u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u28B8\n\u28B8\u2800\u2800\u2800\u2800\u2808\u28B1\u2856\u280B\u2801\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u28B8\n\u28B8\u2800\u2800\u2800\u2800\u28E0\u28BA\u2827\
+      \u2884\u28C0\u2800\u2800\u28C0\u28C0\u2800\u2800\u2847\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28B8\n\u28B8\u2800\u2800\u2800\u28E0\
+      \u2803\u28B8\u2800\u2800\u2808\u2809\u287D\u283F\u282F\u2846\u2800\u2847\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28B8\n\u28B8\u2800\
+      \u2800\u28F0\u2801\u2800\u28B8\u2800\u2800\u2800\u2800\u2809\u2809\u2809\u2800\
+      \u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u28B8\n\u28B8\u2800\u2800\u2823\u2800\u2800\u28B8\u2884\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u28B8\n\u28B8\u2800\u2800\u2800\u2800\u2800\u28B8\u2800\u2887\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2847\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u28B8\n\u28B8\u2800\u2800\u2800\u2800\u2800\
+      \u284C\u2800\u2808\u2846\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2847\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28B8\n\u28B8\u2800\u2800\
+      \u2800\u2800\u28A0\u2803\u2800\u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2847\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28B8\
+      \n\u28B8\u2800\u2800\u2800\u2800\u28B8\u2800\u2800\u2800\u2801\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2837"
+    steam_purchase: true
+    timestamp_created: 1609781438
+    timestamp_updated: 1609781438
+    voted_up: true
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

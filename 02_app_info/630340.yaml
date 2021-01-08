@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: Soundtrack to ebi-hime's Lily of the Valley.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/630340/page_bg_generated_v6b.jpg?t=1581628409
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack to ebi-hime's Lily of the Valley.
+    developers:
+    - ebi-hime
+    fullgame:
+      appid: '628460'
+      name: Lily of the Valley
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/630340/header.jpg?t=1581628409
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Lily of the Valley - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lily of the Valley - Original Soundtrack - <span class="discount_original_price">$0.99</span>
+          $0.69
+        packageid: 171442
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 69
+      title: Buy Lily of the Valley - Original Soundtrack
+    packages:
+    - 171442
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        80 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 230 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 69
+      final_formatted: $0.69
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - ebi-hime
+    release_date:
+      coming_soon: false
+      date: May 5, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/630340/ss_20e174c124345af157220132730559dd2ab4e5d2.1920x1080.jpg?t=1581628409
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/630340/ss_20e174c124345af157220132730559dd2ab4e5d2.600x338.jpg?t=1581628409
+    short_description: Soundtrack to ebi-hime's Lily of the Valley.
+    steam_appid: 630340
+    support_info:
+      email: ebihimes@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwqtialukCfI3yuwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2297
+      num_reviews: 263
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198124135678'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '49254620'
+    review: "\u0425\u043E\u0440\u043E\u0448\u0438\u0439 OST."
+    steam_purchase: true
+    timestamp_created: 1551228388
+    timestamp_updated: 1551228388
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

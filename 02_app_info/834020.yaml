@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: <strong>Track List:</strong><br><br>01 The City of Brass<br>02
+      Grandeur of the City<br>03 Fight For Your Life<br>04 Biding Your Time<br>05
+      Out of Time<br>06 Breaking the Curse
+    background: https://steamcdn-a.akamaihd.net/steam/apps/834020/page_bg_generated_v6b.jpg?t=1525449615
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>Track List:</strong><br><br>01 The City of Brass<br>02
+      Grandeur of the City<br>03 Fight For Your Life<br>04 Biding Your Time<br>05
+      Out of Time<br>06 Breaking the Curse
+    developers:
+    - Uppercut Games Pty Ltd
+    fullgame:
+      appid: '301840'
+      name: City of Brass
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/834020/header.jpg?t=1525449615
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+    name: City of Brass - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: City of Brass - OST - <span class="discount_original_price">$4.99</span>
+          $0.99
+        packageid: 258319
+        percent_savings: 0
+        percent_savings_text: '-80% '
+        price_in_cents_with_discount: 99
+      title: Buy City of Brass - OST
+    packages:
+    - 258319
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 80
+      final: 99
+      final_formatted: $0.99
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 4, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/834020/ss_003e8ad2c1d4b8f6fab29c2b1b263f56da824783.1920x1080.jpg?t=1525449615
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/834020/ss_003e8ad2c1d4b8f6fab29c2b1b263f56da824783.600x338.jpg?t=1525449615
+    short_description: The original sound track for City of Brass, by Justin Mullins.
+    steam_appid: 834020
+    support_info:
+      email: ''
+      url: http://www.uppercut-games.com/support/
+    supported_languages: English<strong>*</strong>, French, German, Polish, Portuguese,
+      Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Traditional Chinese,
+      Spanish - Spain, Italian<br><strong>*</strong>languages with full audio support
+    type: dlc
+    website: http://www.cityofbrassgame.com/
+  success: true
+reviews:
+  cursor: AoJwvqOg2PYCdq3KvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 3
+    total_positive: 1
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 299
+      num_reviews: 65
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198143534096'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '83514070'
+    review: "Sehr sch\xF6ner Soundtrack!"
+    steam_purchase: true
+    timestamp_created: 1609279020
+    timestamp_updated: 1609279020
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,248 @@
+details:
+  data:
+    about_the_game: 'A powerful (but easy to use) branching dialogue editor designed
+      for story-driven games like <strong>RPGs </strong>and <strong>Visual Novels</strong>.<br>Create
+      complex non-linear data structures in seconds, no programming experience required!<br>Works
+      with Unity, Unreal 4, Godot, Construct 3, GameMaker Studio 2 and many more!<h2
+      class="bb_tag">DIALOGUE DESIGNER in a nutshell:</h2><ul class="bb_ul"><li> Create
+      non-linear stories<br></li><li> Design in-game cutscenes<br></li><li> Write
+      branching conversations with multiple choise answers<br></li><li> Control your
+      dialogues and cutscenes with variables and conditions<br></li><li> Create simple
+      visual scripting systems<br></li><li> Organize your characters and variables
+      in databases<br></li><li> Export to / Import from a single JSON file</li></ul><br><strong>No
+      license required. Pay once, and it''s yours forever (along with any future updates).</strong><br><br>-----------<br><br><u><strong>FEATURES:</strong></u><h2
+      class="bb_tag">LIGHT-WEIGHT AND EASY TO USE</h2><br>The editor was created for
+      non-programmers. It is easy to understand and navigate. It is also fast and
+      lightweight - it runs smoothly even on less powerful PCs.<h2 class="bb_tag">BEAUTIFUL
+      INTERFACE</h2>Minimalistic, highly usable interface. Two themes available: <strong>Blue
+      </strong>and <strong>Dark</strong>.<h2 class="bb_tag">DATABASES</h2>The editor
+      includes a characters database and local variables database (strings, integers,
+      booleans). They are incredibly helpful in organising the dialogue and keeping
+      track of player''s progress.<h2 class="bb_tag">SUPPORT FOR MULTIPLE LANGUAGES</h2><br>Change
+      the dialogue language by selecting it from a drop-down menu. There are no limits
+      for the amount of languages you can use.<h2 class="bb_tag">EXPORT TO JSON FILE</h2>Export
+      your dialogue with one click to a JSON text file.<br>JSON files are simple text
+      files, which are easy to read by a human (one like you!). In it, each key is
+      assigned a set of values, for example:<br><br><i>character: &quot;Matt&quot;,<br>message:
+      &quot;Hello!&quot;,<br>is_happy_to_see_you: TRUE</i><br><br>That way it is very
+      simple to import into your favourite game engine or framework, most of which
+      already have lots of tutorials and plugins for importing JSON files and creating
+      dialogues using them.<h2 class="bb_tag">AVAILABLE NODES (input types):</h2><ul
+      class="bb_ul"><li><strong>Show Message</strong> - Shows a dialogue message<br></li><li><strong>Wait
+      </strong>- Pauses the dialogue for a given amount of time<br></li><li><strong>Execute
+      </strong>- Executes a line of code<br></li><li><strong>Condition </strong>-
+      Takes different paths based on a condition<br></li><li><strong>Chance </strong>-
+      Has a chance of taking one of two paths<br></li><li><strong>Random </strong>-
+      Takes different paths at random<br></li><li><strong>Repeat </strong>- Repeats
+      a part of the dialogue x amount of times<br></li><li><strong>Set Variable</strong>
+      - Changes a local variable<br></li><li><strong>Comment </strong>- Used for organizing
+      the dialogue.</li></ul><br>The above usage of each node is just a proposition,
+      you can easily repurpose each node to suit your needs.<br><br>-----------<br><br><strong>See
+      the documentation if you need more help or contact me and ask a question!</strong>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1273620/page_bg_generated_v6b.jpg?t=1587413769
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'A powerful (but easy to use) branching dialogue editor
+      designed for story-driven games like <strong>RPGs </strong>and <strong>Visual
+      Novels</strong>.<br>Create complex non-linear data structures in seconds, no
+      programming experience required!<br>Works with Unity, Unreal 4, Godot, Construct
+      3, GameMaker Studio 2 and many more!<h2 class="bb_tag">DIALOGUE DESIGNER in
+      a nutshell:</h2><ul class="bb_ul"><li> Create non-linear stories<br></li><li>
+      Design in-game cutscenes<br></li><li> Write branching conversations with multiple
+      choise answers<br></li><li> Control your dialogues and cutscenes with variables
+      and conditions<br></li><li> Create simple visual scripting systems<br></li><li>
+      Organize your characters and variables in databases<br></li><li> Export to /
+      Import from a single JSON file</li></ul><br><strong>No license required. Pay
+      once, and it''s yours forever (along with any future updates).</strong><br><br>-----------<br><br><u><strong>FEATURES:</strong></u><h2
+      class="bb_tag">LIGHT-WEIGHT AND EASY TO USE</h2><br>The editor was created for
+      non-programmers. It is easy to understand and navigate. It is also fast and
+      lightweight - it runs smoothly even on less powerful PCs.<h2 class="bb_tag">BEAUTIFUL
+      INTERFACE</h2>Minimalistic, highly usable interface. Two themes available: <strong>Blue
+      </strong>and <strong>Dark</strong>.<h2 class="bb_tag">DATABASES</h2>The editor
+      includes a characters database and local variables database (strings, integers,
+      booleans). They are incredibly helpful in organising the dialogue and keeping
+      track of player''s progress.<h2 class="bb_tag">SUPPORT FOR MULTIPLE LANGUAGES</h2><br>Change
+      the dialogue language by selecting it from a drop-down menu. There are no limits
+      for the amount of languages you can use.<h2 class="bb_tag">EXPORT TO JSON FILE</h2>Export
+      your dialogue with one click to a JSON text file.<br>JSON files are simple text
+      files, which are easy to read by a human (one like you!). In it, each key is
+      assigned a set of values, for example:<br><br><i>character: &quot;Matt&quot;,<br>message:
+      &quot;Hello!&quot;,<br>is_happy_to_see_you: TRUE</i><br><br>That way it is very
+      simple to import into your favourite game engine or framework, most of which
+      already have lots of tutorials and plugins for importing JSON files and creating
+      dialogues using them.<h2 class="bb_tag">AVAILABLE NODES (input types):</h2><ul
+      class="bb_ul"><li><strong>Show Message</strong> - Shows a dialogue message<br></li><li><strong>Wait
+      </strong>- Pauses the dialogue for a given amount of time<br></li><li><strong>Execute
+      </strong>- Executes a line of code<br></li><li><strong>Condition </strong>-
+      Takes different paths based on a condition<br></li><li><strong>Chance </strong>-
+      Has a chance of taking one of two paths<br></li><li><strong>Random </strong>-
+      Takes different paths at random<br></li><li><strong>Repeat </strong>- Repeats
+      a part of the dialogue x amount of times<br></li><li><strong>Set Variable</strong>
+      - Changes a local variable<br></li><li><strong>Comment </strong>- Used for organizing
+      the dialogue.</li></ul><br>The above usage of each node is just a proposition,
+      you can easily repurpose each node to suit your needs.<br><br>-----------<br><br><strong>See
+      the documentation if you need more help or contact me and ask a question!</strong>'
+    developers:
+    - radmatt
+    genres:
+    - description: Design & Illustration
+      id: '53'
+    - description: Utilities
+      id: '57'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1273620/header.jpg?t=1587413769
+    is_free: false
+    legal_notice: "DialogueDesigner (c) Mateusz Radwa\u0144ski 2019-2020"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux (64-bit or 32-bit x86)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Support for OpenGL 2.1<br></li><li><strong>Storage:</strong> 100 MB available
+        space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.10<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Support for OpenGL 2.1<br></li><li><strong>Storage:</strong> 100 MB available
+        space</li></ul>
+    movies:
+    - highlight: true
+      id: 256778893
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256778893/movie480.mp4?t=1585828761
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256778893/movie_max.mp4?t=1585828761
+      name: Launch Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256778893/movie.293x165.jpg?t=1585828761
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256778893/movie480.webm?t=1585828761
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256778893/movie_max.webm?t=1585828761
+    name: Dialogue Designer
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dialogue Designer - $9.99
+        packageid: 443472
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Dialogue Designer
+    packages:
+    - 443472
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Support for OpenGL 2.1<br></li><li><strong>Storage:</strong> 100 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - radmatt
+    release_date:
+      coming_soon: false
+      date: Apr 17, 2020
+    required_age: 0
+    reviews: "\u201CI'm a writer, and while I do make visual novels I was just looking\
+      \ for something that would let me branch my stories and give me a clear overview...\
+      \ but I couldn't really find any nice software for it that wouldn't get me confused\
+      \ about my own story... this looks really nice! Even though I'm not using it\
+      \ for the code I think it will make the clutter in my head a lot clearer on\
+      \ my story writing anyway. Luckily it's a very affordable price, unlike some\
+      \ other software... thanks man!\u201D<br><a href=\"https://youtu.be/K9vTILpN--4\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >mslenters</a><br><br>\u201CAn excellent\
+      \ tool for building character dialogues.\u201D<br>5/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://itch.io/profile/evolution-pixels\"\
+      \ target=\"_blank\" rel=\"noopener\"  >Evolution Pixels</a><br><br>\u201CSimply\
+      \ perfect. Nothing to dang complicated; enough customizability and features\
+      \ to keep a developer happy. Priced incredibly fair. 5 stars! I had a rough\
+      \ dialogue system up and running in Corona in minutes, thanks to the simple\
+      \ JSON exporter. OK I'm gushing :)\u201D<br>5/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://itch.io/profile/mroberti\"\
+      \ target=\"_blank\" rel=\"noopener\"  >mroberti</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_922b595d96efbdf921b79a8fa7df74c6a57721db.1920x1080.jpg?t=1587413769
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_922b595d96efbdf921b79a8fa7df74c6a57721db.600x338.jpg?t=1587413769
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_959c0606df0085422c348581697348f4829b0746.1920x1080.jpg?t=1587413769
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_959c0606df0085422c348581697348f4829b0746.600x338.jpg?t=1587413769
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_4772d460105e111d8128025b2ce7cee03744bddd.1920x1080.jpg?t=1587413769
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_4772d460105e111d8128025b2ce7cee03744bddd.600x338.jpg?t=1587413769
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_c4b49761dc44575f38eb2ab3ccec96942800b6db.1920x1080.jpg?t=1587413769
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_c4b49761dc44575f38eb2ab3ccec96942800b6db.600x338.jpg?t=1587413769
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_5c2bb06403f959e6eb2a0eafbd201a3e51797bc2.1920x1080.jpg?t=1587413769
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_5c2bb06403f959e6eb2a0eafbd201a3e51797bc2.600x338.jpg?t=1587413769
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_48e431659193786b604ae8b742031d1ffd01eb93.1920x1080.jpg?t=1587413769
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273620/ss_48e431659193786b604ae8b742031d1ffd01eb93.600x338.jpg?t=1587413769
+    short_description: "A branching dialogue and storylines editor for game developers.\
+      \ Designed for non-programmers (no coding experience required). Can be used\
+      \ with any game engine / framework supporting JSON files\u200B."
+    steam_appid: 1273620
+    support_info:
+      email: radmattsoftware@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw9b7XvPYCdP+suwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 3
+    total_positive: 9
+    total_reviews: 12
+  reviews:
+  - author:
+      last_played: 1609278551
+      num_games_owned: 22
+      num_reviews: 1
+      playtime_at_review: 726
+      playtime_forever: 934
+      playtime_last_two_weeks: 207
+      steamid: '76561198259824029'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '82667508'
+    review: 'Lo estoy usando en mi proyecto, y la verdad que funciona excelente.
+
+      Por suerte encontre un plugin gratuito que te permite parsear el JSON y utilizar
+      la informacion, aunque sinceramente esperaba que el mismo desarrollador de este
+      programa lo hubiera ofrecido.
+
+
+      Si le esta haciendo falta alguna opcion para trabajar mejor la localizacion,
+      como exportar en formato CSV para que se pueda mandar a traducir.
+
+
+      Por el resto, todo genial!'
+    steam_purchase: true
+    timestamp_created: 1608353970
+    timestamp_updated: 1608353970
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

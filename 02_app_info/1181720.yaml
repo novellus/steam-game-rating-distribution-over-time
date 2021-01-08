@@ -1,0 +1,137 @@
+details:
+  data:
+    about_the_game: "As the level loads, first you think &quot;it's just another labyrinth\
+      \ game&quot;, you might also note that the level looks super easy or just the\
+      \ opposite, impossible... But as you make the first move, &quot;What???&quot;\
+      \ - the whole labyrinth rebuilds, you have to look for a new way through. After\
+      \ each move you can surprisingly find yourself in a dead end and have to go\
+      \ back, or in an open room able to move anywhere, but you never know how it\
+      \ will rebuild next time, so just make your guess... <br />\r\nThe goal is to\
+      \ collect blue cubes within minimum moves possible, but also don't ignore the\
+      \ bonuses - they may be very useful. Sometimes it seems that the game is just\
+      \ screwing with you - but it can't, walls move in an absolutely random way (excluding\
+      \ only the possibility to lock player in one cell). However that doesn't mean\
+      \ there is absolutely no strategy, you'll figure it out while playing."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1181720/page_bg_generated_v6b.jpg?t=1573554811
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "As the level loads, first you think &quot;it's just another\
+      \ labyrinth game&quot;, you might also note that the level looks super easy\
+      \ or just the opposite, impossible... But as you make the first move, &quot;What???&quot;\
+      \ - the whole labyrinth rebuilds, you have to look for a new way through. After\
+      \ each move you can surprisingly find yourself in a dead end and have to go\
+      \ back, or in an open room able to move anywhere, but you never know how it\
+      \ will rebuild next time, so just make your guess... <br />\r\nThe goal is to\
+      \ collect blue cubes within minimum moves possible, but also don't ignore the\
+      \ bonuses - they may be very useful. Sometimes it seems that the game is just\
+      \ screwing with you - but it can't, walls move in an absolutely random way (excluding\
+      \ only the possibility to lock player in one cell). However that doesn't mean\
+      \ there is absolutely no strategy, you'll figure it out while playing."
+    developers:
+    - Sergey Melnikov
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1181720/header.jpg?t=1573554811
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256765339
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765339/movie480.mp4?t=1572338750
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765339/movie_max.mp4?t=1572338750
+      name: Labirint Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256765339/movie.293x165.jpg?t=1572338750
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765339/movie480.webm?t=1572338750
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765339/movie_max.webm?t=1572338750
+    name: Labirint
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Labirint - $0.99
+        packageid: 406121
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Labirint
+    packages:
+    - 406121
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Core2 Duo
+        2.53GHz<br></li><li><strong>Graphics:</strong> Nvidia GT610<br></li><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Additional Notes:</strong> This
+        is the lowest hardware I could test the game on - runs pretty good, actual
+        requirements are probably lower. If runs slow, try disabling shadows</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Sergey Melnikov
+    release_date:
+      coming_soon: false
+      date: Nov 12, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_dcbf7927b8c6df805e4cd086a7ed3ced97abde65.1920x1080.jpg?t=1573554811
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_dcbf7927b8c6df805e4cd086a7ed3ced97abde65.600x338.jpg?t=1573554811
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_318503c56803ef2f085e5652391df106c8063860.1920x1080.jpg?t=1573554811
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_318503c56803ef2f085e5652391df106c8063860.600x338.jpg?t=1573554811
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_f95c513b88c5a7dcf27cfa4f481e2d1ebaec0943.1920x1080.jpg?t=1573554811
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_f95c513b88c5a7dcf27cfa4f481e2d1ebaec0943.600x338.jpg?t=1573554811
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_764031e7f419f6ab4c0bd21b3459c99d43ec2c50.1920x1080.jpg?t=1573554811
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_764031e7f419f6ab4c0bd21b3459c99d43ec2c50.600x338.jpg?t=1573554811
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_d9c2a1efe397a9beb36725998a34b74183174960.1920x1080.jpg?t=1573554811
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1181720/ss_d9c2a1efe397a9beb36725998a34b74183174960.600x338.jpg?t=1573554811
+    short_description: Imagine a labyrinth where walls move every time the player
+      moves making it impossible to calculate your way to the goal in advance so you'll
+      have to improvise.
+    steam_appid: 1181720
+    support_info:
+      email: superserg@bk.ru
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

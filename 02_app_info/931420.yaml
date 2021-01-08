@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: "Original Soundtrack for Oops!!! I Slept With Your Mom game.<br\
+      \ />\r\n<br />\r\n01 - Main Theme<br />\r\n02 - Let 's go find Mommy<br />\r\
+      \n03 - Elimination Schemes<br />\r\n04 - Nice and Sneaky<br />\r\n05 - Happy\
+      \ Spooky<br />\r\n06 - Shoot 'Em Up And Go To Sleep<br />\r\n<br />\r\nYou can\
+      \ find it in the OST sub folder of your game installation."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/931420/page_bg_generated_v6b.jpg?t=1537562958
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Original Soundtrack for Oops!!! I Slept With Your Mom game.<br\
+      \ />\r\n<br />\r\n01 - Main Theme<br />\r\n02 - Let 's go find Mommy<br />\r\
+      \n03 - Elimination Schemes<br />\r\n04 - Nice and Sneaky<br />\r\n05 - Happy\
+      \ Spooky<br />\r\n06 - Shoot 'Em Up And Go To Sleep<br />\r\n<br />\r\nYou can\
+      \ find it in the OST sub folder of your game installation."
+    developers:
+    - Hidoi Games
+    fullgame:
+      appid: '930320'
+      name: Oops!!! I Slept With Your Mom
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/931420/header.jpg?t=1537562958
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256729558
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256729558/movie480.mp4?t=1537562954
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256729558/movie_max.mp4?t=1537562954
+      name: Music Sample Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256729558/movie.293x165.jpg?t=1537562954
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256729558/movie480.webm?t=1537562954
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256729558/movie_max.webm?t=1537562954
+    name: Oops!!! I Slept With Your Mom OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Oops!!! I Slept With Your Mom OST - $0.99
+        packageid: 301714
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Oops!!! I Slept With Your Mom OST
+    packages:
+    - 301714
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Storage:</strong>
+        46 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Hidoi Games
+    release_date:
+      coming_soon: false
+      date: Sep 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/931420/ss_c5ae1600dc7fd9785e41b0fcb3b2a3b61ae2f7ef.1920x1080.jpg?t=1537562958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/931420/ss_c5ae1600dc7fd9785e41b0fcb3b2a3b61ae2f7ef.600x338.jpg?t=1537562958
+    short_description: Original Soundtrack for Oops!!! I Slept With Your Mom game.
+    steam_appid: 931420
+    support_info:
+      email: support@hidoigames.com
+      url: hidoigames.com\support
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,181 @@
+details:
+  data:
+    about_the_game: "Angvik is a platform action game set in a joyful but unforgiving\
+      \ land. The castle has been taken over by a barbarian and no one else has the\
+      \ courage to confront him, so take up your father\u2019s gear and set off on\
+      \ a wondrous journey! And you\u2019re not alone: you\u2019ll find many birds\
+      \ and items to aid you along the way, and you\u2019ll encounter all sorts of\
+      \ creatures to fight as well. But watch your step! You have only one life, so\
+      \ if you die, you stay dead."
+    achievements:
+      highlighted:
+      - name: King
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/1f04cb27abbccc8a05b9820c501668194238efef.jpg
+      - name: Lancer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/7932be2ce35f7b35f5a97281abcf9142e23c368e.jpg
+      - name: Shepherd
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/a7247607f567af92d50f8bb4b68a05353bf0dd32.jpg
+      - name: Paladin
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/1f812e6cff198dcb0f6653eedbfeb2e977e45e40.jpg
+      - name: Bottler
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/5e2bb8ae47b561c235511994b896600a7acb28d4.jpg
+      - name: Peasant
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/8d0dd5333633bcfefbfa5bdbc957ca6db75eedc8.jpg
+      - name: Rank 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/c9dfee150f8febce12460b625d104bc74ccb9d8f.jpg
+      - name: Rank 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/472824a6379024cc1e3146959b3d40d9d91b6184.jpg
+      - name: Rank 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/6559e5e823a4349051ec72a07dc0faf5e2f0f779.jpg
+      - name: Rank 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/278890/3dc8b72cd862fae778f8ebd490963b4fb6899cb2.jpg
+      total: 21
+    background: https://steamcdn-a.akamaihd.net/steam/apps/278890/page_bg_generated_v6b.jpg?t=1591838759
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Angvik is a platform action game set in a joyful but unforgiving\
+      \ land. The castle has been taken over by a barbarian and no one else has the\
+      \ courage to confront him, so take up your father\u2019s gear and set off on\
+      \ a wondrous journey! And you\u2019re not alone: you\u2019ll find many birds\
+      \ and items to aid you along the way, and you\u2019ll encounter all sorts of\
+      \ creatures to fight as well. But watch your step! You have only one life, so\
+      \ if you die, you stay dead."
+    developers:
+    - Alastair John Jack
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/278890/header.jpg?t=1591838759
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.7+<br></li><li><strong>Processor:</strong> 2 GHz dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics
+        with dedicated memory</li></ul>
+    movies:
+    - highlight: true
+      id: 2031169
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2031169/movie480.mp4?t=1447360617
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2031169/movie_max.mp4?t=1447360617
+      name: Angvik trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2031169/movie.293x165.jpg?t=1447360617
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2031169/movie480.webm?t=1447360617
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2031169/movie_max.webm?t=1447360617
+    name: Angvik
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Angvik - <span class="discount_original_price">$2.99</span> $1.79
+        packageid: 38139
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 179
+      title: Buy Angvik
+    packages:
+    - 38139
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7+<br></li><li><strong>Processor:</strong> 2 GHz dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics
+        with dedicated memory</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 179
+      final_formatted: $1.79
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - Alastair John Jack
+    recommendations:
+      total: 1740
+    release_date:
+      coming_soon: false
+      date: Feb 24, 2014
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_fd894b9ba69ac14832c9fb973560b363da287b64.1920x1080.jpg?t=1591838759
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_fd894b9ba69ac14832c9fb973560b363da287b64.600x338.jpg?t=1591838759
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_71d44d78c7e67a8a390756878f25b22a6091dc7b.1920x1080.jpg?t=1591838759
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_71d44d78c7e67a8a390756878f25b22a6091dc7b.600x338.jpg?t=1591838759
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_40918d01233f028e67fe6be668c2856287ce5236.1920x1080.jpg?t=1591838759
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_40918d01233f028e67fe6be668c2856287ce5236.600x338.jpg?t=1591838759
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_8ca3992f770c1733c0ca1147f7d9e8c4ac390dfd.1920x1080.jpg?t=1591838759
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_8ca3992f770c1733c0ca1147f7d9e8c4ac390dfd.600x338.jpg?t=1591838759
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_ec51c9c93d21b8db7a459b6941cf8dd482862094.1920x1080.jpg?t=1591838759
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/278890/ss_ec51c9c93d21b8db7a459b6941cf8dd482862094.600x338.jpg?t=1591838759
+    short_description: Angvik is a platform action game set in a joyful but unforgiving
+      land.
+    steam_appid: 278890
+    support_info:
+      email: alastair.john.jack@gmail.com
+      url: https://alastair.games
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://alastair.games
+  success: true
+reviews:
+  cursor: AoJw/92K6fYCdIXUwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 185
+    total_positive: 1555
+    total_reviews: 1740
+  reviews:
+  - author:
+      last_played: 1609863378
+      num_games_owned: 124
+      num_reviews: 9
+      playtime_at_review: 207
+      playtime_forever: 215
+      playtime_last_two_weeks: 215
+      steamid: '76561198141304708'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '84058196'
+    review: 'LoL queue beklerken vazgecilmez olan bir oyun,  baya zor ama eglenceli.
+      PALADIN
+
+      Oyunda olununce basa geri donuluyor. Oyunu bitirdikten sonra zorlasiyor, sonra
+      bir daha zorlasiyor.'
+    steam_purchase: true
+    timestamp_created: 1609841522
+    timestamp_updated: 1609843798
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

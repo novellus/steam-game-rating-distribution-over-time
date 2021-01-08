@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: There are a total of 10 tracks (mp3 format) used in &quot;Really
+      Trash Game&quot;.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1313480/page_bg_generated_v6b.jpg?t=1589979680
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: There are a total of 10 tracks (mp3 format) used in &quot;Really
+      Trash Game&quot;.
+    developers:
+    - VGStudio
+    fullgame:
+      appid: '1313470'
+      name: Really Trash Game
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1313480/header.jpg?t=1589979680
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256784292
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784292/movie480.mp4?t=1588979635
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784292/movie_max.mp4?t=1588979635
+      name: '1'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256784292/movie.293x165.jpg?t=1588979635
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784292/movie480_vp9.webm?t=1588979635
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784292/movie_max_vp9.webm?t=1588979635
+    name: Really Trash Game Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Really Trash Game Soundtrack - <span class="discount_original_price">$4.99</span>
+          $0.49
+        packageid: 458507
+        percent_savings: 0
+        percent_savings_text: '-90% '
+        price_in_cents_with_discount: 49
+      title: Buy Really Trash Game Soundtrack
+    packages:
+    - 458507
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        88 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 90
+      final: 49
+      final_formatted: $0.49
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - "\u041A\u0438\u041A\u043E"
+    release_date:
+      coming_soon: false
+      date: May 20, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1313480/ss_7ca6b2b4ea0d0d12fa445ca67236c41d88a31d69.1920x1080.jpg?t=1589979680
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1313480/ss_7ca6b2b4ea0d0d12fa445ca67236c41d88a31d69.600x338.jpg?t=1589979680
+    short_description: There are a total of 10 tracks (mp3 format) used in &quot;Really
+      Trash Game&quot;.
+    steam_appid: 1313480
+    support_info:
+      email: vidon@Inbox.lv
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwjufmrfYCcqrkuQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 4
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199098781972'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '82256546'
+    review: No gat
+    steam_purchase: true
+    timestamp_created: 1607854668
+    timestamp_updated: 1607854668
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

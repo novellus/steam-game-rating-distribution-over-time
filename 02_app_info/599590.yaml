@@ -1,0 +1,202 @@
+details:
+  data:
+    about_the_game: "Volleyball Fever is a VR sports game set on a tropical island.\
+      \ Stick your feet in the warm sand and join us on the beach! \U0001F3D0\U0001F30A\
+      \U0001F334\U0001F603<br><br><ul class=\"bb_ul\"><li> Great physics<br></li><li>\
+      \ Online or solo<br></li><li> Bomb mode<br></li><li> Tropical island</li></ul><br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/599590/extras/screen_640x360_2019-09-18_22-06-09.jpg?t=1569402084\"\
+      \ /><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/599590/extras/screen_640x360_2019-09-18_21-56-28.jpg?t=1569402084\"\
+      \ />"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/599590/page_bg_generated_v6b.jpg?t=1569402084
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Cross-Platform Multiplayer
+      id: 27
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Volleyball Fever is a VR sports game set on a tropical\
+      \ island. Stick your feet in the warm sand and join us on the beach! \U0001F3D0\
+      \U0001F30A\U0001F334\U0001F603<br><br><ul class=\"bb_ul\"><li> Great physics<br></li><li>\
+      \ Online or solo<br></li><li> Bomb mode<br></li><li> Tropical island</li></ul><br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/599590/extras/screen_640x360_2019-09-18_22-06-09.jpg?t=1569402084\"\
+      \ /><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/599590/extras/screen_640x360_2019-09-18_21-56-28.jpg?t=1569402084\"\
+      \ />"
+    developers:
+    - Neuston AB
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Sports
+      id: '18'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/599590/header.jpg?t=1569402084
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256762863
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256762863/movie480.mp4?t=1569402060
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256762863/movie_max.mp4?t=1569402060
+      name: Trailer 2
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256762863/movie.293x165.jpg?t=1569402060
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256762863/movie480.webm?t=1569402060
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256762863/movie_max.webm?t=1569402060
+    name: Volleyball Fever
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Volleyball Fever - $6.99
+        packageid: 157417
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Volleyball Fever
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $6.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$6.99 at checkout,
+          auto-renewed every 1 month(s) at $6.99.</p>
+        option_text: $6.99 / month
+        packageid: 440483
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Volleyball Fever Subscription Plan
+    packages:
+    - 157417
+    - 440483
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong>
+        CPU Intel i5-4590<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GTX 970<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Neuston AB
+    release_date:
+      coming_soon: false
+      date: Jun 19, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_90bdd914a07e3c9ddf50fcb82fd5b3f342c8c49a.1920x1080.jpg?t=1569402084
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_90bdd914a07e3c9ddf50fcb82fd5b3f342c8c49a.600x338.jpg?t=1569402084
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_e4f186bf5712e6eb6e934a1937a307179cf0f47d.1920x1080.jpg?t=1569402084
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_e4f186bf5712e6eb6e934a1937a307179cf0f47d.600x338.jpg?t=1569402084
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_6f3a6f7d09c32c18b45eedafeed54f66ce2a0cc2.1920x1080.jpg?t=1569402084
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_6f3a6f7d09c32c18b45eedafeed54f66ce2a0cc2.600x338.jpg?t=1569402084
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_685292ec49cd27f2f31272fb7eb05e177493af0b.1920x1080.jpg?t=1569402084
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_685292ec49cd27f2f31272fb7eb05e177493af0b.600x338.jpg?t=1569402084
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_baa78c03335f235676aefa8696fab330f47c0225.1920x1080.jpg?t=1569402084
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_baa78c03335f235676aefa8696fab330f47c0225.600x338.jpg?t=1569402084
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_d8fa68fdf28562c951631955ac3df953597c1df3.1920x1080.jpg?t=1569402084
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/599590/ss_d8fa68fdf28562c951631955ac3df953597c1df3.600x338.jpg?t=1569402084
+    short_description: Volleyball Fever is a VR sports game set on a tropical island.
+      Stick your feet in the warm sand and join us on the beach!
+    steam_appid: 599590
+    support_info:
+      email: support@neuston.io
+      url: http://neuston.io
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://neuston.io
+  success: true
+reviews:
+  cursor: AoJ4xtHk2vYCdPnzvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 2
+    total_positive: 48
+    total_reviews: 50
+  reviews:
+  - author:
+      last_played: 1609923837
+      num_games_owned: 57
+      num_reviews: 3
+      playtime_at_review: 992
+      playtime_forever: 1564
+      playtime_last_two_weeks: 741
+      steamid: '76561198199785238'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83599252'
+    review: "Despite its many flaws and I mean MANY FLAWS... this is fundementally\
+      \ a good game especially considering the state its in. I enjoy it thouroughly\
+      \ as a fun casual game but its far from a substitute from real volleyball\n\
+      Theres only 4 players on a team\nNo roles (Setter, libero, middle blocker etc)\
+      \ which leads to situations where im expecting to get set to and then the ball\
+      \ suddenly gets received to me for me to set. If you have aim assist off setting\
+      \ can be a real pain. \nNo rules so rather frequently a receiver will set straight\
+      \ into a front row player from the back row\nAs many flaws and bugs as it has...\
+      \ I still do very much enjoy it and reccomend it to anyone looking to play some\
+      \ volleyball during the quarantine we're currently in."
+    steam_purchase: true
+    timestamp_created: 1609364049
+    timestamp_updated: 1609364049
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

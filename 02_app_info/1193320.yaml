@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: "It's a nice DLC that supports Nyanco! (\u0E05'\u03C9'\u0E05)<br\
+      \ />\r\nIt includes End Card, Avatar, and Bookmark Images.<br />\r\n<br />\r\
+      \n* Note : This DLC does not affect gameplay."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1193320/page_bg_generated_v6b.jpg?t=1598300193
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "It's a nice DLC that supports Nyanco! (\u0E05'\u03C9'\u0E05\
+      )<br />\r\nIt includes End Card, Avatar, and Bookmark Images.<br />\r\n<br />\r\
+      \n* Note : This DLC does not affect gameplay."
+    developers:
+    - Nyanco Channel
+    fullgame:
+      appid: '1192580'
+      name: Nyanco Dream
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1193320/header.jpg?t=1598300193
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Nyanco Channel - Dream Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Nyanco Channel - Dream Pack - $0.99
+        packageid: 410899
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Nyanco Channel - Dream Pack
+    packages:
+    - 410899
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7/8/8.1/10<br></li><li><strong>Processor:</strong> Intel Core2\
+        \ Duo or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Storage:</strong> 500\
+        \ MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Nyanco Channel
+    release_date:
+      coming_soon: false
+      date: Nov 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193320/ss_3beec43e1bf45d206ef878d88f9ea5c803be0381.1920x1080.jpg?t=1598300193
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193320/ss_3beec43e1bf45d206ef878d88f9ea5c803be0381.600x338.jpg?t=1598300193
+    short_description: It's a nice DLC that supports Nyanco!
+    steam_appid: 1193320
+    support_info:
+      email: NyancoChannel@gmail.com
+      url: https://store.steampowered.com/curator/33855818
+    supported_languages: English, Japanese, Simplified Chinese, Traditional Chinese
+    type: dlc
+    website: https://store.steampowered.com/curator/33855818
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

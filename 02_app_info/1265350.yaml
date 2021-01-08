@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: '<strong>&quot;When I was young&quot; game Soundtrack by KuzinMuzin.</strong><br>The
+      album includes 14 tracks in &quot;.mp3 &quot; format, as well as in high-quality
+      format &quot;.wav&quot;.<br><br><i>If you don''t want to download large files,
+      check your client''s settings: Steam --&gt; Settings --&gt; Music --&gt; Download
+      high-quality audio files.</i>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1265350/page_bg_generated_v6b.jpg?t=1600971443
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: '<strong>&quot;When I was young&quot; game Soundtrack by
+      KuzinMuzin.</strong><br>The album includes 14 tracks in &quot;.mp3 &quot; format,
+      as well as in high-quality format &quot;.wav&quot;.<br><br><i>If you don''t
+      want to download large files, check your client''s settings: Steam --&gt; Settings
+      --&gt; Music --&gt; Download high-quality audio files.</i>'
+    developers:
+    - WallRus Group
+    fullgame:
+      appid: '1059230'
+      name: When I Was Young
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1265350/header.jpg?t=1600971443
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256777887
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256777887/movie480.mp4?t=1584181065
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256777887/movie_max.mp4?t=1584181065
+      name: WIWY OST Vinyl trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256777887/movie.293x165.jpg?t=1584181065
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256777887/movie480.webm?t=1584181065
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256777887/movie_max.webm?t=1584181065
+    name: When I Was Young Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: When I Was Young Soundtrack - $3.99
+        packageid: 440045
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy When I Was Young Soundtrack
+    packages:
+    - 440045
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        150 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Art Games Studio S.A.
+    release_date:
+      coming_soon: false
+      date: Jul 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1265350/ss_867ab9738d997d385af1ad4d2c67fd8eb0027a46.1920x1080.jpg?t=1600971443
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1265350/ss_867ab9738d997d385af1ad4d2c67fd8eb0027a46.600x338.jpg?t=1600971443
+    short_description: '&quot;When I was young&quot; game Soundtrack by KuzinMuzin'
+    steam_appid: 1265350
+    support_info:
+      email: kontakt@art-games.com
+      url: ''
+    type: music
+    website: https://www.wiwygame.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

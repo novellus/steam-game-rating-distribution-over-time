@@ -1,0 +1,175 @@
+details:
+  data:
+    about_the_game: <strong>How well do you know your movie trivia?<br><br>Test your
+      movie knowledge in The Movie Trivia Challenge!</strong><br><br>Movie Trivia
+      has never been so much fun. Challenge yourself or have a movie trivia night
+      with friends and family in Party Mode! Choose from the most popular movie categories
+      including Action, Comedy,  Romance, Sci-Fi, Horror, Foreign, General, Kids,
+      and 2010-Present. If that's not enough, give the wheel challenge a spin!<br><br><br><strong>The
+      Movie Trivia Challenge includes high quality graphics and covers your 9 favorite
+      categories:</strong><br><br>- Action<br>- Comedy<br>- Romance<br>- Sci-Fi<br>-
+      Horror<br>- Foreign<br>- General<br>- Kids<br>- 2010-Present<br><br><br><strong>FEATURES<br><br>-
+      Includes Your 9 Favorite Categories.<br>- High Quality Graphics.<br>- Party
+      Mode (2-4 players locally).<br>- Gamepad Support.<br>- Family Friendly.<br>-
+      Fun for all ages.</strong><br><br>So what are you waiting for? Download it now
+      and get your brain ready for The Movie Trivia Challenge!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/875790/page_bg_generated_v6b.jpg?t=1580579839
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Partial Controller Support
+      id: 18
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>How well do you know your movie trivia?<br><br>Test
+      your movie knowledge in The Movie Trivia Challenge!</strong><br><br>Movie Trivia
+      has never been so much fun. Challenge yourself or have a movie trivia night
+      with friends and family in Party Mode! Choose from the most popular movie categories
+      including Action, Comedy,  Romance, Sci-Fi, Horror, Foreign, General, Kids,
+      and 2010-Present. If that's not enough, give the wheel challenge a spin!<br><br><br><strong>The
+      Movie Trivia Challenge includes high quality graphics and covers your 9 favorite
+      categories:</strong><br><br>- Action<br>- Comedy<br>- Romance<br>- Sci-Fi<br>-
+      Horror<br>- Foreign<br>- General<br>- Kids<br>- 2010-Present<br><br><br><strong>FEATURES<br><br>-
+      Includes Your 9 Favorite Categories.<br>- High Quality Graphics.<br>- Party
+      Mode (2-4 players locally).<br>- Gamepad Support.<br>- Family Friendly.<br>-
+      Fun for all ages.</strong><br><br>So what are you waiting for? Download it now
+      and get your brain ready for The Movie Trivia Challenge!
+    developers:
+    - LoadUpGames.com
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/875790/header.jpg?t=1580579839
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or
+        better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or
+        better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256718713
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256718713/movie480.mp4?t=1528225655
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256718713/movie_max.mp4?t=1528225655
+      name: Official Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256718713/movie.293x165.jpg?t=1528225655
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256718713/movie480.webm?t=1528225655
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256718713/movie_max.webm?t=1528225655
+    name: The Movie Trivia Challenge
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Movie Trivia Challenge - $0.99
+        packageid: 277268
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Movie Trivia Challenge - Commercial License - $0.99
+        packageid: 383517
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy The Movie Trivia Challenge
+    packages:
+    - 277268
+    - 383517
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> Dual
+        Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - LoadUpGames.com
+    release_date:
+      coming_soon: false
+      date: Jun 23, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_d92187a7123ea0eb344b0f58bc4d699099d1eb01.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_d92187a7123ea0eb344b0f58bc4d699099d1eb01.600x338.jpg?t=1580579839
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_98a0769fec0c8b148aefe040112dedc87ba41c58.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_98a0769fec0c8b148aefe040112dedc87ba41c58.600x338.jpg?t=1580579839
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_2443c0dd1118e48bbb5ddf57e794d51e92862769.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_2443c0dd1118e48bbb5ddf57e794d51e92862769.600x338.jpg?t=1580579839
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_0d6c574711aa720dfcd0d3cc5014dfea5d6c8778.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_0d6c574711aa720dfcd0d3cc5014dfea5d6c8778.600x338.jpg?t=1580579839
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_7e45c91b1e2ac5998fed3d1122ebcf66729209b5.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_7e45c91b1e2ac5998fed3d1122ebcf66729209b5.600x338.jpg?t=1580579839
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_a3932f54c8cc0ab01f96b8eeeaa64ce09307e6d9.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_a3932f54c8cc0ab01f96b8eeeaa64ce09307e6d9.600x338.jpg?t=1580579839
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_d38aceafdce0525a8a0aec3948c54b462c165c9d.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_d38aceafdce0525a8a0aec3948c54b462c165c9d.600x338.jpg?t=1580579839
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_860d1cf8c14c19d589baf6bce3f15d3543d22dd8.1920x1080.jpg?t=1580579839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/875790/ss_860d1cf8c14c19d589baf6bce3f15d3543d22dd8.600x338.jpg?t=1580579839
+    short_description: How well do you know your movie trivia? Challenge yourself
+      or have a movie trivia night with friends and family in Party Mode! Choose from
+      the most popular movie categories including Action, Comedy, Romance, Sci-Fi,
+      Horror, Foreign, General, and more. Movie Trivia has never been so much fun!
+    steam_appid: 875790
+    support_info:
+      email: loadupgames@outlook.com
+      url: http://loadupgames.com
+    supported_languages: English
+    type: game
+    website: http://loadupgames.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

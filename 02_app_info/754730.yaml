@@ -1,0 +1,72 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 5
+      notes: null
+    detailed_description: ''
+    developers:
+    - Machine Games
+    fullgame:
+      appid: '612880'
+      name: 'Wolfenstein II: The New Colossus'
+    genres:
+    - description: Violent
+      id: '73'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/754730/header.jpg?t=1511363216
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    metacritic:
+      score: 86
+    name: 'Wolfenstein II: The New Colossus Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Bethesda Softworks
+    release_date:
+      coming_soon: false
+      date: Nov 22, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 754730
+    support_info:
+      email: ''
+      url: http://help.bethesda.net/
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

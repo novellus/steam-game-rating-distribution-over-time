@@ -1,0 +1,124 @@
+details:
+  data:
+    about_the_game: Surely you want to collect more coins to buy more and better skins.
+      Obtain x10 faster the necessary coins to buy the skins you want with this DLC,
+      requieres the base game Ninja Hanrei.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1471360/page_bg_generated_v6b.jpg?t=1606647832
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Surely you want to collect more coins to buy more and better
+      skins. Obtain x10 faster the necessary coins to buy the skins you want with
+      this DLC, requieres the base game Ninja Hanrei.
+    developers:
+    - DynKen
+    fullgame:
+      appid: '1384620'
+      name: Ninja Hanrei
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1471360/header.jpg?t=1606647832
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        110 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Storage:</strong> 110 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong>
+        110 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Storage:</strong> 110 MB available space</li></ul>
+    name: Ninja Hanrei - Extra Coins
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ninja Hanrei - Extra Coins - $1.99
+        packageid: 518008
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Ninja Hanrei - Extra Coins
+    packages:
+    - 518008
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - DynKen
+    release_date:
+      coming_soon: false
+      date: Nov 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1471360/ss_d3ee5bbe777cf8e0e0d629a8c8bdf06980aea155.1920x1080.jpg?t=1606647832
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1471360/ss_d3ee5bbe777cf8e0e0d629a8c8bdf06980aea155.600x338.jpg?t=1606647832
+    short_description: This DLC multiply your coins x10 to get skins faster.
+    steam_appid: 1471360
+    support_info:
+      email: dynken.indie@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Simplified
+      Chinese, Traditional Chinese, Spanish - Latin America, Japanese, Portuguese,
+      Portuguese - Brazil, Russian, Arabic, Korean
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

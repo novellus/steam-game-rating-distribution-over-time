@@ -1,0 +1,190 @@
+details:
+  data:
+    about_the_game: 'Golf Galore is an online multiplayer Mini Golf game with crazy
+      mechanics. You can teleport with portals, dodge saw blades, shoot out of cannons,
+      and much more.<br><br>Currently, Golf Galore features:<br><ul class="bb_ul"><li>Online
+      multiplayer<br></li><li>4 maps with 18 holes each: Valley, Haven, Castle, and
+      Lab<br></li><li>Golf mode and Race mode<br></li><li>Many game options like ball
+      collision, jumping, &quot;hardcore&quot;, random spawns and more<br></li><li>Ball
+      customization with Steam items</li></ul>'
+    achievements:
+      highlighted:
+      - name: Valley Par
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/a68bfc2c55b7409c2ebffe9d738655eb81f7464b.jpg
+      - name: Valley Expert
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/e3bb985dc34ea81c5d66c00160ef758739c947d1.jpg
+      - name: Valley Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/fe7c52e81b5c68d60d9432f3f44b1aa4c66867bd.jpg
+      - name: Haven Par
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/f1085be76fc400376761da838df5a27b1e6c9224.jpg
+      - name: Haven Expert
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/55501a52d94baf2c4ea30c99111f6cb109986f29.jpg
+      - name: Haven Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/bf281c77096a648b86523622424c5a6a78d625f7.jpg
+      - name: Castle Par
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/4560e4b09106228aded5110c7bfe89a3e869c53f.jpg
+      - name: Castle Expert
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/1a8b798fa49579c67752a47b94f043b1018e8285.jpg
+      - name: Castle Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/10b7d0cf3ba1801184a813e2729614c4f46adb40.jpg
+      - name: Hole in One
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/868080/62f7ed62cebf07a16481a0e8d0d1b96e2fcf658c.jpg
+      total: 20
+    background: https://steamcdn-a.akamaihd.net/steam/apps/868080/page_bg_generated_v6b.jpg?t=1608795352
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Golf Galore is an online multiplayer Mini Golf game with
+      crazy mechanics. You can teleport with portals, dodge saw blades, shoot out
+      of cannons, and much more.<br><br>Currently, Golf Galore features:<br><ul class="bb_ul"><li>Online
+      multiplayer<br></li><li>4 maps with 18 holes each: Valley, Haven, Castle, and
+      Lab<br></li><li>Golf mode and Race mode<br></li><li>Many game options like ball
+      collision, jumping, &quot;hardcore&quot;, random spawns and more<br></li><li>Ball
+      customization with Steam items</li></ul>'
+    developers:
+    - Golf Around Studio (Legacy)
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/868080/header.jpg?t=1608795352
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.7<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong>
+        4 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available
+        space</li></ul>
+    movies:
+    - highlight: true
+      id: 256720869
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720869/movie480.mp4?t=1529974655
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720869/movie_max.mp4?t=1529974655
+      name: GG Trailer 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256720869/movie.293x165.jpg?t=1529974655
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720869/movie480.webm?t=1529974655
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720869/movie_max.webm?t=1529974655
+    name: Golf Galore
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Golf Galore - $0.99
+        packageid: 273899
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Golf Galore
+    packages:
+    - 273899
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong>
+        4 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Golf Around Studio (Legacy)
+    release_date:
+      coming_soon: false
+      date: Jul 12, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_1bb3232e2af9a4aff91442a26846ff70ce8f3aaa.1920x1080.jpg?t=1608795352
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_1bb3232e2af9a4aff91442a26846ff70ce8f3aaa.600x338.jpg?t=1608795352
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_5827ca078153d23dc0ae56b7a305ad025184da50.1920x1080.jpg?t=1608795352
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_5827ca078153d23dc0ae56b7a305ad025184da50.600x338.jpg?t=1608795352
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_70c16cff8b53ad87ef6c6eb147d68bd4da9ad327.1920x1080.jpg?t=1608795352
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_70c16cff8b53ad87ef6c6eb147d68bd4da9ad327.600x338.jpg?t=1608795352
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_ebf2260f7ce57796e6bfc53fe6d15b166e1ff391.1920x1080.jpg?t=1608795352
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_ebf2260f7ce57796e6bfc53fe6d15b166e1ff391.600x338.jpg?t=1608795352
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_b980f13ee99ab9cb1f5352499263c7e74b90fb9b.1920x1080.jpg?t=1608795352
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/868080/ss_b980f13ee99ab9cb1f5352499263c7e74b90fb9b.600x338.jpg?t=1608795352
+    short_description: Golf Galore is an online multiplayer Mini Golf game with crazy
+      mechanics. You can teleport with portals, dodge saw blades, shoot out of cannons,
+      and much more.
+    steam_appid: 868080
+    support_info:
+      email: tunethedev@gmail.com
+      url: https://www.golfaroundgame.com/other-games
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://www.golfaroundgame.com/other-games
+  success: true
+reviews:
+  cursor: AoJ4xaKo6vYCd4TrwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 16
+    total_positive: 61
+    total_reviews: 77
+  reviews:
+  - author:
+      last_played: 1609885049
+      num_games_owned: 4
+      num_reviews: 2
+      playtime_at_review: 208
+      playtime_forever: 208
+      playtime_last_two_weeks: 208
+      steamid: '76561199015107261'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '84105287'
+    review: zajebista 4 mapy6 mozna grac godzinami B)
+    steam_purchase: true
+    timestamp_created: 1609885095
+    timestamp_updated: 1609885095
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

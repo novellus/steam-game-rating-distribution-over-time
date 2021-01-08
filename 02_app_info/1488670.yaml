@@ -1,0 +1,300 @@
+details:
+  data:
+    about_the_game: "Physics Cake is a 2-D physics simulation game where you can draw\
+      \ containers, objects, or anything you want really and put whatever chosen physical\
+      \ object you want inside of it. All the objects have different interactions\
+      \ that are designed to be fun and entertaining. <br />\r\n<br />\r\nPhysics\
+      \ Cake is similar to old \u201Csand-like\u201D games you would find online many\
+      \ years ago. <br />\r\n<br />\r\nPhysics Cake is designed to be fun and entertaining,\
+      \ like paint, but with basic physics. <br />\r\n<br />\r\nYou can also save\
+      \ your creations and simulations. You can easily share your simulations with\
+      \ anyone else by sharing your saved text files with them. Physics Cake supports\
+      \ steam cloud, so anything you have saved will be backed up to steam automatically\
+      \ when you exit the game. This way you can keep your creations across devices.<br\
+      \ />\r\n<br />\r\nThe game is easy to start and has built-in help descriptions\
+      \ for all the objects and basic functions by clicking the ? Or ?2 buttons in\
+      \ the game. <br />\r\n<br />\r\nPhysics Cake is currently in early access as\
+      \ we plan to add user suggestions, fix any bugs, improve stability, and in general\
+      \ make a fun open 2-D simulation game that can be entertaining for minutes or\
+      \ for hours.<br />\r\n<br />\r\nBelow is a list of all the objects currently\
+      \ in the game (most objects are able to be re-arranged after spawning by right-clicking\
+      \ and dragging the object as wanted): <br />\r\nNone: nothing spawned on click\
+      \ (default)<br />\r\nDelete: A red crossed through circle that deletes anything\
+      \ you touch with it.<br />\r\nLine: A solid line to draw things with, or make\
+      \ containers.<br />\r\nWater: A liquid ball of water.<br />\r\nOil: A liquid\
+      \ glob of oil.<br />\r\nSteam: Quick rising steam that evaporates.<br />\r\n\
+      Fire: It burns things, duh!<br />\r\nWood: Wood blocks that act similarly to\
+      \ line (wood can be effected by other objects life fire).<br />\r\nJello: Wiggly,\
+      \ jiggly jelly, bouncy and expandable.<br />\r\nSpinner-R: Spins to the right\
+      \ like a singular fan blade.<br />\r\nSpinner-L: Spins to the left like a singular\
+      \ fan blade<br />\r\nVoid: A tiny black hole, anything sucked into it is deleted\
+      \ automatically (limit 1).<br />\r\nClack: Clacker balls that are pinned to\
+      \ the spawn area<br />\r\nGrass: Grass, can be watered to be grown. <br />\r\
+      \nIce: Cubes of ice that freeze things and jiggle like real ice cubes.<br />\r\
+      \nWater-SP: Endlessly spawns water objects from the chosen location.<br />\r\
+      \nIce-SP: Endlessly spawns ice objects from the chosen location.<br />\r\nOil-SP:\
+      \ Endlessly spawns oil objects from the chosen location.<br />\r\nJello-SP:\
+      \ Endlessly spawns jello objects from the chosen location.<br />\r\nSteam-SP:\
+      \ Endlessly spawns steam objects from the chosen location.<br />\r\nE-SP: Endlessly\
+      \ spawns electron objects. <br />\r\nKill Line: The standard object, but any\
+      \ physical objects that touch it are removed on contact.<br />\r\nPulley: Two\
+      \ connected weights that make up a pulley system.<br />\r\nSticky: Sticks to\
+      \ other physical objects. (limited to 125 instances on screen at once)<br />\r\
+      \nCOLORED L BUTTONS: Produces the LINE object in the chosen color.<br />\r\n\
+      Etron: Short for electron. Bounces randomly at high velocity. Not affected by\
+      \ void, wood, or ice, and can electrify objects on contact. <br />\r\nDrag u:\
+      \ Drags any physical objects upwards that are below it.<br />\r\nFire-SP: Endlessly\
+      \ spawns fire objects above it.<br />\r\nKill Line: The standard object, but\
+      \ any physical objects that touch it are removed on contact.<br />\r\n<br />\r\
+      \nYou can also alter the gravity of the simulation at any time you wish."
+    achievements:
+      highlighted:
+      - name: 5FPS
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/d164d05c85bea0b081d6acfc674d6749faad1298.jpg
+      - name: Alert
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/401071c305ec6fe8d455735de5c3c434e730a751.jpg
+      - name: Burn 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/967bf800de79754621474f5292e349531eb56bd9.jpg
+      - name: Burn 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/44c442a11e8bd21cc83943d9d895cfa8d35b4940.jpg
+      - name: Burn 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/7c87b326c079cd799717e97e804bf36b7b623c12.jpg
+      - name: Burn 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/86a5c16980be6bcc3f02b03d892188823d6573ab.jpg
+      - name: Clack
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/962b1f7d3e12365e97388d8543de9d9ccace4399.jpg
+      - name: Dark Blue Line
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/0123dddab1a9756caabf546439ff6330ef0d3d81.jpg
+      - name: Dead Grass
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/c90536e237ea3fdd378af44dc90630898e666bf5.jpg
+      - name: Delete Stuff
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1488670/264aa98a45b68ee666cbbc47b3d8cd9bed5d959d.jpg
+      total: 91
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1488670/page_bg_generated_v6b.jpg?t=1609048866
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Physics Cake is a 2-D physics simulation game where you\
+      \ can draw containers, objects, or anything you want really and put whatever\
+      \ chosen physical object you want inside of it. All the objects have different\
+      \ interactions that are designed to be fun and entertaining. <br />\r\n<br />\r\
+      \nPhysics Cake is similar to old \u201Csand-like\u201D games you would find\
+      \ online many years ago. <br />\r\n<br />\r\nPhysics Cake is designed to be\
+      \ fun and entertaining, like paint, but with basic physics. <br />\r\n<br />\r\
+      \nYou can also save your creations and simulations. You can easily share your\
+      \ simulations with anyone else by sharing your saved text files with them. Physics\
+      \ Cake supports steam cloud, so anything you have saved will be backed up to\
+      \ steam automatically when you exit the game. This way you can keep your creations\
+      \ across devices.<br />\r\n<br />\r\nThe game is easy to start and has built-in\
+      \ help descriptions for all the objects and basic functions by clicking the\
+      \ ? Or ?2 buttons in the game. <br />\r\n<br />\r\nPhysics Cake is currently\
+      \ in early access as we plan to add user suggestions, fix any bugs, improve\
+      \ stability, and in general make a fun open 2-D simulation game that can be\
+      \ entertaining for minutes or for hours.<br />\r\n<br />\r\nBelow is a list\
+      \ of all the objects currently in the game (most objects are able to be re-arranged\
+      \ after spawning by right-clicking and dragging the object as wanted): <br />\r\
+      \nNone: nothing spawned on click (default)<br />\r\nDelete: A red crossed through\
+      \ circle that deletes anything you touch with it.<br />\r\nLine: A solid line\
+      \ to draw things with, or make containers.<br />\r\nWater: A liquid ball of\
+      \ water.<br />\r\nOil: A liquid glob of oil.<br />\r\nSteam: Quick rising steam\
+      \ that evaporates.<br />\r\nFire: It burns things, duh!<br />\r\nWood: Wood\
+      \ blocks that act similarly to line (wood can be effected by other objects life\
+      \ fire).<br />\r\nJello: Wiggly, jiggly jelly, bouncy and expandable.<br />\r\
+      \nSpinner-R: Spins to the right like a singular fan blade.<br />\r\nSpinner-L:\
+      \ Spins to the left like a singular fan blade<br />\r\nVoid: A tiny black hole,\
+      \ anything sucked into it is deleted automatically (limit 1).<br />\r\nClack:\
+      \ Clacker balls that are pinned to the spawn area<br />\r\nGrass: Grass, can\
+      \ be watered to be grown. <br />\r\nIce: Cubes of ice that freeze things and\
+      \ jiggle like real ice cubes.<br />\r\nWater-SP: Endlessly spawns water objects\
+      \ from the chosen location.<br />\r\nIce-SP: Endlessly spawns ice objects from\
+      \ the chosen location.<br />\r\nOil-SP: Endlessly spawns oil objects from the\
+      \ chosen location.<br />\r\nJello-SP: Endlessly spawns jello objects from the\
+      \ chosen location.<br />\r\nSteam-SP: Endlessly spawns steam objects from the\
+      \ chosen location.<br />\r\nE-SP: Endlessly spawns electron objects. <br />\r\
+      \nKill Line: The standard object, but any physical objects that touch it are\
+      \ removed on contact.<br />\r\nPulley: Two connected weights that make up a\
+      \ pulley system.<br />\r\nSticky: Sticks to other physical objects. (limited\
+      \ to 125 instances on screen at once)<br />\r\nCOLORED L BUTTONS: Produces the\
+      \ LINE object in the chosen color.<br />\r\nEtron: Short for electron. Bounces\
+      \ randomly at high velocity. Not affected by void, wood, or ice, and can electrify\
+      \ objects on contact. <br />\r\nDrag u: Drags any physical objects upwards that\
+      \ are below it.<br />\r\nFire-SP: Endlessly spawns fire objects above it.<br\
+      \ />\r\nKill Line: The standard object, but any physical objects that touch\
+      \ it are removed on contact.<br />\r\n<br />\r\nYou can also alter the gravity\
+      \ of the simulation at any time you wish."
+    developers:
+    - Merriman Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1488670/header.jpg?t=1609048866
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256816583
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256816583/movie480.mp4?t=1609048862
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256816583/movie_max.mp4?t=1609048862
+      name: Physics Cake Launch Trailer V24
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256816583/movie.293x165.jpg?t=1609048862
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256816583/movie480_vp9.webm?t=1609048862
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256816583/movie_max_vp9.webm?t=1609048862
+    name: Physics Cake
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Physics Cake - $0.99
+        packageid: 524703
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Physics Cake
+    packages:
+    - 524703
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel Atom<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics (integrated)<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel i3 or higher, any
+        Ryzen Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong>
+        Anything stronger than a potato alarm clock<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Merriman Games
+    release_date:
+      coming_soon: false
+      date: Dec 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_f872f3e753e77d2a24b088d212b2415178b7c745.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_f872f3e753e77d2a24b088d212b2415178b7c745.600x338.jpg?t=1609048866
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_451809116ee4147d8ad6a29b03f439caa1990e4f.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_451809116ee4147d8ad6a29b03f439caa1990e4f.600x338.jpg?t=1609048866
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_786eebf8a28e3da2867c28415b5a97a4e1e77fcf.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_786eebf8a28e3da2867c28415b5a97a4e1e77fcf.600x338.jpg?t=1609048866
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_aeb9f3804ad9e93370c38ff9bb02829f2f326859.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_aeb9f3804ad9e93370c38ff9bb02829f2f326859.600x338.jpg?t=1609048866
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_7eb5c5cb04e071693a891d12f2f14d3a3c6db383.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_7eb5c5cb04e071693a891d12f2f14d3a3c6db383.600x338.jpg?t=1609048866
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_e04e9f2c3193796a0ea521060cb01e29edb9d188.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_e04e9f2c3193796a0ea521060cb01e29edb9d188.600x338.jpg?t=1609048866
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_b00071c0c525e12c51941b46205e92dadd3ec6cd.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_b00071c0c525e12c51941b46205e92dadd3ec6cd.600x338.jpg?t=1609048866
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_8cec89b3b5cc6251000b275731683240cf107155.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_8cec89b3b5cc6251000b275731683240cf107155.600x338.jpg?t=1609048866
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_d0177df2cf22db70a2185b9eb13a905f71fd2e66.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_d0177df2cf22db70a2185b9eb13a905f71fd2e66.600x338.jpg?t=1609048866
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_2892ae334e6ebfdac6308aeaaa45a1c62fb3fc3f.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_2892ae334e6ebfdac6308aeaaa45a1c62fb3fc3f.600x338.jpg?t=1609048866
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_1272f39cee9a26eb74327a57dd9e203fb47d46a6.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_1272f39cee9a26eb74327a57dd9e203fb47d46a6.600x338.jpg?t=1609048866
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_ae91972bb50637d3cec749ddd36ac30b5013ff4b.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_ae91972bb50637d3cec749ddd36ac30b5013ff4b.600x338.jpg?t=1609048866
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_041fb9230b19bc8c9de00fd2db63d57c92b92177.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_041fb9230b19bc8c9de00fd2db63d57c92b92177.600x338.jpg?t=1609048866
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_dd0636877776786884330a58438e794831741c27.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_dd0636877776786884330a58438e794831741c27.600x338.jpg?t=1609048866
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_04ca2754f9195af9de08bf8b9410fd10971f78aa.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_04ca2754f9195af9de08bf8b9410fd10971f78aa.600x338.jpg?t=1609048866
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_c8a66f1d7ebd56ed2634a29300849ccc67130a9b.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_c8a66f1d7ebd56ed2634a29300849ccc67130a9b.600x338.jpg?t=1609048866
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_a059f3b69ceea8a1ffa7aa63dfd38f77743b255f.1920x1080.jpg?t=1609048866
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1488670/ss_a059f3b69ceea8a1ffa7aa63dfd38f77743b255f.600x338.jpg?t=1609048866
+    short_description: Physics Cake is a 2-D physics simulation game where you can
+      draw containers, objects, or anything you want really and put whatever chosen
+      physical object you want inside of it.
+    steam_appid: 1488670
+    support_info:
+      email: info@physicscake.com
+      url: https://physicscake.com/
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4yqC/5/YCcIK/wAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 2
+    total_positive: 1
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1609863991
+      num_games_owned: 416
+      num_reviews: 7
+      playtime_at_review: 217
+      playtime_forever: 390
+      playtime_last_two_weeks: 390
+      steamid: '76561197998478787'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84015136'
+    review: I was just checking to see what it does and its fun. If you are bored
+      give it a try.
+    steam_purchase: true
+    timestamp_created: 1609790457
+    timestamp_updated: 1609790457
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

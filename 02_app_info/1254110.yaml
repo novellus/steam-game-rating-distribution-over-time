@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: <strong>Quarres </strong>(&quot;squares&quot; in Middle French)
+      is a 2D puzzle in which your goal is to match the tiles in your board with the
+      pattern on a sample board. <br><br>BUT THERE IS A CATCH! You cannot move only
+      one tile at a time. Moving a tile will move either its whole row or column.
+      Think of it as a 2D version of those popular physical cube puzzles.<br><br>PROCEDURALLY
+      GENERATED PUZZLES. Quarres generates it's boards using a pseudorandom number
+      generator. This allows for a giant amount of possible combinations while also
+      letting you share with friends specific puzzles by using a seed number.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1254110/page_bg_generated_v6b.jpg?t=1585683372
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>Quarres </strong>(&quot;squares&quot; in Middle
+      French) is a 2D puzzle in which your goal is to match the tiles in your board
+      with the pattern on a sample board. <br><br>BUT THERE IS A CATCH! You cannot
+      move only one tile at a time. Moving a tile will move either its whole row or
+      column. Think of it as a 2D version of those popular physical cube puzzles.<br><br>PROCEDURALLY
+      GENERATED PUZZLES. Quarres generates it's boards using a pseudorandom number
+      generator. This allows for a giant amount of possible combinations while also
+      letting you share with friends specific puzzles by using a seed number.
+    developers:
+    - MOBSoft Funstuff Inc.
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1254110/header.jpg?t=1585683372
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256777855
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256777855/movie480.mp4?t=1584028206
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256777855/movie_max.mp4?t=1584028206
+      name: Gameplay Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256777855/movie.293x165.jpg?t=1584028206
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256777855/movie480.webm?t=1584028206
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256777855/movie_max.webm?t=1584028206
+    name: Quarres
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Additional Notes:</strong> Internet
+        connection is required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - MOBSoft Funstuff Inc.
+    release_date:
+      coming_soon: false
+      date: Mar 31, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_00fe07c4d9308a51e3e6bd3c7ed9fce21ecbd54c.1920x1080.jpg?t=1585683372
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_00fe07c4d9308a51e3e6bd3c7ed9fce21ecbd54c.600x338.jpg?t=1585683372
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_2c204d308d28b7eb348558eb8fa3c629052c9156.1920x1080.jpg?t=1585683372
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_2c204d308d28b7eb348558eb8fa3c629052c9156.600x338.jpg?t=1585683372
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_40df4d29527295868410ee1f7c3b0e0c3149dee3.1920x1080.jpg?t=1585683372
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_40df4d29527295868410ee1f7c3b0e0c3149dee3.600x338.jpg?t=1585683372
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_3be71d6aeef464255481af9716f8d8b6eb2cc73a.1920x1080.jpg?t=1585683372
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_3be71d6aeef464255481af9716f8d8b6eb2cc73a.600x338.jpg?t=1585683372
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_ddb23ea954510c30279c418c5c41df8490c96fd5.1920x1080.jpg?t=1585683372
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254110/ss_ddb23ea954510c30279c418c5c41df8490c96fd5.600x338.jpg?t=1585683372
+    short_description: Quarres (&quot;squares&quot; in Middle French) is a 2D puzzle
+      in which your goal is to match the tiles in your board with the pattern on a
+      sample board.
+    steam_appid: 1254110
+    support_info:
+      email: hello@mobsoft.mx
+      url: mobsoft.mx
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

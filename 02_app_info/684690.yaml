@@ -1,0 +1,189 @@
+details:
+  data:
+    about_the_game: "Grid Cartographer is a powerful map creation and design tool,\
+      \ with many features:<br><br> \u2022 Square, Hexagon and Tile-map Grid Types.<br>\
+      \ \u2022 Unlimited floor area with named floors and multiple tabbed 'regions'.<br>\
+      \ \u2022 Quick brush selection with a popup overlay.<br> \u2022 Standard editing\
+      \ tools such as undo, redo and cut, copy and paste.<br> \u2022 Range of selection\
+      \ tools including marquee, paint and wand.<br> \u2022 Text labelling and a quick\
+      \ note system.<br> \u2022 Fog-of-war overlays in several different styles.<br>\
+      \ \u2022 Map themes including blueprint, phosphor and parchment styles.<br>\
+      \ \u2022 3D view mode for first-person visualisation.<br> \u2022 Avatar cursor\
+      \ to help track your movements as you explore a map.<br> \u2022 Interactive\
+      \ wall levers and treasure chests.<br> \u2022 Custom marker and terrain tile\
+      \ art import.<br> \u2022 Flexible grid setup for limited areas or infinite planes.<h2\
+      \ class=\"bb_tag\">Import and Export</h2><ul class=\"bb_ul\"><li>Import TSV\
+      \ maps and room notes from donjon dungeon generator.<br></li><li>Export maps\
+      \ to PNG, BMP or TGA with powerful filtering options to create a 'player map'.<br></li><li>Export\
+      \ maps to OBJ mesh or XML for use with Unity, Godot and Unreal Engine.<br></li><li>Scripting\
+      \ system for exporting to proprietary data formats. (AppGameKit example available)</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/684690/page_bg_generated_v6b.jpg?t=1601745157
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Grid Cartographer is a powerful map creation and design\
+      \ tool, with many features:<br><br> \u2022 Square, Hexagon and Tile-map Grid\
+      \ Types.<br> \u2022 Unlimited floor area with named floors and multiple tabbed\
+      \ 'regions'.<br> \u2022 Quick brush selection with a popup overlay.<br> \u2022\
+      \ Standard editing tools such as undo, redo and cut, copy and paste.<br> \u2022\
+      \ Range of selection tools including marquee, paint and wand.<br> \u2022 Text\
+      \ labelling and a quick note system.<br> \u2022 Fog-of-war overlays in several\
+      \ different styles.<br> \u2022 Map themes including blueprint, phosphor and\
+      \ parchment styles.<br> \u2022 3D view mode for first-person visualisation.<br>\
+      \ \u2022 Avatar cursor to help track your movements as you explore a map.<br>\
+      \ \u2022 Interactive wall levers and treasure chests.<br> \u2022 Custom marker\
+      \ and terrain tile art import.<br> \u2022 Flexible grid setup for limited areas\
+      \ or infinite planes.<h2 class=\"bb_tag\">Import and Export</h2><ul class=\"\
+      bb_ul\"><li>Import TSV maps and room notes from donjon dungeon generator.<br></li><li>Export\
+      \ maps to PNG, BMP or TGA with powerful filtering options to create a 'player\
+      \ map'.<br></li><li>Export maps to OBJ mesh or XML for use with Unity, Godot\
+      \ and Unreal Engine.<br></li><li>Scripting system for exporting to proprietary\
+      \ data formats. (AppGameKit example available)</li></ul>"
+    developers:
+    - David Walters
+    genres:
+    - description: Design & Illustration
+      id: '53'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/684690/header.jpg?t=1601745157
+    is_free: false
+    legal_notice: "\xA9 2013-2020 David Walters. All rights reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256717887
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256717887/movie480.mp4?t=1527529284
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256717887/movie_max.mp4?t=1527529284
+      name: Main Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256717887/movie.293x165.jpg?t=1527529284
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256717887/movie480.webm?t=1527529284
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256717887/movie_max.webm?t=1527529284
+    - highlight: true
+      id: 256698094
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256698094/movie480.mp4?t=1527529297
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256698094/movie_max.mp4?t=1527529297
+      name: Hex Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256698094/movie.293x165.jpg?t=1527529297
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256698094/movie480.webm?t=1527529297
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256698094/movie_max.webm?t=1527529297
+    name: Grid Cartographer
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Grid Cartographer - <span class="discount_original_price">$49.99</span>
+          $24.99
+        packageid: 195827
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 2499
+      title: Buy Grid Cartographer
+    packages:
+    - 195827
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> Windows\xAE\
+        \ 10 64-bit<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122 i5\
+        \ 2.5GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ Integrated Graphics<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>\
+        \ 128 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ Windows\xAE 10 64-bit<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Core\u2122 i5 2.5GHz<br></li><li><strong>Graphics:</strong> GeForce\xAE\
+        \ or Radeon\u2122</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 2499
+      final_formatted: $24.99
+      initial: 4999
+      initial_formatted: $49.99
+    publishers:
+    - David Walters
+    release_date:
+      coming_soon: false
+      date: Jun 19, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_3dd799050949065e86c56eab7f3339fb3aabc9b9.1920x1080.jpg?t=1601745157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_3dd799050949065e86c56eab7f3339fb3aabc9b9.600x338.jpg?t=1601745157
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_60859c376d2996519c2723c3d609b7b8c1314222.1920x1080.jpg?t=1601745157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_60859c376d2996519c2723c3d609b7b8c1314222.600x338.jpg?t=1601745157
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_37d7483721c7da7978b9487668d8beaeaac271de.1920x1080.jpg?t=1601745157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_37d7483721c7da7978b9487668d8beaeaac271de.600x338.jpg?t=1601745157
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_b5bd3a2f5dbe34590f562644e6c1d1489887a2fb.1920x1080.jpg?t=1601745157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_b5bd3a2f5dbe34590f562644e6c1d1489887a2fb.600x338.jpg?t=1601745157
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_b8812065002a92f7121e63594f5146a91fd905d5.1920x1080.jpg?t=1601745157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684690/ss_b8812065002a92f7121e63594f5146a91fd905d5.600x338.jpg?t=1601745157
+    short_description: Grid Cartographer is an intuitive map creation tool. Use it
+      to quickly craft table-top dungeon encounters, block-out computer game environments,
+      or as the perfect companion for classic role-playing games.
+    steam_appid: 684690
+    support_info:
+      email: ''
+      url: http://gridcartographer.com/contact/
+    supported_languages: English
+    type: game
+    website: http://gridcartographer.com/
+  success: true
+reviews:
+  cursor: AoJ4mJLu5PYCfr2VwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 22
+    total_reviews: 22
+  reviews:
+  - author:
+      last_played: 1609815503
+      num_games_owned: 176
+      num_reviews: 12
+      playtime_at_review: 1749
+      playtime_forever: 2876
+      playtime_last_two_weeks: 2876
+      steamid: '76561197969423041'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83930078'
+    review: Work good, orc approved
+    steam_purchase: true
+    timestamp_created: 1609702085
+    timestamp_updated: 1609702085
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

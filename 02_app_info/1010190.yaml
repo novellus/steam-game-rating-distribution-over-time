@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: "Want to support us and/or upgrade your coin making abilities?<br\
+      \ />\r\n<br />\r\nThis upgrade package will unlock three upgrades to the game<br\
+      \ />\r\n- An Auto Clicker for the Mining Character that can be charged with\
+      \ several minutes of automatic clicking<br />\r\n- Double Income from the rock\
+      \ for coins AND gems<br />\r\n- Permanent Double Buddy!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1010190/page_bg_generated_v6b.jpg?t=1546865272
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Want to support us and/or upgrade your coin making abilities?<br\
+      \ />\r\n<br />\r\nThis upgrade package will unlock three upgrades to the game<br\
+      \ />\r\n- An Auto Clicker for the Mining Character that can be charged with\
+      \ several minutes of automatic clicking<br />\r\n- Double Income from the rock\
+      \ for coins AND gems<br />\r\n- Permanent Double Buddy!"
+    developers:
+    - Game Sage Productions
+    fullgame:
+      appid: '789750'
+      name: Idle Earth
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1010190/header.jpg?t=1546865272
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Awesome Upgrades for Idle Earth
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Awesome Upgrades for Idle Earth - $0.99
+        packageid: 334376
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Awesome Upgrades for Idle Earth
+    packages:
+    - 334376
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>DirectX:</strong>
+        Version 9.0</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Game Sage Productions
+    release_date:
+      coming_soon: false
+      date: Jan 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1010190/ss_6725cdf00c8fdd7d732e193da0e95726cd5079dc.1920x1080.jpg?t=1546865272
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1010190/ss_6725cdf00c8fdd7d732e193da0e95726cd5079dc.600x338.jpg?t=1546865272
+    short_description: 3 Awesome upgrades. Miner Auto Clicker, Double Income (includes
+      gems) and permanent Double Buddy!
+    steam_appid: 1010190
+    support_info:
+      email: GameSageProductions@gmail.com
+      url: http://www.GameSageProductions.com
+    supported_languages: English
+    type: dlc
+    website: http://www.GameSageProductions.com
+  success: true
+reviews:
+  cursor: AoJwu+vwmugCdsT3twE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 414
+      num_reviews: 456
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197990354493'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48217158'
+    review: "I like the DLC, sure makes things go faster for achievements if your\
+      \ into that kind of thing. :) \n\nhttps://www.youtube.com/watch?v=dP3dJyNdMm4"
+    steam_purchase: true
+    timestamp_created: 1547090222
+    timestamp_updated: 1547090222
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.480057060718536377'
+    written_during_early_access: false
+  success: 1

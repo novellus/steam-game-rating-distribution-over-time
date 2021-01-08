@@ -1,0 +1,205 @@
+details:
+  data:
+    about_the_game: "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1218900/extras/zup.png?t=1608664022\"\
+      \ /><br><br>Minimal physical puzzle with explosions. The player's goal to keep\
+      \ the blue ball on the platform for 3 seconds in order to pass the level.<br><br>Zup!\
+      \ Z - the continuation of the franchise<br><br>\u25AA 60 Levels<br>\u25AA Achievements<br>\u25AA\
+      \ New cubes<br>\u25AA Lasers<br><br>Requires DirectShow to work correctly (<a\
+      \ href=\"https://steamcommunity.com/linkfilter/?url=https://codecguide.com/download_kl.htm\"\
+      \ target=\"_blank\" rel=\"noopener\"  >K-Lite Codec Pack</a>)<h2 class=\"bb_tag\"\
+      ><strong>Credits</strong></h2>&quot;Zup!&quot; powered by Clickteam Fusion 2.5<br><br>The\
+      \ basis is taken an example of Sergio Andre"
+    achievements:
+      highlighted:
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/3eeb0ea6e859acae79e04328d093d52731135928.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/78cc8f55eb17c95dfa9241defa8f901bb8271821.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/5ed011fd6c9893242d955d0ad03f618988983569.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/586e1a14a8f7b114b15be49d21d2d66d842d1cd6.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/cc56dcd2fe261d4096beee04a6927cfe3ec3d746.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/1657119bee8ae34cdb28c01b17b0d8ad4b835e91.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/4ac63c78ac3dfdf1ed89707928698f7e0044d45f.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/3f410586d028bc3eb387f4631814b87fb62d407c.jpg
+      - name: B
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/fc336165a7400b8f5a654e8dbf42ed1413b71ecb.jpg
+      - name: B
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1218900/d8649d095e5e41c02a786d32850b9c2e07f9571a.jpg
+      total: 512
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1218900/page_bg_generated_v6b.jpg?t=1608664022
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1218900/extras/zup.png?t=1608664022\"\
+      \ /><br><br>Minimal physical puzzle with explosions. The player's goal to keep\
+      \ the blue ball on the platform for 3 seconds in order to pass the level.<br><br>Zup!\
+      \ Z - the continuation of the franchise<br><br>\u25AA 60 Levels<br>\u25AA Achievements<br>\u25AA\
+      \ New cubes<br>\u25AA Lasers<br><br>Requires DirectShow to work correctly (<a\
+      \ href=\"https://steamcommunity.com/linkfilter/?url=https://codecguide.com/download_kl.htm\"\
+      \ target=\"_blank\" rel=\"noopener\"  >K-Lite Codec Pack</a>)<h2 class=\"bb_tag\"\
+      ><strong>Credits</strong></h2>&quot;Zup!&quot; powered by Clickteam Fusion 2.5<br><br>The\
+      \ basis is taken an example of Sergio Andre"
+    developers:
+    - Quiet River
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1218900/header.jpg?t=1608664022
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256810981
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256810981/movie480.mp4?t=1606572798
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256810981/movie_max.mp4?t=1606572798
+      name: Zup! Z
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256810981/movie.293x165.jpg?t=1606572798
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256810981/movie480_vp9.webm?t=1606572798
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256810981/movie_max_vp9.webm?t=1606572798
+    name: Zup! Z
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Zup! Z - $0.99
+        packageid: 422008
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Zup! Z
+    packages:
+    - 422008
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel
+        Celeron 1800 MHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel
+        Core i3<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        75 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Quiet River
+    recommendations:
+      total: 161
+    release_date:
+      coming_soon: false
+      date: Dec 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_0ac3c754d950e8a36e3dd275b22b3f3899f6f9f9.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_0ac3c754d950e8a36e3dd275b22b3f3899f6f9f9.600x338.jpg?t=1608664022
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_5791b95328563c2867e83308a31eb56333b0d23b.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_5791b95328563c2867e83308a31eb56333b0d23b.600x338.jpg?t=1608664022
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_bc8f676be46ccbf71c5a87fb6efefcc2afcb0c7e.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_bc8f676be46ccbf71c5a87fb6efefcc2afcb0c7e.600x338.jpg?t=1608664022
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_aa05c4dc9471be646c0cc8b85bc4f44fb5ab6c67.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_aa05c4dc9471be646c0cc8b85bc4f44fb5ab6c67.600x338.jpg?t=1608664022
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_2a057c78a4d6f9a7af0bbcb0d5701d96c0eade98.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_2a057c78a4d6f9a7af0bbcb0d5701d96c0eade98.600x338.jpg?t=1608664022
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_143c32a5bef90a18124c0c54f9ad43612fa9b2a4.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_143c32a5bef90a18124c0c54f9ad43612fa9b2a4.600x338.jpg?t=1608664022
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_b3c89598d4a0b8fc6c66a6e896a94671a8296385.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_b3c89598d4a0b8fc6c66a6e896a94671a8296385.600x338.jpg?t=1608664022
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_d716da38adcc6631f6ebdd8e3613f476208ec27d.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_d716da38adcc6631f6ebdd8e3613f476208ec27d.600x338.jpg?t=1608664022
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_7e251946a8f7d93d032c7522cc1889fcb514eb2c.1920x1080.jpg?t=1608664022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218900/ss_7e251946a8f7d93d032c7522cc1889fcb514eb2c.600x338.jpg?t=1608664022
+    short_description: Minimal physical puzzle with explosions
+    steam_appid: 1218900
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/app/1218900/
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>,
+      Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>,
+      Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>,
+      Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>,
+      Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>,
+      Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>,
+      Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>,
+      Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4xNiY7vYCftKewQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 6
+    total_positive: 153
+    total_reviews: 159
+  reviews:
+  - author:
+      last_played: 1609833832
+      num_games_owned: 28
+      num_reviews: 3
+      playtime_at_review: 102
+      playtime_forever: 102
+      playtime_last_two_weeks: 102
+      steamid: '76561198889617927'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '84210990'
+    review: "S\u0131k\u0131ld\u0131\u011F\u0131mda oynad\u0131\u011F\u0131m ve IQ\
+      \ y\xFCkseltmek i\xE7in g\xFCzel oyun. Koleksiyon kartlar\u0131 gelse g\xFC\
+      zel olur."
+    steam_purchase: true
+    timestamp_created: 1610015229
+    timestamp_updated: 1610015229
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

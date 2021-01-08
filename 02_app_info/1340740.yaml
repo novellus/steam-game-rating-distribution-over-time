@@ -1,0 +1,149 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1340740/extras/460x215_r2.png?t=1599763435"
+      /><br><br><u>Repeat the light sequence to pass to the next level!</u><br><br>-
+      50 levels<br><br>- 50 achievements<br><br>- Relaxing Music<br><br>- Sequences
+      starting from 4 up to 13<br><br>- Kawaii!<br><br>- Are you ready to challenge
+      your memory?
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/a6a6942639ba1d5075625103656faa241062fdcb.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/9df6c449c8a65fc5be02c26b82c08079b676b757.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/be41c2489ebf45532f48114a5295b953374a1b81.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/b2255feaff92defb21a2140905dc21ec22a8d4a9.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/46f5e7759e4afed0d5e3b4f1deff49c2b4f3ba92.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/404f9c8f55e7d7b3bbcdd837aa281a01c0f134f2.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/2e2a9f98fa4e0e8fe6946493ea537634d61a6361.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/471682424367607b1ebcb70b48e6e9d08bb5a1be.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/a9b6f8899b534a336a9e029fd90a01ea8207610d.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1340740/80de7b9691e94ac3552cb5b5aa3ca11cc4088380.jpg
+      total: 50
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1340740/page_bg_generated_v6b.jpg?t=1599763435
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1340740/extras/460x215_r2.png?t=1599763435"
+      /><br><br><u>Repeat the light sequence to pass to the next level!</u><br><br>-
+      50 levels<br><br>- 50 achievements<br><br>- Relaxing Music<br><br>- Sequences
+      starting from 4 up to 13<br><br>- Kawaii!<br><br>- Are you ready to challenge
+      your memory?
+    developers:
+    - Red Diamond Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1340740/header.jpg?t=1599763435
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256800508
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800508/movie480.mp4?t=1599763430
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800508/movie_max.mp4?t=1599763430
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256800508/movie.293x165.jpg?t=1599763430
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800508/movie480_vp9.webm?t=1599763430
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800508/movie_max_vp9.webm?t=1599763430
+    name: Kawaii Memory
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Kawaii Memory - $0.99
+        packageid: 468775
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Kawaii Memory
+    packages:
+    - 468775
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7<br></li><li><strong>Processor:</strong> 5\xAA gen or higher<br></li><li><strong>Memory:</strong>\
+        \ 8 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB or higher<br></li><li><strong>Additional\
+        \ Notes:</strong> Note: Direct3D 9 or higher is needed to run this game.</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> 8\xAA gen or higher<br></li><li><strong>Memory:</strong>\
+        \ 16 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB or higher</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Red Diamond Games
+    release_date:
+      coming_soon: false
+      date: Aug 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_9b66a03664a78380c104bb0657c1f9c69d391a27.1920x1080.jpg?t=1599763435
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_9b66a03664a78380c104bb0657c1f9c69d391a27.600x338.jpg?t=1599763435
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_058948636ca4feafe20f09557d8438b837068b85.1920x1080.jpg?t=1599763435
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_058948636ca4feafe20f09557d8438b837068b85.600x338.jpg?t=1599763435
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_2cc265eac715e25d22ca82fd7751f2036d71c70c.1920x1080.jpg?t=1599763435
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_2cc265eac715e25d22ca82fd7751f2036d71c70c.600x338.jpg?t=1599763435
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_c4be89d7b5ffd2766ab7136465898b2857e54f54.1920x1080.jpg?t=1599763435
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_c4be89d7b5ffd2766ab7136465898b2857e54f54.600x338.jpg?t=1599763435
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_ee0d9d64ab6dae0870f8c2ae38e2205ae13754b4.1920x1080.jpg?t=1599763435
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1340740/ss_ee0d9d64ab6dae0870f8c2ae38e2205ae13754b4.600x338.jpg?t=1599763435
+    short_description: Repeat the light sequence to pass to the next level! - Come
+      and train your memory in a relaxing way!
+    steam_appid: 1340740
+    support_info:
+      email: rediamondgames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,86 @@
+details:
+  data:
+    about_the_game: All music recorded with the guitar and present in the special
+      areas of the game, in original files. Relive the atmosphere of peaceful landscapes,
+      full of chickens (?), Hidden and strange even while not playing!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1445770/page_bg_generated_v6b.jpg?t=1602395837
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: All music recorded with the guitar and present in the special
+      areas of the game, in original files. Relive the atmosphere of peaceful landscapes,
+      full of chickens (?), Hidden and strange even while not playing!
+    developers:
+    - Exa_Inc
+    fullgame:
+      appid: '1414640'
+      name: Early Quest
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1445770/header.jpg?t=1602395837
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Early Quest Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Early Quest Soundtrack - $4.99
+        packageid: 508644
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Early Quest Soundtrack
+    packages:
+    - 508644
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Exa_Inc
+    release_date:
+      coming_soon: false
+      date: Oct 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1445770/ss_2c78ea34bdfbc00614ea25f674f56a7ed1f831ec.1920x1080.jpg?t=1602395837
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1445770/ss_2c78ea34bdfbc00614ea25f674f56a7ed1f831ec.600x338.jpg?t=1602395837
+    short_description: All music recorded with the guitar and present in the special
+      areas of the game, in original files. Relive the atmosphere of peaceful landscapes,
+      full of chickens (?), Hidden and strange even while not playing!
+    steam_appid: 1445770
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/groups/exainc
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

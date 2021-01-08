@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: "Kinese is an experience I primarily wanted to share with the\
+      \ world, hence it being free. The best support you can give is to simply share\
+      \ it with others and recommend it to people you know. However for those that\
+      \ really enjoy it and would like to contribute something back, I decided to\
+      \ make that possible though a 'Tip Jar' DLC.  All that this DLC does in-game\
+      \ is add a thank you message, but out-of-game it is hugely appreciated. <br\
+      \ />\r\n<br />\r\nI would love to continue experimenting in VR and making experiences\
+      \ to share, so anything you can offer really does help make that possible. Thank\
+      \ you."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/751310/page_bg_generated_v6b.jpg?t=1521206199
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Kinese is an experience I primarily wanted to share with\
+      \ the world, hence it being free. The best support you can give is to simply\
+      \ share it with others and recommend it to people you know. However for those\
+      \ that really enjoy it and would like to contribute something back, I decided\
+      \ to make that possible though a 'Tip Jar' DLC.  All that this DLC does in-game\
+      \ is add a thank you message, but out-of-game it is hugely appreciated. <br\
+      \ />\r\n<br />\r\nI would love to continue experimenting in VR and making experiences\
+      \ to share, so anything you can offer really does help make that possible. Thank\
+      \ you."
+    developers:
+    - Six Sided Square
+    fullgame:
+      appid: '632080'
+      name: Kinese
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/751310/header.jpg?t=1521206199
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Kinese - Tip Jar
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Kinese - Tip Jar - $6.00
+        packageid: 220802
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 600
+      title: Buy Kinese - Tip Jar
+    packages:
+    - 220802
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970<br></li><li><strong>Additional
+        Notes:</strong> If you can run VR, you can run this.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 600
+      final_formatted: $6.00
+      initial: 600
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 16, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/751310/ss_e5a47e9e82ef02361a1769edadf5038d5213159f.1920x1080.jpg?t=1521206199
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/751310/ss_e5a47e9e82ef02361a1769edadf5038d5213159f.600x338.jpg?t=1521206199
+    short_description: The purpose of this DLC is simply to give a way for those that
+      enjoyed the experience a way to offer their support. All that it changes in-game
+      is to add a thank you message, but out of game it is hugely appreciated.
+    steam_appid: 751310
+    support_info:
+      email: KineseGame@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

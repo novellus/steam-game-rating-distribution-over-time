@@ -1,0 +1,201 @@
+details:
+  data:
+    about_the_game: "A brilliant scientist creates a humanoid little robot.<br />\r\
+      \nShe then tests her creation by placing it in different environments. <br />\r\
+      \nUsing a special bow, the robot must reach the exit of every environment. <br\
+      \ />\r\nTake control of the robot and solve the scientist\u2019s 60 puzzles."
+    achievements:
+      highlighted:
+      - name: Tinboy
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/ed66ce5073648de9a5a593a306c631217c800608.jpg
+      - name: Chip finder
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/ae2098d3aa8d3378485374898c66bf297864017a.jpg
+      - name: Chip collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/a7310222842813c719869e27d3909612063c9af0.jpg
+      - name: Chip horder
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/9578a706504fc7db817fefa6603e3d2d82a093c2.jpg
+      - name: Chip obsessed/fixated
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/9cb5916240bf910ef8ea1513983445e4b776429f.jpg
+      - name: Chip master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/801907a924c6ec91998303c8c5348ea167a7f26e.jpg
+      - name: Ready for Testing/QA
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/2607e3145fa358bf110e1401f790c447b8e83dea.jpg
+      - name: QA Approved
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/9245df9d9885f4a72c87ab868c763c59e6b17dfd.jpg
+      - name: I broke it
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/61ab0f2e534ac93cf29fe694d2d0f66d934dcb30.jpg
+      - name: I can see in the dark
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/399430/30d427fa61add26827a735ac29644a62abf2d6ed.jpg
+      total: 13
+    background: https://steamcdn-a.akamaihd.net/steam/apps/399430/page_bg_generated_v6b.jpg?t=1575485484
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Remote Play on TV
+      id: 43
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "A brilliant scientist creates a humanoid little robot.<br\
+      \ />\r\nShe then tests her creation by placing it in different environments.\
+      \ <br />\r\nUsing a special bow, the robot must reach the exit of every environment.\
+      \ <br />\r\nTake control of the robot and solve the scientist\u2019s 60 puzzles."
+    developers:
+    - Interactive Stone
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/399430/header.jpg?t=1575485484
+    is_free: false
+    legal_notice: "\xA9 2018 Interactive Stone"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any OS<br></li><li><strong>Processor:</strong> 1.6 Ghz<br></li><li><strong>Memory:</strong>
+        128 MB RAM<br></li><li><strong>Graphics:</strong> 256 Mb</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong>
+        128 MB RAM<br></li><li><strong>Graphics:</strong> 256 Mb</li></ul>
+    movies:
+    - highlight: true
+      id: 256730292
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256730292/movie480.mp4?t=1540818564
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256730292/movie_max.mp4?t=1540818564
+      name: Tinboy - Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256730292/movie.293x165.jpg?t=1540818564
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256730292/movie480.webm?t=1540818564
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256730292/movie_max.webm?t=1540818564
+    name: Tinboy
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tinboy - $1.99
+        packageid: 77309
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Tinboy
+    packages:
+    - 77309
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/Windows Vista/Windows 7/8<br></li><li><strong>Processor:</strong>
+        1.6 GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong>
+        256 Mb</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Interactive Stone
+    recommendations:
+      total: 207
+    release_date:
+      coming_soon: false
+      date: Aug 31, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_58e4952d2d5c2b5e1be36c5095ec6a21b803aa11.1920x1080.jpg?t=1575485484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_58e4952d2d5c2b5e1be36c5095ec6a21b803aa11.600x338.jpg?t=1575485484
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_352ff4a63176e268e72ecf3514a0f0d753f9b5a0.1920x1080.jpg?t=1575485484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_352ff4a63176e268e72ecf3514a0f0d753f9b5a0.600x338.jpg?t=1575485484
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_bc20d77e8dbdea88db7608820bc4cef08777f5e9.1920x1080.jpg?t=1575485484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_bc20d77e8dbdea88db7608820bc4cef08777f5e9.600x338.jpg?t=1575485484
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_e0176266a878535461e0d3da256a1c9aa4fe23bd.1920x1080.jpg?t=1575485484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_e0176266a878535461e0d3da256a1c9aa4fe23bd.600x338.jpg?t=1575485484
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_f1929b88515956270043cff6068827c6dc1b1f3f.1920x1080.jpg?t=1575485484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_f1929b88515956270043cff6068827c6dc1b1f3f.600x338.jpg?t=1575485484
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_6932dcc6ee3f8da53983f8c3b352fae67e63fd82.1920x1080.jpg?t=1575485484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_6932dcc6ee3f8da53983f8c3b352fae67e63fd82.600x338.jpg?t=1575485484
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_302f30b93d61971be530110879acc53834f9cc6b.1920x1080.jpg?t=1575485484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/399430/ss_302f30b93d61971be530110879acc53834f9cc6b.600x338.jpg?t=1575485484
+    short_description: Tinboy is a puzzle-platformer, with a massive difficulty level.
+    steam_appid: 399430
+    support_info:
+      email: tinboy@interactivestone.com
+      url: ''
+    supported_languages: English, German, Spanish - Spain, Japanese, Russian, Simplified
+      Chinese, Spanish - Latin America
+    type: game
+    website: http://tinboy.interactivestone.com
+  success: true
+reviews:
+  cursor: AoJwz/it6vYCdL3HeQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 69
+    total_positive: 138
+    total_reviews: 207
+  reviews:
+  - author:
+      last_played: 1590187247
+      num_games_owned: 713
+      num_reviews: 263
+      playtime_at_review: 76
+      playtime_forever: 76
+      playtime_last_two_weeks: 0
+      steamid: '76561198160468371'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '31865812'
+    review: "Um jogo sem hist\xF3ria e sem porqu\xEAs, apenas mostra que uma cientista\
+      \ montou um rob\xF4 e deu a ele um arco e flecha para realizar alguns desafios.\
+      \ Ao todo s\xE3o 60 desafios, onde voc\xEA dever\xE1 usar o arco e flecha para\
+      \ solucionar puzzles e passar de fases. \n\nO jogo n\xE3o \xE9 graficamente\
+      \ bonito, n\xE3o possui uma interface agrad\xE1vel e tampouco parece que os\
+      \ desenvolvedores se deram ao trabalho de fazer algo bem feito. \n\n[h1]Observa\xE7\
+      \xE3o:[/h1]\nNo dia 13.11.18, o desenvolvedor resolveu lan\xE7ar uma atualiza\xE7\
+      \xE3o do jogo, que visa a compatibilidade dele nas plataformas Switch and Xbox\
+      \ One (bem como Mac e Linux), mostrando precis\xE3o na movimenta\xE7\xE3o e\
+      \ suporte a controles. \n\nPara mim o jogo continua \xEDmpar, mesmo que os gr\xE1\
+      ficos e jogabilidade estejam melhores, o uso com o mouse ainda \xE9 dificultoso,\
+      \ mas fiquei feliz do desenvolvedor t\xEA-lo atualizado.\n\n| [b]Valor pago:[/b]\
+      \ R$0,13\n| [b]Build:[/b] [url=https://steamcommunity.com/games/399430/announcements/detail/1729840463422509427]Update\
+      \ Patch (Nov. 13, 2018)[/url]"
+    steam_purchase: true
+    timestamp_created: 1495302895
+    timestamp_updated: 1609886582
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.45939674973487854'
+    written_during_early_access: false
+  success: 1

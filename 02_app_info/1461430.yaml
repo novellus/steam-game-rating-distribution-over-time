@@ -1,0 +1,191 @@
+details:
+  data:
+    about_the_game: "Emoji Evolution is a new look at the alchemy game where you have\
+      \ to combine different elements to find a new one. Find all recipes and solve\
+      \ the main dilemma of humanity - what will happen in the end! <br />\r\n<br\
+      \ />\r\nAt the start, you have only the 4 base elements - soil, water, fire,\
+      \ and air. Combine these you will invent different blueprints which will help\
+      \ you to open more new ones. <br />\r\n<br />\r\nUse your logical skills to\
+      \ predict further steps to solve the puzzle and invent impressive chains. Be\
+      \ witty, there are a lot of gags and jokes cause this is the Emoji world and\
+      \ something works not exactly as in real life."
+    achievements:
+      highlighted:
+      - name: 'First Element! '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/ec8b69ecdc9f89d5780dc3242a099f01b1d04dc0.jpg
+      - name: 'Five Elements! '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/729f1f1156f845d3538cbb3e9008773f2532f0e5.jpg
+      - name: 'Ten Elements! '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/2329ca9e30a7a929bbfcaa23b80c8a74de439e8e.jpg
+      - name: Fifty Elements!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/dd5aef4f8bf6d83bfe961a701d5c228454b63da8.jpg
+      - name: All Elements
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/2298d5e8883e33d1e8328b9d62536b1ffa28e379.jpg
+      - name: First Rare Element
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/e30ccf47e31cc3096f829fc72e4d2f54ab53bffb.jpg
+      - name: All Rares Elements
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/4d87c08de47e1a1070fb0a9b9c35516185db38aa.jpg
+      - name: First Epic Element
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/bc3ad43dc90a7ec9f4513dd80007d4220d38868c.jpg
+      - name: All Epic Elements
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/224d5104990f9e70a7bdb0d9c9d0243655337158.jpg
+      - name: LEGENDARY
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1461430/01cdea68d6cddb8a5be4e4e2903123f921786d41.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1461430/page_bg_generated_v6b.jpg?t=1607623659
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Emoji Evolution is a new look at the alchemy game where\
+      \ you have to combine different elements to find a new one. Find all recipes\
+      \ and solve the main dilemma of humanity - what will happen in the end! <br\
+      \ />\r\n<br />\r\nAt the start, you have only the 4 base elements - soil, water,\
+      \ fire, and air. Combine these you will invent different blueprints which will\
+      \ help you to open more new ones. <br />\r\n<br />\r\nUse your logical skills\
+      \ to predict further steps to solve the puzzle and invent impressive chains.\
+      \ Be witty, there are a lot of gags and jokes cause this is the Emoji world\
+      \ and something works not exactly as in real life."
+    developers:
+    - Very Positive
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1461430/header.jpg?t=1607623659
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256810978
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256810978/movie480.mp4?t=1606295447
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256810978/movie_max.mp4?t=1606295447
+      name: Emoji Evolution Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256810978/movie.293x165.jpg?t=1606295447
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256810978/movie480_vp9.webm?t=1606295447
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256810978/movie_max_vp9.webm?t=1606295447
+    name: Emoji Evolution
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Emoji Evolution - $4.99
+        packageid: 514590
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Emoji Evolution
+    packages:
+    - 514590
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD graphics<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Very Positive
+    release_date:
+      coming_soon: false
+      date: Dec 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_0bbc2dc207f572c32bb2030731dfa007aa3832ad.1920x1080.jpg?t=1607623659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_0bbc2dc207f572c32bb2030731dfa007aa3832ad.600x338.jpg?t=1607623659
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_5bc68fa3fceb79d1ff8b249a53cd09587d6e5b2e.1920x1080.jpg?t=1607623659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_5bc68fa3fceb79d1ff8b249a53cd09587d6e5b2e.600x338.jpg?t=1607623659
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_e1e58b5b999d5e3b3c1c935792c5adf6a61b068b.1920x1080.jpg?t=1607623659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_e1e58b5b999d5e3b3c1c935792c5adf6a61b068b.600x338.jpg?t=1607623659
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_c6ec85b57f6b72f44bb830c36d494061bb8a07ea.1920x1080.jpg?t=1607623659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_c6ec85b57f6b72f44bb830c36d494061bb8a07ea.600x338.jpg?t=1607623659
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_fd7b3b09caa4496d5e5f2a5af90fef00dbaef13d.1920x1080.jpg?t=1607623659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1461430/ss_fd7b3b09caa4496d5e5f2a5af90fef00dbaef13d.600x338.jpg?t=1607623659
+    short_description: Emoji Evolution is a new look at the alchemy game where you
+      have to combine different elements to find a new one. Find all recipes and solve
+      the main dilemma of humanity - what will happen in the end!
+    steam_appid: 1461430
+    support_info:
+      email: launchpunchpr@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Czech, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese,
+      Swedish, Turkish
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwyou77fYCdYaXwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 8
+    total_positive: 40
+    total_reviews: 48
+  reviews:
+  - author:
+      last_played: 1609990421
+      num_games_owned: 146
+      num_reviews: 6
+      playtime_at_review: 66
+      playtime_forever: 66
+      playtime_last_two_weeks: 66
+      steamid: '76561197997419438'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84195429'
+    review: 'Short but fun game. I love the alchemy style games, trying to figure
+      out different combinations. This is the first one I''ve seen with 3 and 4 element
+      combinations, not just 2. I will say there are a lot of combinations that aren''t
+      particularly obvious, but there''s a robust hint system if you need it that
+      will pretty much hold your hand if you get stuck. There''s a lot of potential
+      for growth in this, so hopefully they do more updates to add in more elements.
+
+
+      Also, "clown" :D'
+    steam_purchase: true
+    timestamp_created: 1609990654
+    timestamp_updated: 1609990692
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

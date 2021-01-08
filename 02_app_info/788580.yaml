@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: "Enjoy the music of &quot;In Between Games&quot; fully! All of\
+      \ the files come in MP3 format.<br />\r\nYou can find the music in the main\
+      \ directory of the game; in the &quot;Soundtrack - In Between Games&quot; file\
+      \ once you download this DLC."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/788580/page_bg_generated_v6b.jpg?t=1603134375
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Enjoy the music of &quot;In Between Games&quot; fully!\
+      \ All of the files come in MP3 format.<br />\r\nYou can find the music in the\
+      \ main directory of the game; in the &quot;Soundtrack - In Between Games&quot;\
+      \ file once you download this DLC."
+    developers:
+    - Alexandress
+    fullgame:
+      appid: '779700'
+      name: In Between Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/788580/header.jpg?t=1603134375
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: In Between Games - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: In Between Games - Soundtrack - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 238340
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy In Between Games - Soundtrack
+    packages:
+    - 238340
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows<br></li><li><strong>Storage:</strong> 40 MB available space<br></li><li><strong>Additional
+        Notes:</strong> MP3 Files</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Alexandress Games
+    release_date:
+      coming_soon: false
+      date: Jan 26, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/788580/ss_cd23d919fa12c2827bf93a422601423980151bb0.1920x1080.jpg?t=1603134375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/788580/ss_cd23d919fa12c2827bf93a422601423980151bb0.600x338.jpg?t=1603134375
+    short_description: 'Soundtrack from the game : In Between Games.'
+    steam_appid: 788580
+    support_info:
+      email: alexandress12355@hotmail.com
+      url: https://alexandressgames.wordpress.com/contact/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: https://alexandressgames.wordpress.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

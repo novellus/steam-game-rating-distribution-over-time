@@ -1,0 +1,221 @@
+details:
+  data:
+    about_the_game: "Christmas is just around the corner and it\u2019s time to decorate!\
+      \ Tippy Tree is a virtual reality puzzle game that has you decorate the tippiest\
+      \ of trees. Celebrate the holiday season with trinkets aplenty, but be careful\
+      \ - these are some seriously heavy ornaments, and without careful planning,\
+      \ all of your work may come crashing down!<br><br>Excellent for families, holiday\
+      \ lovers, and VR beginners, Tippy Tree features:<br><br><strong>Puzzle Mode</strong><br>Our\
+      \ classic puzzle mode featuring a sequence of progressively tippier trees.<br><br><strong>Hard\
+      \ Mode</strong><br>A mode for the most careful of hands, these ornaments get\
+      \ crushed if you squeeze too hard!<br><br><strong>Infinite Mode</strong><br>How\
+      \ far can you go? Infinite doesn\u2019t end until your tree topples!<br><br><strong>Decoration\
+      \ Mode</strong><br>There\u2019s our hammer! We bolted the tree to the floor\
+      \ so you can decorate without worry.<br><br><strong>Presents!</strong><br>Expert\
+      \ decorators get rewarded! Check under the tree for gifts that unlock new ornaments!<br><br><strong>Ornaments\
+      \ galore!</strong><br>Sometimes those red and white tinsel balls aren\u2019\
+      t enough, so we\u2019ve added 30 unique ornaments for you to collect and use\
+      \ on your dream tree.<br><br><strong>Room-Scale Virtual Reality for You, and\
+      \ You, and You!</strong><br>Get the perfect angle by playing in room-scale VR\
+      \ with HTC Vive, Oculus Rift, and Windows Mixed Reality headsets."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/966210/page_bg_generated_v6b.jpg?t=1548461376
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Workshop
+      id: 30
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Christmas is just around the corner and it\u2019s time\
+      \ to decorate! Tippy Tree is a virtual reality puzzle game that has you decorate\
+      \ the tippiest of trees. Celebrate the holiday season with trinkets aplenty,\
+      \ but be careful - these are some seriously heavy ornaments, and without careful\
+      \ planning, all of your work may come crashing down!<br><br>Excellent for families,\
+      \ holiday lovers, and VR beginners, Tippy Tree features:<br><br><strong>Puzzle\
+      \ Mode</strong><br>Our classic puzzle mode featuring a sequence of progressively\
+      \ tippier trees.<br><br><strong>Hard Mode</strong><br>A mode for the most careful\
+      \ of hands, these ornaments get crushed if you squeeze too hard!<br><br><strong>Infinite\
+      \ Mode</strong><br>How far can you go? Infinite doesn\u2019t end until your\
+      \ tree topples!<br><br><strong>Decoration Mode</strong><br>There\u2019s our\
+      \ hammer! We bolted the tree to the floor so you can decorate without worry.<br><br><strong>Presents!</strong><br>Expert\
+      \ decorators get rewarded! Check under the tree for gifts that unlock new ornaments!<br><br><strong>Ornaments\
+      \ galore!</strong><br>Sometimes those red and white tinsel balls aren\u2019\
+      t enough, so we\u2019ve added 30 unique ornaments for you to collect and use\
+      \ on your dream tree.<br><br><strong>Room-Scale Virtual Reality for You, and\
+      \ You, and You!</strong><br>Get the perfect angle by playing in room-scale VR\
+      \ with HTC Vive, Oculus Rift, and Windows Mixed Reality headsets."
+    developers:
+    - Mythical City Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/966210/header.jpg?t=1548461376
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256734952
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256734952/movie480.mp4?t=1545420931
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256734952/movie_max.mp4?t=1545420931
+      name: Launch Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256734952/movie.293x165.jpg?t=1545420931
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256734952/movie480.webm?t=1545420931
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256734952/movie_max.webm?t=1545420931
+    name: Tippy Tree
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tippy Tree - $1.99
+        packageid: 316300
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Tippy Tree
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $19.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$19.99 at checkout,
+          auto-renewed every 1 month(s) at $19.99.</p>
+        option_text: $19.99 / month
+        packageid: 328537
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Tippy Tree Subscription Plan
+    packages:
+    - 316300
+    - 328537
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1 or newer<br></li><li><strong>Processor:</strong> CPU: Intel i5-4590 equivalent
+        or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Requires VR HMD</li></ul>'
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Mythical City Games
+    release_date:
+      coming_soon: false
+      date: Dec 4, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_94b430bc04eee818af4dca8eb55a90f6fedb222d.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_94b430bc04eee818af4dca8eb55a90f6fedb222d.600x338.jpg?t=1548461376
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_b04d7feace84502e62e0dc2243544b80b09b17e4.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_b04d7feace84502e62e0dc2243544b80b09b17e4.600x338.jpg?t=1548461376
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_c070a9bccfc14eff3da1fe44316941db0c3df39f.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_c070a9bccfc14eff3da1fe44316941db0c3df39f.600x338.jpg?t=1548461376
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_12d5f04e05a306dc3392259696ac406d10a7e8d3.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_12d5f04e05a306dc3392259696ac406d10a7e8d3.600x338.jpg?t=1548461376
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_cb1a2b0a1da497de6b6958c6579defd74f1c4e53.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_cb1a2b0a1da497de6b6958c6579defd74f1c4e53.600x338.jpg?t=1548461376
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_65a6ae213c275d93451302fb9201b56713daefd4.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_65a6ae213c275d93451302fb9201b56713daefd4.600x338.jpg?t=1548461376
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_e7e868f52a2a5f665e17b3f027112cd07b426ed2.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_e7e868f52a2a5f665e17b3f027112cd07b426ed2.600x338.jpg?t=1548461376
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_63ec73baa067ff3e1765df28a735c5190eac1e51.1920x1080.jpg?t=1548461376
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966210/ss_63ec73baa067ff3e1765df28a735c5190eac1e51.600x338.jpg?t=1548461376
+    short_description: "Christmas is just around the corner and it\u2019s time to\
+      \ decorate! Tippy Tree is a virtual reality puzzle game that has you decorate\
+      \ the tippiest of trees. Celebrate the holiday season with trinkets aplenty,\
+      \ but watch out, without careful planning, all of your work may come crashing\
+      \ down!"
+    steam_appid: 966210
+    support_info:
+      email: support@mythicalcitygames.com
+      url: http://www.mythicalcitygames.com/contact-us.html
+    supported_languages: English
+    type: game
+    website: http://www.mythicalcitygames.com/tippy-tree.html
+  success: true
+reviews:
+  cursor: AoJw6ZaJzfYCe/SGvQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 1
+    total_positive: 5
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1543964103
+      num_games_owned: 331
+      num_reviews: 15
+      playtime_at_review: 12
+      playtime_forever: 12
+      playtime_last_two_weeks: 0
+      steamid: '76561198065078015'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83113803'
+    review: "[table]\n[tr]\n[td][h1][i]\u266BT\xE4nd ett ljus \u266B [/i][/h1]\n[h1]\u26AA\
+      \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\
+      \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\
+      \u2500\u2500\u2500[/h1]\n\u2800\u2590\u2590 \u2800\u25BA\u258F \u2800\u2800\u2500\
+      \u2500\u25CB\u2500\u2004\U0001F50A \u2800\u2080:\u2080\u2080 / \u2083:\u2085\
+      \u2080 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\
+      \u2800\u2800\u2800\u2800\u1D34\u1D30\u2699 \u2750 \u228F\u2290[/td]\n \nhttps://youtu.be/wfW2gzNUf-U"
+    steam_purchase: true
+    timestamp_created: 1608903545
+    timestamp_updated: 1608903866
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

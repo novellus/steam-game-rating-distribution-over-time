@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: "Official Br\xFCtal Legend Soundtrack by Peter McConnell."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/225270/page_bg_generated_v6b.jpg?t=1581553512
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Official Br\xFCtal Legend Soundtrack by Peter McConnell."
+    developers:
+    - Double Fine Productions
+    fullgame:
+      appid: '225260'
+      name: Brutal Legend
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/225270/header.jpg?t=1581553512
+    is_free: false
+    legal_notice: "\xA9 and \u2122 2013 Double Fine Productions, Inc. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Brutal Legend Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Brutal Legend Original Soundtrack - $6.99
+        packageid: 25580
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Brutal Legend Soundtrack
+    packages:
+    - 25580
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Double Fine Productions
+    release_date:
+      coming_soon: false
+      date: Feb 13, 2013
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/225270/ss_3616f478d711cef8a95bb3e7379130dd0575d63e.1920x1080.jpg?t=1581553512
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/225270/ss_3616f478d711cef8a95bb3e7379130dd0575d63e.600x338.jpg?t=1581553512
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/225270/ss_261753f068be4176f11a7e6a875ebe7ccbeff7a6.1920x1080.jpg?t=1581553512
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/225270/ss_261753f068be4176f11a7e6a875ebe7ccbeff7a6.600x338.jpg?t=1581553512
+    short_description: "Official Br\xFCtal Legend Soundtrack by Peter McConnell."
+    steam_appid: 225270
+    support_info:
+      email: support@doublefine.com
+      url: http://support.doublefine.com/
+    supported_languages: English<strong>*</strong>, German, French, Italian, Spanish
+      - Spain<br><strong>*</strong>languages with full audio support
+    type: music
+    website: http://www.doublefine.com/
+  success: true
+reviews:
+  cursor: AoJwuueWofYCeY6WuAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 7
+    total_positive: 43
+    total_reviews: 50
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2321
+      num_reviews: 248
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198184596858'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81834217'
+    review: It is Metal, it is enough to say and it is a must HAVE!
+    steam_purchase: true
+    timestamp_created: 1607431044
+    timestamp_updated: 1607431044
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.519999980926513672'
+    written_during_early_access: false
+  success: 1

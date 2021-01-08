@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/403320/page_bg_generated_v6b.jpg?t=1447378072
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: VR Support
+      id: 31
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Ape Law
+    fullgame:
+      appid: '355860'
+      name: 'Albino Lullaby: Episode 1'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/403320/header.jpg?t=1447378072
+    is_free: false
+    legal_notice: "\xA9 2015 Ape Law, LLC. All rights reserved. Albino Lullaby and\
+      \ all characters, their distinctive likenesses, and related elements are the\
+      \ property of Ape Law, LLC \xA9 2015."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Albino Lullaby: Episode 1 (Official Video Game Soundtrack)'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Albino Lullaby: Episode 1 (Official Video Game Soundtrack) -
+          $9.99'
+        packageid: 78869
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: 'Buy Albino Lullaby: Episode 1 (Official Video Game Soundtrack)'
+    packages:
+    - 78869
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 14, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/403320/ss_b3bc8464a9bf85354790afa98b7ee47277a7edb9.1920x1080.jpg?t=1447378072
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/403320/ss_b3bc8464a9bf85354790afa98b7ee47277a7edb9.600x338.jpg?t=1447378072
+    short_description: ''
+    steam_appid: 403320
+    support_info:
+      email: contact@apelaw.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://AlbinoLullaby.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

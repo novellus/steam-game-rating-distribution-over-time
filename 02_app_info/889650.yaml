@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/889650/page_bg_generated_v6b.jpg?t=1535550359
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids:
+      - 5
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '889110'
+      name: The Sentinel Chronicles
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/889650/header.jpg?t=1535550359
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Sentinel Chronicles: Prelude to Darkness'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "The Sentinel Chronicles: Prelude to Darkness - 0,79\u20AC"
+        packageid: 283577
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 79
+      title: 'Buy The Sentinel Chronicles: Prelude to Darkness'
+    packages:
+    - 283577
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: EUR
+      discount_percent: 0
+      final: 79
+      final_formatted: "0,79\u20AC"
+      initial: 79
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: 5 Jul, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_8ad69f856438f6377ac82022489e6e00979d5cc1.1920x1080.jpg?t=1535550359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_8ad69f856438f6377ac82022489e6e00979d5cc1.600x338.jpg?t=1535550359
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_c1446f39c280fd036bdd4010bfc6e43b2b6b1368.1920x1080.jpg?t=1535550359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_c1446f39c280fd036bdd4010bfc6e43b2b6b1368.600x338.jpg?t=1535550359
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_2d8958d20ab2220ee23049a1e4d3d65500e4860f.1920x1080.jpg?t=1535550359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_2d8958d20ab2220ee23049a1e4d3d65500e4860f.600x338.jpg?t=1535550359
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_c62df178a162150da85868dff4c52e2f18aa1832.1920x1080.jpg?t=1535550359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889650/ss_c62df178a162150da85868dff4c52e2f18aa1832.600x338.jpg?t=1535550359
+    short_description: In the aftermath of the Doomsday weapon the world's most hunted
+      terrorist is on the run. Her name is Ruth and she is about to give birth. With
+      drones and snipers hot on her tail she must take refuge and bring her child
+      into a shattered world.
+    steam_appid: 889650
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

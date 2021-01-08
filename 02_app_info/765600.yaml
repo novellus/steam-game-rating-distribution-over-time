@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">PATHOS Official Soundtrack by Tim Halbert</h2><br>The
+      original soundtrack to PATHOS by Tim Halbert.<br>Includes all 10 tracks from
+      PATHOS in mp3 format.<h2 class="bb_tag">Track Listing:</h2><ul class="bb_ul"><li>1.
+      I Dream of 2019<br></li><li>2. City, Awakening<br></li><li>3. Metro (Part One)<br></li><li>4.
+      The Rich-Poor Divide<br></li><li>5. My Last Few Credits<br></li><li>6. Entrare
+      in Appartamento<br></li><li>7. Tromba delle Scale<br></li><li>8. Metro (Part
+      Two)<br></li><li>9. Anx<br></li><li>10. A Handful of Atoms</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/765600/page_bg_generated_v6b.jpg?t=1518986603
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">PATHOS Official Soundtrack by Tim Halbert</h2><br>The
+      original soundtrack to PATHOS by Tim Halbert.<br>Includes all 10 tracks from
+      PATHOS in mp3 format.<h2 class="bb_tag">Track Listing:</h2><ul class="bb_ul"><li>1.
+      I Dream of 2019<br></li><li>2. City, Awakening<br></li><li>3. Metro (Part One)<br></li><li>4.
+      The Rich-Poor Divide<br></li><li>5. My Last Few Credits<br></li><li>6. Entrare
+      in Appartamento<br></li><li>7. Tromba delle Scale<br></li><li>8. Metro (Part
+      Two)<br></li><li>9. Anx<br></li><li>10. A Handful of Atoms</li></ul>
+    developers:
+    - Broguelike
+    fullgame:
+      appid: '679300'
+      name: PATHOS
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/765600/header.jpg?t=1518986603
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: PATHOS Official Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: PATHOS Official Soundtrack - $1.99
+        packageid: 226351
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy PATHOS Official Soundtrack
+    packages:
+    - 226351
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 500 Mhz<br></li><li><strong>Graphics:</strong>
+        Integrated</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 7, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/765600/ss_e664ee166bf1a16a9eb476c3f19a6c954f20464b.1920x1080.jpg?t=1518986603
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/765600/ss_e664ee166bf1a16a9eb476c3f19a6c954f20464b.600x338.jpg?t=1518986603
+    short_description: PATHOS Official Soundtrack
+    steam_appid: 765600
+    support_info:
+      email: contact@playpathos.com
+      url: http://playpathos.com
+    supported_languages: English
+    type: dlc
+    website: http://timhalbert.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

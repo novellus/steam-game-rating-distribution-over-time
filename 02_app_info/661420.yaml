@@ -1,0 +1,196 @@
+details:
+  data:
+    about_the_game: "Gameplay <br />\r\n<br />\r\nEach map has a key that needs to\
+      \ be found to continue, kill all enemies and collect all coins, including hidden\
+      \ ones before the time runs out to get the maximum score of each map. Difficulty\
+      \ increases with each level.<br />\r\n<br />\r\n<br />\r\nKey Features:<br />\r\
+      \n<br />\r\n16 levels full of enemies and secrets.<br />\r\n<br />\r\nCollect\
+      \ coins, magic and health<br />\r\n<br />\r\nSolve puzzles"
+    achievements:
+      highlighted:
+      - name: You do not buy anything
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/385aab3541719b36063a3b97d5b57f18787fe696.jpg
+      - name: The king of coins
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/f8c73d734a7353411e45fd3ee540255c57121aca.jpg
+      - name: Let's shop
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/31454b5a7bb4e1131816253ac0fb29afead31efc.jpg
+      - name: Too easy
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/48ac30519f88473e2ef960e14874011ef42d9c9e.jpg
+      - name: I kill cute little pets.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/84112744e11bf4618a404a08f302ad016f97b76d.jpg
+      - name: Completed level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/012ebf2a3c130aa8ddab03f8ad7b9b4fe107ee4b.jpg
+      - name: Completed level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/83f4f15aa7c8dbf9fdd1828f8a801b0815275918.jpg
+      - name: Completed level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/e9f9651d781ec43a69944a2e31db4aff609841a6.jpg
+      - name: Completed level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/c56ad71ad589906b8da9683f01b24abcbfbad9e4.jpg
+      - name: Completed level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/661420/2021a582d01a3d1b018b3b3a70ca8b350d837d1d.jpg
+      total: 23
+    background: https://steamcdn-a.akamaihd.net/steam/apps/661420/page_bg_generated_v6b.jpg?t=1508549224
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Gameplay <br />\r\n<br />\r\nEach map has a key that needs\
+      \ to be found to continue, kill all enemies and collect all coins, including\
+      \ hidden ones before the time runs out to get the maximum score of each map.\
+      \ Difficulty increases with each level.<br />\r\n<br />\r\n<br />\r\nKey Features:<br\
+      \ />\r\n<br />\r\n16 levels full of enemies and secrets.<br />\r\n<br />\r\n\
+      Collect coins, magic and health<br />\r\n<br />\r\nSolve puzzles"
+    developers:
+    - LSTGames
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/661420/header.jpg?t=1508549224
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256691745
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256691745/movie480.mp4?t=1508549221
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256691745/movie_max.mp4?t=1508549221
+      name: trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256691745/movie.293x165.jpg?t=1508549221
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256691745/movie480.webm?t=1508549221
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256691745/movie_max.webm?t=1508549221
+    name: Run For Coins
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Run For Coins - $3.99
+        packageid: 187498
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Run For Coins
+    packages:
+    - 187498
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> Windows\
+        \ 7 32bit or 64bit<br></li><li><strong>Processor:</strong> Intel Core 2 Duo\
+        \ 2.0 GHz or AMD, 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 4\
+        \ GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\xAE GTX\
+        \ 460, ATI Radeon\u2122 HD 4850, ou Intel\xAE HD Graphics 4400<br></li><li><strong>DirectX:</strong>\
+        \ Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - LSTGames
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_8b33f02aef38e87178e6d6136689d621be3a1989.1920x1080.jpg?t=1508549224
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_8b33f02aef38e87178e6d6136689d621be3a1989.600x338.jpg?t=1508549224
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_99a7b9d4fe47195a2fcf9b3dca59aed99628e680.1920x1080.jpg?t=1508549224
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_99a7b9d4fe47195a2fcf9b3dca59aed99628e680.600x338.jpg?t=1508549224
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_392cf4905ce728a681755f44fa93107614006abe.1920x1080.jpg?t=1508549224
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_392cf4905ce728a681755f44fa93107614006abe.600x338.jpg?t=1508549224
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_770807379b708c50b610ad4a93f892e2635ea355.1920x1080.jpg?t=1508549224
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_770807379b708c50b610ad4a93f892e2635ea355.600x338.jpg?t=1508549224
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_3a0a79e6a745d46fb16033324191da87d8e45610.1920x1080.jpg?t=1508549224
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_3a0a79e6a745d46fb16033324191da87d8e45610.600x338.jpg?t=1508549224
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_997ea5479bf5f0f0fa4d800d13514a01644fe133.1920x1080.jpg?t=1508549224
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_997ea5479bf5f0f0fa4d800d13514a01644fe133.600x338.jpg?t=1508549224
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_965d2fd8c0dd07fea95250b0677a1d6086493dbe.1920x1080.jpg?t=1508549224
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661420/ss_965d2fd8c0dd07fea95250b0677a1d6086493dbe.600x338.jpg?t=1508549224
+    short_description: The objective of the game is to find all the coins and kill
+      all the enemies, take the key and advance to the next map before the time finishes.
+      Finish the map and make your best score.
+    steam_appid: 661420
+    support_info:
+      email: lstgamessuporte@gmail.com
+      url: ''
+    supported_languages: English, Portuguese - Brazil
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ49d2Fte0CfPvv0gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1569615326
+      num_games_owned: 69
+      num_reviews: 10
+      playtime_at_review: 185
+      playtime_forever: 189
+      playtime_last_two_weeks: 0
+      steamid: '76561198365789806'
+    comment_count: 0
+    language: swedish
+    received_for_free: false
+    recommendationid: '55279548'
+    review: "Love the Idea of the gem, the setting and the playful design. but it\
+      \ lacks lot of things. don\xB4t understand why i collect the coins for, don\xB4\
+      t gain anyting, and when my weapon power is out i have to die so a can gain\
+      \ new. and it would be logic if some of the things u collect gave u umore time\
+      \ or more weapon power. it\xB4s just weird. wish i\xB4ve got it for free"
+    steam_purchase: true
+    timestamp_created: 1569442951
+    timestamp_updated: 1569442951
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

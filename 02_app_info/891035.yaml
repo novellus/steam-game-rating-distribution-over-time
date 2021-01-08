@@ -1,0 +1,124 @@
+details:
+  data:
+    about_the_game: "<strong>AnyWay! - Soundtrack!</strong><br>9 in-game soundtracks<br><br><ul\
+      \ class=\"bb_ul\"><li> !AnyWay! 1.0.3.0 Opening Theme\t\t\t0:48\t<br></li><li>\
+      \ !AnyWay! Soundtrack#1\t\t\t\t\t5:01<br></li><li> !AnyWay! Soundtrack#2\t\t\
+      \t\t\t3:41<br></li><li>\t!AnyWay! Realidad invertida\t\t\t\t1:54<br></li><li>\t\
+      !AnyWay! 1.0.2.0 Opening Theme\t\t\t2:49<br></li><li>\t!AnyWay! 1.0.3.1 - Calling\
+      \ the founders\t1:47<br></li><li>\t!AnyWay! 1.0.3.1 - Outburst\t\t\t\t1:36<br></li><li>\t\
+      !AnyWay! 1.0.3.1 - Prayer Slayer\t\t\t1:32<br></li><li>\t!AnyWay! 1.0.3.1 -\
+      \ \u0421ompadre cube \t\t1:07<br><ul class=\"bb_ul\"></ul></li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/891035/page_bg_generated_v6b.jpg?t=1581625372
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong>AnyWay! - Soundtrack!</strong><br>9 in-game soundtracks<br><br><ul\
+      \ class=\"bb_ul\"><li> !AnyWay! 1.0.3.0 Opening Theme\t\t\t0:48\t<br></li><li>\
+      \ !AnyWay! Soundtrack#1\t\t\t\t\t5:01<br></li><li> !AnyWay! Soundtrack#2\t\t\
+      \t\t\t3:41<br></li><li>\t!AnyWay! Realidad invertida\t\t\t\t1:54<br></li><li>\t\
+      !AnyWay! 1.0.2.0 Opening Theme\t\t\t2:49<br></li><li>\t!AnyWay! 1.0.3.1 - Calling\
+      \ the founders\t1:47<br></li><li>\t!AnyWay! 1.0.3.1 - Outburst\t\t\t\t1:36<br></li><li>\t\
+      !AnyWay! 1.0.3.1 - Prayer Slayer\t\t\t1:32<br></li><li>\t!AnyWay! 1.0.3.1 -\
+      \ \u0421ompadre cube \t\t1:07<br><ul class=\"bb_ul\"></ul></li></ul>"
+    developers:
+    - EYEFRONT
+    fullgame:
+      appid: '866510'
+      name: '!AnyWay!'
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/891035/header.jpg?t=1581625372
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: AnyWay! - Soundtrack!
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: AnyWay! - Soundtrack! - $0.99
+        packageid: 284200
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy AnyWay! - Soundtrack!
+    packages:
+    - 284200
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 50 MB available space<br></li><li><strong>Additional Notes:</strong>
+        Only High Quality</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - EYEFRONT
+    release_date:
+      coming_soon: false
+      date: Jun 28, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/891035/ss_904417a258dfc7a0de079d1fa6e433f3e8e57777.1920x1080.jpg?t=1581625372
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/891035/ss_904417a258dfc7a0de079d1fa6e433f3e8e57777.600x338.jpg?t=1581625372
+    short_description: AnyWay! - Soundtrack! 9 in-game soundtracks.
+    steam_appid: 891035
+    support_info:
+      email: sassygamesstudio@gmail.com
+      url: ''
+    supported_languages: English, Russian, French, Italian, German, Polish, Ukrainian,
+      Swedish
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4x/zI/OYCcvK1rgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 442
+      num_reviews: 666
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198355752399'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '45723426'
+    review: "\u043D\u043E\u0440\u043C DLC"
+    steam_purchase: true
+    timestamp_created: 1541778171
+    timestamp_updated: 1541778171
+    voted_up: true
+    votes_funny: 1
+    votes_up: 2
+    weighted_vote_score: '0.536784708499908447'
+    written_during_early_access: false
+  success: 1

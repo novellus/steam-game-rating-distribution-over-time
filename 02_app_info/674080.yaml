@@ -1,0 +1,75 @@
+details:
+  data:
+    about_the_game: This demo shows the fundamental gameplay mechanics of Stick Nightmare.
+      There are 3 stages plus the presentation for the first Boss. The final game
+      includes cutscenes, more than 30 stages and 4 bosses.
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: This demo shows the fundamental gameplay mechanics of Stick
+      Nightmare. There are 3 stages plus the presentation for the first Boss. The
+      final game includes cutscenes, more than 30 stages and 4 bosses.
+    developers:
+    - Pedro Castro Menezes
+    fullgame:
+      appid: '652610'
+      name: Stick Nightmare
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/674080/header.jpg?t=1499383117
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04 or newer<br></li><li><strong>Processor:</strong> Core i3 Sandy
+        Bridge or equivalent, 2.4Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Any video with opengles 2.1 support<br></li><li><strong>Storage:</strong>
+        141 MB available space</li></ul>
+    mac_requirements: []
+    name: Stick Nightmare Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8 or above<br></li><li><strong>Processor:</strong> Core i3 Sandy Bridge
+        or equivalent, 2.4Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Any video with opengles 2.1 support<br></li><li><strong>Storage:</strong>
+        141 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - Pedro Castro Menezes
+    release_date:
+      coming_soon: false
+      date: Jul 6, 2017
+    required_age: 0
+    short_description: Have a look at 3 stages of Stick Nightmare!
+    steam_appid: 674080
+    support_info:
+      email: nonamefornowsoft@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

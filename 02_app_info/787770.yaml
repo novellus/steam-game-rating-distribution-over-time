@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: "This DLC include all soundtrack from game(1 track). <br />\r\n\
+      Track called &quot;Ghost88&quot; and its duration 4 minutes 19 seconds. Available\
+      \ in &quot;WAV&quot; format."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/787770/page_bg_generated_v6b.jpg?t=1517349700
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC include all soundtrack from game(1 track). <br\
+      \ />\r\nTrack called &quot;Ghost88&quot; and its duration 4 minutes 19 seconds.\
+      \ Available in &quot;WAV&quot; format."
+    developers:
+    - Nikita "Ghost_RUS"
+    fullgame:
+      appid: '786670'
+      name: Loot Box Simulator 20!8
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/787770/header.jpg?t=1517349700
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Loot Box Simulator 20!8 - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Loot Box Simulator 20!8 - OST - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 238022
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy Loot Box Simulator 20!8 - OST
+    packages:
+    - 238022
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP\Vista\7\8\10<br></li><li><strong>Processor:</strong> 1.2GHz processor<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Additional Notes:</strong> minimum
+        1280x720 screen resolution</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Ghost_RUS Games
+    release_date:
+      coming_soon: false
+      date: Jan 30, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787770/ss_56efebd7954dbc8f64479bb4d8852f3615d6d764.1920x1080.jpg?t=1517349700
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787770/ss_56efebd7954dbc8f64479bb4d8852f3615d6d764.600x338.jpg?t=1517349700
+    short_description: This DLC include all soundtrack from game(1 track)
+    steam_appid: 787770
+    support_info:
+      email: ghostnikitaeagle@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

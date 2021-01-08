@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '826210'
+      name: The Ancient Magus' Bride
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/826210/header.jpg?t=1553554376
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Ancient Magus'' Bride: None so deaf as those who will not hear'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Ancient Magus'' Bride: None so deaf as those who will not
+          hear - $1.99'
+        packageid: 253845
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy The Ancient Magus'' Bride: None so deaf as those who will not hear'
+    packages:
+    - 253845
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 20, 2018
+    required_age: 0
+    short_description: 'With the church''s requests fulfilled, things were supposed
+      to go back to normal. But Elias has been acting strange since the last request:
+      he''d vanished on the first morning after Chise had spent a night in his room.'
+    steam_appid: 826248
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw4rjevekCdfX/vAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1552555031
+      num_games_owned: 41
+      num_reviews: 6
+      playtime_at_review: 34
+      playtime_forever: 34
+      playtime_last_two_weeks: 0
+      steamid: '76561198418666085'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '49545045'
+    review: "\u4E0D\u9519\u7684\u5267\u60C5\uFF0C\u4F46\u798F\u5229\u53D1\u7684\u6709\
+      \u4E9B\u7A81\u5140\uFF0C\u770B\u7740\u770B\u7740\u672A\u514D\u6C57\u989C\u3002\
+      \u3002\u3002\u4E0D\u80FD\u627E\u4E2A\u66F4\u9002\u5F53\u7684\u65F6\u95F4\u70B9\
+      \u548C\u65B9\u5F0F\u53D1\u798F\u5229\u4E48\u3002\u3002\u3002"
+    steam_purchase: true
+    timestamp_created: 1552554772
+    timestamp_updated: 1552554772
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

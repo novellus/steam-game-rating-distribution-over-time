@@ -1,0 +1,229 @@
+details:
+  data:
+    about_the_game: "Advanced creator of labyrinth can generate endless amount of\
+      \ 3d mazes. You will have a lot of fun exploring them. This version of the game\
+      \ creates labyrinths that are clearly visible and you can see and plan part\
+      \ of the way.<br />\r\n<br />\r\nThe maze is built and works according to certain\
+      \ rules:<br />\r\n    \u2022 stairs between floors can be installed in 9 places<br\
+      \ />\r\n    \u2022 the maze is divided into stages that are gradually becoming\
+      \ more complicated<br />\r\n    \u2022 To go through the stage, you need to\
+      \ activate the key and find the stairs to the next stage<br />\r\n    \u2022\
+      \ until you have completed all the tasks of the current stage, the tasks of\
+      \ the next stage are inactive.<br />\r\n    \u2022 each visited maze cell changes\
+      \ color to yellow.<br />\r\n<br />\r\nThe game does not contain 3d models, they\
+      \ are all created from nothing at level generation. For its engine, this is\
+      \ an experimental function, you can rarely see it in commercial projects. The\
+      \ consequence of this, for example, is that the game archive takes up only 20\
+      \ megabytes. If in the game you press the backspace key, you will see how many\
+      \ nodes and triangles are used in this maze and how many objects they are combined.<br\
+      \ />\r\nThis game is fully developed by one person in half a year. I am not\
+      \ a programmer and was completely unfamiliar with either the Unity3D engine\
+      \ or the C# programming language and was engaged in development only in my free\
+      \ time.<br />\r\nI plan to add many ideas to this project, including new 3D\
+      \ structures, jump puzzles, and active obstacles."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1283920/page_bg_generated_v6b.jpg?t=1588385184
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1285470
+      description: ''
+    detailed_description: "<h1>About update 1 may.</h1><p>Added new type of labyrinth\
+      \ - space base.</p><br><h1>About the Game</h1>Advanced creator of labyrinth\
+      \ can generate endless amount of 3d mazes. You will have a lot of fun exploring\
+      \ them. This version of the game creates labyrinths that are clearly visible\
+      \ and you can see and plan part of the way.\r\n\r\nThe maze is built and works\
+      \ according to certain rules:\r\n    \u2022 stairs between floors can be installed\
+      \ in 9 places\r\n    \u2022 the maze is divided into stages that are gradually\
+      \ becoming more complicated\r\n    \u2022 To go through the stage, you need\
+      \ to activate the key and find the stairs to the next stage\r\n    \u2022 until\
+      \ you have completed all the tasks of the current stage, the tasks of the next\
+      \ stage are inactive.\r\n    \u2022 each visited maze cell changes color to\
+      \ yellow.\r\n\r\nThe game does not contain 3d models, they are all created from\
+      \ nothing at level generation. For its engine, this is an experimental function,\
+      \ you can rarely see it in commercial projects. The consequence of this, for\
+      \ example, is that the game archive takes up only 20 megabytes. If in the game\
+      \ you press the backspace key, you will see how many nodes and triangles are\
+      \ used in this maze and how many objects they are combined.\r\nThis game is\
+      \ fully developed by one person in half a year. I am not a programmer and was\
+      \ completely unfamiliar with either the Unity3D engine or the C# programming\
+      \ language and was engaged in development only in my free time.\r\nI plan to\
+      \ add many ideas to this project, including new 3D structures, jump puzzles,\
+      \ and active obstacles."
+    developers:
+    - Gennady Zatsepin
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1283920/header.jpg?t=1588385184
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Processor:</strong> x64<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong>
+        150 MB available space<br></li><li><strong>Sound Card:</strong> any<br></li><li><strong>Additional
+        Notes:</strong> tested Ubuntu 19.10 x64</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Processor:</strong> x64<br></li><li><strong>Storage:</strong>
+        4 GB available space<br></li><li><strong>Sound Card:</strong> any<br></li><li><strong>Additional
+        Notes:</strong> not tested, try demo</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256783938
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256783938/movie480.mp4?t=1588351456
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256783938/movie_max.mp4?t=1588351456
+      name: trailer_May_2020
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256783938/movie.293x165.jpg?t=1588351456
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256783938/movie480_vp9.webm?t=1588351456
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256783938/movie_max_vp9.webm?t=1588351456
+    name: Advanced creator of labyrinths
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Advanced creator of labyrinths - $4.99
+        packageid: 447428
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Advanced creator of labyrinths
+    packages:
+    - 447428
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> 8, 10<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound
+        Card:</strong> any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Gennady Zatsepin
+    release_date:
+      coming_soon: false
+      date: Apr 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_a9637c23885fcf76b72279033237709d70f05158.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_a9637c23885fcf76b72279033237709d70f05158.600x338.jpg?t=1588385184
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_72ef2da33a7030fd526a4e77ea639fb50cd818f7.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_72ef2da33a7030fd526a4e77ea639fb50cd818f7.600x338.jpg?t=1588385184
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_a1ada97968412216cd731a1e82db6bf00b2ffdce.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_a1ada97968412216cd731a1e82db6bf00b2ffdce.600x338.jpg?t=1588385184
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_c2e29e7412e2e6953286a7f480c61ad354451ea7.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_c2e29e7412e2e6953286a7f480c61ad354451ea7.600x338.jpg?t=1588385184
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_acdfdfbb303eea09c29ed5ef1c6c685456a6d1b5.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_acdfdfbb303eea09c29ed5ef1c6c685456a6d1b5.600x338.jpg?t=1588385184
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_540703ecf6479c5400fcf17a6ca1045f8324c163.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_540703ecf6479c5400fcf17a6ca1045f8324c163.600x338.jpg?t=1588385184
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_5d3cc5025c7f5bf37928c48abb24ba0008824f24.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_5d3cc5025c7f5bf37928c48abb24ba0008824f24.600x338.jpg?t=1588385184
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_1ed50aa5b90bd7fbfda8556cb9da9e61b0173097.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_1ed50aa5b90bd7fbfda8556cb9da9e61b0173097.600x338.jpg?t=1588385184
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_466cb69d415faba6bd9f693bfb58ac6df356f11c.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_466cb69d415faba6bd9f693bfb58ac6df356f11c.600x338.jpg?t=1588385184
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_ee204b3977dc6a7b927f09c4ad92c4b7ce6ab704.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_ee204b3977dc6a7b927f09c4ad92c4b7ce6ab704.600x338.jpg?t=1588385184
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_90be6ac33424d6f07acaa7892d667845f2045a97.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_90be6ac33424d6f07acaa7892d667845f2045a97.600x338.jpg?t=1588385184
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_f2b08517cf67f6cc8498f7ec7a96e7ce3b007781.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_f2b08517cf67f6cc8498f7ec7a96e7ce3b007781.600x338.jpg?t=1588385184
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_24a280916b47478e80251bfd300e7b0d493641e7.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_24a280916b47478e80251bfd300e7b0d493641e7.600x338.jpg?t=1588385184
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_5739dd93207c06f6ec32dd83b7d0d155d8a1c97b.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_5739dd93207c06f6ec32dd83b7d0d155d8a1c97b.600x338.jpg?t=1588385184
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_00f062eab41f7b69b030c216cc5df5c92418b00b.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_00f062eab41f7b69b030c216cc5df5c92418b00b.600x338.jpg?t=1588385184
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_2abbea0dd3073df05d19e08dc08cceefc69b3c6f.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_2abbea0dd3073df05d19e08dc08cceefc69b3c6f.600x338.jpg?t=1588385184
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_c55c60cb1877ff1bf2284a4284a2fb12042349a2.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_c55c60cb1877ff1bf2284a4284a2fb12042349a2.600x338.jpg?t=1588385184
+    - id: 17
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_593ffbb48a8349216bfbe81503ae5d5323807d2b.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_593ffbb48a8349216bfbe81503ae5d5323807d2b.600x338.jpg?t=1588385184
+    - id: 18
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_c5113f2662c60340b1860671e556a8d64ad5c356.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_c5113f2662c60340b1860671e556a8d64ad5c356.600x338.jpg?t=1588385184
+    - id: 19
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_26fbad06b9f0d1170531e315b8bf63e56c6987ca.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_26fbad06b9f0d1170531e315b8bf63e56c6987ca.600x338.jpg?t=1588385184
+    - id: 20
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_2db1ff0ba331bd966a25ee806c7cecf67eb45e4e.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_2db1ff0ba331bd966a25ee806c7cecf67eb45e4e.600x338.jpg?t=1588385184
+    - id: 21
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_68112e81f0da36c44e7dfae0d575d21d7cc6889d.1920x1080.jpg?t=1588385184
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1283920/ss_68112e81f0da36c44e7dfae0d575d21d7cc6889d.600x338.jpg?t=1588385184
+    short_description: Advanced creator of labyrinth can generate endless amount of
+      3d mazes. You will have a lot of fun exploring them.
+    steam_appid: 1283920
+    support_info:
+      email: shalm@protonmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

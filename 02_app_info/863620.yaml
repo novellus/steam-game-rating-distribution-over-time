@@ -1,0 +1,134 @@
+details:
+  data:
+    about_the_game: "Unlock the Frozen Tome and enter into the Frentir Chasm! <br\
+      \ />\r\n<br />\r\n- Unlock a whole new region with over 20 new enemies<br />\r\
+      \n- Over 150 new weapons, armor, and materials<br />\r\n- Level cap is increased\
+      \ to 60<br />\r\n- Heroes can now prestige to tier 2"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/863620/page_bg_generated_v6b.jpg?t=1539050898
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Unlock the Frozen Tome and enter into the Frentir Chasm!\
+      \ <br />\r\n<br />\r\n- Unlock a whole new region with over 20 new enemies<br\
+      \ />\r\n- Over 150 new weapons, armor, and materials<br />\r\n- Level cap is\
+      \ increased to 60<br />\r\n- Heroes can now prestige to tier 2"
+    developers:
+    - Retora Games
+    fullgame:
+      appid: '346750'
+      name: Merchant
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/863620/header.jpg?t=1539050898
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Merchant - Frozen Tome
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Merchant - Frozen Tome - $2.99
+        packageid: 272226
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Merchant - Frozen Tome
+    packages:
+    - 272226
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10, Windows 8, or Windows 7<br></li><li><strong>Processor:</strong>
+        1 GHz processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.1 or higher<br></li><li><strong>Storage:</strong> 100 MB available
+        space<br></li><li><strong>Additional Notes:</strong> Merchant is potato-playable</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10, Windows 8, or Windows 7<br></li><li><strong>Processor:</strong>
+        2 GHz processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.1 or higher<br></li><li><strong>Storage:</strong> 200 MB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Retora Games
+    release_date:
+      coming_soon: false
+      date: Oct 8, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/863620/ss_62aac76740b2ed6d753e2bcf7e609cef80f824bc.1920x1080.jpg?t=1539050898
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/863620/ss_62aac76740b2ed6d753e2bcf7e609cef80f824bc.600x338.jpg?t=1539050898
+    short_description: Unlock the Frozen Tome and enter into the Frentir Chasm!
+    steam_appid: 863620
+    support_info:
+      email: Support@RetoraGames.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: https://www.retoragames.com/
+  success: true
+reviews:
+  cursor: AoJw7uePq+gCdrG+uAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 78
+      num_reviews: 9
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198024308775'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '48362262'
+    review: 'Warning ! if you buy the extension you will not be able to synchronize
+      your game on your smartphone.  Must play on steam.
+
+      3 months that I wait for a solution of the dev unanswered.'
+    steam_purchase: true
+    timestamp_created: 1547635026
+    timestamp_updated: 1547635212
+    voted_up: false
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.52173912525177002'
+    written_during_early_access: false
+  success: 1

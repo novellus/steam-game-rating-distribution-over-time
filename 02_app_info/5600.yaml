@@ -1,0 +1,64 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - 4A Games
+    fullgame:
+      appid: '43110'
+      name: Uninitialized
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/43110/header.jpg?t=0
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 5600
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/5600/movie480.mp4?t=1447352924
+        max: http://steamcdn-a.akamaihd.net/steam/apps/5600/movie_max.mp4?t=1447352924
+      name: Metro 2033 Third Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/5600/movie.293x165.jpg?t=1447352924
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/5600/movie480.webm?t=1447352924
+        max: http://steamcdn-a.akamaihd.net/steam/apps/5600/movie_max.webm?t=1447352924
+    name: Metro 2033 Third Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - THQ
+    release_date:
+      coming_soon: false
+      date: Feb 9, 2010
+    required_age: 0
+    short_description: ''
+    steam_appid: 5600
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

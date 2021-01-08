@@ -1,0 +1,203 @@
+details:
+  data:
+    about_the_game: 'The Car Hacking Village (CHV)''s Trunk Escape experience is based
+      on the real Trunk Escape CTF challenge hosted at DefCon.  In the traditional
+      meatspace challenge, contestants would sign up and pick items they wanted in
+      the trunk.  We would then bind them and toss them in the trunk with a 30 minute
+      timer to escape.  There were flags along the way for additional points.<br><br>We
+      have converted that challenge to a VR Experience.  This year, 2020, due to the
+      Covid-19 pandemic we are playing it safe and converting the Defcon Car Hacking
+      Village into a virtual event.  This is just one of the challenges for that event.  In
+      this game you will pick a loadout for youself and be placed in the back of a
+      van.  You will then have to either solve physical puzzles or hack into the CAN
+      bus in order to escape.  If played during Defcon, you can connect to the CTF
+      servers to compete against other hackers.<br><br>Outside of Defcon these challenges
+      will randomly create new solutions.  This will give you additional play even
+      outside of the conference.<br><br><strong>Developers Note:</strong> This is
+      a solo-dev volunteer-time developed game.  Please be patient.  Occulus should
+      work as I''m using OpenXR but I won''t update the steam supported VR headsets
+      until I have had time to fully test it.<br><br><strong>Defcon Safemode Release</strong><br>Defcon
+      28 is the initial release and the first VR game (or any game for that matter)
+      that the Car Hacking Village has ever released.  It was a 1 person, nights and
+      weekend project so lots of things didn''t make the final cut.  Some bugs still
+      survived but should be pretty minor (the points on the watch are wrong).  Please
+      use the Community forums to let me know what worked, didn''t work and what you
+      would like to see in future versions or other game ideas.  If you are on the
+      Defcon discord look for [CHV] zombieCraig in #chv-vr-support-text channel.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1339650/page_bg_generated_v6b.jpg?t=1596765745
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'The Car Hacking Village (CHV)''s Trunk Escape experience
+      is based on the real Trunk Escape CTF challenge hosted at DefCon.  In the traditional
+      meatspace challenge, contestants would sign up and pick items they wanted in
+      the trunk.  We would then bind them and toss them in the trunk with a 30 minute
+      timer to escape.  There were flags along the way for additional points.<br><br>We
+      have converted that challenge to a VR Experience.  This year, 2020, due to the
+      Covid-19 pandemic we are playing it safe and converting the Defcon Car Hacking
+      Village into a virtual event.  This is just one of the challenges for that event.  In
+      this game you will pick a loadout for youself and be placed in the back of a
+      van.  You will then have to either solve physical puzzles or hack into the CAN
+      bus in order to escape.  If played during Defcon, you can connect to the CTF
+      servers to compete against other hackers.<br><br>Outside of Defcon these challenges
+      will randomly create new solutions.  This will give you additional play even
+      outside of the conference.<br><br><strong>Developers Note:</strong> This is
+      a solo-dev volunteer-time developed game.  Please be patient.  Occulus should
+      work as I''m using OpenXR but I won''t update the steam supported VR headsets
+      until I have had time to fully test it.<br><br><strong>Defcon Safemode Release</strong><br>Defcon
+      28 is the initial release and the first VR game (or any game for that matter)
+      that the Car Hacking Village has ever released.  It was a 1 person, nights and
+      weekend project so lots of things didn''t make the final cut.  Some bugs still
+      survived but should be pretty minor (the points on the watch are wrong).  Please
+      use the Community forums to let me know what worked, didn''t work and what you
+      would like to see in future versions or other game ideas.  If you are on the
+      Defcon discord look for [CHV] zombieCraig in #chv-vr-support-text channel.'
+    developers:
+    - Hacktop Studios
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1339650/header.jpg?t=1596765745
+    is_free: false
+    legal_notice: This game is copyrighted (c) 2020 by Hacktop Studios
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Any distribution<br></li><li><strong>Graphics:</strong>
+        Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 1 GB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256791886
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256791886/movie480.mp4?t=1595478069
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256791886/movie_max.mp4?t=1595478069
+      name: Initial Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256791886/movie.293x165.jpg?t=1595478069
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256791886/movie480_vp9.webm?t=1595478069
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256791886/movie_max_vp9.webm?t=1595478069
+    name: 'CHV: VR Trunk Escape'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'CHV: VR Trunk Escape - $2.99'
+        packageid: 468358
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy CHV: VR Trunk Escape'
+    packages:
+    - 468358
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong>
+        Intel Core i5-4590 / AMD FX 8350<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> Graphics: NVIDIA GTX 970 / AMD
+        Radeon R9 290<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>'
+      recommended: '<strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX 8350<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics: NVIDIA GTX 970 /
+        AMD Radeon R9 290</li></ul>'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Hacktop studios
+    release_date:
+      coming_soon: false
+      date: Aug 6, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_e6815060b5620cc94b86af3a94d5418249b792c3.1920x1080.jpg?t=1596765745
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_e6815060b5620cc94b86af3a94d5418249b792c3.600x338.jpg?t=1596765745
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_f00d01686d8e613e9b1bf9e9cf294203b34f8e26.1920x1080.jpg?t=1596765745
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_f00d01686d8e613e9b1bf9e9cf294203b34f8e26.600x338.jpg?t=1596765745
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_08e5a9968c0097b457e37d85e48307fb9e74accb.1920x1080.jpg?t=1596765745
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_08e5a9968c0097b457e37d85e48307fb9e74accb.600x338.jpg?t=1596765745
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_4e22ca6a43527635daa9223713f506149d878c01.1920x1080.jpg?t=1596765745
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_4e22ca6a43527635daa9223713f506149d878c01.600x338.jpg?t=1596765745
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_82f2bb6e605a0d514856452b3b0da6d751eac4c3.1920x1080.jpg?t=1596765745
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1339650/ss_82f2bb6e605a0d514856452b3b0da6d751eac4c3.600x338.jpg?t=1596765745
+    short_description: VR Hacking themed escape room challenge
+    steam_appid: 1339650
+    support_info:
+      email: ''
+      url: carhackingvillage.com
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4ofTgm/UCeLjqnwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 2
+    total_positive: 1
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1599051548
+      num_games_owned: 2623
+      num_reviews: 354
+      playtime_at_review: 19
+      playtime_forever: 19
+      playtime_last_two_weeks: 0
+      steamid: '76561197964636851'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75453320'
+    review: "+ it starts? \n\n-so crappy it's unplayable\n-horrible controls\n-buggy\n\
+      \n1/5\n\nStay away from this it's not even close to being worth $3. Even at\
+      \ free I probably wouldn't touch it. It's so bad it's unplayable. \n\n[Quote]\
+      \ If you liked this review Make sure to [url=https://store.steampowered.com/curator/33220185-VR-Games-and-Tools/]Click\
+      \ here[/url] and give a follow for more reviews of good, bad and decent VR titles.\
+      \ And [url=https://steamcommunity.com/groups/HonestVR/]Click here[/url] if you\
+      \ want to request reviews on other VR titles. [/Quote]"
+    steam_purchase: true
+    timestamp_created: 1599261027
+    timestamp_updated: 1602954175
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.47826087474822998'
+    written_during_early_access: false
+  success: 1

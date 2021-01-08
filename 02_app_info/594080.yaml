@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: "A complete artwork collection from the game Elisa the innkeeper.<br\
+      \ />\r\n100+ Artworks (including backgrounds and special scenes) made by our\
+      \ artists Bicio, Ria and Vincent in 4k ULTRA HD Resolution, full source quality\
+      \ and without any logos or watermarks.<br />\r\n<br />\r\nNote: On Steam the\
+      \ art collection will be downloaded as DLC and will be contained within the\
+      \ same directory as your core game files."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/594080/page_bg_generated_v6b.jpg?t=1487266361
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A complete artwork collection from the game Elisa the innkeeper.<br\
+      \ />\r\n100+ Artworks (including backgrounds and special scenes) made by our\
+      \ artists Bicio, Ria and Vincent in 4k ULTRA HD Resolution, full source quality\
+      \ and without any logos or watermarks.<br />\r\n<br />\r\nNote: On Steam the\
+      \ art collection will be downloaded as DLC and will be contained within the\
+      \ same directory as your core game files."
+    developers:
+    - Neoclassic Games
+    fullgame:
+      appid: '576400'
+      name: 'Elisa: the Innkeeper'
+    genres:
+    - description: Sexual Content
+      id: '71'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/594080/header.jpg?t=1487266361
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        800 MB available space</li></ul>
+    name: 'Elisa: the Innkeeper - Artwork Collection'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Artwork Collection - $1.99
+        packageid: 155028
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Elisa: the Innkeeper - Artwork Collection'
+    packages:
+    - 155028
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        800 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 16, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/594080/ss_0b0eea6dc67abf18a899e59be56fff0d69ea6222.1920x1080.jpg?t=1487266361
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/594080/ss_0b0eea6dc67abf18a899e59be56fff0d69ea6222.600x338.jpg?t=1487266361
+    short_description: A complete artwork collection from the game Elisa the innkeeper.
+    steam_appid: 594080
+    support_info:
+      email: elisatheinnkeeper@gmail.com
+      url: http://elisatheinnkeeper.rel.to
+    supported_languages: English
+    type: dlc
+    website: http://elisatheinnkeeper.rel.to
+  success: true
+reviews:
+  cursor: AoJwtp6ywdoCfp6qcw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2297
+      num_reviews: 263
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198124135678'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '30233070'
+    review: "\u041A\u0440\u0443\u0442\u043D\u044F\u043A!"
+    steam_purchase: true
+    timestamp_created: 1488252892
+    timestamp_updated: 1488252892
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.509272456169128418'
+    written_during_early_access: false
+  success: 1

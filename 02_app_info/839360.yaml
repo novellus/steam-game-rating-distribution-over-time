@@ -1,0 +1,101 @@
+details:
+  data:
+    about_the_game: "<h2 class=\"bb_tag\">+1S Original Soundtrack</h2>\xB7 Background\
+      \ Music <br><br>length:2:11<br>pathway:<br><strong>steam\\steamapps\\common\\\
+      MHSJ\\+1S bgm.mp3</strong>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/839360/page_bg_generated_v6b.jpg?t=1523055923
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h2 class=\"bb_tag\">+1S Original Soundtrack</h2>\xB7 Background\
+      \ Music <br><br>length:2:11<br>pathway:<br><strong>steam\\steamapps\\common\\\
+      MHSJ\\+1S bgm.mp3</strong>"
+    developers:
+    - Tibbers
+    fullgame:
+      appid: '820710'
+      name: Mogic
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/839360/header.jpg?t=1523055923
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.13.3<br></li><li><strong>Processor:</strong> 2.5GHz Intel Core i7<br></li><li><strong>Memory:</strong>
+        16 GB RAM<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>
+    name: Mogic - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Mogic - OST - $0.99
+        packageid: 261949
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Mogic - OST
+    packages:
+    - 261949
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7,Windows 8,Windows 10<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Tibbers
+    release_date:
+      coming_soon: false
+      date: Apr 5, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/839360/ss_fbca8ceebbc8973f2ff2c2f79eaf12fbf196b40f.1920x1080.jpg?t=1523055923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/839360/ss_fbca8ceebbc8973f2ff2c2f79eaf12fbf196b40f.600x338.jpg?t=1523055923
+    short_description: Original Soundtrack of +1S
+    steam_appid: 839360
+    support_info:
+      email: mikema0429@gmail.com
+      url: ''
+    supported_languages: English, Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

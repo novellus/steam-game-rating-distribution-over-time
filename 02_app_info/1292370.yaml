@@ -1,0 +1,79 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Garrick Campsey
+    fullgame:
+      appid: '1181040'
+      name: LAZR - A Clothformer
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1292370/header.jpg?t=1592333829
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+ (or equivalent)<br></li><li><strong>Processor:</strong> 2 Ghz
+        or faster processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8+<br></li><li><strong>Processor:</strong> 2 Ghz or faster processor<br></li><li><strong>Graphics:</strong>
+        512MB VRAM</li></ul>
+    name: LAZR - A Clothformer Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista, 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> Dual Core
+        CPU, 2ghz Intel i5 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista, 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> Dual Core
+        CPU, 2ghz Intel i5 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Top Hat Studios Inc
+    release_date:
+      coming_soon: false
+      date: Apr 21, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1292370
+    support_info:
+      email: pr@tophatentertainment.us
+      url: ''
+    supported_languages: English, French, Japanese, Portuguese - Brazil, Simplified
+      Chinese
+    type: demo
+    website: https://lazr.online
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: "Full Soundtrack for Project Cappuccino.<br />\r\n<br />\r\nTrack\
+      \ List:<br />\r\n1. Main Menu - Bittersweet Brew<br />\r\n2. Lunch Special<br\
+      \ />\r\n3. Evening Respite<br />\r\n4. Room 1 - First Encounter<br />\r\n5.\
+      \ Colette's Theme - Double Espresso<br />\r\n6. File Select Theme - Paperwork<br\
+      \ />\r\n7. Cerise's Theme - Berry Springs<br />\r\n8. Mira's Theme - Seeing\
+      \ Red<br />\r\n9. Suspense - Something Amiss<br />\r\n10. Shop Theme - Sweet\
+      \ Seductions<br />\r\n11. Sweet Memory"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1194820/page_bg_generated_v6b.jpg?t=1573844328
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 3
+      - 5
+      notes: Source game contains adult content and is not intended for anyone under
+        the age of 18.
+    detailed_description: "Full Soundtrack for Project Cappuccino.<br />\r\n<br />\r\
+      \nTrack List:<br />\r\n1. Main Menu - Bittersweet Brew<br />\r\n2. Lunch Special<br\
+      \ />\r\n3. Evening Respite<br />\r\n4. Room 1 - First Encounter<br />\r\n5.\
+      \ Colette's Theme - Double Espresso<br />\r\n6. File Select Theme - Paperwork<br\
+      \ />\r\n7. Cerise's Theme - Berry Springs<br />\r\n8. Mira's Theme - Seeing\
+      \ Red<br />\r\n9. Suspense - Something Amiss<br />\r\n10. Shop Theme - Sweet\
+      \ Seductions<br />\r\n11. Sweet Memory"
+    developers:
+    - Tentakero
+    fullgame:
+      appid: '1117380'
+      name: Project Cappuccino
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1194820/header.jpg?t=1573844328
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+    name: Project Cappuccino - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Project Cappuccino - Soundtrack - $2.99
+        packageid: 411481
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Project Cappuccino - Soundtrack
+    packages:
+    - 411481
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1194820/ss_f6921393a8c6facaa593a61907f7eccbad47d48d.1920x1080.jpg?t=1573844328
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1194820/ss_f6921393a8c6facaa593a61907f7eccbad47d48d.600x338.jpg?t=1573844328
+    short_description: Full Soundtrack for Project Cappuccino.
+    steam_appid: 1194820
+    support_info:
+      email: contact.tentakero@gmail.com
+      url: http://www.tentakero.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.tentakero.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

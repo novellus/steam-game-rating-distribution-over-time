@@ -1,0 +1,95 @@
+details:
+  data:
+    about_the_game: "The original soundtrack for HyperDot, a game where you dodge\
+      \ everything. Music by Charles McGregor.<br />\r\nIncludes both MP3 and FLAC\
+      \ versions."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1238460/page_bg_generated_v6b.jpg?t=1581955687
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The original soundtrack for HyperDot, a game where you\
+      \ dodge everything. Music by Charles McGregor.<br />\r\nIncludes both MP3 and\
+      \ FLAC versions."
+    developers:
+    - Tribe Games
+    fullgame:
+      appid: '876500'
+      name: HyperDot
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1238460/header.jpg?t=1581955687
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: HyperDot Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: HyperDot Soundtrack - $4.99
+        packageid: 429601
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy HyperDot Soundtrack
+    packages:
+    - 429601
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        60 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 180 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - GLITCH
+    release_date:
+      coming_soon: false
+      date: Feb 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1238460/ss_a4a40c99374b9943a96897529b22c6d5cf3d6bae.1920x1080.jpg?t=1581955687
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1238460/ss_a4a40c99374b9943a96897529b22c6d5cf3d6bae.600x338.jpg?t=1581955687
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1238460/ss_7dbafb869ee190a4170c826f0862b3446cb81ce5.1920x1080.jpg?t=1581955687
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1238460/ss_7dbafb869ee190a4170c826f0862b3446cb81ce5.600x338.jpg?t=1581955687
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1238460/ss_9e32756f58aaff683b6be8792cdaa482bc0721e2.1920x1080.jpg?t=1581955687
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1238460/ss_9e32756f58aaff683b6be8792cdaa482bc0721e2.600x338.jpg?t=1581955687
+    short_description: The original soundtrack for HyperDot, a game where you dodge
+      everything. Music by Charles McGregor.
+    steam_appid: 1238460
+    support_info:
+      email: support@glitch.mn
+      url: www.hyperdotgame.com
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

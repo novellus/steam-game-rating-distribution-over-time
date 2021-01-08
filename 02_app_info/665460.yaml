@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: The full official soundtrack for Salt. It contains 41 original
+      songs, each of which comes straight from the mysterious world of Salt.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/665460/page_bg_generated_v6b.jpg?t=1591898205
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The full official soundtrack for Salt. It contains 41 original
+      songs, each of which comes straight from the mysterious world of Salt.
+    developers:
+    - Lavaboots Studios
+    fullgame:
+      appid: '327860'
+      name: Salt
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/665460/header.jpg?t=1591898205
+    is_free: false
+    legal_notice: "\xA9 Copyright 2017 Lavaboots LLC"
+    linux_requirements: []
+    mac_requirements: []
+    name: Salt Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Salt - Soundtrack - $5.99
+        packageid: 188983
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Salt Soundtrack
+    packages:
+    - 188983
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 26, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/665460/ss_ebff207c03f307d2f2f632372672bdf8b34bc8ab.1920x1080.jpg?t=1591898205
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/665460/ss_ebff207c03f307d2f2f632372672bdf8b34bc8ab.600x338.jpg?t=1591898205
+    short_description: The official soundtrack for Salt, containing 41 original songs.
+    steam_appid: 665460
+    support_info:
+      email: support@saltthegame.com
+      url: https://saltthegame.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: https://saltthegame.com
+  success: true
+reviews:
+  cursor: AoJwgve8tOoCdfCZwAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 18
+      num_reviews: 7
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198856135490'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '50384645'
+    review: Awesome soundtracks!!!
+    steam_purchase: true
+    timestamp_created: 1556538964
+    timestamp_updated: 1556538964
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.562673091888427734'
+    written_during_early_access: false
+  success: 1

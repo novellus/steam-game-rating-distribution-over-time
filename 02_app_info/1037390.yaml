@@ -1,0 +1,86 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      highlighted:
+      - name: ACHIEVEMENT
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037390/c93abd8ec075196cbcb745b81c27f0eeca1b0768.jpg
+      total: 1
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1037390/page_bg_generated_v6b.jpg?t=1552380438
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - JFI GAMES
+    - JERA
+    fullgame:
+      appid: '911220'
+      name: "Dusk Diver \u9149\u9583\u753A"
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1037390/header.jpg?t=1552380438
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: "Dusk Diver \u9149\u9583\u753A Demo"
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 64Bit<br></li><li><strong>Processor:</strong> Intel Core i5-2300
+        | AMD FX-6300<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 750<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        5 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 64Bit<br></li><li><strong>Processor:</strong> Intel Core i5-6400
+        | AMD Ryzen 5 1400<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 1050ti<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        5 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - JFI GAMES
+    release_date:
+      coming_soon: false
+      date: Mar 12, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1037390/ss_7d002e521131cd4b9a349704844d25daf0e70d03.1920x1080.jpg?t=1552380438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1037390/ss_7d002e521131cd4b9a349704844d25daf0e70d03.600x338.jpg?t=1552380438
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1037390/ss_bb2a26888a8962c1953c1232db4e3019731ca23d.1920x1080.jpg?t=1552380438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1037390/ss_bb2a26888a8962c1953c1232db4e3019731ca23d.600x338.jpg?t=1552380438
+    short_description: ''
+    steam_appid: 1037390
+    support_info:
+      email: operator@jfigames.com
+      url: https://www.jfigames.com/customer-support
+    supported_languages: English, Japanese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: https://duskdiver.jfigames.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

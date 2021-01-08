@@ -1,0 +1,118 @@
+details:
+  data:
+    about_the_game: "Originally exclusive to Kickstarter Backers, this is now available\
+      \ to everyone.<br />\r\n<br />\r\nContains 5 original manga chapters each by\
+      \ a different artist."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/519110/page_bg_generated_v6b.jpg?t=1580429037
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Originally exclusive to Kickstarter Backers, this is now\
+      \ available to everyone.<br />\r\n<br />\r\nContains 5 original manga chapters\
+      \ each by a different artist."
+    developers:
+    - VisualArts/Key
+    fullgame:
+      appid: '324160'
+      name: CLANNAD
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/519110/header.jpg?t=1580429037
+    is_free: false
+    legal_notice: "\xA9 2015 VisualArts/Key / Sekai Project. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: CLANNAD - Anthology Manga
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: CLANNAD - Anthology Manga - $12.99
+        packageid: 122095
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1299
+      title: Buy CLANNAD - Anthology Manga
+    packages:
+    - 122095
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> PDF
+        reader required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1299
+      final_formatted: $12.99
+      initial: 1299
+      initial_formatted: ''
+    publishers:
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: Mar 31, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/519110/ss_76a062c78415426c1cedce3985f0c6652be95257.1920x1080.jpg?t=1580429037
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/519110/ss_76a062c78415426c1cedce3985f0c6652be95257.600x338.jpg?t=1580429037
+    short_description: Originally exclusive to Kickstarter Backers, this is now available
+      to everyone. Contains 5 original manga chapters each by a different artist.
+    steam_appid: 519110
+    support_info:
+      email: support@sekaiproject.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: https://visualnovels.moe/clannad
+  success: true
+reviews:
+  cursor: AoJwivCL7PECcaiWhQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 11
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 87
+      num_reviews: 31
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198113219759'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '68465281'
+    review: Solid extra content for a masterpiece of a game. Worth my money.
+    steam_purchase: true
+    timestamp_created: 1588469924
+    timestamp_updated: 1588469924
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

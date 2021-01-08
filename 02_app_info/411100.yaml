@@ -1,0 +1,140 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/411100/page_bg_generated_v6b.jpg?t=1447378504
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - "Tomasz Wac\u0142awek"
+    fullgame:
+      appid: '274230'
+      name: RONIN
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/411100/header.jpg?t=1447378504
+    is_free: false
+    legal_notice: "Copyright 2015 Tomasz Wac\u0142awek. All Rights Reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or later<br></li><li><strong>Processor:</strong> 1.8 GHz Dual-Core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS 10.6+<br></li><li><strong>Processor:</strong> 2.8 GHz Intel Core 2 Duo
+        or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB
+        available space</li></ul>
+    name: RONIN - Special Edition Upgrade
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: RONIN - Special Edition Content - <span class="discount_original_price">$6.99</span>
+          $1.39
+        packageid: 81926
+        percent_savings: 0
+        percent_savings_text: '-80% '
+        price_in_cents_with_discount: 139
+      title: Buy RONIN - Special Edition Upgrade
+    packages:
+    - 81926
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows Vista or Later<br></li><li><strong>Processor:</strong> Intel Core\u2122\
+        \ Duo or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ OpenGL 3.0 compliant video card<br></li><li><strong>DirectX:</strong> Version\
+        \ 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 500 MB available space</li></ul>"
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, 7, or 8</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 80
+      final: 139
+      final_formatted: $1.39
+      initial: 699
+      initial_formatted: $6.99
+    publishers:
+    - Devolver Digital
+    release_date:
+      coming_soon: false
+      date: Nov 10, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/411100/ss_c1bfd4c8abc33e01d0b1a5f7fab1f3e459ef5a04.1920x1080.jpg?t=1447378504
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/411100/ss_c1bfd4c8abc33e01d0b1a5f7fab1f3e459ef5a04.600x338.jpg?t=1447378504
+    short_description: ''
+    steam_appid: 411100
+    support_info:
+      email: t.waclawek@gmail.com
+      url: ''
+    supported_languages: English, Polish, Russian, French, Italian, German, Spanish
+      - Spain, Portuguese - Brazil, Romanian
+    type: dlc
+    website: https://twitter.com/RoninGame
+  success: true
+reviews:
+  cursor: AoJwrej14OYCcY6UlAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 574
+      num_reviews: 350
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198024138776'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '38838497'
+    review: "Dodatek sk\u0142adaj\u0105cy si\u0119 ze \u015Bcie\u017Cki d\u017Awi\u0119\
+      kowej gry oraz 25-stronicowego komiksu inspirowanego wydarzeniami przedstawionymi\
+      \ w grze.\n\nZawiera nast\u0119puj\u0105ce utwory:\n1. Time for truth\n2. Things\
+      \ to do\n3. Its raining now and forever\n4. Dancing with the bullets\n5. Samurai\
+      \ showdown\n6. Toxic trap\n7. There is no way back\n8. Swordpoint\n9. Not a\
+      \ perfect world\n10. I will get you\n11. This is the end\n12. It was close\n\
+      13. I made it"
+    steam_purchase: true
+    timestamp_created: 1514590007
+    timestamp_updated: 1540850402
+    voted_up: true
+    votes_funny: 1
+    votes_up: 4
+    weighted_vote_score: '0.583333313465118408'
+    written_during_early_access: false
+  success: 1

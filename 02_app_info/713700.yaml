@@ -1,0 +1,134 @@
+details:
+  data:
+    about_the_game: The Ressource Collector is a ingame Pet which collects the dropped
+      ressources for you. Its perfectly when idle farming because you don't miss the
+      ressources when you are not on the pc
+    background: https://steamcdn-a.akamaihd.net/steam/apps/713700/page_bg_generated_v6b.jpg?t=1553883761
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Ressource Collector is a ingame Pet which collects the
+      dropped ressources for you. Its perfectly when idle farming because you don't
+      miss the ressources when you are not on the pc
+    developers:
+    - Albatros Softworks
+    fullgame:
+      appid: '707590'
+      name: Defense Clicker
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/713700/header.jpg?t=1553883761
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Defense Clicker - Ressource Collector
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Defense Clicker - Ressource Collector - Commercial License -
+          $4.99
+        packageid: 254867
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Defense Clicker - Ressource Collector
+    packages:
+    - 254867
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista,7,8,8.1,10<br></li><li><strong>Processor:</strong> Quadcore
+        or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista,7,8,8.1,10<br></li><li><strong>Processor:</strong> Quadcore
+        or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Albatros Softworks
+    release_date:
+      coming_soon: false
+      date: Oct 31, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713700/ss_b9559cc9a97c36829e456b445b447d9e27a09ea1.1920x1080.jpg?t=1553883761
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713700/ss_b9559cc9a97c36829e456b445b447d9e27a09ea1.600x338.jpg?t=1553883761
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713700/ss_a25419a5d6efdd177008862ecb071301056932e3.1920x1080.jpg?t=1553883761
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713700/ss_a25419a5d6efdd177008862ecb071301056932e3.600x338.jpg?t=1553883761
+    short_description: A Ressource Collector Pet which automatically collects the
+      dropped ressources for you
+    steam_appid: 713700
+    support_info:
+      email: sdt@albatros-softworks.de
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJw7q+v1+8CcZ2SvQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1436
+      num_reviews: 56
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198046680021'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '49582545'
+    review: "This DLC gives you access to the Resource Collector and it's really good\
+      \ for new players to collect the different types of drops by monsters like RC,\
+      \ GC, BC, TC, BS, IE, PE, EE, FE automatically without having to do it yourself\
+      \ while playing or afk. Once you unlock each pet in-game and get them leveled\
+      \ to about level 30 this DLC becomes pretty worthless since the in-game pets\
+      \ will start collecting much faster with each level. \n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=873140323]Steam\
+      \ Inventory Guide[/url]"
+    steam_purchase: true
+    timestamp_created: 1552694377
+    timestamp_updated: 1579184652
+    voted_up: true
+    votes_funny: 0
+    votes_up: 15
+    weighted_vote_score: '0.65861821174621582'
+    written_during_early_access: false
+  success: 1

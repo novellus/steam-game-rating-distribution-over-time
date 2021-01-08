@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: "Artist Ilde Business Pack contains 300 Palettes, 50$ starting\
+      \ money, and 2x money from paintings sales!<br />\r\nEnjoy this discounted bundle\
+      \ containing a big whack of Palettes!<br />\r\nThe DLC will be automatically\
+      \ downloaded to your game the next time you launch."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1049350/page_bg_generated_v6b.jpg?t=1552673022
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: In-App Purchases
+      id: 35
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Artist Ilde Business Pack contains 300 Palettes, 50$ starting\
+      \ money, and 2x money from paintings sales!<br />\r\nEnjoy this discounted bundle\
+      \ containing a big whack of Palettes!<br />\r\nThe DLC will be automatically\
+      \ downloaded to your game the next time you launch."
+    developers:
+    - YDKR
+    fullgame:
+      appid: '968440'
+      name: Artist Idle
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1049350/header.jpg?t=1552673022
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Artist Idle -  Business Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Artist Idle -  Business Pack - $49.99
+        packageid: 350004
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 4999
+      title: Buy Artist Idle -  Business Pack
+    packages:
+    - 350004
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Processor:</strong> 2 GHz+<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 10 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 4999
+      final_formatted: $49.99
+      initial: 4999
+      initial_formatted: ''
+    publishers:
+    - YDKR
+    release_date:
+      coming_soon: false
+      date: Mar 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1049350/ss_321b4c79e4f0d28a467f4d71dc27d268174dc158.1920x1080.jpg?t=1552673022
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1049350/ss_321b4c79e4f0d28a467f4d71dc27d268174dc158.600x338.jpg?t=1552673022
+    short_description: Artist Ilde Business Pack contains 300 Palettes, 50$ starting
+      money, and 2x money from paintings sales!
+    steam_appid: 1049350
+    support_info:
+      email: ydkr.group@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

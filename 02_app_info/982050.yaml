@@ -1,0 +1,191 @@
+details:
+  data:
+    about_the_game: "Caracoland is a unique platform game where the player can walk\
+      \ on different shapes of terrain and climb walls defying gravity, uniting the\
+      \ modern features with classic elements from the past. The game also features\
+      \ an innovative power-up system, with which the player can change shells to\
+      \ acquire different attributes and interact with the objects in different ways,\
+      \ making items and platforms accessible. This makes the game very challenging,\
+      \ requiring skills and intellect from the player.<br />\r\n<br />\r\nFeatures:<br\
+      \ />\r\n<br />\r\n - Leaderboards (integrated with the Rosasoft Server)<br />\r\
+      \n - 30 challenging achievements<br />\r\n - Unlockable new secret game mode<br\
+      \ />\r\n - A store to buy power-ups with coins collected in the game<br />\r\
+      \n - More than 100 levels to play (including the new game mode)"
+    achievements:
+      highlighted:
+      - name: Starter Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/dcfa44056baf1126e168f7c994262d19d3823e3f.jpg
+      - name: Professional Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/284871927fe79c110aeae0e4e94d459d5aea60a9.jpg
+      - name: Expert Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/c21294cf36b0601b8e3028f6e83e083f6f94f13b.jpg
+      - name: Master Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/b0b01aa0cebf31fada5fa08339d4046e53bfb864.jpg
+      - name: Ancient Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/b5a8c136634cd21ed900104f3bacab786eabdc5b.jpg
+      - name: Legendary Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/352610e64923886f25a7c76d0dce5a66a88d2905.jpg
+      - name: Supreme Collector
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/b03ac4d0b608580d0e67498f3763804f1aca7ca0.jpg
+      - name: Maniac
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/509952412b22a7a61ca296c18bf06f24748ee57f.jpg
+      - name: Secrets Explorer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/696243f6616723aa336b8a0296a271218b07428c.jpg
+      - name: New Ways Explorer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/982050/223e53bef743e0ff2ca80ef0a3916ffc7481e097.jpg
+      total: 30
+    background: https://steamcdn-a.akamaihd.net/steam/apps/982050/page_bg_generated_v6b.jpg?t=1550368928
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Caracoland is a unique platform game where the player can\
+      \ walk on different shapes of terrain and climb walls defying gravity, uniting\
+      \ the modern features with classic elements from the past. The game also features\
+      \ an innovative power-up system, with which the player can change shells to\
+      \ acquire different attributes and interact with the objects in different ways,\
+      \ making items and platforms accessible. This makes the game very challenging,\
+      \ requiring skills and intellect from the player.<br />\r\n<br />\r\nFeatures:<br\
+      \ />\r\n<br />\r\n - Leaderboards (integrated with the Rosasoft Server)<br />\r\
+      \n - 30 challenging achievements<br />\r\n - Unlockable new secret game mode<br\
+      \ />\r\n - A store to buy power-ups with coins collected in the game<br />\r\
+      \n - More than 100 levels to play (including the new game mode)"
+    developers:
+    - Rodrigo Bezzi
+    - Sabine Ludvik
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/982050/header.jpg?t=1550368928
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 256735683
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256735683/movie480.mp4?t=1543324111
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256735683/movie_max.mp4?t=1543324111
+      name: Caracoland - The Quest for the Golden Shell
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256735683/movie.293x165.jpg?t=1543324111
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256735683/movie480.webm?t=1543324111
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256735683/movie_max.webm?t=1543324111
+    name: Caracoland
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Caracoland - $4.99
+        packageid: 323099
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Caracoland
+    packages:
+    - 323099
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> 2 GHz dual-core processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 32 MB available space<br></li><li><strong>Additional
+        Notes:</strong> You need a graphics card that supports WebGL</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Rosasoft
+    release_date:
+      coming_soon: false
+      date: Dec 14, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_f51fee31e8f8a944b74cef5c36d792943b02539b.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_f51fee31e8f8a944b74cef5c36d792943b02539b.600x338.jpg?t=1550368928
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_3879b84b2a7bca2fe3d180b9aca0b0fa19841a1c.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_3879b84b2a7bca2fe3d180b9aca0b0fa19841a1c.600x338.jpg?t=1550368928
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_9d2ff56a67c7d5d32572ba2aa325e666a7a8654f.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_9d2ff56a67c7d5d32572ba2aa325e666a7a8654f.600x338.jpg?t=1550368928
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_bec55fa9fcd636d1911f3e2c562591afe960d3dd.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_bec55fa9fcd636d1911f3e2c562591afe960d3dd.600x338.jpg?t=1550368928
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_0952ff2923e4370dc634bc2de35acc562af543fd.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_0952ff2923e4370dc634bc2de35acc562af543fd.600x338.jpg?t=1550368928
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_8b5ed387da73d86c09d91ed5c8ef510ab76320a6.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_8b5ed387da73d86c09d91ed5c8ef510ab76320a6.600x338.jpg?t=1550368928
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_56784fca2f4aba7883c1edc1ec755c30aecef161.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_56784fca2f4aba7883c1edc1ec755c30aecef161.600x338.jpg?t=1550368928
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_e1ec7bced7f990a1d2d3338ac1c1e325d3b7a953.1920x1080.jpg?t=1550368928
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/982050/ss_e1ec7bced7f990a1d2d3338ac1c1e325d3b7a953.600x338.jpg?t=1550368928
+    short_description: Caracoland - The Quest for the Golden Shell
+    steam_appid: 982050
+    support_info:
+      email: info@rosasoft.de
+      url: http://www.rosasoft.de
+    supported_languages: English, German, Spanish - Spain, Portuguese - Brazil
+    type: game
+    website: http://www.rosasoft.de
+  success: true
+reviews:
+  cursor: AoJw0+W16OcCfN/vtQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1553435022
+      num_games_owned: 178
+      num_reviews: 8
+      playtime_at_review: 31
+      playtime_forever: 40
+      playtime_last_two_weeks: 0
+      steamid: '76561198357808308'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '47676924'
+    review: Nice Game. I like platformers and i like that it is not so easy.
+    steam_purchase: true
+    timestamp_created: 1545397022
+    timestamp_updated: 1545397022
+    voted_up: true
+    votes_funny: 1
+    votes_up: 5
+    weighted_vote_score: '0.516533970832824707'
+    written_during_early_access: false
+  success: 1

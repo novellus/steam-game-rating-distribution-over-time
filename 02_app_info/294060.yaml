@@ -1,0 +1,242 @@
+details:
+  data:
+    about_the_game: Aaru's Awakening is a hand-drawn, fast-paced 2D action platformer.
+      The game puts players in charge of Aaru, a mythical creature with two unique
+      abilities teleportation and charging. He uses these abilities as he travels
+      through the dangerous world of Lumenox to defeat an evil entity. These two abilities
+      are at the heart of every level design throughout the game, to make for a challenging
+      and fluid experience. The levels require players to make split second decisions
+      whilst completing fast-paced puzzles.
+    achievements:
+      highlighted:
+      - name: Day Bronze
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/0ec4a855e2b0f0816025ac037b872aae3bdaf186.jpg
+      - name: Day Silver
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/a347dc59dd519b32da871b52b8e68d14e0028c6a.jpg
+      - name: Day Gold
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/6ec7141125e3adef9a0643bb15c77c70791616e4.jpg
+      - name: Dusk Bronze
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/c3bde914de690edd044978ac37274ea0fdcacd00.jpg
+      - name: Dusk Silver
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/cb95a882aabe7a050adcd2b5ac2f0ce138ca7c92.jpg
+      - name: Dusk Gold
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/b2bc26fea6c0438af3a7f1bbfe54956bacc78edf.jpg
+      - name: Night Bronze
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/adb559bb1ed14611f82c8d6590a05ad8a11d97da.jpg
+      - name: Night Silver
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/9934bef05213de298bbfc736f4e32671240d86e9.jpg
+      - name: Night Gold
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/a1a8e2f06a522354b6f237082f822aa0cf3f14a9.jpg
+      - name: Dawn Bronze
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/294060/1bfece035f2ce232e5c308960ad791391b3e3ece.jpg
+      total: 20
+    background: https://steamcdn-a.akamaihd.net/steam/apps/294060/page_bg_generated_v6b.jpg?t=1447361265
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Leaderboards
+      id: 25
+    - description: Remote Play on TV
+      id: 43
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Aaru's Awakening is a hand-drawn, fast-paced 2D action platformer.
+      The game puts players in charge of Aaru, a mythical creature with two unique
+      abilities teleportation and charging. He uses these abilities as he travels
+      through the dangerous world of Lumenox to defeat an evil entity. These two abilities
+      are at the heart of every level design throughout the game, to make for a challenging
+      and fluid experience. The levels require players to make split second decisions
+      whilst completing fast-paced puzzles.
+    developers:
+    - Lumenox ehf
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/294060/header.jpg?t=1447361265
+    is_free: false
+    legal_notice: "\xA9Lumenox ehf 2014 All Rights Reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 10.10+<br></li><li><strong>Processor:</strong> Intel Core Duo 1.8ghz
+        +<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Integrated chipset or video card<br></li><li><strong>Storage:</strong> 2 GB
+        available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.6 or better<br></li><li><strong>Processor:</strong> Intel Core Duo
+        1.8ghz +<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Integrated chipset or video card<br></li><li><strong>Storage:</strong> 2 GB
+        available space</li></ul>
+    movies:
+    - highlight: true
+      id: 2034275
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2034275/movie480.mp4?t=1447363494
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2034275/movie_max.mp4?t=1447363494
+      name: Aaru's Awakening trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2034275/movie.293x165.jpg?t=1447363494
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2034275/movie480.webm?t=1447363494
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2034275/movie_max.webm?t=1447363494
+    name: Aaru's Awakening
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Aaru's Awakening - $14.99
+        packageid: 41596
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Aaru's Awakening
+    packages:
+    - 41596
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8, Windows 7, Windows XP<br></li><li><strong>Processor:</strong> Intel
+        Core Duo 1.8ghz +<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Integrated chipset or video card<br></li><li><strong>DirectX:</strong> Version
+        9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional
+        Notes:</strong> Less RAM required if chipset or graphics card has RAM</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Lumenox ehf
+    release_date:
+      coming_soon: false
+      date: Feb 23, 2015
+    required_age: 0
+    reviews: "\u201CAaru\u2019s Awakening is a phenomenal piece of art, and a solidly\
+      \ built game to boot\u201D<br>5/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.twinfinite.net/2015/03/06/aarus-awakening-review/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >Twinfinite</a><br><br>\u201CWhile it\
+      \ won\u2019t ever hold your hand, Aaru\u2019s Awakening will impress you with\
+      \ its simple mechanics, gorgeous art, and challenging (but fair) gameplay.\u201D\
+      <br>95/100 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://venturebeat.com/2015/02/23/aarus-awakening-will-awe-you-and-then-destroy-you/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >VentureBeat</a><br><br>\u201CThe journey\
+      \ of Aaru\u2019s Awakening is an enchanting one. It is filled with challenging\
+      \ platforming and a beautiful and timeless story that is haunted by danger.\u201D\
+      <br><a href=\"http://indiegamemag.com/aarus-awakening-review-a-journey-from-dawn-till-dusk/\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >Indie Game Magazine</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_e0018c5711089edc2a05daf12799f3f482f19f84.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_e0018c5711089edc2a05daf12799f3f482f19f84.600x338.jpg?t=1447361265
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_13f8b9315cb70e95cf1ed336f30490a827f6ff6c.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_13f8b9315cb70e95cf1ed336f30490a827f6ff6c.600x338.jpg?t=1447361265
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_94cece3916a4fe043697c7a2ae6a5f2560ca506a.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_94cece3916a4fe043697c7a2ae6a5f2560ca506a.600x338.jpg?t=1447361265
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_eb69b25f519114ec3b4f4e8d428c9f3ef5fd9eab.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_eb69b25f519114ec3b4f4e8d428c9f3ef5fd9eab.600x338.jpg?t=1447361265
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_f8b149bc1231e797e1ba7a43b50c63f0cd05a3fb.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_f8b149bc1231e797e1ba7a43b50c63f0cd05a3fb.600x338.jpg?t=1447361265
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_a3d31ec9cb2a0aefb42c4dfb259c444b75bee2f0.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_a3d31ec9cb2a0aefb42c4dfb259c444b75bee2f0.600x338.jpg?t=1447361265
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_d146bd81bf9c3d0688fa9de9b883a83629199443.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_d146bd81bf9c3d0688fa9de9b883a83629199443.600x338.jpg?t=1447361265
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_1d09221a27078d9c6f2693209072e1e76bd4b9cc.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_1d09221a27078d9c6f2693209072e1e76bd4b9cc.600x338.jpg?t=1447361265
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_a4fbff8241224a555475ee8aeaf1f24448f80f7f.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_a4fbff8241224a555475ee8aeaf1f24448f80f7f.600x338.jpg?t=1447361265
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_616f1669b727b1741d850ca74eda21bc407d6144.1920x1080.jpg?t=1447361265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/294060/ss_616f1669b727b1741d850ca74eda21bc407d6144.600x338.jpg?t=1447361265
+    short_description: Aaru's Awakening is a hand drawn 2D action platformer set in
+      the mythical world of Lumenox. Travel through the mysterious world while the
+      story of the four gods unravels.
+    steam_appid: 294060
+    support_info:
+      email: ''
+      url: http://www.lumenoxgames.com/support
+    supported_languages: English<strong>*</strong>, French, German, Danish, Portuguese
+      - Brazil, Russian, Spanish - Spain<br><strong>*</strong>languages with full
+      audio support
+    type: game
+    website: http://www.lumenoxgames.com
+  success: true
+reviews:
+  cursor: AoJwy8y/0/ECeMT0ggI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 12
+    total_positive: 25
+    total_reviews: 37
+  reviews:
+  - author:
+      last_played: 1587596524
+      num_games_owned: 188
+      num_reviews: 8
+      playtime_at_review: 101
+      playtime_forever: 101
+      playtime_last_two_weeks: 0
+      steamid: '76561198118265922'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '67871816'
+    review: "\u041D\u0435 \u043F\u043E\u043D\u0438\u043C\u0430\u044E, \u043F\u043E\
+      \u0447\u0435\u043C\u0443 \u043D\u0430 \u044D\u0442\u043E\u0439 \u0438\u0433\u0440\
+      \u0435 \u0441\u043C\u0435\u0448\u0430\u043D\u043D\u044B\u0435 \u043E\u0446\u0435\
+      \u043D\u043A\u0438... \u0422\u0438\u043F\u043E \u0430\u043B\u043E \u043D\u0430\
+      \u0440\u043E\u0434, \u0432\u044B \u0441\u0447\u0438\u0442\u0430\u0439 \u0438\
+      \u0433\u0440\u0430\u0435\u0442\u0435 \u0432 \u0448\u0438\u043A\u0430\u0440\u043D\
+      \u0443\u044E \u0438\u0433\u0440\u0443, \u043F\u043E\u0434\u043E\u0431\u0438\u0435\
+      \ \u043C\u0438\u0442\u0431\u043E\u044F. \u0413\u0440\u0430\u0444\u0438\u043A\
+      \u0430 \u043F\u0440\u043E\u0441\u0442\u0430\u044F, \u043F\u0440\u0438\u044F\u0442\
+      \u043D\u0430\u044F.\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\
+      \ \u0442\u0430\u043A \u0436\u0435 \u0437\u0430\u0441\u043B\u0443\u0436\u0438\
+      \u0432\u0430\u0435\u0442 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E\u0433\
+      \u043E \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F. \u0410 \u0442\u0430\
+      \u043A \u0436\u0435 \u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435 \u0434\u0432\
+      \u0438\u0436\u0435\u043D\u0438\u044F \u0445\u044D\u0434\u043A\u0440\u0430\u0431\
+      \u0430 \u0443\u0441\u043F\u043E\u043A\u0430\u0438\u0432\u0430\u044E\u0442 \u043C\
+      \u043E\u0438 \u043D\u0435\u0440\u0432\u044B \u043F\u043E\u0441\u043B\u0435 \u0440\
+      \u0430\u0431\u043E\u0442\u044B. \u0414\u0443\u043C\u0430\u044E, \u0447\u0442\
+      \u043E \u0438\u0433\u0440\u0430 \u0437\u0430\u0441\u043B\u0443\u0436\u0438\u0432\
+      \u0430\u0435\u0442 \u0443\u0432\u0430\u0436\u0435\u043D\u0438\u044F. \u041D\u0430\
+      \u0438\u0433\u0440\u0430\u044E \u0435\u0449\u0435 \u0431\u043E\u043B\u044C\u0448\
+      \u0435 \u0447\u0430\u0441\u043E\u0432. \u0422\u0443\u043F\u0430 Relax/"
+    steam_purchase: true
+    timestamp_created: 1587644622
+    timestamp_updated: 1587644622
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.523305118083953857'
+    written_during_early_access: false
+  success: 1

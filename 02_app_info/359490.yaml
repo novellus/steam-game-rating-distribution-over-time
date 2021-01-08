@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: "Unlocks the Son of Sparda, Dante Must Die, Heaven or Hell, Hell\
+      \ and Hell, and Bloody Palace game modes.<br />\r\nNote: This does not unlock\
+      \ the missions or content within the modes themselves. Also, this does not unlock\
+      \ all items in the Library."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/359490/page_bg_generated_v6b.jpg?t=1447371490
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Unlocks the Son of Sparda, Dante Must Die, Heaven or Hell,\
+      \ Hell and Hell, and Bloody Palace game modes.<br />\r\nNote: This does not\
+      \ unlock the missions or content within the modes themselves. Also, this does\
+      \ not unlock all items in the Library."
+    developers:
+    - CAPCOM Co., Ltd.
+    fullgame:
+      appid: '329050'
+      name: Devil May Cry 4 Special Edition
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/359490/header.jpg?t=1447371490
+    is_free: false
+    legal_notice: "\xA9CAPCOM CO., LTD. 2008, 2015 ALL RIGHTS RESERVED.<br />\r\n\
+      ILLUSTRATIONS:Kazuma Kaneko/ATLUS"
+    linux_requirements: []
+    mac_requirements: []
+    name: Unlock All Modes
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Unlock All Modes - <span class="discount_original_price">$1.49</span>
+          $1.04
+        packageid: 64048
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 104
+      title: Buy Unlock All Modes
+    packages:
+    - 64048
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, Windows 8.1</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, Windows 8.1</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 104
+      final_formatted: $1.04
+      initial: 149
+      initial_formatted: $1.49
+    publishers:
+    - CAPCOM Co., Ltd.
+    release_date:
+      coming_soon: false
+      date: Jun 23, 2015
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/359490/ss_46488defba87cd87aee59098fae06ee121d68fc5.1920x1080.jpg?t=1447371490
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/359490/ss_46488defba87cd87aee59098fae06ee121d68fc5.600x338.jpg?t=1447371490
+    short_description: 'Unlocks all game modes. Note: This does not unlock the missions
+      or content within the modes themselves.'
+    steam_appid: 359490
+    support_info:
+      email: Support@capcom.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Japanese<strong>*</strong><br><strong>*</strong>languages with full
+      audio support
+    type: dlc
+    website: http://www.capcom.co.jp/devil4se/
+  success: true
+reviews:
+  cursor: AoJwruDik+4Ce8ad1gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 3
+    total_positive: 9
+    total_reviews: 12
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 229
+      num_reviews: 35
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198388750997'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '56159339'
+    review: "\u0441\u043F\u0430\u0441\u0438\u0431\u043E capcom, \u0441\u043F\u0430\
+      \u0441\u0438\u0431\u043E \u0432\u0430\u043C \u0437\u0430 \u0432\u043E\u0437\u043C\
+      \u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u043F\u043E\u0438\u0433\u0440\u0430\
+      \u0442\u044C \u0432 \u0441\u043B\u043E\u0436\u043D\u043E\u043C \u0440\u0435\u0436\
+      \u0438\u043C\u0435 \u0441\u0440\u0430\u0437\u0443, \u0432\u044B \u0442\u0430\
+      \u043A\u0438\u0435 \u0449\u0435\u0434\u0440\u044B\u0435!!"
+    steam_purchase: true
+    timestamp_created: 1572621452
+    timestamp_updated: 1572621452
+    voted_up: true
+    votes_funny: 2
+    votes_up: 6
+    weighted_vote_score: '0.554493308067321777'
+    written_during_early_access: false
+  success: 1

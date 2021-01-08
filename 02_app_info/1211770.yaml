@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: "This is the soundtrack for Strange Telephone.<br />\r\n<br />\r\
+      \nThe below tracks are available in MP3, WAV, and FLAC formats."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1211770/page_bg_generated_v6b.jpg?t=1581625634
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is the soundtrack for Strange Telephone.<br />\r\n\
+      <br />\r\nThe below tracks are available in MP3, WAV, and FLAC formats."
+    developers:
+    - HZ3 Software
+    fullgame:
+      appid: '705290'
+      name: Strange Telephone
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1211770/header.jpg?t=1581625634
+    is_free: false
+    legal_notice: "\xA9HZ3 Software All rights reserved. Licensed to and published\
+      \ by Active Gaming Media, Inc."
+    linux_requirements: []
+    mac_requirements: []
+    name: Strange Telephone Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Strange Telephone OST - $17.99
+        packageid: 419022
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1799
+      title: Buy Strange Telephone Original Soundtrack
+    packages:
+    - 419022
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1799
+      final_formatted: $17.99
+      initial: 1799
+      initial_formatted: ''
+    publishers:
+    - PLAYISM
+    release_date:
+      coming_soon: false
+      date: Dec 19, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1211770/ss_4cbbbb64324c1e8560d787d5c48ef6c7eda11027.1920x1080.jpg?t=1581625634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1211770/ss_4cbbbb64324c1e8560d787d5c48ef6c7eda11027.600x338.jpg?t=1581625634
+    short_description: This is the soundrack for Strange Telephone.
+    steam_appid: 1211770
+    support_info:
+      email: support@playism.jp
+      url: ''
+    supported_languages: English, Japanese
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

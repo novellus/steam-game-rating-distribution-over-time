@@ -1,0 +1,231 @@
+details:
+  data:
+    about_the_game: 'Feel like an action hero while switching seamlessly between an
+      arsenal of guns, swords and spells as you blast your way through murderous hordes.<br><br>DWVR
+      is a high speed shooter that uses motion controls to put you in the shoes of
+      an action hero. Your VR controller becomes an extension of your arm as you take
+      aim with your gun or cast spells.<br><br>Includes many different weapons, from
+      rifles to even a sword or magic fireballs, and many different enemies to fight.<br><br>Features:<ul
+      class="bb_ul"><li>Unlock new weapons and missions as you play.<br></li><li>Try
+      to get the highest score possible in each mission.<br></li><li>Customizable
+      locomotion: smooth or teleporting. And more options to tweak to your preferred
+      controls.<br></li><li>Works with both Oculus Rift and Vive</li></ul>'
+    achievements:
+      highlighted:
+      - name: Legend
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520750/c64f3e35df9799538a0ab7428d28c96d138c647f.jpg
+      - name: Veteran
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520750/d44492b07385e21be1ebde59e03b0de943d5ae17.jpg
+      - name: Hero
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520750/4a9fdf4212cfbd5c42111256b5c0e303d56dc0f6.jpg
+      - name: Rookie
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520750/43b599302ecbb1eb6ce1fd4328422b6efb5b4ed3.jpg
+      total: 4
+    background: https://steamcdn-a.akamaihd.net/steam/apps/520750/page_bg_generated_v6b.jpg?t=1506455715
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Feel like an action hero while switching seamlessly between
+      an arsenal of guns, swords and spells as you blast your way through murderous
+      hordes.<br><br>DWVR is a high speed shooter that uses motion controls to put
+      you in the shoes of an action hero. Your VR controller becomes an extension
+      of your arm as you take aim with your gun or cast spells.<br><br>Includes many
+      different weapons, from rifles to even a sword or magic fireballs, and many
+      different enemies to fight.<br><br>Features:<ul class="bb_ul"><li>Unlock new
+      weapons and missions as you play.<br></li><li>Try to get the highest score possible
+      in each mission.<br></li><li>Customizable locomotion: smooth or teleporting.
+      And more options to tweak to your preferred controls.<br></li><li>Works with
+      both Oculus Rift and Vive</li></ul>'
+    developers:
+    - Mad Triangles
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/520750/header.jpg?t=1506455715
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256688301
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256688301/movie480.mp4?t=1498136340
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256688301/movie_max.mp4?t=1498136340
+      name: DWVR Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256688301/movie.293x165.jpg?t=1498136340
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256688301/movie480.webm?t=1498136340
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256688301/movie_max.webm?t=1498136340
+    - highlight: true
+      id: 256675313
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256675313/movie480.mp4?t=1501412995
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256675313/movie_max.mp4?t=1501412995
+      name: DWVR Gameplay Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256675313/movie.293x165.jpg?t=1501412995
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256675313/movie480.webm?t=1501412995
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256675313/movie_max.webm?t=1501412995
+    name: DWVR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: DWVR - $14.99
+        packageid: 123446
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy DWVR
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$14.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $14.99 for a month, then $9.99 / month
+        packageid: 145537
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy DWVR Subscription Plan
+    packages:
+    - 123446
+    - 145537
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10
+        64 bit<br></li><li><strong>Processor:</strong> 2nd gen i5<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970<br></li><li><strong>Additional
+        Notes:</strong> Oculus Minimum Requirements</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 64 bit<br></li><li><strong>Processor:</strong> 4th gen i7<br></li><li><strong>Graphics:</strong>
+        Nvidia GTX 1080</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Mad Triangles
+    release_date:
+      coming_soon: false
+      date: Sep 26, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_27f465087b2efcbb017e2ec8323d77dbdb15c2df.1920x1080.jpg?t=1506455715
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_27f465087b2efcbb017e2ec8323d77dbdb15c2df.600x338.jpg?t=1506455715
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_e125eb0f330c4568565465af54a5218452b87106.1920x1080.jpg?t=1506455715
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_e125eb0f330c4568565465af54a5218452b87106.600x338.jpg?t=1506455715
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_107d0e313da007d0aa5106cf27ff68e126ba83cf.1920x1080.jpg?t=1506455715
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_107d0e313da007d0aa5106cf27ff68e126ba83cf.600x338.jpg?t=1506455715
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_d7988abec527997db862f3a69c3c09a714ecbfad.1920x1080.jpg?t=1506455715
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_d7988abec527997db862f3a69c3c09a714ecbfad.600x338.jpg?t=1506455715
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_3c76aadcaf6ead2525b126d380c508015f86e88e.1920x1080.jpg?t=1506455715
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_3c76aadcaf6ead2525b126d380c508015f86e88e.600x338.jpg?t=1506455715
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_ff72f3416760d795a4c7a9a964c1fb2683280407.1920x1080.jpg?t=1506455715
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_ff72f3416760d795a4c7a9a964c1fb2683280407.600x338.jpg?t=1506455715
+    short_description: Feel like an action hero while switching seamlessly between
+      an arsenal of guns, swords and spells. Your VR controller becomes an extension
+      of your arm as you blast the hordes of enemies.
+    steam_appid: 520750
+    support_info:
+      email: madtrianglesgames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://madtriangles.com/DWVR/
+  success: true
+reviews:
+  cursor: AoJwmt/h/OECef++lAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 12
+    total_reviews: 13
+  reviews:
+  - author:
+      last_played: 1514782196
+      num_games_owned: 5042
+      num_reviews: 1944
+      playtime_at_review: 39
+      playtime_forever: 39
+      playtime_last_two_weeks: 0
+      steamid: '76561198066590240'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '38926329'
+    review: "You don't feel like an action hero.  This game is not like Doom.  It's\
+      \ not Dark Souls.  It's just another wave shooter with decent sized environments\
+      \ that allow you to teleport or almost full trackpad locomotion with snap turning.\
+      \  It's on sale now for $8.99, is there enough here to recommend at the sale\
+      \ price?  Short answer, no.  \n\n[B][U] PROS [/U][/B]\n\n+ nice, large, detailed\
+      \ environments\n+ easy, normal, hard don't just add more enemies, they add different\
+      \ ones\n+ weapons do different things: melee, ranged, AOE\n+ enemies do different\
+      \ things: melee, ranged, AOE\n+ mini-bosses and bosses\n\n[B][U] CONS [/U][/B]\n\
+      \n- bugs, after dying I coudn't select any weapon and had to die\n- no story\n\
+      - i had trouble with hit detection on sword, many times I swung and nothing\
+      \ happened\n- so you're supposed to be this action-hero, but usually you'll\
+      \ just be hiding behind cover and just finding that one spot in the map that\
+      \ makes it easy to snipe enemies \n- dumb AI for the most part, why do ranged\
+      \ enemies run towards you instead of looking for cover and trying to snipe you?\n\
+      - drones in medium difficulty in this fantasy setting?  WTF?\n- melee can kill\
+      \ anything just by swinging at them, shields of enemies do nothing, no parrying,\
+      \ no strategy .. when it works with the mysterious hitboxes of enemies\n\nI\
+      \ just think the negatives outweight the positives.  I wanted to like this game.\
+      \  I was looking forward to a wave shooter where you can move around.  But there's\
+      \ just really no strategy other than find the best sniping spot.  Even the boss\
+      \ fights were not thrilling because of the clunkiness of combat.\n\nRating 4.5/10\
+      \ can't recommend at sale price of $8.99, currently it's more of a $5 game if\
+      \ that, feels EA, not 1.0"
+    steam_purchase: true
+    timestamp_created: 1514788421
+    timestamp_updated: 1520309828
+    voted_up: false
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.556400477886199951'
+    written_during_early_access: false
+  success: 1

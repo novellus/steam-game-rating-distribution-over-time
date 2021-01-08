@@ -1,0 +1,144 @@
+details:
+  data:
+    about_the_game: "A new model of flamethrower-equipped sentry gun. After its placement,\
+      \ it uses its camera and sensors to detect and automatically attack enemies.\
+      \ You can place it with the attack button, and activate it with the zoom/activate\
+      \ button after. After its activation, it will automatically attack enemies in\
+      \ its range.<br />\r\nThe gun is equipped with powerful safety devices to ensure\
+      \ a lack of friendly fire.&quot;"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1057280/page_bg_generated_v6b.jpg?t=1562828972
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "A new model of flamethrower-equipped sentry gun. After\
+      \ its placement, it uses its camera and sensors to detect and automatically\
+      \ attack enemies. You can place it with the attack button, and activate it with\
+      \ the zoom/activate button after. After its activation, it will automatically\
+      \ attack enemies in its range.<br />\r\nThe gun is equipped with powerful safety\
+      \ devices to ensure a lack of friendly fire.&quot;"
+    developers:
+    - SANDLOT
+    fullgame:
+      appid: '1007040'
+      name: EARTH DEFENSE FORCE 5
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1057280/header.jpg?t=1562828972
+    is_free: false
+    legal_notice: "\xA92019 SANDLOT  \xA92019 D3 PUBLISHER"
+    linux_requirements: []
+    mac_requirements: []
+    name: EARTH DEFENSE FORCE 5 - Air Raider Weapon FZ-GUN
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: EARTH DEFENSE FORCE 5 - Air Raider Weapon FZ-GUN - $2.99
+        packageid: 353163
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy EARTH DEFENSE FORCE 5 - Air Raider Weapon FZ-GUN
+    packages:
+    - 353163
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Requires a 64-bit processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Requires a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - D3 PUBLISHER
+    release_date:
+      coming_soon: false
+      date: Jul 11, 2019
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1057280/ss_c11985fc17c83264f64b9ca9f360500afec4c6e4.1920x1080.jpg?t=1562828972
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1057280/ss_c11985fc17c83264f64b9ca9f360500afec4c6e4.600x338.jpg?t=1562828972
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1057280/ss_bbd66118552b2166ff33cf417f37882c7ad10f47.1920x1080.jpg?t=1562828972
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1057280/ss_bbd66118552b2166ff33cf417f37882c7ad10f47.600x338.jpg?t=1562828972
+    short_description: A new model of flamethrower-equipped sentry gun.
+    steam_appid: 1057280
+    support_info:
+      email: steam_support@d3p.co.jp
+      url: ''
+    supported_languages: English<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      Japanese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://www.d3p.co.jp/edf5/
+  success: true
+reviews:
+  cursor: AoJ4o6nkiuwCcprozgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1125
+      num_reviews: 12
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198034148711'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '54215074'
+    review: 'Pretty good
+
+      Close range, but stun locks enemies'
+    steam_purchase: true
+    timestamp_created: 1563729939
+    timestamp_updated: 1563729939
+    voted_up: true
+    votes_funny: 0
+    votes_up: 5
+    weighted_vote_score: '0.594830632209777832'
+    written_during_early_access: false
+  success: 1

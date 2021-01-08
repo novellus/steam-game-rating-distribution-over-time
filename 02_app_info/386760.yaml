@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: Steam edition of the soundtrack used in the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/386760/page_bg_generated_v6b.jpg?t=1581548764
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Steam edition of the soundtrack used in the game.
+    developers:
+    - stage-nana
+    fullgame:
+      appid: '348950'
+      name: Ame no Marginal -Rain Marginal-
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/386760/header.jpg?t=1581548764
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Ame no Marginal -Rain Marginal- - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ame no Marginal -Rain Marginal- - Original Soundtrack - <span
+          class="discount_original_price">$4.99</span> $1.99
+        packageid: 73038
+        percent_savings: 0
+        percent_savings_text: '-60% '
+        price_in_cents_with_discount: 199
+      title: Buy Ame no Marginal -Rain Marginal- - Original Soundtrack
+    packages:
+    - 73038
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 60
+      final: 199
+      final_formatted: $1.99
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: Jul 16, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/386760/ss_4028e0595d6ca4a9124752c824ca7b5742648ec2.1920x1080.jpg?t=1581548764
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/386760/ss_4028e0595d6ca4a9124752c824ca7b5742648ec2.600x338.jpg?t=1581548764
+    short_description: Steam edition of the soundtrack used in the game.
+    steam_appid: 386760
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    supported_languages: English, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4//CsruQCfO3/pAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 0
+    total_positive: 8
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 158
+      num_reviews: 17
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198191193849'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '43253468'
+    review: hermoso 10/10
+    steam_purchase: true
+    timestamp_created: 1530563627
+    timestamp_updated: 1530563627
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.545454561710357666'
+    written_during_early_access: false
+  success: 1

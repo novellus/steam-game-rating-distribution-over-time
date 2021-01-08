@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: This is the soundtrack featured in AudioWizards that was made
+      by 10 different artists. Every track is in an MP3 format.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1218880/page_bg_generated_v6b.jpg?t=1603555717
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This is the soundtrack featured in AudioWizards that was
+      made by 10 different artists. Every track is in an MP3 format.
+    developers:
+    - myTrueSound
+    fullgame:
+      appid: '1215350'
+      name: AudioWizards
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1218880/header.jpg?t=1603555717
+    is_free: false
+    legal_notice: The original tracks are composed by Zaina Arekat, Remy Chartier,
+      Alan Escola, Jim Fidler, Mikko Herranen, Andre Louis, Yukio Nozawa, Cara Quinn,
+      Steve Spamer, Joonas Muukkonen, and Aleksi Turunen. Some of the tracks have
+      been remastered by Janne Kantola.
+    linux_requirements: []
+    mac_requirements: []
+    name: AudioWizards Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: AudioWizards Soundtrack - $4.99
+        packageid: 422002
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy AudioWizards Soundtrack
+    packages:
+    - 422002
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122 i5-2520M<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound\
+        \ Card:</strong> Yes</li></ul>"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 24, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1218880/ss_97fc0186ad8a0f8efc0cbf8485d5b804969c9a10.1920x1080.jpg?t=1603555717
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1218880/ss_97fc0186ad8a0f8efc0cbf8485d5b804969c9a10.600x338.jpg?t=1603555717
+    short_description: The original soundtrack of AudioWizards.
+    steam_appid: 1218880
+    support_info:
+      email: audiowizards@mytruesound.com
+      url: https://www.mytruesound.com/contact
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

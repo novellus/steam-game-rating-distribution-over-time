@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: The full original soundtrack for Stealthscape. Composed entirely
+      by Carson Kompon.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1390100/page_bg_generated_v6b.jpg?t=1603166518
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The full original soundtrack for Stealthscape. Composed
+      entirely by Carson Kompon.
+    developers:
+    - Carson Kompon
+    fullgame:
+      appid: '670720'
+      name: Stealthscape
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1390100/header.jpg?t=1603166518
+    is_free: false
+    legal_notice: All songs are owned by Carson Kompon. You are free to use these
+      songs in your own creations as long as either "Carson Kompon" or "Stealthscape"
+      is credited in your creation along with a link to https://stealthscape.net/
+    linux_requirements: []
+    mac_requirements: []
+    name: Soundscape - Stealthscape OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Stealthscape Soundtrack - $1.99
+        packageid: 487803
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Soundscape - Stealthscape OST
+    packages:
+    - 487803
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        400 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Carson Kompon
+    release_date:
+      coming_soon: false
+      date: Oct 19, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1390100/ss_65e1a142dd53d8b14fb1a78c2ae2b495d77f4b13.1920x1080.jpg?t=1603166518
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1390100/ss_65e1a142dd53d8b14fb1a78c2ae2b495d77f4b13.600x338.jpg?t=1603166518
+    short_description: Stealthscape's original soundtrack
+    steam_appid: 1390100
+    support_info:
+      email: help@stealthscape.net
+      url: https://stealthscape.net
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4xJ7w5fYCeN+lwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 24
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198939184080'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83963384'
+    review: It's good music.
+    steam_purchase: true
+    timestamp_created: 1609736189
+    timestamp_updated: 1609736189
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

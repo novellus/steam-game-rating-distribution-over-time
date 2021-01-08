@@ -1,0 +1,78 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '539730'
+      name: True Sight
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/539730/header.jpg?t=1547748705
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'True Sight: Episode 2'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 30, 2016
+    required_age: 0
+    short_description: "Episode two follows EG and Fnatic as they continue training\
+      \ for competition at The Boston Major, one of three premiere esports events\
+      \ that comprise this year\u2019s Dota 2 Major Championships."
+    steam_appid: 542971
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw4f3q5tkCfumscA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1489680619
+      num_games_owned: 5
+      num_reviews: 4
+      playtime_at_review: 287
+      playtime_forever: 291
+      playtime_last_two_weeks: 0
+      steamid: '76561198220384163'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '29451934'
+    review: Buen forma de entrenamiento
+    steam_purchase: true
+    timestamp_created: 1485214314
+    timestamp_updated: 1485214314
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

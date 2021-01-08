@@ -1,0 +1,100 @@
+details:
+  data:
+    about_the_game: "The soundtrack of VilleTown.<br />\r\n<br />\r\n<br />\r\n<br\
+      \ />\r\nFind it here once you download it:<br />\r\nProgram Files (x86) -&gt;\
+      \ Steam -&gt; steamapps -&gt; common -&gt; VilleTown -&gt; soundtrack"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/531940/page_bg_generated_v6b.jpg?t=1474609864
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The soundtrack of VilleTown.<br />\r\n<br />\r\n<br />\r\
+      \n<br />\r\nFind it here once you download it:<br />\r\nProgram Files (x86)\
+      \ -&gt; Steam -&gt; steamapps -&gt; common -&gt; VilleTown -&gt; soundtrack"
+    developers:
+    - Laugical Games
+    fullgame:
+      appid: '527250'
+      name: VilleTown
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/531940/header.jpg?t=1474609864
+    is_free: false
+    legal_notice: VilleTown is made and owned by Laugical Games. Do not redistribute.
+    linux_requirements: []
+    mac_requirements: []
+    name: VilleTown Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: VilleTown Soundtrack - $1.99
+        packageid: 128360
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy VilleTown Soundtrack
+    packages:
+    - 128360
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 9<br></li><li><strong>Graphics:</strong> 1TB</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 22, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/531940/ss_031f8d33d533e9e6bb72f5924505768a76d261b1.1920x1080.jpg?t=1474609864
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/531940/ss_031f8d33d533e9e6bb72f5924505768a76d261b1.600x338.jpg?t=1474609864
+    short_description: The soundtrack of VilleTown.
+    steam_appid: 531940
+    support_info:
+      email: laugicalgames@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

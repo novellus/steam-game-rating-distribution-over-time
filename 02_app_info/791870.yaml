@@ -1,0 +1,163 @@
+details:
+  data:
+    about_the_game: Snow land roller coaster for Epic Roller Coasters.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/791870/page_bg_generated_v6b.jpg?t=1537883889
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Snow land roller coaster for Epic Roller Coasters.
+    developers:
+    - B4T Games
+    fullgame:
+      appid: '787790'
+      name: Epic Roller Coasters
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/791870/header.jpg?t=1537883889
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "Epic Roller Coasters \u2014 Snow Land"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "Epic Roller Coasters \u2014 Snow Land - <span class=\"discount_original_price\"\
+          >$2.99</span> $2.24"
+        packageid: 239743
+        percent_savings: 0
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 224
+      title: "Buy Epic Roller Coasters \u2014 Snow Land"
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$9.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $9.99 / month
+        packageid: 251867
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: "Buy Epic Roller Coasters \u2014 Snow Land Subscription Plan"
+    packages:
+    - 239743
+    - 251867
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        Core i5- 4590 equivalent or greater<br></li><li><strong>Memory:</strong> 8
+        GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or greater<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        i5- 4590 equivalent or greater.<br></li><li><strong>Memory:</strong> 8 GB
+        RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 AMD Radeon RX 480
+        (equivalent or better)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 25
+      final: 224
+      final_formatted: $2.24
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - B4T Games
+    release_date:
+      coming_soon: false
+      date: Feb 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/791870/ss_a9a6a849d0f71270b0b5410e462929f14b613f1d.1920x1080.jpg?t=1537883889
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/791870/ss_a9a6a849d0f71270b0b5410e462929f14b613f1d.600x338.jpg?t=1537883889
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/791870/ss_bdcc08c2f20a8ec66780cdf9a1c1dd5b351d057f.1920x1080.jpg?t=1537883889
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/791870/ss_bdcc08c2f20a8ec66780cdf9a1c1dd5b351d057f.600x338.jpg?t=1537883889
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/791870/ss_4e174611b80f976559689fabcef64f28f67b2ab6.1920x1080.jpg?t=1537883889
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/791870/ss_4e174611b80f976559689fabcef64f28f67b2ab6.600x338.jpg?t=1537883889
+    short_description: Snow land roller coaster for Epic Roller Coasters.
+    steam_appid: 791870
+    support_info:
+      email: contact@b4t.games
+      url: http://b4t.games
+    supported_languages: English<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwoLagiuYCeey4qwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 5042
+      num_reviews: 1944
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198066590240'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '44943049'
+    review: "[h1] Experienced on the Oculus Rift [/h1]\n\nThis ride is okay. I think\
+      \ the problem with it is that the snow was poorly animated. I think the snow\
+      \ falling is very vital for immersion in VR and I've seen it done better in\
+      \ so many other games. The sad part is that I liked everything else about this\
+      \ ride. But because it's snow themed, it's very important to get that detail\
+      \ correctly and it wasn't in this game. \n\nThe ride itself was enjoyeable.\
+      \ Lots of speed then slow downs. Not sure how long it was but it felt like roughly\
+      \ 4 minutes long. I liked the airplane 3d model flying above and then crashing,\
+      \ that was very neat. The wolf 3d model looked amazing as well. That wolf is\
+      \ used in some of the other coaster rides, but is the most appropriate in this\
+      \ ride. The vistas look really good.\n\nRate 6/10. If the snow had been done\
+      \ correctly, this probably would have been the best VR DLC out of the bunch."
+    steam_purchase: true
+    timestamp_created: 1537942249
+    timestamp_updated: 1537942336
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.589624226093292236'
+    written_during_early_access: false
+  success: 1

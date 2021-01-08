@@ -1,0 +1,160 @@
+details:
+  data:
+    about_the_game: "In a world where heroes fail one after another, you are probably\
+      \ the last hope ...<br />\r\n<br />\r\nIn this classic turn-based RPG you choose\
+      \ the path to take, but in any case there will be an unlikely enemy waiting\
+      \ for you ...<br />\r\n<br />\r\nMaybe?<br />\r\n<br />\r\nWARNING: For the\
+      \ faint of heart, there will be plenty of chickens. Insured!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1414640/page_bg_generated_v6b.jpg?t=1602397054
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "In a world where heroes fail one after another, you are\
+      \ probably the last hope ...<br />\r\n<br />\r\nIn this classic turn-based RPG\
+      \ you choose the path to take, but in any case there will be an unlikely enemy\
+      \ waiting for you ...<br />\r\n<br />\r\nMaybe?<br />\r\n<br />\r\nWARNING:\
+      \ For the faint of heart, there will be plenty of chickens. Insured!"
+    developers:
+    - Exa_Inc
+    dlc:
+    - 1442510
+    - 1445770
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1414640/header.jpg?t=1602397054
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional
+        Notes:</strong> It may not work on systems that do not support 32 bit</li></ul>
+    movies:
+    - highlight: true
+      id: 256799931
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799931/movie480.mp4?t=1601308311
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799931/movie_max.mp4?t=1601308311
+      name: Tutorial funzioni
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256799931/movie.293x165.jpg?t=1601308311
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799931/movie480_vp9.webm?t=1601308311
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799931/movie_max_vp9.webm?t=1601308311
+    name: Early Quest
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Early Quest - $4.99
+        packageid: 496481
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Early Quest
+    packages:
+    - 496481
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Exa_Inc
+    release_date:
+      coming_soon: false
+      date: Sep 24, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_b250a3d6c4341eef9334bf14956026e42e8a801d.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_b250a3d6c4341eef9334bf14956026e42e8a801d.600x338.jpg?t=1602397054
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_e0796b692e8af8023d46c32ac4b161d1e22d10af.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_e0796b692e8af8023d46c32ac4b161d1e22d10af.600x338.jpg?t=1602397054
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_d2bc18bf763af323859da2246a3b840936f5116c.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_d2bc18bf763af323859da2246a3b840936f5116c.600x338.jpg?t=1602397054
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_07b359470ec658d0ab5429ebd2f5a70c99d545f2.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_07b359470ec658d0ab5429ebd2f5a70c99d545f2.600x338.jpg?t=1602397054
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_a0b4f8008570943fc0158e7cf225639f9c0a1f49.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_a0b4f8008570943fc0158e7cf225639f9c0a1f49.600x338.jpg?t=1602397054
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_f3ae1fda3e926c0a28a88383962fca7bf6e58f8c.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_f3ae1fda3e926c0a28a88383962fca7bf6e58f8c.600x338.jpg?t=1602397054
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_146178dd999312c02ade95cd7186d7383b13a7ac.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_146178dd999312c02ade95cd7186d7383b13a7ac.600x338.jpg?t=1602397054
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_03620dbf81eef7e44066ef674a0d6d16723b9f60.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_03620dbf81eef7e44066ef674a0d6d16723b9f60.600x338.jpg?t=1602397054
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_dd40889b491bd1593ab4d5d38ff5d26d1f42cc6b.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_dd40889b491bd1593ab4d5d38ff5d26d1f42cc6b.600x338.jpg?t=1602397054
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_2c78ea34bdfbc00614ea25f674f56a7ed1f831ec.1920x1080.jpg?t=1602397054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1414640/ss_2c78ea34bdfbc00614ea25f674f56a7ed1f831ec.600x338.jpg?t=1602397054
+    short_description: A turn-based fantasy-style RPG game, with a completely open,
+      multi-level world, a unique background and many secrets and legends to discover
+      and reveal. A system of equipment and skills customized for each character in
+      the group allows you to create infinite strategies. Many chickens inside!
+    steam_appid: 1414640
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/groups/exainc
+    supported_languages: Italian, English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

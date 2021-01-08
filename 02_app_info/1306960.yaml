@@ -1,0 +1,78 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1306960/page_bg_generated_v6b.jpg?t=1600215579
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Jason Newman
+    - Craig Collver
+    fullgame:
+      appid: '1233070'
+      name: Akurra
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1306960/header.jpg?t=1600215579
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX 10.7 and Above<br></li><li><strong>Processor:</strong> 1.2 ghz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 512 mb Video Memory<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    name: Akurra Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7<br></li><li><strong>Processor:</strong> Intel or AMD Dual Core<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX9 or later compatible.<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX9 or later compatible.</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Jason Newman
+    release_date:
+      coming_soon: false
+      date: Apr 30, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_ab4a327cc21ee452e4ac84c6cad192a83428a0e4.1920x1080.jpg?t=1600215579
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_ab4a327cc21ee452e4ac84c6cad192a83428a0e4.600x338.jpg?t=1600215579
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_418081348e1c51388ef6ba88dea32a912426665b.1920x1080.jpg?t=1600215579
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_418081348e1c51388ef6ba88dea32a912426665b.600x338.jpg?t=1600215579
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_66b8a28b2b5e7a74a05c3f1490ade368c5652b34.1920x1080.jpg?t=1600215579
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_66b8a28b2b5e7a74a05c3f1490ade368c5652b34.600x338.jpg?t=1600215579
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_35c131f0582ec2905ffa51aa861a05df53e489c0.1920x1080.jpg?t=1600215579
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_35c131f0582ec2905ffa51aa861a05df53e489c0.600x338.jpg?t=1600215579
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_a13b021a179fcca302fb9fd2158d158ed4bda8fc.1920x1080.jpg?t=1600215579
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1306960/ss_a13b021a179fcca302fb9fd2158d158ed4bda8fc.600x338.jpg?t=1600215579
+    short_description: ''
+    steam_appid: 1306960
+    support_info:
+      email: akurra.game@gmail.com
+      url: https://discordapp.com/invite/5fnWhA2
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

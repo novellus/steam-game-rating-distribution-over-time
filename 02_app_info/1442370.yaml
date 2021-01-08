@@ -1,0 +1,101 @@
+details:
+  data:
+    about_the_game: In this DLC you find full soundtrack from the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1442370/page_bg_generated_v6b.jpg?t=1603520367
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: In this DLC you find full soundtrack from the game.
+    developers:
+    - Sweety Cute Studio
+    fullgame:
+      appid: '1437650'
+      name: Forest and Girls
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1442370/header.jpg?t=1603520367
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Forest and Girls Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Forest and Girls Soundtrack - $1.99
+        packageid: 507192
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Forest and Girls Soundtrack
+    packages:
+    - 507192
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Sweety Cute Studio
+    release_date:
+      coming_soon: false
+      date: Oct 23, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1442370/ss_06bdb82b8fc4bdc9045d98eef8ed12c975d63be1.1920x1080.jpg?t=1603520367
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1442370/ss_06bdb82b8fc4bdc9045d98eef8ed12c975d63be1.600x338.jpg?t=1603520367
+    short_description: In this DLC you find full soundtrack from the game.
+    steam_appid: 1442370
+    support_info:
+      email: garry.crocker@yandex.ru
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJw0PLDuPUCepHcqgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 633
+      num_reviews: 16
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198010864762'
+    comment_count: 0
+    language: latam
+    received_for_free: false
+    recommendationid: '78307610'
+    review: "5 piezas musicales que le dan ambientaci\xF3n al juego, a mi gusto est\xE1\
+      n bien hechas."
+    steam_purchase: true
+    timestamp_created: 1603919648
+    timestamp_updated: 1603919648
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: 15 haunting music tracks of Dustbowl, beautifully crafted by Alexandre
+      Scire, a French composer.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/368540/page_bg_generated_v6b.jpg?t=1447373926
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 15 haunting music tracks of Dustbowl, beautifully crafted
+      by Alexandre Scire, a French composer.
+    developers:
+    - The Pompous Pixel
+    fullgame:
+      appid: '367110'
+      name: Dustbowl
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/368540/header.jpg?t=1447373926
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Dustbowl - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dustbowl - Soundtrack - $4.99
+        packageid: 66964
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Dustbowl - Soundtrack
+    packages:
+    - 66964
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or higher<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong>
+        64 MB RAM<br></li><li><strong>Storage:</strong> 40 MB available space<br></li><li><strong>Sound
+        Card:</strong> All DirectX-compatible sound cards<br></li><li><strong>Additional
+        Notes:</strong> All files in MP3 Format</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or higher<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong>
+        64 MB RAM<br></li><li><strong>Storage:</strong> 40 MB available space<br></li><li><strong>Sound
+        Card:</strong> All DirectX-compatible sound cards<br></li><li><strong>Additional
+        Notes:</strong> All files in MP3 Format</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 15, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/368540/ss_d2f3ae9ea0fe194f028c48fa7cde2673c9ef1de8.1920x1080.jpg?t=1447373926
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/368540/ss_d2f3ae9ea0fe194f028c48fa7cde2673c9ef1de8.600x338.jpg?t=1447373926
+    short_description: 15 haunting music tracks of Dustbowl, beautifully crafted by
+      Alexandre Scire, a French composer.
+    steam_appid: 368540
+    support_info:
+      email: ''
+      url: http://www.dustbowl-adventure.com/
+    supported_languages: English
+    type: dlc
+    website: www.dustbowl-adventure.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

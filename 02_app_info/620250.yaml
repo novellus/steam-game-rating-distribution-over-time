@@ -1,0 +1,75 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - aiueoKompany
+    fullgame:
+      appid: '620210'
+      name: Fatal Twelve
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/620250/header.jpg?t=1580429505
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux<br></li><li><strong>Processor:</strong> 1.8 GHz Pentium 4<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 720<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        MacOS<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 720<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    name: Fatal Twelve Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        32/64-bit Windows 7 / 8.1 / 10<br></li><li><strong>Processor:</strong> 1.8
+        GHz Pentium 4<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        1280 x 720<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: Apr 6, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 620250
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    supported_languages: English, Japanese
+    type: demo
+    website: https://sekaiproject.com/products/fatal-twelve/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

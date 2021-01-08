@@ -1,0 +1,194 @@
+details:
+  data:
+    about_the_game: "When me and my sister were young, we would play this game to\
+      \ pass the time. We stopped playing because nether of us wanted to draw the\
+      \ dots for the game board. This is actually my second version of the game I\
+      \ have made using Game Maker, the first one was lost to time, however it was\
+      \ much less player friendly to play and required much more trust between players.\
+      \ <br />\r\n<br />\r\nWith this new version I was able to  increase the max\
+      \ number of possible players to 8.<br />\r\n<br />\r\nThis is a relaxed multi\
+      \ player game with out any combat and can be played by anyone of any age...\
+      \ meant for 2 or more players<br />\r\n<br />\r\n- setting up a game<br />\r\
+      \n<br />\r\nto set up a game, use the middle mouse wheel, or the arrow keys\
+      \ to select the number of players, then press the enter button on your keyboard\
+      \ when everyone is ready to play<br />\r\n<br />\r\n- game play<br />\r\n<br\
+      \ />\r\ntake turns using the mouse, left clicking between dots to create lines.\
+      \ You get to create an additional line for every square you make in your turn.<br\
+      \ />\r\n<br />\r\n*note: there is some wiggle room in where you click and still\
+      \ be able to create a line at the desired location.<br />\r\n<br />\r\n*note:\
+      \ both turns and points are done automatically<br />\r\n<br />\r\n- resetting\
+      \ the game board<br />\r\n<br />\r\nto reset the game board, press the enter\
+      \ button on they keyboard any time during game play, this will reset everything\
+      \ back to start. You can change the number of players or press enter again to\
+      \ start playing a new round."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1287180/page_bg_generated_v6b.jpg?t=1591454789
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>thank you</h1><p>I would like to thank everyone who\
+      \ purchased this simple game that I made, When I made the first version of it\
+      \ a long time ago, I made it so that I could play a game with my sister easier\
+      \ and without wasting a lot of paper... and I mean a lot. We played this game\
+      \ vary often and I miss playing it with her. After all this social distancing\
+      \ is over that is what I plan to do... I was just expecting it would have been\
+      \ over sooner... hopeful thinking I guess.\r\n\r\nI do wish that I could have\
+      \ added muti player, however I do not think that I ever will, I hope that families\
+      \ can play this game as a fun way to pas the time together... though in this\
+      \ modern day that is happening less and less often.</p><br><h1>About the Game</h1>When\
+      \ me and my sister were young, we would play this game to pass the time. We\
+      \ stopped playing because nether of us wanted to draw the dots for the game\
+      \ board. This is actually my second version of the game I have made using Game\
+      \ Maker, the first one was lost to time, however it was much less player friendly\
+      \ to play and required much more trust between players. \r\n\r\nWith this new\
+      \ version I was able to  increase the max number of possible players to 8.\r\
+      \n\r\nThis is a relaxed multi player game with out any combat and can be played\
+      \ by anyone of any age... meant for 2 or more players\r\n\r\n- setting up a\
+      \ game\r\n\r\nto set up a game, use the middle mouse wheel, or the arrow keys\
+      \ to select the number of players, then press the enter button on your keyboard\
+      \ when everyone is ready to play\r\n\r\n- game play\r\n\r\ntake turns using\
+      \ the mouse, left clicking between dots to create lines. You get to create an\
+      \ additional line for every square you make in your turn.\r\n\r\n*note: there\
+      \ is some wiggle room in where you click and still be able to create a line\
+      \ at the desired location.\r\n\r\n*note: both turns and points are done automatically\r\
+      \n\r\n- resetting the game board\r\n\r\nto reset the game board, press the enter\
+      \ button on they keyboard any time during game play, this will reset everything\
+      \ back to start. You can change the number of players or press enter again to\
+      \ start playing a new round."
+    developers:
+    - Jason Swisher
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1287180/header.jpg?t=1591454789
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256780834
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256780834/movie480.mp4?t=1588724025
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256780834/movie_max.mp4?t=1588724025
+      name: 8 player game clips
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256780834/movie.293x165.jpg?t=1588724025
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256780834/movie480_vp9.webm?t=1588724025
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256780834/movie_max_vp9.webm?t=1588724025
+    name: Squares
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Squares - $0.99
+        packageid: 448842
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Squares
+    packages:
+    - 448842
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> 1 gigahertz (GHz) or faster
+        processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        an integrated graphics card<br></li><li><strong>DirectX:</strong> Version
+        9.0<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Sound
+        Card:</strong> N/A</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Jason Swisher
+    release_date:
+      coming_soon: false
+      date: May 19, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_f8b479457b502b88bcc49326ec43202db3eb91ff.1920x1080.jpg?t=1591454789
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_f8b479457b502b88bcc49326ec43202db3eb91ff.600x338.jpg?t=1591454789
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_e38254f3fbb35c76398c3fdfb245d5b7e8def068.1920x1080.jpg?t=1591454789
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_e38254f3fbb35c76398c3fdfb245d5b7e8def068.600x338.jpg?t=1591454789
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_c76c675a3bb04249f930fb6154669f9a5b2815f9.1920x1080.jpg?t=1591454789
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_c76c675a3bb04249f930fb6154669f9a5b2815f9.600x338.jpg?t=1591454789
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_6880a833f3b2e445fcbd8d241b25003f4cf183ee.1920x1080.jpg?t=1591454789
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_6880a833f3b2e445fcbd8d241b25003f4cf183ee.600x338.jpg?t=1591454789
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_b4c666cd1980fac8301b17a553e4f2083e45eda3.1920x1080.jpg?t=1591454789
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1287180/ss_b4c666cd1980fac8301b17a553e4f2083e45eda3.600x338.jpg?t=1591454789
+    short_description: Squares is a relaxed multi player game with out any combat
+      and can be played by anyone of any age...
+    steam_appid: 1287180
+    support_info:
+      email: gamecreatorj@yahoo.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw2NnlofICdeXsiQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1590271600
+      num_games_owned: 138
+      num_reviews: 159
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198353593495'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '69690965'
+    review: ill give it a thumbs up cuz i loved squares as a kid and love the idea
+      of making a computer game out of it. Its is local only so if you are solo player
+      or dont know anybody near you, you cant really play a game of squares. was kinda
+      hoping it would have online multiplayer. Also i found the control to be werid.
+      Hard to explain. there not what you think it would be. anyways cool game. you
+      can only play it if someone is sitting next to you.
+    steam_purchase: true
+    timestamp_created: 1590271856
+    timestamp_updated: 1590271856
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

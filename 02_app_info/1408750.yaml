@@ -1,0 +1,67 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Being an horror game it does contain some disgusting imagery and scary
+        moments. Such as blood, flesh and jump scares.
+    detailed_description: ''
+    developers:
+    - Indigo Arts
+    fullgame:
+      appid: '1234460'
+      name: Bernadette and the Demon Circus
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1408750/header.jpg?t=1601414134
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Bernadette and the Demon Circus Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Indigo Arts
+    release_date:
+      coming_soon: false
+      date: Sep 3, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1408750
+    support_info:
+      email: contact@indigoarts.net
+      url: https://www.indigoarts.net
+    type: demo
+    website: https://www.indigoarts.net/game/bernadette-and-the-demon-circus/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

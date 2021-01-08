@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: "One Dog Story - The Complete Soundtrack<br />\r\n<br />\r\n01\
+      \ - Alberth theme<br />\r\n02 - The Pit<br />\r\n03 - The Water<br />\r\n04\
+      \ - Without<br />\r\n05 - Caves<br />\r\n06 - The Shaft<br />\r\n07 - Experimental\
+      \ Object Number 43<br />\r\n08 - Greenhall<br />\r\n09 - Entering labs<br />\r\
+      \n10 - The Keeper<br />\r\n11 - Sector A<br />\r\n12 - Retribution<br />\r\n\
+      13 - Glitch Dog!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/620260/page_bg_generated_v6b.jpg?t=1568383431
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "One Dog Story - The Complete Soundtrack<br />\r\n<br />\r\
+      \n01 - Alberth theme<br />\r\n02 - The Pit<br />\r\n03 - The Water<br />\r\n\
+      04 - Without<br />\r\n05 - Caves<br />\r\n06 - The Shaft<br />\r\n07 - Experimental\
+      \ Object Number 43<br />\r\n08 - Greenhall<br />\r\n09 - Entering labs<br />\r\
+      \n10 - The Keeper<br />\r\n11 - Sector A<br />\r\n12 - Retribution<br />\r\n\
+      13 - Glitch Dog!"
+    developers:
+    - Big Way Games
+    fullgame:
+      appid: '588110'
+      name: One Dog Story
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/620260/header.jpg?t=1568383431
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        390 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        390 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        390 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        390 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: One Dog Story - The Complete Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: One Dog Story Soundtrack - $0.99
+        packageid: 166575
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy One Dog Story - The Complete Soundtrack
+    packages:
+    - 166575
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        390 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        390 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Big Way
+    release_date:
+      coming_soon: false
+      date: Apr 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/620260/ss_97701a61d1c4500d40b6b351e0b586ab20400e0c.1920x1080.jpg?t=1568383431
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/620260/ss_97701a61d1c4500d40b6b351e0b586ab20400e0c.600x338.jpg?t=1568383431
+    short_description: One Dog Story - The Complete Soundtrack
+    steam_appid: 620260
+    support_info:
+      email: redgear@bigwaygames.com
+      url: http://bigwaygames.com
+    supported_languages: English, French, German, Spanish - Spain, Russian, Japanese
+    type: dlc
+    website: http://bigwaygames.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

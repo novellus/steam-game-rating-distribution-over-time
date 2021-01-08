@@ -1,0 +1,94 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '413850'
+      name: CS:GO Player Profiles
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/458260/header.jpg?t=1469489067
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'CS:GO Player Profiles: pashaBiceps - Virtus.Pro'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: CS:GO Player Profiles - Free
+        packageid: 82994
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy CS:GO Player Profiles: pashaBiceps - Virtus.Pro'
+    packages:
+    - 82994
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 28, 2016
+    required_age: 0
+    short_description: From team Virtus.Pro, learn more about...
+    steam_appid: 458260
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: ''
+  success: true
+reviews:
+  cursor: AoJwrr36vdoCf5yccw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1488137231
+      num_games_owned: 923
+      num_reviews: 412
+      playtime_at_review: 7
+      playtime_forever: 7
+      playtime_last_two_weeks: 0
+      steamid: '76561198206881763'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '30204367'
+    review: Pasha give me your skills and I will offer you my huge ass biceps;)
+    steam_purchase: true
+    timestamp_created: 1488137612
+    timestamp_updated: 1488137612
+    voted_up: true
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: '0.47413790225982666'
+    written_during_early_access: false
+  success: 1

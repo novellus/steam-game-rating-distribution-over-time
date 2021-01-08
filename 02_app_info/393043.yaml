@@ -1,0 +1,130 @@
+details:
+  data:
+    about_the_game: Unlock the wedding outfit for your main character!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/393043/page_bg_generated_v6b.jpg?t=1485965398
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: Unlock the wedding outfit for your main character!
+    developers:
+    - Winged Cloud
+    fullgame:
+      appid: '383080'
+      name: Sakura Clicker
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/393043/header.jpg?t=1485965398
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Sakura Clicker - Wedding Outfit
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sakura Clicker - Wedding Outfit - $1.99
+        packageid: 75224
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Sakura Clicker - Wedding Outfit
+    packages:
+    - 75224
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Microsoft Windows XP/Vista/7/8 (32 bit or 64 bit)<br></li><li><strong>Processor:</strong>\
+        \ 1Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>\
+        \ DirectX\xAE 9 Compatible Graphics Card<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Winged Cloud
+    release_date:
+      coming_soon: false
+      date: Aug 11, 2015
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/393043/ss_924a5ef6c55fb011379ac751ff29bc766370d64e.1920x1080.jpg?t=1485965398
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/393043/ss_924a5ef6c55fb011379ac751ff29bc766370d64e.600x338.jpg?t=1485965398
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/393043/ss_924a5ef6c55fb011379ac751ff29bc766370d64e.1920x1080.jpg?t=1485965398
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/393043/ss_924a5ef6c55fb011379ac751ff29bc766370d64e.600x338.jpg?t=1485965398
+    short_description: Unlock the wedding outfit for your main character!
+    steam_appid: 393043
+    support_info:
+      email: support@winged-cloud.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4+7fpv9ICdvziQg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 519
+      num_reviews: 14
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198036356539'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '17504198'
+    review: 'EDIT 1/26/2016: For whatever reason, they removed several color options
+      (the best ones) from the item in the most recent beta update. I hope it''s only
+      a temporary issue, but this makes the item significantly worse than it was before.
+      http://i.imgur.com/l7wtFxt.jpg
+
+
+      Easily the best piece of DLC for this game. Tons of detail and 10 different
+      color variations. http://i.imgur.com/uFNNRma.jpg'
+    steam_purchase: true
+    timestamp_created: 1439385172
+    timestamp_updated: 1453840515
+    voted_up: true
+    votes_funny: 5
+    votes_up: 4
+    weighted_vote_score: '0.413549512624740601'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,78 @@
+details:
+  data:
+    about_the_game: "Welcome to &quot;Super Turbo Sudoku&quot;!<br />\r\n<br />\r\n\
+      The demo of the game includes 5 Levels, each of them having a different difficulties.<br\
+      \ />\r\n<br />\r\nThe full version includes 90 Levels with 6 different difficulties!\
+      \ Furthermore it has a Level Editor and a Sudoku Solver.<br />\r\n<br />\r\n\
+      Enjoy!"
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Welcome to &quot;Super Turbo Sudoku&quot;!<br />\r\n<br\
+      \ />\r\nThe demo of the game includes 5 Levels, each of them having a different\
+      \ difficulties.<br />\r\n<br />\r\nThe full version includes 90 Levels with\
+      \ 6 different difficulties! Furthermore it has a Level Editor and a Sudoku Solver.<br\
+      \ />\r\n<br />\r\nEnjoy!"
+    developers:
+    - Evil Chicken
+    fullgame:
+      appid: '958640'
+      name: Super Turbo Sudoku
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/980180/header.jpg?t=1541788682
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Super Turbo Sudoku Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Pentium<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong>
+        310 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Pentium<br></li><li><strong>Memory:</strong>
+        4 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong>
+        400 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Evil Chicken
+    release_date:
+      coming_soon: false
+      date: Nov 9, 2018
+    required_age: 0
+    short_description: Welcome to &quot;Super Turbo Sudoku&quot;! The demo of the
+      game includes 5 Levels, each of them having a different difficulties. The full
+      version includes 90 Levels with 6 different difficulties! Furthermore it has
+      a Level Editor and a Sudoku Solver. Enjoy!
+    steam_appid: 980180
+    support_info:
+      email: super-turbo-sudoku@web.de
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

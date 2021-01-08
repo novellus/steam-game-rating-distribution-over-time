@@ -1,0 +1,110 @@
+details:
+  data:
+    about_the_game: "Purchase the \u201CBerserker Bundle\u201D to get a head start\
+      \ on the competition with 600 shards plus Berserker Aura!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/463904/page_bg_generated_v6b.jpg?t=1463528205
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Purchase the \u201CBerserker Bundle\u201D to get a head\
+      \ start on the competition with 600 shards plus Berserker Aura!"
+    developers:
+    - Wicked Fun, Inc.
+    fullgame:
+      appid: '368980'
+      name: Force of Elements
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/463904/header.jpg?t=1463528205
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Berserker Bundle
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Berserker Bundle - $2.99
+        packageid: 101612
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Berserker Bundle
+    packages:
+    - 101612
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 17, 2016
+    required_age: 0
+    reviews: "\u201CI've found the perfect online game for me!\u201D<br><a href=\"\
+      http://kotaku.com/ive-found-the-perfect-competitive-online-game-for-me-1750365762\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >Kotaku</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/463904/ss_83cde9b6502bfc85fb8e407eb5f8763889f1e7dd.1920x1080.jpg?t=1463528205
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/463904/ss_83cde9b6502bfc85fb8e407eb5f8763889f1e7dd.600x338.jpg?t=1463528205
+    short_description: "Purchase the \u201CBerserker Bundle\u201D to get a head start\
+      \ on the competition with 600 shards plus Berserker Aura!"
+    steam_appid: 463904
+    support_info:
+      email: devin@wickedfun.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://wickedfun.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

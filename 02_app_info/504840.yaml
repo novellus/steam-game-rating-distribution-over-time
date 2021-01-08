@@ -1,0 +1,185 @@
+details:
+  data:
+    about_the_game: Surround yourself by three walls of falling bricks as you work
+      as fast as you can to clear them.  Using quick timing and careful placement
+      you will move the bricks into complete rows to remove them before they become
+      too high.  As you clear more and more the challenge will only become harder
+      as the bricks fall faster and appear more rapidly.  How long will you last?
+    achievements:
+      highlighted:
+      - name: Amateur Stacker
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/d33cbe0aa0480801bebbc3d56ef5831073b5232a.jpg
+      - name: Professional Stacker
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/4886901ceb5f2f319992f3e3b656f5253c4cf502.jpg
+      - name: Stack Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/198cdb1f011fdb67a5b5cae22b1e11e30c418796.jpg
+      - name: Brick Smasher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/01180dde62fdda9d6d025e6e0bf70e951dd71fc2.jpg
+      - name: Brick Destroyer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/dd3e93c0a17b01eabd905cae0693605b04604ba7.jpg
+      - name: Brick Eradicator
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/aa01e1321b4186724b6127e7fc0391d74e6b90f5.jpg
+      - name: Brick Annihilator
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/5fd8ed52c95279a4474a16acf6c0fb2c90920e4f.jpg
+      - name: Dedicated
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/8a1880095838e23fe968155ea0e312789d341586.jpg
+      - name: Time Waster
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/bb3631957d228673c9735a45133fd2774083943e.jpg
+      - name: Score? Who Cares
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/504840/ab981982d6ebcf42ad6fbd461d8182f98f6c3850.jpg
+      total: 10
+    background: https://steamcdn-a.akamaihd.net/steam/apps/504840/page_bg_generated_v6b.jpg?t=1483506985
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Surround yourself by three walls of falling bricks as you
+      work as fast as you can to clear them.  Using quick timing and careful placement
+      you will move the bricks into complete rows to remove them before they become
+      too high.  As you clear more and more the challenge will only become harder
+      as the bricks fall faster and appear more rapidly.  How long will you last?
+    developers:
+    - Andrew French
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/504840/header.jpg?t=1483506985
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256667305
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256667305/movie480.mp4?t=1469147908
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256667305/movie_max.mp4?t=1469147908
+      name: Brick Stack VR Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256667305/movie.293x165.jpg?t=1469147908
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256667305/movie480.webm?t=1469147908
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256667305/movie_max.webm?t=1469147908
+    name: Brick Stack VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Brick Stack VR - $3.99
+        packageid: 116258
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Brick Stack VR
+    packages:
+    - 116258
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 64-bit<br></li><li><strong>Processor:</strong> Intel\xAE i5-4590,\
+        \ AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong> 4\
+        \ GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX 970,\
+        \ AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>Storage:</strong>\
+        \ 50 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Andrew French
+    release_date:
+      coming_soon: false
+      date: Jul 26, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_1869abe6539c0dc310e8bc74a34d5b9cb480215f.1920x1080.jpg?t=1483506985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_1869abe6539c0dc310e8bc74a34d5b9cb480215f.600x338.jpg?t=1483506985
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_36fb53713191721788d60a25266e5bc9c7e342c9.1920x1080.jpg?t=1483506985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_36fb53713191721788d60a25266e5bc9c7e342c9.600x338.jpg?t=1483506985
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_73dcbbdd138dd2c19e2ad543492c485834ab4f98.1920x1080.jpg?t=1483506985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_73dcbbdd138dd2c19e2ad543492c485834ab4f98.600x338.jpg?t=1483506985
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_7ea7f2b5ec2996a97b6ff426af2560a6f129d457.1920x1080.jpg?t=1483506985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_7ea7f2b5ec2996a97b6ff426af2560a6f129d457.600x338.jpg?t=1483506985
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_6d889638c4fc3a611909a0d845c1d2ab5d454f48.1920x1080.jpg?t=1483506985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/504840/ss_6d889638c4fc3a611909a0d845c1d2ab5d454f48.600x338.jpg?t=1483506985
+    short_description: Surround yourself by three walls of falling bricks as you work
+      as fast as you can to clear them.
+    steam_appid: 504840
+    support_info:
+      email: brickstackvr@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ49quCmvICc7eOiQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 10
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 1590011065
+      num_games_owned: 34
+      num_reviews: 22
+      playtime_at_review: 303
+      playtime_forever: 312
+      playtime_last_two_weeks: 0
+      steamid: '76561198265048136'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '69497715'
+    review: 'It''s not bad for a simple tetris game.
+
+
+      I wish there were different sounds for blocks appearing compared to moving and
+      placing. Also sometimes when placing the blocks in 1 wall they will jump unexpectedly,
+      even to another wall. The level progression could be better too. The cross blocks
+      and skulls should come in much later or have options just to disable them.
+
+
+      Sadly I don''t think the dev is interested in this anymore so I''m not expecting
+      updates
+
+
+      But for the price it''s a bit of good fun and exercise, mixed with a good dose
+      of nostalgia.'
+    steam_purchase: true
+    timestamp_created: 1590010929
+    timestamp_updated: 1590010929
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: <i>Secure the Skies</i> is a music-based aerial combat game. Check
+      out this demo to get access to:<br><br><i>-4 Ships</i><br><i>-4 Arenas</i><br><i>-Single-Player
+      Mode</i><br><i>-Local Split-screen Multiplayer</i>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1431560/page_bg_generated_v6b.jpg?t=1602992685
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <i>Secure the Skies</i> is a music-based aerial combat game.
+      Check out this demo to get access to:<br><br><i>-4 Ships</i><br><i>-4 Arenas</i><br><i>-Single-Player
+      Mode</i><br><i>-Local Split-screen Multiplayer</i>
+    developers:
+    - Double Uppercut Games
+    fullgame:
+      appid: '1431550'
+      name: Secure the Skies
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1431560/header.jpg?t=1602992685
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Secure the Skies Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Sound Card:</strong> Required</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Sound Card:</strong> Required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Double Uppercut Games
+    release_date:
+      coming_soon: false
+      date: Oct 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_ecf2396b7906fae812ce05fdde61502a82199b7d.1920x1080.jpg?t=1602992685
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_ecf2396b7906fae812ce05fdde61502a82199b7d.600x338.jpg?t=1602992685
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_dfa39a0ba91d23b7410392bf316872cfa82a4a50.1920x1080.jpg?t=1602992685
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_dfa39a0ba91d23b7410392bf316872cfa82a4a50.600x338.jpg?t=1602992685
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_4fd05ef3cdb516d4d30d277bbed90ed70252e262.1920x1080.jpg?t=1602992685
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_4fd05ef3cdb516d4d30d277bbed90ed70252e262.600x338.jpg?t=1602992685
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_d8815c2e9eda21c7c65fc0110d96eefd4571174a.1920x1080.jpg?t=1602992685
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431560/ss_d8815c2e9eda21c7c65fc0110d96eefd4571174a.600x338.jpg?t=1602992685
+    short_description: Music-based aerial combat.
+    steam_appid: 1431560
+    support_info:
+      email: doubleuppercutgames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

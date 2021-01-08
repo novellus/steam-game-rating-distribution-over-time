@@ -1,0 +1,52 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - PomPom
+    fullgame:
+      appid: '110600'
+      name: Astro Tripper
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/201170/header.jpg?t=1447354728
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Astro Tripper Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Pom Pom Games
+    release_date:
+      coming_soon: false
+      date: Sep 30, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 201170
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

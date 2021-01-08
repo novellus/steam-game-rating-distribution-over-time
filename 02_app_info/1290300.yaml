@@ -1,0 +1,89 @@
+details:
+  data:
+    about_the_game: Hello and welcome to the BORE DOME SAMPLE PACK.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1290300/page_bg_generated_v6b.jpg?t=1607016406
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Hello and welcome to the BORE DOME SAMPLE PACK.
+    developers:
+    - Goblin Rage
+    fullgame:
+      appid: '1206090'
+      name: BORE DOME
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1290300/header.jpg?t=1607016406
+    is_free: true
+    legal_notice: "\xA9 Copyright 2019, Aggelos Efstathopoulos and Andr\xE9s Cabrero\
+      \ Rodr\xEDguez-Estecha. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: BORE DOME Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i3-3210<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ GTX 660<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i5-8600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ GTX 760<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Goblin Rage
+    release_date:
+      coming_soon: false
+      date: Apr 20, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290300/ss_c89c91b080bb9654e9811b816d51da0b6b4a880a.1920x1080.jpg?t=1607016406
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290300/ss_c89c91b080bb9654e9811b816d51da0b6b4a880a.600x338.jpg?t=1607016406
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290300/ss_c8edadf5a140b0e3a4479bc0721689fc478d0e68.1920x1080.jpg?t=1607016406
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290300/ss_c8edadf5a140b0e3a4479bc0721689fc478d0e68.600x338.jpg?t=1607016406
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1290300/ss_171aebf65ef57b48f7fc4cb0447a976ea4474835.1920x1080.jpg?t=1607016406
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1290300/ss_171aebf65ef57b48f7fc4cb0447a976ea4474835.600x338.jpg?t=1607016406
+    short_description: Hello
+    steam_appid: 1290300
+    support_info:
+      email: goblinrage42@gmail.com
+      url: https://cargocollective.com/boredome
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: https://cargocollective.com/boredome
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

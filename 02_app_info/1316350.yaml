@@ -1,0 +1,82 @@
+details:
+  data:
+    about_the_game: Soundtrack of the game Link Wars featuring four original tracks.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1316350/page_bg_generated_v6b.jpg?t=1590781410
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack of the game Link Wars featuring four original
+      tracks.
+    developers:
+    - Lunar Chili
+    fullgame:
+      appid: '1167490'
+      name: Link Wars
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1316350/header.jpg?t=1590781410
+    is_free: false
+    legal_notice: All contents are Copyright 2020 by GXM LLC except otherwise specified.
+    linux_requirements: []
+    mac_requirements: []
+    name: Link Wars - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Link Wars - Soundtrack - $2.99
+        packageid: 459704
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Link Wars - Soundtrack
+    packages:
+    - 459704
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Lunar Chili
+    release_date:
+      coming_soon: false
+      date: May 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1316350/ss_dff7bde1a03c8fa8b5f1889c57f446e014525748.1920x1080.jpg?t=1590781410
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1316350/ss_dff7bde1a03c8fa8b5f1889c57f446e014525748.600x338.jpg?t=1590781410
+    short_description: Soundtrack of the game Link Wars featuring four original tracks.
+    steam_appid: 1316350
+    support_info:
+      email: support@lunarchili.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

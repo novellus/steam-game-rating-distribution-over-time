@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '581510'
+      name: The Walking Dead
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/957970/header.jpg?t=1539030504
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Walking Dead: A New Beginning'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Walking Dead: A New Beginning - $2.99'
+        packageid: 313037
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy The Walking Dead: A New Beginning'
+    packages:
+    - 313037
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 8, 2018
+    required_age: 0
+    short_description: Rick and his group make a risky run to D.C. in search of tools
+      they need to build a new world.
+    steam_appid: 957970
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw8u6P0ewCePjH0AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1566271050
+      num_games_owned: 23
+      num_reviews: 4
+      playtime_at_review: 4
+      playtime_forever: 9
+      playtime_last_two_weeks: 0
+      steamid: '76561198355135739'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '54673288'
+    review: i got on it it did not work
+    steam_purchase: true
+    timestamp_created: 1566090164
+    timestamp_updated: 1566090164
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

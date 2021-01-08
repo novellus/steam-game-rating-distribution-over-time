@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: This donation DLC is 100 percent optional and contains absolutely
+      nothing.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1410130/page_bg_generated_v6b.jpg?t=1598631148
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This donation DLC is 100 percent optional and contains absolutely
+      nothing.
+    developers:
+    - Team Syukino
+    fullgame:
+      appid: '1367950'
+      name: Aeloren Tactics
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1410130/header.jpg?t=1598631148
+    is_free: false
+    legal_notice: Aeloren Tactics is the sole property of Team Syukino.
+    linux_requirements: []
+    mac_requirements: []
+    name: Aeloren Tactics- Bandit Princess Donation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Aeloren Tactics- Bandit Princess Donation - <span class="discount_original_price">$2.99</span>
+          $0.74
+        packageid: 494930
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 74
+      title: Buy Aeloren Tactics- Bandit Princess Donation
+    packages:
+    - 494930
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Microsoft\xAE Windows\xAE 7/8/8.1/10 (64bit)<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE Pentium\xAE 4 2.0 GHz equivalent or faster processor<br></li><li><strong>Memory:</strong>\
+        \ 512 MB RAM<br></li><li><strong>Graphics:</strong> 1024 x 768 pixels or higher\
+        \ desktop resolution<br></li><li><strong>Storage:</strong> 617 MB available\
+        \ space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Microsoft Windows 8.1 / 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 74
+      final_formatted: $0.74
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - Team Syukino
+    release_date:
+      coming_soon: false
+      date: Aug 28, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_5e72a470007376032e3b3fbeedf44a89124143e5.1920x1080.jpg?t=1598631148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_5e72a470007376032e3b3fbeedf44a89124143e5.600x338.jpg?t=1598631148
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_96ed188aaf4016cfd58242f173d717159838a414.1920x1080.jpg?t=1598631148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_96ed188aaf4016cfd58242f173d717159838a414.600x338.jpg?t=1598631148
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_1a26c23c6c4c21888289048f4ebb7eb4eef7566f.1920x1080.jpg?t=1598631148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_1a26c23c6c4c21888289048f4ebb7eb4eef7566f.600x338.jpg?t=1598631148
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_cff587f44376257cd48b7995e989584b4bc62310.1920x1080.jpg?t=1598631148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_cff587f44376257cd48b7995e989584b4bc62310.600x338.jpg?t=1598631148
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_fd43c715cba3c085217bf2005676cfcd729400eb.1920x1080.jpg?t=1598631148
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1410130/ss_fd43c715cba3c085217bf2005676cfcd729400eb.600x338.jpg?t=1598631148
+    short_description: Donate to Team Syukino to help further the future updates of
+      Aeloren Tactics and keep Team Syukino afloat.
+    steam_appid: 1410130
+    support_info:
+      email: Princethedo@protonmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

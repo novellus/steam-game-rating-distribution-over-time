@@ -1,0 +1,82 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '683020'
+      name: Tsukigakirei
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/683020/header.jpg?t=1553553590
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Tsukigakirei: Kokoro'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Tsukigakirei: Kokoro - $1.99'
+        packageid: 195611
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Tsukigakirei: Kokoro'
+    packages:
+    - 195611
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 26, 2017
+    required_age: 0
+    short_description: Akane and Kotaro want to spend more time together at school,
+      but they can never seem to find the time or space. Chinatsu, meanwhile, seems
+      to have no trouble finding ways to hang out with him.
+    steam_appid: 684084
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

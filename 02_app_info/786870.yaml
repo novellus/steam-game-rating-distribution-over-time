@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: ReHack - Soundtrack is the DLC pack with ReHack game soundtrack.
+      It includes a collection of 18 MP3 tracks. New tracks will be added for free.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/786870/page_bg_generated_v6b.jpg?t=1584148474
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ReHack - Soundtrack is the DLC pack with ReHack game soundtrack.
+      It includes a collection of 18 MP3 tracks. New tracks will be added for free.
+    developers:
+    - EasyWays Team
+    fullgame:
+      appid: '786180'
+      name: ReHack
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/786870/header.jpg?t=1584148474
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256712745
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256712745/movie480.mp4?t=1522219644
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256712745/movie_max.mp4?t=1522219644
+      name: ReHack Soundtrack Update
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256712745/movie.293x165.jpg?t=1522219644
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256712745/movie480.webm?t=1522219644
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256712745/movie_max.webm?t=1522219644
+    - highlight: true
+      id: 256706111
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256706111/movie480.mp4?t=1516401282
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256706111/movie_max.mp4?t=1516401282
+      name: ReHack Soundtrack Release
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256706111/movie.293x165.jpg?t=1516401282
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256706111/movie480.webm?t=1516401282
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256706111/movie_max.webm?t=1516401282
+    name: ReHack - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ReHack - Soundtrack - $0.99
+        packageid: 237627
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy ReHack - Soundtrack
+    packages:
+    - 237627
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        120 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - EasyWays
+    release_date:
+      coming_soon: false
+      date: Feb 22, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786870/ss_b99162699ab3b778397358dfa8060e7a370d1c79.1920x1080.jpg?t=1584148474
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786870/ss_b99162699ab3b778397358dfa8060e7a370d1c79.600x338.jpg?t=1584148474
+    short_description: ReHack - Soundtrack is the DLC pack with ReHack game soundtrack.
+    steam_appid: 786870
+    support_info:
+      email: easyways386@gmail.com
+      url: https://vk.com/rehackgame
+    supported_languages: English, Russian
+    type: music
+    website: https://www.youtube.com/GermanVX
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

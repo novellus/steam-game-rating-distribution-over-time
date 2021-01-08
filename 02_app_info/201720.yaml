@@ -1,0 +1,64 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      total: 0
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - exosyphen studios
+    fullgame:
+      appid: '70120'
+      name: Hacker Evolution Duality
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/201720/header.jpg?t=1447354812
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Hacker Evolution Duality Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - exosyphen studios
+    release_date:
+      coming_soon: false
+      date: Nov 2, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 201720
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

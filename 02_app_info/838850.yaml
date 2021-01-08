@@ -1,0 +1,101 @@
+details:
+  data:
+    about_the_game: "The original soundtrack by Daniel Dante and extra B-sides.<br\
+      \ />\r\n<br />\r\nSetlist:<br />\r\n1 - Start<br />\r\n2 - Starto<br />\r\n\
+      3 - Box Box Revolution<br />\r\n4 - Inan<br />\r\n5 - Crossing<br />\r\n6 -\
+      \ Seeking<br />\r\n7 - Jingle<br />\r\n8 - Shine<br />\r\n9 - Ending<br />\r\
+      \n+ extra B-sides"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/838850/page_bg_generated_v6b.jpg?t=1524157728
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The original soundtrack by Daniel Dante and extra B-sides.<br\
+      \ />\r\n<br />\r\nSetlist:<br />\r\n1 - Start<br />\r\n2 - Starto<br />\r\n\
+      3 - Box Box Revolution<br />\r\n4 - Inan<br />\r\n5 - Crossing<br />\r\n6 -\
+      \ Seeking<br />\r\n7 - Jingle<br />\r\n8 - Shine<br />\r\n9 - Ending<br />\r\
+      \n+ extra B-sides"
+    developers:
+    - Daniel Dante
+    fullgame:
+      appid: '833540'
+      name: The Platformer Gun
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/838850/header.jpg?t=1524157728
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Platformer Gun - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Platformer Gun - Original Soundtrack - $0.99
+        packageid: 261763
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy The Platformer Gun - Original Soundtrack
+    packages:
+    - 261763
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later<br></li><li><strong>Processor:</strong> 2 GHz or better<br></li><li><strong>Graphics:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound
+        Card:</strong> yes</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 19, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/838850/ss_14b2dedff3f2f23909931fe804eb8702138a166d.1920x1080.jpg?t=1524157728
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/838850/ss_14b2dedff3f2f23909931fe804eb8702138a166d.600x338.jpg?t=1524157728
+    short_description: The original soundtrack by Daniel Dante.
+    steam_appid: 838850
+    support_info:
+      email: danielfelipedante@gmail.com
+      url: https://twitter.com/DanielFelipePTA
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,183 @@
+details:
+  data:
+    about_the_game: Zolg is a minimalist top-down shooter where you explore, fight
+      enemies, collect powerups, and defeat bosses.  Move and aim with WASD + mouse
+      or you can use a controller.  Controllers can be configured from the main menu.  There
+      are 5 powerup types to collect, 6 bosses to fight, and various other enemies
+      and obstacles in your path.  This game also has Steam trading cards and 40 achievements
+      of varying difficulty to unlock.<br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/555710/extras/Steam_GIF.png?t=1601316910"
+      />
+    achievements:
+      highlighted:
+      - name: 3 Health
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/e49b94f5983a59a0ca266b4b29b23727702fb49a.jpg
+      - name: 4 Health
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/776b1b6534c7b76b2ef40860a52c7fec47cc3c7b.jpg
+      - name: 5 Health
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/92076e8cec0e57485bf5a9f8c089c4dcaddb3b77.jpg
+      - name: 6 Health
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/aa274403cda8247b577404196c8d5157b7e179c2.jpg
+      - name: 7 Health
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/51eec536534095917c98cdd0ec5d9cfd774fc2a1.jpg
+      - name: 800 Shots
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/3195ea5741a0f640d5d555dc811b084b25f90438.jpg
+      - name: 1200 Shots
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/e0ab08623b2eab3b7f4fa028da6ca4676406d156.jpg
+      - name: 1500 Shots
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/7f7a5042fb53b3582c64696d57dd1d30f838562d.jpg
+      - name: Bouncer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/2963085553d9707f55c7d703f2de009bf2f5c389.jpg
+      - name: Orbital
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555710/5a2756c8be640586bafb625c39795d24aeee6883.jpg
+      total: 40
+    background: https://steamcdn-a.akamaihd.net/steam/apps/555710/page_bg_generated_v6b.jpg?t=1601316910
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Zolg is a minimalist top-down shooter where you explore,
+      fight enemies, collect powerups, and defeat bosses.  Move and aim with WASD
+      + mouse or you can use a controller.  Controllers can be configured from the
+      main menu.  There are 5 powerup types to collect, 6 bosses to fight, and various
+      other enemies and obstacles in your path.  This game also has Steam trading
+      cards and 40 achievements of varying difficulty to unlock.<br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/555710/extras/Steam_GIF.png?t=1601316910"
+      />
+    developers:
+    - Robert Alvarez
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/555710/header.jpg?t=1601316910
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac 10.8<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 256MB Graphics<br></li><li><strong>Storage:</strong>
+        30 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256675375
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256675375/movie480.mp4?t=1480454284
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256675375/movie_max.mp4?t=1480454284
+      name: Zolg
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256675375/movie.293x165.jpg?t=1480454284
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256675375/movie480.webm?t=1480454284
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256675375/movie_max.webm?t=1480454284
+    name: Zolg
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Zolg - $0.99
+        packageid: 138771
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Zolg
+    packages:
+    - 138771
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 256MB Graphics<br></li><li><strong>Storage:</strong>
+        30 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Robert Alvarez
+    recommendations:
+      total: 144
+    release_date:
+      coming_soon: false
+      date: Dec 2, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_ed08cbba22b60a4edc22a1aa73397b7ee79819aa.1920x1080.jpg?t=1601316910
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_ed08cbba22b60a4edc22a1aa73397b7ee79819aa.600x338.jpg?t=1601316910
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_992f4490ab920b427a158352cc2f8e4bc22ace04.1920x1080.jpg?t=1601316910
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_992f4490ab920b427a158352cc2f8e4bc22ace04.600x338.jpg?t=1601316910
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_41dc34ca3b38cfced6b480fee0de0280e1a3230c.1920x1080.jpg?t=1601316910
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_41dc34ca3b38cfced6b480fee0de0280e1a3230c.600x338.jpg?t=1601316910
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_24aaad5972b9e7fa4101b0188f4fbaef64dd9604.1920x1080.jpg?t=1601316910
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_24aaad5972b9e7fa4101b0188f4fbaef64dd9604.600x338.jpg?t=1601316910
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_d7f22e949c8e073625e9c5f47ccd2ec6a550c2da.1920x1080.jpg?t=1601316910
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/555710/ss_d7f22e949c8e073625e9c5f47ccd2ec6a550c2da.600x338.jpg?t=1601316910
+    short_description: Zolg is a minimalist top-down shooter where you explore, fight
+      enemies, collect powerups, and defeat bosses.
+    steam_appid: 555710
+    support_info:
+      email: ''
+      url: http://rob1221.weebly.com/contact.html
+    supported_languages: English<strong>*</strong>, Russian<strong>*</strong>, Simplified
+      Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ48dvHifYCfZWGtQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 34
+    total_positive: 110
+    total_reviews: 144
+  reviews:
+  - author:
+      last_played: 1605710632
+      num_games_owned: 500
+      num_reviews: 507
+      playtime_at_review: 223
+      playtime_forever: 223
+      playtime_last_two_weeks: 0
+      steamid: '76561198997403008'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '81015133'
+    review: "Kart i\xE7in uygun\n"
+    steam_purchase: true
+    timestamp_created: 1606638559
+    timestamp_updated: 1606638559
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.545454561710357666'
+    written_during_early_access: false
+  success: 1

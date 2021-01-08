@@ -1,0 +1,144 @@
+details:
+  data:
+    about_the_game: 'The official soundtrack to Half-Life: Alyx. Following the story
+      and locations of Half-Life: Alyx, the soundtrack evolves and combines industrial,
+      electronic, experimental and orchestral cinematic pieces, alternating between
+      abstract environmental, emotional soundscapes and direct action oriented cues.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1310460/page_bg_generated_v6b.jpg?t=1606785753
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'The official soundtrack to Half-Life: Alyx. Following the
+      story and locations of Half-Life: Alyx, the soundtrack evolves and combines
+      industrial, electronic, experimental and orchestral cinematic pieces, alternating
+      between abstract environmental, emotional soundscapes and direct action oriented
+      cues.'
+    developers:
+    - Valve
+    fullgame:
+      appid: '546560'
+      name: 'Half-Life: Alyx'
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1310460/header.jpg?t=1606785753
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256787690
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787690/movie480.mp4?t=1591243548
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787690/movie_max.mp4?t=1591243548
+      name: Half-Life Alyx Ch2. Soundtrack Sampler
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256787690/movie.293x165.jpg?t=1591243548
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787690/movie480_vp9.webm?t=1591243548
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787690/movie_max_vp9.webm?t=1591243548
+    - highlight: true
+      id: 256784013
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784013/movie480.mp4?t=1588700821
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784013/movie_max.mp4?t=1588700821
+      name: Half-Life Alyx Ch1. Soundtrack Sampler
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256784013/movie.293x165.jpg?t=1588700821
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784013/movie480_vp9.webm?t=1588700821
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784013/movie_max_vp9.webm?t=1588700821
+    name: 'Half-Life: Alyx Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Half-Life: Alyx Soundtrack - $9.99'
+        packageid: 457448
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: 'Buy Half-Life: Alyx Soundtrack'
+    packages:
+    - 457448
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        405 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 584 MB available space<br></li><li><strong>Additional Notes:</strong>
+        MP3 (320K) + FLAC</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Valve
+    recommendations:
+      total: 101
+    release_date:
+      coming_soon: false
+      date: May 5, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1310460/ss_4c0c95dfc7b5e9ff508ddd11080bc13b92a6f23a.1920x1080.jpg?t=1606785753
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1310460/ss_4c0c95dfc7b5e9ff508ddd11080bc13b92a6f23a.600x338.jpg?t=1606785753
+    short_description: 'The official soundtrack to Half-Life: Alyx. Following the
+      story and locations of Half-Life: Alyx, the soundtrack evolves and combines
+      industrial, electronic, experimental and orchestral cinematic pieces, alternating
+      between abstract environmental, emotional soundscapes and direct action oriented
+      cues.'
+    steam_appid: 1310460
+    support_info:
+      email: ''
+      url: https://help.steampowered.com/en/wizard/HelpWithGame/?appid=546560
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://half-life.com
+  success: true
+reviews:
+  cursor: AoJwitHL2fYCcJnevgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 7
+    total_positive: 94
+    total_reviews: 101
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 254
+      num_reviews: 26
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197982107576'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83554704'
+    review: Half Life soundtracks best genre
+    steam_purchase: true
+    timestamp_created: 1609323940
+    timestamp_updated: 1609323940
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

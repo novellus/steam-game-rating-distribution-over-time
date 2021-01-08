@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: Danny Baranowsky and Grant Kirkhope bring you the epic original
+      music composed for Desktop Dungeons. Contains over an hour of classically-influenced
+      adventure melodies. Feel the chills of the Creeplight Ruins, thrill in the Tower
+      of Gaan-Telet and exercise caution when operating heavy machinery. Do not apply
+      to burned areas, not a flotation device.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/261420/page_bg_generated_v6b.jpg?t=1447359320
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Danny Baranowsky and Grant Kirkhope bring you the epic original
+      music composed for Desktop Dungeons. Contains over an hour of classically-influenced
+      adventure melodies. Feel the chills of the Creeplight Ruins, thrill in the Tower
+      of Gaan-Telet and exercise caution when operating heavy machinery. Do not apply
+      to burned areas, not a flotation device.
+    developers:
+    - QCF Design
+    fullgame:
+      appid: '226620'
+      name: Desktop Dungeons
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/261420/header.jpg?t=1447359320
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX Lion<br></li><li><strong>Processor:</strong> 1.2GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    name: Desktop Dungeons Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Desktop Dungeons Soundtrack - $9.99
+        packageid: 33748
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Desktop Dungeons Soundtrack
+    packages:
+    - 33748
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1.2GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - QCF Design
+    release_date:
+      coming_soon: false
+      date: Nov 7, 2013
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/261420/ss_6d24fa537fc5aaff1bfa91a9c60bd631643fe8da.1920x1080.jpg?t=1447359320
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/261420/ss_6d24fa537fc5aaff1bfa91a9c60bd631643fe8da.600x338.jpg?t=1447359320
+    short_description: Danny Baranowsky and Grant Kirkhope bring you the epic original
+      music composed for Desktop Dungeons. Contains over an hour of classically-influenced
+      adventure melodies. Feel the chills of the Creeplight Ruins, thrill in the Tower
+      of Gaan-Telet and exercise caution when operating heavy machinery.
+    steam_appid: 261420
+    support_info:
+      email: info@qcfdesign.com
+      url: http://www.qcfdesign.com/forum
+    supported_languages: English
+    type: dlc
+    website: http://www.desktopdungeons.net
+  success: true
+reviews:
+  cursor: AoJwzMbI2O0Cc5fo0wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1346
+      num_reviews: 567
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197998455758'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '55525747'
+    review: Stylish medieval folk music.
+    steam_purchase: true
+    timestamp_created: 1570634872
+    timestamp_updated: 1570634872
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

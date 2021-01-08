@@ -1,0 +1,179 @@
+details:
+  data:
+    about_the_game: "Fragile Box - this is a casual game with using physics where\
+      \ you play as a ball. Orange cubes appear on the playing field and your task\
+      \ is to touch them to break them. For each broken cube, you get a point. The\
+      \ difficulty of the game is that red balls randomly appear on the playing field\
+      \ and try to touch you, if this happens, you will lose and you will need to\
+      \ start over. Also, red balls can push orange cubes, thus complicating your\
+      \ task. How many points can you get?<br />\r\n<br />\r\nFeatures:<br />\r\n\
+      <br />\r\n- Use of physics<br />\r\n<br />\r\n- Interesting gameplay<br />\r\
+      \n<br />\r\n- Smart enemies<br />\r\n<br />\r\n- Relaxing graphics<br />\r\n\
+      <br />\r\n- Pleasant music"
+    achievements:
+      highlighted:
+      - name: First Step
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244210/8659a013513a5f1e7b6081676f0a4c478a57a008.jpg
+      - name: Few points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244210/bd951538eee1df8c058a4f9dfc8c60c2e64cead2.jpg
+      - name: Not bad
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244210/a806ac9fe2fd9d9a60af25fa8f527bca9c69a1ea.jpg
+      - name: Good
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244210/9ef4dbf95545ca0d1e25f0fb276b01b698567aeb.jpg
+      - name: Excellent
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244210/f62e0bb854f4bf380da220d6d95f24ee2bb6743a.jpg
+      - name: You are very good
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244210/c63613400eae3476453a7269783f145594ed431a.jpg
+      total: 6
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1244210/page_bg_generated_v6b.jpg?t=1582311654
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Fragile Box - this is a casual game with using physics\
+      \ where you play as a ball. Orange cubes appear on the playing field and your\
+      \ task is to touch them to break them. For each broken cube, you get a point.\
+      \ The difficulty of the game is that red balls randomly appear on the playing\
+      \ field and try to touch you, if this happens, you will lose and you will need\
+      \ to start over. Also, red balls can push orange cubes, thus complicating your\
+      \ task. How many points can you get?<br />\r\n<br />\r\nFeatures:<br />\r\n\
+      <br />\r\n- Use of physics<br />\r\n<br />\r\n- Interesting gameplay<br />\r\
+      \n<br />\r\n- Smart enemies<br />\r\n<br />\r\n- Relaxing graphics<br />\r\n\
+      <br />\r\n- Pleasant music"
+    developers:
+    - Kara Sokra
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1244210/header.jpg?t=1582311654
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256775922
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256775922/movie480.mp4?t=1582288547
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256775922/movie_max.mp4?t=1582288547
+      name: Game
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256775922/movie.293x165.jpg?t=1582288547
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256775922/movie480.webm?t=1582288547
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256775922/movie_max.webm?t=1582288547
+    name: Fragile Box
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Fragile Box - $0.99
+        packageid: 431784
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Fragile Box
+    packages:
+    - 431784
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/7/8/8.1/10<br></li><li><strong>Processor:</strong> 1.2 Ghz or faster
+        processor<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong>
+        512 MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> Keyboard
+        and Mouse</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/7/8/8.1/10<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Keyboard and Mouse</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Kara Sokra
+    release_date:
+      coming_soon: false
+      date: Feb 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_99d54a197bbfb5b6144d33ba7d9d7e727d8ef0a9.1920x1080.jpg?t=1582311654
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_99d54a197bbfb5b6144d33ba7d9d7e727d8ef0a9.600x338.jpg?t=1582311654
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_842bd32bfa1d63ed61c2a668f03615977c28f69e.1920x1080.jpg?t=1582311654
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_842bd32bfa1d63ed61c2a668f03615977c28f69e.600x338.jpg?t=1582311654
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_aceda3a4608417e4b8b51092fa46207fb5957dd0.1920x1080.jpg?t=1582311654
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_aceda3a4608417e4b8b51092fa46207fb5957dd0.600x338.jpg?t=1582311654
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_1ae6895eeda00068fa40e34717eeece017e0b417.1920x1080.jpg?t=1582311654
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_1ae6895eeda00068fa40e34717eeece017e0b417.600x338.jpg?t=1582311654
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_2f03e46e0bef98e3bbb982e91131982fc4da3549.1920x1080.jpg?t=1582311654
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1244210/ss_2f03e46e0bef98e3bbb982e91131982fc4da3549.600x338.jpg?t=1582311654
+    short_description: Fragile Box - this is a physics game in which you play as a
+      ball. Your task is to break the orange cubes and get points for it. You need
+      to avoid red objects that are trying to reach you. If this happens, you will
+      lose. How many points can you get?
+    steam_appid: 1244210
+    support_info:
+      email: vialgaverly@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Portuguese
+      - Brazil, Traditional Chinese, Simplified Chinese, Korean, Polish, Portuguese,
+      Russian, Japanese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4sOOah/YCcN+rtAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 2
+    total_positive: 9
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 1583319470
+      num_games_owned: 9
+      num_reviews: 2
+      playtime_at_review: 7
+      playtime_forever: 7
+      playtime_last_two_weeks: 0
+      steamid: '76561199010526946'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '80829936'
+    review: "\u0442\u043E\u043F"
+    steam_purchase: true
+    timestamp_created: 1606559669
+    timestamp_updated: 1606559669
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

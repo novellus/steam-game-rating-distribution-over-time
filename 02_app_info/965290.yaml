@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: "Do you want to get away from the daily rush and feel relax?<br\
+      \ />\r\nListen amazing tracks from the game.<br />\r\n<br />\r\nTrack list:<br\
+      \ />\r\n1. The journey begins - 02:02<br />\r\n2. Mystical forest - 03:37<br\
+      \ />\r\n3. Endless sands -0 3:05<br />\r\n4. Great plain - 03:12<br />\r\n5.\
+      \ Icy wasteland - 02:55<br />\r\n<br />\r\nEnjoy!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/965290/page_bg_generated_v6b.jpg?t=1539952816
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Do you want to get away from the daily rush and feel relax?<br\
+      \ />\r\nListen amazing tracks from the game.<br />\r\n<br />\r\nTrack list:<br\
+      \ />\r\n1. The journey begins - 02:02<br />\r\n2. Mystical forest - 03:37<br\
+      \ />\r\n3. Endless sands -0 3:05<br />\r\n4. Great plain - 03:12<br />\r\n5.\
+      \ Icy wasteland - 02:55<br />\r\n<br />\r\nEnjoy!"
+    developers:
+    - DigiMight
+    fullgame:
+      appid: '891860'
+      name: Riddles of the Owls Kingdom
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/965290/header.jpg?t=1539952816
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10<br></li><li><strong>Processor:</strong> 1.0 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM</li></ul>
+    name: Riddles of the Owls Kingdom - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Riddles of the Owls Kingdom - Soundtrack - $2.99
+        packageid: 315971
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Riddles of the Owls Kingdom - Soundtrack
+    packages:
+    - 315971
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP3<br></li><li><strong>Processor:</strong> 1500 MHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 19, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/965290/ss_3ce5e50d44d28dd8d17632e0cda597630c6da1c2.1920x1080.jpg?t=1539952816
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/965290/ss_3ce5e50d44d28dd8d17632e0cda597630c6da1c2.600x338.jpg?t=1539952816
+    short_description: Do you want to get away from the daily rush and feel relax?
+      Listen amazing tracks from the game.
+    steam_appid: 965290
+    support_info:
+      email: digimight@gmail.com
+      url: https://www.facebook.com/DigiMight
+    supported_languages: English, Russian, German, French
+    type: dlc
+    website: https://www.facebook.com/DigiMight
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

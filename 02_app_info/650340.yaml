@@ -1,0 +1,200 @@
+details:
+  data:
+    about_the_game: 'TublerVR is a game designed for virtual reality. It''s up to
+      you to help the tublers to grow and collect the rare blue mushroom. Activate
+      bridges with a simple touch and allow the tublers a save passage.<br><br>In
+      this game you stand in the middle of a tubler mushroom village. There you will
+      take control of every tublers path simply by using your wand (controller) to
+      activate and deactivate the bridges you want. Just touch the switches at the
+      poles around you to activate a bridge. <br><br>A switch can have different colors
+      indicating its current state <br><ul class="bb_ul"><li>white: not selected,
+      not activated<br></li><li>red: selected, not activated<br></li><li>green: possible
+      connection to the red switch<br></li><li>blue: connected</li></ul>If you want
+      to activate a bridge, touch/select a &quot;white&quot; switch so it turns red,
+      then touch/select a green one and a bridge is formed. Be aware, bridges cannot
+      be established crossing each other and they can''t be formed at large angles.
+      Touch a white switch and all possible connections are marked &quot;green&quot;.<br>To
+      deactivate a bridge touch one of the blue switches<br><br>By selecting and activating
+      the proper bridge-connections, you help the tublers to grow and collect the
+      rare blue mushroom. A level is won if you were able to place 6 blue mushrooms
+      in the mushroom shrine. The level is lost, if three tublers have fallen to their
+      death.<br><br>Save the tublers!'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/650340/page_bg_generated_v6b.jpg?t=1540812319
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'TublerVR is a game designed for virtual reality. It''s
+      up to you to help the tublers to grow and collect the rare blue mushroom. Activate
+      bridges with a simple touch and allow the tublers a save passage.<br><br>In
+      this game you stand in the middle of a tubler mushroom village. There you will
+      take control of every tublers path simply by using your wand (controller) to
+      activate and deactivate the bridges you want. Just touch the switches at the
+      poles around you to activate a bridge. <br><br>A switch can have different colors
+      indicating its current state <br><ul class="bb_ul"><li>white: not selected,
+      not activated<br></li><li>red: selected, not activated<br></li><li>green: possible
+      connection to the red switch<br></li><li>blue: connected</li></ul>If you want
+      to activate a bridge, touch/select a &quot;white&quot; switch so it turns red,
+      then touch/select a green one and a bridge is formed. Be aware, bridges cannot
+      be established crossing each other and they can''t be formed at large angles.
+      Touch a white switch and all possible connections are marked &quot;green&quot;.<br>To
+      deactivate a bridge touch one of the blue switches<br><br>By selecting and activating
+      the proper bridge-connections, you help the tublers to grow and collect the
+      rare blue mushroom. A level is won if you were able to place 6 blue mushrooms
+      in the mushroom shrine. The level is lost, if three tublers have fallen to their
+      death.<br><br>Save the tublers!'
+    developers:
+    - Reto Kolly
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/650340/header.jpg?t=1540812319
+    is_free: false
+    legal_notice: "Copyright 2018 by Reto Kolly<br />\r\nAll Rights Reserved"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256733599
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256733599/movie480.mp4?t=1540807931
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256733599/movie_max.mp4?t=1540807931
+      name: TublerVR
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256733599/movie.293x165.jpg?t=1540807931
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256733599/movie480.webm?t=1540807931
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256733599/movie_max.webm?t=1540807931
+    name: TublerVR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: TublerVR - $14.99
+        packageid: 183163
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy TublerVR
+    packages:
+    - 183163
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> Windows\
+        \ 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i5-4590/AMD FX\u2122 8350 equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\xAE GTX\
+        \ 970, AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>Storage:</strong>\
+        \ 3 GB available space<br></li><li><strong>Sound Card:</strong> Windows Compatible\
+        \ Sound Card<br></li><li><strong>Additional Notes:</strong> HTC Vive</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i5-4590/AMD FX\u2122 8350 equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\xAE GTX\
+        \ 970, AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>Storage:</strong>\
+        \ 3 GB available space<br></li><li><strong>Sound Card:</strong> Windows Compatible\
+        \ Sound Card<br></li><li><strong>Additional Notes:</strong> HTC Vive</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - SiliconWetware
+    release_date:
+      coming_soon: false
+      date: Oct 29, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_eec4578c59d23f3fed8107bfa19eab215ee85c46.1920x1080.jpg?t=1540812319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_eec4578c59d23f3fed8107bfa19eab215ee85c46.600x338.jpg?t=1540812319
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_f9c118b859f778898c8921934528dfaeac0f9255.1920x1080.jpg?t=1540812319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_f9c118b859f778898c8921934528dfaeac0f9255.600x338.jpg?t=1540812319
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_c787b13f4afcda20059e5f3dd18964a87e6e0d2f.1920x1080.jpg?t=1540812319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_c787b13f4afcda20059e5f3dd18964a87e6e0d2f.600x338.jpg?t=1540812319
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_c23ccd5f445b3a937d18c5e4f36e618875916e7e.1920x1080.jpg?t=1540812319
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/650340/ss_c23ccd5f445b3a937d18c5e4f36e618875916e7e.600x338.jpg?t=1540812319
+    short_description: TublerVR is a game designed for virtual reality. It's up to
+      you to help the tublers to grow and collect the rare blue mushroom. Activate
+      bridges with a simple touch and allow the tublers a save passage. Save the tublers!
+    steam_appid: 650340
+    support_info:
+      email: tublervr@siliconwetware.com
+      url: https://www.siliconwetware.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://www.siliconwetware.com/
+  success: true
+reviews:
+  cursor: AoJ49Y+ovukCc9uBvQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1552573990
+      num_games_owned: 935
+      num_reviews: 802
+      playtime_at_review: 18
+      playtime_forever: 18
+      playtime_last_two_weeks: 0
+      steamid: '76561197971905574'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '49548723'
+    review: "4/10\nThis seems like there is a good game in here somewhere. Unfortunately\
+      \ the devs forgot to include any kind of instructions or tutorial, so I couldn't\
+      \ figure out what to do. \nI think I would avoid this until it comes with an\
+      \ explanation of what you are to do."
+    steam_purchase: true
+    timestamp_created: 1552574087
+    timestamp_updated: 1552574087
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.48211178183555603'
+    written_during_early_access: false
+  success: 1

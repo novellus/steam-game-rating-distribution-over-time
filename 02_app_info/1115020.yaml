@@ -1,0 +1,134 @@
+details:
+  data:
+    about_the_game: "\u73B0\u5728 \u4F60\u662F\u4E00\u4E2A\u8001\u677F \u7BA1\u7740\
+      \u4E00\u4E2A\u5DE5\u5382\u7684\u751F\u5B58\uFF0C\u5728\u4E0D\u540C\u7684\u5E02\
+      \u573A\u73AF\u5883\u4E0B\u751F\u5B58\uFF0C\u8C0B\u6C42\u66F4\u5927\u7684\u8D22\
+      \u5BCC\uFF0C\u4E3A\u6B64\u4F60\u9700\u8981\u5EFA\u8BBE\u623F\u95F4\u3001\u5F15\
+      \u8FDB\u8BBE\u5907\u3001\u62DB\u52DF\u4EBA\u5458\u3001\u7BA1\u7406\u4F5C\u606F\
+      \u3001\u94BB\u7814\u79D1\u7814\u3001\u5F00\u5C55\u8D38\u6613\u3002\u5F53\u7136\
+      \u5728\u4F60\u7A77\u56F0\u6F66\u5012\u7684\u65F6\u5019\u94F6\u884C\u4F1A\u5E2E\
+      \u4E0A\u4F60\u7684\u5927\u5FD9\uFF0C\u4F46\u4E00\u5B9A\u4E0D\u8981\u62D6\u6B20\
+      \u94F6\u884C\u8D37\u6B3E\uFF0C\u5426\u5219\u6CD5\u9662\u4F1A\u8BA9\u4F60\u524D\
+      \u529F\u5C3D\u5F03\uFF01\u52AA\u529B\u751F\u5B58\u5427~"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1115020/page_bg_generated_v6b.jpg?t=1564483612
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u73B0\u5728 \u4F60\u662F\u4E00\u4E2A\u8001\u677F \u7BA1\
+      \u7740\u4E00\u4E2A\u5DE5\u5382\u7684\u751F\u5B58\uFF0C\u5728\u4E0D\u540C\u7684\
+      \u5E02\u573A\u73AF\u5883\u4E0B\u751F\u5B58\uFF0C\u8C0B\u6C42\u66F4\u5927\u7684\
+      \u8D22\u5BCC\uFF0C\u4E3A\u6B64\u4F60\u9700\u8981\u5EFA\u8BBE\u623F\u95F4\u3001\
+      \u5F15\u8FDB\u8BBE\u5907\u3001\u62DB\u52DF\u4EBA\u5458\u3001\u7BA1\u7406\u4F5C\
+      \u606F\u3001\u94BB\u7814\u79D1\u7814\u3001\u5F00\u5C55\u8D38\u6613\u3002\u5F53\
+      \u7136\u5728\u4F60\u7A77\u56F0\u6F66\u5012\u7684\u65F6\u5019\u94F6\u884C\u4F1A\
+      \u5E2E\u4E0A\u4F60\u7684\u5927\u5FD9\uFF0C\u4F46\u4E00\u5B9A\u4E0D\u8981\u62D6\
+      \u6B20\u94F6\u884C\u8D37\u6B3E\uFF0C\u5426\u5219\u6CD5\u9662\u4F1A\u8BA9\u4F60\
+      \u524D\u529F\u5C3D\u5F03\uFF01\u52AA\u529B\u751F\u5B58\u5427~"
+    developers:
+    - "\u7A7A\u8C37\u6E38\u620F"
+    genres:
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1115020/header.jpg?t=1564483612
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256754913
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256754913/movie480.mp4?t=1563323545
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256754913/movie_max.mp4?t=1563323545
+      name: "\u8001\u677F\u653B\u7565pc\u7AEF\u5BA3\u4F20\u7247"
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256754913/movie.293x165.jpg?t=1563323545
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256754913/movie480.webm?t=1563323545
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256754913/movie_max.webm?t=1563323545
+    name: "\u8001\u677F\u653B\u7565"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u8001\u677F\u653B\u7565 - $3.99"
+        packageid: 377462
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: "Buy \u8001\u677F\u653B\u7565"
+    packages:
+    - 377462
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or greater<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> <br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or greater<br></li><li><strong>Processor:</strong> i7<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - "\u7A7A\u8C37\u6E38\u620F"
+    release_date:
+      coming_soon: false
+      date: Jul 30, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_65ad89a532d7677ff43bf2e35fdba302a70c155e.1920x1080.jpg?t=1564483612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_65ad89a532d7677ff43bf2e35fdba302a70c155e.600x338.jpg?t=1564483612
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_7ae9a6fed3f06ea4f2808e7e9a66ca9ae33d669d.1920x1080.jpg?t=1564483612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_7ae9a6fed3f06ea4f2808e7e9a66ca9ae33d669d.600x338.jpg?t=1564483612
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_a27bfb84dd9640de8d64473203a7b1d69bdb2c0f.1920x1080.jpg?t=1564483612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_a27bfb84dd9640de8d64473203a7b1d69bdb2c0f.600x338.jpg?t=1564483612
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_7af8971f74a7f63b2344eb5bc24cb0b370916883.1920x1080.jpg?t=1564483612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_7af8971f74a7f63b2344eb5bc24cb0b370916883.600x338.jpg?t=1564483612
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_5715d6285376bf6be2deaa0a71dc636a4d7486f4.1920x1080.jpg?t=1564483612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_5715d6285376bf6be2deaa0a71dc636a4d7486f4.600x338.jpg?t=1564483612
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_b2ecc8bdd922148904dc56daff3313e0ac0f60a6.1920x1080.jpg?t=1564483612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1115020/ss_b2ecc8bdd922148904dc56daff3313e0ac0f60a6.600x338.jpg?t=1564483612
+    short_description: "\u73B0\u5728 \u4F60\u662F\u4E00\u4E2A\u8001\u677F..."
+    steam_appid: 1115020
+    support_info:
+      email: 470618221@qq.com
+      url: ''
+    supported_languages: Simplified Chinese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

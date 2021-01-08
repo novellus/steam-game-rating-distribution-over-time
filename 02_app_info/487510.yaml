@@ -1,0 +1,71 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - ALICE IN DISSONANCE
+    fullgame:
+      appid: '487500'
+      name: fault - SILENCE THE PEDANT
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/487510/header.jpg?t=1606532593
+    is_free: true
+    legal_notice: <i>ALICE IN DISSONANCE 2020</i>
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86/AMD64<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.6<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    name: fault SILENCE THE PEDANT Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP3<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ALICE IN DISSONANCE
+    release_date:
+      coming_soon: false
+      date: Jun 23, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 487510
+    support_info:
+      email: ''
+      url: https://www.projectwritten.com/en/contact
+    supported_languages: English, Japanese
+    type: demo
+    website: http://projectwritten.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

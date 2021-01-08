@@ -1,0 +1,192 @@
+details:
+  data:
+    about_the_game: "Welcome to the world of Cyber Agent! This is an easy to play,\
+      \ hotly fought 3D tower defense game, please use your mouse to aim at the enemy,\
+      \ auto shoot and make sure not to get hurt by the enemy! And pretty ladies to\
+      \ fight with you!<br />\r\n<br />\r\nGame Features.<br />\r\n-8 levels.<br />\r\
+      \n-7 kinds of enemies.<br />\r\n-2 roles.<br />\r\n-5 items.<br />\r\n-3 skills."
+    achievements:
+      highlighted:
+      - name: Cyber Agent Commander Level1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/6b422508bd119f0f9e7a649fa3aed08edb933272.jpg
+      - name: Cyber Agent Commander Level2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/f48e5422aa113a05f1ad79f5cf1a8cec91bac327.jpg
+      - name: Cyber Agent Commander Level3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/ba29047eaa484671b019038d3d4ae3b250b5799a.jpg
+      - name: Cyber Agent Commander Level4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/35f6ac42a58469b7d77b4fc94d588949c875d7a7.jpg
+      - name: Cyber Agent Commander Level5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/6900c5eb96b9b52dc2432f031b84aa79390ed7d8.jpg
+      - name: Cyber Agent Commander Level6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/8249a18cf83a2f7bbc3e2f07355aa7b554e110ce.jpg
+      - name: Cyber Agent Commander Level7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/02c9069a338d5d94ae5f9a257800852bfa6f4876.jpg
+      - name: Cyber Agent Commander Level8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/7809cae15d1fae2f579126286ff382e8d4af2bfe.jpg
+      - name: Care for one's subordinates Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/279bf7c16aed56bcac59413c14098e8a3a818f72.jpg
+      - name: Care for one's subordinates Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1274300/0d0bc2fc63b58a41f622fdc55ebdd9ea96778c87.jpg
+      total: 37
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1274300/page_bg_generated_v6b.jpg?t=1608151647
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: "Welcome to the world of Cyber Agent! This is an easy to\
+      \ play, hotly fought 3D tower defense game, please use your mouse to aim at\
+      \ the enemy, auto shoot and make sure not to get hurt by the enemy! And pretty\
+      \ ladies to fight with you!<br />\r\n<br />\r\nGame Features.<br />\r\n-8 levels.<br\
+      \ />\r\n-7 kinds of enemies.<br />\r\n-2 roles.<br />\r\n-5 items.<br />\r\n\
+      -3 skills."
+    developers:
+    - BambuseaeGames
+    dlc:
+    - 1333370
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1274300/header.jpg?t=1608151647
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256782500
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256782500/movie480.mp4?t=1590828184
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256782500/movie_max.mp4?t=1590828184
+      name: CA Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256782500/movie.293x165.jpg?t=1590828184
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256782500/movie480_vp9.webm?t=1590828184
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256782500/movie_max_vp9.webm?t=1590828184
+    name: Cyber Agent
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cyber Agent - <span class="discount_original_price">$1.99</span>
+          $1.33
+        packageid: 443703
+        percent_savings: 0
+        percent_savings_text: '-33% '
+        price_in_cents_with_discount: 133
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cyber Agent - Commercial License - $1.99
+        packageid: 470897
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Cyber Agent
+    packages:
+    - 443703
+    - 470897
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WIN7 SP1/WIN8/WIN10/XP<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible graphics
+        card<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 33
+      final: 133
+      final_formatted: $1.33
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - BambuseaeGames
+    recommendations:
+      total: 231
+    release_date:
+      coming_soon: false
+      date: Jun 8, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_102446501acb7e07c0a48c7d9183a0fa182202f0.1920x1080.jpg?t=1608151647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_102446501acb7e07c0a48c7d9183a0fa182202f0.600x338.jpg?t=1608151647
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_80aac030a5b0a500b76b79df8e04109822ea6de7.1920x1080.jpg?t=1608151647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_80aac030a5b0a500b76b79df8e04109822ea6de7.600x338.jpg?t=1608151647
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_696acafab350a62dd9486ab59656c84ef42ecc9e.1920x1080.jpg?t=1608151647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_696acafab350a62dd9486ab59656c84ef42ecc9e.600x338.jpg?t=1608151647
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_dacb487cb63306e7c8ed8f49d75430fc83579c52.1920x1080.jpg?t=1608151647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_dacb487cb63306e7c8ed8f49d75430fc83579c52.600x338.jpg?t=1608151647
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_5f08bb0c4ba976dfb0a450cfb53a459f7ebf0272.1920x1080.jpg?t=1608151647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1274300/ss_5f08bb0c4ba976dfb0a450cfb53a459f7ebf0272.600x338.jpg?t=1608151647
+    short_description: Welcome to the world of Cyber Agent! This is an easy to play,
+      hotly fought 3D tower defense game, please use your mouse to aim at the enemy,
+      auto shoot and make sure not to get hurt by the enemy! And pretty ladies to
+      fight with you!
+    steam_appid: 1274300
+    support_info:
+      email: BambuseaeGames@gmail.com
+      url: ''
+    supported_languages: English, German, Spanish - Spain, Ukrainian, Russian, Turkish,
+      Japanese, Thai, Simplified Chinese, Traditional Chinese, Portuguese, Korean
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4+vLL5vYCdceuwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 48
+    total_positive: 183
+    total_reviews: 231
+  reviews:
+  - author:
+      last_played: 1609760477
+      num_games_owned: 14
+      num_reviews: 3
+      playtime_at_review: 29
+      playtime_forever: 34
+      playtime_last_two_weeks: 34
+      steamid: '76561199108086510'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '83981429'
+    review: "\u9876\u4E0D\u4F4F\u554A\uFF0C\u8EAB\u4F53\u592A\u865A\u5F31\u4E86\u3002"
+    steam_purchase: true
+    timestamp_created: 1609760217
+    timestamp_updated: 1609760217
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

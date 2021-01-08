@@ -1,0 +1,94 @@
+details:
+  data:
+    about_the_game: "This is a demo for Space, VR! <br />\r\n<br />\r\nIncluded is\
+      \ the first moon level<br />\r\n<br />\r\nEnjoying the demo? Why not buy the\
+      \ full game? <br />\r\n<br />\r\nThe full game will be constantly updated, while\
+      \ this demo will remain the same."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/496090/page_bg_generated_v6b.jpg?t=1469668712
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is a demo for Space, VR! <br />\r\n<br />\r\nIncluded\
+      \ is the first moon level<br />\r\n<br />\r\nEnjoying the demo? Why not buy\
+      \ the full game? <br />\r\n<br />\r\nThe full game will be constantly updated,\
+      \ while this demo will remain the same."
+    developers:
+    - James Nye
+    - Copeland Williams
+    fullgame:
+      appid: '496080'
+      name: Space, VR!
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/496090/header.jpg?t=1469668712
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Space, VR! Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win 7 SP 1<br></li><li><strong>Processor:</strong> i5-6600k<br></li><li><strong>Memory:</strong>
+        12 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970 or equivilent<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> i7-4790k<br></li><li><strong>Memory:</strong>
+        16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 980ti<br></li><li><strong>DirectX:</strong>
+        Version 12<br></li><li><strong>Storage:</strong> 3 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Self
+    release_date:
+      coming_soon: false
+      date: Jul 27, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_32ec05a8ecd19134bf83ffbdc2309cdb37111575.1920x1080.jpg?t=1469668712
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_32ec05a8ecd19134bf83ffbdc2309cdb37111575.600x338.jpg?t=1469668712
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_2482bb2c7483b6942c1f9889f0932e5f181d46e9.1920x1080.jpg?t=1469668712
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_2482bb2c7483b6942c1f9889f0932e5f181d46e9.600x338.jpg?t=1469668712
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_501580aba942146aef9e66ad667051b5f07d2867.1920x1080.jpg?t=1469668712
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_501580aba942146aef9e66ad667051b5f07d2867.600x338.jpg?t=1469668712
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_d8f6e48a9fe2754074a34994be81b7c930096995.1920x1080.jpg?t=1469668712
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_d8f6e48a9fe2754074a34994be81b7c930096995.600x338.jpg?t=1469668712
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_7927bc32a19a860273a0e0549afeb6c16c96f930.1920x1080.jpg?t=1469668712
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496090/ss_7927bc32a19a860273a0e0549afeb6c16c96f930.600x338.jpg?t=1469668712
+    short_description: 'Demo: Space, VR! is a demo of VR, in Space!'
+    steam_appid: 496090
+    support_info:
+      email: potatofacegames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

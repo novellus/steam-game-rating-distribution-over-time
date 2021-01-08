@@ -1,0 +1,142 @@
+details:
+  data:
+    about_the_game: Explosive War Coaster ride for Epic Fun. Shooter mode also included.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1166822/page_bg_generated_v6b.jpg?t=1573027809
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: In-App Purchases
+      id: 35
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Explosive War Coaster ride for Epic Fun. Shooter mode also
+      included.
+    developers:
+    - B4T Games
+    fullgame:
+      appid: '909100'
+      name: Epic Fun
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1166822/header.jpg?t=1573027809
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Epic Fun - Explosive War Coaster
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Epic Fun - Explosive War Coaster - $2.99
+        packageid: 398627
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Epic Fun - Explosive War Coaster
+    packages:
+    - 398627
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        Core i5- 4590 equivalent or greater<br></li><li><strong>Memory:</strong> 8
+        GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or greater<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 35 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        i5- 4590 equivalent or greater.<br></li><li><strong>Memory:</strong> 8 GB
+        RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 AMD Radeon RX 480
+        (equivalent or better)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - B4T Games
+    release_date:
+      coming_soon: false
+      date: Nov 6, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166822/ss_33a8fbd30fb912020f2bab13eb62b68a173eed33.1920x1080.jpg?t=1573027809
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166822/ss_33a8fbd30fb912020f2bab13eb62b68a173eed33.600x338.jpg?t=1573027809
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166822/ss_72dd7543ba7bc2c93b6cc71265a5ae11176a1f1a.1920x1080.jpg?t=1573027809
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166822/ss_72dd7543ba7bc2c93b6cc71265a5ae11176a1f1a.600x338.jpg?t=1573027809
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166822/ss_e9d9ab11f2fa876e1746ebe2b8f1fdea7e91fabf.1920x1080.jpg?t=1573027809
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166822/ss_e9d9ab11f2fa876e1746ebe2b8f1fdea7e91fabf.600x338.jpg?t=1573027809
+    short_description: Explosive War Coaster ride for Epic Fun. Shooter mode also
+      included.
+    steam_appid: 1166822
+    support_info:
+      email: contact@b4t.games
+      url: http://b4t.games
+    supported_languages: English, Portuguese - Brazil
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJw6+2O4vYCeqvmvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 548
+      num_reviews: 264
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197999403507'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '83833530'
+    review: "S\u0142abe,  i takie sobie, za bardzo cukierkowa ta grafika. Po jednym\
+      \ razie ju\u017C si\u0119 nie chce do tego wraca\u0107."
+    steam_purchase: true
+    timestamp_created: 1609609998
+    timestamp_updated: 1609609998
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

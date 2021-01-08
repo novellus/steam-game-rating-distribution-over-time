@@ -1,0 +1,199 @@
+details:
+  data:
+    about_the_game: "A dark comedy/horror game by Jesse Barksdale, creator of the\
+      \ static speaks my name. Help a cult complete a ritual in exchange for divine\
+      \ inspiration to finish writing your terrible novel. A story-focused experience\
+      \ where the choices you make determine which of the five unique endings you\
+      \ receive. Play multiple times to unlock the complete story. Takes around 45\
+      \ minutes to complete once and another 20 minutes to get a few more endings.\
+      \ Includes nearly an hour of in-game audio commentary about the making of the\
+      \ game.<br />\r\n<br />\r\nCreated by the two person studio The Whale Husband."
+    achievements:
+      highlighted:
+      - name: Spoon Savior
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/461170/6a7cb447c5d6978651ca5f480b992691100e4784.jpg
+      - name: All Endings
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/461170/ba0455073152b33bbec9bcc373c4903844f4c724.jpg
+      - name: Banned
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/461170/3d94ffa62f50bd94dfc14b2da665ee992495f04e.jpg
+      - name: Knowledge Is Power!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/461170/19dbf49c70798656f61ccb9cb595086464a7b8c6.jpg
+      total: 4
+    background: https://steamcdn-a.akamaihd.net/steam/apps/461170/page_bg_generated_v6b.jpg?t=1587168383
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Commentary available
+      id: 14
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A dark comedy/horror game by Jesse Barksdale, creator of\
+      \ the static speaks my name. Help a cult complete a ritual in exchange for divine\
+      \ inspiration to finish writing your terrible novel. A story-focused experience\
+      \ where the choices you make determine which of the five unique endings you\
+      \ receive. Play multiple times to unlock the complete story. Takes around 45\
+      \ minutes to complete once and another 20 minutes to get a few more endings.\
+      \ Includes nearly an hour of in-game audio commentary about the making of the\
+      \ game.<br />\r\n<br />\r\nCreated by the two person studio The Whale Husband."
+    developers:
+    - the whale husband
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/461170/header.jpg?t=1587168383
+    is_free: false
+    legal_notice: All copyright and trademarks are held by The Whale Husband.
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.8 and higher<br></li><li><strong>Processor:</strong> SSE2 instruction
+        set support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 940M, Intel HD 5000, or comparable<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Additional Notes:</strong> Should
+        run on laptops and desktops with decent graphics card made within the past
+        four years</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.8 and higher<br></li><li><strong>Processor:</strong> Intel i5 or higher<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> Desktop GPU<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256764896
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764896/movie480.mp4?t=1572477331
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764896/movie_max.mp4?t=1572477331
+      name: Trailer 02
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256764896/movie.293x165.jpg?t=1572477331
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764896/movie480.webm?t=1572477331
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764896/movie_max.webm?t=1572477331
+    name: Bucket Detective
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Bucket Detective - $3.99
+        packageid: 100575
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Bucket Detective
+    packages:
+    - 100575
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2 and higher<br></li><li><strong>Processor:</strong> SSE2 instruction
+        set support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 940M, Intel HD 5000, or comparable<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional
+        Notes:</strong> Should run on laptops and desktops with decent graphics card
+        made within the past four years</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel i5 or higher<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> Desktop GPU<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - the whale husband
+    recommendations:
+      total: 176
+    release_date:
+      coming_soon: false
+      date: Feb 16, 2017
+    required_age: 0
+    reviews: "\u201CJesse Barksdale's follow-up to 'The Static Speaks My Name' follows\
+      \ in the same disturbing footsteps.\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://waypoint.vice.com/en_us/article/bucket-detective-the-story-of-a-a-sad-asshole-who-joined-a-cult\"\
+      \ target=\"_blank\" rel=\"noopener\"  >Waypoint</a><br><br>\u201Ca disturbing,\
+      \ gross, and occasionally pretty funny first-person adventure... [with] an assortment\
+      \ of wonderful illustrations, a great script and a memorable soundtrack\u201D\
+      <br><a href=\"http://www.pcgamer.com/bucket-detective-is-a-disturbing-horror-comedy-in-the-stanley-parable-style/\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a><br><br>\u201Cthere's some\
+      \ great laughs to be had in this unsettling game\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indiegames.com/2017/02/finish_a_novel_by_helping_a_cu.html\"\
+      \ target=\"_blank\" rel=\"noopener\"  >IndieGames</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_6f9f682fa612864c6fee83514b71429858651826.1920x1080.jpg?t=1587168383
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_6f9f682fa612864c6fee83514b71429858651826.600x338.jpg?t=1587168383
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_43b4d4300a3a4a90976895017eb00c52bd278511.1920x1080.jpg?t=1587168383
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_43b4d4300a3a4a90976895017eb00c52bd278511.600x338.jpg?t=1587168383
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_a6fc493d9305f65ff4ab03e108cd8458e111465b.1920x1080.jpg?t=1587168383
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_a6fc493d9305f65ff4ab03e108cd8458e111465b.600x338.jpg?t=1587168383
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_c22713c40daf247aa2707ed995c919da9c999d8b.1920x1080.jpg?t=1587168383
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_c22713c40daf247aa2707ed995c919da9c999d8b.600x338.jpg?t=1587168383
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_c0093ddbfb424a55676f517df3eb427bccb72184.1920x1080.jpg?t=1587168383
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461170/ss_c0093ddbfb424a55676f517df3eb427bccb72184.600x338.jpg?t=1587168383
+    short_description: A dark comedy/horror game by Jesse Barksdale, creator of the
+      static speaks my name. Help a cult complete a ritual in exchange for divine
+      inspiration to finish writing your terrible novel. A story-focused experience
+      which takes around 45 minutes to complete.
+    steam_appid: 461170
+    support_info:
+      email: thewhalehusband@gmail.com
+      url: http://www.thewhalehusband.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.thewhalehusband.com
+  success: true
+reviews:
+  cursor: AoJwmtKU5vYCfv2owAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 21
+    total_positive: 155
+    total_reviews: 176
+  reviews:
+  - author:
+      last_played: 1602374499
+      num_games_owned: 32
+      num_reviews: 7
+      playtime_at_review: 100
+      playtime_forever: 100
+      playtime_last_two_weeks: 0
+      steamid: '76561199005394974'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83970014'
+    review: decent little horror game
+    steam_purchase: true
+    timestamp_created: 1609745732
+    timestamp_updated: 1609745732
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

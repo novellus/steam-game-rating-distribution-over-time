@@ -1,0 +1,89 @@
+details:
+  data:
+    about_the_game: "This demo includes the first ten levels of the game Random (platformer).\
+      \ But remember, there\u2019s a lot more fun waiting for you in the full version!\
+      \ Even more tricky platforms and even more challenges. Some levels even have\
+      \ different directions."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1462770/page_bg_generated_v6b.jpg?t=1604432719
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This demo includes the first ten levels of the game Random\
+      \ (platformer). But remember, there\u2019s a lot more fun waiting for you in\
+      \ the full version! Even more tricky platforms and even more challenges. Some\
+      \ levels even have different directions."
+    developers:
+    - remete
+    fullgame:
+      appid: '1424960'
+      name: Random(platformer)
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1462770/header.jpg?t=1604432719
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Random(platformer) Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 and up<br></li><li><strong>Processor:</strong> 3000 MHz<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 and up<br></li><li><strong>Processor:</strong> 3000 MHz<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - remete
+    release_date:
+      coming_soon: false
+      date: Nov 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_219e48917734dfa1f66a2ea78bd922e01efd04b1.1920x1080.jpg?t=1604432719
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_219e48917734dfa1f66a2ea78bd922e01efd04b1.600x338.jpg?t=1604432719
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_66e0bd1a84709960caeca81091a81f9a4e94c516.1920x1080.jpg?t=1604432719
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_66e0bd1a84709960caeca81091a81f9a4e94c516.600x338.jpg?t=1604432719
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_8092c6821c6a0f13b5d5480d9e3b8984c76af8d4.1920x1080.jpg?t=1604432719
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_8092c6821c6a0f13b5d5480d9e3b8984c76af8d4.600x338.jpg?t=1604432719
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_7febe996fc7b1d15ea90ba3c25327dd7a05d1546.1920x1080.jpg?t=1604432719
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_7febe996fc7b1d15ea90ba3c25327dd7a05d1546.600x338.jpg?t=1604432719
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_6d9287c34ba3f156ff21ac41fe0c9b2e248fc5ee.1920x1080.jpg?t=1604432719
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_6d9287c34ba3f156ff21ac41fe0c9b2e248fc5ee.600x338.jpg?t=1604432719
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_34dbe65fb8d892cedef3be17905602898a9371ad.1920x1080.jpg?t=1604432719
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1462770/ss_34dbe65fb8d892cedef3be17905602898a9371ad.600x338.jpg?t=1604432719
+    short_description: This demo includes the first ten levels of the game Random
+      (platformer).
+    steam_appid: 1462770
+    support_info:
+      email: remete.gamedev@gmail.com
+      url: ''
+    supported_languages: English, Hungarian
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

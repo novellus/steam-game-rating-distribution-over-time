@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: "Turn a sequence of six walls or guards into a line of six coins\
+      \ to loot!<br />\r\n<br />\r\nAlternate gameplay adds a new game piece when\
+      \ there are six of the same game pieces vertically or horizontally. Clicking\
+      \ on the new game piece will convert the six game pieces into coins. Turn a\
+      \ sequence of six walls or guards (or any other non-coin game pieces) into a\
+      \ line of six coins to loot! Play with strategy!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1079690/page_bg_generated_v6b.jpg?t=1556779171
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Turn a sequence of six walls or guards into a line of six\
+      \ coins to loot!<br />\r\n<br />\r\nAlternate gameplay adds a new game piece\
+      \ when there are six of the same game pieces vertically or horizontally. Clicking\
+      \ on the new game piece will convert the six game pieces into coins. Turn a\
+      \ sequence of six walls or guards (or any other non-coin game pieces) into a\
+      \ line of six coins to loot! Play with strategy!"
+    developers:
+    - SunshineOvercast
+    fullgame:
+      appid: '1069670'
+      name: EILF
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1079690/header.jpg?t=1556779171
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: EILF - Six in a Row Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: EILF - Six in a Row Pack - $0.99
+        packageid: 362492
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy EILF - Six in a Row Pack
+    packages:
+    - 362492
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720 fullscreen or any
+        resolution windowed<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        128 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - SunshineOvercast
+    release_date:
+      coming_soon: false
+      date: May 1, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079690/ss_ffa81d3089fc7291c657a92ce4f927e0c93bdfd5.1920x1080.jpg?t=1556779171
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079690/ss_ffa81d3089fc7291c657a92ce4f927e0c93bdfd5.600x338.jpg?t=1556779171
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079690/ss_095d6b351ecbdb57b4b0cf9588c98332b62854b9.1920x1080.jpg?t=1556779171
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079690/ss_095d6b351ecbdb57b4b0cf9588c98332b62854b9.600x338.jpg?t=1556779171
+    short_description: Turn a sequence of six walls or guards into a line of six coins
+      to loot!
+    steam_appid: 1079690
+    support_info:
+      email: ''
+      url: https://twitter.com/SunOvercast
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

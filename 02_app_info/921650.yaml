@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: "A Demon Hunter receives a letter from Daniel, a man begging for\
+      \ help against a demonic infestation from the mountain that he calls home. The\
+      \ Hunter, in a search for him through the cold and abandoned world, will discover\
+      \ a twisted tale of intimacy and violence of the past, and must use that knowledge\
+      \ to purge the demons from the once-beautiful land.<br />\r\n<br />\r\n- Hand\
+      \ animated 2D characters on a cold and ruined 3D world<br />\r\n- Methodical\
+      \ combat that rewards patience, precision, and knowing the enemies intimately<br\
+      \ />\r\n- A one-sitting narrative of discovering memory fragments that showcase\
+      \ the beauty of the past<br />\r\n- Fully voiced dialogues and narrations<br\
+      \ />\r\n- Optional Narrative Mode for those who don't want difficulty to affect\
+      \ the pacing of the story, without taking away the intensity of combat."
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 5
+      notes: null
+    controller_support: full
+    detailed_description: "A Demon Hunter receives a letter from Daniel, a man begging\
+      \ for help against a demonic infestation from the mountain that he calls home.\
+      \ The Hunter, in a search for him through the cold and abandoned world, will\
+      \ discover a twisted tale of intimacy and violence of the past, and must use\
+      \ that knowledge to purge the demons from the once-beautiful land.<br />\r\n\
+      <br />\r\n- Hand animated 2D characters on a cold and ruined 3D world<br />\r\
+      \n- Methodical combat that rewards patience, precision, and knowing the enemies\
+      \ intimately<br />\r\n- A one-sitting narrative of discovering memory fragments\
+      \ that showcase the beauty of the past<br />\r\n- Fully voiced dialogues and\
+      \ narrations<br />\r\n- Optional Narrative Mode for those who don't want difficulty\
+      \ to affect the pacing of the story, without taking away the intensity of combat."
+    developers:
+    - Studio Egg Roll
+    fullgame:
+      appid: '917920'
+      name: The Other Half
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Gore
+      id: '74'
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/921650/header.jpg?t=1535048195
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.11+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    name: The Other Half Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Studio Egg Roll
+    release_date:
+      coming_soon: false
+      date: Aug 23, 2018
+    required_age: 0
+    short_description: A dark fantasy action adventure where you unbury a tale of
+      intimacy and violence in order to cleanse a demonic infestation from a once-beautiful
+      land.
+    steam_appid: 921650
+    support_info:
+      email: studioeggroll@gmail.com
+      url: http://www.theotherhalfgame.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://www.theotherhalfgame.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

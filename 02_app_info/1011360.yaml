@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">This DLC contains the following features:</h2><br>1.
+      Integrate more than 2,100 Japanese Kanji;<br>2. Independent search page, and
+      can view related definitions in Wiki;<br>3. Daily study plan;<br>4. Common website
+      collections, such as Google Translate, Bing Translate, NHK, etc. <br>(I used
+      HTML for development so that you can add and modify the code yourself)<br>5.
+      Can run on multiple platforms (Window, Andriod, IOS, etc.)<br><br><br>*Some
+      features require networking
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1011360/page_bg_generated_v6b.jpg?t=1547080696
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">This DLC contains the following features:</h2><br>1.
+      Integrate more than 2,100 Japanese Kanji;<br>2. Independent search page, and
+      can view related definitions in Wiki;<br>3. Daily study plan;<br>4. Common website
+      collections, such as Google Translate, Bing Translate, NHK, etc. <br>(I used
+      HTML for development so that you can add and modify the code yourself)<br>5.
+      Can run on multiple platforms (Window, Andriod, IOS, etc.)<br><br><br>*Some
+      features require networking
+    developers:
+    - CoughCat
+    fullgame:
+      appid: '850830'
+      name: Adventure in Kana Village
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1011360/header.jpg?t=1547080696
+    is_free: false
+    legal_notice: "\u4E00\u3001\u6E38\u620F\u4E2D\u6240\u6709\u7ACB\u7ED8\u3001CG\u3001\
+      \u90E8\u5206\u97F3\u4E50\u4E3A\u539F\u521B\u7D20\u6750\uFF0C\u672A\u7ECF\u5141\
+      \u8BB8\u7981\u6B62\u632A\u7528\u3002<br />\r\n<br />\r\n\u4E8C\u3001\u7981\u6B62\
+      \u5BF9\u6E38\u620F\u8FDB\u884C\u89E3\u5305\uFF0C\u4EE5\u53CA\u7531\u6B64\u884D\
+      \u751F\u7684\u3001\u5305\u542B\u4E14\u4E0D\u9650\u4E8E\uFF1A\u64C5\u81EA\u63D0\
+      \u53D6\u5E76\u632A\u7528\u3001\u53D1\u5E03\u6E38\u620F\u7684\u7D20\u6750\u8D44\
+      \u6E90\u7B49\u884C\u4E3A\u3002<br />\r\n<br />\r\n\u4E09\u3001\u6E38\u620F\u4E2D\
+      \u6240\u4F7F\u7528\u7684\u90E8\u5206\u97F3\u4E50\u3001\u573A\u666F\u3001\u56FE\
+      \u5757\u3001\u63D2\u4EF6\u4E3A\u6388\u6743\u7D20\u6750\uFF0C\u8457\u4F5C\u6743\
+      \u5F52\u5C5E\u4E8E\u539F\u4F5C\u8005\uFF0C\u5982\u679C\u4F7F\u7528\u8BF7\u54A8\
+      \u8BE2\u539F\u4F5C\u8005\u3002<br />\r\n<br />\r\n\u56DB\u3001\u7981\u6B62\u4EFB\
+      \u4F55\u56E2\u4F53\u6216\u8005\u4E2A\u4EBA\u5BF9\u6E38\u620F\u8FDB\u884C\u4E8C\
+      \u6B21\u53D1\u5E03\u3002<br />\r\n<br />\r\n\u4E94\u3001\u8FDD\u53CD\u4E0A\u8FF0\
+      \u58F0\u660E\uFF0C\u540E\u679C\u81EA\u8D1F\u3002"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Adventure in Kana Village-Kanji Plan
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: DLC-Kanji Plan - $0.99
+        packageid: 334888
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Adventure in Kana Village-Kanji Plan
+    packages:
+    - 334888
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> winXP<br></li><li><strong>Processor:</strong>
+        1.0 Ghz or above<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong>
+        Any DirectX 9.0 supported card / 1280 x 720 or above<br></li><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - CoughCat Software
+    release_date:
+      coming_soon: false
+      date: Jan 9, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_40426a6ac71000138354f8d00d1a96fd24bad022.1920x1080.jpg?t=1547080696
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_40426a6ac71000138354f8d00d1a96fd24bad022.600x338.jpg?t=1547080696
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_075e566f4649538be97f4a3b8216e624f336825d.1920x1080.jpg?t=1547080696
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_075e566f4649538be97f4a3b8216e624f336825d.600x338.jpg?t=1547080696
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_a9d4ae6f112ec844777e5e781783634d9f931ef0.1920x1080.jpg?t=1547080696
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_a9d4ae6f112ec844777e5e781783634d9f931ef0.600x338.jpg?t=1547080696
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_5f97b1d971d30f3122d22ea05914bb246d5cf59f.1920x1080.jpg?t=1547080696
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1011360/ss_5f97b1d971d30f3122d22ea05914bb246d5cf59f.600x338.jpg?t=1547080696
+    short_description: Japanese commonly used 2100 Kanji
+    steam_appid: 1011360
+    support_info:
+      email: coughcat@foxmail
+      url: ''
+    supported_languages: English, Traditional Chinese, Korean
+    type: dlc
+    website: http://www.coughcat.com/akv/indexen.html
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

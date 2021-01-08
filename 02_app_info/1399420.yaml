@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: "Purchase the INMOST OST for access to the game's full soundtrack,\
+      \ composed by Alexey Nechaev. <br />\r\n<br />\r\nThe soundtrack contains 29\
+      \ tracks."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1399420/page_bg_generated_v6b.jpg?t=1597993285
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Purchase the INMOST OST for access to the game's full soundtrack,\
+      \ composed by Alexey Nechaev. <br />\r\n<br />\r\nThe soundtrack contains 29\
+      \ tracks."
+    developers:
+    - Hidden Layer Games
+    fullgame:
+      appid: '938560'
+      name: INMOST
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1399420/header.jpg?t=1597993285
+    is_free: false
+    legal_notice: "INMOST \xA9 Hidden Layer Games 2020. All rights reserved"
+    linux_requirements: []
+    mac_requirements: []
+    name: INMOST Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: INMOST Soundtrack - $4.99
+        packageid: 491038
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy INMOST Soundtrack
+    packages:
+    - 491038
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        130 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 497 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Chucklefish
+    release_date:
+      coming_soon: false
+      date: Aug 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1399420/ss_b5d3d79b14826e5064c909b4b171ce929d5649dd.1920x1080.jpg?t=1597993285
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1399420/ss_b5d3d79b14826e5064c909b4b171ce929d5649dd.600x338.jpg?t=1597993285
+    short_description: INMOST's Original Soundtrack, by Alexey Nechaev.
+    steam_appid: 1399420
+    support_info:
+      email: support@hiddenlayergames.com
+      url: https://inmostgame.com/support
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwpISCzPQCcrOcogI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 86
+      num_reviews: 44
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198273564644'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '76079922'
+    review: Amazing sound track loved it.
+    steam_purchase: true
+    timestamp_created: 1600278504
+    timestamp_updated: 1600278504
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.561752974987030029'
+    written_during_early_access: false
+  success: 1

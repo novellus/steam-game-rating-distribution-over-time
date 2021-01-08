@@ -1,0 +1,235 @@
+details:
+  data:
+    about_the_game: '<i>Swingy Sword</i> is a casual 3D fighting game where you fight
+      to the death against up to 4 of your friends in 6 unique game modes. The main
+      goal of <i>Swingy Sword</i> is to make the controls as challenging as possible
+      while still being exciting to play. <br>          <strong>Example: You use the
+      2 joysticks to move the legs individually and to swing your sword you press
+      and hold one of the bumpers and press the D-Pad in the direction you want to
+      swing.</strong><br>          If you like party games and you like games with
+      Octodad style controls, you''ll love <i>Swingy Sword</i>.'
+    achievements:
+      highlighted:
+      - name: Blast Off
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/875b4d515155e344d7c42d94a016d799732ecb03.jpg
+      - name: Blue Screen
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/523bf247dc11778bf26a65d2711fd563a4db12b5.jpg
+      - name: Eggs?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/3b9b8105cf1d84a7a38ac2b3a4d2aef48f14bffc.jpg
+      - name: Super Ultra Rave Party!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/b5f9bf91efbb53fc437556498d3345623f39bda4.jpg
+      - name: Swingy Sworders
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/13232cf2a270aec834cc000d5e91509623b820bf.jpg
+      - name: The World's Most Difficult Achievement
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/1ed48d8106485f2bee466d1978f0aa156235bf64.jpg
+      - name: Millinophile
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/f8e76a4cc595f0055e9b74dffff01b5cf607aa6f.jpg
+      - name: Unlockificator
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/d0d97b74aaec475af930529de2677cf18331bca0.jpg
+      - name: Cartographer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/716e22e751622de77dc10b7c5f9b0bb8da168209.jpg
+      - name: Pompeii Survivor
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/815730/49d20339f24c6d5b7e1a50f2d9a129230b30fcf6.jpg
+      total: 16
+    background: https://steamcdn-a.akamaihd.net/steam/apps/815730/page_bg_generated_v6b.jpg?t=1534649325
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 816470
+      description: ''
+    detailed_description: '<i>Swingy Sword</i> is a casual 3D fighting game where
+      you fight to the death against up to 4 of your friends in 6 unique game modes.
+      The main goal of <i>Swingy Sword</i> is to make the controls as challenging
+      as possible while still being exciting to play. <br>          <strong>Example:
+      You use the 2 joysticks to move the legs individually and to swing your sword
+      you press and hold one of the bumpers and press the D-Pad in the direction you
+      want to swing.</strong><br>          If you like party games and you like games
+      with Octodad style controls, you''ll love <i>Swingy Sword</i>.'
+    developers:
+    - Lucas Simmons
+    - James Gagnon
+    - Holden Newton
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/815730/header.jpg?t=1534649325
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        140 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256712503
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256712503/movie480.mp4?t=1527447629
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256712503/movie_max.mp4?t=1527447629
+      name: Swingy Sword Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256712503/movie.293x165.jpg?t=1527447629
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256712503/movie480.webm?t=1527447629
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256712503/movie_max.webm?t=1527447629
+    name: Swingy Sword
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Swingy Sword - $0.99
+        packageid: 249647
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Swingy Sword
+    packages:
+    - 249647
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        140 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Thulium Games
+    release_date:
+      coming_soon: false
+      date: Mar 26, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_ac40969e114f6cd036af2faa6675c63d61f42021.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_ac40969e114f6cd036af2faa6675c63d61f42021.600x338.jpg?t=1534649325
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_272c048f4a04d96404d464045730f4327150fa67.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_272c048f4a04d96404d464045730f4327150fa67.600x338.jpg?t=1534649325
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_466e13e4bb82b2ffa761f362f9555d6431657fd0.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_466e13e4bb82b2ffa761f362f9555d6431657fd0.600x338.jpg?t=1534649325
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c00ac0116de8412c792eeea08e00c0adcda265b5.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c00ac0116de8412c792eeea08e00c0adcda265b5.600x338.jpg?t=1534649325
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c0af90a9ab7057521a0240789ed059c2fe7a0674.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c0af90a9ab7057521a0240789ed059c2fe7a0674.600x338.jpg?t=1534649325
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_d9800412b402695759e423b0386b68ae7b1967ba.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_d9800412b402695759e423b0386b68ae7b1967ba.600x338.jpg?t=1534649325
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_dae75868e4f39c7428ce5dcca354cafa6deb4ed3.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_dae75868e4f39c7428ce5dcca354cafa6deb4ed3.600x338.jpg?t=1534649325
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_9ae5148ad3ed25b1d32ba6e3d103af2ba5dc9246.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_9ae5148ad3ed25b1d32ba6e3d103af2ba5dc9246.600x338.jpg?t=1534649325
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c55c66b3b641364a434741b1bc31b1e1155dff95.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c55c66b3b641364a434741b1bc31b1e1155dff95.600x338.jpg?t=1534649325
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_8f54533844376d64143ccdc9091843bb8d0c74ac.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_8f54533844376d64143ccdc9091843bb8d0c74ac.600x338.jpg?t=1534649325
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_72d2dda391f3dd268ff52ec8a1601889c2e175f1.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_72d2dda391f3dd268ff52ec8a1601889c2e175f1.600x338.jpg?t=1534649325
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c91e703a6a3607f5b63f84690d842c61ea403066.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c91e703a6a3607f5b63f84690d842c61ea403066.600x338.jpg?t=1534649325
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_9a4025cf7e8de584be5e0ef56c2656aa045d72e7.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_9a4025cf7e8de584be5e0ef56c2656aa045d72e7.600x338.jpg?t=1534649325
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_1292d775265373638df1662215af820ca38b41f0.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_1292d775265373638df1662215af820ca38b41f0.600x338.jpg?t=1534649325
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_3dea962bab335173263cf11b8a1f43aa6e2a41ac.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_3dea962bab335173263cf11b8a1f43aa6e2a41ac.600x338.jpg?t=1534649325
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_f8a6d31da20f300906f8a377e30f25c39cbeafcb.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_f8a6d31da20f300906f8a377e30f25c39cbeafcb.600x338.jpg?t=1534649325
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c344d25727af3154f810a310ede2e27c09af4102.1920x1080.jpg?t=1534649325
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/815730/ss_c344d25727af3154f810a310ede2e27c09af4102.600x338.jpg?t=1534649325
+    short_description: Swingy Sword is a casual 3D fighting game where you fight to
+      the death against up to 4 of your friends in 6 unique game modes. Its Octodad
+      style controls make the game very entertaining and exciting to play.
+    steam_appid: 815730
+    support_info:
+      email: thuliumgames@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://thuliumgames.com
+  success: true
+reviews:
+  cursor: AoJ4k9iuivICcpfehwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1589485554
+      num_games_owned: 120
+      num_reviews: 2
+      playtime_at_review: 12
+      playtime_forever: 12
+      playtime_last_two_weeks: 0
+      steamid: '76561198037828463'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '69136754'
+    review: "This is not a game. \nTook me 12 minutes to fully learn how to play and\
+      \ absolutely despise it.\nI hope you get better at making games."
+    steam_purchase: true
+    timestamp_created: 1589485683
+    timestamp_updated: 1589485683
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.476190477609634399'
+    written_during_early_access: false
+  success: 1

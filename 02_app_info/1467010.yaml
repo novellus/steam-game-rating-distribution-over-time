@@ -1,0 +1,196 @@
+details:
+  data:
+    about_the_game: 'Purchase this DLC disables score limit on this table!<br><br><strong>Robot
+      Deluxe Pinball Table</strong><br><br><u>Information:</u><br><ul class="bb_ul"><li>Name:
+      Robot Deluxe<br></li><li>Theme: Sci-Fi<br></li><li>Production year: 2020</li></ul><br><u>Features:</u><br><ul
+      class="bb_ul"><li>4 playfields<br></li><li>8 flippers<br></li><li>6 pop bumpers<br></li><li>2
+      holes<br></li><li>1 kickback<br></li><li>2 spinners<br></li><li>3 ramps<br></li><li>1
+      interactive robot model<br></li><li>3 interactive robot arm models<br></li><li>1-bank
+      spot target (17)<br></li><li>3-banks spot targets (1)</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1467010/page_bg_generated_v6b.jpg?t=1606996106
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: 'Purchase this DLC disables score limit on this table!<br><br><strong>Robot
+      Deluxe Pinball Table</strong><br><br><u>Information:</u><br><ul class="bb_ul"><li>Name:
+      Robot Deluxe<br></li><li>Theme: Sci-Fi<br></li><li>Production year: 2020</li></ul><br><u>Features:</u><br><ul
+      class="bb_ul"><li>4 playfields<br></li><li>8 flippers<br></li><li>6 pop bumpers<br></li><li>2
+      holes<br></li><li>1 kickback<br></li><li>2 spinners<br></li><li>3 ramps<br></li><li>1
+      interactive robot model<br></li><li>3 interactive robot arm models<br></li><li>1-bank
+      spot target (17)<br></li><li>3-banks spot targets (1)</li></ul>'
+    developers:
+    - Magic Pixel Kft.
+    fullgame:
+      appid: '444930'
+      name: Zaccaria Pinball
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1467010/header.jpg?t=1606996106
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04 or SteamOS 2.0 (64 bit)<br></li><li><strong>Processor:</strong>
+        Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.12<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or
+        better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256811304
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256811304/movie480.mp4?t=1606996102
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256811304/movie_max.mp4?t=1606996102
+      name: Robot Deluxe Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256811304/movie.293x165.jpg?t=1606996102
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256811304/movie480_vp9.webm?t=1606996102
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256811304/movie_max_vp9.webm?t=1606996102
+    name: Zaccaria Pinball - Robot Deluxe Pinball Table
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Zaccaria Pinball - Robot Deluxe Pinball Table - $2.99
+        packageid: 516560
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Zaccaria Pinball - Robot Deluxe Pinball Table
+    packages:
+    - 516560
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong>
+        Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible
+        sound card</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_b417c395855a94bce719ff9b263585990c035074.1920x1080.jpg?t=1606996106
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_b417c395855a94bce719ff9b263585990c035074.600x338.jpg?t=1606996106
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_66269c7399700535d06d7d64ce5ed4a015848bac.1920x1080.jpg?t=1606996106
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_66269c7399700535d06d7d64ce5ed4a015848bac.600x338.jpg?t=1606996106
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_6ed5932ad4d51d7c55453620322275401d33cf1e.1920x1080.jpg?t=1606996106
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_6ed5932ad4d51d7c55453620322275401d33cf1e.600x338.jpg?t=1606996106
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_58b9af11067c339f3ffa7de3f00e86c7eb7e04be.1920x1080.jpg?t=1606996106
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_58b9af11067c339f3ffa7de3f00e86c7eb7e04be.600x338.jpg?t=1606996106
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_ea755e5c47eb945a0bd539947fed07ae9102198f.1920x1080.jpg?t=1606996106
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1467010/ss_ea755e5c47eb945a0bd539947fed07ae9102198f.600x338.jpg?t=1606996106
+    short_description: Robot Deluxe is the next Zaccaria table with a fully animated
+      color display. It also features more modern pinball elements.
+    steam_appid: 1467010
+    support_info:
+      email: contact.magicpixel2012@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4ntnw+vUCcb+KsAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 95
+      num_reviews: 9
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198027261966'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '79713265'
+    review: The saying 'you get what you pay for' does not apply here. You get way
+      more than what you paid! This thing is packed with toys, what a cool table.
+      Try it in VR, it's awesome!
+    steam_purchase: true
+    timestamp_created: 1606145985
+    timestamp_updated: 1606145985
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.548325955867767334'
+    written_during_early_access: false
+  success: 1

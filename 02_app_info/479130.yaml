@@ -1,0 +1,211 @@
+details:
+  data:
+    about_the_game: "ESEA is a third party matchmaking service that uses the industry\
+      \ leading anti-cheat (ESEA Client) to protect matches for CS:GO. ESEA currently\
+      \ has PUGs, Scrims, Ladders, Events and runs one of the largest open format\
+      \ leagues in the world. Join us today for access to one of the largest gaming\
+      \ communities in the world. A premium subscription not only unlocks the game\
+      \ features, it also allows you to join our active website community and forums.\
+      \ A Premium subscription is required to use the ESEA network. <br />\r\n<br\
+      \ />\r\nUsers must have a Steam Account that does not carry any VAC bans in\
+      \ order to play on ESEA. ESEA Premium is used for CS:GO on the ESEA Network."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/479130/page_bg_generated_v6b.jpg?t=1583258559
+    categories:
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "ESEA is a third party matchmaking service that uses the\
+      \ industry leading anti-cheat (ESEA Client) to protect matches for CS:GO. ESEA\
+      \ currently has PUGs, Scrims, Ladders, Events and runs one of the largest open\
+      \ format leagues in the world. Join us today for access to one of the largest\
+      \ gaming communities in the world. A premium subscription not only unlocks the\
+      \ game features, it also allows you to join our active website community and\
+      \ forums. A Premium subscription is required to use the ESEA network. <br />\r\
+      \n<br />\r\nUsers must have a Steam Account that does not carry any VAC bans\
+      \ in order to play on ESEA. ESEA Premium is used for CS:GO on the ESEA Network."
+    developers:
+    - ESEA
+    dlc:
+    - 497340
+    ext_user_account_notice: 'ESEA '
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/479130/header.jpg?t=1583258559
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256743477
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256743477/movie480.mp4?t=1550601603
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256743477/movie_max.mp4?t=1550601603
+      name: ESEA Client
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256743477/movie.293x165.jpg?t=1550601603
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256743477/movie480.webm?t=1550601603
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256743477/movie_max.webm?t=1550601603
+    name: ESEA
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ESEA Premium 1 Month + 100 ESEA Points - $8.99
+        packageid: 107104
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 899
+      title: Buy ESEA
+    - description: To be billed on a recurring basis.
+      display_type: '1'
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: Save up to 17%
+      selection_text: Starting at $8.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$8.99 at checkout,
+          auto-renewed every 1 month(s) at $8.99.</p>
+        option_text: $8.99 / month
+        packageid: 110858
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 899
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$24.99 at checkout,
+          auto-renewed every 3 month(s) at $24.99.</p>
+        option_text: $24.99 / 3 months
+        packageid: 110863
+        percent_savings: 7
+        percent_savings_text: '-7% '
+        price_in_cents_with_discount: 2499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$49.99 at checkout,
+          auto-renewed every 6 month(s) at $49.99.</p>
+        option_text: $49.99 / 6 months
+        packageid: 110864
+        percent_savings: 7
+        percent_savings_text: '-7% '
+        price_in_cents_with_discount: 4999
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$89.99 at checkout,
+          auto-renewed every 12 month(s) at $89.99.</p>
+        option_text: $89.99 / 12 months
+        packageid: 110865
+        percent_savings: 17
+        percent_savings_text: '-17% '
+        price_in_cents_with_discount: 8999
+      title: Buy ESEA Premium + ESEA Points
+    packages:
+    - 110858
+    - 110863
+    - 110864
+    - 110865
+    - 107104
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Additional Notes:</strong>
+        Users must have a Steam Account that does not carry any VAC bans in order
+        to play on ESEA.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Additional Notes:</strong>
+        Users must have a Steam Account that does not carry any VAC bans in order
+        to play on ESEA.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ESEA
+    recommendations:
+      total: 229
+    release_date:
+      coming_soon: false
+      date: Jul 8, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_6bf7491bb90d305ea8c841420fbd20548d52afd6.1920x1080.jpg?t=1583258559
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_6bf7491bb90d305ea8c841420fbd20548d52afd6.600x338.jpg?t=1583258559
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_1cd62033ec7f8114e4ca99c407d7b952e37dc90a.1920x1080.jpg?t=1583258559
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_1cd62033ec7f8114e4ca99c407d7b952e37dc90a.600x338.jpg?t=1583258559
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_b4ed1d9819e2b89f5946d87f746fbcaa3e831c35.1920x1080.jpg?t=1583258559
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_b4ed1d9819e2b89f5946d87f746fbcaa3e831c35.600x338.jpg?t=1583258559
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_728939741ae3cddca56b8233b8db6d8483863789.1920x1080.jpg?t=1583258559
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_728939741ae3cddca56b8233b8db6d8483863789.600x338.jpg?t=1583258559
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_73123b09b4cb52752d41c84865e8a2beea7ca47c.1920x1080.jpg?t=1583258559
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_73123b09b4cb52752d41c84865e8a2beea7ca47c.600x338.jpg?t=1583258559
+    short_description: ESEA is a third party matchmaking service that uses the industry
+      leading anti-cheat (ESEA Client) to protect matches. ESEA currently has PUGs,
+      Scrims, Ladders, Events and runs one of the largest open format leagues in the
+      world. ESEA Premium is used for CS:GO on the ESEA Network.
+    steam_appid: 479130
+    support_info:
+      email: support@esportsea.com
+      url: https://play.esea.net/support
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish,
+      Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin
+      America, Swedish, Thai, Traditional Chinese, Turkish, Vietnamese
+    type: game
+    website: https://play.esea.net
+  success: true
+reviews:
+  cursor: AoJw+pSV6fYCeZLWwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 67
+    total_positive: 161
+    total_reviews: 228
+  reviews:
+  - author:
+      last_played: 1609359892
+      num_games_owned: 16
+      num_reviews: 6
+      playtime_at_review: 151
+      playtime_forever: 151
+      playtime_last_two_weeks: 151
+      steamid: '76561198841478104'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '84062505'
+    review: "\u0433\u043E\u0432\u043D\u043E"
+    steam_purchase: true
+    timestamp_created: 1609846532
+    timestamp_updated: 1609846532
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

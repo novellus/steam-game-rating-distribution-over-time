@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: If you really like DARK PLACES and want to further help us in
+      the development you can buy this DLC.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/984970/page_bg_generated_v6b.jpg?t=1554835693
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: If you really like DARK PLACES and want to further help
+      us in the development you can buy this DLC.
+    developers:
+    - Madbox Entertainmet
+    fullgame:
+      appid: '926810'
+      name: Dark Places
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/984970/header.jpg?t=1554835693
+    is_free: false
+    legal_notice: "\xA9 Copyright 2018 Madbox Entertainment. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: DARK PLACES - Support DLC
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: DARK PLACES - Support DLC - $0.99
+        packageid: 324254
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy DARK PLACES - Support DLC
+    packages:
+    - 324254
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Madbox Entertainmet
+    release_date:
+      coming_soon: false
+      date: Nov 20, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/984970/ss_14696890e42c7745e39de7291e343a01aaa649f6.1920x1080.jpg?t=1554835693
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/984970/ss_14696890e42c7745e39de7291e343a01aaa649f6.600x338.jpg?t=1554835693
+    short_description: This 'support dlc' does not add any new content to the game.
+      Having this simply keeps the game listed in your steam library. Thank you for
+      your support.
+    steam_appid: 984970
+    support_info:
+      email: MedBox.GameStudio@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4qq+N5egCed2kugE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 9
+      num_reviews: 3
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198888385539'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48834009'
+    review: soo underrated game, i will give all supports to that game <3
+    steam_purchase: true
+    timestamp_created: 1549580729
+    timestamp_updated: 1549580729
+    voted_up: true
+    votes_funny: 2
+    votes_up: 4
+    weighted_vote_score: '0.550832092761993408'
+    written_during_early_access: false
+  success: 1

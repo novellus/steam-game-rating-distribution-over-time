@@ -1,0 +1,252 @@
+details:
+  data:
+    about_the_game: "&quot;The time to conquer the universe has come!<br />\r\n You\
+      \ are the pilot a high-tech U.F.O, with the vast expanse of space as your territory\
+      \ to claim. This beautifully designed game will test your logical thinking,\
+      \ coordination and perseverance with each level offering a plethora of upgrades\
+      \ to choose from. Compete with your friends to have the high score and become\
+      \ the most powerful conqueror in the universe! You can also play co-op on a\
+      \ single device.&quot;"
+    achievements:
+      highlighted:
+      - name: "Let\u2019s start!"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/6c369c521967df22678973f74786ad62082dc6f4.jpg
+      - name: Let's go on!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/a44226e2937db0fa17e69f38ff238525cb783a5a.jpg
+      - name: Winner!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/551cf586622678f62d6435fb0d0f76f10cba3c3c.jpg
+      - name: King of Xonix!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/f261f0a4c77b72fdd94d701d50e5403b95c94b52.jpg
+      - name: The fun goes on!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/55a4d586174ce5163e9acbcaa05b4f10eca29707.jpg
+      - name: Unstoppable!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/261fadc86150c3b42d73886564d7ae21d37210f8.jpg
+      - name: Ambitious!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/d6223d1480c5e9ff0f517eff379a03d1a71721a7.jpg
+      - name: Om nom
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/d4df71d0d650420a688680a94b9c0f7ff89a5a69.jpg
+      - name: Om nom nom
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/e67a39ec39a296e8930fb578ec6cf56f8b3a273c.jpg
+      - name: Om nom nom nom
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382270/eb2802b05fc24108372aebbea122f3da07e234eb.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/382270/page_bg_generated_v6b.jpg?t=1447376790
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "&quot;The time to conquer the universe has come!<br />\r\
+      \n You are the pilot a high-tech U.F.O, with the vast expanse of space as your\
+      \ territory to claim. This beautifully designed game will test your logical\
+      \ thinking, coordination and perseverance with each level offering a plethora\
+      \ of upgrades to choose from. Compete with your friends to have the high score\
+      \ and become the most powerful conqueror in the universe! You can also play\
+      \ co-op on a single device.&quot;"
+    developers:
+    - SRF Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/382270/header.jpg?t=1447376790
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux kernel 3.0(x86_64) or later<br></li><li><strong>Processor:</strong>
+        1 Ghz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.1 supported GPU<br></li><li><strong>Storage:</strong> 200 MB available
+        space<br></li><li><strong>Sound Card:</strong> OpenAL</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.7 or later<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.1 supported GPU<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL</li></ul>
+    movies:
+    - highlight: true
+      id: 256655162
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256655162/movie480.mp4?t=1447377305
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256655162/movie_max.mp4?t=1447377305
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256655162/movie.293x165.jpg?t=1447377305
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256655162/movie480.webm?t=1447377305
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256655162/movie_max.webm?t=1447377305
+    name: Space Xonix
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Space Xonix - $0.99
+        packageid: 71652
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Space Xonix
+    packages:
+    - 71652
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or later<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.1 supported GPU<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - SRF Games
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2015
+    required_age: 0
+    reviews: "\u201CSpace Xonix is\u2026 pretty much like it sounds. It\u2019s Xonix\
+      \ but in space. And completely bonkers. You claim territory just like in Xonix\
+      \ but then there are lasers and fireballs and lava and\u2026 just watch the\
+      \ video.\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://eran.geek.co.il/wp/archives/6378\"\
+      \ target=\"_blank\" rel=\"noopener\"  >The Less Interesting Times</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_5563e5736734f66f21e6bcd01c4c2c33fd54100f.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_5563e5736734f66f21e6bcd01c4c2c33fd54100f.600x338.jpg?t=1447376790
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_a3588526708329b2bee72a0f6bc1b2aaf4d3ae53.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_a3588526708329b2bee72a0f6bc1b2aaf4d3ae53.600x338.jpg?t=1447376790
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_3d56bcf0d94f4a105678f2bffad3c78ba2cf6641.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_3d56bcf0d94f4a105678f2bffad3c78ba2cf6641.600x338.jpg?t=1447376790
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_ef873462b06d80e6f0c8f95e63c71cc6505c6b96.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_ef873462b06d80e6f0c8f95e63c71cc6505c6b96.600x338.jpg?t=1447376790
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_f65274c23f54b7c2a288a5563b02ac32e9be61d8.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_f65274c23f54b7c2a288a5563b02ac32e9be61d8.600x338.jpg?t=1447376790
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_b9b3741cb8327f233ba4e3081d2f07e722672b3d.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_b9b3741cb8327f233ba4e3081d2f07e722672b3d.600x338.jpg?t=1447376790
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_b656d07b74db21e568817ed02c999c80cbf1a8e9.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_b656d07b74db21e568817ed02c999c80cbf1a8e9.600x338.jpg?t=1447376790
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_9076a5a3201dbdd6d0ac4cfb2a1a6dc054156329.1920x1080.jpg?t=1447376790
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/382270/ss_9076a5a3201dbdd6d0ac4cfb2a1a6dc054156329.600x338.jpg?t=1447376790
+    short_description: It is the best edition of classic &quot;Xonix&quot; style game
+      here and now.
+    steam_appid: 382270
+    support_info:
+      email: basovav@gmail.com
+      url: ''
+    supported_languages: English, French, German, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4hpa1qPACc6Lk8gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 2
+    total_positive: 14
+    total_reviews: 16
+  reviews:
+  - author:
+      last_played: 1581902644
+      num_games_owned: 1308
+      num_reviews: 57
+      playtime_at_review: 32
+      playtime_forever: 32
+      playtime_last_two_weeks: 0
+      steamid: '76561197998967954'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '63644195'
+    review: 'When a game is less than $1, the real question is "is it worth my time?"
+      The answer for most people for this game is probably no.
+
+
+      The game brings its own charms and contributions to the Qix genre:
+
+      A power up/ability system
+
+      A nice soundtrack
+
+      The ability to cross over your own unfinished lines
+
+      Enemies start a "fuse" when they touch your unfinished lines rather than killing
+      you outright
+
+      And a unique graphical perspective that gives the playfield a nice touch of
+      depth.
+
+
+      Unfortunately, there was more about this game that I disliked than liked:
+
+      Your own avatar feels too big and clunky most of the time,
+
+      Because the player sprite is large and allowed to overlap with unclaimed areas
+      from claimed areas, you can get killed by enemies in the unclaimed area even
+      when you''re not attempting to draw.
+
+      The UI is unrefined and though the game allows a mix of controls, it seems the
+      UI doesn''t support the same set.
+
+      I''m not positive how it compares to Qix and other Qix clones, but the pacing
+      of the game feels slow and sluggish.
+
+      The star scoring system places too much emphasis on how much extra playfield
+      you claimed over the threshold on your winning move. So on more difficult stages,
+      you will have to keep replaying even if you win just so you can get that one
+      last big reclamation to get enough bonus for the 3rd star. Why not give the
+      player more breathing room to claim more playfield after hitting the winning
+      threshold (like shortening the timer and speeding up the enemies or something).
+      The player is then given ample opportunity for a bonus but with extra risk.
+
+
+      TLDR; if you love Qix and Qix clones, it''s worth checking out this game for
+      a few minutes and a dollar. If you don''t absolutely love those, you should
+      probably skip this.'
+    steam_purchase: true
+    timestamp_created: 1581904081
+    timestamp_updated: 1581904081
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

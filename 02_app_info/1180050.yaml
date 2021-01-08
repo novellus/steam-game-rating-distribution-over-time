@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: This demo is the same as the full game except that new maps cannot
+      be generated.  The full game includes randomly generated mazes for the players
+      to navigate.  Because the demo is limited to a single map, some traps may not
+      appear at all.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1180050/page_bg_generated_v6b.jpg?t=1573744884
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This demo is the same as the full game except that new maps
+      cannot be generated.  The full game includes randomly generated mazes for the
+      players to navigate.  Because the demo is limited to a single map, some traps
+      may not appear at all.
+    developers:
+    - Jake Johnson
+    fullgame:
+      appid: '1180000'
+      name: I Will Be Your Eyes
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1180050/header.jpg?t=1573744884
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: I Will Be Your Eyes Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or newer<br></li><li><strong>Processor:</strong> Dual core Intel
+        or AMD<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 10 graphics card<br></li><li><strong>Storage:</strong> 100 MB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Jake Johnson
+    release_date:
+      coming_soon: false
+      date: Nov 14, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_0d8ed63a5d0590183971948b1dcf830cf4b8daa2.1920x1080.jpg?t=1573744884
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_0d8ed63a5d0590183971948b1dcf830cf4b8daa2.600x338.jpg?t=1573744884
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_392c64912d4b1e118f677b1991589dae13c1a7bc.1920x1080.jpg?t=1573744884
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_392c64912d4b1e118f677b1991589dae13c1a7bc.600x338.jpg?t=1573744884
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_001f387cbcb012012981fee6bb2e7f438cd7a063.1920x1080.jpg?t=1573744884
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_001f387cbcb012012981fee6bb2e7f438cd7a063.600x338.jpg?t=1573744884
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_0550753fce84372fcd4ac7c073831968167f6c17.1920x1080.jpg?t=1573744884
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_0550753fce84372fcd4ac7c073831968167f6c17.600x338.jpg?t=1573744884
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_0bf5ea142898cba7754ab42bd8b1ea1c32cc1c27.1920x1080.jpg?t=1573744884
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1180050/ss_0bf5ea142898cba7754ab42bd8b1ea1c32cc1c27.600x338.jpg?t=1573744884
+    short_description: This demo is the same as the full game except that new maps
+      cannot be generated. The full game includes randomly generated mazes for the
+      players to navigate. Because the demo is limited to a single map, some traps
+      may not appear at all.
+    steam_appid: 1180050
+    support_info:
+      email: blindfoldedgame@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: "Control your own space ship to gather score points from asteroids.<br\
+      \ />\r\nSurvive the attacks from various enemy ships in different degrees of\
+      \ complexity.<br />\r\nUse temporary upgrades to withstand attacks. If you die,\
+      \ you start again."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1388840/page_bg_generated_v6b.jpg?t=1608295836
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Control your own space ship to gather score points from\
+      \ asteroids.<br />\r\nSurvive the attacks from various enemy ships in different\
+      \ degrees of complexity.<br />\r\nUse temporary upgrades to withstand attacks.\
+      \ If you die, you start again."
+    developers:
+    - ICNP
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1388840/header.jpg?t=1608295836
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Surviving Space
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Surviving Space - $2.99
+        packageid: 487361
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Surviving Space
+    packages:
+    - 487361
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ICNP
+    release_date:
+      coming_soon: false
+      date: Aug 31, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_bedf31dee32fb3a8d4abdad41454a13ae9244e0e.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_bedf31dee32fb3a8d4abdad41454a13ae9244e0e.600x338.jpg?t=1608295836
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_60dc13aad35bd313342e943b5bbaeb61c4f9332b.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_60dc13aad35bd313342e943b5bbaeb61c4f9332b.600x338.jpg?t=1608295836
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_eac1be8052c9cc3030d38066c04451699b9ceb00.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_eac1be8052c9cc3030d38066c04451699b9ceb00.600x338.jpg?t=1608295836
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_37061ba1411989fb1c1d071b93dd8daf3b7f8835.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_37061ba1411989fb1c1d071b93dd8daf3b7f8835.600x338.jpg?t=1608295836
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_1a9950276d964746a0ddf42bb6f29dc2700112b5.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_1a9950276d964746a0ddf42bb6f29dc2700112b5.600x338.jpg?t=1608295836
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_a2164017de4aac5539010be57b53af79d1d7b786.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_a2164017de4aac5539010be57b53af79d1d7b786.600x338.jpg?t=1608295836
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_1f340a52ff043ad9a1128bc44088aacb4f76cb52.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_1f340a52ff043ad9a1128bc44088aacb4f76cb52.600x338.jpg?t=1608295836
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_905aa0a28a5f9d59f7e2a0922163837a888085f9.1920x1080.jpg?t=1608295836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1388840/ss_905aa0a28a5f9d59f7e2a0922163837a888085f9.600x338.jpg?t=1608295836
+    short_description: Survive in this open world space adventure. Get the highest
+      scores and be better than everyone else!
+    steam_appid: 1388840
+    support_info:
+      email: sven.firmbach@gmx.de
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

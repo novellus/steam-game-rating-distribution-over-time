@@ -1,0 +1,76 @@
+details:
+  data:
+    about_the_game: This demo allows you to play the multiplayer mode of BAM VR for
+      free. This enables you to try all locomotions, get in touch with people who
+      bought the game and experience how the gunplay and other stuff feels.
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Online PvP
+      id: 36
+    - description: Game demo
+      id: 10
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids:
+      - 5
+      notes: null
+    detailed_description: This demo allows you to play the multiplayer mode of BAM
+      VR for free. This enables you to try all locomotions, get in touch with people
+      who bought the game and experience how the gunplay and other stuff feels.
+    developers:
+    - Koenigz
+    fullgame:
+      appid: '525640'
+      name: Bullets And More VR - BAM VR
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/553200/header.jpg?t=1514662852
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Bullets And More VR - BAM VR Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        Intel i5-4590, AMD FX 8350 equivalent or better<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>Additional
+        Notes:</strong> Performance for custom created content may vary</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Koenigz
+    release_date:
+      coming_soon: false
+      date: Dec 9, 2016
+    required_age: 0
+    short_description: This demo allows you to play the multiplayer mode of BAM VR
+      for free. This enables you to try all locomotions, get in touch with people
+      who bought the game and experience how the gunplay and other stuff feels.
+    steam_appid: 553200
+    support_info:
+      email: info@koenigz.com
+      url: http://www.koenigz.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

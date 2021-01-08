@@ -1,0 +1,236 @@
+details:
+  data:
+    about_the_game: "This application is a VR media viewer that can view various digital\
+      \ contents such as image files, audio files, 2D video files, VR video files.\
+      \ (180\xB0 screen, 360\xB0 screen, side-by-side / top-and-bottom stereoscopic\
+      \ support)<h2 class=\"bb_tag\">Application features</h2><br><br>[ File browser\
+      \ specialized for repeated use ] Designed with emphasis on comfort when file-browsing\
+      \ repeatedly, such as a home screen for immediate access to frequently used\
+      \ folders, favorites with editing functions, and history for accessing previously\
+      \ viewed folders.<br><br>[ Easy operation and flexible media screen ] Basic\
+      \ functions such as play, stop, move between files (supports gaze control).\
+      \ Screen editing such as screen duplication, enlargement / reduction, rotation,\
+      \ curved screen. And switching of situations for VR media such as side-by-side\
+      \ / top-and-bottom, 2D screen, 180 \xB0 screen, and 360 \xB0 screen is easy\
+      \ and flexibl.<h2 class=\"bb_tag\">Supported media formats</h2><br><br>[ Image\
+      \ files ] JPG, PNG, BMP, GIF, Animated GIF, MPO (*1), VRJPG (*2)<br>[ Movie\
+      \ files (*3) ] MP4, MOV, AVI, MKV, WEBM, ASF, WMV<br>[ Sound files ] MP3, WAV,\
+      \ AAC, FLAC, AC3, WMA<br>[ Subtitle files ] SRT<br>[ Stereoscopic files ] Side-by-side,\
+      \ Top-and-bottom<br>[ Stereoscopic projection ] Equirectangular, Fisheye (Only\
+      \ when using 180\xB0 screen)<br><br>* : The maximum size of an image file that\
+      \ can be read is 16K (16384 * 16384 pixels).<br>* : The maximum size of a video\
+      \ file that can be read is 8K (8192 * 8192 pixels).<br>*1 : Stereoscopic photo\
+      \ format<br>*2 : Google VR180 format<br>*3 : Even if the extension of the video\
+      \ file format is the same, there are many cases where it can be played or cannot\
+      \ be played depending on the conversion method. We are paying close attention\
+      \ to the latest video playback technology so that we can play as many videos\
+      \ as possible, but there are unsupported files such as new formats born in real\
+      \ time and videos with very large file sizes. I would appreciate your understanding.\
+      \ If you are worried about playing your video files, we recommend that you try\
+      \ the demo version before purchasing. In addition, the subtitle data stored\
+      \ in the file is not supported. Please use the SRT file to display the subtitles.<br><br>Also,\
+      \ it supports third-party decoders (LAV Filters etc.), so please try it if you\
+      \ can not play the video. (In that case, install the decoder yourself, then\
+      \ change the video API to DirectShow in the VR MEDIA VIEWER)<h2 class=\"bb_tag\"\
+      >About demo vertion</h2><br><br>We offer a free demo version that allows you\
+      \ to check whether your files can be displayed and played correctly. The demo\
+      \ version has a 5 minute usage limit, and there are no settings, favorites,\
+      \ or history retention after closing the application. Of course, those restrictions\
+      \ are removed in the product version.<h2 class=\"bb_tag\"> About support for\
+      \ Windows Mixed Reality </h2><br><br>Windows Mixed Reality headsets have been\
+      \ released by many companies and have not been marked for Windows Mixed Reality\
+      \ because they have not been confirmed to work on all models, but operated normally\
+      \ in environments using &quot;FMVHMD1 (Fujitsu)&quot; and &quot;Windows Mixed\
+      \ Reality for SteamVR&quot; (However, it does not support controller vibration)."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1167550/page_bg_generated_v6b.jpg?t=1603752805
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1185550
+      description: ''
+    detailed_description: "This application is a VR media viewer that can view various\
+      \ digital contents such as image files, audio files, 2D video files, VR video\
+      \ files. (180\xB0 screen, 360\xB0 screen, side-by-side / top-and-bottom stereoscopic\
+      \ support)<h2 class=\"bb_tag\">Application features</h2><br><br>[ File browser\
+      \ specialized for repeated use ] Designed with emphasis on comfort when file-browsing\
+      \ repeatedly, such as a home screen for immediate access to frequently used\
+      \ folders, favorites with editing functions, and history for accessing previously\
+      \ viewed folders.<br><br>[ Easy operation and flexible media screen ] Basic\
+      \ functions such as play, stop, move between files (supports gaze control).\
+      \ Screen editing such as screen duplication, enlargement / reduction, rotation,\
+      \ curved screen. And switching of situations for VR media such as side-by-side\
+      \ / top-and-bottom, 2D screen, 180 \xB0 screen, and 360 \xB0 screen is easy\
+      \ and flexibl.<h2 class=\"bb_tag\">Supported media formats</h2><br><br>[ Image\
+      \ files ] JPG, PNG, BMP, GIF, Animated GIF, MPO (*1), VRJPG (*2)<br>[ Movie\
+      \ files (*3) ] MP4, MOV, AVI, MKV, WEBM, ASF, WMV<br>[ Sound files ] MP3, WAV,\
+      \ AAC, FLAC, AC3, WMA<br>[ Subtitle files ] SRT<br>[ Stereoscopic files ] Side-by-side,\
+      \ Top-and-bottom<br>[ Stereoscopic projection ] Equirectangular, Fisheye (Only\
+      \ when using 180\xB0 screen)<br><br>* : The maximum size of an image file that\
+      \ can be read is 16K (16384 * 16384 pixels).<br>* : The maximum size of a video\
+      \ file that can be read is 8K (8192 * 8192 pixels).<br>*1 : Stereoscopic photo\
+      \ format<br>*2 : Google VR180 format<br>*3 : Even if the extension of the video\
+      \ file format is the same, there are many cases where it can be played or cannot\
+      \ be played depending on the conversion method. We are paying close attention\
+      \ to the latest video playback technology so that we can play as many videos\
+      \ as possible, but there are unsupported files such as new formats born in real\
+      \ time and videos with very large file sizes. I would appreciate your understanding.\
+      \ If you are worried about playing your video files, we recommend that you try\
+      \ the demo version before purchasing. In addition, the subtitle data stored\
+      \ in the file is not supported. Please use the SRT file to display the subtitles.<br><br>Also,\
+      \ it supports third-party decoders (LAV Filters etc.), so please try it if you\
+      \ can not play the video. (In that case, install the decoder yourself, then\
+      \ change the video API to DirectShow in the VR MEDIA VIEWER)<h2 class=\"bb_tag\"\
+      >About demo vertion</h2><br><br>We offer a free demo version that allows you\
+      \ to check whether your files can be displayed and played correctly. The demo\
+      \ version has a 5 minute usage limit, and there are no settings, favorites,\
+      \ or history retention after closing the application. Of course, those restrictions\
+      \ are removed in the product version.<h2 class=\"bb_tag\"> About support for\
+      \ Windows Mixed Reality </h2><br><br>Windows Mixed Reality headsets have been\
+      \ released by many companies and have not been marked for Windows Mixed Reality\
+      \ because they have not been confirmed to work on all models, but operated normally\
+      \ in environments using &quot;FMVHMD1 (Fujitsu)&quot; and &quot;Windows Mixed\
+      \ Reality for SteamVR&quot; (However, it does not support controller vibration)."
+    developers:
+    - BoninblueDesignLaboratory
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1167550/header.jpg?t=1603752805
+    is_free: false
+    legal_notice: Copyright(c) Boninblue Design Laboratory all rights reserved.
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256765586
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765586/movie480.mp4?t=1573443168
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765586/movie_max.mp4?t=1573443168
+      name: Startup English
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256765586/movie.293x165.jpg?t=1573443168
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765586/movie480.webm?t=1573443168
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765586/movie_max.webm?t=1573443168
+    - highlight: true
+      id: 256765630
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765630/movie480.mp4?t=1573443189
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765630/movie_max.mp4?t=1573443189
+      name: Screen guide English
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256765630/movie.293x165.jpg?t=1573443189
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765630/movie480.webm?t=1573443189
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765630/movie_max.webm?t=1573443189
+    name: VR MEDIA VIEWER
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: VR MEDIA VIEWER - $6.99
+        packageid: 398934
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy VR MEDIA VIEWER
+    packages:
+    - 398934
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows10<br></li><li><strong>Processor:</strong> Intel Core i5-4590<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970<br></li><li><strong>Storage:</strong>
+        400 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - BoninblueDesignLaboratory
+    release_date:
+      coming_soon: false
+      date: Nov 24, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_2bf134d6023d25f240ce9377d4ff97d0641b5a3b.1920x1080.jpg?t=1603752805
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_2bf134d6023d25f240ce9377d4ff97d0641b5a3b.600x338.jpg?t=1603752805
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_9d1d4d8ba86abfc6e6a4d5eef68fe133593ca911.1920x1080.jpg?t=1603752805
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_9d1d4d8ba86abfc6e6a4d5eef68fe133593ca911.600x338.jpg?t=1603752805
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_b7cc7e4978343e130956cf10a3779b8064906f73.1920x1080.jpg?t=1603752805
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_b7cc7e4978343e130956cf10a3779b8064906f73.600x338.jpg?t=1603752805
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_95b537f386918992a58cc953076213f0620e20a1.1920x1080.jpg?t=1603752805
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_95b537f386918992a58cc953076213f0620e20a1.600x338.jpg?t=1603752805
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_9d80d3bb173936b39189b2a127792eaf18a558c6.1920x1080.jpg?t=1603752805
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1167550/ss_9d80d3bb173936b39189b2a127792eaf18a558c6.600x338.jpg?t=1603752805
+    short_description: This application is a VR media viewer that can view various
+      digital contents such as image files, audio files, 2D video files, VR video
+      files.
+    steam_appid: 1167550
+    support_info:
+      email: boninbluedesign@gmail.com
+      url: ''
+    supported_languages: English, Japanese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJww5jkx/YCc7S3vAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 12
+    total_reviews: 13
+  reviews:
+  - author:
+      last_played: 1608835858
+      num_games_owned: 76
+      num_reviews: 4
+      playtime_at_review: 64
+      playtime_forever: 72
+      playtime_last_two_weeks: 7
+      steamid: '76561198164986554'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82950979'
+    review: "To view stereoscopic photos, this program is the best for me at the moment.\n\
+      It works without any problems except for rare crashes, although I have not yet\
+      \ been able to determine whether the program or other parts (PC / VR glasses)\
+      \ are responsible for this.\nIf you want to view your own 3D photos with VR\
+      \ glasses, you should use this software.\n\nI find the price/performance ratio\
+      \ very good.\n\n(Made with DeepL ;) )\n\n\nUm stereoskopische Fotos zu betrachten\
+      \ ist dieses Programm f\xFCr mich momentan das Beste.\nEs funktioniert bis auf\
+      \ seltene Abst\xFCrze problemlos, wobei ich noch nicht feststellen konnte, ob\
+      \ das Programm oder andere Teile (PC / VR Brille) daf\xFCr verantwortlich sind.\n\
+      \nWer insbesondere selbst gemachte 3D Photos mit einer VR Brille betrachten\
+      \ will, sollte zu dieser Software greifen.\n\nPreis/Leistungsverh\xE4ltnis finde\
+      \ ich sehr gut."
+    steam_purchase: true
+    timestamp_created: 1608726398
+    timestamp_updated: 1608726398
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

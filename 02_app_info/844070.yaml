@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: Soundtrack for ebi-hime's AIdol. Composed by <a href="https://steamcommunity.com/linkfilter/?url=https://mockoff.bandcamp.com/"
+      target="_blank" rel="noopener"  >Mock Off</a> and <a href="https://www.youtube.com/nostraightanswer"
+      target="_blank" rel="noreferrer"  >nostraightanswer (Kenji-B)</a>.<br><br>Includes
+      12 tracks in MP3.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/844070/page_bg_generated_v6b.jpg?t=1581557527
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack for ebi-hime's AIdol. Composed by <a href="https://steamcommunity.com/linkfilter/?url=https://mockoff.bandcamp.com/"
+      target="_blank" rel="noopener"  >Mock Off</a> and <a href="https://www.youtube.com/nostraightanswer"
+      target="_blank" rel="noreferrer"  >nostraightanswer (Kenji-B)</a>.<br><br>Includes
+      12 tracks in MP3.
+    developers:
+    - ebi-hime
+    fullgame:
+      appid: '829210'
+      name: AIdol
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/844070/header.jpg?t=1581557527
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> MP3 decoder</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> MP3 decoder</li></ul>
+    name: AIdol OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: AIdol OST - <span class="discount_original_price">$4.99</span>
+          $1.49
+        packageid: 263834
+        percent_savings: 0
+        percent_savings_text: '-70% '
+        price_in_cents_with_discount: 149
+      title: Buy AIdol OST
+    packages:
+    - 263834
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> MP3 decoder</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 70
+      final: 149
+      final_formatted: $1.49
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - ebi-hime
+    release_date:
+      coming_soon: false
+      date: Apr 23, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/844070/ss_0a565bb4a7d1ce8d0a7dfb277bd3205967d41691.1920x1080.jpg?t=1581557527
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/844070/ss_0a565bb4a7d1ce8d0a7dfb277bd3205967d41691.600x338.jpg?t=1581557527
+    short_description: Soundtrack for ebi-hime's AIdol.
+    steam_appid: 844070
+    support_info:
+      email: ebihimes@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

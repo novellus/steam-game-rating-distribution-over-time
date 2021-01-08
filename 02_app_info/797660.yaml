@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: God Test
+    background: ''
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: MMO
+      id: 20
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: God Test
+    developers:
+    - God Test
+    genres:
+    - description: Action
+      id: '1'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/797660/header.jpg?t=1548026610
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: God Test
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or Newer<br></li><li><strong>Processor:</strong> 2.0 GHz Dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics HD 4000 or
+        Nvidia GT 620<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        4 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or Newer<br></li><li><strong>Processor:</strong> 2.0 GHz Dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics HD 4000 or
+        Nvidia GT 620<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        4 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - God Test
+    release_date:
+      coming_soon: false
+      date: Apr 18, 2018
+    required_age: 0
+    short_description: God Test
+    steam_appid: 797660
+    support_info:
+      email: insanegamedev@outlook.com
+      url: ''
+    supported_languages: Traditional Chinese, English, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw1s/ilOMCfYPOnwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 5
+    total_positive: 1
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1525410275
+      num_games_owned: 39
+      num_reviews: 1
+      playtime_at_review: 15
+      playtime_forever: 15
+      playtime_last_two_weeks: 0
+      steamid: '76561197965328753'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '41840701'
+    review: "\u5783\u573E \u6E38\u620F"
+    steam_purchase: true
+    timestamp_created: 1525410332
+    timestamp_updated: 1525410332
+    voted_up: false
+    votes_funny: 0
+    votes_up: 13
+    weighted_vote_score: '0.677440404891967773'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: "Listen to the soundtrack for Germination, now spun out and remastered\
+      \ so that each layer gets time in the limelight. Bump along to your favorite\
+      \ tunes in a mix that slowly builds from the chill grooves from the beginning\
+      \ of a run to the frantic noise accompanying your final moments on a lonely\
+      \ planet.<br />\r\n<br />\r\nIncludes the new guitar tune included in the upcoming\
+      \ game update."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1224680/page_bg_generated_v6b.jpg?t=1581558682
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Listen to the soundtrack for Germination, now spun out\
+      \ and remastered so that each layer gets time in the limelight. Bump along to\
+      \ your favorite tunes in a mix that slowly builds from the chill grooves from\
+      \ the beginning of a run to the frantic noise accompanying your final moments\
+      \ on a lonely planet.<br />\r\n<br />\r\nIncludes the new guitar tune included\
+      \ in the upcoming game update."
+    developers:
+    - Sullivan Boyd
+    fullgame:
+      appid: '428490'
+      name: Germination
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1224680/header.jpg?t=1581558682
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Germination Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Germination Soundtrack - $0.99
+        packageid: 424246
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Germination Soundtrack
+    packages:
+    - 424246
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        10 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 58 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Sullivan Boyd & Cadence Petersen
+    release_date:
+      coming_soon: false
+      date: Jan 23, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_c6a95b7f49465a413c0ad1491271ac78780407e4.1920x1080.jpg?t=1581558682
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_c6a95b7f49465a413c0ad1491271ac78780407e4.600x338.jpg?t=1581558682
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_3463ec4676d1a00c5070fa005de73c0695e7e493.1920x1080.jpg?t=1581558682
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_3463ec4676d1a00c5070fa005de73c0695e7e493.600x338.jpg?t=1581558682
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_4f79f47007f293e8ae8fc6a75a47652d11f96f1d.1920x1080.jpg?t=1581558682
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_4f79f47007f293e8ae8fc6a75a47652d11f96f1d.600x338.jpg?t=1581558682
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_8428ab2875ae9017d1648edf01aca38c8475adf7.1920x1080.jpg?t=1581558682
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_8428ab2875ae9017d1648edf01aca38c8475adf7.600x338.jpg?t=1581558682
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_19348fde4473c1be7ee58fc06236728212f2205b.1920x1080.jpg?t=1581558682
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1224680/ss_19348fde4473c1be7ee58fc06236728212f2205b.600x338.jpg?t=1581558682
+    short_description: Listen to the soundtrack for Germination, now spun out and
+      remastered so that each layer gets time in the limelight. Includes the new guitar
+      tune included in the upcoming game update.
+    steam_appid: 1224680
+    support_info:
+      email: sullivan.h.boyd9@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://vansul.li/projects/germination
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

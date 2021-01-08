@@ -1,0 +1,137 @@
+details:
+  data:
+    about_the_game: This expansion pack gives you 4 additional wild west styled guns
+      to fight off dinosaurs (or anything else)!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/434943/page_bg_generated_v6b.jpg?t=1561063032
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: This expansion pack gives you 4 additional wild west styled
+      guns to fight off dinosaurs (or anything else)!
+    developers:
+    - Racing Bros
+    fullgame:
+      appid: '401190'
+      name: Dinosaur Hunt
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/434943/header.jpg?t=1561063032
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Intel (R) Core(TM)2 Duo 2,4, AMD Athlon(TM) X2 2.8Ghz</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.6</li></ul>
+    name: Dinosaur Hunt - Wild West Guns Expansion Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dinosaur Hunt - Wild West Guns Expansion Pack - <span class="discount_original_price">$1.99</span>
+          $0.49
+        packageid: 90795
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 49
+      title: Buy Dinosaur Hunt - Wild West Guns Expansion Pack
+    packages:
+    - 90795
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP3 / Vista</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 49
+      final_formatted: $0.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - Racing Bros
+    release_date:
+      coming_soon: false
+      date: Apr 1, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434943/ss_4cb407bac5004a19b61a68e16c11504ffde3717e.1920x1080.jpg?t=1561063032
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434943/ss_4cb407bac5004a19b61a68e16c11504ffde3717e.600x338.jpg?t=1561063032
+    short_description: This expansion pack gives you 4 additional wild west styled
+      guns to fight off dinosaurs (or anything else)!
+    steam_appid: 434943
+    support_info:
+      email: ''
+      url: http://chupacabra-thegame.eu/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4lrT0sPYCeueGrAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 7
+    total_positive: 8
+    total_reviews: 15
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2321
+      num_reviews: 248
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198184596858'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78657146'
+    review: Useless addition to the game, this is just a DLC to suck our cash.
+    steam_purchase: true
+    timestamp_created: 1604416742
+    timestamp_updated: 1607958897
+    voted_up: false
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.536817073822021484'
+    written_during_early_access: false
+  success: 1

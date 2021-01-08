@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: "Original score styling eleven tracks laden with betrayal, tension,\
+      \ and occasional existential dread.<br />\r\n<br />\r\nArtist: Travis Ford &quot;EdwinMols&quot;\
+      \ DeCastro<br />\r\n1. Dupli_city<br />\r\n2. Holoverse Streets<br />\r\n3.\
+      \ Burn-in<br />\r\n4. Betrayal in Grid City<br />\r\n5. Hit the Streets <br\
+      \ />\r\n6. The Price<br />\r\n7. Kibo Infiltration<br />\r\n8. Viral Infection\
+      \ Surveillance-Eradication<br />\r\n9. Assurances<br />\r\n10. A Trial of Trust<br\
+      \ />\r\n11. Ends and Means"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1189310/page_bg_generated_v6b.jpg?t=1573843162
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Original score styling eleven tracks laden with betrayal,\
+      \ tension, and occasional existential dread.<br />\r\n<br />\r\nArtist: Travis\
+      \ Ford &quot;EdwinMols&quot; DeCastro<br />\r\n1. Dupli_city<br />\r\n2. Holoverse\
+      \ Streets<br />\r\n3. Burn-in<br />\r\n4. Betrayal in Grid City<br />\r\n5.\
+      \ Hit the Streets <br />\r\n6. The Price<br />\r\n7. Kibo Infiltration<br />\r\
+      \n8. Viral Infection Surveillance-Eradication<br />\r\n9. Assurances<br />\r\
+      \n10. A Trial of Trust<br />\r\n11. Ends and Means"
+    developers:
+    - Rainy Rock
+    fullgame:
+      appid: '1014750'
+      name: Dupli_City
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1189310/header.jpg?t=1573843162
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Sound Card:</strong>
+        Can play mp3s or wavs</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Sound Card:</strong>
+        Can play mp3s or wavs</li></ul>
+    name: Dupli_City Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dupli_City Soundtrack - <span class="discount_original_price">$3.99</span>
+          $1.59
+        packageid: 409313
+        percent_savings: 0
+        percent_savings_text: '-60% '
+        price_in_cents_with_discount: 159
+      title: Buy Dupli_City Soundtrack
+    packages:
+    - 409313
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Sound Card:</strong>
+        Can play mp3s or wavs</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 60
+      final: 159
+      final_formatted: $1.59
+      initial: 399
+      initial_formatted: $3.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1189310/ss_887a886bce55c00c65188314f9542f6098a32310.1920x1080.jpg?t=1573843162
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1189310/ss_887a886bce55c00c65188314f9542f6098a32310.600x338.jpg?t=1573843162
+    short_description: Dupli_City Soundtrack
+    steam_appid: 1189310
+    support_info:
+      email: rainyrockgames@gmail.com
+      url: https://discord.gg/CteEcQ9
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

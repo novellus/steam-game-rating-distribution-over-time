@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: Cosmic Trip digital art book includes over 50 pages of concept
+      art, screenshots and more!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/640401/page_bg_generated_v6b.jpg?t=1525899451
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: VR Support
+      id: 31
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Cosmic Trip digital art book includes over 50 pages of concept
+      art, screenshots and more!
+    developers:
+    - Funktronic Labs
+    fullgame:
+      appid: '427240'
+      name: Cosmic Trip
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/640401/header.jpg?t=1525899451
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Cosmic Trip - Digital Art Book
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cosmic Trip - Digital Art Book - $4.99
+        packageid: 177537
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Cosmic Trip - Digital Art Book
+    packages:
+    - 177537
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or Later</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 24, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_0968614a64248bd74b6a0f2b0f616e98b93dd9ae.1920x1080.jpg?t=1525899451
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_0968614a64248bd74b6a0f2b0f616e98b93dd9ae.600x338.jpg?t=1525899451
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_aef59c8cfe40bb78cbe9ffdc610dc41e565f4ede.1920x1080.jpg?t=1525899451
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_aef59c8cfe40bb78cbe9ffdc610dc41e565f4ede.600x338.jpg?t=1525899451
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_1bd6914f15dd08474745c1a284f1082cc51da6e2.1920x1080.jpg?t=1525899451
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_1bd6914f15dd08474745c1a284f1082cc51da6e2.600x338.jpg?t=1525899451
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_ab163bbc1a41fc1e84dc98cc13de22d14010fb09.1920x1080.jpg?t=1525899451
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/640401/ss_ab163bbc1a41fc1e84dc98cc13de22d14010fb09.600x338.jpg?t=1525899451
+    short_description: Includes over 50 pages of concept art, screenshots and more!
+    steam_appid: 640401
+    support_info:
+      email: support@funktroniclabs.com
+      url: http://funktroniclabs.com
+    supported_languages: English<strong>*</strong>, German<strong>*</strong>, Japanese<strong>*</strong>,
+      Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      French<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://cosmictripvr.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

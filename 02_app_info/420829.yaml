@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: The Deadmau5 DLC contains one avatar for FaceRig, representing
+      the artist Deadmau5.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/420829/page_bg_generated_v6b.jpg?t=1512397730
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Workshop
+      id: 30
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Deadmau5 DLC contains one avatar for FaceRig, representing
+      the artist Deadmau5.
+    developers:
+    - Holotech Studios
+    fullgame:
+      appid: '274920'
+      name: FaceRig
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Video Production
+      id: '58'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/420829/header.jpg?t=1512397730
+    is_free: false
+    legal_notice: "\xA9 2014 Holotech Studios"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256702099
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256702099/movie480.mp4?t=1512397719
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256702099/movie_max.mp4?t=1512397719
+      name: Deadmau5 DLC release
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256702099/movie.293x165.jpg?t=1512397719
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256702099/movie480.webm?t=1512397719
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256702099/movie_max.webm?t=1512397719
+    name: FaceRig Deadmau5 DLC
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Facerig DLC 20 - $1.99
+        packageid: 85753
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy FaceRig Deadmau5 DLC
+    packages:
+    - 85753
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7 or later<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Core\u2122 i3-3220 or equivalent<br></li><li><strong>Memory:</strong> 2\
+        \ MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT220 or equivalent<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0<br></li><li><strong>Storage:</strong> 3 MB available space<br></li><li><strong>Sound\
+        \ Card:</strong> DirectX 9.0c compatible sound card<br></li><li><strong>Additional\
+        \ Notes:</strong> For image based tracking you need a webcam. For sound base\
+        \ tracking you need a microphone. The requirements are based on desktop systems,\
+        \ not mobile (netbooks, ultrabooks, laptops, tablet pc). The mobile versions\
+        \ of processors and graphics adapters are not equivalent to the desktop ones.\
+        \ If you have a mobile PC please make sure the charger is plugged, you are\
+        \ running on the best graphic adapter and in high performance mode. We do\
+        \ not recommend low end integrated graphics adapters.</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 4, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/420829/ss_e04ef992875f197bf5636e283a4bdca54468aa45.1920x1080.jpg?t=1512397730
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/420829/ss_e04ef992875f197bf5636e283a4bdca54468aa45.600x338.jpg?t=1512397730
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/420829/ss_836ef439cf6d3f7e5dabd5be9407038be7c868d2.1920x1080.jpg?t=1512397730
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/420829/ss_836ef439cf6d3f7e5dabd5be9407038be7c868d2.600x338.jpg?t=1512397730
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/420829/ss_e73c30eb3acd81db1cf35d348bcfb3b36104e927.1920x1080.jpg?t=1512397730
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/420829/ss_e73c30eb3acd81db1cf35d348bcfb3b36104e927.600x338.jpg?t=1512397730
+    short_description: The Deadmau5 DLC contains one avatar for FaceRig, representing
+      the artist Deadmau5.
+    steam_appid: 420829
+    support_info:
+      email: info@facerig.com
+      url: https://facerig.com
+    supported_languages: English, French, Italian, German, Spanish - Spain, Japanese,
+      Russian, Traditional Chinese
+    type: dlc
+    website: http://www.facerig.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

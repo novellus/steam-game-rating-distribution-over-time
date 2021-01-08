@@ -1,0 +1,265 @@
+details:
+  data:
+    about_the_game: 'The blazingly fast 3D data viewer for <i>Windows</i> and <i>Linux</i>.  <br><i>Blaze3D</i>
+      might be the fastest 3D data viewer currently available.  <br>It supports both
+      the visualization of triangle mesh and pointcloud data stored in many file formats.<h2
+      class="bb_tag">Features</h2><ul class="bb_ul"><li><i>Blaze3D</i> is VERY fast<br></li><li>Open
+      models from the console or via drag&amp;drop<br></li><li>Browse your files directly
+      from <i>Blaze3D</i><br></li><li><i>Blaze3D</i> supports stream loading, giving
+      you instant visual feedback even with very large files  <br></li><li>Pointclouds
+      are colorized, making it easier to view complex models<br></li><li>Support for
+      many file formats</li></ul><h2 class="bb_tag">Supported file formats</h2><strong>Blaze3D
+      Lite (Steam Demo) and Blaze3D Pro (Steam Buy) </strong><br><br><ul class="bb_ul"><li><i>.stl</i>
+      both binary and ASCII<br></li><li> <i>.xyz</i><br></li><li> <i>.xyzc</i> ignoring
+      colors<br></li><li> <i>.xyzn</i> ignoring normals<br></li><li> <i>.csv</i> if
+      formatted similar to .xyz<br></li><li> <i>.txt</i> if formatted similar to .xyz<br></li><li>
+      <i>.obj</i><br></li><li> <i>.gcode</i></li></ul><br><strong>Blaze3D Pro (Steam
+      Buy) exclusive </strong> <br><br><ul class="bb_ul"><li> <i>.ply</i> both binary
+      and ASCII ignoring colors etc.<br></li><li> <i>.off</i><br></li><li> <i>.psl</i><br></li><li>
+      <i>.ptx</i><br></li><li> <i>.las</i> only loading point coordinates<br></li><li>
+      <i>.pts</i><br></li><li> <i>.glb</i> basic support (v2.0, index meshes, no colors,
+      no textures ...)<br></li><li> <i>.gltf</i> basic support (v2.0, index meshes,
+      no colors, no textures ...)</li></ul><h2 class="bb_tag">Editions</h2><i>Blaze3D</i>
+      is available as free <i>Lite</i> (Steam Demo) and paid <i>Pro</i> (Steam Buy)
+      edition.  <br>The <i>Pro</i> edition supports additional file formats.<h2 class="bb_tag">High
+      efficiency</h2><i>Blaze3D</i> causes no CPU usage when idle and uses very little
+      memory (if <i>double_buffer_data</i> is turned off). Saving power and allowing
+      you to work on other tasks in parallel.  <br>Incremental rendering of point
+      clouds is also supported. This makes it possible to render very large point
+      clouds that do not fit into your GPU''s memory.<h2 class="bb_tag">Active development</h2><i>Blaze3D</i>
+      is in active development and will further improve in the future. Feature requests
+      and bug reports are very welcome.<h2 class="bb_tag">Used models</h2>The following
+      models were used within the videos / images:  <br><br><ul class="bb_ul"><li>
+      Voronoi lamp by Markellov<br></li><li> Medieval Castle by boldmachines<br></li><li>
+      Cute Dragon - more easy printing by Sebastian_v650<br></li><li> Pen Holder by
+      damm301<br></li><li> V29 by jzisa<br></li><li> 3DBenchy - The jolly 3D printing
+      torture-test by CreativeTools.se by CreativeTools<br></li><li> Digital Sundial
+      by Mojoptix<br></li><li> Headphone Stand by MakerBot<br></li><li> Modular Mounting
+      System by yyh1002<br></li><li> All In One 3D Printer test by majda107<br></li><li>
+      Parts Tray Drawers by FatalError3141<br></li><li> Venus Box by Prot0typ1cal<br></li><li>
+      NUT JOB | Nut, Bolt, Washer and Threaded Rod Factory by mike_mattala<br></li><li>
+      Frankenstein Light Switch Plate by LoboCNC<br></li><li> Toothpaste Tube Squeezer
+      by ottenjr<br></li><li> Parametric Hinge by rohingosling<br></li><li> Wireframe
+      Skull Pencil Holder For The Love of Dog by philnelson<br></li><li> Curved honeycomb
+      vase by eggnot<br></li><li> Voronoi lamp  by Markellov<br></li><li> Ender 3
+      Cable Chain  by johnniewhiskey<br></li><li> Yet ANOTHER Machine Vise by TheGoofy<br></li><li>
+      Parametric pulley - lots of tooth profiles by droftarts<br></li><li> Clamp fully
+      printable by johann517<br></li><li> Secret Shelf by Tosh<br></li><li> Flexing
+      battery holders with integrated spring by enif<br></li><li> Fully assembled
+      3D printable wrench by barspin<br></li><li> The T-Rex Skull by MakerBot<br></li><li>
+      Raspberry Pi 3 B/B+, Pi 2 B, and Pi 1 B+ case with VESA mounts and more by 0110-M-P<br></li><li>
+      Eiffel tower by Newcandle<br></li><li> Small items organizer by cruzher<br></li><li>
+      Medieval Castle  by boldmachines<br></li><li> Platform Jack  Fully Assembled,
+      No Supports by Intentional3D<br></li><li> Flexi Rex with stronger links by DrLex<br></li><li>
+      Micro Catapult by LukeTansell<br></li><li> Tower of Pi by roman_hegglin<br></li><li>
+      DIY Dremel CNC design and parts by NikodemBartnik<br></li><li> Stackable Box
+      V4 by Yuan4114<br></li><li> TUSH - The Ultimate Spool Holder by filamentry<br></li><li>
+      Sliding Door bolt Print fully assembled by Sagittario<br></li><li> Smartphone
+      Photo Studio for #3DBenchy and tiny stuff by CreativeTools<br></li><li> Universal
+      Filament Filter and Lubricator by CreativeTools<br></li><li> Cute Dragon - more
+      easy printing by Sebastian_v650<br></li><li> Sunglasses Car Sun Visor Clip by
+      drotron<br></li><li> Air Raid Siren - hand crank version by MlePh<br></li><li>
+      Shopping Bag Handle by walter<br></li><li> 2020 / Ender 3 Filament Guide by
+      Filboyt<br></li><li> Air Spinner by walter<br></li><li> Baby Yoda by MarVin_Miniatures<br></li><li>
+      vise  by joestraws<br></li><li> Jumbo Elephant Cutlery Drainer by aleiovanevcp<br></li><li>
+      Phone Stand by GoAftens<br></li><li> Resistor Box Stackable &amp; Customizable
+      by STTrife<br></li><li> Gear Bearing by emmett<br></li><li> Place Iris Box remix
+      by LoboCNC<br></li><li> Dragon by Benchy4Life<br></li><li> Swiss Army Style
+      SD Holder ExpandableRaspberry adaptors by Dranoweb<br></li><li> Sanding Tool
+      by Perinski<br></li><li> Baby Yoda by MarVin_Miniatures   </li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1453950/page_bg_generated_v6b.jpg?t=1607369437
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1456620
+      description: ''
+    detailed_description: 'The blazingly fast 3D data viewer for <i>Windows</i> and
+      <i>Linux</i>.  <br><i>Blaze3D</i> might be the fastest 3D data viewer currently
+      available.  <br>It supports both the visualization of triangle mesh and pointcloud
+      data stored in many file formats.<h2 class="bb_tag">Features</h2><ul class="bb_ul"><li><i>Blaze3D</i>
+      is VERY fast<br></li><li>Open models from the console or via drag&amp;drop<br></li><li>Browse
+      your files directly from <i>Blaze3D</i><br></li><li><i>Blaze3D</i> supports
+      stream loading, giving you instant visual feedback even with very large files  <br></li><li>Pointclouds
+      are colorized, making it easier to view complex models<br></li><li>Support for
+      many file formats</li></ul><h2 class="bb_tag">Supported file formats</h2><strong>Blaze3D
+      Lite (Steam Demo) and Blaze3D Pro (Steam Buy) </strong><br><br><ul class="bb_ul"><li><i>.stl</i>
+      both binary and ASCII<br></li><li> <i>.xyz</i><br></li><li> <i>.xyzc</i> ignoring
+      colors<br></li><li> <i>.xyzn</i> ignoring normals<br></li><li> <i>.csv</i> if
+      formatted similar to .xyz<br></li><li> <i>.txt</i> if formatted similar to .xyz<br></li><li>
+      <i>.obj</i><br></li><li> <i>.gcode</i></li></ul><br><strong>Blaze3D Pro (Steam
+      Buy) exclusive </strong> <br><br><ul class="bb_ul"><li> <i>.ply</i> both binary
+      and ASCII ignoring colors etc.<br></li><li> <i>.off</i><br></li><li> <i>.psl</i><br></li><li>
+      <i>.ptx</i><br></li><li> <i>.las</i> only loading point coordinates<br></li><li>
+      <i>.pts</i><br></li><li> <i>.glb</i> basic support (v2.0, index meshes, no colors,
+      no textures ...)<br></li><li> <i>.gltf</i> basic support (v2.0, index meshes,
+      no colors, no textures ...)</li></ul><h2 class="bb_tag">Editions</h2><i>Blaze3D</i>
+      is available as free <i>Lite</i> (Steam Demo) and paid <i>Pro</i> (Steam Buy)
+      edition.  <br>The <i>Pro</i> edition supports additional file formats.<h2 class="bb_tag">High
+      efficiency</h2><i>Blaze3D</i> causes no CPU usage when idle and uses very little
+      memory (if <i>double_buffer_data</i> is turned off). Saving power and allowing
+      you to work on other tasks in parallel.  <br>Incremental rendering of point
+      clouds is also supported. This makes it possible to render very large point
+      clouds that do not fit into your GPU''s memory.<h2 class="bb_tag">Active development</h2><i>Blaze3D</i>
+      is in active development and will further improve in the future. Feature requests
+      and bug reports are very welcome.<h2 class="bb_tag">Used models</h2>The following
+      models were used within the videos / images:  <br><br><ul class="bb_ul"><li>
+      Voronoi lamp by Markellov<br></li><li> Medieval Castle by boldmachines<br></li><li>
+      Cute Dragon - more easy printing by Sebastian_v650<br></li><li> Pen Holder by
+      damm301<br></li><li> V29 by jzisa<br></li><li> 3DBenchy - The jolly 3D printing
+      torture-test by CreativeTools.se by CreativeTools<br></li><li> Digital Sundial
+      by Mojoptix<br></li><li> Headphone Stand by MakerBot<br></li><li> Modular Mounting
+      System by yyh1002<br></li><li> All In One 3D Printer test by majda107<br></li><li>
+      Parts Tray Drawers by FatalError3141<br></li><li> Venus Box by Prot0typ1cal<br></li><li>
+      NUT JOB | Nut, Bolt, Washer and Threaded Rod Factory by mike_mattala<br></li><li>
+      Frankenstein Light Switch Plate by LoboCNC<br></li><li> Toothpaste Tube Squeezer
+      by ottenjr<br></li><li> Parametric Hinge by rohingosling<br></li><li> Wireframe
+      Skull Pencil Holder For The Love of Dog by philnelson<br></li><li> Curved honeycomb
+      vase by eggnot<br></li><li> Voronoi lamp  by Markellov<br></li><li> Ender 3
+      Cable Chain  by johnniewhiskey<br></li><li> Yet ANOTHER Machine Vise by TheGoofy<br></li><li>
+      Parametric pulley - lots of tooth profiles by droftarts<br></li><li> Clamp fully
+      printable by johann517<br></li><li> Secret Shelf by Tosh<br></li><li> Flexing
+      battery holders with integrated spring by enif<br></li><li> Fully assembled
+      3D printable wrench by barspin<br></li><li> The T-Rex Skull by MakerBot<br></li><li>
+      Raspberry Pi 3 B/B+, Pi 2 B, and Pi 1 B+ case with VESA mounts and more by 0110-M-P<br></li><li>
+      Eiffel tower by Newcandle<br></li><li> Small items organizer by cruzher<br></li><li>
+      Medieval Castle  by boldmachines<br></li><li> Platform Jack  Fully Assembled,
+      No Supports by Intentional3D<br></li><li> Flexi Rex with stronger links by DrLex<br></li><li>
+      Micro Catapult by LukeTansell<br></li><li> Tower of Pi by roman_hegglin<br></li><li>
+      DIY Dremel CNC design and parts by NikodemBartnik<br></li><li> Stackable Box
+      V4 by Yuan4114<br></li><li> TUSH - The Ultimate Spool Holder by filamentry<br></li><li>
+      Sliding Door bolt Print fully assembled by Sagittario<br></li><li> Smartphone
+      Photo Studio for #3DBenchy and tiny stuff by CreativeTools<br></li><li> Universal
+      Filament Filter and Lubricator by CreativeTools<br></li><li> Cute Dragon - more
+      easy printing by Sebastian_v650<br></li><li> Sunglasses Car Sun Visor Clip by
+      drotron<br></li><li> Air Raid Siren - hand crank version by MlePh<br></li><li>
+      Shopping Bag Handle by walter<br></li><li> 2020 / Ender 3 Filament Guide by
+      Filboyt<br></li><li> Air Spinner by walter<br></li><li> Baby Yoda by MarVin_Miniatures<br></li><li>
+      vise  by joestraws<br></li><li> Jumbo Elephant Cutlery Drainer by aleiovanevcp<br></li><li>
+      Phone Stand by GoAftens<br></li><li> Resistor Box Stackable &amp; Customizable
+      by STTrife<br></li><li> Gear Bearing by emmett<br></li><li> Place Iris Box remix
+      by LoboCNC<br></li><li> Dragon by Benchy4Life<br></li><li> Swiss Army Style
+      SD Holder ExpandableRaspberry adaptors by Dranoweb<br></li><li> Sanding Tool
+      by Perinski<br></li><li> Baby Yoda by MarVin_Miniatures   </li></ul>'
+    developers:
+    - Martin Buck Software
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Utilities
+      id: '57'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1453950/header.jpg?t=1607369437
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Tested on
+        Archlinux | Ubuntu 16.04 (Please try the demo before purchasing)<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3<br></li><li><strong>Storage:</strong>
+        10 MB available space<br></li><li><strong>Additional Notes:</strong> Memory
+        usage depends on loaded models</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256805803
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256805803/movie480.mp4?t=1603814112
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256805803/movie_max.mp4?t=1603814112
+      name: '1'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256805803/movie.293x165.jpg?t=1603814112
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256805803/movie480_vp9.webm?t=1603814112
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256805803/movie_max_vp9.webm?t=1603814112
+    name: Blaze3D
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Blaze3D - $4.99
+        packageid: 511648
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Blaze3D
+    packages:
+    - 511648
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3<br></li><li><strong>Storage:</strong>
+        10 MB available space<br></li><li><strong>Additional Notes:</strong> Memory
+        usage depends on loaded models</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Martin Buck Software
+    release_date:
+      coming_soon: false
+      date: Nov 11, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_0486fdf1c5746ad7e075b5b3d06833700e0a82e6.1920x1080.jpg?t=1607369437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_0486fdf1c5746ad7e075b5b3d06833700e0a82e6.600x338.jpg?t=1607369437
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_cbdbe2ca5146609a6127f5935057ec659f0a6254.1920x1080.jpg?t=1607369437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_cbdbe2ca5146609a6127f5935057ec659f0a6254.600x338.jpg?t=1607369437
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_49d8b92fd0c0d459ee5aa20401519cccf77e1677.1920x1080.jpg?t=1607369437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_49d8b92fd0c0d459ee5aa20401519cccf77e1677.600x338.jpg?t=1607369437
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_5e3e96c41eb2e73ae953fa27abaf134d38c47cbc.1920x1080.jpg?t=1607369437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_5e3e96c41eb2e73ae953fa27abaf134d38c47cbc.600x338.jpg?t=1607369437
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_2a4a427e7f8765fc78c63f9b984c6d2c20186214.1920x1080.jpg?t=1607369437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_2a4a427e7f8765fc78c63f9b984c6d2c20186214.600x338.jpg?t=1607369437
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_8f36aee39db0e20f5132f3439a968d34c760c35e.1920x1080.jpg?t=1607369437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1453950/ss_8f36aee39db0e20f5132f3439a968d34c760c35e.600x338.jpg?t=1607369437
+    short_description: The blazingly fast 3D data viewer for Windows and Linux. Blaze3D
+      might be the fastest 3D data viewer currently available. It supports both the
+      visualization of triangle mesh and pointcloud data stored in many file formats.
+    steam_appid: 1453950
+    support_info:
+      email: buckmartin+blaze3d@gmail.com
+      url: https://buckmartin.de/products/blaze3d.html
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

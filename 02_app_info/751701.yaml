@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: This DLC is just a donation to the developer. It will not add
+      or change anything to the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/751701/page_bg_generated_v6b.jpg?t=1510183466
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: This DLC is just a donation to the developer. It will not
+      add or change anything to the game.
+    developers:
+    - Keinart Lobre
+    fullgame:
+      appid: '463390'
+      name: One Thousand Lies
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/751701/header.jpg?t=1510183466
+    is_free: false
+    legal_notice: This work is licensed under a Creative Commons Attribution-NonCommercial
+      4.0 International License.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86/x86_64</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.6</li></ul>
+    name: Donation Medium
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Donation Medium - $4.99
+        packageid: 220929
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Donation Medium
+    packages:
+    - 220929
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 8, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/751701/ss_a9948d56cbd42e131e9a3e19f3498265fcfd2f72.1920x1080.jpg?t=1510183466
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/751701/ss_a9948d56cbd42e131e9a3e19f3498265fcfd2f72.600x338.jpg?t=1510183466
+    short_description: This DLC is just a donation to the developer. It will not add
+      or change anything to the game.
+    steam_appid: 751701
+    support_info:
+      email: keinart@gmail.com
+      url: http://onethousandlies.weebly.com/contact65372contacto.html
+    supported_languages: English, Spanish - Spain
+    type: dlc
+    website: http://onethousandlies.weebly.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

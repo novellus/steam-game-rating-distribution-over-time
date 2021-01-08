@@ -1,0 +1,187 @@
+details:
+  data:
+    about_the_game: "A sliding Tile puzzle game with 29 levels ranging from easy to\
+      \ skull cracking. A killer soundtrack and great visuals make this a must play\
+      \ game! Try to get the taxi from start to the airport on each level. Bonuses\
+      \ are given based on how fast you solve the puzzle, how far the taxi travels,\
+      \ and if you go through an intersection tile both ways.<br />\r\n<br />\r\n\
+      There are 11 achievements to unlock as you rush passengers to the airport."
+    achievements:
+      highlighted:
+      - name: On a Roll
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/a29d8f4e48e888ea193f59832bfb191feb631cb5.jpg
+      - name: Sore Finger
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/f5946e210b4837d04b966be554423fd3e54a11b5.jpg
+      - name: Give 'em the tour
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/a82b3f3200b5134e12dabc9f8342fe57ef93be6c.jpg
+      - name: Platinum Child
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/534ed2430725a0eb85bad83af9ca7d0690ce0c17.jpg
+      - name: Broken Finger
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/045fb6cd3104bcee6598c63bbec8202e48db8bbf.jpg
+      - name: Gold Star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/50aa57c00a099802a9e75990b78531477b9f2311.jpg
+      - name: Busy Earnin'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/bee7c895ab4f8a9d7e645765fe54aa3f4050995e.jpg
+      - name: Getting Started
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/7f899f5e344aa942882d15fd6e6618b7946ebf4d.jpg
+      - name: At the tarmac
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/5b3c84b372c938730c56f2134f5e1a52291ae471.jpg
+      - name: Keep the Change
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488080/4e4badf33609a143550ace0627699edd2cc46f91.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/488080/page_bg_generated_v6b.jpg?t=1475839356
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A sliding Tile puzzle game with 29 levels ranging from\
+      \ easy to skull cracking. A killer soundtrack and great visuals make this a\
+      \ must play game! Try to get the taxi from start to the airport on each level.\
+      \ Bonuses are given based on how fast you solve the puzzle, how far the taxi\
+      \ travels, and if you go through an intersection tile both ways.<br />\r\n<br\
+      \ />\r\nThere are 11 achievements to unlock as you rush passengers to the airport."
+    developers:
+    - petraguardsoftware.com
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/488080/header.jpg?t=1475839356
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256670791
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670791/movie480.mp4?t=1475275243
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670791/movie_max.mp4?t=1475275243
+      name: Taxi Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256670791/movie.293x165.jpg?t=1475275243
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670791/movie480.webm?t=1475275243
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670791/movie_max.webm?t=1475275243
+    - highlight: true
+      id: 256670855
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670855/movie480.mp4?t=1475275267
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670855/movie_max.mp4?t=1475275267
+      name: Taxi Levels
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256670855/movie.293x165.jpg?t=1475275267
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670855/movie480.webm?t=1475275267
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670855/movie_max.webm?t=1475275267
+    name: Taxi
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Taxi - $1.99
+        packageid: 110030
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Taxi
+    packages:
+    - 110030
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Vista, 7,8,10<br></li><li><strong>Processor:</strong> 1 GHZ<br></li><li><strong>Graphics:</strong>
+        DirectX 9 compatible<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> yes, please.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - petraguardsoftware.com
+    release_date:
+      coming_soon: false
+      date: Oct 7, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_d592e3dc7e84b98e0e3f69303f7499840d24b76c.1920x1080.jpg?t=1475839356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_d592e3dc7e84b98e0e3f69303f7499840d24b76c.600x338.jpg?t=1475839356
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_171f3ba6071d8b236db6c58432e1b100ad9feb93.1920x1080.jpg?t=1475839356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_171f3ba6071d8b236db6c58432e1b100ad9feb93.600x338.jpg?t=1475839356
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_d27f181a09b78b0a28c4d2601b81c9a6847eef71.1920x1080.jpg?t=1475839356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_d27f181a09b78b0a28c4d2601b81c9a6847eef71.600x338.jpg?t=1475839356
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_934a3032bb34f021b764d0f12ace212b99b8c38f.1920x1080.jpg?t=1475839356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_934a3032bb34f021b764d0f12ace212b99b8c38f.600x338.jpg?t=1475839356
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_5dd0ae1673020b8b82c8398509b38b96eab68344.1920x1080.jpg?t=1475839356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_5dd0ae1673020b8b82c8398509b38b96eab68344.600x338.jpg?t=1475839356
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_d184303e2d4b761f83fe2f01160a9c7011f91098.1920x1080.jpg?t=1475839356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_d184303e2d4b761f83fe2f01160a9c7011f91098.600x338.jpg?t=1475839356
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_58bb22474ec508d53ac8d3e921e6c415ccecbc0c.1920x1080.jpg?t=1475839356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488080/ss_58bb22474ec508d53ac8d3e921e6c415ccecbc0c.600x338.jpg?t=1475839356
+    short_description: A sliding Tile puzzle game with 29 levels ranging from easy
+      to skull cracking. A killer soundtrack and great visuals make this a must play
+      game! Try to get the taxi from start to the airport on each level.
+    steam_appid: 488080
+    support_info:
+      email: henselkp@gmail.com
+      url: https://petraguardsoftware.com/contact.php
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://petraguardsoftware.com/taxi/
+  success: true
+reviews:
+  cursor: AoJwjpKFldkCcIr0bA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1482469571
+      num_games_owned: 319
+      num_reviews: 2
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198017012733'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '28549280'
+    review: This is a fun puzzle game to test your brain on. It's simple to learn
+      and easy to play. The music is good and interesting.
+    steam_purchase: true
+    timestamp_created: 1482469708
+    timestamp_updated: 1482469708
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.443349748849868774'
+    written_during_early_access: false
+  success: 1

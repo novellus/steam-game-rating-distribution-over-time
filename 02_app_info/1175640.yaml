@@ -1,0 +1,222 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1175640/extras/header.png?t=1598569387"
+      /><br>Drive through hills and forest to <strong>road kill the undeads</strong>
+      ! Rescue the survivors escaping the zombies, complete race laps or simply ride
+      around !<br><br><strong>Unlock all vehicles</strong> such as muscle car, truck,
+      humvee and even armored sport car.<br><br>Play and achieve the <strong>best
+      online score</strong> !
+    achievements:
+      highlighted:
+      - name: Kill 100 Zombies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/1cb038fc8616ced331098df5030568500f032d45.jpg
+      - name: Kill 500 Zombies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/4fd350742dde72d60bb98efb427121a3f425cf7b.jpg
+      - name: Kill 1000 Zombies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/6c48b38f9d42b759830168edb24d9f7ead23f95d.jpg
+      - name: Drive Over 140 Km/h
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/10aa5113f21430918c98f4c407c21aa70969422e.jpg
+      - name: Boost for 15 Seconds
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/2b8441b191298ab59c22bea1216cb52db4188209.jpg
+      - name: Unlock Monster Truck
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/d3d01e4038c4e553f6faaed4208ce4a311e84c3d.jpg
+      - name: Unlock Humvee
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/009301e3d297100dab1cbbb10ed3a42bd6116885.jpg
+      - name: Save 8 Survivors in a Row
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/d5d4c247f1017c3130addaac02fe25680b5aa7f3.jpg
+      - name: Complete a Race Lap
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/1cfa8972d99138dc011a33bb721c5e4bbea89298.jpg
+      - name: Kill 2000 Zombies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1175640/64864aa20447bff1e0dfc5fe4696f62d6fba0dda.jpg
+      total: 13
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1175640/page_bg_generated_v6b.jpg?t=1598569387
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    - description: Remote Play on Phone
+      id: 41
+    - description: Remote Play on Tablet
+      id: 42
+    - description: Remote Play on TV
+      id: 43
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Includes blood effects along zombies being hit by a car.
+    controller_support: full
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1175640/extras/header.png?t=1598569387"
+      /><br>Drive through hills and forest to <strong>road kill the undeads</strong>
+      ! Rescue the survivors escaping the zombies, complete race laps or simply ride
+      around !<br><br><strong>Unlock all vehicles</strong> such as muscle car, truck,
+      humvee and even armored sport car.<br><br>Play and achieve the <strong>best
+      online score</strong> !
+    developers:
+    - Devdan Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1175640/header.jpg?t=1598569387
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Debian Stable or Ubuntu 12.04 LTS or later<br></li><li><strong>Processor:</strong>
+        Quad-core Intel or AMD processor<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> GeForce 700 or Radeon HD 7000<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256764607
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764607/movie480.mp4?t=1585514627
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764607/movie_max.mp4?t=1585514627
+      name: Zombie Road Rider Early Access Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256764607/movie.293x165.jpg?t=1585514627
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764607/movie480.webm?t=1585514627
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764607/movie_max.webm?t=1585514627
+    name: Zombie Road Rider
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Zombie Road Rider - <span class="discount_original_price">$4.99</span>
+          $2.49
+        packageid: 402703
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 249
+      title: Buy Zombie Road Rider
+    packages:
+    - 402703
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD processor<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 700 or Radeon HD 7000<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 249
+      final_formatted: $2.49
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Devdan Games
+    release_date:
+      coming_soon: false
+      date: Mar 30, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_aa0b5bfb13f995ae77e8a97fdf4befc52352adf1.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_aa0b5bfb13f995ae77e8a97fdf4befc52352adf1.600x338.jpg?t=1598569387
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_9c7ac924ed1799e2122fc8f4b6cc2c4e1bba7356.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_9c7ac924ed1799e2122fc8f4b6cc2c4e1bba7356.600x338.jpg?t=1598569387
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_79fc9ecee71a2bd3cee6107c24a40d902170e14d.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_79fc9ecee71a2bd3cee6107c24a40d902170e14d.600x338.jpg?t=1598569387
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_e824228f51dcf15776dec323f5178f8000b6ca7b.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_e824228f51dcf15776dec323f5178f8000b6ca7b.600x338.jpg?t=1598569387
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_f38d1e0fbf29c0be592ba7dcde1227c16a3fe471.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_f38d1e0fbf29c0be592ba7dcde1227c16a3fe471.600x338.jpg?t=1598569387
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_922f0c6b6bd1554f8114eef72b42318bb81c51c6.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_922f0c6b6bd1554f8114eef72b42318bb81c51c6.600x338.jpg?t=1598569387
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_02fc3ddcb2dbc9232f7eb502e3f162f0d5d5b38d.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_02fc3ddcb2dbc9232f7eb502e3f162f0d5d5b38d.600x338.jpg?t=1598569387
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_801d46d1c6fc0ba1d44d88248a2bef6b6e293f02.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_801d46d1c6fc0ba1d44d88248a2bef6b6e293f02.600x338.jpg?t=1598569387
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_2f3bd83ab814c7285c128a5b45b6091bcaafafb0.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_2f3bd83ab814c7285c128a5b45b6091bcaafafb0.600x338.jpg?t=1598569387
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_52756016873c391e1f4518af5fa4527663056366.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_52756016873c391e1f4518af5fa4527663056366.600x338.jpg?t=1598569387
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_caad7fb22bd821eaa2237832502468c6384bd475.1920x1080.jpg?t=1598569387
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1175640/ss_caad7fb22bd821eaa2237832502468c6384bd475.600x338.jpg?t=1598569387
+    short_description: Drive through a forest infested of zombies, crush all the undeads
+      on your way, rescue the survivors and unlock all the vehicles to achieve the
+      best score!
+    steam_appid: 1175640
+    support_info:
+      email: anthony@devdangames.com
+      url: http://devdangames.com
+    supported_languages: English<strong>*</strong>, French, German, Spanish - Spain,
+      Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support
+    type: game
+    website: http://devdangames.com
+  success: true
+reviews:
+  cursor: AoJwmpKChPYCdK3x/AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 3
+    total_positive: 13
+    total_reviews: 16
+  reviews:
+  - author:
+      last_played: 1606452505
+      num_games_owned: 730
+      num_reviews: 14
+      playtime_at_review: 42
+      playtime_forever: 42
+      playtime_last_two_weeks: 0
+      steamid: '76561198169129262'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '66292436'
+    review: 'This is so much fun, driving around killing zombies. Vehicles looks great,
+      driving is done pretty good. I like that you can unlock new vehicles. This game
+      offers a great fun for a while.
+
+      With only one big map can be repetitive, other then that game is kinda fun to
+      play.'
+    steam_purchase: true
+    timestamp_created: 1585693720
+    timestamp_updated: 1606452548
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

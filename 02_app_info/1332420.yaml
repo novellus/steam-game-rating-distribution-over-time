@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: "Composed by Pawe\u0142 G\xF3rniak, the Wingspan OST features\
+      \ original instrumental music with live recordings.<br />\r\n<br />\r\nAvailable\
+      \ in WAV and MP3 formats."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1332420/page_bg_generated_v6b.jpg?t=1595588566
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>Special Edition</h1><p><h2 class=\"bb_tag\">The Wingspan\
+      \ soundtrack will be released over time on Steam. The soundtrack will update\
+      \ on Steam and you will get the new tracks automatically if you own the Wingspan\
+      \ soundtrack. Currently the soundtrack includes the first 5 compositions.</h2></p><br><h1>About\
+      \ the Game</h1>Composed by Pawe\u0142 G\xF3rniak, the Wingspan OST features\
+      \ original instrumental music with live recordings.<br><br>Available in WAV\
+      \ and MP3 formats."
+    developers:
+    - Monster Couch
+    fullgame:
+      appid: '1054490'
+      name: Wingspan
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1332420/header.jpg?t=1595588566
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Wingspan Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wingspan Soundtrack - $9.99
+        packageid: 465563
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Wingspan Soundtrack
+    packages:
+    - 465563
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        30 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 140 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Monster Couch
+    - Stonemaier Games
+    release_date:
+      coming_soon: false
+      date: Jul 24, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332420/ss_d8d6329e9b52e515601f8fc9dd8ae14d42421657.1920x1080.jpg?t=1595588566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332420/ss_d8d6329e9b52e515601f8fc9dd8ae14d42421657.600x338.jpg?t=1595588566
+    short_description: Wingspan is a relaxing, award-winning strategy card game about
+      birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations
+      in one of your three habitats. Your goal is to discover and attract the best
+      birds to your network of wildlife preserves.
+    steam_appid: 1332420
+    support_info:
+      email: support@monstercouch.com
+      url: http://www.monstercouch.com
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4nsma0PYCc8G9vQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 24
+      num_reviews: 3
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198826398460'
+    comment_count: 0
+    language: latam
+    received_for_free: false
+    recommendationid: '83225619'
+    review: "Excelente m\xFAsica, perfecta para el juego y para relajarse"
+    steam_purchase: true
+    timestamp_created: 1609009089
+    timestamp_updated: 1609009089
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

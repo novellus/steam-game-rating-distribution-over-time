@@ -1,0 +1,179 @@
+details:
+  data:
+    about_the_game: Rugosi is a plain and little game in which you take the role to
+      play through various challenging levels.<br><br>Take the control of Jack, a
+      brave man who is passionate for challenges. Play through more than 20 levels
+      and get the highest grade you can.<br><br><ul class="bb_ul"><li>Fluent and challenging
+      levels to play through.</li></ul><ul class="bb_ul"><li>Pleasant music.</li></ul><ul
+      class="bb_ul"><li>Steam achievements.</li></ul>
+    achievements:
+      highlighted:
+      - name: Good to go
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/d268e60854a3e3d5a5345a0a5094762d228d9229.jpg
+      - name: '1'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/9f1b8e9cda981aae27d822aa7f6bf5da29e3bfaa.jpg
+      - name: '2'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/32aaf5326072b333a8a1b9e9ed72bc65b9a9dbb2.jpg
+      - name: '3'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/2922ea93175876baf752a85759246b3858d88c8c.jpg
+      - name: '4'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/b884c66ee7e6d60cd9eb4a210af7159697af20cf.jpg
+      - name: '5'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/d61e7ccb488b5a7e457e88784cf5e5a533e06d5b.jpg
+      - name: '6'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/8776b285d50de493a200ad086648ccd7e5815afd.jpg
+      - name: '7'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/598ad4f86021b59c4323d57605c80b1d9b6cc78e.jpg
+      - name: '8'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/09eeed704fa8e81125eee117d838ce1cb8503f5e.jpg
+      - name: '9'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905510/73439675343299b95db08a5806e284259feb32c8.jpg
+      total: 32
+    background: https://steamcdn-a.akamaihd.net/steam/apps/905510/page_bg_generated_v6b.jpg?t=1607037284
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Rugosi is a plain and little game in which you take the
+      role to play through various challenging levels.<br><br>Take the control of
+      Jack, a brave man who is passionate for challenges. Play through more than 20
+      levels and get the highest grade you can.<br><br><ul class="bb_ul"><li>Fluent
+      and challenging levels to play through.</li></ul><ul class="bb_ul"><li>Pleasant
+      music.</li></ul><ul class="bb_ul"><li>Steam achievements.</li></ul>
+    developers:
+    - "F\xFCrst"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/905510/header.jpg?t=1607037284
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256764051
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764051/movie480.mp4?t=1570552781
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764051/movie_max.mp4?t=1570552781
+      name: light
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256764051/movie.293x165.jpg?t=1570552781
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764051/movie480.webm?t=1570552781
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764051/movie_max.webm?t=1570552781
+    name: Rugosi
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Rugosi - $0.99
+        packageid: 289828
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Rugosi
+    packages:
+    - 289828
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7<br></li><li><strong>Processor:</strong> 2.0 GHz - Dual core<br></li><li><strong>Memory:</strong>\
+        \ 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>\
+        \ 15 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 10<br></li><li><strong>Processor:</strong> 2.5 GHz - Triple\
+        \ core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong>\
+        \ Version 11<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - "F\xFCrst"
+    release_date:
+      coming_soon: false
+      date: Aug 8, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_3398b206eadc63e8ff131cad5a658c5ff85d86c2.1920x1080.jpg?t=1607037284
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_3398b206eadc63e8ff131cad5a658c5ff85d86c2.600x338.jpg?t=1607037284
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_f6689182c1174c5841e978e17b24cdcb60e0d63c.1920x1080.jpg?t=1607037284
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_f6689182c1174c5841e978e17b24cdcb60e0d63c.600x338.jpg?t=1607037284
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_3da8890a8d5928aca5283aa937c217fd6fe290d8.1920x1080.jpg?t=1607037284
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_3da8890a8d5928aca5283aa937c217fd6fe290d8.600x338.jpg?t=1607037284
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_399e6f9a323b11a585a57b249f0b145d9d0d5f9d.1920x1080.jpg?t=1607037284
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_399e6f9a323b11a585a57b249f0b145d9d0d5f9d.600x338.jpg?t=1607037284
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_8691936d6fe44a2a48de3e24ce518505859a4621.1920x1080.jpg?t=1607037284
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/905510/ss_8691936d6fe44a2a48de3e24ce518505859a4621.600x338.jpg?t=1607037284
+    short_description: Rugosi is a plain and little game in which you take the role
+      to play through various challenging levels.
+    steam_appid: 905510
+    support_info:
+      email: fuerstgames@gmail.com
+      url: https://fuerstgames.blogspot.com
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ477zVovUCe8+CqQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1603182938
+      num_games_owned: 8684
+      num_reviews: 214
+      playtime_at_review: 8
+      playtime_forever: 8
+      playtime_last_two_weeks: 0
+      steamid: '76561198067208458'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77862139'
+    review: 'This game is a platformer based on very simplistic game mechanics. Also,
+      it is very short : it took me about 10 minutes to complete all of the 25 levels.
+      Still, it was fine, I enjoyed playing it for its very short duration. Do not
+      hesitate to give it a try.'
+    steam_purchase: true
+    timestamp_created: 1603186059
+    timestamp_updated: 1603186059
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

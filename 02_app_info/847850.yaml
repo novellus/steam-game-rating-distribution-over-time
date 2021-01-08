@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: "Album Name: LeapII Soundtrack<br />\r\nAuthor: 6&amp;9<br />\r\
+      \nNote: The DLC revenue will be given to the original author<br />\r\n<br />\r\
+      \nTrack List:<br />\r\n01-\u5907\u6218\u4E4B\u9645<br />\r\n02-\u53CD\u6597\u4E4B\
+      \u591C<br />\r\n03-\u864E\u53E3\u8FFD\u51FB<br />\r\n04-\u5343\u94A7\u4E00\u53D1\
+      <br />\r\n05-\u8DF3\u8DC32<br />\r\n06-\u5C0F\u660E\u7684\u4F7F\u547D<br />\r\
+      \n<br />\r\nSoundtrack folder\uFF1A<br />\r\n...\\Steam\\steamapps\\common\\\
+      LeapII\\Soundtrack"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/847850/page_bg_generated_v6b.jpg?t=1529635619
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Album Name: LeapII Soundtrack<br />\r\nAuthor: 6&amp;9<br\
+      \ />\r\nNote: The DLC revenue will be given to the original author<br />\r\n\
+      <br />\r\nTrack List:<br />\r\n01-\u5907\u6218\u4E4B\u9645<br />\r\n02-\u53CD\
+      \u6597\u4E4B\u591C<br />\r\n03-\u864E\u53E3\u8FFD\u51FB<br />\r\n04-\u5343\u94A7\
+      \u4E00\u53D1<br />\r\n05-\u8DF3\u8DC32<br />\r\n06-\u5C0F\u660E\u7684\u4F7F\u547D\
+      <br />\r\n<br />\r\nSoundtrack folder\uFF1A<br />\r\n...\\Steam\\steamapps\\\
+      common\\LeapII\\Soundtrack"
+    developers:
+    - ChiHeBang Studio
+    fullgame:
+      appid: '772230'
+      name: "\u8DF3\u8DC32/LeapII"
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/847850/header.jpg?t=1529635619
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: LeapII Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: LeapII Soundtrack - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 265657
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy LeapII Soundtrack
+    packages:
+    - 265657
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - ChiHeBang Studio
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/847850/ss_73bbcdb68e0de8fc8d49d67b037c99de7c09cd77.1920x1080.jpg?t=1529635619
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/847850/ss_73bbcdb68e0de8fc8d49d67b037c99de7c09cd77.600x338.jpg?t=1529635619
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/847850/ss_25f75add7c2e273c0384306418e85756be0393e4.1920x1080.jpg?t=1529635619
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/847850/ss_25f75add7c2e273c0384306418e85756be0393e4.600x338.jpg?t=1529635619
+    short_description: LeapII Soundtrack
+    steam_appid: 847850
+    support_info:
+      email: dick_drizzt@163.com
+      url: ''
+    supported_languages: English, Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

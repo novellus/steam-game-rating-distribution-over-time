@@ -1,0 +1,191 @@
+details:
+  data:
+    about_the_game: "This is a game where users operate the trapper to place bombs\
+      \ and remove obstacles and enemies to complete missions. The missions include\
+      \ collecting gold orbs, defeating key enemies, and protecting targets.<br />\r\
+      \nCollect the golden orbs scattered throughout the field to clear the mission.\
+      \ Check the number of orbs you have to collect on the left side of the screen.\
+      \ Use the blue ring at the center of the cockpit to see in which direction the\
+      \ nearest orb is located. <br />\r\nIf the blast strikes the brown blocks, they\
+      \ will be broken, but if it strikes you, you will receive damage. If the number\
+      \ of lives shown on the right side of the cockpit hits zero, the mission fails.<br\
+      \ />\r\nEnemy units will be on the field and can be destroyed with bomb blasts.\
+      \ You will receive damage if you come in contact with the enemy units. If the\
+      \ number of lives shown on the right side of the cockpit hits zero, the mission\
+      \ fails. You have to watch out for some enemies in the enemy units that reduce\
+      \ your life faster.<br />\r\nEnemy units with golden orbs are key enemies. Destroy\
+      \ all the key enemies on the field. The number of key enemies that you have\
+      \ to destroy is displayed on the left side of the cockpit."
+    achievements:
+      highlighted:
+      - name: Hello Trapper!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/531612f78bd4bf7e9530d1db970b64ba6ae6a717.jpg
+      - name: '1st clear. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/a896745f51dda4c3d4ca6120a632c2e46d061993.jpg
+      - name: 'Complete tutorial. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/ed70c1810920e85eb7f8458f2d2bf3ac9e50e78a.jpg
+      - name: 'Defeat droid. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/10e5f471aa0c7fadff6badb0300993ced067b8c9.jpg
+      - name: 'Defeat fireman. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/a34adfffeefb07998cb087f206d9db11b4c4c2c3.jpg
+      - name: 'Closed gate. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/7e22d45ca5d4610e13bf16b2e9ad1c9608c82f36.jpg
+      - name: 'Defeat AI machine. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/73463894d0e41258c6d983c7a7ef7a2df4c6e3e9.jpg
+      - name: 'Guard target. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/f44d6d4e9bd75061036f549ce7e5eef5899fd0fd.jpg
+      - name: 'Guard village. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/f160ac4560a3461c3e811f943d89d28f4da76a26.jpg
+      - name: 'First network. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/873530/5633cc62141b55a3e6985ca0155d995a8fa3d4f3.jpg
+      total: 20
+    background: https://steamcdn-a.akamaihd.net/steam/apps/873530/page_bg_generated_v6b.jpg?t=1559506403
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is a game where users operate the trapper to place\
+      \ bombs and remove obstacles and enemies to complete missions. The missions\
+      \ include collecting gold orbs, defeating key enemies, and protecting targets.<br\
+      \ />\r\nCollect the golden orbs scattered throughout the field to clear the\
+      \ mission. Check the number of orbs you have to collect on the left side of\
+      \ the screen. Use the blue ring at the center of the cockpit to see in which\
+      \ direction the nearest orb is located. <br />\r\nIf the blast strikes the brown\
+      \ blocks, they will be broken, but if it strikes you, you will receive damage.\
+      \ If the number of lives shown on the right side of the cockpit hits zero, the\
+      \ mission fails.<br />\r\nEnemy units will be on the field and can be destroyed\
+      \ with bomb blasts. You will receive damage if you come in contact with the\
+      \ enemy units. If the number of lives shown on the right side of the cockpit\
+      \ hits zero, the mission fails. You have to watch out for some enemies in the\
+      \ enemy units that reduce your life faster.<br />\r\nEnemy units with golden\
+      \ orbs are key enemies. Destroy all the key enemies on the field. The number\
+      \ of key enemies that you have to destroy is displayed on the left side of the\
+      \ cockpit."
+    developers:
+    - PIT-Creation
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/873530/header.jpg?t=1559506403
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256749385
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256749385/movie480.mp4?t=1557136959
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256749385/movie_max.mp4?t=1557136959
+      name: Trapper promotion
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256749385/movie.293x165.jpg?t=1557136959
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256749385/movie480.webm?t=1557136959
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256749385/movie_max.webm?t=1557136959
+    name: Trapper
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Trapper - $5.99
+        packageid: 276176
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Trapper
+    packages:
+    - 276176
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong>
+        Corei5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Geforce GTX970<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong>
+        Corei7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        Geforce GTX1070<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - PIT-Creation
+    release_date:
+      coming_soon: false
+      date: Jun 2, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_bc9d262eec3b25d43d6bd142126ac8ba9931dda2.1920x1080.jpg?t=1559506403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_bc9d262eec3b25d43d6bd142126ac8ba9931dda2.600x338.jpg?t=1559506403
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_f409b09ed49fc94eda132da5313ce47464eb5508.1920x1080.jpg?t=1559506403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_f409b09ed49fc94eda132da5313ce47464eb5508.600x338.jpg?t=1559506403
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_b6004a48a498f5ba774473e259a259c16a679dc8.1920x1080.jpg?t=1559506403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_b6004a48a498f5ba774473e259a259c16a679dc8.600x338.jpg?t=1559506403
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_23dede21e638f33582072821dc923be828a11723.1920x1080.jpg?t=1559506403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_23dede21e638f33582072821dc923be828a11723.600x338.jpg?t=1559506403
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_cc33355b1a5e870d84191ed81f3acac9a74f7d88.1920x1080.jpg?t=1559506403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_cc33355b1a5e870d84191ed81f3acac9a74f7d88.600x338.jpg?t=1559506403
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_a3e9b0f141cdfc5543263552853c5f70383025d3.1920x1080.jpg?t=1559506403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/873530/ss_a3e9b0f141cdfc5543263552853c5f70383025d3.600x338.jpg?t=1559506403
+    short_description: This is a game where users operate the trapper to place bombs
+      and remove obstacles and enemies to complete missions. The missions include
+      collecting gold orbs, defeating key enemies, and protecting targets.
+    steam_appid: 873530
+    support_info:
+      email: pit.creation.sup@gmail.com
+      url: https://pit-creation.com/index.html
+    supported_languages: English, Japanese
+    type: game
+    website: http://www.azarashin.sakura.ne.jp/pit-creation/trapper.html
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

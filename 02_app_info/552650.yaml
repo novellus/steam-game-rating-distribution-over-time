@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: "This piece of DLC is a set of 24 Wallpapers, which showcases\
+      \ the talents of Nick Beja showing characters from the games in a variety of\
+      \ fun, silly, and compromising situations. The contents of which will be viewable\
+      \ as a new 'Wallpapers' folder in the games main directory once the dlc is purchased\
+      \ and downloaded.<br />\r\n<br />\r\nThe pack is also included as part of the\
+      \ Deluxe Edition of Army Gals.<br />\r\nThe pack currently includes 24 Wallpapers."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/552650/page_bg_generated_v6b.jpg?t=1584614077
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: "This piece of DLC is a set of 24 Wallpapers, which showcases\
+      \ the talents of Nick Beja showing characters from the games in a variety of\
+      \ fun, silly, and compromising situations. The contents of which will be viewable\
+      \ as a new 'Wallpapers' folder in the games main directory once the dlc is purchased\
+      \ and downloaded.<br />\r\n<br />\r\nThe pack is also included as part of the\
+      \ Deluxe Edition of Army Gals.<br />\r\nThe pack currently includes 24 Wallpapers."
+    developers:
+    - Dharker Studio
+    fullgame:
+      appid: '420980'
+      name: Army Gals
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/552650/header.jpg?t=1584614077
+    is_free: false
+    legal_notice: "NickySwan \xA92018+"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X version Leopard 10.5.8 or later<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    name: Army Gals - Wallpapers
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Army Gals - Wallpapers - $1.99
+        packageid: 137260
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Army Gals - Wallpapers
+    packages:
+    - 137260
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Dharker Studios Ltd
+    release_date:
+      coming_soon: false
+      date: Apr 17, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/552650/ss_0d01593a24da75350790c4061559e30dab859dde.1920x1080.jpg?t=1584614077
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/552650/ss_0d01593a24da75350790c4061559e30dab859dde.600x338.jpg?t=1584614077
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/552650/ss_9f5fb178027988409a822da11503d160fec0ba96.1920x1080.jpg?t=1584614077
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/552650/ss_9f5fb178027988409a822da11503d160fec0ba96.600x338.jpg?t=1584614077
+    short_description: A selection of 24 1080p wallpapers from the game Army Gals.
+    steam_appid: 552650
+    support_info:
+      email: ''
+      url: http://www.Nickyswan.com
+    supported_languages: English
+    type: dlc
+    website: http://www.Nickyswan.com
+  success: true
+reviews:
+  cursor: AoJw0Le4iOgCcqiotwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 210
+      num_reviews: 22
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198119649015'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48054914'
+    review: first
+    steam_purchase: true
+    timestamp_created: 1546471456
+    timestamp_updated: 1546471456
+    voted_up: true
+    votes_funny: 1
+    votes_up: 1
+    weighted_vote_score: '0.445184141397476196'
+    written_during_early_access: false
+  success: 1

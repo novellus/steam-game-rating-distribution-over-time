@@ -1,0 +1,230 @@
+details:
+  data:
+    about_the_game: "&quot;Tokyo School Life&quot; is a Visual Novel game on Steam.<br\
+      \ />\r\nThis is the story of your trip as an exchange student in Tokyo and the\
+      \ three girls you meet there. <br />\r\nAlthough you don't make the greatest\
+      \ first impression, you quickly settle into the kind of everyday life you've\
+      \ seen in anime and manga -- filled with laughs and tears. <br />\r\nBy the\
+      \ time you have to head home two months from now, you might find that you've\
+      \ fallen for one of your new friends...<br />\r\n<br />\r\n- Romance visual\
+      \ novel<br />\r\n- Opening song with Japanese vocals<br />\r\n- Fully voiced\
+      \ in Japanese (female characters only)<br />\r\n- Smooth character animations\
+      \ using the E-mote engine<br />\r\n- Text can be displayed in either English,\
+      \ Japanese, hiragana, or romaji (an additional selection can be displayed alongside\
+      \ your main choice)<br />\r\n- Japanese text has furigana (readings for kanji)<br\
+      \ />\r\n<br />\r\nWe have worked together with M2 Co., Ltd. and their E-mote\
+      \ engine to bring you an emotional story told through beautifully animated 2D\
+      \ sprites.<br />\r\n<br />\r\n---Opening Song---<br />\r\n\u300CMOE to Love\
+      \ Yooou!\u300D<br />\r\nLyrics: RyoRca<br />\r\nComposer/Arrangement: Jaelyn\
+      \ Nisperos (chibi-tech)<br />\r\nSinger: Yuki Tedokon<br />\r\nGuitar: Masashi\
+      \ Yano<br />\r\nVocal Recording Engineer: Raito (Transistar)<br />\r\nVocal\
+      \ Director: Meroko. (Transistar)<br />\r\nRecording Studio: Transistar Studio<br\
+      \ />\r\nSong Director: RyoRca<br />\r\n<br />\r\n--YOUTUBE-------------------<br\
+      \ />\r\nDogenzaka Lab official channel<br />\r\nhttp://youtu.be/7TJKc74tdL8<br\
+      \ />\r\n<br />\r\n--Web-------------------NEW<br />\r\nDogenzaka Lab    (Please\
+      \ send press inquiries to Dogenzaka Lab.)<br />\r\nhttp://dogenzaka-lab.com/<br\
+      \ />\r\n<br />\r\nM2 Co.,Ltd<br />\r\nhttp://emote.mtwo.co.jp/tsl/<br />\r\n\
+      <br />\r\n--SNS-------------------<br />\r\nhttps://twitter.com/Dogenzaka_Lab<br\
+      \ />\r\nhttps://www.facebook.com/DogenzakaLab/"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/320760/page_bg_generated_v6b.jpg?t=1606553648
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: "<h1>Patch Notes\uFF1A\u3000Malus Code Ver 1.02.</h1><p>We\
+      \ enclosed a complete save file for Tokyo School Life in Malus Code Ver 1.02.\r\
+      \n\r\nThis is a save file for Tokyo School Life that unlocks all of the content\
+      \ in the Extra menu, meant for those who lost their data due to the bug in Malus\
+      \ Code Ver 1.00.\r\n\r\n\u30FB Do not use this save data for Malus Code.\r\n\
+      \r\n\u30FB You will overwrite TSL's save data file (data_000_0000.bin), so please\
+      \ back it up in a safe location first.\r\n\r\n1. Go to\r\nC:\\Users\\(PCname)\\\
+      Documents\\M2\\TSL\\savedata\r\n\r\n2. Rename the existing data as follows:\r\
+      \n\r\nRename\r\ndata_000_0000.bin\r\nto\r\ndata_000_1111.bin\r\n\r\n3. Locate\
+      \ the following file in the directory you installed Malus Code in (default path\
+      \ shown below):\r\n\r\nC:\\Program Files\\Steam\\SteamApps\\common\\Malus Code\\\
+      windata\\tsl_complete_savedata\\fdata_000_0000.bin\r\n\r\nCopy fdata_000_0000.bin\
+      \ to the following folder:\r\n\r\nC:\\Users\\(PCname)\\Documents\\M2\\TSL\\\
+      savedata\r\n\r\nThen rename it to\r\n\r\ndata_000_0000.bin\r\n\r\n4. Done!\r\
+      \n\r\nNote: This will only effect the content in the Extra menu (music jukebox,\
+      \ gallery), so your save slot usage will remain the same as before.</p><br><h1>About\
+      \ the Game</h1>&quot;Tokyo School Life&quot; is a Visual Novel game on Steam.\r\
+      \nThis is the story of your trip as an exchange student in Tokyo and the three\
+      \ girls you meet there. \r\nAlthough you don't make the greatest first impression,\
+      \ you quickly settle into the kind of everyday life you've seen in anime and\
+      \ manga -- filled with laughs and tears. \r\nBy the time you have to head home\
+      \ two months from now, you might find that you've fallen for one of your new\
+      \ friends...\r\n\r\n- Romance visual novel\r\n- Opening song with Japanese vocals\r\
+      \n- Fully voiced in Japanese (female characters only)\r\n- Smooth character\
+      \ animations using the E-mote engine\r\n- Text can be displayed in either English,\
+      \ Japanese, hiragana, or romaji (an additional selection can be displayed alongside\
+      \ your main choice)\r\n- Japanese text has furigana (readings for kanji)\r\n\
+      \r\nWe have worked together with M2 Co., Ltd. and their E-mote engine to bring\
+      \ you an emotional story told through beautifully animated 2D sprites.\r\n\r\
+      \n---Opening Song---\r\n\u300CMOE to Love Yooou!\u300D\r\nLyrics: RyoRca\r\n\
+      Composer/Arrangement: Jaelyn Nisperos (chibi-tech)\r\nSinger: Yuki Tedokon\r\
+      \nGuitar: Masashi Yano\r\nVocal Recording Engineer: Raito (Transistar)\r\nVocal\
+      \ Director: Meroko. (Transistar)\r\nRecording Studio: Transistar Studio\r\n\
+      Song Director: RyoRca\r\n\r\n--YOUTUBE-------------------\r\nDogenzaka Lab official\
+      \ channel\r\nhttp://youtu.be/7TJKc74tdL8\r\n\r\n--Web-------------------NEW\r\
+      \nDogenzaka Lab    (Please send press inquiries to Dogenzaka Lab.)\r\nhttp://dogenzaka-lab.com/\r\
+      \n\r\nM2 Co.,Ltd\r\nhttp://emote.mtwo.co.jp/tsl/\r\n\r\n--SNS-------------------\r\
+      \nhttps://twitter.com/Dogenzaka_Lab\r\nhttps://www.facebook.com/DogenzakaLab/"
+    developers:
+    - M2 Co.,LTD
+    dlc:
+    - 374880
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/320760/header.jpg?t=1606553648
+    is_free: false
+    legal_notice: "\xA92015 M2 Co.,LTD \xA92015 Dogenzaka Lab"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 2036486
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2036486/movie480.mp4?t=1447367228
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2036486/movie_max.mp4?t=1447367228
+      name: Opening_movie
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2036486/movie.293x165.jpg?t=1447367228
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2036486/movie480.webm?t=1447367228
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2036486/movie_max.webm?t=1447367228
+    - highlight: true
+      id: 2036728
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2036728/movie480.mp4?t=1447367907
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2036728/movie_max.mp4?t=1447367907
+      name: Game play
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2036728/movie.293x165.jpg?t=1447367907
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2036728/movie480.webm?t=1447367907
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2036728/movie_max.webm?t=1447367907
+    name: Tokyo School Life
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tokyo School Life - $14.99
+        packageid: 50038
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Tokyo School Life
+    packages:
+    - 50038
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Vista<br></li><li><strong>Processor:</strong> 1.8 GHz Pentium 4<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Dogenzaka Lab
+    recommendations:
+      total: 596
+    release_date:
+      coming_soon: false
+      date: Feb 12, 2015
+    required_age: '13'
+    reviews: "\u201CTokyo School Life es, entonces, un muy buen producto si buscamos\
+      \ jugar algo diferente.\u201D<br>80/100 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://style.globexstudio.com/tokyo-school-life-2015/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >Globex Style</a><br><br>\u201CTokyo School\
+      \ Life \xE9 uma boa adi\xE7\xE3o \xE0 sua biblioteca da Steam.\u201D<br>7/10\
+      \ \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://lolygon.com.br/2015/08/10/review-tokyo-school-life-o-crysis-das-visual-novels/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >LORYGON</a><br><br>10 \u2013 <a href=\"\
+      https://steamcommunity.com/linkfilter/?url=http://www.metacritic.com/game/pc/tokyo-school-life\"\
+      \ target=\"_blank\" rel=\"noopener\"  >metacritic\uFF08User Reviews\uFF09</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_6cd7f4e0b07ab411819006c24d96e1adf3654c82.1920x1080.jpg?t=1606553648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_6cd7f4e0b07ab411819006c24d96e1adf3654c82.600x338.jpg?t=1606553648
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_4c001fa82c5bb18d14fbd416792fba168ca24e06.1920x1080.jpg?t=1606553648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_4c001fa82c5bb18d14fbd416792fba168ca24e06.600x338.jpg?t=1606553648
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_11e2b7165ff878116cb3fa9ee4b823e33d7b43db.1920x1080.jpg?t=1606553648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_11e2b7165ff878116cb3fa9ee4b823e33d7b43db.600x338.jpg?t=1606553648
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_48a5bc113486bef2e511d77947b9b2ebdd9aa9cf.1920x1080.jpg?t=1606553648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_48a5bc113486bef2e511d77947b9b2ebdd9aa9cf.600x338.jpg?t=1606553648
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_49894f469cba0af280184ffeaab8e296b7511ce7.1920x1080.jpg?t=1606553648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_49894f469cba0af280184ffeaab8e296b7511ce7.600x338.jpg?t=1606553648
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_0fc14ad49a284adba64253b5d79e58665ad15fc3.1920x1080.jpg?t=1606553648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_0fc14ad49a284adba64253b5d79e58665ad15fc3.600x338.jpg?t=1606553648
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_9a3ed0040178d3e691ed249213b895f986fca067.1920x1080.jpg?t=1606553648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320760/ss_9a3ed0040178d3e691ed249213b895f986fca067.600x338.jpg?t=1606553648
+    short_description: '&quot;Tokyo School Life&quot; is the story of your trip as
+      an exchange student in Tokyo and the three girls you meet there. Live the everyday
+      life you love from anime and manga!'
+    steam_appid: 320760
+    support_info:
+      email: d-lab@dogenzaka-lab.com
+      url: ''
+    supported_languages: English, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://www.d3p.co.jp/dogenzaka-lab/
+  success: true
+reviews:
+  cursor: AoJwwo2vp/YCdM/xuAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 38
+    total_positive: 558
+    total_reviews: 596
+  reviews:
+  - author:
+      last_played: 1530847160
+      num_games_owned: 127
+      num_reviews: 109
+      playtime_at_review: 462
+      playtime_forever: 462
+      playtime_last_two_weeks: 0
+      steamid: '76561198335368279'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82021620'
+    review: sakura best girl.
+    steam_purchase: true
+    timestamp_created: 1607638740
+    timestamp_updated: 1607638740
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

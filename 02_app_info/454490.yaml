@@ -1,0 +1,76 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/454490/page_bg_generated_v6b.jpg?t=1562666854
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Daedalic Entertainment
+    fullgame:
+      appid: '327220'
+      name: Anna's Quest
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/454490/header.jpg?t=1562666854
+    is_free: true
+    legal_notice: "\xA9 2015 Daedalic Entertainment GmbH.<br />\r\nAnna's Quest, the\
+      \ Anna's Quest logo and the Daedalic logo are trademarks of Daedalic Entertainment\
+      \ GmbH. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 74
+    name: Anna's Quest Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - 'Daedalic Entertainment '
+    release_date:
+      coming_soon: false
+      date: Apr 4, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/454490/ss_24c9b0b10ef43473a6b2d3387524c3a88681dc23.1920x1080.jpg?t=1562666854
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/454490/ss_24c9b0b10ef43473a6b2d3387524c3a88681dc23.600x338.jpg?t=1562666854
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/454490/ss_81c87b18ec69b1177dca4b189e885f560a60b41e.1920x1080.jpg?t=1562666854
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/454490/ss_81c87b18ec69b1177dca4b189e885f560a60b41e.600x338.jpg?t=1562666854
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/454490/ss_8961efbe99fbe109e06562f77d7f1f965b1c6e99.1920x1080.jpg?t=1562666854
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/454490/ss_8961efbe99fbe109e06562f77d7f1f965b1c6e99.600x338.jpg?t=1562666854
+    short_description: ''
+    steam_appid: 454490
+    support_info:
+      email: support@daedalic.de
+      url: http://forum.daedalic.de/
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Russian<br><strong>*</strong>languages with full audio support
+    type: demo
+    website: http://www.daedalic.de/de/game/Annas_Quest
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Redlynx
+    fullgame:
+      appid: '16600'
+      name: 'Trials 2: Second Edition'
+    genres:
+    - description: Racing
+      id: '9'
+    - description: Sports
+      id: '18'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/16610/header.jpg?t=1447351339
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Trials 2: Second Edition Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: "<ul>                    \n\t\t\t\t\t<li><strong>OS:</strong> Windows\
+        \ XP (32-bit) or Windows Vista (32-bit or 64-bit)</li>                   \
+        \ \n\t\t\t\t\t<li><strong>Processor:</strong> Intel Pentium 3 600 MHz or better,\
+        \ AMD Athlon XP or higher</li>                    \n\t\t\t\t\t<li><strong>Memory:</strong>\
+        \ 256 MB</li>                    \n\t\t\t\t\t<li><strong>Graphics:</strong>\
+        \ One of the following graphics cards (or higher) with at least 64 MB of memory:\
+        \ Nvidia GeForce FX 5200, ATI Radeon 9500, Intel GMA 900, VIA/S3 Chrome 9\
+        \ or higher</li>                    \n\t\t\t\t\t<li><strong>DirectX Version:</strong>\
+        \ 9.0c</li>                    \n\t\t\t\t\t<li><strong>Sound:</strong> An\
+        \ OpenAL compatible sound card</li>                    \n\t\t\t\t\t<li><strong>Hard\
+        \ Drive:</strong> 220 MB</li>                    </ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - RedLynx Ltd.
+    release_date:
+      coming_soon: false
+      date: May 28, 2008
+    required_age: 0
+    short_description: ''
+    steam_appid: 16610
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,179 @@
+details:
+  data:
+    about_the_game: "The Las Vegas off-road track hosted the 2016 IFMAR World Championships,\
+      \ won by Swedish top-racer David Ronnefalk. The 290m long track is very technical\
+      \ to master especially because the worn state of the track. A real challenge\
+      \ for the die-hard off-road r/c racer!<br />\r\n<br />\r\nThis track has been\
+      \ released on the VRC platform and is now available as individual track. Later\
+      \ this new track will become part of a 5-track expansion pack."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/678731/page_bg_generated_v6b.jpg?t=1500371447
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Las Vegas off-road track hosted the 2016 IFMAR World\
+      \ Championships, won by Swedish top-racer David Ronnefalk. The 290m long track\
+      \ is very technical to master especially because the worn state of the track.\
+      \ A real challenge for the die-hard off-road r/c racer!<br />\r\n<br />\r\n\
+      This track has been released on the VRC platform and is now available as individual\
+      \ track. Later this new track will become part of a 5-track expansion pack."
+    developers:
+    - Virtual Racing Industries Ltd.
+    fullgame:
+      appid: '335070'
+      name: VRC PRO
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/678731/header.jpg?t=1500371447
+    is_free: false
+    legal_notice: "\xA9 2017 Virtual Racing Industries Bv. PO Box 165, 2100 AD Heemstede,\
+      \ Netherlands \u2013 All rights reserved \u2013 All logos are trademarks of\
+      \ their respective companies and may not be used without their express permission.\
+      \ Manufacturers, cars, names, brands and associated imagery featured in this\
+      \ game in some cases include trademarks and/or copyrighted materials of their\
+      \ prospective owners. All rights reserved. Any depiction or recreation of real\
+      \ world locations, businesses, entities or organizations is not intended to\
+      \ be or imply any sponsorship or endorsement of this game by such party or parties."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256689984
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256689984/movie480.mp4?t=1500279095
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256689984/movie_max.mp4?t=1500279095
+      name: Ls Vegas promo
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256689984/movie.293x165.jpg?t=1500279095
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256689984/movie480.webm?t=1500279095
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256689984/movie_max.webm?t=1500279095
+    name: 'VRC PRO off-road track: LAS VEGAS'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'VRC PRO off-road track: Las Vegas USA - <span class="discount_original_price">$4.99</span>
+          $2.99'
+        packageid: 193685
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 299
+      title: 'Buy VRC PRO off-road track: LAS VEGAS'
+    packages:
+    - 193685
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP 3, .Net framework 3.5<br></li><li><strong>Processor:</strong>
+        Hyperthreaded Intel CPU, AMD Athlon 64 CPU<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB Pixel Shader 2.0 graphics
+        card (nVidia GeForce FX 5600 or ATI Radeon X600)<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound
+        Card:</strong> Soundblaster compatible soundcard</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or Windows 10, .Net framework 3.5<br></li><li><strong>Processor:</strong>
+        Multi-core CPU (Intel Core i5 or i7, AMD Phenom II QUAD X4)<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB dedicated RAM, Pixel Shader
+        3.0 graphics card (AMD Radeon HD 5870, nVidia GTX 560)<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound
+        Card:</strong> Soundblaster compatible soundcard<br></li><li><strong>Additional
+        Notes:</strong> VRC USB adapter or controller, for hosting multiplayer sessions
+        high upstream connection is recommended</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 299
+      final_formatted: $2.99
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Virtual Racing Industries Ltd.
+    release_date:
+      coming_soon: false
+      date: Jul 17, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_03e4a763f3c0cefe01b27fe0a3f7197d0f98a0bc.1920x1080.jpg?t=1500371447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_03e4a763f3c0cefe01b27fe0a3f7197d0f98a0bc.600x338.jpg?t=1500371447
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_753831dc054bada25169beede2cd7d960f59a1ca.1920x1080.jpg?t=1500371447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_753831dc054bada25169beede2cd7d960f59a1ca.600x338.jpg?t=1500371447
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_85ca3f4f5845058a7ef5e71de6a01b6a6dac1bf7.1920x1080.jpg?t=1500371447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_85ca3f4f5845058a7ef5e71de6a01b6a6dac1bf7.600x338.jpg?t=1500371447
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_0a064e2f08e0966ef056bb286169a6564014934a.1920x1080.jpg?t=1500371447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_0a064e2f08e0966ef056bb286169a6564014934a.600x338.jpg?t=1500371447
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_7a7c998c97ff905719281f3f87e1c626cc927620.1920x1080.jpg?t=1500371447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_7a7c998c97ff905719281f3f87e1c626cc927620.600x338.jpg?t=1500371447
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_5a53e9aaecb83f3212bea3eb7b3e05d7aece5b1f.1920x1080.jpg?t=1500371447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_5a53e9aaecb83f3212bea3eb7b3e05d7aece5b1f.600x338.jpg?t=1500371447
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_28658ccf1515862b2cdbbaa5c3408731e48bcee3.1920x1080.jpg?t=1500371447
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678731/ss_28658ccf1515862b2cdbbaa5c3408731e48bcee3.600x338.jpg?t=1500371447
+    short_description: The Las Vegas off-road track hosted the 2016 IFMAR World Championships,
+      won by Swedish top-racer David Ronnefalk. The 290m long track is very technical
+      to master especially because the worn state of the track. A real challenge for
+      the die-hard off-road r/c racer!
+    steam_appid: 678731
+    support_info:
+      email: ''
+      url: https://www.vrcworld.com/support/default.aspx
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.vrcworld.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

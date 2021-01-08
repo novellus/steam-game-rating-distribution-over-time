@@ -1,0 +1,227 @@
+details:
+  data:
+    about_the_game: 'Take it back to the old school days of twitch reflexes, retroish
+      graphics, and relaxing music! You control a hurricane that can guide toxic clouds
+      into cleaning factories. Watch out for high pressure zones, as they can disperse
+      the clouds into the atmosphere and increase the chance of destroying the world!
+      Includes 30 levels with dozens of unlockable monitors, along with anaglyph 3D
+      support! (red/blue glasses).<br><br><strong><i>NOTE: This is a Legacy release
+      of Vertigo Gaming Inc.''s back catalog titles. Because it is an older game running
+      on newer hardware there may be some unexpected errors. Here''s how to solve
+      them:</i></strong><br><br><ul class="bb_ul"><li>If you have an error of &quot;Failed
+      to load the game data, File seems corrupted.&quot;, you will need to disable
+      the Print Spooler on your computer, as older GM8 games can have this issue.
+      First, right click on This PC or My Computer and select Manage. Select Services
+      and Applications on the left side bar and then select Services. Double click
+      the &quot;Print Spooler&quot; key and go to the General tab, select Startup
+      Type, then select Disabled. Finally, select Stop below the Service Status and
+      then click Apply. The game should now boot up correctly.<br></li><li>If the
+      game does not close properly and continues to run on Steam even after exiting
+      the game, you will need to run it in compatibility mode to resolve this issue.
+      Right click the game in your Steam Library, go to Properties, then Local Files,
+      then Browse Local Files. Right click on the main .exe in the folder, and go
+      to Properties. Click on the Compatibility tab, then click the &quot;Run this
+      program in compatibility mode for:&quot; box and select Windows XP, then Apply
+      and OK. Restart your computer, and the game will now correctly close after exiting.</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/841470/page_bg_generated_v6b.jpg?t=1597210976
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h1>Wishlist/Purchase Our Next Title!</h1><p><a href="https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/"
+      target="_blank" rel="noreferrer"  ><img src="https://steamcdn-a.akamaihd.net/steam/apps/841470/extras/banner__1_.png?t=1597210976"
+      /></a></p><br><h1>About the Game</h1>Take it back to the old school days of
+      twitch reflexes, retroish graphics, and relaxing music! You control a hurricane
+      that can guide toxic clouds into cleaning factories. Watch out for high pressure
+      zones, as they can disperse the clouds into the atmosphere and increase the
+      chance of destroying the world! Includes 30 levels with dozens of unlockable
+      monitors, along with anaglyph 3D support! (red/blue glasses).<br><br><strong><i>NOTE:
+      This is a Legacy release of Vertigo Gaming Inc.''s back catalog titles. Because
+      it is an older game running on newer hardware there may be some unexpected errors.
+      Here''s how to solve them:</i></strong><br><br><ul class="bb_ul"><li>If you
+      have an error of &quot;Failed to load the game data, File seems corrupted.&quot;,
+      you will need to disable the Print Spooler on your computer, as older GM8 games
+      can have this issue. First, right click on This PC or My Computer and select
+      Manage. Select Services and Applications on the left side bar and then select
+      Services. Double click the &quot;Print Spooler&quot; key and go to the General
+      tab, select Startup Type, then select Disabled. Finally, select Stop below the
+      Service Status and then click Apply. The game should now boot up correctly.<br></li><li>If
+      the game does not close properly and continues to run on Steam even after exiting
+      the game, you will need to run it in compatibility mode to resolve this issue.
+      Right click the game in your Steam Library, go to Properties, then Local Files,
+      then Browse Local Files. Right click on the main .exe in the folder, and go
+      to Properties. Click on the Compatibility tab, then click the &quot;Run this
+      program in compatibility mode for:&quot; box and select Windows XP, then Apply
+      and OK. Restart your computer, and the game will now correctly close after exiting.</li></ul>'
+    developers:
+    - Vertigo Gaming Inc.
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/841470/header.jpg?t=1597210976
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256713503
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256713503/movie480.mp4?t=1525888878
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256713503/movie_max.mp4?t=1525888878
+      name: Gameplay Footage
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256713503/movie.293x165.jpg?t=1525888878
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256713503/movie480.webm?t=1525888878
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256713503/movie_max.webm?t=1525888878
+    - highlight: true
+      id: 256716103
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716103/movie480.mp4?t=1525888892
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716103/movie_max.mp4?t=1525888892
+      name: Vertigo Gaming Inc. Legacy Collection
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256716103/movie.293x165.jpg?t=1525888892
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716103/movie480.webm?t=1525888892
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716103/movie_max.webm?t=1525888892
+    name: greenTech+ Legacy Edition
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: greenTech+ Legacy Edition - $3.99
+        packageid: 262749
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy greenTech+ Legacy Edition
+    packages:
+    - 262749
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or Higher<br></li><li><strong>Memory:</strong> 250 MB RAM<br></li><li><strong>Storage:</strong>
+        20 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Vertigo Gaming Inc.
+    release_date:
+      coming_soon: false
+      date: May 9, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_0ade0df117d2cb4ca29c86ff02225b7e232cb03b.1920x1080.jpg?t=1597210976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_0ade0df117d2cb4ca29c86ff02225b7e232cb03b.600x338.jpg?t=1597210976
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_031c02c6aa98faafd2dda9eeda48e21b495a5fe3.1920x1080.jpg?t=1597210976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_031c02c6aa98faafd2dda9eeda48e21b495a5fe3.600x338.jpg?t=1597210976
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_560a7a1c7481f16160aed05f6e7b7aacbb983850.1920x1080.jpg?t=1597210976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_560a7a1c7481f16160aed05f6e7b7aacbb983850.600x338.jpg?t=1597210976
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_043a84b34a6da963a9dffeb634dfe8ac80be1bcc.1920x1080.jpg?t=1597210976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_043a84b34a6da963a9dffeb634dfe8ac80be1bcc.600x338.jpg?t=1597210976
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_4fb468485e54628b78d24843c4a5e7b275190562.1920x1080.jpg?t=1597210976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_4fb468485e54628b78d24843c4a5e7b275190562.600x338.jpg?t=1597210976
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_52cc8b5532d6bed37f4722fe8c51d30784e4de5a.1920x1080.jpg?t=1597210976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_52cc8b5532d6bed37f4722fe8c51d30784e4de5a.600x338.jpg?t=1597210976
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_94460f3dcc4692781d614fc5792f805c7e2aabc7.1920x1080.jpg?t=1597210976
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/841470/ss_94460f3dcc4692781d614fc5792f805c7e2aabc7.600x338.jpg?t=1597210976
+    short_description: Lead clouds of pollution into the cleansing centers, but be
+      careful not to destroy the world by accident.
+    steam_appid: 841470
+    support_info:
+      email: support@vertigogaming.net
+      url: http://www.vertigogaming.net
+    supported_languages: English
+    type: game
+    website: http://www.vertigogaming.net
+  success: true
+reviews:
+  cursor: AoJ438rK6O4CdIzy4QE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1575393467
+      num_games_owned: 1583
+      num_reviews: 1618
+      playtime_at_review: 142
+      playtime_forever: 142
+      playtime_last_two_weeks: 0
+      steamid: '76561198062813911'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '59216068'
+    review: '[h1] DISCLAIMER: This is a first impressions review, and NOT a full review
+      [/h1]
+
+
+      greenTech+ is a game developed and published by Vertigo Gaming, the same person
+      behind the Cook, Serve, Delicious series
+
+
+      The game offers some really nice graphics and a nice yet simplistic aesthetic
+      which is pleasant all the same and has some amazing attention to detail even
+      though it is a little rough around the edges
+
+
+      The game does suffer with some repetitiveness at certain areas of the game but
+      a fun game nonetheless and ends just at the right time
+
+
+      greenTech+ overall, however, is an okay game to play, yet sometimes repetitive
+      and it does get boring if being played for a long time, but is an okay strategy
+      game to play in short bursts!
+
+
+      [h1] RECOMMENDED :) [/h1]
+
+
+      [b] REVIEW SOURCES: [/b]
+
+      [list]
+
+      [*] None'
+    steam_purchase: true
+    timestamp_created: 1575467243
+    timestamp_updated: 1575467243
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

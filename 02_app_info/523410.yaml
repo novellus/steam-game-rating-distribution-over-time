@@ -1,0 +1,414 @@
+details:
+  data:
+    about_the_game: "Ozapell Basic is a hobbyist programming language simple enough\
+      \ for new programmers -- while powerful enough to develop playable retro 1980s\
+      \ games. <br />\r\n<br />\r\nThe graphics environment and interface are loosely\
+      \ based on early 1980s color home computers.<br />\r\n<br />\r\nThe programming\
+      \ language is heavily inspired by modern languages (especially C and javaScript)\
+      \ while using BASIC keywords for simplicity.<br />\r\n<br />\r\nThe supplied\
+      \ library provides enough functionality to create simple games and audio-visual\
+      \ demonstrations.<br />\r\n<br />\r\nOzapell Basic was designed to be as simple\
+      \ as possible while providing a variety of features. It could be fun for someone\
+      \ who wants to program or make retro 1980s style games but doesn't want to learn\
+      \ a complicated modern language. <br />\r\n<br />\r\nSpecial features include:\
+      \ <br />\r\nSteady 60fps performance<br />\r\nCreate executables for distribution<br\
+      \ />\r\nSupport for modern (CD quality) wave audio sound<br />\r\nAlternate\
+      \ freely between line editor and fullscreen editor or use an external text editor<br\
+      \ />\r\nBuilt-in speed limiter -- programs will run at same speed on fast or\
+      \ Minimum Specification systems or turn off the speed limiter for full processing\
+      \ speed<br />\r\nSecured to prevent access to other folders and files <br />\r\
+      \nFullscreen and Widescreen <br />\r\n24-bit color<br />\r\nCollision detection\
+      \ for sprites<br />\r\nPartial mouse support for receiving clicks from left,\
+      \ right and middle mouse buttons<br />\r\nSource code is (mostly) compiled to\
+      \ memory before starting instead of interpreting the source code during execution"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/523410/page_bg_generated_v6b.jpg?t=1517338929
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Ozapell Basic is a hobbyist programming language simple\
+      \ enough for new programmers -- while powerful enough to develop playable retro\
+      \ 1980s games. <br />\r\n<br />\r\nThe graphics environment and interface are\
+      \ loosely based on early 1980s color home computers.<br />\r\n<br />\r\nThe\
+      \ programming language is heavily inspired by modern languages (especially C\
+      \ and javaScript) while using BASIC keywords for simplicity.<br />\r\n<br />\r\
+      \nThe supplied library provides enough functionality to create simple games\
+      \ and audio-visual demonstrations.<br />\r\n<br />\r\nOzapell Basic was designed\
+      \ to be as simple as possible while providing a variety of features. It could\
+      \ be fun for someone who wants to program or make retro 1980s style games but\
+      \ doesn't want to learn a complicated modern language. <br />\r\n<br />\r\n\
+      Special features include: <br />\r\nSteady 60fps performance<br />\r\nCreate\
+      \ executables for distribution<br />\r\nSupport for modern (CD quality) wave\
+      \ audio sound<br />\r\nAlternate freely between line editor and fullscreen editor\
+      \ or use an external text editor<br />\r\nBuilt-in speed limiter -- programs\
+      \ will run at same speed on fast or Minimum Specification systems or turn off\
+      \ the speed limiter for full processing speed<br />\r\nSecured to prevent access\
+      \ to other folders and files <br />\r\nFullscreen and Widescreen <br />\r\n\
+      24-bit color<br />\r\nCollision detection for sprites<br />\r\nPartial mouse\
+      \ support for receiving clicks from left, right and middle mouse buttons<br\
+      \ />\r\nSource code is (mostly) compiled to memory before starting instead of\
+      \ interpreting the source code during execution"
+    developers:
+    - Ozapell
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Audio Production
+      id: '52'
+    - description: Design & Illustration
+      id: '53'
+    - description: Education
+      id: '54'
+    - description: Software Training
+      id: '56'
+    - description: Video Production
+      id: '58'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/523410/header.jpg?t=1517338929
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256692845
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256692845/movie480.mp4?t=1504819814
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256692845/movie_max.mp4?t=1504819814
+      name: Jump Physics and Sprite Collision Demo
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256692845/movie.293x165.jpg?t=1504819814
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256692845/movie480.webm?t=1504819814
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256692845/movie_max.webm?t=1504819814
+    - highlight: true
+      id: 256669814
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669814/movie480.mp4?t=1474388482
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669814/movie_max.mp4?t=1474388482
+      name: Editing
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256669814/movie.293x165.jpg?t=1474388482
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669814/movie480.webm?t=1474388482
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669814/movie_max.webm?t=1474388482
+    - highlight: true
+      id: 256673418
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256673418/movie480.mp4?t=1477583807
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256673418/movie_max.mp4?t=1477583807
+      name: Sound
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256673418/movie.293x165.jpg?t=1477583807
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256673418/movie480.webm?t=1477583807
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256673418/movie_max.webm?t=1477583807
+    - highlight: true
+      id: 256684497
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256684497/movie480.mp4?t=1494118064
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256684497/movie_max.mp4?t=1494118064
+      name: Round Button Mouse Click Example
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256684497/movie.293x165.jpg?t=1494118064
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256684497/movie480.webm?t=1494118064
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256684497/movie_max.webm?t=1494118064
+    - highlight: true
+      id: 256670268
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670268/movie480.mp4?t=1473750947
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670268/movie_max.mp4?t=1473750947
+      name: Maze Game
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256670268/movie.293x165.jpg?t=1473750947
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256670268/movie480.webm?t=1473750947
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256670268/movie_max.webm?t=1473750947
+    - highlight: true
+      id: 256669795
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669795/movie480.mp4?t=1473357820
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669795/movie_max.mp4?t=1473357820
+      name: Metal Ball
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256669795/movie.293x165.jpg?t=1473357820
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669795/movie480.webm?t=1473357820
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669795/movie_max.webm?t=1473357820
+    - highlight: true
+      id: 256669797
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669797/movie480.mp4?t=1472587578
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669797/movie_max.mp4?t=1472587578
+      name: Painter
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256669797/movie.293x165.jpg?t=1472587578
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669797/movie480.webm?t=1472587578
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669797/movie_max.webm?t=1472587578
+    - highlight: true
+      id: 256669799
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669799/movie480.mp4?t=1474388471
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669799/movie_max.mp4?t=1474388471
+      name: Jump Time
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256669799/movie.293x165.jpg?t=1474388471
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256669799/movie480.webm?t=1474388471
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256669799/movie_max.webm?t=1474388471
+    name: Ozapell Basic
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ozapell Basic - $9.99
+        packageid: 124583
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Ozapell Basic
+    packages:
+    - 124583
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> 2.6 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Video Card and Display must
+        support 1280x720 at 60Hz (fullscreen only)<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 16 MB available space<br></li><li><strong>Sound
+        Card:</strong> DirectSound compatible sound card<br></li><li><strong>Additional
+        Notes:</strong> Desktop, laptop or tablet with physical keyboard</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Ozapell
+    release_date:
+      coming_soon: false
+      date: Oct 23, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_ac4132123b78f0c4dd054f3e83a41c647b227ddc.1920x1080.jpg?t=1517338929
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_ac4132123b78f0c4dd054f3e83a41c647b227ddc.600x338.jpg?t=1517338929
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_f7199fd5a0940288860cfe46fb8cf86dd4197f90.1920x1080.jpg?t=1517338929
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_f7199fd5a0940288860cfe46fb8cf86dd4197f90.600x338.jpg?t=1517338929
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_d9281b4568b9396b68c66f755f46ea09eff274ac.1920x1080.jpg?t=1517338929
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_d9281b4568b9396b68c66f755f46ea09eff274ac.600x338.jpg?t=1517338929
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_4d8db5db0b1ccd0a2f850fc86fd29111b6c752fa.1920x1080.jpg?t=1517338929
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_4d8db5db0b1ccd0a2f850fc86fd29111b6c752fa.600x338.jpg?t=1517338929
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_6afcea81398af804df422ab7f3b18be9fae628de.1920x1080.jpg?t=1517338929
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_6afcea81398af804df422ab7f3b18be9fae628de.600x338.jpg?t=1517338929
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_72c4991cb887f0c229379b6be0fd635275b72037.1920x1080.jpg?t=1517338929
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/523410/ss_72c4991cb887f0c229379b6be0fd635275b72037.600x338.jpg?t=1517338929
+    short_description: Ozapell Basic is a hobbyist programming language simple enough
+      for new programmers -- while powerful enough to develop playable retro 1980s
+      games.
+    steam_appid: 523410
+    support_info:
+      email: ''
+      url: https://www.twitter.com/Ozapell
+    supported_languages: English
+    type: game
+    website: http://www.ozapell.com/
+  success: true
+reviews:
+  cursor: AoJ46oL+xvMCfsGLfQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 4
+    total_positive: 9
+    total_reviews: 13
+  reviews:
+  - author:
+      last_played: 1569637996
+      num_games_owned: 411
+      num_reviews: 8
+      playtime_at_review: 588
+      playtime_forever: 631
+      playtime_last_two_weeks: 0
+      steamid: '76561198023366889'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '32791582'
+    review: 'PLEASE NOTE: Originally, Ozapell Basic was advertised as a beginner''s
+      language. Since then the description has shifted to describing it a retro hobbyist
+      language. I welcome this change and feel it is more appropriate.
+
+
+      --------
+
+
+      Ozapell Basic is a retro-styled programming language. It is advertised as both
+      an educational tool to learn the basics of programming and a game development
+      tool for simple retro games.
+
+
+      I was really, really torn on the final verdict of this review. I''ve actually
+      enjoyed playing with Ozapell Basic quite a bit. It''s fairly simple to pick
+      up and play with. It took me back to my youth for a few hours and that was worth
+      the money to me. But it''s also flawed. So would I recommend it? Not to the
+      audience it seems to be aimed at...
+
+
+      Using this as an educational tool seems a bit like teaching someone to drive
+      in Ford Model T. The principles may still apply, but it lacks so many modern
+      conveniences that I''m not sure if it''s a worthwhile task. There''s no IDE
+      here and therefore no syntax highlighting, GUI, contextual help etc. This isn''t
+      a complaint as such - it is what appealed to me in the first place. I just take
+      issue with inflicting these archaic limitations on a beginner. Something like
+      Mu ( https://codewith.mu/ ) would seem to be a much better choice. It still
+      has much of the simplicity and immediacy of Ozapell Basic, but lacks the artificial
+      outmoded limitations. As an additional bonus, since it is python-based, much
+      more help is available.
+
+
+      The syntax is "inspired by JavaScript, with BASIC keywords." And it''s certainly
+      unusual. For example, this if-then construct:
+
+
+      [code]
+
+      A = 5
+
+      A < 10
+
+      IF RESULT
+
+      PRINTLINE "A IS LESS THAN 10"
+
+      ENDIF
+
+      [/code]
+
+
+      I would have thought the need for the RESULT keyword was a odd limitation of
+      the interpretor. Others might call it horrific. But it''s apparently an intentional
+      design choice:
+
+      [quote=Ozapell]PRINT 1+1 won''t work because it combines a subroutine call with
+      a mathematical operation. To keep Ozapell Basic as simple to read as possible,
+      they must be separated
+
+      In [other] languages, you''re allowed (encouraged?) to crunch as many operations
+      together as possible on a single line of code. While it can be convenient for
+      veteran programmers, it results in nearly unreadable code. Ozapell Basic was
+      designed with simplicity as a primary goal.[/quote]
+
+      I''m not an educator. This may well be a good way to learn. But I remain unconvinced
+      it should be enforced by the language. If I''m honest, I have to wonder if this
+      is in fact less of a design choice and more a limitation of the way Ozapell
+      Basic is implemented.
+
+
+      So what about as a game development tool? Ozapell says "It could be fun for
+      someone who wants to program or make retro style games but doesn''t want to
+      learn a complicated modern language." You certainly could develop complete games
+      with Ozapell Basic and it could be fun, but I think only in a ''what can I do
+      with limitations'' kind of way. If you want to develop something without learning
+      a complicated language. I''d recommend Game Maker Studio instead. Anything you
+      wanted to make with Ozapell Basic, you could make with Game Maker in a fraction
+      of the time. It would be much easier to pick up and learn too. Plus you can
+      delve deeper in to code if you wish. Game Maker is also great for children.
+
+
+      [b]So, how [i]would[/i] I recommend it? If you''re an oddball who can see past
+      it''s eccentricities, I say go for it. Ozapell Basic is quirky, sometimes esoteric
+      and feels very hobbyist. It can successfully transport you back in time three
+      decades and is charming and unique as it does it. Maybe it shouldn''t try to
+      be more than that.[/b]
+
+
+      I''ll finish with the classic "99 bottles" example in Ozapell Basic.
+
+      [code]
+
+      REM OZAPELLBASIC VERSION OF
+
+      REM 99 BOTTLES OF BEER
+
+      REM BY JOSEPH FOWLER
+
+      REM (JOSEPH@JIFISH.CO.UK)
+
+      REM CODED IN-EDITOR. ;)
+
+      REM MODIFIED FROM ERIC CARR''S
+
+      REM
+
+      FOR BOTTLES=99 TO 1
+
+      PRINT BOTTLES
+
+      PRINT " BOTTLE"
+
+      BOTTLES > 1
+
+      IF RESULT
+
+      PRINT "S"
+
+      ENDIF
+
+      PRINT " OF BEER ON THE WALL, "
+
+      PRINT BOTTLES
+
+      PRINT " BOTTLE"
+
+      IF RESULT
+
+      PRINT "S"
+
+      ENDIF
+
+      PRINT " OF BEER. TAKE ONE DOWN AND"
+
+      PRINT " PASS IT AROUND, "
+
+      BOTTLES - 1
+
+      PRINT RESULT
+
+      PRINT " BOTTLE"
+
+      VARONE = RESULT
+
+      VARTWO = 1
+
+      NOTEQUALTO
+
+      IF RESULT
+
+      PRINT "S"
+
+      ENDIF
+
+      PRINTLINE " OF BEER ON THE WALL."
+
+      NEXT BOTTLES
+
+      [/code]'
+    steam_purchase: true
+    timestamp_created: 1498430343
+    timestamp_updated: 1595814713
+    voted_up: false
+    votes_funny: 0
+    votes_up: 84
+    weighted_vote_score: '0.857336103916168213'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,144 @@
+details:
+  data:
+    about_the_game: "Animal Pack #2 unlocks the Animal Pack #2 creatures in the game\
+      \ ANIMALITY<br />\r\n<br />\r\n\u2605 Koala<br />\r\n\u2605 Lion<br />\r\n\u2605\
+      \ Walrus<br />\r\n\u2605 Shark<br />\r\n\u2605 Parrot<br />\r\n\u2605 Snow Owl"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/576530/page_bg_generated_v6b.jpg?t=1589318781
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Animal Pack #2 unlocks the Animal Pack #2 creatures in\
+      \ the game ANIMALITY<br />\r\n<br />\r\n\u2605 Koala<br />\r\n\u2605 Lion<br\
+      \ />\r\n\u2605 Walrus<br />\r\n\u2605 Shark<br />\r\n\u2605 Parrot<br />\r\n\
+      \u2605 Snow Owl"
+    developers:
+    - ColloseusX
+    fullgame:
+      appid: '576470'
+      name: ANIMALITY
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/576530/header.jpg?t=1589318781
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'ANIMALITY - Animal Pack #2'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'ANIMALITY - Animal Pack #2 - <span class="discount_original_price">$0.99</span>
+          $0.49'
+        packageid: 146968
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: 'Buy ANIMALITY - Animal Pack #2'
+    packages:
+    - 146968
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Microsoft\xAE Windows Server 2008, Windows 7, Windows 8 Classic, or Windows\
+        \ 10<br></li><li><strong>Processor:</strong> 2.33GHz or faster x86-compatible\
+        \ processor, or Intel Atom\u2122 1.6GHz or faster processor for netbook class\
+        \ devices<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>\
+        \ 128MB graphics or more<br></li><li><strong>Storage:</strong> 20 MB available\
+        \ space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Phat Phrog Studios
+    release_date:
+      coming_soon: false
+      date: Feb 2, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/576530/ss_9d7e19a2abd9d067eac37e2b96579085e6291fbb.1920x1080.jpg?t=1589318781
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/576530/ss_9d7e19a2abd9d067eac37e2b96579085e6291fbb.600x338.jpg?t=1589318781
+    short_description: "Animal Pack #2 unlocks the Animal Pack #2 creatures in the\
+      \ game ANIMALITY \u2605 Koala \u2605 Lion \u2605 Walrus \u2605 Shark \u2605\
+      \ Parrot \u2605 Snow Owl"
+    steam_appid: 576530
+    support_info:
+      email: lee@phatphrogstudios.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwh4WNnvMCe+e9lAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 3
+    total_positive: 0
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 718
+      num_reviews: 184
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198169811581'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '72478331'
+    review: It doesn't really offer anything that interesting, I'd skip it if you
+      don't care about achievements.
+    steam_purchase: true
+    timestamp_created: 1594442918
+    timestamp_updated: 1594442918
+    voted_up: false
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.507671117782592773'
+    written_during_early_access: false
+  success: 1

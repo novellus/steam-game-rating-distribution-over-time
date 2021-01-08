@@ -1,0 +1,94 @@
+details:
+  data:
+    about_the_game: "This is just a donation.<br />\r\nThank you for your donation!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1151480/page_bg_generated_v6b.jpg?t=1570432065
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is just a donation.<br />\r\nThank you for your donation!"
+    developers:
+    - "\u673D\u6728\u5E03\u53EF\u51CB\u591C"
+    fullgame:
+      appid: '1151460'
+      name: Obligation
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1151480/header.jpg?t=1570432065
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Obligation - Donation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Obligation - Donation - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 392469
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy Obligation - Donation
+    packages:
+    - 392469
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows xp or later<br></li><li><strong>Processor:</strong> 1GHz up<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - JingtuStudio
+    release_date:
+      coming_soon: false
+      date: Oct 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1151480/ss_243f12f097ce1063dbbed17436dd2ed5805f9b71.1920x1080.jpg?t=1570432065
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1151480/ss_243f12f097ce1063dbbed17436dd2ed5805f9b71.600x338.jpg?t=1570432065
+    short_description: This is just a donation. Thank you for your donation!
+    steam_appid: 1151480
+    support_info:
+      email: ''
+      url: https://weibo.com/moulderwood
+    supported_languages: Japanese, Simplified Chinese, Traditional Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

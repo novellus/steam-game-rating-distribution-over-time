@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: This pack includes 3 new skins for Katrine. After installing DLC
+      you will find new icon in top right corner in main menu. Press it and choose
+      new skin that you like.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/369470/page_bg_generated_v6b.jpg?t=1447374152
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This pack includes 3 new skins for Katrine. After installing
+      DLC you will find new icon in top right corner in main menu. Press it and choose
+      new skin that you like.
+    developers:
+    - Black Lime Studio
+    fullgame:
+      appid: '332790'
+      name: Darkness Assault
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/369470/header.jpg?t=1447374152
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Darkness Assault - New Costumes
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Darkness Assault - New Costumes - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 67248
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy Darkness Assault - New Costumes
+    packages:
+    - 67248
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as for the game.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Black Lime Studio
+    release_date:
+      coming_soon: false
+      date: May 8, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/369470/ss_7017ab2bfc0de2c0309b56f4f85af0ed6209f012.1920x1080.jpg?t=1447374152
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/369470/ss_7017ab2bfc0de2c0309b56f4f85af0ed6209f012.600x338.jpg?t=1447374152
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/369470/ss_bc1c770154feafe69136b55a1eb842a8cf04cf09.1920x1080.jpg?t=1447374152
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/369470/ss_bc1c770154feafe69136b55a1eb842a8cf04cf09.600x338.jpg?t=1447374152
+    short_description: This pack includes 3 new skins for Katrine. After installing
+      DLC you will find new icon in top right corner in main menu. Press it and choose
+      new skin that you like.
+    steam_appid: 369470
+    support_info:
+      email: admin@blacklimestudio.ru
+      url: ''
+    supported_languages: English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwl5qoxfMCdPTQlwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 6
+    total_positive: 8
+    total_reviews: 14
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2
+      num_reviews: 10
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199023791891'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '73303876'
+    review: "\u041A\u043E\u0441\u0442\u044E\u043C\u0438 \u043D\u043E\u0440\u043C\u0430\
+      \u043B\u044C\u043D\u0438\u0435 \u043A \u0438\u0433\u0440\u0435 ."
+    steam_purchase: true
+    timestamp_created: 1595758662
+    timestamp_updated: 1595758662
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

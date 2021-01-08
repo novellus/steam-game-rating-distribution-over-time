@@ -1,0 +1,447 @@
+details:
+  data:
+    about_the_game: '<h2 class="bb_tag"><strong>Walk, run and jump naturally using
+      your arms or feet movements in any VR game that supports thumbstick locomotion</strong></h2>Natural
+      Locomotion is an application that <strong>emulates the controller thumbstick
+      input</strong> (to use in any game), to <strong>walk, run and jump</strong>
+      more naturally <strong>moving your arms or your feet</strong>. It includes a
+      driver for SteamVR for this purpose.<br><br>It comes with <strong>profiles</strong>
+      for several popular games and apps. Just select one, check the game is configured
+      as shown, and play. The profile manager allows you to make profiles for games
+      not already included.<br><br>Natural Locomotion doesn''t provide comfort options
+      by itself (FoV reduction, etc), that''s dependent on each game. If you need
+      it, make sure the games you want to play have the feature and is enabled. From
+      our tests and from all comments after release, the <strong>1:1 movement of Natural
+      Locomotion avoids motion sickness</strong>, although we need a much bigger sample
+      size to claim that for sure.<h2 class="bb_tag">Hands mode</h2>Slowly swing your
+      hand controllers to walk or move them fast to run. <br>Other &quot;arm swinger&quot;
+      implementations are very &quot;jumpy&quot;, very slow to respond, or are a complement
+      on button actions. Natural Locomotion uses a novel system designed to walk and
+      run continuously, and with very precise and intuitive control of speed and acceleration.
+      You can start, stop or change speed very quickly without &quot;move&quot; or
+      &quot;brake&quot; buttons, it just depends on the speed you move your arms.<br><br><strong>NOTE:</strong>
+      We recently added a new locomotion activator based on gestures which does not
+      require to press any button. See the announcement of the update for more details:
+      <a href="https://store.steampowered.com/news/app/798810/view/2916608090291021223"
+      target="_blank" rel="noreferrer"  >https://store.steampowered.com/news/app/798810/view/2916608090291021223</a><h2
+      class="bb_tag">Feet mode</h2>Use motion sensor devices (see the list below)
+      attached in your feet to register your feet movements and walk in the game.
+      It supports two kind of movements: Walk-in-place and swinging feet while sitting
+      on a chair or using a treadmill.<h2 class="bb_tag">Software requirements:</h2><ul
+      class="bb_ul"><li>A recent version of SteamVR (i.e. any except the temporary
+      branch).<br></li><li>SteamVR games or apps that has full directed &quot;smooth
+      locomotion&quot; with trackpad or joystick (i.e. one can choose both direction
+      and speed with the thumb).</li></ul><h2 class="bb_tag">Supported (tested) headsets</h2><br><ul
+      class="bb_ul"><li>HTC Vive / Pro / Cosmos / Cosmos Elite<br></li><li>Oculus
+      Rift / Rift S / Quest (1 and 2, through Oculus Link or Virtual Desktop)<br></li><li>Windows
+      Mixed Reality and HP Reverb G2<br></li><li>Valve Index<br></li><li>Pimax<br></li><li>HTC
+      Vive Cosmos</li></ul><h2 class="bb_tag">Supported VR controllers:</h2><ul class="bb_ul"><li>HTC
+      Vive wands<br></li><li>Oculus touch<br></li><li>Windows Mixed Reality (with
+      trackpad)<br></li><li>Valve Index<br></li><li>HP Reverb G2<br></li><li>HTC Vive
+      Cosmos</li></ul><strong>NOTE:</strong> You can use any lighthouse controller
+      (Vive wands, Valve Index, etc) on any supported headset.<h2 class="bb_tag">Supported
+      devices (for feet mode)</h2><br><strong>Lighthouse devices  (SteamVR dongle
+      required)</strong><br><ul class="bb_ul"><li>HTC Vive trackers (Dongles included)<br></li><li>Any
+      SteamVR controller converted to tracker</li></ul><strong>NOTE:</strong> Each
+      extra HTC Vive tracker/ controller require a SteamVR USB dongle. You can connect
+      a lighthouse headset to USB and power only (Not video) to get it working as
+      2 usb SteamVR dongles.<br><br><strong>Bluetooth devices (Bluetooth connection
+      required)</strong><br><ul class="bb_ul"><li>Nintendo Switch JoyCon <br></li><li>PS3
+      Move controllers (No camera required)</li></ul><br><strong>Wi-Fi devices</strong><br><ul
+      class="bb_ul"><li>Smartphone with Android &gt;= 5.1, with accelerometer, gyroscope
+      and magnetometer (compass).</li></ul><h2 class="bb_tag">Profiles full list:</h2><br><table><tr><th></th><th>HTC<br>Vive<br>Wands</th><th>Oculus<br>Touch<br>Controllers</th><th>Windows<br>Mixed<br>Reality</th><th>Valve<br>Index<br>Controllers</th><th>HTC<br>Vive<br>Cosmos</th><th>HP<br>Reverb<br>G2</th></tr><tr><td>A
+      Township Tale</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>A-Tech
+      Cybernetic VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Alien:
+      Isolation (MotherVR mod)</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Apex
+      Construct</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Arizona
+      Sunshine</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Axegend
+      VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Blade
+      &amp; Sorcery</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>BONEWORKS</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Borderlands
+      2 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Chiaro
+      and the Elixir of Life</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Climbey</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>COMPOUND</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Contagion
+      VR: Outbreak</td><th>V</th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Contagion
+      VR: Outbreak Demo</td><th>V</th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Contractors
+      VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Crooked
+      Waters</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Dead
+      Effect 2 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Derail
+      Valley</td><th>V</th><th></th><th></th><th>I</th><th></th><th></th></tr><tr><td>Don''t
+      Knock Twice</td><th></th><th></th><th></th><th>I</th><th></th><th></th></tr><tr><td>DOOM
+      3 BFG VR: Fully Possessed</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>DOOM
+      VFR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Dreadhalls</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Elder Scrolls V: Skyrim VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Escape
+      Legacy VR</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Failspace</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Fallout
+      4 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Forest</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Frankenstein:
+      Beyond the Time</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Gallery: Heart of the Emberstone</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>GORN</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Half-Life:
+      Alyx</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Heart
+      of the Emberstone: Colliseum</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Hellsplit:
+      Arena</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>HINGE</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Hot
+      Dogs, Horseshoes &amp; Hand Grenades</td><th>V</th><th>O</th><th>W</th><th></th><th>C</th><th>H</th></tr><tr><td>In
+      Death</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Island
+      359</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Karnage
+      Chronicles</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Kartong</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Medal
+      of Honor: Above and Beyond</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Minecraft
+      (with Vivecraft)</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Minecraft
+      (with Vivecraft) 1.14.4</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Minecraft
+      (with Vivecraft) 1.16.X</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Morrigan</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>No
+      Man''s Sky</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Onward</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>OrbusVR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Pavlov
+      VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>PAYDAY
+      2 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Phasmophobia</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>POPULATION:
+      ONE</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Primordian</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Protonwar</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Protonwar
+      Demo</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Rec
+      Room</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Robinson:
+      The Journey</td><th>V</th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Sairento
+      VR</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam 3 VR: BFE</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam VR: The First Encounter</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam VR: The Last Hope</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam VR: The Second Encounter</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Solus Project</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>STAND
+      OUT</td><th>V</th><th>O</th><th>W</th><th></th><th>C</th><th>H</th></tr><tr><td>Swordsman
+      VR</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Talos Principle VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>TestHMD
+      (RoV)</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Until
+      You Fall</td><th></th><th></th><th></th><th></th><th>C</th><th>H</th></tr><tr><td>Vanishing
+      Realms</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Vengeful
+      Rites</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Vengeful
+      Rites Demo</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Vertigo
+      Remastered</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>VR
+      Dungeon Knight</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>VRChat</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Walking Dead: Saints &amp; Sinners</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>WAR
+      DUST</td><th>V</th><th>O</th><th>W</th><th></th><th>C</th><th>H</th></tr><tr><td>Westworld
+      Awakening</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Windlands
+      2</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Witching
+      Tower</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Wizards</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Wizards - Dark Times</td><th></th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Zero
+      Caliber VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>ZomDay</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr></table><br>You
+      can always try to make your own profiles or to modify the existing ones.<br><br>Some
+      profiles are available in some headsets only (or not at all) due to technical
+      limitations.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/798810/page_bg_generated_v6b.jpg?t=1608586359
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h2 class="bb_tag"><strong>Walk, run and jump naturally
+      using your arms or feet movements in any VR game that supports thumbstick locomotion</strong></h2>Natural
+      Locomotion is an application that <strong>emulates the controller thumbstick
+      input</strong> (to use in any game), to <strong>walk, run and jump</strong>
+      more naturally <strong>moving your arms or your feet</strong>. It includes a
+      driver for SteamVR for this purpose.<br><br>It comes with <strong>profiles</strong>
+      for several popular games and apps. Just select one, check the game is configured
+      as shown, and play. The profile manager allows you to make profiles for games
+      not already included.<br><br>Natural Locomotion doesn''t provide comfort options
+      by itself (FoV reduction, etc), that''s dependent on each game. If you need
+      it, make sure the games you want to play have the feature and is enabled. From
+      our tests and from all comments after release, the <strong>1:1 movement of Natural
+      Locomotion avoids motion sickness</strong>, although we need a much bigger sample
+      size to claim that for sure.<h2 class="bb_tag">Hands mode</h2>Slowly swing your
+      hand controllers to walk or move them fast to run. <br>Other &quot;arm swinger&quot;
+      implementations are very &quot;jumpy&quot;, very slow to respond, or are a complement
+      on button actions. Natural Locomotion uses a novel system designed to walk and
+      run continuously, and with very precise and intuitive control of speed and acceleration.
+      You can start, stop or change speed very quickly without &quot;move&quot; or
+      &quot;brake&quot; buttons, it just depends on the speed you move your arms.<br><br><strong>NOTE:</strong>
+      We recently added a new locomotion activator based on gestures which does not
+      require to press any button. See the announcement of the update for more details:
+      <a href="https://store.steampowered.com/news/app/798810/view/2916608090291021223"
+      target="_blank" rel="noreferrer"  >https://store.steampowered.com/news/app/798810/view/2916608090291021223</a><h2
+      class="bb_tag">Feet mode</h2>Use motion sensor devices (see the list below)
+      attached in your feet to register your feet movements and walk in the game.
+      It supports two kind of movements: Walk-in-place and swinging feet while sitting
+      on a chair or using a treadmill.<h2 class="bb_tag">Software requirements:</h2><ul
+      class="bb_ul"><li>A recent version of SteamVR (i.e. any except the temporary
+      branch).<br></li><li>SteamVR games or apps that has full directed &quot;smooth
+      locomotion&quot; with trackpad or joystick (i.e. one can choose both direction
+      and speed with the thumb).</li></ul><h2 class="bb_tag">Supported (tested) headsets</h2><br><ul
+      class="bb_ul"><li>HTC Vive / Pro / Cosmos / Cosmos Elite<br></li><li>Oculus
+      Rift / Rift S / Quest (1 and 2, through Oculus Link or Virtual Desktop)<br></li><li>Windows
+      Mixed Reality and HP Reverb G2<br></li><li>Valve Index<br></li><li>Pimax<br></li><li>HTC
+      Vive Cosmos</li></ul><h2 class="bb_tag">Supported VR controllers:</h2><ul class="bb_ul"><li>HTC
+      Vive wands<br></li><li>Oculus touch<br></li><li>Windows Mixed Reality (with
+      trackpad)<br></li><li>Valve Index<br></li><li>HP Reverb G2<br></li><li>HTC Vive
+      Cosmos</li></ul><strong>NOTE:</strong> You can use any lighthouse controller
+      (Vive wands, Valve Index, etc) on any supported headset.<h2 class="bb_tag">Supported
+      devices (for feet mode)</h2><br><strong>Lighthouse devices  (SteamVR dongle
+      required)</strong><br><ul class="bb_ul"><li>HTC Vive trackers (Dongles included)<br></li><li>Any
+      SteamVR controller converted to tracker</li></ul><strong>NOTE:</strong> Each
+      extra HTC Vive tracker/ controller require a SteamVR USB dongle. You can connect
+      a lighthouse headset to USB and power only (Not video) to get it working as
+      2 usb SteamVR dongles.<br><br><strong>Bluetooth devices (Bluetooth connection
+      required)</strong><br><ul class="bb_ul"><li>Nintendo Switch JoyCon <br></li><li>PS3
+      Move controllers (No camera required)</li></ul><br><strong>Wi-Fi devices</strong><br><ul
+      class="bb_ul"><li>Smartphone with Android &gt;= 5.1, with accelerometer, gyroscope
+      and magnetometer (compass).</li></ul><h2 class="bb_tag">Profiles full list:</h2><br><table><tr><th></th><th>HTC<br>Vive<br>Wands</th><th>Oculus<br>Touch<br>Controllers</th><th>Windows<br>Mixed<br>Reality</th><th>Valve<br>Index<br>Controllers</th><th>HTC<br>Vive<br>Cosmos</th><th>HP<br>Reverb<br>G2</th></tr><tr><td>A
+      Township Tale</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>A-Tech
+      Cybernetic VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Alien:
+      Isolation (MotherVR mod)</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Apex
+      Construct</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Arizona
+      Sunshine</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Axegend
+      VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Blade
+      &amp; Sorcery</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>BONEWORKS</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Borderlands
+      2 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Chiaro
+      and the Elixir of Life</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Climbey</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>COMPOUND</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Contagion
+      VR: Outbreak</td><th>V</th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Contagion
+      VR: Outbreak Demo</td><th>V</th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Contractors
+      VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Crooked
+      Waters</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Dead
+      Effect 2 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Derail
+      Valley</td><th>V</th><th></th><th></th><th>I</th><th></th><th></th></tr><tr><td>Don''t
+      Knock Twice</td><th></th><th></th><th></th><th>I</th><th></th><th></th></tr><tr><td>DOOM
+      3 BFG VR: Fully Possessed</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>DOOM
+      VFR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Dreadhalls</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Elder Scrolls V: Skyrim VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Escape
+      Legacy VR</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Failspace</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Fallout
+      4 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Forest</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Frankenstein:
+      Beyond the Time</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Gallery: Heart of the Emberstone</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>GORN</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Half-Life:
+      Alyx</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Heart
+      of the Emberstone: Colliseum</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Hellsplit:
+      Arena</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>HINGE</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Hot
+      Dogs, Horseshoes &amp; Hand Grenades</td><th>V</th><th>O</th><th>W</th><th></th><th>C</th><th>H</th></tr><tr><td>In
+      Death</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Island
+      359</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Karnage
+      Chronicles</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Kartong</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Medal
+      of Honor: Above and Beyond</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Minecraft
+      (with Vivecraft)</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Minecraft
+      (with Vivecraft) 1.14.4</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Minecraft
+      (with Vivecraft) 1.16.X</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Morrigan</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>No
+      Man''s Sky</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Onward</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>OrbusVR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Pavlov
+      VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>PAYDAY
+      2 VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Phasmophobia</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>POPULATION:
+      ONE</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Primordian</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Protonwar</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Protonwar
+      Demo</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Rec
+      Room</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Robinson:
+      The Journey</td><th>V</th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Sairento
+      VR</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam 3 VR: BFE</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam VR: The First Encounter</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam VR: The Last Hope</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Serious
+      Sam VR: The Second Encounter</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Solus Project</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>STAND
+      OUT</td><th>V</th><th>O</th><th>W</th><th></th><th>C</th><th>H</th></tr><tr><td>Swordsman
+      VR</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Talos Principle VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>TestHMD
+      (RoV)</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Until
+      You Fall</td><th></th><th></th><th></th><th></th><th>C</th><th>H</th></tr><tr><td>Vanishing
+      Realms</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Vengeful
+      Rites</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Vengeful
+      Rites Demo</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Vertigo
+      Remastered</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>VR
+      Dungeon Knight</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>VRChat</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Walking Dead: Saints &amp; Sinners</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>WAR
+      DUST</td><th>V</th><th>O</th><th>W</th><th></th><th>C</th><th>H</th></tr><tr><td>Westworld
+      Awakening</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>Windlands
+      2</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr><tr><td>Witching
+      Tower</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Wizards</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>The
+      Wizards - Dark Times</td><th></th><th></th><th>W</th><th>I</th><th></th><th></th></tr><tr><td>Zero
+      Caliber VR</td><th>V</th><th>O</th><th>W</th><th>I</th><th>C</th><th>H</th></tr><tr><td>ZomDay</td><th>V</th><th>O</th><th></th><th>I</th><th>C</th><th>H</th></tr></table><br>You
+      can always try to make your own profiles or to modify the existing ones.<br><br>Some
+      profiles are available in some headsets only (or not at all) due to technical
+      limitations.'
+    developers:
+    - Myou Software
+    genres:
+    - description: Simulation
+      id: '28'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/798810/header.jpg?t=1608586359
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256713314
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256713314/movie480.mp4?t=1522865758
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256713314/movie_max.mp4?t=1522865758
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256713314/movie.293x165.jpg?t=1522865758
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256713314/movie480.webm?t=1522865758
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256713314/movie_max.webm?t=1522865758
+    - highlight: true
+      id: 256716039
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716039/movie480.mp4?t=1525475138
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716039/movie_max.mp4?t=1525475138
+      name: HowToMoveAround
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256716039/movie.293x165.jpg?t=1525475138
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716039/movie480.webm?t=1525475138
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716039/movie_max.webm?t=1525475138
+    name: Natural Locomotion
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Natural Locomotion - $9.99
+        packageid: 242705
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Natural Locomotion
+    - description: To be billed on a recurring basis.
+      display_type: '1'
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$9.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $9.99 / month
+        packageid: 343019
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Natural Locomotion Subscription Plan
+    packages:
+    - 242705
+    - 343019
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>Processor:</strong> Intel\u2122\
+        \ Core\u2122 i5-4590 or AMD FX\u2122 8350, equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4096 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 1060\
+        \ 6GB or similar (demo only)<br></li><li><strong>DirectX:</strong> Version\
+        \ 11<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>Processor:</strong>\
+        \ Intel\u2122 Core\u2122 i5-4590 or AMD FX\u2122 8350, equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4096 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 1080\
+        \ or similar (demo only)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>\
+        \ 400 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Myou Software
+    recommendations:
+      total: 377
+    release_date:
+      coming_soon: false
+      date: Apr 7, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1d7a93c3f17123b9394550f0a154d69904bfd5fb.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1d7a93c3f17123b9394550f0a154d69904bfd5fb.600x338.jpg?t=1608586359
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_a1acd21e7ad48a1698a6a67f04a35bd9a1ccd326.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_a1acd21e7ad48a1698a6a67f04a35bd9a1ccd326.600x338.jpg?t=1608586359
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1cd750b5b8e4623249378d95fbeb299835b26559.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1cd750b5b8e4623249378d95fbeb299835b26559.600x338.jpg?t=1608586359
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cb2487e3832e3bb53b5539befa435a2b005c81d8.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cb2487e3832e3bb53b5539befa435a2b005c81d8.600x338.jpg?t=1608586359
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_63e68c2790660566ac071da8106aa0eb60716d18.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_63e68c2790660566ac071da8106aa0eb60716d18.600x338.jpg?t=1608586359
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_27617980f343ba9d27b825010ddfd6f20a61a8e3.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_27617980f343ba9d27b825010ddfd6f20a61a8e3.600x338.jpg?t=1608586359
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_9ea212b6c433b91b3ef86cc49e45157541ec0397.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_9ea212b6c433b91b3ef86cc49e45157541ec0397.600x338.jpg?t=1608586359
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cc149f69b7324fb3ddc75d454ab8169fe749b9a9.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cc149f69b7324fb3ddc75d454ab8169fe749b9a9.600x338.jpg?t=1608586359
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_09da6b47edbe8577b23d9319c68a6da1ecd94947.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_09da6b47edbe8577b23d9319c68a6da1ecd94947.600x338.jpg?t=1608586359
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_5ad07e628112e9ad832e3570d176b2911f09468a.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_5ad07e628112e9ad832e3570d176b2911f09468a.600x338.jpg?t=1608586359
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_b0b917d1b820f8d29765307212bbee715ccc253d.1920x1080.jpg?t=1608586359
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_b0b917d1b820f8d29765307212bbee715ccc253d.600x338.jpg?t=1608586359
+    short_description: Move naturally in virtual reality in any SteamVR game that
+      supports trackpad/stick locomotion. More immersion, more comfort!
+    steam_appid: 798810
+    support_info:
+      email: contact@myousoftware.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw1PGo4/YCfMb7vwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 45
+    total_positive: 332
+    total_reviews: 377
+  reviews:
+  - author:
+      last_played: 1609720973
+      num_games_owned: 299
+      num_reviews: 3
+      playtime_at_review: 851
+      playtime_forever: 1176
+      playtime_last_two_weeks: 541
+      steamid: '76561198060360687'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '83876972'
+    review: "ESP \n\nSimplemente tienes que tenerlo si usas RV, es compatible con\
+      \ pr\xE1cticamente cualquier juego que vas a tener en tu librer\xEDa b\xE1sica\
+      \ de RV, y en s\xED la plataforma te permite caminar en el juego de una manera\
+      \ mucho m\xE1s natural a si utilizas el Joystick o el Trackpad, con tan solo\
+      \ mover los brazos como si simularas que est\xE1s caminado. \n\nLo \xFAnico\
+      \ que s\xED me gustar\xEDa es una opci\xF3n para hacer m\xE1s sensibles los\
+      \ movimientos, algunas personas nos movemos m\xE1s lentas que otras, pero en\
+      \ el juego queremos correr. \n\n---------------\nENG\n\nMust have tool if you\
+      \ use VR, compatible with almost any game you\xB4ll have in your VR library,\
+      \ and it really allows you to move in a more natural way than the Joystick or\
+      \ Trackpad by moving your arms in a walking fashion. \n\nThe only thing I would\
+      \ change is to add the option to adjust motion sensivity of the movement, some\
+      \ of us move slower, but we want to be running."
+    steam_purchase: true
+    timestamp_created: 1609650376
+    timestamp_updated: 1609650376
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '653250'
+      name: Chaos;Child
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/653250/header.jpg?t=1553554581
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Chaos;Child: Serika Onoe'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Chaos;Child: Serika Onoe - $1.99'
+        packageid: 184886
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Chaos;Child: Serika Onoe'
+    packages:
+    - 184886
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 4, 2017
+    required_age: 0
+    short_description: The final battle takes place in the Hikariwo theater, where
+      Takuru is trapped in a sightless and soundless prison in his own mind. He'll
+      need Onoe's help to break free, but after what he knows about her, can he bring
+      himself to ask for it?
+    steam_appid: 655571
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ43KvV1PACe7n+fw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1511708870
+      num_games_owned: 264
+      num_reviews: 57
+      playtime_at_review: 15
+      playtime_forever: 7739
+      playtime_last_two_weeks: 0
+      steamid: '76561198328252833'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '33551259'
+    review: "\u591A\u6765\u70B9\u52A8\u753B"
+    steam_purchase: true
+    timestamp_created: 1500093498
+    timestamp_updated: 1583388909
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.502487540245056152'
+    written_during_early_access: false
+  success: 1

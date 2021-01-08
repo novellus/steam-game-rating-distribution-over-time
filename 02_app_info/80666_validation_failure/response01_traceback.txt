@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 72, in validate_parsed_data
+    common.parse_steam_date(data['details']['data']['release_date']['date'])  # try to parse date
+AssertionError: release_date -> date is empty

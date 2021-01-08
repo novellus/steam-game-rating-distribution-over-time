@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: "The complete, original soundtrack of Starcaster!<br />\r\nAll\
+      \ tracks are in .wav format and will be downloaded to the location where Steam\
+      \ downloads all other games and DLC.<br />\r\nTracks:<br />\r\n<br />\r\n1.\
+      \ Starcaster<br />\r\n2. Midgard<br />\r\n3. Alfheim<br />\r\n4. Helheim<br\
+      \ />\r\n5. Utgard<br />\r\n6. Svartalfar<br />\r\n7. Vanahea<br />\r\n8. Niflyr<br\
+      \ />\r\n9. Asgard<br />\r\n10. Muspel<br />\r\n11. Ginnungar"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/913400/page_bg_generated_v6b.jpg?t=1533009121
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The complete, original soundtrack of Starcaster!<br />\r\
+      \nAll tracks are in .wav format and will be downloaded to the location where\
+      \ Steam downloads all other games and DLC.<br />\r\nTracks:<br />\r\n<br />\r\
+      \n1. Starcaster<br />\r\n2. Midgard<br />\r\n3. Alfheim<br />\r\n4. Helheim<br\
+      \ />\r\n5. Utgard<br />\r\n6. Svartalfar<br />\r\n7. Vanahea<br />\r\n8. Niflyr<br\
+      \ />\r\n9. Asgard<br />\r\n10. Muspel<br />\r\n11. Ginnungar"
+    developers:
+    - Steam Blade Games
+    fullgame:
+      appid: '727430'
+      name: Starcaster
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/913400/header.jpg?t=1533009121
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        1.5 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        315 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Snow Leapord<br></li><li><strong>Processor:</strong> 1.5 Ghz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 315 MB available space</li></ul>
+    name: Starcaster OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Starcaster OST - $0.99
+        packageid: 293046
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Starcaster OST
+    packages:
+    - 293046
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1.5 Ghz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 315 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Steam Blade Games
+    release_date:
+      coming_soon: false
+      date: Jul 30, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/913400/ss_800e3c0e666bb0636fc5d41ff0e28e77ad171558.1920x1080.jpg?t=1533009121
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/913400/ss_800e3c0e666bb0636fc5d41ff0e28e77ad171558.600x338.jpg?t=1533009121
+    short_description: The complete, original soundtrack of Starcaster!
+    steam_appid: 913400
+    support_info:
+      email: steambladegames1@gmail.com
+      url: https://www.steambladegames.com/contact
+    supported_languages: English
+    type: dlc
+    website: https://www.steambladegames.com/starcaster
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

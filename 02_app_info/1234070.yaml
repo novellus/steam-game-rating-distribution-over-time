@@ -1,0 +1,153 @@
+details:
+  data:
+    about_the_game: <strong>!!! NOTE !!! Full-screen mode will not work properly if
+      the display aspect ratio is not 16:9.</strong><br><br>Wire Flying Maid is a
+      2D action game where a maid flies using wires.<br><br>- Use only left and right
+      clicks and mouse wheel<br>- Hook the wire on the flapping ring and fly in the
+      sky<br>- Collect rings to unlock 7 maid costumes and 7 wire colors<br>- Keep
+      flying for high score
+    achievements:
+      highlighted:
+      - name: Score 500
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/7b74425693c499d125e2f27ba0c28674532965ab.jpg
+      - name: Score 1,000
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/de6db541ddf68ab58827c0883793ed45eeff64d8.jpg
+      - name: Score 3,000
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/386e40fa8e59e26b298b849562426e9a97116490.jpg
+      - name: Score 5,000
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/f8fcdb0e76466a7d09cb5bd7826da11e09f05ffa.jpg
+      - name: Developer's Best Score
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/8c1558d579079225a6003d338edb5218337d15e4.jpg
+      - name: Really? Wow... Really?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/a256a18843166114e1ad57d2446f866ccfb50b34.jpg
+      - name: Maid Made Up
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/488b0b68b4c35a6293643d91c3251c127eda4b03.jpg
+      - name: Line Up
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1234070/85dba5be4f76404167e7cecdf293030a8790b262.jpg
+      total: 8
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1234070/page_bg_generated_v6b.jpg?t=1591422595
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>!!! NOTE !!! Full-screen mode will not work properly
+      if the display aspect ratio is not 16:9.</strong><br><br>Wire Flying Maid is
+      a 2D action game where a maid flies using wires.<br><br>- Use only left and
+      right clicks and mouse wheel<br>- Hook the wire on the flapping ring and fly
+      in the sky<br>- Collect rings to unlock 7 maid costumes and 7 wire colors<br>-
+      Keep flying for high score
+    developers:
+    - IzukawaN
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1234070/header.jpg?t=1591422595
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256773609
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773609/movie480.mp4?t=1580356973
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773609/movie_max.mp4?t=1580356973
+      name: Wire Flying Maid
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256773609/movie.293x165.jpg?t=1580356973
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773609/movie480.webm?t=1580356973
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773609/movie_max.webm?t=1580356973
+    name: Wire Flying Maid
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wire Flying Maid - $1.99
+        packageid: 427973
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Wire Flying Maid
+    packages:
+    - 427973
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8.1<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Additional Notes:</strong> Full-screen
+        mode will not work properly if the display aspect ratio is not 16:9.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - IzukawaN
+    release_date:
+      coming_soon: false
+      date: Feb 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_f36e24938ec65e42889a4d51ffafdab86be6fe5a.1920x1080.jpg?t=1591422595
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_f36e24938ec65e42889a4d51ffafdab86be6fe5a.600x338.jpg?t=1591422595
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_d814e7317143d5be9386582c00062681a84cdcf1.1920x1080.jpg?t=1591422595
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_d814e7317143d5be9386582c00062681a84cdcf1.600x338.jpg?t=1591422595
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_ddd058cf65a20272e9d7362365fabc2917c45dba.1920x1080.jpg?t=1591422595
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_ddd058cf65a20272e9d7362365fabc2917c45dba.600x338.jpg?t=1591422595
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_522c8232642d8e0e7d056e4022148409016747c7.1920x1080.jpg?t=1591422595
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_522c8232642d8e0e7d056e4022148409016747c7.600x338.jpg?t=1591422595
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_40d9823c74846493852a950716690ba40af52fc5.1920x1080.jpg?t=1591422595
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1234070/ss_40d9823c74846493852a950716690ba40af52fc5.600x338.jpg?t=1591422595
+    short_description: According to my research, most maids can fly in some way. In
+      her case, it's two wires.
+    steam_appid: 1234070
+    support_info:
+      email: meiseki.project@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

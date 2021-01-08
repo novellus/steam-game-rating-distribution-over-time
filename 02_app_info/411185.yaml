@@ -1,0 +1,94 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '411180'
+      name: Dota 2 Player Profiles
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/411185/header.jpg?t=1503534876
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Dota 2 Player Profiles: EHOME - ROTK'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: Dota 2 Player Profiles - Free
+        packageid: 81951
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy Dota 2 Player Profiles: EHOME - ROTK'
+    packages:
+    - 81951
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 28, 2016
+    required_age: 0
+    short_description: From team EHOME, learn more about ROTK
+    steam_appid: 411185
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: ''
+  success: true
+reviews:
+  cursor: AoJ40NbWvtoCfsSfcw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1488161616
+      num_games_owned: 72
+      num_reviews: 3
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198083419504'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '30211150'
+    review: ROTK!!!!!!!!!!!!!!!!!!!!!!!!!!11
+    steam_purchase: true
+    timestamp_created: 1488161781
+    timestamp_updated: 1488161781
+    voted_up: true
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

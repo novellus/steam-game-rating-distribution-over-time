@@ -1,0 +1,100 @@
+details:
+  data:
+    about_the_game: A 27 page digital art book containing concept art and finished
+      pieces from Uagi-Saba. Some of the art included was never used in the game,
+      a must have for a devoted Uagi fan.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/988550/page_bg_generated_v6b.jpg?t=1543260625
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: A 27 page digital art book containing concept art and finished
+      pieces from Uagi-Saba. Some of the art included was never used in the game,
+      a must have for a devoted Uagi fan.
+    developers:
+    - Undergroundies
+    fullgame:
+      appid: '788390'
+      name: Uagi-Saba
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/988550/header.jpg?t=1543260625
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Uagi-Saba Digital Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Uagi-Saba Digital Artbook - $2.99
+        packageid: 325600
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Uagi-Saba Digital Artbook
+    packages:
+    - 325600
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7,8,10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        1200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 26, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/988550/ss_c4ade023595e958b05cce676e00933f92da2f511.1920x1080.jpg?t=1543260625
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/988550/ss_c4ade023595e958b05cce676e00933f92da2f511.600x338.jpg?t=1543260625
+    short_description: A 27 page digital art book containing concept art and finished
+      pieces from Uagi-Saba. Some of the art included was never used in the game,
+      a must have for a devoted Uagi fan.
+    steam_appid: 988550
+    support_info:
+      email: undergroundies@hotmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: https://undergroundies.net
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

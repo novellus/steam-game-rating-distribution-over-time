@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: "The Push Me Pull You soundtrack features original music composed,\
+      \ recorded, mixed and mastered by Dan Golding. The DLC download includes mp3\
+      \ and FLAC versions of each track.<br />\r\n<br />\r\n1. Push Me Pull You (Main\
+      \ Menu) - 02:42<br />\r\n2. Celebration - 02:36<br />\r\n3. Pumpy Medley - 06:14<br\
+      \ />\r\n4. Credits - 02:20<br />\r\n5. Waltz for House House - 00:48<br />\r\
+      \n<br />\r\nInstruments included: guitar, clarinet, tenor saxophone, trumpet,\
+      \ trombone, euphonium (pretending to be a tuba), keyboard, melodica, flute,\
+      \ recorder, mandolin, charango, cavaquinho, percussion (shaker, tambourine,\
+      \ guitar body, spoons, a few loops and VSTs), cello, double bass, vocals and\
+      \ a banjo"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/488630/page_bg_generated_v6b.jpg?t=1468515979
+    categories:
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The Push Me Pull You soundtrack features original music\
+      \ composed, recorded, mixed and mastered by Dan Golding. The DLC download includes\
+      \ mp3 and FLAC versions of each track.<br />\r\n<br />\r\n1. Push Me Pull You\
+      \ (Main Menu) - 02:42<br />\r\n2. Celebration - 02:36<br />\r\n3. Pumpy Medley\
+      \ - 06:14<br />\r\n4. Credits - 02:20<br />\r\n5. Waltz for House House - 00:48<br\
+      \ />\r\n<br />\r\nInstruments included: guitar, clarinet, tenor saxophone, trumpet,\
+      \ trombone, euphonium (pretending to be a tuba), keyboard, melodica, flute,\
+      \ recorder, mandolin, charango, cavaquinho, percussion (shaker, tambourine,\
+      \ guitar body, spoons, a few loops and VSTs), cello, double bass, vocals and\
+      \ a banjo"
+    developers:
+    - House House
+    fullgame:
+      appid: '362380'
+      name: Push Me Pull You
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/488630/header.jpg?t=1468515979
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        180 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        180 MB available space</li></ul>
+    name: Push Me Pull You OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Push Me Pull You OST - $3.99
+        packageid: 110188
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Push Me Pull You OST
+    packages:
+    - 110188
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        180 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 14, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488630/ss_338a1c91b640981d479eeb3a8a65b616379e880f.1920x1080.jpg?t=1468515979
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488630/ss_338a1c91b640981d479eeb3a8a65b616379e880f.600x338.jpg?t=1468515979
+    short_description: The Push Me Pull You soundtrack features original music composed,
+      recorded, mixed and mastered by Dan Golding. The DLC download includes mp3 and
+      FLAC versions of each track.
+    steam_appid: 488630
+    support_info:
+      email: house@househou.se
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://pmpygame.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

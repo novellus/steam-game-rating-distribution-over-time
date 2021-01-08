@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: The original soundtrack to the 2D platformer adventure game, Herakles
+      and the Princess of Troy. It features over 18 minutes of epic music composed
+      by Adam Mullen. Traditional instruments such as lyre, soulful strings, raging
+      low brass, and thundering percussion will make you feel like the Greek hero
+      himself as you take on the army of Troy, mythical creatures, and heed the call
+      to adventure.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1103370/page_bg_generated_v6b.jpg?t=1581627838
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The original soundtrack to the 2D platformer adventure game,
+      Herakles and the Princess of Troy. It features over 18 minutes of epic music
+      composed by Adam Mullen. Traditional instruments such as lyre, soulful strings,
+      raging low brass, and thundering percussion will make you feel like the Greek
+      hero himself as you take on the army of Troy, mythical creatures, and heed the
+      call to adventure.
+    developers:
+    - Becker Games
+    fullgame:
+      appid: '1066010'
+      name: Herakles and the Princess of Troy
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1103370/header.jpg?t=1581627838
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256753736
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256753736/movie480.mp4?t=1581627828
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256753736/movie_max.mp4?t=1581627828
+      name: Steam Soundtrack Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256753736/movie.293x165.jpg?t=1581627828
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256753736/movie480.webm?t=1581627828
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256753736/movie_max.webm?t=1581627828
+    name: Herakles and the Princess of Troy OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Herakles and the Princess of Troy OST - $3.99
+        packageid: 372574
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Herakles and the Princess of Troy OST
+    packages:
+    - 372574
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 1, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1103370/ss_f20c8bb74fb13c2d33fa0851d628c83694063df1.1920x1080.jpg?t=1581627838
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1103370/ss_f20c8bb74fb13c2d33fa0851d628c83694063df1.600x338.jpg?t=1581627838
+    short_description: The original soundtrack to the 2D platformer adventure game,
+      Herakles and the Princess of Troy
+    steam_appid: 1103370
+    support_info:
+      email: support@beckergames.com
+      url: https://www.heraklesgame.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: https://www.heraklesgame.com
+  success: true
+reviews:
+  cursor: AoJw+c7rsewCfd3nzwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 49
+      num_reviews: 6
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198217463856'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '54476253'
+    review: Great soundtrack! I'd love to hear more.
+    steam_purchase: true
+    timestamp_created: 1565040474
+    timestamp_updated: 1565040474
+    voted_up: true
+    votes_funny: 1
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

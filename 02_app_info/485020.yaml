@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: "Experience the music of Lost Sea in the official soundtrack.\
+      \ Featuring original tracks composed by David Lugo, the OST contains 28 tracks\
+      \ with a combined total of about 57 minutes playtime.<br />\r\n<br />\r\nTracklist:<br\
+      \ />\r\n<br />\r\n01. Main Theme<br />\r\n02. Tutorial<br />\r\n03. Sailing\
+      \ Map<br />\r\n04. Jungle Zone 1<br />\r\n05. Jungle Zone 2<br />\r\n06. Jungle\
+      \ Zone 3<br />\r\n07. Jungle Zone 4<br />\r\n08. Desert Zone 1<br />\r\n09.\
+      \ Desert Zone 2<br />\r\n10. Swamp Zone 1<br />\r\n11. Swamp Zone 2<br />\r\n\
+      12. Snow Zone 1<br />\r\n13. Snow Zone 2<br />\r\n14. Snow Zone 3<br />\r\n\
+      15. Atlantis Zone 1<br />\r\n16. Atlantis Zone 2<br />\r\n17. Atlantis Zone\
+      \ 3<br />\r\n18. Atlantis Zone 4<br />\r\n19. Boss Battle 1<br />\r\n20. Boss\
+      \ Battle 2<br />\r\n21. Boss Battle 3<br />\r\n22. Boss Battle 4<br />\r\n23.\
+      \ Boss Battle 5<br />\r\n24. Boss Battle 6<br />\r\n25. Victory<br />\r\n26.\
+      \ Credits<br />\r\n27. Menu (Bonus Track)<br />\r\n28. Credits Alternative (Bonus\
+      \ Track)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/485020/page_bg_generated_v6b.jpg?t=1467732585
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Experience the music of Lost Sea in the official soundtrack.\
+      \ Featuring original tracks composed by David Lugo, the OST contains 28 tracks\
+      \ with a combined total of about 57 minutes playtime.<br />\r\n<br />\r\nTracklist:<br\
+      \ />\r\n<br />\r\n01. Main Theme<br />\r\n02. Tutorial<br />\r\n03. Sailing\
+      \ Map<br />\r\n04. Jungle Zone 1<br />\r\n05. Jungle Zone 2<br />\r\n06. Jungle\
+      \ Zone 3<br />\r\n07. Jungle Zone 4<br />\r\n08. Desert Zone 1<br />\r\n09.\
+      \ Desert Zone 2<br />\r\n10. Swamp Zone 1<br />\r\n11. Swamp Zone 2<br />\r\n\
+      12. Snow Zone 1<br />\r\n13. Snow Zone 2<br />\r\n14. Snow Zone 3<br />\r\n\
+      15. Atlantis Zone 1<br />\r\n16. Atlantis Zone 2<br />\r\n17. Atlantis Zone\
+      \ 3<br />\r\n18. Atlantis Zone 4<br />\r\n19. Boss Battle 1<br />\r\n20. Boss\
+      \ Battle 2<br />\r\n21. Boss Battle 3<br />\r\n22. Boss Battle 4<br />\r\n23.\
+      \ Boss Battle 5<br />\r\n24. Boss Battle 6<br />\r\n25. Victory<br />\r\n26.\
+      \ Credits<br />\r\n27. Menu (Bonus Track)<br />\r\n28. Credits Alternative (Bonus\
+      \ Track)"
+    developers:
+    - Eastasiasoft Limited
+    fullgame:
+      appid: '334280'
+      name: Lost Sea
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/485020/header.jpg?t=1467732585
+    is_free: false
+    legal_notice: "Copyright \xA9 Eastasiasoft Limited. All Rights Reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        120 MB available space</li></ul>
+    name: Lost Sea Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lost Sea Soundtrack - $4.99
+        packageid: 109024
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Lost Sea Soundtrack
+    packages:
+    - 109024
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/7/8.1/10<br></li><li><strong>Storage:</strong> 120 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Eastasiasoft Limited
+    release_date:
+      coming_soon: false
+      date: Jul 5, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/485020/ss_00944c1b076da183b32483f2beb305d247de2650.1920x1080.jpg?t=1467732585
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/485020/ss_00944c1b076da183b32483f2beb305d247de2650.600x338.jpg?t=1467732585
+    short_description: Experience the music of Lost Sea in the official soundtrack.
+      Featuring original tracks composed by David Lugo, the OST contains 28 tracks
+      with a combined total of about 57 minutes playtime.
+    steam_appid: 485020
+    support_info:
+      email: support@eastasiasoft.com
+      url: http://www.eastasiasoft.com
+    supported_languages: English
+    type: dlc
+    website: http://www.lostseagame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

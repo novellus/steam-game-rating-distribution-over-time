@@ -1,0 +1,196 @@
+details:
+  data:
+    about_the_game: <i>Secure the Skies</i> is a music-based aerial combat game. The
+      objective is to shoot out musical patterns to trap your opponent before they
+      do the same. <br><br><br><strong>This game contains:</strong><br><br><i>-8 Musical
+      Ships</i><br><i>-8 Unique Arenas</i><br><i>-Single-Player Mode</i><br><i>-Local
+      Split-screen Multiplayer</i><br><i>-Online 1v1 Multiplayer</i>
+    achievements:
+      highlighted:
+      - name: You did it!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/ef44bbc0841802e6abbf4a79c3011007d027d6e7.jpg
+      - name: Keep your head up
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/5fdcb874488620dadc9b08160ae5b91076882057.jpg
+      - name: Mechanophobia
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/f4096577752c6cd54e0f3bce4f7a65bd667b9909.jpg
+      - name: Urban Hell
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/3008b4bf2d90dd79ff58411165a6953901eeb27f.jpg
+      - name: Putting up numbers.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/eb7583adbf462ab337f77dae7ab079009803bc7d.jpg
+      - name: 'Behold: A new music maker.'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/7bd093e135d868fb4f17ca222cc70a42a88cd6dd.jpg
+      - name: Button Abuser
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/b8daab35ad16d3c99e575119b37a7d1a7ac48012.jpg
+      - name: The Legend is true.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1431550/6656723f54d735b09ee1191d1a611a414210927c.jpg
+      total: 8
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1431550/page_bg_generated_v6b.jpg?t=1605712947
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    demos:
+    - appid: 1431560
+      description: Demo
+    detailed_description: <i>Secure the Skies</i> is a music-based aerial combat game.
+      The objective is to shoot out musical patterns to trap your opponent before
+      they do the same. <br><br><br><strong>This game contains:</strong><br><br><i>-8
+      Musical Ships</i><br><i>-8 Unique Arenas</i><br><i>-Single-Player Mode</i><br><i>-Local
+      Split-screen Multiplayer</i><br><i>-Online 1v1 Multiplayer</i>
+    developers:
+    - Double Uppercut Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1431550/header.jpg?t=1605712947
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256809958
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256809958/movie480.mp4?t=1605696341
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256809958/movie_max.mp4?t=1605696341
+      name: STS Online gameplay 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256809958/movie.293x165.jpg?t=1605696341
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256809958/movie480_vp9.webm?t=1605696341
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256809958/movie_max_vp9.webm?t=1605696341
+    - highlight: true
+      id: 256809615
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256809615/movie480.mp4?t=1605521926
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256809615/movie_max.mp4?t=1605521926
+      name: STS splitscreen arena
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256809615/movie.293x165.jpg?t=1605521926
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256809615/movie480_vp9.webm?t=1605521926
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256809615/movie_max_vp9.webm?t=1605521926
+    name: Secure the Skies
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Secure the Skies - $2.99
+        packageid: 502868
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Secure the Skies
+    packages:
+    - 502868
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Sound Card:</strong> Required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Double Uppercut Games
+    release_date:
+      coming_soon: false
+      date: Nov 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_31e2ffe36c6c2655a11456fe75e44e4b301d9e3d.1920x1080.jpg?t=1605712947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_31e2ffe36c6c2655a11456fe75e44e4b301d9e3d.600x338.jpg?t=1605712947
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_5582f65194b137bb131048486d5bc7d7cec8a066.1920x1080.jpg?t=1605712947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_5582f65194b137bb131048486d5bc7d7cec8a066.600x338.jpg?t=1605712947
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_dfa39a0ba91d23b7410392bf316872cfa82a4a50.1920x1080.jpg?t=1605712947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_dfa39a0ba91d23b7410392bf316872cfa82a4a50.600x338.jpg?t=1605712947
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_4fd05ef3cdb516d4d30d277bbed90ed70252e262.1920x1080.jpg?t=1605712947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_4fd05ef3cdb516d4d30d277bbed90ed70252e262.600x338.jpg?t=1605712947
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_d8815c2e9eda21c7c65fc0110d96eefd4571174a.1920x1080.jpg?t=1605712947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_d8815c2e9eda21c7c65fc0110d96eefd4571174a.600x338.jpg?t=1605712947
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_da37017a95304ee67d8f0623082df9f678bb4786.1920x1080.jpg?t=1605712947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_da37017a95304ee67d8f0623082df9f678bb4786.600x338.jpg?t=1605712947
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_011f4b08a064db5d011ed941e8d627f390c223b5.1920x1080.jpg?t=1605712947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1431550/ss_011f4b08a064db5d011ed941e8d627f390c223b5.600x338.jpg?t=1605712947
+    short_description: Music-based aerial combat.
+    steam_appid: 1431550
+    support_info:
+      email: doubleuppercutgames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4gJD09PUCc/HPrwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1608465184
+      num_games_owned: 10
+      num_reviews: 1
+      playtime_at_review: 55
+      playtime_forever: 426
+      playtime_last_two_weeks: 0
+      steamid: '76561198860860833'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '79593235'
+    review: This is a rather lit house party game! Wish 2 people could play on the
+      same keyboard though.
+    steam_purchase: true
+    timestamp_created: 1605945557
+    timestamp_updated: 1605945557
+    voted_up: true
+    votes_funny: 0
+    votes_up: 5
+    weighted_vote_score: '0.598930478096008301'
+    written_during_early_access: false
+  success: 1

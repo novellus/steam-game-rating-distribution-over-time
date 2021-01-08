@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Presentation</h2><br>A 69-page strategy guide
+      for the game Fantasy Heroes 2, it contains:<br><ul class="bb_ul"><li>a complete
+      walkthrough<br></li><li>all detailed, annotated maps<br></li><li>battle hints
+      and strategies<br></li><li>full enemy database with stats and item drops</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1421110/page_bg_generated_v6b.jpg?t=1603383869
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">Presentation</h2><br>A 69-page strategy
+      guide for the game Fantasy Heroes 2, it contains:<br><ul class="bb_ul"><li>a
+      complete walkthrough<br></li><li>all detailed, annotated maps<br></li><li>battle
+      hints and strategies<br></li><li>full enemy database with stats and item drops</li></ul>
+    developers:
+    - Lumen
+    fullgame:
+      appid: '1420970'
+      name: Fantasy Heroes 2
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1421110/header.jpg?t=1603383869
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Fantasy Heroes 2 Guide
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Fantasy Heroes 2 Guide - $2.99
+        packageid: 498764
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Fantasy Heroes 2 Guide
+    packages:
+    - 498764
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/Windows Vista/Windows 7/8/10<br></li><li><strong>Processor:</strong>
+        2 GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 9.0 Compatible<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0
+        Compatible Sound</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Lumen
+    release_date:
+      coming_soon: false
+      date: Oct 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1421110/ss_ff5a03765335ea5214cb3c825e61512b03e4ddb0.1920x1080.jpg?t=1603383869
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1421110/ss_ff5a03765335ea5214cb3c825e61512b03e4ddb0.600x338.jpg?t=1603383869
+    short_description: A 69-page strategy guide for the game Fantasy Heroes 2.
+    steam_appid: 1421110
+    support_info:
+      email: aldorlea@googlemail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

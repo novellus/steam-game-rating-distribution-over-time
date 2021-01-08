@@ -1,0 +1,192 @@
+details:
+  data:
+    about_the_game: "A vector field is a uniform grid of vectors that can be used\
+      \ to influence the motion of particles. Basically, each point on a 3D grid imparts\
+      \ a force on nearby particles. Vector fields can be used to make super cool\
+      \ particle effects, but the fields aren't easy to make themselves: typically\
+      \ fields are painstakingly authored by some arcane process in 3D software or\
+      \ by a generator script. Painting them in VR is much more intuitive. Vector\
+      \ Field Painter lets you do that, and is also usable with keyboard and mouse\
+      \ if you don't have VR gear.<br />\r\n<br />\r\nThis tool lets you paint and\
+      \ visualise 3D vector fields in real-time, inspect the results from all directions,\
+      \ and save them out to .FGA format for use in other software, or your own games.\
+      \ You can also import your own existing vector fields, modify them in the tool\
+      \ and save them out again. This could save you a lot of time if you're already\
+      \ making use of vector fields, or make them more accessible to you if you aren't\
+      \ yet. <br />\r\n<br />\r\nThis tool is made in Unreal Engine 4 and includes\
+      \ its UE4 project files and code, so you can make your own modifications to\
+      \ the tool, or, if you're working on a UE4 project yourself, you can import\
+      \ the entire tool into your project and paint vector fields in your own environments,\
+      \ onto and around your own objects.<br />\r\n<br />\r\nThe tool is reliably\
+      \ performant editing vector fields up to a resolution of 16x16x16 (4096 grid\
+      \ points); performance creating vector fields at higher resolutions depends\
+      \ on your hardware and whether you're using VR mode. Default options go up to\
+      \ 64x64x64 (262,144 grid points); the UE4 project files can be modified to allow\
+      \ higher resolutions."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/684330/page_bg_generated_v6b.jpg?t=1508405270
+    categories:
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A vector field is a uniform grid of vectors that can be\
+      \ used to influence the motion of particles. Basically, each point on a 3D grid\
+      \ imparts a force on nearby particles. Vector fields can be used to make super\
+      \ cool particle effects, but the fields aren't easy to make themselves: typically\
+      \ fields are painstakingly authored by some arcane process in 3D software or\
+      \ by a generator script. Painting them in VR is much more intuitive. Vector\
+      \ Field Painter lets you do that, and is also usable with keyboard and mouse\
+      \ if you don't have VR gear.<br />\r\n<br />\r\nThis tool lets you paint and\
+      \ visualise 3D vector fields in real-time, inspect the results from all directions,\
+      \ and save them out to .FGA format for use in other software, or your own games.\
+      \ You can also import your own existing vector fields, modify them in the tool\
+      \ and save them out again. This could save you a lot of time if you're already\
+      \ making use of vector fields, or make them more accessible to you if you aren't\
+      \ yet. <br />\r\n<br />\r\nThis tool is made in Unreal Engine 4 and includes\
+      \ its UE4 project files and code, so you can make your own modifications to\
+      \ the tool, or, if you're working on a UE4 project yourself, you can import\
+      \ the entire tool into your project and paint vector fields in your own environments,\
+      \ onto and around your own objects.<br />\r\n<br />\r\nThe tool is reliably\
+      \ performant editing vector fields up to a resolution of 16x16x16 (4096 grid\
+      \ points); performance creating vector fields at higher resolutions depends\
+      \ on your hardware and whether you're using VR mode. Default options go up to\
+      \ 64x64x64 (262,144 grid points); the UE4 project files can be modified to allow\
+      \ higher resolutions."
+    developers:
+    - Impromptu Games
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/684330/header.jpg?t=1508405270
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256690835
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256690835/movie480.mp4?t=1500865247
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256690835/movie_max.mp4?t=1500865247
+      name: Demonstration
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256690835/movie.293x165.jpg?t=1500865247
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256690835/movie480.webm?t=1500865247
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256690835/movie_max.webm?t=1500865247
+    name: Impromptu Vector Field Painter
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Impromptu Vector Field Painter - $19.99
+        packageid: 195720
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Impromptu Vector Field Painter
+    packages:
+    - 195720
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> Intel i5-4590, AMD
+        FX 8350 equivalent or better.<br></li><li><strong>Memory:</strong> 4000 MB
+        RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970, AMD Radeon
+        R9 290 equivalent or better.<br></li><li><strong>DirectX:</strong> Version
+        11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1999
+      final_formatted: $19.99
+      initial: 1999
+      initial_formatted: ''
+    publishers:
+    - Impromptu Games
+    release_date:
+      coming_soon: false
+      date: Aug 12, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_2aebbf34dfc1ccb67447284abdf60f82fbb10b7f.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_2aebbf34dfc1ccb67447284abdf60f82fbb10b7f.600x338.jpg?t=1508405270
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_fdc68048a57bfd46657fce43f1e66733138c0795.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_fdc68048a57bfd46657fce43f1e66733138c0795.600x338.jpg?t=1508405270
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ffae4699534b501ceb45dc017a288949f08bdae2.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ffae4699534b501ceb45dc017a288949f08bdae2.600x338.jpg?t=1508405270
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_603a9d7a99edef9895b65bd02071541a2c7932ad.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_603a9d7a99edef9895b65bd02071541a2c7932ad.600x338.jpg?t=1508405270
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_0d76221459a5d36cca51c3cfb5a4f265eadd09ef.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_0d76221459a5d36cca51c3cfb5a4f265eadd09ef.600x338.jpg?t=1508405270
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ff3d35a9335e2236c0f9ea6f8ec4867615dd34d2.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ff3d35a9335e2236c0f9ea6f8ec4867615dd34d2.600x338.jpg?t=1508405270
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_954e3509a12b2584a9016e78d58b5efa59692de8.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_954e3509a12b2584a9016e78d58b5efa59692de8.600x338.jpg?t=1508405270
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_00acc2060184968022c0550b238a502d46352a50.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_00acc2060184968022c0550b238a502d46352a50.600x338.jpg?t=1508405270
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_a20a7252cf1ba4e9636659168ceec0a93326c43d.1920x1080.jpg?t=1508405270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_a20a7252cf1ba4e9636659168ceec0a93326c43d.600x338.jpg?t=1508405270
+    short_description: Paint 3D Vector Fields and save them out to .FGA format for
+      use in other software, or your own games.
+    steam_appid: 684330
+    support_info:
+      email: ''
+      url: http://www.impromptugames.com
+    supported_languages: English
+    type: game
+    website: https://impromptu-games.itch.io/impromptuvf
+  success: true
+reviews:
+  cursor: AoJ48YblwPYCfcXjuwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1548241725
+      num_games_owned: 108
+      num_reviews: 5
+      playtime_at_review: 10
+      playtime_forever: 10
+      playtime_last_two_weeks: 0
+      steamid: '76561198268884117'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82779229'
+    review: Awesome Software.... it simplifies the production of vector field.. Plz
+      link it in Unreal Engine Marketplace for increase its sales...
+    steam_purchase: true
+    timestamp_created: 1608491743
+    timestamp_updated: 1608491743
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

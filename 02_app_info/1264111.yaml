@@ -1,0 +1,396 @@
+details:
+  data:
+    about_the_game: "The Glass Apps feature will automatically make most windows have\
+      \ varying degrees of transparency depending on a variety of customizeable factors\
+      \ so that you can see through apps that you are not focused on.  Also included\
+      \ are some basic window management features which help you get the most out\
+      \ of your transparent app experience, including the ability to convert a window\
+      \ into a transparent click-through overlay that can still be moved, resized,\
+      \ closed, or reversed using the other included features.<br>This product is\
+      \ available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Glass Apps (\U0001F58C\U0001F47B), Increase\
+      \ Transparency (\U0001F5D4\U0001F47B+), Decrease Transparency (\U0001F5D4\U0001F47B\
+      -), Ghost Window (\U0001F5D4\U0001F47B\u261E), Unghost All Windows (\u274C\U0001F47B\
+      ), Move Window (\u21F3\u2B04), Resize Window (\u21F2), Close Window (\U0001F5D4\
+      \u274C), Always on Top Toggle (\U0001F5D4\u234F), Click Through Overlay (\U0001F47B\
+      \U0001F5D4\u234F)<h2 class=\"bb_tag\">Glass Apps (\U0001F58C\U0001F47B)</h2>The\
+      \ Glass Apps feature will automatically make most windows have varying degrees\
+      \ of transparency depending on a variety of customizeable factors so that you\
+      \ can see through apps that you are not focused on.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Glass Apps (Default: False)<br>When enabled, causes dynamic transparency\
+      \ in apps based on various configurable factors, including focus, prior focus,\
+      \ mouse position, and application type.<br></li><li>Glass Apps Default App Opacity\
+      \ (Default: 0.75)<br>Adjusts the transparency of the windows which are not already\
+      \ affected by another transparency option.  Values closer to 1 are less transparent.\
+      \  Values closer to 0 are more transparent.<br></li><li>Glass Apps Current App\
+      \ Opacity (Default: 1)<br>Adjusts the transparency of the focused window.  Values\
+      \ closer to 1 are less transparent.  Values closer to 0 are more transparent.<br></li><li>Glass\
+      \ Apps Previous App Opacity (Default: 0.9)<br>Adjusts the transparency of the\
+      \ previously focused window.  Values closer to 1 are less transparent.  Values\
+      \ closer to 0 are more transparent.<br></li><li>Glass Apps Min Opacity (Default:\
+      \ 0.05)<br>This option sets the minimum amount of opacity (the maximum amount\
+      \ of transparency) that the tool will set for any app.  This prevents you from\
+      \ accidently making a window entirely invisible which can be tricky to restore.<br></li><li>Glass\
+      \ Apps Opaque Mouse Over (Default: True)<br>When enabled, the tool will remove\
+      \ transparency from windows while the mouse cursor is over them.<br></li><li>Glass\
+      \ Apps Video Auto Detection (Default: False)<br>If enabled, the tool will try\
+      \ to detect when windows are playing video and apply video specific transparency\
+      \ settings (no transparency by default).  Currently this feature only checks\
+      \ for an active audio session, and if found assumes there is video, so it will\
+      \ detect audio only windows as playing video also, and potentially not detect\
+      \ windows that are playing videos with no audio.  This is potentially helpful\
+      \ when the window title cannot reliably indicate whether or not you are looking\
+      \ at a video.<br></li><li>Glass Apps Video Title Indicators (Default: Vimeo,\
+      \ YouTube, Twitch)<br>If any of these terms are found in the title of a window,\
+      \ it will be considered a video window.<br></li><li>Glass Apps Video Title Indicator\
+      \ Exceptions (Default: Pandora, Spotify)<br>If any of these terms are found\
+      \ in the title of a window, it will not be considered a video window.  Also,\
+      \ these exceptions will override video auto detection when it is enabled.<br></li><li>Glass\
+      \ Apps Current Video App Opacity (Default: 1)<br>Adjusts the transparency of\
+      \ the focused window, overridden when video is detected.  Values closer to 1\
+      \ are less transparent.  Values closer to 0 are more transparent.<br></li><li>Glass\
+      \ Apps Default Video App Opacity (Default: 1)<br>Adjusts the transparency of\
+      \ the video detected windows which are not already affected by another transparency\
+      \ option.  Values closer to 1 are less transparent.  Values closer to 0 are\
+      \ more transparent.<br></li><li>Start Menu Transparency Adjustments (Default:\
+      \ False)<br>This option can enable or prevent Simplode Suite from making adjustments\
+      \ to the Start Menu's transparency settings.  The developer's personal preference\
+      \ is to leave the Start Menu's transparency settings alone for the Glass Apps\
+      \ feature.</li></ul><h2 class=\"bb_tag\">Increase Transparency (\U0001F5D4\U0001F47B\
+      +)</h2>Makes the window more see-through.<br><ul class=\"bb_ul\"><li>Some windows\
+      \ cannot have their transparency externally adjusted because they manage their\
+      \ own transparency</li></ul>Settings:<ul class=\"bb_ul\"><li>Glass Apps Transparency\
+      \ Adjustment Step Size (Default: 0.05)<br>This option adjusts the amount that\
+      \ transparency changes when you tell the tool to increase or decrease transparency\
+      \ once.</li></ul><h2 class=\"bb_tag\">Decrease Transparency (\U0001F5D4\U0001F47B\
+      -)</h2>Makes the window less see-through.<br><ul class=\"bb_ul\"><li>Some windows\
+      \ cannot have their transparency externally adjusted because they manage their\
+      \ own transparency</li></ul>Settings:<ul class=\"bb_ul\"><li>Glass Apps Min\
+      \ Opacity (Default: 0.05)<br>This option sets the minimum amount of opacity\
+      \ (the maximum amount of transparency) that the tool will set for any app. \
+      \ This prevents you from accidently making a window entirely invisible which\
+      \ can be tricky to restore.<br></li><li>Glass Apps Transparency Adjustment Step\
+      \ Size (Default: 0.05)<br>This option adjusts the amount that transparency changes\
+      \ when you tell the tool to increase or decrease transparency once.</li></ul><h2\
+      \ class=\"bb_tag\">Ghost Window (\U0001F5D4\U0001F47B\u261E)</h2>Toggles window\
+      \ click-through.<br><ul class=\"bb_ul\"><li>Click-through windows allow clicks\
+      \ and touches to pass through them.<br></li><li>Toggling this off is a bit tricky.\
+      \  To make it easier you can use the Unghost All Windows (\u274C\U0001F47B)\
+      \ feature.  There are a couple ways you could do this for a specific window.\
+      \  Clicking the button will impact the active window, so you could activate\
+      \ the window first using the task ring or the task bar.  Alternatively, click\
+      \ the button and hold the click as if you are dragging the button.  While you\
+      \ keep the left mouse button pressed, you can right click on any window to perform\
+      \ the action on it.  This works with most window targeted actions.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Ghost Window Control Key Target Toggle (Default: True)<br>When\
+      \ enabled, holding the control key while performing a secondary action can select\
+      \ ghost windows.  The ghost window action itself will be affected in reverse,\
+      \ as it can select ghost windows by default.  For reference, a secondary action\
+      \ is performed by holding a click on an action button and then using the other\
+      \ mouse button to click on a window.</li></ul><h2 class=\"bb_tag\">Unghost All\
+      \ Windows (\u274C\U0001F47B)</h2>Reset all ghost windows to default states.<h2\
+      \ class=\"bb_tag\">Move Window (\u21F3\u2B04)</h2>Move the window.<br><ul class=\"\
+      bb_ul\"><li>Not compatible with either Multi Touch Window Resize or Mouse Right\
+      \ Button Chord Resize features.  These features must be initiated using the\
+      \ window title bar dragging.</li></ul><h2 class=\"bb_tag\">Resize Window (\u21F2\
+      )</h2>Resize the window.<br><br>Settings:<ul class=\"bb_ul\"><li>Multi Touch\
+      \ Window Resize (Default: True)<br>When moving a window with a multi-touch capable\
+      \ device, you can resize using an additional touch.  The top left corner of\
+      \ the window will be moved according to your first touch, and the bottom right\
+      \ corner of the window will be moved according to your second touch, so you\
+      \ can effectively pinch the window smaller or stretch the window bigger with\
+      \ two fingers.  When using touch interfaces, this method may be much easier\
+      \ than trying to precisely touch a window's edge for resizing, as the top bar\
+      \ of a window is usually set aside for movement and is much larger than the\
+      \ resizable window edges.<br></li><li>Input Grabber (Default: True)<br>If enabled,\
+      \ the program will use an invisible window at times to capture input for some\
+      \ features.  If disabled, some features will not be able to work.<br></li><li>Mouse\
+      \ Right Button Chord Resize (Default: Dynamic)<br>When moving a window, you\
+      \ can resize it by additionally pressing the right mouse button.  This means\
+      \ you will start by clicking the top bar for movement like normal, but you will\
+      \ then press the right mouse button also, having both the left mouse button\
+      \ and the right mouse button pressed at the same time, like a musical chord\
+      \ of notes.  When you do this, the window will anchor at the corner farthest\
+      \ from the cursor, allowing you to expand or contract the window at the closest\
+      \ corner.  This method may be easier than trying to precisely click on a window's\
+      \ edge for resizing, as the top bar of a window is usually set aside for movement\
+      \ and is much larger than the resizable window edges.<br> - Disabled<br> - Dynamic:\
+      \ Mouse Chord Resize will anchor to the farthest corner of the window from the\
+      \ start position.<br> - Bottom Right: Mouse Chord Resize will anchor to the\
+      \ bottom right corner of the window.<br> - Top Left: Mouse Chord Resize will\
+      \ anchor to the top left corner of the window.<br> - Top Right: Mouse Chord\
+      \ Resize will anchor to the top right corner of the window.<br> - Bottom Left:\
+      \ Mouse Chord Resize will anchor to the bottom right corner of the window.<br></li><li>Resize\
+      \ Window Override Min Max (Default: False)<br>When enabled, the Resize Window\
+      \ action will ignore minimum and maximum window sizes.  You might end up making\
+      \ a window unusable if this is enabled.<br></li><li>Resize Window Context Inclusion\
+      \ (Default: True)<br>Some windows in the tool do not have large enough borders\
+      \ to make them drag resizable.  When enabled, this option tries to include a\
+      \ resize button in relevant menus for these windows.</li></ul><h2 class=\"bb_tag\"\
+      >Close Window (\U0001F5D4\u274C)</h2>Asks the active window to close normally.<br><ul\
+      \ class=\"bb_ul\"><li>If you recently switched windows, the first request is\
+      \ ignored as a safety precaution.  The safety precaution turns off temporarily\
+      \ after activation, allowing you to go on a window closing spree if you want.</li></ul><h2\
+      \ class=\"bb_tag\">Always on Top Toggle (\U0001F5D4\u234F)</h2>Toggles always\
+      \ on top mode for the active window.<h2 class=\"bb_tag\">Click Through Overlay\
+      \ (\U0001F47B\U0001F5D4\u234F)</h2>Converts a window into a click through overlay\
+      \ window.<br><ul class=\"bb_ul\"><li>Click through overlay windows are partially\
+      \ transparent, sit on top of other windows, and do not respond to mouse clicks.<br></li><li>You\
+      \ can also achieve the same results using a combination of other Simplode Suite\
+      \ features, but this feature conveniently manages all aspects in one action.<br></li><li>This\
+      \ feature has a sliding secondary action for controlling the amount of transparency\
+      \ of the window.<br></li><li>Sliding secondary actions can be triggered in two\
+      \ ways.  Secondary actions are available when you click and hold your primary\
+      \ mouse button on an action button.  You can then move your mouse to your target\
+      \ and then also click and hold the secondary mouse button, where moving your\
+      \ mouse left, right, up and down will make adjustments based on the action.\
+      \  On multi-touch capable touch screens, you can trigger a sliding secondary\
+      \ action by holding one finger on the action button and then sliding another\
+      \ finger on your target.</li></ul>Settings:<ul class=\"bb_ul\"><li>Click Through\
+      \ Overlay Default Opacity (Default: 0.6)<br>This option adjusts how transparent\
+      \ a click through overlay window will be.  A value of 0 will be entirely invisible,\
+      \ and a value of 1 will be fully opaque.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1264111/page_bg_generated_v6b.jpg?t=1606277466
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Glass Apps feature will automatically make most windows\
+      \ have varying degrees of transparency depending on a variety of customizeable\
+      \ factors so that you can see through apps that you are not focused on.  Also\
+      \ included are some basic window management features which help you get the\
+      \ most out of your transparent app experience, including the ability to convert\
+      \ a window into a transparent click-through overlay that can still be moved,\
+      \ resized, closed, or reversed using the other included features.<br>This product\
+      \ is available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Glass Apps (\U0001F58C\U0001F47B), Increase\
+      \ Transparency (\U0001F5D4\U0001F47B+), Decrease Transparency (\U0001F5D4\U0001F47B\
+      -), Ghost Window (\U0001F5D4\U0001F47B\u261E), Unghost All Windows (\u274C\U0001F47B\
+      ), Move Window (\u21F3\u2B04), Resize Window (\u21F2), Close Window (\U0001F5D4\
+      \u274C), Always on Top Toggle (\U0001F5D4\u234F), Click Through Overlay (\U0001F47B\
+      \U0001F5D4\u234F)<h2 class=\"bb_tag\">Glass Apps (\U0001F58C\U0001F47B)</h2>The\
+      \ Glass Apps feature will automatically make most windows have varying degrees\
+      \ of transparency depending on a variety of customizeable factors so that you\
+      \ can see through apps that you are not focused on.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Glass Apps (Default: False)<br>When enabled, causes dynamic transparency\
+      \ in apps based on various configurable factors, including focus, prior focus,\
+      \ mouse position, and application type.<br></li><li>Glass Apps Default App Opacity\
+      \ (Default: 0.75)<br>Adjusts the transparency of the windows which are not already\
+      \ affected by another transparency option.  Values closer to 1 are less transparent.\
+      \  Values closer to 0 are more transparent.<br></li><li>Glass Apps Current App\
+      \ Opacity (Default: 1)<br>Adjusts the transparency of the focused window.  Values\
+      \ closer to 1 are less transparent.  Values closer to 0 are more transparent.<br></li><li>Glass\
+      \ Apps Previous App Opacity (Default: 0.9)<br>Adjusts the transparency of the\
+      \ previously focused window.  Values closer to 1 are less transparent.  Values\
+      \ closer to 0 are more transparent.<br></li><li>Glass Apps Min Opacity (Default:\
+      \ 0.05)<br>This option sets the minimum amount of opacity (the maximum amount\
+      \ of transparency) that the tool will set for any app.  This prevents you from\
+      \ accidently making a window entirely invisible which can be tricky to restore.<br></li><li>Glass\
+      \ Apps Opaque Mouse Over (Default: True)<br>When enabled, the tool will remove\
+      \ transparency from windows while the mouse cursor is over them.<br></li><li>Glass\
+      \ Apps Video Auto Detection (Default: False)<br>If enabled, the tool will try\
+      \ to detect when windows are playing video and apply video specific transparency\
+      \ settings (no transparency by default).  Currently this feature only checks\
+      \ for an active audio session, and if found assumes there is video, so it will\
+      \ detect audio only windows as playing video also, and potentially not detect\
+      \ windows that are playing videos with no audio.  This is potentially helpful\
+      \ when the window title cannot reliably indicate whether or not you are looking\
+      \ at a video.<br></li><li>Glass Apps Video Title Indicators (Default: Vimeo,\
+      \ YouTube, Twitch)<br>If any of these terms are found in the title of a window,\
+      \ it will be considered a video window.<br></li><li>Glass Apps Video Title Indicator\
+      \ Exceptions (Default: Pandora, Spotify)<br>If any of these terms are found\
+      \ in the title of a window, it will not be considered a video window.  Also,\
+      \ these exceptions will override video auto detection when it is enabled.<br></li><li>Glass\
+      \ Apps Current Video App Opacity (Default: 1)<br>Adjusts the transparency of\
+      \ the focused window, overridden when video is detected.  Values closer to 1\
+      \ are less transparent.  Values closer to 0 are more transparent.<br></li><li>Glass\
+      \ Apps Default Video App Opacity (Default: 1)<br>Adjusts the transparency of\
+      \ the video detected windows which are not already affected by another transparency\
+      \ option.  Values closer to 1 are less transparent.  Values closer to 0 are\
+      \ more transparent.<br></li><li>Start Menu Transparency Adjustments (Default:\
+      \ False)<br>This option can enable or prevent Simplode Suite from making adjustments\
+      \ to the Start Menu's transparency settings.  The developer's personal preference\
+      \ is to leave the Start Menu's transparency settings alone for the Glass Apps\
+      \ feature.</li></ul><h2 class=\"bb_tag\">Increase Transparency (\U0001F5D4\U0001F47B\
+      +)</h2>Makes the window more see-through.<br><ul class=\"bb_ul\"><li>Some windows\
+      \ cannot have their transparency externally adjusted because they manage their\
+      \ own transparency</li></ul>Settings:<ul class=\"bb_ul\"><li>Glass Apps Transparency\
+      \ Adjustment Step Size (Default: 0.05)<br>This option adjusts the amount that\
+      \ transparency changes when you tell the tool to increase or decrease transparency\
+      \ once.</li></ul><h2 class=\"bb_tag\">Decrease Transparency (\U0001F5D4\U0001F47B\
+      -)</h2>Makes the window less see-through.<br><ul class=\"bb_ul\"><li>Some windows\
+      \ cannot have their transparency externally adjusted because they manage their\
+      \ own transparency</li></ul>Settings:<ul class=\"bb_ul\"><li>Glass Apps Min\
+      \ Opacity (Default: 0.05)<br>This option sets the minimum amount of opacity\
+      \ (the maximum amount of transparency) that the tool will set for any app. \
+      \ This prevents you from accidently making a window entirely invisible which\
+      \ can be tricky to restore.<br></li><li>Glass Apps Transparency Adjustment Step\
+      \ Size (Default: 0.05)<br>This option adjusts the amount that transparency changes\
+      \ when you tell the tool to increase or decrease transparency once.</li></ul><h2\
+      \ class=\"bb_tag\">Ghost Window (\U0001F5D4\U0001F47B\u261E)</h2>Toggles window\
+      \ click-through.<br><ul class=\"bb_ul\"><li>Click-through windows allow clicks\
+      \ and touches to pass through them.<br></li><li>Toggling this off is a bit tricky.\
+      \  To make it easier you can use the Unghost All Windows (\u274C\U0001F47B)\
+      \ feature.  There are a couple ways you could do this for a specific window.\
+      \  Clicking the button will impact the active window, so you could activate\
+      \ the window first using the task ring or the task bar.  Alternatively, click\
+      \ the button and hold the click as if you are dragging the button.  While you\
+      \ keep the left mouse button pressed, you can right click on any window to perform\
+      \ the action on it.  This works with most window targeted actions.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Ghost Window Control Key Target Toggle (Default: True)<br>When\
+      \ enabled, holding the control key while performing a secondary action can select\
+      \ ghost windows.  The ghost window action itself will be affected in reverse,\
+      \ as it can select ghost windows by default.  For reference, a secondary action\
+      \ is performed by holding a click on an action button and then using the other\
+      \ mouse button to click on a window.</li></ul><h2 class=\"bb_tag\">Unghost All\
+      \ Windows (\u274C\U0001F47B)</h2>Reset all ghost windows to default states.<h2\
+      \ class=\"bb_tag\">Move Window (\u21F3\u2B04)</h2>Move the window.<br><ul class=\"\
+      bb_ul\"><li>Not compatible with either Multi Touch Window Resize or Mouse Right\
+      \ Button Chord Resize features.  These features must be initiated using the\
+      \ window title bar dragging.</li></ul><h2 class=\"bb_tag\">Resize Window (\u21F2\
+      )</h2>Resize the window.<br><br>Settings:<ul class=\"bb_ul\"><li>Multi Touch\
+      \ Window Resize (Default: True)<br>When moving a window with a multi-touch capable\
+      \ device, you can resize using an additional touch.  The top left corner of\
+      \ the window will be moved according to your first touch, and the bottom right\
+      \ corner of the window will be moved according to your second touch, so you\
+      \ can effectively pinch the window smaller or stretch the window bigger with\
+      \ two fingers.  When using touch interfaces, this method may be much easier\
+      \ than trying to precisely touch a window's edge for resizing, as the top bar\
+      \ of a window is usually set aside for movement and is much larger than the\
+      \ resizable window edges.<br></li><li>Input Grabber (Default: True)<br>If enabled,\
+      \ the program will use an invisible window at times to capture input for some\
+      \ features.  If disabled, some features will not be able to work.<br></li><li>Mouse\
+      \ Right Button Chord Resize (Default: Dynamic)<br>When moving a window, you\
+      \ can resize it by additionally pressing the right mouse button.  This means\
+      \ you will start by clicking the top bar for movement like normal, but you will\
+      \ then press the right mouse button also, having both the left mouse button\
+      \ and the right mouse button pressed at the same time, like a musical chord\
+      \ of notes.  When you do this, the window will anchor at the corner farthest\
+      \ from the cursor, allowing you to expand or contract the window at the closest\
+      \ corner.  This method may be easier than trying to precisely click on a window's\
+      \ edge for resizing, as the top bar of a window is usually set aside for movement\
+      \ and is much larger than the resizable window edges.<br> - Disabled<br> - Dynamic:\
+      \ Mouse Chord Resize will anchor to the farthest corner of the window from the\
+      \ start position.<br> - Bottom Right: Mouse Chord Resize will anchor to the\
+      \ bottom right corner of the window.<br> - Top Left: Mouse Chord Resize will\
+      \ anchor to the top left corner of the window.<br> - Top Right: Mouse Chord\
+      \ Resize will anchor to the top right corner of the window.<br> - Bottom Left:\
+      \ Mouse Chord Resize will anchor to the bottom right corner of the window.<br></li><li>Resize\
+      \ Window Override Min Max (Default: False)<br>When enabled, the Resize Window\
+      \ action will ignore minimum and maximum window sizes.  You might end up making\
+      \ a window unusable if this is enabled.<br></li><li>Resize Window Context Inclusion\
+      \ (Default: True)<br>Some windows in the tool do not have large enough borders\
+      \ to make them drag resizable.  When enabled, this option tries to include a\
+      \ resize button in relevant menus for these windows.</li></ul><h2 class=\"bb_tag\"\
+      >Close Window (\U0001F5D4\u274C)</h2>Asks the active window to close normally.<br><ul\
+      \ class=\"bb_ul\"><li>If you recently switched windows, the first request is\
+      \ ignored as a safety precaution.  The safety precaution turns off temporarily\
+      \ after activation, allowing you to go on a window closing spree if you want.</li></ul><h2\
+      \ class=\"bb_tag\">Always on Top Toggle (\U0001F5D4\u234F)</h2>Toggles always\
+      \ on top mode for the active window.<h2 class=\"bb_tag\">Click Through Overlay\
+      \ (\U0001F47B\U0001F5D4\u234F)</h2>Converts a window into a click through overlay\
+      \ window.<br><ul class=\"bb_ul\"><li>Click through overlay windows are partially\
+      \ transparent, sit on top of other windows, and do not respond to mouse clicks.<br></li><li>You\
+      \ can also achieve the same results using a combination of other Simplode Suite\
+      \ features, but this feature conveniently manages all aspects in one action.<br></li><li>This\
+      \ feature has a sliding secondary action for controlling the amount of transparency\
+      \ of the window.<br></li><li>Sliding secondary actions can be triggered in two\
+      \ ways.  Secondary actions are available when you click and hold your primary\
+      \ mouse button on an action button.  You can then move your mouse to your target\
+      \ and then also click and hold the secondary mouse button, where moving your\
+      \ mouse left, right, up and down will make adjustments based on the action.\
+      \  On multi-touch capable touch screens, you can trigger a sliding secondary\
+      \ action by holding one finger on the action button and then sliding another\
+      \ finger on your target.</li></ul>Settings:<ul class=\"bb_ul\"><li>Click Through\
+      \ Overlay Default Opacity (Default: 0.6)<br>This option adjusts how transparent\
+      \ a click through overlay window will be.  A value of 0 will be entirely invisible,\
+      \ and a value of 1 will be fully opaque.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1264111/header.jpg?t=1606277466
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Glass Apps
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Glass Apps - $4.99
+        packageid: 439571
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Simplode Suite - Glass Apps
+    packages:
+    - 439571
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1264111/ss_02799e222128bbf26a424c94c27c9d1897ae9fea.1920x1080.jpg?t=1606277466
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1264111/ss_02799e222128bbf26a424c94c27c9d1897ae9fea.600x338.jpg?t=1606277466
+    short_description: Glass Apps can dynamically adjust transparency of most windows
+      depending on a variety of customizeable factors so that you can see through
+      unfocused apps. You can also convert a window into a transparent click-through
+      overlay that can still be adjusted using the other included features.
+    steam_appid: 1264111
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Arabic, Bulgarian, Czech,
+      Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish,
+      Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin
+      America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese,
+      Spanish - Spain, Portuguese
+    type: dlc
+    website: https://simplode.com/package-glass-apps
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

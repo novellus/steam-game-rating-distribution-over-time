@@ -1,0 +1,182 @@
+details:
+  data:
+    about_the_game: "<p>Now that your Dungeon\u2019s been defended, prepare to venture\
+      \ outside into the realms of Etheria in The Quest for the Lost Eternia Shards!\
+      \ Explore the Mistymire forest to recover the Purple Eternia Shard, and experience\
+      \ 4 all new missions, story cinematics, enemies, and more:</p>\n\t\t\t\t\t\t\
+      <h2>Key Features:</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>The Quest for the\
+      \ Lost Eternia Shards: Part 1 Campaign Mission\n\t\t\t\t\t\t<li>Portal Defense\
+      \ Challenge Mission\n\t\t\t\t\t\t<li>Lifestream Hollow Uber Monster Fest Challenge\
+      \ Mission\n\t\t\t\t\t\t<li>Lifestream Hollow PvP Battleground\n\t\t\t\t\t\t\
+      <li>Spiderling Enemy\n\t\t\t\t\t\t<li>Queen Spider Boss\n\t\t\t\t\t\t<li>10\
+      \ ALL NEW Weapons\n\t\t\t\t\t\t<li>New \u201CMythical\u201D Quality Loot Drops\n\
+      \t\t\t\t\t\t<li>New Shroomite Familiar\n\t\t\t\t\t\t<li>Unique Ranger Outfit\n\
+      \t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<p>Purchase all 4 DLCs when they are released\
+      \ to unlock extra content as well as Nightmare Mode; an even harder difficulty\
+      \ rewarding new loot and incorporating all of the released enemies throughout\
+      \ the core-campaign. Early access to Nightmare mode is only for people who purchase\
+      \ the complete pack.</p>\n\t\t\t\t\t\t"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/204381/page_bg_generated_v6b.jpg?t=1447355134
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<p>Now that your Dungeon\u2019s been defended, prepare\
+      \ to venture outside into the realms of Etheria in The Quest for the Lost Eternia\
+      \ Shards! Explore the Mistymire forest to recover the Purple Eternia Shard,\
+      \ and experience 4 all new missions, story cinematics, enemies, and more:</p>\n\
+      \t\t\t\t\t\t<h2>Key Features:</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>The Quest\
+      \ for the Lost Eternia Shards: Part 1 Campaign Mission\n\t\t\t\t\t\t<li>Portal\
+      \ Defense Challenge Mission\n\t\t\t\t\t\t<li>Lifestream Hollow Uber Monster\
+      \ Fest Challenge Mission\n\t\t\t\t\t\t<li>Lifestream Hollow PvP Battleground\n\
+      \t\t\t\t\t\t<li>Spiderling Enemy\n\t\t\t\t\t\t<li>Queen Spider Boss\n\t\t\t\t\
+      \t\t<li>10 ALL NEW Weapons\n\t\t\t\t\t\t<li>New \u201CMythical\u201D Quality\
+      \ Loot Drops\n\t\t\t\t\t\t<li>New Shroomite Familiar\n\t\t\t\t\t\t<li>Unique\
+      \ Ranger Outfit\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<p>Purchase all 4 DLCs when\
+      \ they are released to unlock extra content as well as Nightmare Mode; an even\
+      \ harder difficulty rewarding new loot and incorporating all of the released\
+      \ enemies throughout the core-campaign. Early access to Nightmare mode is only\
+      \ for people who purchase the complete pack.</p>\n\t\t\t\t\t\t"
+    developers:
+    - Trendy Entertainment
+    fullgame:
+      appid: '65800'
+      name: Dungeon Defenders
+    genres:
+    - description: Action
+      id: '1'
+    - description: RPG
+      id: '3'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/204381/header.jpg?t=1447355134
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Dungeon Defenders - Quest for the Lost Eternia Shards Part 1
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dungeon Defenders Lost Eternia Shards DLC Part 1 - <span class="discount_original_price">$3.99</span>
+          $0.99
+        packageid: 13013
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dungeon Defenders Lost Eternia Shards Complete DLC - <span class="discount_original_price">$12.99</span>
+          $3.24
+        packageid: 12994
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 324
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dungeon Defenders Collection (Summer-Winter 2012) - <span class="discount_original_price">$49.99</span>
+          $12.49
+        packageid: 15481
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 1249
+      title: Buy Dungeon Defenders - Quest for the Lost Eternia Shards Part 1
+    packages:
+    - 13013
+    - 12994
+    - 15481
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 99
+      final_formatted: $0.99
+      initial: 399
+      initial_formatted: $3.99
+    publishers:
+    - Trendy Entertainment
+    release_date:
+      coming_soon: false
+      date: Dec 15, 2011
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_e727c8ba3fdf4f021c5843404877d454b3566f91.1920x1080.jpg?t=1447355134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_e727c8ba3fdf4f021c5843404877d454b3566f91.600x338.jpg?t=1447355134
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_338776a3581b8c8b03cef5f89940a9b4d42887e5.1920x1080.jpg?t=1447355134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_338776a3581b8c8b03cef5f89940a9b4d42887e5.600x338.jpg?t=1447355134
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_fd53f74fb70665cf0206856d044a07f7a5729b0d.1920x1080.jpg?t=1447355134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_fd53f74fb70665cf0206856d044a07f7a5729b0d.600x338.jpg?t=1447355134
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_6d05e3086902a2cd5577c31c9a68ea1a9d9b5571.1920x1080.jpg?t=1447355134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_6d05e3086902a2cd5577c31c9a68ea1a9d9b5571.600x338.jpg?t=1447355134
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_51e59414733ea63a9da9b88e3661d183c01cecbe.1920x1080.jpg?t=1447355134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/204381/ss_51e59414733ea63a9da9b88e3661d183c01cecbe.600x338.jpg?t=1447355134
+    short_description: Venture outside into the realms of Etheria in The Quest for
+      the Lost Eternia Shards!
+    steam_appid: 204381
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwxILiy90Ce8SzgQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 9 user reviews
+    total_negative: 4
+    total_positive: 5
+    total_reviews: 9
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2463
+      num_reviews: 2804
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198043049777'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '33922123'
+    review: "N\xE3o somaliano\nE n\xE3o o Caribe\nEu sou um novo pirata russo.\nE\
+      \ n\xE3o brasileiro,\nE n\xE3o indiano,\nEu sou um novo pirata russo.\nSim,\
+      \ sou quem sou, sou um novo pirata."
+    steam_purchase: true
+    timestamp_created: 1501485864
+    timestamp_updated: 1501485864
+    voted_up: false
+    votes_funny: 0
+    votes_up: 6
+    weighted_vote_score: '0.565051555633544922'
+    written_during_early_access: false
+  success: 1

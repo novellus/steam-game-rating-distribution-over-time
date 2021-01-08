@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: This DLC provides the <strong>Horns of Fear Soundtrack</strong>,
+      in mp3 320 kbps format.<br><br><strong>Track Listing:</strong><br><br>1) Title<br>2)
+      Opening (Feat. Mioune)<br>3) Safe<br>4) Rooms<br>5) Outside<br>6) Enigmatis<br>7)
+      Keeper<br>8) Manor<br>9) Chase<br>10) Gryons<br>11) Shut Down<br>12) Horror<br>13)
+      Ending (Feat. Mioune)<br><br>Music by <strong>Vinsfeld</strong>.<br><br>Songs
+      can be found in the game's Steam folder:<br>...\Steam\steamapps\common\Horns
+      of Fear\OST
+    background: https://steamcdn-a.akamaihd.net/steam/apps/877100/page_bg_generated_v6b.jpg?t=1528383754
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC provides the <strong>Horns of Fear Soundtrack</strong>,
+      in mp3 320 kbps format.<br><br><strong>Track Listing:</strong><br><br>1) Title<br>2)
+      Opening (Feat. Mioune)<br>3) Safe<br>4) Rooms<br>5) Outside<br>6) Enigmatis<br>7)
+      Keeper<br>8) Manor<br>9) Chase<br>10) Gryons<br>11) Shut Down<br>12) Horror<br>13)
+      Ending (Feat. Mioune)<br><br>Music by <strong>Vinsfeld</strong>.<br><br>Songs
+      can be found in the game's Steam folder:<br>...\Steam\steamapps\common\Horns
+      of Fear\OST
+    developers:
+    - Pixoala
+    fullgame:
+      appid: '720940'
+      name: Horns of Fear
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Gore
+      id: '74'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/877100/header.jpg?t=1528383754
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Horns of Fear - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Horns of Fear - Soundtrack - <span class="discount_original_price">$2.99</span>
+          $1.79
+        packageid: 277735
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 179
+      title: Buy Horns of Fear - Soundtrack
+    packages:
+    - 277735
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong> Intel
+        Core2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Storage:</strong> 90
+        MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 179
+      final_formatted: $1.79
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 7, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/877100/ss_3f24aadb2f6583449d168db5e16d4a95b9e7cb63.1920x1080.jpg?t=1528383754
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/877100/ss_3f24aadb2f6583449d168db5e16d4a95b9e7cb63.600x338.jpg?t=1528383754
+    short_description: This DLC provides the Horns of Fear Soundtrack.
+    steam_appid: 877100
+    support_info:
+      email: hornsoffear@hotmail.com
+      url: ''
+    supported_languages: English, French
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

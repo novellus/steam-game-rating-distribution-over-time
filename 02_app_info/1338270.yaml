@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: Castle Kong is free to play. You start with 10 free coins and
+      every day we give you a bonus coin.   However you cannot play beyond Level 4
+      of 22.  To play beyond that you need to purchase this DLC which downloads/unlocks
+      all remaining levels and the epic Kill Screen!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1338270/page_bg_generated_v6b.jpg?t=1591395722
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Castle Kong is free to play. You start with 10 free coins
+      and every day we give you a bonus coin.   However you cannot play beyond Level
+      4 of 22.  To play beyond that you need to purchase this DLC which downloads/unlocks
+      all remaining levels and the epic Kill Screen!
+    developers:
+    - Drowning Monkeys Games
+    - Prime Time Studio
+    fullgame:
+      appid: '877330'
+      name: Castle Kong
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1338270/header.jpg?t=1591395722
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Castle Kong - Full Game Unlock
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Castle Kong - Full Game Unlock - $14.99
+        packageid: 467871
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Castle Kong - Full Game Unlock
+    packages:
+    - 467871
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7, 8, 10<br></li><li><strong>Processor:</strong> Core i3 &amp; Up<br></li><li><strong>Memory:</strong>
+        4096 MB RAM<br></li><li><strong>Graphics:</strong> Standard Card<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Drowning Monkeys Games
+    release_date:
+      coming_soon: false
+      date: Jun 5, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_c09955e159f1d9169cbbdad6b41c1ef5bc92deac.1920x1080.jpg?t=1591395722
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_c09955e159f1d9169cbbdad6b41c1ef5bc92deac.600x338.jpg?t=1591395722
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_4b04497def593658fdbb4dba3e9b94e9608b77c6.1920x1080.jpg?t=1591395722
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_4b04497def593658fdbb4dba3e9b94e9608b77c6.600x338.jpg?t=1591395722
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_02da001266a8e5e9b6f3733ea8040069025c3e67.1920x1080.jpg?t=1591395722
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_02da001266a8e5e9b6f3733ea8040069025c3e67.600x338.jpg?t=1591395722
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_6a8430a8995bc6a63fae314ef192b59711d4ea0e.1920x1080.jpg?t=1591395722
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1338270/ss_6a8430a8995bc6a63fae314ef192b59711d4ea0e.600x338.jpg?t=1591395722
+    short_description: Unlocks all levels and allows you to reach the Kill Screen!
+    steam_appid: 1338270
+    support_info:
+      email: drowningmonkeys@gmail.com
+      url: http://www.drowningmonkeys.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.drowningmonkeys.com/castle-kong
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

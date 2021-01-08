@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: This DLC includes:<br><br><ul class="bb_ul"><li>Theme song &quot;Save
+      the world tonight&quot; performed by Boossara in MP3<br></li><li>Full game soundtrack
+      in MP3<br></li><li>Wallpapers of all the characters</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/435760/page_bg_generated_v6b.jpg?t=1457535887
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC includes:<br><br><ul class="bb_ul"><li>Theme song
+      &quot;Save the world tonight&quot; performed by Boossara in MP3<br></li><li>Full
+      game soundtrack in MP3<br></li><li>Wallpapers of all the characters</li></ul>
+    developers:
+    - Winter Wolves
+    fullgame:
+      appid: '435260'
+      name: 'Planet Stronghold: Colonial Defense'
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/435760/header.jpg?t=1457535887
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.4 and newer</li></ul>
+    name: PSCD - Soundtrack & Wallpapers
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Planet Stronghold: Colonial Defense - Soundtrack & Wallpapers
+          - $4.99'
+        packageid: 91095
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy PSCD - Soundtrack & Wallpapers
+    packages:
+    - 91095
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP and newer</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Winter Wolves
+    release_date:
+      coming_soon: false
+      date: Mar 9, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/435760/ss_6a400f16ceaf187a4c7011f8fa43db4387861d9f.1920x1080.jpg?t=1457535887
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/435760/ss_6a400f16ceaf187a4c7011f8fa43db4387861d9f.600x338.jpg?t=1457535887
+    short_description: This DLC includes the full game soundtrack in MP3 and wallpapers
+      of all characters
+    steam_appid: 435760
+    support_info:
+      email: info@winterwolves.com
+      url: http://www.winterwolves.com/info.php
+    supported_languages: English
+    type: dlc
+    website: http://winterwolves.com/pscd.htm
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

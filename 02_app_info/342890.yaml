@@ -1,0 +1,190 @@
+details:
+  data:
+    about_the_game: "Synonymy is a non-profit, educational word game narrated by Richard\
+      \ Dawkins where players are challenged to find a path between random words through\
+      \ their network of synonyms. By taking the synonym of a word, and then a synonym\
+      \ of that synonym, and so on, you can ultimately arrive at any other word in\
+      \ a language.<br />\r\n<br />\r\nThe game supports multiplayer, and weekly challenges\
+      \ in which users can compete globally on set start and end words. Every time\
+      \ a path is uncovered by a user, it is tweeted from @synonymygame and posted\
+      \ to our Facebook page. All profits go to educational charities. <br />\r\n\
+      <br />\r\nA visualization of the game's network can be seen here -- http://tinyurl.com/med6g8b\
+      \ -- In order to compute relative distance, all synonyms were mapped using 3d\
+      \ graphing software, as if each word were a planet that had a gravitational\
+      \ pull proportional to its number of relationships to other nodes. Above is\
+      \ a 2D representation of that model, a 40,000 x 40,000 rendering.<br />\r\n\
+      <br />\r\nMusic by Daduk"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/342890/page_bg_generated_v6b.jpg?t=1572944300
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Cross-Platform Multiplayer
+      id: 27
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Synonymy is a non-profit, educational word game narrated\
+      \ by Richard Dawkins where players are challenged to find a path between random\
+      \ words through their network of synonyms. By taking the synonym of a word,\
+      \ and then a synonym of that synonym, and so on, you can ultimately arrive at\
+      \ any other word in a language.<br />\r\n<br />\r\nThe game supports multiplayer,\
+      \ and weekly challenges in which users can compete globally on set start and\
+      \ end words. Every time a path is uncovered by a user, it is tweeted from @synonymygame\
+      \ and posted to our Facebook page. All profits go to educational charities.\
+      \ <br />\r\n<br />\r\nA visualization of the game's network can be seen here\
+      \ -- http://tinyurl.com/med6g8b -- In order to compute relative distance, all\
+      \ synonyms were mapped using 3d graphing software, as if each word were a planet\
+      \ that had a gravitational pull proportional to its number of relationships\
+      \ to other nodes. Above is a 2D representation of that model, a 40,000 x 40,000\
+      \ rendering.<br />\r\n<br />\r\nMusic by Daduk"
+    developers:
+    - Christopher Cinq-Mars Jarvis
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/342890/header.jpg?t=1572944300
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ 10.6+<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122 Duo 1.83GHz\
+        \ or faster processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>\
+        \ 300 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ 10.8+<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122 Duo 1.83GHz\
+        \ or faster processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>\
+        \ 500 MB available space</li></ul>"
+    movies:
+    - highlight: true
+      id: 2036484
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2036484/movie480.mp4?t=1447367225
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2036484/movie_max.mp4?t=1447367225
+      name: Trailer/Tutorial
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2036484/movie.293x165.jpg?t=1447367225
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2036484/movie480.webm?t=1447367225
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2036484/movie_max.webm?t=1447367225
+    name: Synonymy
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Synonymy - <span class="discount_original_price">$1.99</span>
+          $0.49
+        packageid: 58065
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 49
+      title: Buy Synonymy
+    packages:
+    - 58065
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7+<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>\
+        \ 2.33GHz or faster x86-compatible processor, or Intel Atom\u2122 1.6GHz or\
+        \ faster processor for netbook class devices<br></li><li><strong>Storage:</strong>\
+        \ 200 MB available space<br></li><li><strong>Additional Notes:</strong> Adobe\
+        \ AIR required: <a href=\"https://steamcommunity.com/linkfilter/?url=http://get.adobe.com/air/\"\
+        \ target=\"_blank\" rel=\"noopener\"  >http://get.adobe.com/air/</a></li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ 2.33GHz or faster x86-compatible processor, or Intel Atom\u2122 1.6GHz or\
+        \ faster processor for netbook class devices<br></li><li><strong>Storage:</strong>\
+        \ 500 MB available space<br></li><li><strong>Additional Notes:</strong> Adobe\
+        \ AIR required: <a href=\"https://steamcommunity.com/linkfilter/?url=http://get.adobe.com/air/\"\
+        \ target=\"_blank\" rel=\"noopener\"  >http://get.adobe.com/air/</a></li></ul>"
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 49
+      final_formatted: $0.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - Christopher Cinq-Mars Jarvis
+    release_date:
+      coming_soon: false
+      date: Mar 5, 2015
+    required_age: 0
+    reviews: "\u201CSynonymy is about the blurry edges of words that make carefully\
+      \ choosing them so much fun, the slight inflections you can add to draw connections.\u201D\
+      <br><a href=\"http://www.rockpapershotgun.com/2014/11/21/synonymy-puzzle-richard-dawkins/\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_c53ddca1fc111e5d3155fd2577af25290a4e6cbe.1920x1080.jpg?t=1572944300
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_c53ddca1fc111e5d3155fd2577af25290a4e6cbe.600x338.jpg?t=1572944300
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_a3eba19593df9499c2a95f357b3fbe8f4b101f19.1920x1080.jpg?t=1572944300
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_a3eba19593df9499c2a95f357b3fbe8f4b101f19.600x338.jpg?t=1572944300
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_61345c1c11111bf77336ed9ea583f6501ef8b42a.1920x1080.jpg?t=1572944300
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_61345c1c11111bf77336ed9ea583f6501ef8b42a.600x338.jpg?t=1572944300
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_736a36b0fd87e6d0fb41811e01176ebd8dfcb7d3.1920x1080.jpg?t=1572944300
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_736a36b0fd87e6d0fb41811e01176ebd8dfcb7d3.600x338.jpg?t=1572944300
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_eca84d24cff6c7a48e79f8855bd2d31cc6b9ae91.1920x1080.jpg?t=1572944300
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/342890/ss_eca84d24cff6c7a48e79f8855bd2d31cc6b9ae91.600x338.jpg?t=1572944300
+    short_description: Synonymy is a non-profit, educational word game narrated by
+      Richard Dawkins where players are challenged to find a path between random words
+      through their network of synonyms. By taking the synonym of a word, and then
+      a synonym of that synonym, and so on, you can ultimately arrive at any other
+      word in a language.
+    steam_appid: 342890
+    support_info:
+      email: synonymygame@gmail.com
+      url: www.synonymy-game.com/#contact
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://www.synonymy-game.com
+  success: true
+reviews:
+  cursor: AoJw7vqK7ekCcKqsvgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 24
+    total_positive: 22
+    total_reviews: 46
+  reviews:
+  - author:
+      last_played: 1579982859
+      num_games_owned: 282
+      num_reviews: 76
+      playtime_at_review: 132
+      playtime_forever: 144
+      playtime_last_two_weeks: 0
+      steamid: '76561198042580200'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '49898144'
+    review: Fun game to start up casually once every few weeks. It makes me feel smart.
+    steam_purchase: true
+    timestamp_created: 1554143500
+    timestamp_updated: 1554143500
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.486024141311645508'
+    written_during_early_access: false
+  success: 1

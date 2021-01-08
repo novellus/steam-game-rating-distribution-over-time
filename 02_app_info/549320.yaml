@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '549290'
+      name: Con Man
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/549320/header.jpg?t=1481317588
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Con Man: Stalled'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Con Man: Stalled - $1.99'
+        packageid: 135853
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Con Man: Stalled'
+    packages:
+    - 135853
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 8, 2016
+    required_age: 0
+    short_description: Wray Nerely experiences an unusual fan interaction in the airport
+      men's room and after accepting some timely advice from Sean Astin, is almost
+      ejected from his flight by Air Marshall Cahoots.
+    steam_appid: 549320
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwpJeL5uUCfOe+qgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1536727968
+      num_games_owned: 428
+      num_reviews: 103
+      playtime_at_review: 14
+      playtime_forever: 14
+      playtime_last_two_weeks: 0
+      steamid: '76561197998701258'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '44693116'
+    review: 'A very good little series, marred only by Steam''s not-very-good player.  I
+      would watch the hell out of this on YouTube or Netflix or something. Steam makes
+      it a bit awkward.
+
+
+      Alan Tudyk really nails this, both as a writer and a performer. It''s a great
+      piece of work, and if I could hit the "recommend" button multiple times, I probably
+      would.  It deserves a longer run with full length episodes.'
+    steam_purchase: true
+    timestamp_created: 1536728808
+    timestamp_updated: 1536728808
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

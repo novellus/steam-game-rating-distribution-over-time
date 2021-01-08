@@ -1,0 +1,79 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '600890'
+      name: KanColle
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/600890/header.jpg?t=1553556365
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'KanColle: Kantai Collection'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 30, 2017
+    required_age: 0
+    short_description: '&quot;You let your guard down. My next torpedo is already
+      loaded.&quot; The fleet attacks Abyssal base MI. Despite their strength the
+      forces seem unkillable. When they sink an enemy it just comes right back up
+      again. Is there any way to win the fight?'
+    steam_appid: 608261
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwkvDz1+ACdLe9lAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1514722058
+      num_games_owned: 299
+      num_reviews: 14
+      playtime_at_review: 25
+      playtime_forever: 25
+      playtime_last_two_weeks: 0
+      steamid: '76561198025494726'
+    comment_count: 1
+    language: english
+    received_for_free: false
+    recommendationid: '38923124'
+    review: Absolutely Poi
+    steam_purchase: true
+    timestamp_created: 1514778100
+    timestamp_updated: 1514778100
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.545454561710357666'
+    written_during_early_access: false
+  success: 1

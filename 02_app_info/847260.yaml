@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      highlighted:
+      - name: ' Achievement I'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/4e6cb0042b8d4a0f690e275fb96bacf2112c9a67.jpg
+      - name: ' Achievement II'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/8526468f63ef2390327d150b3802f0c6123f3e2e.jpg
+      - name: ' Achievement III'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/3b7ea720db04c9c0f26d1f90c7163e3befdcfe8d.jpg
+      - name: Achievement IV
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/b925a3eb9ff407eafc20d9469ad2cc9b5a40e211.jpg
+      - name: ' Achievement V'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/e892cedeac8f845f3f9a0f00762698c69ed95411.jpg
+      - name: '  Achievement VI'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/9abffacd854848406011261f03915e9eed5dd6ba.jpg
+      - name: '   Achievement VII'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/09d27176e0c8f1b51e80ad2ac74c13edd73e2db2.jpg
+      - name: ' Achievement VIII'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/ab63e85afe07ec1aff9552b223cb4ced3942eb13.jpg
+      - name: '  Achievement IX'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/ebcb2821e97bc70f3a3fea4af11ea70840a30982.jpg
+      - name: '   Achievement X'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/847260/3111adcdb3a6e25fadc08c0db5900290904bdb6d.jpg
+      total: 267
+    background: ''
+    categories:
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 5
+      notes: null
+    detailed_description: ''
+    developers:
+    - Deep Van
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/847260/header.jpg?t=1593664738
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Deep Dark Labyrinth
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Deep Van
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 847260
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw0srMyvECeuiMggI=
+  query_summary:
+    num_reviews: 1
+    review_score: 4
+    review_score_desc: Mostly Negative
+    total_negative: 10
+    total_positive: 5
+    total_reviews: 15
+  reviews:
+  - author:
+      last_played: 1587346010
+      num_games_owned: 1962
+      num_reviews: 955
+      playtime_at_review: 10
+      playtime_forever: 10
+      playtime_last_two_weeks: 0
+      steamid: '76561198031968845'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '67659402'
+    review: "\xE7\xF6pl\xFC\u011F\xFCn derinlerinde unutulmal\u0131."
+    steam_purchase: true
+    timestamp_created: 1587346036
+    timestamp_updated: 1587346036
+    voted_up: false
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.524802029132843018'
+    written_during_early_access: false
+  success: 1

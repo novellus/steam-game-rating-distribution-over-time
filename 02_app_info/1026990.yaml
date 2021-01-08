@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Online PvP
+      id: 36
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Team Jolly Roger
+    fullgame:
+      appid: '761910'
+      name: Worbital
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1026990/header.jpg?t=1549463789
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Mac OS Sierra<br></li><li><strong>Processor:</strong>
+        Intel Core i5 2.5 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics 4000 1536 MB<br></li><li><strong>Network:</strong> Broadband
+        Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    metacritic:
+      score: 76
+    name: Worbital Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong>
+        Intel quad core or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> AMD HD 7700 Series, 1 GB VRAM or
+        Nvidia/Intel equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Team Jolly Roger
+    - Advanced Interactive Gaming
+    release_date:
+      coming_soon: false
+      date: Feb 6, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1026990
+    support_info:
+      email: info@teamjollyroger.fi
+      url: https://www.worbital.com/
+    supported_languages: English, French, Spanish - Spain, Finnish
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

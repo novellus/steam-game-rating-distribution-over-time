@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '626270'
+      name: Ange Vierge
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/626270/header.jpg?t=1553553760
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Ange Vierge: Untitled'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Ange Vierge: Untitled - CHF 2.--'
+        packageid: 169380
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 200
+      title: 'Buy Ange Vierge: Untitled'
+    packages:
+    - 169380
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: CHF
+      discount_percent: 0
+      final: 200
+      final_formatted: CHF 2.--
+      initial: 200
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: 21 Jun, 2017
+    required_age: 0
+    short_description: At last, Saya and the others stand in the face of the ultimate
+      enemy. Will they be able to defeat the massive ouroboros and save the five worlds
+      and their alpha drivers? The chosen Progress prepare for the last battle to
+      retake their bonds with Amane.
+    steam_appid: 626871
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

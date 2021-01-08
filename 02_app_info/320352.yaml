@@ -1,0 +1,147 @@
+details:
+  data:
+    about_the_game: "Extra Episode: The Struggle<br />\r\nMoira fights to survive\
+      \ the horrors of the island with the help of an old hand. This is her story\
+      \ of struggle and redemption.<br />\r\n<br />\r\n*This extra episode provides\
+      \ a different gameplay experience than the main campaign. A new costume for\
+      \ Moira is included.<br />\r\n*Episode One required to play."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/320352/page_bg_generated_v6b.jpg?t=1447363378
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Co-op
+      id: 9
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Extra Episode: The Struggle<br />\r\nMoira fights to survive\
+      \ the horrors of the island with the help of an old hand. This is her story\
+      \ of struggle and redemption.<br />\r\n<br />\r\n*This extra episode provides\
+      \ a different gameplay experience than the main campaign. A new costume for\
+      \ Moira is included.<br />\r\n*Episode One required to play."
+    developers:
+    - Capcom
+    fullgame:
+      appid: '287290'
+      name: Resident Evil Revelations 2
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/320352/header.jpg?t=1447363378
+    is_free: false
+    legal_notice: "\xA9CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'RER2 Extra Episode: The Struggle'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'RER2/BHR2 Extra Episode: The Struggle - $4.99'
+        packageid: 49829
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Resident Evil Revelations 2 / Biohazard Revelations 2 Deluxe
+          Edition - $29.99
+        packageid: 84647
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: 'Buy RER2 Extra Episode: The Struggle'
+    packages:
+    - 49829
+    - 84647
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Capcom
+    release_date:
+      coming_soon: false
+      date: Mar 17, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/320352/ss_0cb817081644e80186c74a0a6670e89bee6c40d0.1920x1080.jpg?t=1447363378
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/320352/ss_0cb817081644e80186c74a0a6670e89bee6c40d0.600x338.jpg?t=1447363378
+    short_description: 'Extra Episode: The Struggle - Includes Moira''s side story,
+      and an original costume.'
+    steam_appid: 320352
+    support_info:
+      email: support@capcom.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>,
+      Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4lKyj9PUCd9vKrwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 34
+    total_positive: 37
+    total_reviews: 71
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 516
+      num_reviews: 69
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197996690770'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '79582647'
+    review: Really bad!
+    steam_purchase: true
+    timestamp_created: 1605924381
+    timestamp_updated: 1605924381
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523601412773132324'
+    written_during_early_access: false
+  success: 1

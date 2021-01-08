@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 76, in validate_parsed_data
+    assert data['details']['data']['steam_appid'] == appid, 'appid does not match queried appid'  # some appids redirect to another appid. This removes the duplicates
+AssertionError: appid does not match queried appid

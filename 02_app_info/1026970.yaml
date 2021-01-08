@@ -1,0 +1,166 @@
+details:
+  data:
+    about_the_game: 'This DLC changes the SpaceEngine license to allow for personal
+      commercial use, and unlocks some &quot;professional&quot; features helpful for
+      capturing video footage and creating space assets for your own projects:<br><br><ul
+      class="bb_ul"><li>Camera path editor<br></li><li>Ability to save video and screenshots
+      with transparency<br></li><li>Unlimited resolution for exporting skyboxes, including
+      with HDR DDS cubemap format<br></li><li>Unlimited resolution for exporting planet
+      textures<br></li><li>Unlimited rendering resolution in the fisheye/dome and
+      equirectangular projection modes</li></ul><br>Details about commercial usage
+      permissions can be found in the EULA.<br><br>Note: unlimited resolution means
+      that SpaceEngine will not restrict you from using any resolution you want, but
+      there are practical limits due to limitations in your graphics hardware. If
+      you have a very recent high-end card, you will be able to use much higher resolutions
+      (e.g. 32768x32768) than you would be able to achieve with older or low-end hardware
+      (e.g. 8192x8192).'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1026970/page_bg_generated_v6b.jpg?t=1583346980
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: VR Support
+      id: 31
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'This DLC changes the SpaceEngine license to allow for personal
+      commercial use, and unlocks some &quot;professional&quot; features helpful for
+      capturing video footage and creating space assets for your own projects:<br><br><ul
+      class="bb_ul"><li>Camera path editor<br></li><li>Ability to save video and screenshots
+      with transparency<br></li><li>Unlimited resolution for exporting skyboxes, including
+      with HDR DDS cubemap format<br></li><li>Unlimited resolution for exporting planet
+      textures<br></li><li>Unlimited rendering resolution in the fisheye/dome and
+      equirectangular projection modes</li></ul><br>Details about commercial usage
+      permissions can be found in the EULA.<br><br>Note: unlimited resolution means
+      that SpaceEngine will not restrict you from using any resolution you want, but
+      there are practical limits due to limitations in your graphics hardware. If
+      you have a very recent high-end card, you will be able to use much higher resolutions
+      (e.g. 32768x32768) than you would be able to achieve with older or low-end hardware
+      (e.g. 8192x8192).'
+    developers:
+    - Vladimir Romanyuk
+    fullgame:
+      appid: '314650'
+      name: SpaceEngine
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1026970/header.jpg?t=1583346980
+    is_free: false
+    legal_notice: "\xA92010-2020 Vladimir Romanyuk"
+    linux_requirements: []
+    mac_requirements: []
+    name: SpaceEngine PRO
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SpaceEngine - PRO - $59.99
+        packageid: 341241
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 5999
+      title: Buy SpaceEngine PRO
+    packages:
+    - 341241
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 5999
+      final_formatted: $59.99
+      initial: 5999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 11, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_0703bef488dc7d4850ba24dbe09e50ecea147228.1920x1080.jpg?t=1583346980
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_0703bef488dc7d4850ba24dbe09e50ecea147228.600x338.jpg?t=1583346980
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_b43c09bc2447a8f7792a922c7bd1403b19bd8505.1920x1080.jpg?t=1583346980
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_b43c09bc2447a8f7792a922c7bd1403b19bd8505.600x338.jpg?t=1583346980
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_3ad880efbaa4f8c8e25daa3b520c867da6193338.1920x1080.jpg?t=1583346980
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_3ad880efbaa4f8c8e25daa3b520c867da6193338.600x338.jpg?t=1583346980
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_cbaa42187c9b0b782cdb205b2bd0830ac142a4b8.1920x1080.jpg?t=1583346980
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_cbaa42187c9b0b782cdb205b2bd0830ac142a4b8.600x338.jpg?t=1583346980
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_13d766dc976039cf908f44c2c5912133aaf3e046.1920x1080.jpg?t=1583346980
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026970/ss_13d766dc976039cf908f44c2c5912133aaf3e046.600x338.jpg?t=1583346980
+    short_description: Allows commercial usage of SpaceEngine and unlocks features
+      useful for professionals and content creators.
+    steam_appid: 1026970
+    support_info:
+      email: admin@spaceengine.org
+      url: http://forum.spaceengine.org/
+    supported_languages: English, German, Russian, Italian, French, Spanish - Spain,
+      Portuguese - Brazil, Spanish - Latin America, Traditional Chinese, Simplified
+      Chinese, Dutch, Polish, Turkish, Finnish, Czech, Swedish, Japanese
+    type: dlc
+    website: http://spaceengine.org/
+  success: true
+reviews:
+  cursor: AoJw3uONtPUCeZKwqgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 7
+    total_positive: 22
+    total_reviews: 29
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 430
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198068009270'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '78217513'
+    review: "\u5F53\u6211\u4EE5\u79D2\u901F25\u523075\u5149\u5E74\u5728\u50CF\u662F\
+      \u6E56\u4E00\u6837\u7684\u6E29\u6696\u6F84\u6F88\u94F6\u5FC3\u4F5C\u661F\u95F4\
+      \u6F2B\u6B65\uFF0C\u9519\u5931\u4E86\u65B9\u4F4D\u611F\uFF0C\u592A\u4EE4\u4EBA\
+      \u9676\u9189\u4E86\uFF0C\u8131\u79BB\u4E86\u5F15\u529B\uFF0C\u65F6\u4E0D\u65F6\
+      \u9677\u5165\u604D\u60DA\uFF0C\u611F\u89C9\u5929\u56FD\u4E0D\u8FC7\u5982\u6B64\
+      \uFF0C\u8FD9\u662F\u4E00\u79CD\u548C\u6211\u65E9\u671F\u542CASMR\u65F6\u611F\
+      \u53D7\u8FC7\u7684\u9885\u5185\u9AD8\u6F6E\u7C7B\u4F3C\u7684\u611F\u89C9\uFF0C\
+      \u662FVR\u7684\u5999\u7528\u3002"
+    steam_purchase: true
+    timestamp_created: 1603771244
+    timestamp_updated: 1603771244
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.53947371244430542'
+    written_during_early_access: false
+  success: 1

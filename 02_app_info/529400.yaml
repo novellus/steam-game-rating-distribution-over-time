@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: In this DLC you find full soundtrack from the game. It is located
+      in the soundtrack folder in the folder with the installed game. Enjoy
+    background: https://steamcdn-a.akamaihd.net/steam/apps/529400/page_bg_generated_v6b.jpg?t=1570877077
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: In this DLC you find full soundtrack from the game. It is
+      located in the soundtrack folder in the folder with the installed game. Enjoy
+    developers:
+    - IR Studio
+    fullgame:
+      appid: '525300'
+      name: Starship Annihilator
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/529400/header.jpg?t=1570877077
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Starship Annihilator - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Starship Annihilator - Soundtrack - $0.99
+        packageid: 127294
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Starship Annihilator - Soundtrack
+    packages:
+    - 127294
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        40 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - IR Studio
+    release_date:
+      coming_soon: false
+      date: Sep 13, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/529400/ss_defbcba90492b439e50b71c359f75d46cc1c0178.1920x1080.jpg?t=1570877077
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/529400/ss_defbcba90492b439e50b71c359f75d46cc1c0178.600x338.jpg?t=1570877077
+    short_description: In this DLC you find full soundtrack from the game. It is located
+      in the soundtrack folder in the folder with the installed game.
+    steam_appid: 529400
+    support_info:
+      email: irstudio2016@gmail.com
+      url: ''
+    supported_languages: English, German, Russian, Ukrainian
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwr5ag++sCdu+2zgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2844
+      num_reviews: 891
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198194680793'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '54114038'
+    review: "\u0421\u0431\u043E\u0440\u043D\u0438\u043A \u0441\u0430\u0443\u043D\u0434\
+      \u0442\u0440\u0435\u043A\u043E\u0432 \u043A \"Starship Annihilator\", \u0432\
+      \ \u0436\u0430\u043D\u0440\u0435 \u0441\u0438\u043D\u0442\u0438\u043F\u043E\u043F\
+      . \u041A\u043E\u043C\u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043D\u043E\u0440\
+      \u043C\u0430\u043B\u044C\u043D\u044B\u0435, \u0441\u043B\u0443\u0448\u0430\u0442\
+      \u044C \u043C\u043E\u0436\u043D\u043E. \u041D\u043E \u043D\u0435 \u043E\u0441\
+      \u043E\u0431\u043E \u0437\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u044E\u0449\
+      \u0438\u0435\u0441\u044F."
+    steam_purchase: true
+    timestamp_created: 1563207988
+    timestamp_updated: 1563208758
+    voted_up: true
+    votes_funny: 1
+    votes_up: 9
+    weighted_vote_score: '0.591255068778991699'
+    written_during_early_access: false
+  success: 1

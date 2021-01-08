@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '581490'
+      name: 'Ghost In The Shell: Stand Alone Complex'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/583820/header.jpg?t=1490891055
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Ghost In The Shell: Stand Alone Complex: Section 09'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Ghost In The Shell: Stand Alone Complex: Section 09 - $2.99'
+        packageid: 150136
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy Ghost In The Shell: Stand Alone Complex: Section 09'
+    packages:
+    - 150136
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 30, 2017
+    required_age: 0
+    short_description: Major Kusanagi and Section 9 are called in to resolve a hostage
+      crisis at a Geisha house staffed by an android Geisha.
+    steam_appid: 583820
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw+8SnrdsCco/Ddg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1491756304
+      num_games_owned: 165
+      num_reviews: 44
+      playtime_at_review: 24
+      playtime_forever: 24
+      playtime_last_two_weeks: 0
+      steamid: '76561198080086307'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '31070450'
+    review: 7/10
+    steam_purchase: true
+    timestamp_created: 1491873966
+    timestamp_updated: 1491873966
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

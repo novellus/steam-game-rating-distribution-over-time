@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: "The soundtrack for City of the Shroud\xAE contains every track\
+      \ from the main game, as well as the tracks from our trailers and some unreleased/reworked\
+      \ favorites of our composer, Chris J. Nairn.<br />\r\n<br />\r\nTrack List:<br\
+      \ />\r\n<br />\r\n1. Overture<br />\r\n2. Death Of An Age<br />\r\n3. The Art\
+      \ Of War<br />\r\n4. Big Trouble In Little Iskendrun<br />\r\n5. Journey To\
+      \ The South<br />\r\n6. Forging The Path<br />\r\n7. Select Your Character<br\
+      \ />\r\n8. Consort With The Enemy<br />\r\n9. Fight Or Flight<br />\r\n10. Unholy\
+      \ Hour (James Landino)<br />\r\n11. The Clash Of Steel<br />\r\n12. Quest Start!<br\
+      \ />\r\n13. QUEST COMPLETE<br />\r\n14. You RAAAWK<br />\r\n15. Game Over<br\
+      \ />\r\n16. Journey To The South (Piano Version)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/892600/page_bg_generated_v6b.jpg?t=1533823264
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The soundtrack for City of the Shroud\xAE contains every\
+      \ track from the main game, as well as the tracks from our trailers and some\
+      \ unreleased/reworked favorites of our composer, Chris J. Nairn.<br />\r\n<br\
+      \ />\r\nTrack List:<br />\r\n<br />\r\n1. Overture<br />\r\n2. Death Of An Age<br\
+      \ />\r\n3. The Art Of War<br />\r\n4. Big Trouble In Little Iskendrun<br />\r\
+      \n5. Journey To The South<br />\r\n6. Forging The Path<br />\r\n7. Select Your\
+      \ Character<br />\r\n8. Consort With The Enemy<br />\r\n9. Fight Or Flight<br\
+      \ />\r\n10. Unholy Hour (James Landino)<br />\r\n11. The Clash Of Steel<br />\r\
+      \n12. Quest Start!<br />\r\n13. QUEST COMPLETE<br />\r\n14. You RAAAWK<br />\r\
+      \n15. Game Over<br />\r\n16. Journey To The South (Piano Version)"
+    developers:
+    - Abyssal Arts Ltd.
+    fullgame:
+      appid: '449100'
+      name: City of the Shroud
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/892600/header.jpg?t=1533823264
+    is_free: false
+    legal_notice: "City of the Shroud\xAE. \xA9Abyssal Arts, Ltd. 2015 - 2018. City\
+      \ of the Shroud is a registered trademark of Abyssal Arts, Ltd."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> 320kbps MP3s</li></ul>
+    name: "City of the Shroud\xAE Original Soundtrack"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "City of the Shroud\xAE Soundtrack - $9.99"
+        packageid: 284863
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: "Buy City of the Shroud\xAE Original Soundtrack"
+    packages:
+    - 284863
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> 320kbps MP3s</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Abyssal Arts Ltd.
+    release_date:
+      coming_soon: false
+      date: Aug 9, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/892600/ss_48f4a5425234477402ed0c37c24c673d4e2c038c.1920x1080.jpg?t=1533823264
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/892600/ss_48f4a5425234477402ed0c37c24c673d4e2c038c.600x338.jpg?t=1533823264
+    short_description: "The soundtrack for City of the Shroud\xAE contains every track\
+      \ from the main game, as well as the tracks from our trailers and some unreleased/reworked\
+      \ favorites."
+    steam_appid: 892600
+    support_info:
+      email: contact@abyssalarts.com
+      url: https://www.abyssalarts.com/contact
+    supported_languages: English
+    type: dlc
+    website: https://www.abyssalarts.com/shroud
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

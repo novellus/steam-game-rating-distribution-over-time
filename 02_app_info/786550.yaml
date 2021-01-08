@@ -1,0 +1,92 @@
+details:
+  data:
+    about_the_game: "&quot;This is the demo of Adam Waste, episode 1. <br />\r\nPlay\
+      \ the demo today and help improve the game by providing us with valuable feedback\
+      \ by sending a message to feedback@blackturn.com .<br />\r\n<br />\r\nAll contributors\
+      \ will receive a free DLC on release, and the best and most dedicated testers\
+      \ have a chance of winning the full game, together with all of it's future 5\
+      \ episodes!&quot;"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/786550/page_bg_generated_v6b.jpg?t=1516776578
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "&quot;This is the demo of Adam Waste, episode 1. <br />\r\
+      \nPlay the demo today and help improve the game by providing us with valuable\
+      \ feedback by sending a message to feedback@blackturn.com .<br />\r\n<br />\r\
+      \nAll contributors will receive a free DLC on release, and the best and most\
+      \ dedicated testers have a chance of winning the full game, together with all\
+      \ of it's future 5 episodes!&quot;"
+    developers:
+    - Zygis Luksas
+    - Kestutis Bucys
+    fullgame:
+      appid: '673310'
+      name: Adam Waste
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/786550/header.jpg?t=1516776578
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Adam Waste Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP and newer<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Graphics:</strong>
+        NVidia GeForce 8800<br></li><li><strong>Sound Card:</strong> Integrated audio</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 and newer<br></li><li><strong>Processor:</strong> Intel Dual-Core
+        2.2 Ghz<br></li><li><strong>Graphics:</strong> NVidia GeForce 9800<br></li><li><strong>Sound
+        Card:</strong> Integrated audio</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Branko Nesic
+    release_date:
+      coming_soon: false
+      date: Jan 19, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786550/ss_25e7575ac0198f1b4cfff158a174e1a5ce1336ea.1920x1080.jpg?t=1516776578
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786550/ss_25e7575ac0198f1b4cfff158a174e1a5ce1336ea.600x338.jpg?t=1516776578
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786550/ss_8683569dab860c2986c1f605232fdadbc8b56d3c.1920x1080.jpg?t=1516776578
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786550/ss_8683569dab860c2986c1f605232fdadbc8b56d3c.600x338.jpg?t=1516776578
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/786550/ss_e5a0951f23fcf597da8b78ed6405db946989943e.1920x1080.jpg?t=1516776578
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/786550/ss_e5a0951f23fcf597da8b78ed6405db946989943e.600x338.jpg?t=1516776578
+    short_description: Thank you for playing Adam Waste demo.
+    steam_appid: 786550
+    support_info:
+      email: feedback@blackturn.com
+      url: www.blackturn.om
+    supported_languages: English
+    type: demo
+    website: http://adamwaste.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

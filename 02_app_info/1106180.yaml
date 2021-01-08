@@ -1,0 +1,215 @@
+details:
+  data:
+    about_the_game: SpriteStack is a 3d pixelart editor based on sprite stacking technique.
+      It's a special kind of voxel editor suited for 2D artists where the model is
+      drawn layer by layer like a pixelart. Featuring handcrafted retro renderer and
+      experimental animation support.<h2 class="bb_tag">Examples</h2><br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/spritestack-export_(8).gif?t=1567284945"
+      /><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/spritestack-export_(9).gif?t=1567284945"
+      /><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/spritestack-export_(7).gif?t=1567284945"
+      /><h2 class="bb_tag">Editor</h2>Each model is made of 2D slices that create
+      a 3D volume when put on top of each other.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/editor.png?t=1567284945"
+      /><h2 class="bb_tag">Animator</h2>Animation support is experimental but it can
+      already yeld nice results.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/animator.png?t=1567284945"
+      /><h2 class="bb_tag">Exporter</h2>Top notch exporter featuring unique low resolution
+      renderer stylized to look like pixelart. It can output 2D spritesheets, slices
+      for spritestacking or .vox models that can be later converted to many popular
+      3D formats.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/exporter.png?t=1567284945"
+      /><h2 class="bb_tag">MagicaVoxel support</h2>Thanks to two-way MagicaVoxel integration
+      you are not bound to use the spritestacking editor. You can also render your
+      existing .vox models in my retro rendering engine or get your spritestacks converted
+      to formats like OBJ.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/magica.png?t=1567284945"
+      />
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1106180/page_bg_generated_v6b.jpg?t=1567284945
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: SpriteStack is a 3d pixelart editor based on sprite stacking
+      technique. It's a special kind of voxel editor suited for 2D artists where the
+      model is drawn layer by layer like a pixelart. Featuring handcrafted retro renderer
+      and experimental animation support.<h2 class="bb_tag">Examples</h2><br><img
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/spritestack-export_(8).gif?t=1567284945"
+      /><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/spritestack-export_(9).gif?t=1567284945"
+      /><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/spritestack-export_(7).gif?t=1567284945"
+      /><h2 class="bb_tag">Editor</h2>Each model is made of 2D slices that create
+      a 3D volume when put on top of each other.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/editor.png?t=1567284945"
+      /><h2 class="bb_tag">Animator</h2>Animation support is experimental but it can
+      already yeld nice results.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/animator.png?t=1567284945"
+      /><h2 class="bb_tag">Exporter</h2>Top notch exporter featuring unique low resolution
+      renderer stylized to look like pixelart. It can output 2D spritesheets, slices
+      for spritestacking or .vox models that can be later converted to many popular
+      3D formats.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/exporter.png?t=1567284945"
+      /><h2 class="bb_tag">MagicaVoxel support</h2>Thanks to two-way MagicaVoxel integration
+      you are not bound to use the spritestacking editor. You can also render your
+      existing .vox models in my retro rendering engine or get your spritestacks converted
+      to formats like OBJ.<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1106180/extras/magica.png?t=1567284945"
+      />
+    developers:
+    - Rezoner
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1106180/header.jpg?t=1567284945
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Processor:</strong> Core
+        i3<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Processor:</strong>
+        Core i5<br></li><li><strong>Graphics:</strong> GTX 750<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> 10.x<br></li><li><strong>Processor:</strong>
+        Core i3<br></li><li><strong>Graphics:</strong> Intel 4000<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10.x<br></li><li><strong>Processor:</strong>
+        Core i5<br></li><li><strong>Graphics:</strong> GTX 750<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256760814
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256760814/movie480.mp4?t=1567284942
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256760814/movie_max.mp4?t=1567284942
+      name: Quick preview
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256760814/movie.293x165.jpg?t=1567284942
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256760814/movie480.webm?t=1567284942
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256760814/movie_max.webm?t=1567284942
+    - highlight: true
+      id: 256753598
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256753598/movie480.mp4?t=1561103238
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256753598/movie_max.mp4?t=1561103238
+      name: SpriteStack Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256753598/movie.293x165.jpg?t=1561103238
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256753598/movie480.webm?t=1561103238
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256753598/movie_max.webm?t=1561103238
+    - highlight: true
+      id: 256756229
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256756229/movie480.mp4?t=1563274493
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256756229/movie_max.mp4?t=1563274493
+      name: SpriteStack - Drawing simple things
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256756229/movie.293x165.jpg?t=1563274493
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256756229/movie480.webm?t=1563274493
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256756229/movie_max.webm?t=1563274493
+    name: SpriteStack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SpriteStack - <span class="discount_original_price">$29.99</span>
+          $23.99
+        packageid: 373693
+        percent_savings: 0
+        percent_savings_text: '-20% '
+        price_in_cents_with_discount: 2399
+      title: Buy SpriteStack
+    packages:
+    - 373693
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong>
+        Core i3<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong>
+        Core i5<br></li><li><strong>Graphics:</strong> GTX 750<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 20
+      final: 2399
+      final_formatted: $23.99
+      initial: 2999
+      initial_formatted: $29.99
+    publishers:
+    - Rezoner
+    release_date:
+      coming_soon: false
+      date: Jul 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_238680fc7cf4139b79d78f3fb1104b159f59fc9f.1920x1080.jpg?t=1567284945
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_238680fc7cf4139b79d78f3fb1104b159f59fc9f.600x338.jpg?t=1567284945
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_36ccd65e35d7f9ad842a5d30a321847a5c3f2d23.1920x1080.jpg?t=1567284945
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_36ccd65e35d7f9ad842a5d30a321847a5c3f2d23.600x338.jpg?t=1567284945
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_88668752374c9bf67cced85e60372f4da5b43fda.1920x1080.jpg?t=1567284945
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_88668752374c9bf67cced85e60372f4da5b43fda.600x338.jpg?t=1567284945
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_46190baf2596cba1fba50cdb3fa406eeddf5cede.1920x1080.jpg?t=1567284945
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_46190baf2596cba1fba50cdb3fa406eeddf5cede.600x338.jpg?t=1567284945
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_4e5e4c6813c716a5f28c8771c2ca7df9702e066a.1920x1080.jpg?t=1567284945
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_4e5e4c6813c716a5f28c8771c2ca7df9702e066a.600x338.jpg?t=1567284945
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_8d00d8452a0971ba683c729e5d3e73215569607c.1920x1080.jpg?t=1567284945
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1106180/ss_8d00d8452a0971ba683c729e5d3e73215569607c.600x338.jpg?t=1567284945
+    short_description: SpriteStack - 3d pixelart editor is a special kind of voxel
+      editor suited for 2D artists where you draw a model layer by layer. Featuring
+      handcrafted retro renderer and animation support.
+    steam_appid: 1106180
+    support_info:
+      email: rezoner1337@gmail.com
+      url: https://spritestack.io
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw5tmmvPYCeI+puwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 19
+    total_positive: 40
+    total_reviews: 59
+  reviews:
+  - author:
+      last_played: 1608623020
+      num_games_owned: 134
+      num_reviews: 24
+      playtime_at_review: 27
+      playtime_forever: 111
+      playtime_last_two_weeks: 84
+      steamid: '76561198069866083'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '82659576'
+    review: "\u5F88\u4E0D\u9519\u7684\u8F6F\u4EF6\uFF0C\u4E0D\u8FC7\u9057\u61BE\u7684\
+      \u662F\u6CA1\u6709\u4E2D\u6587"
+    steam_purchase: true
+    timestamp_created: 1608341180
+    timestamp_updated: 1608341180
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,182 @@
+details:
+  data:
+    about_the_game: '<h2 class="bb_tag">Game idea:</h2><br>Super ultimatum quiz is
+      simple trivia/quiz game. There is 7 different stages which include different
+      themed questions to play or then can play all categories same time. High score
+      system and limited time to answer questions. Every question has 4 possible answers
+      and 1 is always correct. Player has 3 lives so player can answer wrong several
+      times.<br>During  game, the player has 3 lifelines that they may use only once
+      to help them with a question: Skip the question, Pause time, Remove 2 wrong
+      answer<br>Game has also high score system and steam achievements. For now over
+      350 questions<h2 class="bb_tag">Features:</h2>- 7 different stages which include
+      questions from 7 categories: Sport, Geography, Math, Entertainment, Tect, Art
+      and History<br>- steam achievements<br>- High score system<br>- over 350 questions<br>-
+      3 lifelines to help questions:<br>    - Skip the question<br>    - Pause time<br>    -
+      Remove two wrong answers'
+    achievements:
+      highlighted:
+      - name: Play game in row 2 minutes
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446690/be5ca1bdb7ce592f28abf949a5a20d4fcbf6e192.jpg
+      - name: Play game in row 10 minutes
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446690/6b17d4556ab767fbbbf5f37c1ea3f70cc3ffe777.jpg
+      - name: Play game in row 15 minutes
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1446690/d7075265227cba0cfa40fdf0b0fe874c562da9e9.jpg
+      total: 3
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1446690/page_bg_generated_v6b.jpg?t=1605513641
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h2 class="bb_tag">Game idea:</h2><br>Super ultimatum quiz
+      is simple trivia/quiz game. There is 7 different stages which include different
+      themed questions to play or then can play all categories same time. High score
+      system and limited time to answer questions. Every question has 4 possible answers
+      and 1 is always correct. Player has 3 lives so player can answer wrong several
+      times.<br>During  game, the player has 3 lifelines that they may use only once
+      to help them with a question: Skip the question, Pause time, Remove 2 wrong
+      answer<br>Game has also high score system and steam achievements. For now over
+      350 questions<h2 class="bb_tag">Features:</h2>- 7 different stages which include
+      questions from 7 categories: Sport, Geography, Math, Entertainment, Tect, Art
+      and History<br>- steam achievements<br>- High score system<br>- over 350 questions<br>-
+      3 lifelines to help questions:<br>    - Skip the question<br>    - Pause time<br>    -
+      Remove two wrong answers'
+    developers:
+    - Ruskija Game Experience
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1446690/header.jpg?t=1605513641
+    is_free: false
+    legal_notice: "Copyrights Tero Lunkka<br />\r\nSuper Ultimatum Quiz uses the Unreal\xAE\
+      \ Engine. Unreal\xAE is a trademark or registered trademark of Epic Games, Inc.\
+      \ in the United States of America and elsewhere.\u201D and \u201CUnreal\xAE\
+      \ Engine, Copyright 1998 \u2013 2020, Epic Games, Inc. All rights reserved.\u201D"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256804247
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256804247/movie480.mp4?t=1604314899
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256804247/movie_max.mp4?t=1604314899
+      name: intro
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256804247/movie.293x165.jpg?t=1604314899
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256804247/movie480_vp9.webm?t=1604314899
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256804247/movie_max_vp9.webm?t=1604314899
+    name: Super Ultimatum Quiz
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Super Ultimatum Quiz - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 508949
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy Super Ultimatum Quiz
+    packages:
+    - 508949
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows 8<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 500megs<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound
+        Card:</strong> Direct x9</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8.1<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Tero Lunkka
+    release_date:
+      coming_soon: false
+      date: Nov 16, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_ceb4f9eceba3d673e6cd0c255bf0b2b8b797e2a7.1920x1080.jpg?t=1605513641
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_ceb4f9eceba3d673e6cd0c255bf0b2b8b797e2a7.600x338.jpg?t=1605513641
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_1a74eafac3abe633c2b3615c2be3babda51211a2.1920x1080.jpg?t=1605513641
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_1a74eafac3abe633c2b3615c2be3babda51211a2.600x338.jpg?t=1605513641
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_613a9a8f4785b22a91e39eb7a9952700732926d0.1920x1080.jpg?t=1605513641
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_613a9a8f4785b22a91e39eb7a9952700732926d0.600x338.jpg?t=1605513641
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_dbfd04b3bf6f673406c732a399473b3b5acde0f9.1920x1080.jpg?t=1605513641
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_dbfd04b3bf6f673406c732a399473b3b5acde0f9.600x338.jpg?t=1605513641
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_3f82ee78d7f4105e69e76dd16ab75392cde482de.1920x1080.jpg?t=1605513641
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1446690/ss_3f82ee78d7f4105e69e76dd16ab75392cde482de.600x338.jpg?t=1605513641
+    short_description: Solve difficult question in this trivia project in 7 different
+      stages and 7 different categories
+    steam_appid: 1446690
+    support_info:
+      email: tero.lunkka@gmail.com
+      url: steamcommunity.com/id/mastermindfin
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4sYnU+fUCcKeAsAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1606106098
+      num_games_owned: 6238
+      num_reviews: 1684
+      playtime_at_review: 16
+      playtime_forever: 32
+      playtime_last_two_weeks: 0
+      steamid: '76561198058370244'
+    comment_count: 1
+    language: russian
+    received_for_free: false
+    recommendationid: '79692400'
+    review: "\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u043D\u0430 \u0441 \u0432\u043E\
+      \u043F\u0440\u043E\u0441\u0438\u043A\u0430\u043C\u0438 \u043D\u0430 \u0440\u0430\
+      \u0437\u043D\u044B\u0435 \u0442\u0435\u043C\u044B.\n+1 \u0438\u0434\u0435\u0430\
+      \u043B\u044C\u043D\u0430\u044F \u0438\u0433\u0440\u0430."
+    steam_purchase: true
+    timestamp_created: 1606104927
+    timestamp_updated: 1606104927
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

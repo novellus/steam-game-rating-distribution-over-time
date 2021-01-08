@@ -1,0 +1,92 @@
+details:
+  data:
+    about_the_game: "This album is the soundtrack collection of the game of the same\
+      \ name &quot;Million Dungeon&quot;<br />\r\nThe content includes 10 game battle\
+      \ music, plot music, etc."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1329380/page_bg_generated_v6b.jpg?t=1591941201
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This album is the soundtrack collection of the game of\
+      \ the same name &quot;Million Dungeon&quot;<br />\r\nThe content includes 10\
+      \ game battle music, plot music, etc."
+    developers:
+    - TallRoad Studio
+    fullgame:
+      appid: '1021800'
+      name: Million Dungeon
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1329380/header.jpg?t=1591941201
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u5999\u8FDE\u5343\u519B Million Dungeon Soundtrack"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u5999\u8FDE\u5343\u519B Million Dungeon Soundtrack - $0.99"
+        packageid: 464319
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: "Buy \u5999\u8FDE\u5343\u519B Million Dungeon Soundtrack"
+    packages:
+    - 464319
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        20 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Boke Technology Co., Ltd
+    release_date:
+      coming_soon: false
+      date: Jun 11, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1329380/ss_9f810eb155d829640754669baeff4e2fd55df9d0.1920x1080.jpg?t=1591941201
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1329380/ss_9f810eb155d829640754669baeff4e2fd55df9d0.600x338.jpg?t=1591941201
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1329380/ss_1c8645e3c7e9461f8ee2503ca5be2374de781259.1920x1080.jpg?t=1591941201
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1329380/ss_1c8645e3c7e9461f8ee2503ca5be2374de781259.600x338.jpg?t=1591941201
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1329380/ss_6d2803edc3b16ff3745984b588738d6ffbc96790.1920x1080.jpg?t=1591941201
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1329380/ss_6d2803edc3b16ff3745984b588738d6ffbc96790.600x338.jpg?t=1591941201
+    short_description: Soundtrack collection of the game of the same name &quot;Million
+      Dungeon&quot;
+    steam_appid: 1329380
+    support_info:
+      email: ''
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

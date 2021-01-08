@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '594880'
+      name: Yu-Gi-Oh! 5D's
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/594880/header.jpg?t=1492625327
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Yu-Gi-Oh! 5D''s: Fight or Flight'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Yu-Gi-Oh! 5D''s: Fight or Flight - $2.99'
+        packageid: 159222
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy Yu-Gi-Oh! 5D''s: Fight or Flight'
+    packages:
+    - 159222
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 19, 2017
+    required_age: 0
+    short_description: Hoping to gain Yusei's trust, Director Goodwin decides to share
+      with him the secrets behind the origin of the Satellite Sector and the ongoing
+      war between Signer and Dark Signer.
+    steam_appid: 604689
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

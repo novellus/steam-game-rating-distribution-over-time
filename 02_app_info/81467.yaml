@@ -1,0 +1,71 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Cobra Mobile
+    fullgame:
+      appid: '206690'
+      name: iBomber Defense Pacific
+    genres:
+    - description: Strategy
+      id: '2'
+    - description: Indie
+      id: '23'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/81467/header.jpg?t=1447355470
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 81467
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/81467/movie480.mp4?t=1447355470
+        max: http://steamcdn-a.akamaihd.net/steam/apps/81467/movie_max.mp4?t=1447355470
+      name: iBomber Defense Pacific Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/81467/movie.293x165.jpg?t=1447355470
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/81467/movie480.webm?t=1447355470
+        max: http://steamcdn-a.akamaihd.net/steam/apps/81467/movie_max.webm?t=1447355470
+    name: iBomber Defense Pacific Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Chillingo
+    release_date:
+      coming_soon: false
+      date: Mar 1, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 81467
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

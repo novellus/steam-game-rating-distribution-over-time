@@ -1,0 +1,184 @@
+details:
+  data:
+    about_the_game: "Three additional boards, oriented around four compass-points,\
+      \ make Tetris much more difficult. Every new block appears in the center of\
+      \ the navigation board. You can adjust its position and rotation before sending\
+      \ it off. <br />\r\n<br />\r\nFeatures: <br />\r\n- Four brutal boards instead\
+      \ of one classic in Tetris;<br />\r\n- Full of compromises: you have to sacrifice\
+      \ progress on some board to be successful on others; <br />\r\n- No time limit:\
+      \ relax and solve it;<br />\r\n- Stylish retro game art;"
+    achievements:
+      highlighted:
+      - name: 'First score! '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1243730/0443d8b3046547ae0baad8c4510809090445a68c.jpg
+      - name: Second score!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1243730/d0106f31a01b5db6c7719de3682ec7d29bdcdd32.jpg
+      - name: Third score!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1243730/843fade4b7cf61b87df39c65f7d2ad700cb8e36d.jpg
+      - name: 'First step. '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1243730/cc36c15066928d7aaa17e089c1e7eae36916f4a3.jpg
+      - name: First loose!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1243730/3d35180b4efcc0736ced1f66a520b3b91293befb.jpg
+      - name: Godlike!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1243730/5a6c003a42bf0af0815af475a20034ae793a4744.jpg
+      total: 6
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1243730/page_bg_generated_v6b.jpg?t=1584018247
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Three additional boards, oriented around four compass-points,\
+      \ make Tetris much more difficult. Every new block appears in the center of\
+      \ the navigation board. You can adjust its position and rotation before sending\
+      \ it off. <br />\r\n<br />\r\nFeatures: <br />\r\n- Four brutal boards instead\
+      \ of one classic in Tetris;<br />\r\n- Full of compromises: you have to sacrifice\
+      \ progress on some board to be successful on others; <br />\r\n- No time limit:\
+      \ relax and solve it;<br />\r\n- Stylish retro game art;"
+    developers:
+    - Launch Punch
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1243730/header.jpg?t=1584018247
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04 and newer recommended<br></li><li><strong>Processor:</strong>
+        Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD graphics<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8 Mountain Lion<br></li><li><strong>Processor:</strong> Intel Core
+        2 Duo<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD graphics<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256775843
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256775843/movie480.mp4?t=1582208167
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256775843/movie_max.mp4?t=1582208167
+      name: Four Ways Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256775843/movie.293x165.jpg?t=1582208167
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256775843/movie480.webm?t=1582208167
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256775843/movie_max.webm?t=1582208167
+    name: 'Four Ways: Block Puzzle'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Four Ways - <span class="discount_original_price">$4.99</span>
+          $2.49
+        packageid: 431629
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 249
+      title: 'Buy Four Ways: Block Puzzle'
+    packages:
+    - 431629
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD graphics<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 249
+      final_formatted: $2.49
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Launch Punch
+    release_date:
+      coming_soon: false
+      date: Mar 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_c7cadf234a81db1eca0a4b7b6fdcf487d412cb22.1920x1080.jpg?t=1584018247
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_c7cadf234a81db1eca0a4b7b6fdcf487d412cb22.600x338.jpg?t=1584018247
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_3592730c02b11134ec77cb04d7288fd5978c3370.1920x1080.jpg?t=1584018247
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_3592730c02b11134ec77cb04d7288fd5978c3370.600x338.jpg?t=1584018247
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_c1a9bf8d880020b201d06201963c4c2c6523a034.1920x1080.jpg?t=1584018247
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_c1a9bf8d880020b201d06201963c4c2c6523a034.600x338.jpg?t=1584018247
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_f2b92a76b14bc5bed690883914ede672e36f0d5a.1920x1080.jpg?t=1584018247
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_f2b92a76b14bc5bed690883914ede672e36f0d5a.600x338.jpg?t=1584018247
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_a6e35360752e0959172ba18763f0e70ebd0db940.1920x1080.jpg?t=1584018247
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_a6e35360752e0959172ba18763f0e70ebd0db940.600x338.jpg?t=1584018247
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_43421d97e700522d8bfb80419ffb039b676d616a.1920x1080.jpg?t=1584018247
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1243730/ss_43421d97e700522d8bfb80419ffb039b676d616a.600x338.jpg?t=1584018247
+    short_description: 'Four Ways: Block Puzzle is a four-way Tetris game, where you
+      play four simultaneous games of Tetris, using the same set of blocks on the
+      four different boards.'
+    steam_appid: 1243730
+    support_info:
+      email: launchpunchpr@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Spanish
+      - Latin America, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese,
+      Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ499DBjPYCcZnktQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 20
+    total_positive: 75
+    total_reviews: 95
+  reviews:
+  - author:
+      last_played: 1606345615
+      num_games_owned: 347
+      num_reviews: 5
+      playtime_at_review: 5
+      playtime_forever: 5
+      playtime_last_two_weeks: 0
+      steamid: '76561198291014614'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81207697'
+    review: not worth your money, and frankly winning is rng
+    steam_purchase: true
+    timestamp_created: 1606737627
+    timestamp_updated: 1606737627
+    voted_up: false
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

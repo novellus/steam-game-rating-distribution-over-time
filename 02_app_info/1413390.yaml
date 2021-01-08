@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: "Project source code for the base game.<br />\r\n<br />\r\nGraphics,\
+      \ music, and sound effects are not present"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1413390/page_bg_generated_v6b.jpg?t=1605516871
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 5
+      notes: null
+    detailed_description: "Project source code for the base game.<br />\r\n<br />\r\
+      \nGraphics, music, and sound effects are not present"
+    developers:
+    - Triority Interactive Novels
+    fullgame:
+      appid: '1105600'
+      name: 'Welcome To... Chichester 2 - Part II : No Regrets For The Future'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1413390/header.jpg?t=1605516871
+    is_free: false
+    legal_notice: The contents may only be used for educational purposes only
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    name: 'Welcome To... Chichester 2 - Part II : Project Code'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Welcome To... Chichester 2 - Part II : Project Code - $5.99'
+        packageid: 496010
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: 'Buy Welcome To... Chichester 2 - Part II : Project Code'
+    packages:
+    - 496010
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 16, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413390/ss_b78228f747e1f279b314498c5203b4c65b066400.1920x1080.jpg?t=1605516871
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413390/ss_b78228f747e1f279b314498c5203b4c65b066400.600x338.jpg?t=1605516871
+    short_description: Project source code for the base game
+    steam_appid: 1413390
+    support_info:
+      email: triority_developer@outlook.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

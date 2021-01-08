@@ -1,0 +1,62 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - FIVE-BN GAMES
+    fullgame:
+      appid: '986830'
+      name: 'The Legacy: The Tree of Might'
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/988720/header.jpg?t=1553172028
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Legacy: The Tree of Might Demo'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - FIVE-BN GAMES
+    release_date:
+      coming_soon: false
+      date: Dec 23, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 988720
+    support_info:
+      email: support@five-bn.com
+      url: http://five-bn.com/contacts
+    supported_languages: English<strong>*</strong>, French, German, Dutch, Polish,
+      Russian, Italian, Spanish - Spain, Portuguese - Brazil, Czech, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

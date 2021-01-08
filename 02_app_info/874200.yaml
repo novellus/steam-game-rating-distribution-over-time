@@ -1,0 +1,191 @@
+details:
+  data:
+    about_the_game: "If you like Match 3 games, you need this game in your collection!<br\
+      \ />\r\n<br />\r\nUse your mouse to swipe through the fruits and collect them\
+      \ all.<br />\r\n<br />\r\nThe game contains 100 levels with exciting achievements.<br\
+      \ />\r\n<br />\r\nComplete all mission types:<br />\r\n- Reach the target score<br\
+      \ />\r\n- Gather specific fruits<br />\r\n- Remove colored tiles<br />\r\n-\
+      \ Collect trophies<br />\r\n<br />\r\nThe game has 2 challenging variations:<br\
+      \ />\r\n- Time limits<br />\r\n- Move limits<br />\r\n<br />\r\nCan you complete\
+      \ all 100 levels?"
+    achievements:
+      highlighted:
+      - name: Complete 10 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/00fe7c5f821e723c200519ce9665aa4aa8821f2a.jpg
+      - name: Complete 20 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/de3cd4107a4710b34f5e87243a79412b881257ae.jpg
+      - name: Complete 30 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/7f08062b48be26b6f5027e456f25f6b2998742ed.jpg
+      - name: Complete 40 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/b274e38484478189b8c2d7b4842a39712bd05845.jpg
+      - name: Complete 50 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/c4a0339273ad21c63efd1cabd0519810bab2c8aa.jpg
+      - name: Complete 60 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/a081a27a8d33ceada7e7d9797eb36758bec7cafe.jpg
+      - name: Complete 70 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/92bd7a586b67cf227eff0089f1f576b99ba258be.jpg
+      - name: Complete 80 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/c7121456258690f0d8dc5bc8e6c104021d3bac5d.jpg
+      - name: Complete 90 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/e63e2cf452559fc3aa80bc7a21f4ad8a54633118.jpg
+      - name: Complete 100 Different Levels
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/874200/924127cf40d4a1536130fc32d95803a18e487e76.jpg
+      total: 12
+    background: https://steamcdn-a.akamaihd.net/steam/apps/874200/page_bg_generated_v6b.jpg?t=1599681510
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "If you like Match 3 games, you need this game in your collection!<br\
+      \ />\r\n<br />\r\nUse your mouse to swipe through the fruits and collect them\
+      \ all.<br />\r\n<br />\r\nThe game contains 100 levels with exciting achievements.<br\
+      \ />\r\n<br />\r\nComplete all mission types:<br />\r\n- Reach the target score<br\
+      \ />\r\n- Gather specific fruits<br />\r\n- Remove colored tiles<br />\r\n-\
+      \ Collect trophies<br />\r\n<br />\r\nThe game has 2 challenging variations:<br\
+      \ />\r\n- Time limits<br />\r\n- Move limits<br />\r\n<br />\r\nCan you complete\
+      \ all 100 levels?"
+    developers:
+    - Fabio Cunha
+    dlc:
+    - 927030
+    - 927040
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/874200/header.jpg?t=1599681510
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256718640
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256718640/movie480.mp4?t=1528729725
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256718640/movie_max.mp4?t=1528729725
+      name: Steam Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256718640/movie.293x165.jpg?t=1528729725
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256718640/movie480.webm?t=1528729725
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256718640/movie_max.webm?t=1528729725
+    name: Swipe Fruit Smash
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Swipe Fruit Smash - $4.99
+        packageid: 276481
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Swipe Fruit Smash
+    packages:
+    - 276481
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Core 2 Duo</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Fabio Cunha
+    release_date:
+      coming_soon: false
+      date: Jun 25, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_7c0a92be2a9b21fcd3ed2a108e3f14b595ac3198.1920x1080.jpg?t=1599681510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_7c0a92be2a9b21fcd3ed2a108e3f14b595ac3198.600x338.jpg?t=1599681510
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_9d4442e2398b3a0807304b7998c1693b5c397396.1920x1080.jpg?t=1599681510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_9d4442e2398b3a0807304b7998c1693b5c397396.600x338.jpg?t=1599681510
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_d441cc19f772f5c1c7305d7a14cf48857f8764be.1920x1080.jpg?t=1599681510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_d441cc19f772f5c1c7305d7a14cf48857f8764be.600x338.jpg?t=1599681510
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_ca5aa3cf2bdaa30fb1f097ffbac0283b2f86db8e.1920x1080.jpg?t=1599681510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_ca5aa3cf2bdaa30fb1f097ffbac0283b2f86db8e.600x338.jpg?t=1599681510
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_e738e367ed3f8b4c91af1ce88f6092c6f781928e.1920x1080.jpg?t=1599681510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/874200/ss_e738e367ed3f8b4c91af1ce88f6092c6f781928e.600x338.jpg?t=1599681510
+    short_description: Use the mouse to swipe through the fruits and collect all.
+    steam_appid: 874200
+    support_info:
+      email: fabiobh@hotmail.com.br
+      url: https://horizontestudios.netlify.com/
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4koTLsvQCfKSgoAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 2
+    total_positive: 8
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 1599424787
+      num_games_owned: 2770
+      num_reviews: 90
+      playtime_at_review: 34
+      playtime_forever: 34
+      playtime_last_two_weeks: 0
+      steamid: '76561197999014224'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '75563596'
+    review: "\u0438\u0433\u0440\u0430 \u0442\u0438\u043F\u0430 \"3 \u0432 \u0440\u044F\
+      \u0434\", \u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E\
+      \ \u043F\u0440\u043E\u0441\u0442\u0430\u044F. \u0421\u0434\u0435\u043B\u0430\
+      \u043D\u0430 \u043D\u0430 \u044E\u043D\u0438\u0442\u0438, \u0430\u043D\u0438\
+      \u043C\u0430\u0446\u0438\u0438 \u043C\u043E\u0436\u043D\u043E \u0441\u043A\u0430\
+      \u0437\u0430\u0442\u044C \u043D\u0435\u0442. \u041C\u0435\u043B\u043E\u0434\u0438\
+      \u044F \u043E\u0434\u043D\u043E\u043E\u0431\u0440\u0430\u0437\u043D\u0430\u044F\
+      \ \u0438 \u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0430\u044E\u0449\u0430\u044F\
+      . \u041E\u0449\u0443\u0449\u0435\u043D\u0438\u0435 \u0447\u0442\u043E \u0441\
+      \u0434\u0435\u043B\u0430\u043D\u0430 \u0437\u0430 \u0432\u0435\u0447\u0435\u0440\
+      , \u043F\u0440\u043E\u0441\u0442\u043E \u0447\u0442\u043E\u0431 \u0445\u043E\
+      \u0442\u044C \u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0442\u043E \u0437\u0430\
+      \u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C \u0441 \u043F\u0440\u043E\u0434\
+      \u0430\u0436\u0438, \u0446\u0435\u043D\u0430 \u0437\u0430\u0432\u044B\u0448\u0435\
+      \u043D\u0430. \u041D\u0435 \u0440\u0435\u043A\u043E\u043C\u0435\u043D\u0434\u0443\
+      \u044E."
+    steam_purchase: true
+    timestamp_created: 1599425225
+    timestamp_updated: 1599425225
+    voted_up: false
+    votes_funny: 0
+    votes_up: 5
+    weighted_vote_score: '0.606890439987182617'
+    written_during_early_access: false
+  success: 1

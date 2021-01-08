@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: "All-new stages featuring music by HyuN:<br />\r\nInferno Force\
+      \ / Hyun ft. Kabotya<br />\r\nFallen Angel / HyuN ft. JeeE<br />\r\nGirl Embracing\
+      \ the Dark for Light 2 / HyuN (coming soon in free update)<br />\r\n<br />\r\
+      \nOwning at least one Artist Pack unlocks Mega Style for use, giving you a new\
+      \ way to play older content as well by using its unique charging ability!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/964640/page_bg_generated_v6b.jpg?t=1598893911
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "All-new stages featuring music by HyuN:<br />\r\nInferno\
+      \ Force / Hyun ft. Kabotya<br />\r\nFallen Angel / HyuN ft. JeeE<br />\r\nGirl\
+      \ Embracing the Dark for Light 2 / HyuN (coming soon in free update)<br />\r\
+      \n<br />\r\nOwning at least one Artist Pack unlocks Mega Style for use, giving\
+      \ you a new way to play older content as well by using its unique charging ability!"
+    developers:
+    - Anarch Entertainment
+    fullgame:
+      appid: '681530'
+      name: NOISZ
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/964640/header.jpg?t=1598893911
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X / macOS<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000</li></ul>
+    name: NOISZ HyuN Level Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: NOISZ HyuN Artist Pack - $2.99
+        packageid: 315677
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy NOISZ HyuN Level Pack
+    packages:
+    - 315677
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10 / 8 / 7 / Vista / XP<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Anarch Entertainment
+    release_date:
+      coming_soon: false
+      date: Mar 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/964640/ss_ea2fa0f168b38111f81c2b5ed119aee07878bee2.1920x1080.jpg?t=1598893911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/964640/ss_ea2fa0f168b38111f81c2b5ed119aee07878bee2.600x338.jpg?t=1598893911
+    short_description: 'All-new stages featuring music by HyuN: Inferno Force / Hyun
+      ft. Kabotya Fallen Angel / HyuN ft. JeeE Girl Embracing the Dark for Light 2
+      / HyuN (coming soon!'
+    steam_appid: 964640
+    support_info:
+      email: contact@noiszgame.com
+      url: ''
+    supported_languages: English, Japanese, Simplified Chinese
+    type: dlc
+    website: http://noiszgame.com/
+  success: true
+reviews:
+  cursor: AoJ4l4aSgOwCeOjGzgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 36
+      num_reviews: 9
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198381954094'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '54146696'
+    review: string doge
+    steam_purchase: true
+    timestamp_created: 1563372827
+    timestamp_updated: 1563372827
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

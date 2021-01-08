@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: The Nova Blitz Steam Pack is a special offer only available for
+      players on Steam. It will stack with any other special offers you might buy<br><ul
+      class="bb_ul"><li>10 Smart Packs<br></li><li>100 Nova Gems<br></li><li>1000
+      Credits<br></li><li>Plus 1 Smart Pack every day for a month.</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/678600/page_bg_generated_v6b.jpg?t=1501689358
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Trading Cards
+      id: 29
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Nova Blitz Steam Pack is a special offer only available
+      for players on Steam. It will stack with any other special offers you might
+      buy<br><ul class="bb_ul"><li>10 Smart Packs<br></li><li>100 Nova Gems<br></li><li>1000
+      Credits<br></li><li>Plus 1 Smart Pack every day for a month.</li></ul>
+    developers:
+    - Dragon Foundry
+    fullgame:
+      appid: '388370'
+      name: Nova Blitz
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/678600/header.jpg?t=1501689358
+    is_free: false
+    legal_notice: (c) 2017 Dragon Foundry LLC
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04<br></li><li><strong>Processor:</strong> Dual core Intel/AMD 1.8
+        GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD 3000<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8+<br></li><li><strong>Processor:</strong> Dual core Intel/AMD
+        1.8 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD 3000<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound
+        Card:</strong> Any</li></ul>
+    name: Nova Blitz Steam Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Nova Blitz Steam Pack - $39.99
+        packageid: 193643
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3999
+      title: Buy Nova Blitz Steam Pack
+    packages:
+    - 193643
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> Dual core Intel/AMD
+        1.8 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD 3000<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 3999
+      final_formatted: $39.99
+      initial: 3999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 2, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678600/ss_dd58de34f040bf832fb21993935d314e725b79cc.1920x1080.jpg?t=1501689358
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678600/ss_dd58de34f040bf832fb21993935d314e725b79cc.600x338.jpg?t=1501689358
+    short_description: 'The Nova Blitz Steam Pack gives you: 10 Smart Packs, 100 Nova
+      Gems, 1000 Credits, and 1 extra Smart Pack every day for a month.'
+    steam_appid: 678600
+    support_info:
+      email: support@dragonfoundry.com
+      url: http://www.NovaBlitz.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.NovaBlitz.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

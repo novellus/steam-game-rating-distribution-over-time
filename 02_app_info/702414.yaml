@@ -1,0 +1,130 @@
+details:
+  data:
+    about_the_game: "After an ancient disaster, the Starfall Crater lay fallow for\
+      \ generations. Now fully recovered, the region's many natural resources are\
+      \ prime for exploitation.<br />\r\n<br />\r\nThe special rules are:<br />\r\n\
+      \ <br />\r\n1) There are coins at some regions on the map. If you are the first\
+      \ to reach the coin, you claim it immediately.<br />\r\n2) The central continent\
+      \ is worth 4vp. All other continents are worth 2vp.<br />\r\n3) This map has\
+      \ a few more goods regions than usual.<br />\r\n4) The VP for sets of goods\
+      \ is slightly different: 1/2/4/7"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/702414/page_bg_generated_v6b.jpg?t=1607351046
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "After an ancient disaster, the Starfall Crater lay fallow\
+      \ for generations. Now fully recovered, the region's many natural resources\
+      \ are prime for exploitation.<br />\r\n<br />\r\nThe special rules are:<br />\r\
+      \n <br />\r\n1) There are coins at some regions on the map. If you are the first\
+      \ to reach the coin, you claim it immediately.<br />\r\n2) The central continent\
+      \ is worth 4vp. All other continents are worth 2vp.<br />\r\n3) This map has\
+      \ a few more goods regions than usual.<br />\r\n4) The VP for sets of goods\
+      \ is slightly different: 1/2/4/7"
+    developers:
+    - Acram Digital
+    fullgame:
+      appid: '656590'
+      name: Eight-Minute Empire
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/702414/header.jpg?t=1607351046
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8+</li></ul>
+    name: 'Eight-Minute Empire: Starfall Crater Map'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Eight-Minute Empire: Starfall Crater Map - <span class="discount_original_price">$1.99</span>
+          $0.79'
+        packageid: 202458
+        percent_savings: 0
+        percent_savings_text: '-60% '
+        price_in_cents_with_discount: 79
+      title: 'Buy Eight-Minute Empire: Starfall Crater Map'
+    packages:
+    - 202458
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 60
+      final: 79
+      final_formatted: $0.79
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - Acram Digital
+    release_date:
+      coming_soon: false
+      date: Sep 6, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/702414/ss_adfb0327f10fda8bcfcc440df7b0244e86650043.1920x1080.jpg?t=1607351046
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/702414/ss_adfb0327f10fda8bcfcc440df7b0244e86650043.600x338.jpg?t=1607351046
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/702414/ss_075b3ccccd674c8377e4ddedc2ad3e854ad36602.1920x1080.jpg?t=1607351046
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/702414/ss_075b3ccccd674c8377e4ddedc2ad3e854ad36602.600x338.jpg?t=1607351046
+    short_description: After an ancient disaster, the Starfall Crater lay fallow for
+      generations. Now fully recovered, the region's many natural resources are prime
+      for exploitation.
+    steam_appid: 702414
+    support_info:
+      email: support@acram.eu
+      url: http://eight.acram.eu
+    supported_languages: English, French, Italian, German, Spanish - Spain, Traditional
+      Chinese, Simplified Chinese, Dutch, Japanese, Korean, Polish, Russian
+    type: dlc
+    website: http://eight.acram.eu
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

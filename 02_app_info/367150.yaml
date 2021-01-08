@@ -1,0 +1,95 @@
+details:
+  data:
+    about_the_game: "This is the original soundtrack for Earthtongue by Eric Hornby<br\
+      \ />\r\n<br />\r\nTrack Listing:<br />\r\n<br />\r\nEarthtongue (Title Version)<br\
+      \ />\r\nPlanet Mushroom<br />\r\nLonely Bug Wanders the Stars<br />\r\nMantis<br\
+      \ />\r\nDrought<br />\r\nSpores Fall<br />\r\nEarthtongue"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/367150/page_bg_generated_v6b.jpg?t=1447373537
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is the original soundtrack for Earthtongue by Eric\
+      \ Hornby<br />\r\n<br />\r\nTrack Listing:<br />\r\n<br />\r\nEarthtongue (Title\
+      \ Version)<br />\r\nPlanet Mushroom<br />\r\nLonely Bug Wanders the Stars<br\
+      \ />\r\nMantis<br />\r\nDrought<br />\r\nSpores Fall<br />\r\nEarthtongue"
+    developers:
+    - David O'Boyle
+    fullgame:
+      appid: '358070'
+      name: Earthtongue
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/367150/header.jpg?t=1447373537
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    name: Earthtongue Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Earthtongue Soundtrack - $2.99
+        packageid: 66495
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Earthtongue Soundtrack
+    packages:
+    - 66495
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Erichermit
+    release_date:
+      coming_soon: false
+      date: Apr 28, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/367150/ss_db12be27608d9dbe8201a30d953b8d84761e12ed.1920x1080.jpg?t=1447373537
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/367150/ss_db12be27608d9dbe8201a30d953b8d84761e12ed.600x338.jpg?t=1447373537
+    short_description: This is the original soundtrack for Earthtongue by Eric Hornby
+    steam_appid: 367150
+    support_info:
+      email: contact@erichermit.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://dwoboyle.bandcamp.com/album/earthtongue-soundtrack
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

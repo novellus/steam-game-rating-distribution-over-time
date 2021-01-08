@@ -1,0 +1,148 @@
+details:
+  data:
+    about_the_game: <i>This DLC is simply a support option. It does not alter the
+      game in any way.</i><strong> If you would like to further support me, you can
+      purchase the second game, <u>Disturbed Beyond Aramor</u> for no more than $5.
+      Thank you!</strong><br><br><a href="https://store.steampowered.com/app/617620/Disturbed_Beyond_Aramor/"
+      target="_blank" rel="noreferrer"  ><img src="https://steamcdn-a.akamaihd.net/steam/apps/551560/extras/dba_banner.jpg.gif?t=1578089075"
+      /></a>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/551560/page_bg_generated_v6b.jpg?t=1578089075
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <i>This DLC is simply a support option. It does not alter
+      the game in any way.</i><strong> If you would like to further support me, you
+      can purchase the second game, <u>Disturbed Beyond Aramor</u> for no more than
+      $5. Thank you!</strong><br><br><a href="https://store.steampowered.com/app/617620/Disturbed_Beyond_Aramor/"
+      target="_blank" rel="noreferrer"  ><img src="https://steamcdn-a.akamaihd.net/steam/apps/551560/extras/dba_banner.jpg.gif?t=1578089075"
+      /></a>
+    developers:
+    - iBlackpen
+    fullgame:
+      appid: '529780'
+      name: Disturbed
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/551560/header.jpg?t=1578089075
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86 or compatible</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.4 or later</li></ul>
+    name: Disturbed - Support DLC
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Disturbed - Support DLC - $0.99
+        packageid: 136890
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Disturbed - Support DLC
+    packages:
+    - 136890
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or later<br></li><li><strong>Processor:</strong> 1.2 Ghz</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 1, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_a17474e7dd25b6a39bfdee7865c16bde93cf420d.1920x1080.jpg?t=1578089075
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_a17474e7dd25b6a39bfdee7865c16bde93cf420d.600x338.jpg?t=1578089075
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_10884b564c7d11f50b2a26d0505e9971b14a0a21.1920x1080.jpg?t=1578089075
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_10884b564c7d11f50b2a26d0505e9971b14a0a21.600x338.jpg?t=1578089075
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_fca4c7ffa63d75c6877fde7703ccd5f6bfdcf559.1920x1080.jpg?t=1578089075
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_fca4c7ffa63d75c6877fde7703ccd5f6bfdcf559.600x338.jpg?t=1578089075
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_75cbb9d167b5d1fd30c18a1e0fb6a73efece95c3.1920x1080.jpg?t=1578089075
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_75cbb9d167b5d1fd30c18a1e0fb6a73efece95c3.600x338.jpg?t=1578089075
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_f23447527835b3547d42cb406db63b4dd4557724.1920x1080.jpg?t=1578089075
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/551560/ss_f23447527835b3547d42cb406db63b4dd4557724.600x338.jpg?t=1578089075
+    short_description: This 'support dlc' does not add any new content to the game.
+      Having this simply keeps the game listed in your steam library. Thank you for
+      your support.
+    steam_appid: 551560
+    support_info:
+      email: ''
+      url: http://iblackpen.com/
+    supported_languages: English
+    type: dlc
+    website: http://iblackpen.com/
+  success: true
+reviews:
+  cursor: AoJwoaj9s/ICc6WliwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 10
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 540
+      num_reviews: 114
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198072113884'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '70068819'
+    review: Well worth $1 to support the making of this game. Thank you!
+    steam_purchase: true
+    timestamp_created: 1590882026
+    timestamp_updated: 1590882026
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.521562278270721436'
+    written_during_early_access: false
+  success: 1

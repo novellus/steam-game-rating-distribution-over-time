@@ -1,0 +1,69 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Endless Shirafu
+    fullgame:
+      appid: '857460'
+      name: "\u2200kashicforce"
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1045570/header.jpg?t=1572479896
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u2200kashicforce Demo"
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8.1/10 64bit<br></li><li><strong>Processor:</strong> Intel Core i5-3230(2.86GHz)
+        or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Shader Model 3.0 or higher, 1280x720 or higher display<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Fruitbat Factory
+    release_date:
+      coming_soon: false
+      date: Mar 29, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1045570
+    support_info:
+      email: support@fruitbatfactory.com
+      url: http://fruitbatfactory.com
+    supported_languages: English, Japanese
+    type: demo
+    website: http://fruitbatfactory.com/akashicforce/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/816470/page_bg_generated_v6b.jpg?t=1531368858
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Lucas Simmons
+    - James Gagnon
+    - Holden Newton
+    fullgame:
+      appid: '815730'
+      name: Swingy Sword
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/816470/header.jpg?t=1531368858
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        140 MB available space</li></ul>
+    name: Swingy Sword Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        140 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Thulium Games
+    release_date:
+      coming_soon: false
+      date: Jul 11, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_12997a71f0e9adcecf568707f8726135a3f1941c.1920x1080.jpg?t=1531368858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_12997a71f0e9adcecf568707f8726135a3f1941c.600x338.jpg?t=1531368858
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_c00ac0116de8412c792eeea08e00c0adcda265b5.1920x1080.jpg?t=1531368858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_c00ac0116de8412c792eeea08e00c0adcda265b5.600x338.jpg?t=1531368858
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_ffbc5d07f2afbb173c3d5f72b5d39f783d0e7b67.1920x1080.jpg?t=1531368858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_ffbc5d07f2afbb173c3d5f72b5d39f783d0e7b67.600x338.jpg?t=1531368858
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_d9800412b402695759e423b0386b68ae7b1967ba.1920x1080.jpg?t=1531368858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_d9800412b402695759e423b0386b68ae7b1967ba.600x338.jpg?t=1531368858
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_dae75868e4f39c7428ce5dcca354cafa6deb4ed3.1920x1080.jpg?t=1531368858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_dae75868e4f39c7428ce5dcca354cafa6deb4ed3.600x338.jpg?t=1531368858
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_66d7de6e028f4da2557c6ab93739a8d45097a17c.1920x1080.jpg?t=1531368858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_66d7de6e028f4da2557c6ab93739a8d45097a17c.600x338.jpg?t=1531368858
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_3dea962bab335173263cf11b8a1f43aa6e2a41ac.1920x1080.jpg?t=1531368858
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/816470/ss_3dea962bab335173263cf11b8a1f43aa6e2a41ac.600x338.jpg?t=1531368858
+    short_description: ''
+    steam_appid: 816470
+    support_info:
+      email: thuliumgames@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://thuliumgames.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

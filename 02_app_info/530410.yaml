@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Game demo
+      id: 10
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - GoBit Games
+    fullgame:
+      appid: '528420'
+      name: Evil Orbs
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/530410/header.jpg?t=1478202616
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Evil Orbs Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - GoBit Games
+    release_date:
+      coming_soon: false
+      date: Oct 27, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 530410
+    support_info:
+      email: support@gobit.com
+      url: http://gobit.com/support.html
+    type: demo
+    website: http://www.gobit.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

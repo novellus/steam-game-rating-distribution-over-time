@@ -1,0 +1,212 @@
+details:
+  data:
+    about_the_game: Join us in a magical new world! Decide what role you will play
+      in the massive living, breathing world of Kanna where the island and its diverse
+      inhabitants will both challenge and assist you along your journey. Travel alone
+      or with a variety of companions, and use materials hunted and harvested to cook
+      magical dishes to bring on your next, bigger adventure!
+    achievements:
+      highlighted:
+      - name: Kanna Marathon
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/44f5d3cc0659b4703d7d28104e5825c1c3777096.jpg
+      - name: Ultra Marathon Runner
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/4f7af771f12dc7d7c5120d71e9bd12e40c1dba50.jpg
+      - name: Super Ultra Marathon Runner
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/9091c1e39acf0b03a7ec421481b665564bf6d7d3.jpg
+      - name: Dead Runner
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/f65790fda14e477de3ad588161264e6525f757bb.jpg
+      - name: Ascended Runner (Ya did it. Now rest. Please)
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/cfa4dac502e7a0716193626c5c84a55cb5a1ccbc.jpg
+      - name: Music Lover
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/782c8e3823b159ab2519a19f3c7c010559d378e2.jpg
+      - name: Gym Member
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/3394cae84ce33fa8f7573ece0878e088d7e301e6.jpg
+      - name: Avid Climber
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/565d09bbece9df550e05802c81ad733b8f1cf7cb.jpg
+      - name: Solo Climber
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/6ee39cfe053de6fed169deef98c1314edad32aa1.jpg
+      - name: Mountain Climber
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1114710/51838c521dd2b06a2ed082bedcaedb3dadd5633c.jpg
+      total: 10
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1114710/page_bg_generated_v6b.jpg?t=1581784757
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Join us in a magical new world! Decide what role you will
+      play in the massive living, breathing world of Kanna where the island and its
+      diverse inhabitants will both challenge and assist you along your journey. Travel
+      alone or with a variety of companions, and use materials hunted and harvested
+      to cook magical dishes to bring on your next, bigger adventure!
+    developers:
+    - Hillside Studio
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1114710/header.jpg?t=1581784757
+    is_free: false
+    legal_notice: KANNA Copyright Hillside Studio
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256769555
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256769555/movie480.mp4?t=1576710587
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256769555/movie_max.mp4?t=1576710587
+      name: Kanna Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256769555/movie.293x165.jpg?t=1576710587
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256769555/movie480.webm?t=1576710587
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256769555/movie_max.webm?t=1576710587
+    name: KANNA
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: KANNA - $9.99
+        packageid: 377349
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy KANNA
+    packages:
+    - 377349
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / 1060<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10<br></li><li><strong>Processor:</strong> Intel Core i7<br></li><li><strong>Memory:</strong>
+        16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1070<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Hillside Studio
+    release_date:
+      coming_soon: false
+      date: Feb 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_f54f77c76da87d77e7bd7d401be42afbf6ce3397.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_f54f77c76da87d77e7bd7d401be42afbf6ce3397.600x338.jpg?t=1581784757
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_e900e777a1cbe29f2f123532652589443b61ce59.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_e900e777a1cbe29f2f123532652589443b61ce59.600x338.jpg?t=1581784757
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_8bca7652189e175555025942d1c23bd2c82e1cf8.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_8bca7652189e175555025942d1c23bd2c82e1cf8.600x338.jpg?t=1581784757
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_a7a64fdf180b6c64215f2e744e70e5f961d3b68e.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_a7a64fdf180b6c64215f2e744e70e5f961d3b68e.600x338.jpg?t=1581784757
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_a0c8ac6f563250123b307435fa7e6e69b3a2630a.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_a0c8ac6f563250123b307435fa7e6e69b3a2630a.600x338.jpg?t=1581784757
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_4d981ff965d4af97a54c2995075476d1aaf4ca5b.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_4d981ff965d4af97a54c2995075476d1aaf4ca5b.600x338.jpg?t=1581784757
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_6e5bf6ac3c81d58e4e5cd12bf4ae313eb9ef94e9.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_6e5bf6ac3c81d58e4e5cd12bf4ae313eb9ef94e9.600x338.jpg?t=1581784757
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_5910ebf4ee998df8da3dd727e84e2a2f71e49cd2.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_5910ebf4ee998df8da3dd727e84e2a2f71e49cd2.600x338.jpg?t=1581784757
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_ccb3c9f60bd624d99b054ea18b891a52fd52f5be.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_ccb3c9f60bd624d99b054ea18b891a52fd52f5be.600x338.jpg?t=1581784757
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_5e2fa3562ea1cedb26eb9835137c266630be4754.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_5e2fa3562ea1cedb26eb9835137c266630be4754.600x338.jpg?t=1581784757
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_00ddb991b2c3ef6f5ddd0dcc694d8d1c6a5e271f.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_00ddb991b2c3ef6f5ddd0dcc694d8d1c6a5e271f.600x338.jpg?t=1581784757
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_eec12aa6466713257261aaf6ddb963d77676222d.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_eec12aa6466713257261aaf6ddb963d77676222d.600x338.jpg?t=1581784757
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_a2bcd878502b826874cde073d56c7b71fe05fc72.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_a2bcd878502b826874cde073d56c7b71fe05fc72.600x338.jpg?t=1581784757
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_5e5d1946566a052a0cf11bb59413bb45b116d303.1920x1080.jpg?t=1581784757
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1114710/ss_5e5d1946566a052a0cf11bb59413bb45b116d303.600x338.jpg?t=1581784757
+    short_description: Join us in a magical new world! Decide what role you will play
+      in the massive living, breathing world of...
+    steam_appid: 1114710
+    support_info:
+      email: kannathegame@gmail.com
+      url: twitter.com/kannathegame
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://kannagame.com/
+  success: true
+reviews:
+  cursor: AoJ428TVvPQCdayAoQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 5
+    total_positive: 0
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 1585604534
+      num_games_owned: 608
+      num_reviews: 131
+      playtime_at_review: 62
+      playtime_forever: 62
+      playtime_last_two_weeks: 0
+      steamid: '76561198021509854'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75760325'
+    review: "Abandonware. \n\nThis was an interesting game but the devs just decided\
+      \ to pull it out of Early Access broken and unfinished. \nScreenshots and gifs\
+      \ look nice but that's all it has to offer.\nIt's still being advertised in\
+      \ the official Twitter page which is just scummy."
+    steam_purchase: true
+    timestamp_created: 1599763523
+    timestamp_updated: 1599763523
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

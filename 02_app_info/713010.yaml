@@ -1,0 +1,191 @@
+details:
+  data:
+    about_the_game: "<strong>WARIUM is a turn-based strategy for creating your empire.</strong><br><br>The\
+      \ WARIUM world is a procedurally generated hexagonal map that consists of different\
+      \ biomes. Who knows where you will start your journey. Maybe it will be a cold\
+      \ and empty tundra or a fertile and impassable jungle?<br><br>Units capture\
+      \ cells and expand your empire, but be careful: the extended power is easier\
+      \ to crush into smaller ones! Units do not have health, but there is a force\
+      \ parameter. A strong unit can destroy a weaker unit. So hold back the onslaught\
+      \ of the numerous, but weak army of your enemy.<br><br>Recruit and upgrade units,\
+      \ build buildings and raise your economy. You are free to choose in which direction\
+      \ to expand your power.<br><br>Game process:<ul class=\"bb_ul\"><li>Sandbox.<br></li><li>The\
+      \ world is created by chance.<br></li><li>The world consists of islands that\
+      \ are connected to each other by teleports.<br></li><li>The world is shrouded\
+      \ in biomes, which differ not only in landscape and fertility, but also in the\
+      \ initial densely populated areas.<br></li><li>Up to 30 states can appear on\
+      \ a small field. And up to 900 in the big world.<br></li><li>You start playing\
+      \ in the village.<br></li><li>To capture the cells, the unit must stand on it.<br></li><li>Units\
+      \ gain experience when capturing enemy cells, after which the units can be improved.<br></li><li>Build\
+      \ economic and defensive structures.<br></li><li>In the game there are several\
+      \ types of units: swordsmen, lancers, cavalry, long-range.<br>\_\_\_\_ Spearmen\
+      \ are good against cavalry, but weak before swordsmen and long-range.<br></li><li>Units\
+      \ contain several branches of upgrade.<br></li><li>Discover the world - find\
+      \ tactically advantageous areas of the terrain, fertile cells.<br></li><li>If\
+      \ the territory of the state is crushed and ceases to connect with the capital,\
+      \ then it has its own capital and its treasury.<br></li><li>To win, you must\
+      \ destroy all enemy states.</li></ul><br><strong>Choose your faction and go\
+      \ ahead.</strong>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/713010/page_bg_generated_v6b.jpg?t=1520071584
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong>WARIUM is a turn-based strategy for creating your\
+      \ empire.</strong><br><br>The WARIUM world is a procedurally generated hexagonal\
+      \ map that consists of different biomes. Who knows where you will start your\
+      \ journey. Maybe it will be a cold and empty tundra or a fertile and impassable\
+      \ jungle?<br><br>Units capture cells and expand your empire, but be careful:\
+      \ the extended power is easier to crush into smaller ones! Units do not have\
+      \ health, but there is a force parameter. A strong unit can destroy a weaker\
+      \ unit. So hold back the onslaught of the numerous, but weak army of your enemy.<br><br>Recruit\
+      \ and upgrade units, build buildings and raise your economy. You are free to\
+      \ choose in which direction to expand your power.<br><br>Game process:<ul class=\"\
+      bb_ul\"><li>Sandbox.<br></li><li>The world is created by chance.<br></li><li>The\
+      \ world consists of islands that are connected to each other by teleports.<br></li><li>The\
+      \ world is shrouded in biomes, which differ not only in landscape and fertility,\
+      \ but also in the initial densely populated areas.<br></li><li>Up to 30 states\
+      \ can appear on a small field. And up to 900 in the big world.<br></li><li>You\
+      \ start playing in the village.<br></li><li>To capture the cells, the unit must\
+      \ stand on it.<br></li><li>Units gain experience when capturing enemy cells,\
+      \ after which the units can be improved.<br></li><li>Build economic and defensive\
+      \ structures.<br></li><li>In the game there are several types of units: swordsmen,\
+      \ lancers, cavalry, long-range.<br>\_\_\_\_ Spearmen are good against cavalry,\
+      \ but weak before swordsmen and long-range.<br></li><li>Units contain several\
+      \ branches of upgrade.<br></li><li>Discover the world - find tactically advantageous\
+      \ areas of the terrain, fertile cells.<br></li><li>If the territory of the state\
+      \ is crushed and ceases to connect with the capital, then it has its own capital\
+      \ and its treasury.<br></li><li>To win, you must destroy all enemy states.</li></ul><br><strong>Choose\
+      \ your faction and go ahead.</strong>"
+    developers:
+    - ELF
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/713010/header.jpg?t=1520071584
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 256708354
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256708354/movie480.mp4?t=1518647777
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256708354/movie_max.mp4?t=1518647777
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256708354/movie.293x165.jpg?t=1518647777
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256708354/movie480.webm?t=1518647777
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256708354/movie_max.webm?t=1518647777
+    name: WARIUM
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Warium - <span class="discount_original_price">$0.99</span> $0.49
+        packageid: 206339
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy WARIUM
+    packages:
+    - 206339
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista 64-bit, Windows 7 64-bit, Windows 8 64-bit, Windows 10 64-bit<br></li><li><strong>Processor:</strong>
+        2 GHz Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - ELF
+    release_date:
+      coming_soon: false
+      date: Mar 1, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_b913988f21ce01224f0796bcb0d56e8f8cb5de07.1920x1080.jpg?t=1520071584
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_b913988f21ce01224f0796bcb0d56e8f8cb5de07.600x338.jpg?t=1520071584
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_6b9bd13e8c4815d18c33daa7ac99bdfdfb42bc34.1920x1080.jpg?t=1520071584
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_6b9bd13e8c4815d18c33daa7ac99bdfdfb42bc34.600x338.jpg?t=1520071584
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_18ebf96836dca456021cd3d4635395c9c922c2c2.1920x1080.jpg?t=1520071584
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_18ebf96836dca456021cd3d4635395c9c922c2c2.600x338.jpg?t=1520071584
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_99400343f403305eec0f1f274f0c58dba333865d.1920x1080.jpg?t=1520071584
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_99400343f403305eec0f1f274f0c58dba333865d.600x338.jpg?t=1520071584
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_9b159e995a7db51546af0036449056e225e110c3.1920x1080.jpg?t=1520071584
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_9b159e995a7db51546af0036449056e225e110c3.600x338.jpg?t=1520071584
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_9a19a64d7c6f5d575bf2b5a17ef6eaffd793cc02.1920x1080.jpg?t=1520071584
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/713010/ss_9a19a64d7c6f5d575bf2b5a17ef6eaffd793cc02.600x338.jpg?t=1520071584
+    short_description: WARIUM is a turn-based strategy for creating your empire. Choose
+      your faction and go ahead. Recruit and upgrade units, build buildings and raise
+      your economy. You are free to choose in which direction to expand your power.
+    steam_appid: 713010
+    support_info:
+      email: tok2045@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwyraWwPUCfoaWqwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 4
+    total_positive: 12
+    total_reviews: 16
+  reviews:
+  - author:
+      last_played: 1608579757
+      num_games_owned: 25
+      num_reviews: 4
+      playtime_at_review: 417
+      playtime_forever: 592
+      playtime_last_two_weeks: 0
+      steamid: '76561198427181334'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78426222'
+    review: very strange game with a relatively high difficulty (but is fun when you
+      win)
+    steam_purchase: true
+    timestamp_created: 1604098958
+    timestamp_updated: 1604176164
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

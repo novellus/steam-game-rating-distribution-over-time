@@ -1,0 +1,75 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '361700'
+      name: 'Mortal Kombat: Legacy'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/495460/header.jpg?t=1466800821
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 1)'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: 'Mortal Kombat: Legacy - Free'
+        packageid: 64820
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 1)'
+    packages:
+    - 64820
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 24, 2016
+    required_age: '17'
+    short_description: In the Black Dragon's warehouse, Kano supervises his cartel
+      as they prepare to ship stolen robotics under the codename &quot;Cyber Initiative&quot;
+      to an undisclosed location.
+    steam_appid: 495460
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

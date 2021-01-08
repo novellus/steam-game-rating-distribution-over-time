@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: "+1 additional puzzle to the set of \u0428\u041F - \u0428\u041F\
+      12."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/748140/page_bg_generated_v6b.jpg?t=1546545130
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "+1 additional puzzle to the set of \u0428\u041F - \u0428\
+      \u041F12."
+    developers:
+    - TheDreik
+    fullgame:
+      appid: '727640'
+      name: "\u0428\u041F - ShP"
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/748140/header.jpg?t=1546545130
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u0428\u041F-12.00000000000000001"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u0428\u041F+ - $1.99"
+        packageid: 219636
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: "Buy \u0428\u041F-12.00000000000000001"
+    packages:
+    - 219636
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows XP<br></li><li><strong>Processor:</strong> Pentium II @ 233MHz with\
+        \ MMX\u2122 Technology<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong>\
+        \ Windows Forms enabled videoadapter<br></li><li><strong>Storage:</strong>\
+        \ 1 MB available space<br></li><li><strong>Sound Card:</strong> Not needed<br></li><li><strong>Additional\
+        \ Notes:</strong> &quot;Mouse&quot; type Human Interface Device is highly\
+        \ recommended</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Xitilon
+    release_date:
+      coming_soon: false
+      date: Nov 6, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_03f04d11e6e64b0dc5f02e22778efce3050ffcfa.1920x1080.jpg?t=1546545130
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_03f04d11e6e64b0dc5f02e22778efce3050ffcfa.600x338.jpg?t=1546545130
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_065d5d78a350aa46f600426160cedbbb076ede4c.1920x1080.jpg?t=1546545130
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_065d5d78a350aa46f600426160cedbbb076ede4c.600x338.jpg?t=1546545130
+    short_description: "+1 additional puzzle to the set of \u0428\u041F - \u0428\u041F\
+      12."
+    steam_appid: 748140
+    support_info:
+      email: xitilon@gmail.com
+      url: ''
+    supported_languages: Russian, English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4je6zzd8Ce6vfigE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 805
+      num_reviews: 28
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198040697522'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '36371131'
+    review: "\u041F\u0440\u043E\u0448\u0435\u043B. \u041E\u0447\u0435\u0440\u0435\u0434\
+      \u043D\u0430\u044F \u0433\u043E\u0434\u043D\u043E\u0442\u0430! \u0414\u0430\u0432\
+      \u0430\u0439\u0442\u0435 \u0435\u0449\u0451, \u044F \u0434\u0443\u043C\u0430\
+      \u043B \u0434\u043E\u043B\u0433\u043E \u0436\u0434\u0430\u0442\u044C \u043F\u0440\
+      \u0438\u0434\u0435\u0442\u0441\u044F, \u0430 \u0442\u0443\u0442 \u0428\u041F\
+      -12, \u0440\u0430\u0434\u0443\u0439\u0442\u0435 \u043F\u043E\u0447\u0430\u0449\
+      \u0435, \u043A\u0430\u043A \u043C\u043E\u0436\u043D\u043E \u0447\u0430\u0449\
+      \u0435!"
+    steam_purchase: true
+    timestamp_created: 1510130807
+    timestamp_updated: 1510130807
+    voted_up: true
+    votes_funny: 2
+    votes_up: 8
+    weighted_vote_score: '0.591736376285552979'
+    written_during_early_access: false
+  success: 1

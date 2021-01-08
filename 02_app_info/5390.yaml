@@ -1,0 +1,63 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/5390/header.jpg?t=1447352517
+    is_free: false
+    legal_notice: "\xA9 SEGA. The Creative Assembly, Total War, Empire: Total War\
+      \ and the Total War logo are trademarks or registered trademarks of The Creative\
+      \ Assembly Limited. SEGA and the SEGA logo are registered trade marks or trade\
+      \ marks of SEGA Corporation. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 5390
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/5390/movie480.mp4?t=1447352517
+        max: http://steamcdn-a.akamaihd.net/steam/apps/5390/movie_max.mp4?t=1447352517
+      name: 'Empire: Total War - The Warpath Campaign Trailer (Russian)'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/5390/movie.293x165.jpg?t=1447352517
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/5390/movie480.webm?t=1447352517
+        max: http://steamcdn-a.akamaihd.net/steam/apps/5390/movie_max.webm?t=1447352517
+    name: 'Empire: Total War - The Warpath Campaign Trailer (Russian)'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 21, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 5390
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: Russian
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

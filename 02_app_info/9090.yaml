@@ -1,0 +1,68 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - id Software
+    fullgame:
+      appid: '2350'
+      name: 'QUAKE III: Team Arena'
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/9090/header.jpg?t=1447351117
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 69
+    name: Quake III Team Arena Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <p>3-D Hardware Accelerator with full OpenGL&reg; support, Pentium
+        II(R) 300 Mhz or AMD&reg; 350 Mhz K6&reg;-2 processor or Athlon&reg; processor,
+        Windows 2000/XP/Vista operating system, 64 MB RAM, 16 MB video card, 400 MB
+        of uncompressed hard disk space for each game, 100 MB of free hard drive space
+        for the Windows swap file (in addition to install space), a 100% Windows&reg;
+        2000/XP-compatible computer system (including compatible 32-bit drivers for
+        video card, sound card and input devices), 100% DirectX 3.0 or higher compatible
+        sound card, 100% Microsoft-compatible mouse and driver</p>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - id Software
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2007
+    required_age: 0
+    short_description: ''
+    steam_appid: 9090
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

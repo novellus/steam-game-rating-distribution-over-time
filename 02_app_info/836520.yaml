@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: "Contains all of the musical tracks included in the base game.<br\
+      \ />\r\n<br />\r\n1) New Dawn (Theme)<br />\r\n2) Roman Stuff<br />\r\n3) Promises\
+      \ and Ends<br />\r\n4) Word Battle<br />\r\n5) Pipe Dream<br />\r\n6) Burnam\
+      \ Wood<br />\r\n<br />\r\nTo install:<br />\r\n<br />\r\n- Download the DLC.<br\
+      \ />\r\n- The music folder will be located in the game folder where your Steam\
+      \ game folders are located (steamapps/common/PS_STICK_RPG/)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/836520/page_bg_generated_v6b.jpg?t=1597774578
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Contains all of the musical tracks included in the base\
+      \ game.<br />\r\n<br />\r\n1) New Dawn (Theme)<br />\r\n2) Roman Stuff<br />\r\
+      \n3) Promises and Ends<br />\r\n4) Word Battle<br />\r\n5) Pipe Dream<br />\r\
+      \n6) Burnam Wood<br />\r\n<br />\r\nTo install:<br />\r\n<br />\r\n- Download\
+      \ the DLC.<br />\r\n- The music folder will be located in the game folder where\
+      \ your Steam game folders are located (steamapps/common/PS_STICK_RPG/)"
+    developers:
+    - Stegalosaurus Game Development
+    fullgame:
+      appid: '828760'
+      name: 'Paper Shakespeare: The Legend of Rainbow Hollow'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/836520/header.jpg?t=1597774578
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86 or compatible processor<br></li><li><strong>Storage:</strong> 33 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86 or compatible processor<br></li><li><strong>Storage:</strong> 33 MB available
+        space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8 and above</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8 and above</li></ul>
+    name: 'Paper Shakespeare: The Legend of Rainbow Hollow Original Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Paper Shakespeare: The Legend of Rainbow Hollow Original Soundtrack
+          - $1.99'
+        packageid: 260758
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Paper Shakespeare: The Legend of Rainbow Hollow Original Soundtrack'
+    packages:
+    - 260758
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Storage:</strong> 33 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Storage:</strong> 33 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Stegalosaurus Game Development
+    release_date:
+      coming_soon: false
+      date: Aug 18, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/836520/ss_de27bb220417dafcfe539f158c5054d09634cb76.1920x1080.jpg?t=1597774578
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/836520/ss_de27bb220417dafcfe539f158c5054d09634cb76.600x338.jpg?t=1597774578
+    short_description: Experience only the finest original soundtrack in the land.
+    steam_appid: 836520
+    support_info:
+      email: bryymiller@stegalosaurus.org
+      url: stegalosaurus.org
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

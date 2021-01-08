@@ -1,0 +1,186 @@
+details:
+  data:
+    about_the_game: Lucid Path is an experiment, an attempt to create a game which
+      is one of its kind. At its core, it is a story rich RPG dungeon crawler with
+      semi automatic turn based battles. The time you can spend in the dungeon is
+      determined by your health points and when it goes to 0, you must leave the dungeon
+      and regenerate it. It can be done by working or doing quests which can be progressed
+      by... playing fast paced mini games.<h2 class="bb_tag">Features</h2><ul class="bb_ul"><li>Turn-based
+      battles against dangerous monsters for their treasures<br></li><li>Quests and
+      work that can be done by playing one of five different mini games<br></li><li>Many
+      different weapons, armors and spells<br></li><li>An interesting story<br></li><li>A
+      talking Cactus!</li></ul>
+    achievements:
+      highlighted:
+      - name: Good at Planetoids
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/b25687d1012e23491d5c7493e09b5ac14ee141f8.jpg
+      - name: Great at Planetoids
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/7d43b7c854bbfb4978e4c287e5f560dbc0357ee9.jpg
+      - name: Good at Wormhole Traveler
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/3a0f65541c966d07bda2852ed5069381313f78dc.jpg
+      - name: Great at Wormhloe Traveler
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/33a2d95da04f152b15478fbeaa946995a1f38b05.jpg
+      - name: Good at Ancient Warrior
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/d43d0b4a797be7fb3c35a4290dbe0bf6bcc2806e.jpg
+      - name: Great at Ancient Warrior
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/756adf01d34e9186d126f1b7c596cec40ae4efe7.jpg
+      - name: Good at Guardian Of The Princess
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/182987a1d308c9e9e034f31893ee604419c110a9.jpg
+      - name: Great at Guardian Of The Princess
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/e561d87e6bad8d9a0f7583b15b413239af7cf4f4.jpg
+      - name: Good at Sphere Of Hope
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/ab6281222c3bfdade3c5d6f2fd42ba3c7f88f2a8.jpg
+      - name: Great at Sphere Of Hope
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/917910/f371e01adb944e19984575d7672d95af000ce036.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/917910/page_bg_generated_v6b.jpg?t=1569005100
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Lucid Path is an experiment, an attempt to create a game
+      which is one of its kind. At its core, it is a story rich RPG dungeon crawler
+      with semi automatic turn based battles. The time you can spend in the dungeon
+      is determined by your health points and when it goes to 0, you must leave the
+      dungeon and regenerate it. It can be done by working or doing quests which can
+      be progressed by... playing fast paced mini games.<h2 class="bb_tag">Features</h2><ul
+      class="bb_ul"><li>Turn-based battles against dangerous monsters for their treasures<br></li><li>Quests
+      and work that can be done by playing one of five different mini games<br></li><li>Many
+      different weapons, armors and spells<br></li><li>An interesting story<br></li><li>A
+      talking Cactus!</li></ul>
+    developers:
+    - Grevicor
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/917910/header.jpg?t=1569005100
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional
+        Notes:</strong> The game might not work correctly on Wayland.</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256762632
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256762632/movie480.mp4?t=1569005088
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256762632/movie_max.mp4?t=1569005088
+      name: Lucid Path Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256762632/movie.293x165.jpg?t=1569005088
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256762632/movie480.webm?t=1569005088
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256762632/movie_max.webm?t=1569005088
+    name: Lucid Path
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lucid Path - $4.99
+        packageid: 295109
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Lucid Path
+    packages:
+    - 295109
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        250 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Grevicor
+    release_date:
+      coming_soon: false
+      date: Aug 27, 2018
+    required_age: 0
+    reviews: "\u201CI do recommend that you give this game a try and just relax and\
+      \ enjoy the experience.\u201D<br>7/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://arpegi.wordpress.com/2018/12/07/review-lucid-path-pc-lets-go-rpging/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >NekoJonez</a><br><br>\u201CI am always\
+      \ appreciative of a story that can surprise me, and Lucid Path did that very\
+      \ well.\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://ambigamingcorner.com/2018/12/05/the-interesting-case-of-lucid-path/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >AmbiGaming</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_5186cc6350216207f8d46b9a8aa38008c7e1aee6.1920x1080.jpg?t=1569005100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_5186cc6350216207f8d46b9a8aa38008c7e1aee6.600x338.jpg?t=1569005100
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_49237413fc89806a96258eb263fffcc89eba0485.1920x1080.jpg?t=1569005100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_49237413fc89806a96258eb263fffcc89eba0485.600x338.jpg?t=1569005100
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_cf208dd19dd34520a6c8f3e6748a02a9b021d18b.1920x1080.jpg?t=1569005100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_cf208dd19dd34520a6c8f3e6748a02a9b021d18b.600x338.jpg?t=1569005100
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_a327533d97d641ac5ee8b25a3a587274cf7942a4.1920x1080.jpg?t=1569005100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_a327533d97d641ac5ee8b25a3a587274cf7942a4.600x338.jpg?t=1569005100
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_0832666d439f534a858a154dc0de7de16d3c0e44.1920x1080.jpg?t=1569005100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_0832666d439f534a858a154dc0de7de16d3c0e44.600x338.jpg?t=1569005100
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_3d22f8074fd9ac52eb2badfa2d98cdad1d290e87.1920x1080.jpg?t=1569005100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/917910/ss_3d22f8074fd9ac52eb2badfa2d98cdad1d290e87.600x338.jpg?t=1569005100
+    short_description: An experimental relaxing RPG with a rich story. A perfect entertainment
+      after a hard day.
+    steam_appid: 917910
+    support_info:
+      email: support@grevicor.com
+      url: ''
+    supported_languages: English, Polish
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwr+HrlfQCcon1nQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 2
+    total_positive: 5
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 1598740817
+      num_games_owned: 325
+      num_reviews: 121
+      playtime_at_review: 61
+      playtime_forever: 260
+      playtime_last_two_weeks: 0
+      steamid: '76561198421888408'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '74950802'
+    review: "Excellent RPG au concept novateur, re\xE7u \xE0 -80 %\n\nNote Finale\
+      \ : 15 / 20"
+    steam_purchase: true
+    timestamp_created: 1598460726
+    timestamp_updated: 1598460726
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,227 @@
+details:
+  data:
+    about_the_game: "Balloon Saga is a physics based game in which the player needs\
+      \ to solve logic problems and fly to the top of the mountain with the help of\
+      \ balloons. Control the objects using your mouse. Get stars for completing the\
+      \ levels successfully. <br />\r\n<br />\r\nMAIN GAME FEATURES:<br />\r\n1. Use\
+      \ different physical objects to help the hero get to the top of the mountain<br\
+      \ />\r\n2. Spin gears to close or open the way<br />\r\n3. Control the wind\
+      \ to move your balloons<br />\r\n4. Protect your balloons from hail and rocks<br\
+      \ />\r\n5. Hide the balloons in boxes<br />\r\n6. Launch rockets and destroy\
+      \ obstacles that get in your way<br />\r\n7. Get three stars for the best solution\
+      \ of each level"
+    achievements:
+      highlighted:
+      - name: Find?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1413820/99618559d195df3a973f0f6bfe153d223df3ebc1.jpg
+      - name: Find?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1413820/ed30018096bdbde8328320c97c3d390f32f4c317.jpg
+      - name: Find?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1413820/e74092c49f3423a037bd1ef6775418cbd9041ada.jpg
+      - name: Find?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1413820/a280a170fd92d199f439d083c314c1e69d9c69b8.jpg
+      - name: Level 30
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1413820/75988b869292972ee6eafe8ad1eced42ec575445.jpg
+      total: 5
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1413820/page_bg_generated_v6b.jpg?t=1608412375
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Balloon Saga is a physics based game in which the player\
+      \ needs to solve logic problems and fly to the top of the mountain with the\
+      \ help of balloons. Control the objects using your mouse. Get stars for completing\
+      \ the levels successfully. <br />\r\n<br />\r\nMAIN GAME FEATURES:<br />\r\n\
+      1. Use different physical objects to help the hero get to the top of the mountain<br\
+      \ />\r\n2. Spin gears to close or open the way<br />\r\n3. Control the wind\
+      \ to move your balloons<br />\r\n4. Protect your balloons from hail and rocks<br\
+      \ />\r\n5. Hide the balloons in boxes<br />\r\n6. Launch rockets and destroy\
+      \ obstacles that get in your way<br />\r\n7. Get three stars for the best solution\
+      \ of each level"
+    developers:
+    - Balloon Saga hede
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1413820/header.jpg?t=1608412375
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 64-bit 16.04+<br></li><li><strong>Processor:</strong> Intel Core 2
+        Duo / AMD Phenom II<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 450 or higher with 256MB<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> Default</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X Mavericks 10.9 or newer<br></li><li><strong>Processor:</strong> Dual
+        core from Intel<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 450 or higher with 256MB<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> Default</li></ul>
+    movies:
+    - highlight: true
+      id: 256800111
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800111/movie480.mp4?t=1599508111
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800111/movie_max.mp4?t=1599508111
+      name: '1'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256800111/movie.293x165.jpg?t=1599508111
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256800111/movie480_vp9.webm?t=1599508111
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256800111/movie_max_vp9.webm?t=1599508111
+    name: Balloon Saga
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Balloon Saga - $9.99
+        packageid: 496170
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Balloon Saga - Commercial License - $9.99
+        packageid: 502116
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Balloon Saga
+    packages:
+    - 496170
+    - 502116
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> 2GHz Duo Core Processor<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 450 or higher
+        with 256MB Memory<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> Default</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Balloon Saga hede
+    release_date:
+      coming_soon: false
+      date: Sep 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_7ade63cece648fd086934a510f3d4fb3318e0338.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_7ade63cece648fd086934a510f3d4fb3318e0338.600x338.jpg?t=1608412375
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_3bceb93606a0c2e9de0dcf976f4f15b430e6a24f.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_3bceb93606a0c2e9de0dcf976f4f15b430e6a24f.600x338.jpg?t=1608412375
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_2b1267253b1581fab6483ffb325c4a523a70d18c.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_2b1267253b1581fab6483ffb325c4a523a70d18c.600x338.jpg?t=1608412375
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_6237f5a2af17b1a68895b0ab887953f896710761.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_6237f5a2af17b1a68895b0ab887953f896710761.600x338.jpg?t=1608412375
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_9aef4d6a44733067c0bf8c85d5cc9d561a8bb65f.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_9aef4d6a44733067c0bf8c85d5cc9d561a8bb65f.600x338.jpg?t=1608412375
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_2400e18b60089f5a925fc10646d5511f3d16d9fe.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_2400e18b60089f5a925fc10646d5511f3d16d9fe.600x338.jpg?t=1608412375
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_d22e343359004c92ad7d164a8634ab044a062b4d.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_d22e343359004c92ad7d164a8634ab044a062b4d.600x338.jpg?t=1608412375
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_a1b52bacdad23a0d337655928f11902854afeac3.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_a1b52bacdad23a0d337655928f11902854afeac3.600x338.jpg?t=1608412375
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_18d83712e2ee5370d4470fdcdecca8aabf2dfcd1.1920x1080.jpg?t=1608412375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1413820/ss_18d83712e2ee5370d4470fdcdecca8aabf2dfcd1.600x338.jpg?t=1608412375
+    short_description: Balloon Saga is a physics based game in which the player needs
+      to solve logic problems and fly to the top of the mountain with the help of
+      balloons. Control the objects using your mouse. Get stars for completing the
+      levels successfully.
+    steam_appid: 1413820
+    support_info:
+      email: info@hede.ru
+      url: http://hede.ru/
+    supported_languages: English, French, Italian, German, Spanish - Spain, Bulgarian,
+      Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian,
+      Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese,
+      Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian,
+      Vietnamese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwqPznrvYCcqKjqwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1607888335
+      num_games_owned: 42
+      num_reviews: 22
+      playtime_at_review: 51
+      playtime_forever: 51
+      playtime_last_two_weeks: 0
+      steamid: '76561198940798672'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '78453282'
+    review: "259 \u0440\u0443\u0431\u043B\u0435\u0439 - \u044D\u0442\u043E \u0421\u041B\
+      \u0418\u0428\u041A\u041E\u041C \u043C\u043D\u043E\u0433\u043E \u0434\u043B\u044F\
+      \ \u0442\u0430\u043A\u043E\u0439 \u0438\u0433\u0440\u044B. \u041A\u0443\u043F\
+      \u0438\u043B \u043D\u0430 \u0440\u0430\u0441\u043F\u0440\u043E\u0434\u0430\u0436\
+      \u0435 \u0437\u0430 59 \u0440\u0443\u0431\u043B\u0435\u0439, \u0432 \u043F\u0440\
+      \u0438\u043D\u0446\u0438\u043F\u0435 \u043F\u0440\u0438\u043A\u043E\u043B\u044C\
+      \u043D\u043E. \u0418\u0433\u0440\u0430, \u0441\u0434\u0435\u043B\u0430\u043D\
+      \u043D\u0430\u044F \u043D\u0430 \u0441\u043A\u043E\u0440\u0443\u044E \u0440\u0443\
+      \u043A\u0443 \u043D\u0430 30 - 55 \u043C\u0438\u043D\u0443\u0442 \u0433\u0435\
+      \u0439\u043C\u043F\u043B\u0435\u044F \u0441 \u043D\u0435\u0431\u043E\u043B\u044C\
+      \u0448\u0438\u043C\u0438 \u0443\u0440\u043E\u0432\u043D\u044F\u043C\u0438. \u041A\
+      \u0430\u043A-\u0442\u043E \u0442\u0430\u043A"
+    steam_purchase: true
+    timestamp_created: 1604141913
+    timestamp_updated: 1607888528
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

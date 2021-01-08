@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: "Exclusive soundtrack by Akonta band OST Make Route:<br />\r\n\
+      <br />\r\n01 Mental (10:39)<br />\r\n02 Motion (6:32)<br />\r\n<br />\r\nFiles\
+      \ in the *.wav format"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/952210/page_bg_generated_v6b.jpg?t=1539225529
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Exclusive soundtrack by Akonta band OST Make Route:<br\
+      \ />\r\n<br />\r\n01 Mental (10:39)<br />\r\n02 Motion (6:32)<br />\r\n<br />\r\
+      \nFiles in the *.wav format"
+    developers:
+    - Akonta band
+    fullgame:
+      appid: '845460'
+      name: Make Route
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/952210/header.jpg?t=1539225529
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Make Route: Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Make Route: Soundtrack - $0.99'
+        packageid: 310116
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Make Route: Soundtrack'
+    packages:
+    - 310116
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win 7, 8, 10<br></li><li><strong>Processor:</strong> 1.8 GHZ<br></li><li><strong>Graphics:</strong>
+        512 MB<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound
+        Card:</strong> only for music</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Hippopo Entertainment
+    release_date:
+      coming_soon: false
+      date: Oct 10, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/952210/ss_ab8d4addd35c49c8f4e63499b7c78e520c3c1d23.1920x1080.jpg?t=1539225529
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/952210/ss_ab8d4addd35c49c8f4e63499b7c78e520c3c1d23.600x338.jpg?t=1539225529
+    short_description: Exclusive soundtrack by Akonta band for the game Make Route
+    steam_appid: 952210
+    support_info:
+      email: shlandakovas@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '549290'
+      name: Con Man
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/565957/header.jpg?t=1498845708
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Con Man: I''m with Stupid'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Con Man: I''m with Stupid - $1.99'
+        packageid: 143017
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Con Man: I''m with Stupid'
+    packages:
+    - 143017
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 13, 2017
+    required_age: 0
+    short_description: The Long Con boiler room traps more and more convention goers
+      behind its self-locking door, providing Lou Ferrigno a cast for Of Mice and
+      Men the musical.
+    steam_appid: 565957
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4443Vw94Cds+4hQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1505508810
+      num_games_owned: 405
+      num_reviews: 11
+      playtime_at_review: 35
+      playtime_forever: 35
+      playtime_last_two_weeks: 0
+      steamid: '76561198014717259'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '34981110'
+    review: Con Man hat mindestens eine Wertung von 8/10 verdient. Selbst dann hat
+      I'm with stupid 11/10 verdient. Die Musik, das Thema und die Interpretation
+      von Alan Tudyk sind einfach grandios.
+    steam_purchase: true
+    timestamp_created: 1505509011
+    timestamp_updated: 1505509011
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

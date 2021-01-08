@@ -1,0 +1,80 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Mirko Seithe
+    fullgame:
+      appid: '898720'
+      name: Kubifaktorium
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1128030/header.jpg?t=1564591703
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Tested on Ubuntu and Arch, should run on the most common distros.<br></li><li><strong>Processor:</strong>
+        Intel Core i5-7600K, AMD Ryzen 5 1400 or higher<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 580, Radeon HD
+        8970M or higher<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Try the free demo to check how the game performs on your system.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        MacOS 10.14 or higher<br></li><li><strong>Processor:</strong> Intel Core i5
+        or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        AMD Radeon Pro or other dedicated GPU<br></li><li><strong>Storage:</strong>
+        300 MB available space<br></li><li><strong>Additional Notes:</strong> Try
+        the free demo to check how the game performs on your system.</li></ul>
+    name: Kubifaktorium Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Core i5-7600K,
+        AMD Ryzen 5 1400 or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        GeForce GTX 580, Radeon HD 8970M or higher<br></li><li><strong>Storage:</strong>
+        300 MB available space<br></li><li><strong>Additional Notes:</strong> Try
+        the free demo to check how the game performs on your system.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Mirko Seithe
+    release_date:
+      coming_soon: false
+      date: Jul 31, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1128030
+    support_info:
+      email: info@bossconstructor.de
+      url: https://discord.gg/kubifaktorium
+    supported_languages: English, French, German
+    type: demo
+    website: https://kubifaktorium.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

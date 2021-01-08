@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: "This Original Soundtrack DLC contains 26 tracks(2CD) of Nameless\
+      \ ~the one thing you must recall~. It includes background music, opening and\
+      \ ending songs.<br />\r\n<br />\r\nComposer : Shinjou Hanabi"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/415040/page_bg_generated_v6b.jpg?t=1447378705
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This Original Soundtrack DLC contains 26 tracks(2CD) of\
+      \ Nameless ~the one thing you must recall~. It includes background music, opening\
+      \ and ending songs.<br />\r\n<br />\r\nComposer : Shinjou Hanabi"
+    developers:
+    - Sujin Ri
+    - Yunjeong Yun
+    - Hyein Go
+    - Minsu Ock
+    - Marcos Arroyo
+    - Seona Lee
+    - Sohyeon Jeon
+    fullgame:
+      appid: '337930'
+      name: Nameless ~The one thing you must recall~
+    genres:
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/415040/header.jpg?t=1447378705
+    is_free: false
+    legal_notice: "\xA9 2012-2015 Cheritz Corporation, all rights reserved."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any OS Version<br></li><li><strong>Processor:</strong> Any Processor</li></ul>
+    name: Nameless ~the one thing you must recall~ OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Nameless ~the one thing you must recall~ OST - $9.99
+        packageid: 83437
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Nameless ~the one thing you must recall~ OST
+    packages:
+    - 83437
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any OS Version<br></li><li><strong>Processor:</strong> Any Processor</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 29, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415040/ss_1c2602c31708d560f66df647d2d33791776fdbe1.1920x1080.jpg?t=1447378705
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415040/ss_1c2602c31708d560f66df647d2d33791776fdbe1.600x338.jpg?t=1447378705
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415040/ss_959afd15ca71ed9ab814a560187cbfa484eec07d.1920x1080.jpg?t=1447378705
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415040/ss_959afd15ca71ed9ab814a560187cbfa484eec07d.600x338.jpg?t=1447378705
+    short_description: This Original Soundtrack DLC contains 26 tracks(2CD) of Nameless
+      ~the one thing you must recall~. It includes background music, opening and ending
+      songs.
+    steam_appid: 415040
+    support_info:
+      email: help@cheritz.com
+      url: http://nl.cheritz.com
+    type: dlc
+    website: http://nl.cheritz.com/
+  success: true
+reviews:
+  cursor: AoJ4oruV49gCfLq6aw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1305
+      num_reviews: 433
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198120348301'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '28169132'
+    review: Amazing soundtrack. Every song on this album is lovely and worth getting
+      it if you enjoyed Nameless. <3
+    steam_purchase: true
+    timestamp_created: 1480796265
+    timestamp_updated: 1480796265
+    voted_up: true
+    votes_funny: 0
+    votes_up: 18
+    weighted_vote_score: '0.735216379165649414'
+    written_during_early_access: false
+  success: 1

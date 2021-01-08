@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: 'Three new race tracks for your game!<br><br><strong>Race tracks:</strong><br><ul
+      class="bb_ul"><li> [Clear]Track #21<br></li><li> [Night]Track #22<br></li><li>
+      [Night]Track #23</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1374380/page_bg_generated_v6b.jpg?t=1594983900
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Three new race tracks for your game!<br><br><strong>Race
+      tracks:</strong><br><ul class="bb_ul"><li> [Clear]Track #21<br></li><li> [Night]Track
+      #22<br></li><li> [Night]Track #23</li></ul>'
+    developers:
+    - SC Jogos
+    fullgame:
+      appid: '618140'
+      name: Barro
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1374380/header.jpg?t=1594983900
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Barro - 2020 Expansion
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Barro - 2020 Expansion - $0.99
+        packageid: 482041
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Barro - 2020 Expansion
+    packages:
+    - 482041
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as the base game</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - SC Jogos
+    release_date:
+      coming_soon: false
+      date: Jul 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374380/ss_3f8e76cd6f07b4c625f08ecff342fb027e0fb3e0.1920x1080.jpg?t=1594983900
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374380/ss_3f8e76cd6f07b4c625f08ecff342fb027e0fb3e0.600x338.jpg?t=1594983900
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374380/ss_6f1451bb76bb2c73d8291a6ef30b550ba59e0caf.1920x1080.jpg?t=1594983900
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374380/ss_6f1451bb76bb2c73d8291a6ef30b550ba59e0caf.600x338.jpg?t=1594983900
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374380/ss_ad1c6a35de4106c20f85e7f02d777c88bede6924.1920x1080.jpg?t=1594983900
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374380/ss_ad1c6a35de4106c20f85e7f02d777c88bede6924.600x338.jpg?t=1594983900
+    short_description: Barro - 2020 Expansion
+    steam_appid: 1374380
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/app/618140/discussions/
+    supported_languages: English
+    type: dlc
+    website: https://store.steampowered.com/publisher/scjogos
+  success: true
+reviews:
+  cursor: AoJw3aXUl/YCcdeptwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 5490
+      num_reviews: 17
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198048454251'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '81612145'
+    review: "bu dlc paketinde 3 tane pist geliyor, pistler i\xE7in k\xF6t\xFC diyemem,\
+      \ oyunun oynama zaman\u0131n\u0131 artt\u0131rmak i\xE7in bence daha fazla pist\
+      \ eklenebilirdi diye d\xFC\u015F\xFCn\xFCyorum."
+    steam_purchase: true
+    timestamp_created: 1607111618
+    timestamp_updated: 1607111618
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

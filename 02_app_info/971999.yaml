@@ -1,0 +1,141 @@
+details:
+  data:
+    about_the_game: <ul class="bb_ul"><li> Henry?! What choices could have gotten
+      you here?<br></li><li> Ellie got pulled into this as well?!<br></li><li> Includes
+      Henry and Ellie! (Only one pet can be equipped at a time)<br></li><li> Support
+      Among Us servers and Innersloth!</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/971999/page_bg_generated_v6b.jpg?t=1559936320
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <ul class="bb_ul"><li> Henry?! What choices could have gotten
+      you here?<br></li><li> Ellie got pulled into this as well?!<br></li><li> Includes
+      Henry and Ellie! (Only one pet can be equipped at a time)<br></li><li> Support
+      Among Us servers and Innersloth!</li></ul>
+    developers:
+    - Innersloth
+    fullgame:
+      appid: '945360'
+      name: Among Us
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/971999/header.jpg?t=1559936320
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Among Us - Stickmin Pet Bundle
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Among Us - Stickmin Pet Bundle - <span class="discount_original_price">$2.99</span>
+          $2.09
+        packageid: 318728
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 209
+      title: Buy Among Us - Stickmin Pet Bundle
+    packages:
+    - 318728
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 209
+      final_formatted: $2.09
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - ''
+    recommendations:
+      total: 168
+    release_date:
+      coming_soon: false
+      date: Jun 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_17e2c799fd0cf2d56888f20aa92de6fbb988554e.1920x1080.jpg?t=1559936320
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_17e2c799fd0cf2d56888f20aa92de6fbb988554e.600x338.jpg?t=1559936320
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_3deb416f2a99593e8ca2f311b06401cf6da0fabc.1920x1080.jpg?t=1559936320
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_3deb416f2a99593e8ca2f311b06401cf6da0fabc.600x338.jpg?t=1559936320
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_54820dbdf48d63d2eabc864ec8545eefc70a42ae.1920x1080.jpg?t=1559936320
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_54820dbdf48d63d2eabc864ec8545eefc70a42ae.600x338.jpg?t=1559936320
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_bf74e684b8119ad267c060859b87c1036b82a12a.1920x1080.jpg?t=1559936320
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971999/ss_bf74e684b8119ad267c060859b87c1036b82a12a.600x338.jpg?t=1559936320
+    short_description: A bundle of the Henry Stickmin and Ellie pets.
+    steam_appid: 971999
+    support_info:
+      email: us@innersloth.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://innersloth.com/gameAmongUs.php
+  success: true
+reviews:
+  cursor: AoJ4ptjg5fYCc5ykwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 16
+    total_positive: 152
+    total_reviews: 168
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 139
+      num_reviews: 23
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198262331245'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83960259'
+    review: But are Henry and Ellie impostors though?
+    steam_purchase: true
+    timestamp_created: 1609732113
+    timestamp_updated: 1609732113
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.494186043739318848'
+    written_during_early_access: false
+  success: 1

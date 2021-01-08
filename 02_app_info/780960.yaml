@@ -1,0 +1,110 @@
+details:
+  data:
+    about_the_game: "I guess if the first game has a Cheat Mode, the second game should\
+      \ too.<br />\r\n<br />\r\nThis will disable all arguments while still allowing\
+      \ you to pick up Oscars.<br />\r\n<br />\r\nTO ACCESS: Go to Preferences and\
+      \ click 'CHEAT MODE: ON'."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/780960/page_bg_generated_v6b.jpg?t=1515449836
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "I guess if the first game has a Cheat Mode, the second\
+      \ game should too.<br />\r\n<br />\r\nThis will disable all arguments while\
+      \ still allowing you to pick up Oscars.<br />\r\n<br />\r\nTO ACCESS: Go to\
+      \ Preferences and click 'CHEAT MODE: ON'."
+    developers:
+    - Stegalosaurus Game Development
+    fullgame:
+      appid: '592200'
+      name: 'Super Army of Tentacles 3: The Search for Army of Tentacles 2'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/780960/header.jpg?t=1515449836
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86 or compatible processor</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86 or compatible processor</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8 and above</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8 and above</li></ul>
+    name: 'Super Army of Tentacles 3: Cheat Mode'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Super Army of Tentacles 3: Cheat Mode - $0.99'
+        packageid: 235226
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Super Army of Tentacles 3: Cheat Mode'
+    packages:
+    - 235226
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 8, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/780960/ss_1784854ce052a9fecf2c7665f4d1a53606015f76.1920x1080.jpg?t=1515449836
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/780960/ss_1784854ce052a9fecf2c7665f4d1a53606015f76.600x338.jpg?t=1515449836
+    short_description: Hey, you like not having to do anything to win your games?
+      Then install this.
+    steam_appid: 780960
+    support_info:
+      email: bryymiller@stegalosaurus.org
+      url: stegalosaurus.org
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

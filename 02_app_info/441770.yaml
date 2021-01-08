@@ -1,0 +1,188 @@
+details:
+  data:
+    about_the_game: '<strong>Overview</strong><br>MindTex is a normal map generation
+      utility for game developers and 3d professionals. Built to rival the competition
+      in quality without the steep price, whether you want to generate a normal, height,
+      specular, gloss, self-illumination, occlusion, or reflection map, you can easily
+      do it in seconds flat from a single source texture with MindTex.<br><br>Integrating
+      MindTex into your 3d content pipeline will save you substantial amounts of time,
+      money and effort, allowing you to focus on what is really important: building
+      immersive worlds and making great games.<br><br><strong>Features</strong><br>MindTex
+      takes a diffuse, normal, or height map as an input texture and generates any
+      combination of a normal, height, specular, gloss, self-illumination, occlusion,
+      and/or reflection map. A variety of settings are offered for each map type,
+      allowing you to fine-tune the generated results. <br><br>MindTex offers a toggleable
+      2d/3d preview with a variety of options to easily visualize your textures in
+      action; you will be able to quickly customize a variety of lighting conditions
+      to simulate the environment in which your texture will be used, pick the model
+      (standard or custom) that your texture will be applied to, change the UV tiling
+      on said model, and pick which maps will be enabled in the 3d view.<br><br>MindTex
+      additionally includes a map export settings panel which allows you to specify
+      which maps to export as well as how the final maps will be generated. The map
+      generation options are applied on a per-pixel basis, allowing you to quickly
+      and easily do things like store a grayscale map in the alpha channel of an RGB
+      texture or bake ambient occlusion into the diffuse texture on export.<br><br>MindTex
+      includes a batch processing-and-export feature. Accessible with a GUI through
+      the utilities menu, this feature makes generating normal maps for a large collection
+      of textures simple and automatic.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/441770/page_bg_generated_v6b.jpg?t=1456137695
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong>Overview</strong><br>MindTex is a normal map generation
+      utility for game developers and 3d professionals. Built to rival the competition
+      in quality without the steep price, whether you want to generate a normal, height,
+      specular, gloss, self-illumination, occlusion, or reflection map, you can easily
+      do it in seconds flat from a single source texture with MindTex.<br><br>Integrating
+      MindTex into your 3d content pipeline will save you substantial amounts of time,
+      money and effort, allowing you to focus on what is really important: building
+      immersive worlds and making great games.<br><br><strong>Features</strong><br>MindTex
+      takes a diffuse, normal, or height map as an input texture and generates any
+      combination of a normal, height, specular, gloss, self-illumination, occlusion,
+      and/or reflection map. A variety of settings are offered for each map type,
+      allowing you to fine-tune the generated results. <br><br>MindTex offers a toggleable
+      2d/3d preview with a variety of options to easily visualize your textures in
+      action; you will be able to quickly customize a variety of lighting conditions
+      to simulate the environment in which your texture will be used, pick the model
+      (standard or custom) that your texture will be applied to, change the UV tiling
+      on said model, and pick which maps will be enabled in the 3d view.<br><br>MindTex
+      additionally includes a map export settings panel which allows you to specify
+      which maps to export as well as how the final maps will be generated. The map
+      generation options are applied on a per-pixel basis, allowing you to quickly
+      and easily do things like store a grayscale map in the alpha channel of an RGB
+      texture or bake ambient occlusion into the diffuse texture on export.<br><br>MindTex
+      includes a batch processing-and-export feature. Accessible with a GUI through
+      the utilities menu, this feature makes generating normal maps for a large collection
+      of textures simple and automatic.'
+    developers:
+    - Frozen Flame
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Photo Editing
+      id: '55'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/441770/header.jpg?t=1456137695
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256660693
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256660693/movie480.mp4?t=1456137683
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256660693/movie_max.mp4?t=1456137683
+      name: MindTex 2 Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256660693/movie.293x165.jpg?t=1456137683
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256660693/movie480.webm?t=1456137683
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256660693/movie_max.webm?t=1456137683
+    name: MindTex 2
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: MindTex 2 - $19.99
+        packageid: 93583
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy MindTex 2
+    packages:
+    - 93583
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10, Windows 8, Windows 7, Windows Vista, or Windows XP<br></li><li><strong>Graphics:</strong>
+        Shader Model 3.0+ recommended<br></li><li><strong>Storage:</strong> 55 MB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1999
+      final_formatted: $19.99
+      initial: 1999
+      initial_formatted: ''
+    publishers:
+    - Frozen Flame
+    release_date:
+      coming_soon: false
+      date: Feb 22, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_da7625e266c20d24fa1dabbe3435d8b495c8b1c9.1920x1080.jpg?t=1456137695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_da7625e266c20d24fa1dabbe3435d8b495c8b1c9.600x338.jpg?t=1456137695
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_020197ce838b3049243c853589b004045c708616.1920x1080.jpg?t=1456137695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_020197ce838b3049243c853589b004045c708616.600x338.jpg?t=1456137695
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_c222138790e464091029232040d3a3f2ba646669.1920x1080.jpg?t=1456137695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_c222138790e464091029232040d3a3f2ba646669.600x338.jpg?t=1456137695
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_6257e2bf47b73c4e4f9a8344877aed085309fbe5.1920x1080.jpg?t=1456137695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_6257e2bf47b73c4e4f9a8344877aed085309fbe5.600x338.jpg?t=1456137695
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_ae1b55df7e91e538319599cd2943e7836e03e298.1920x1080.jpg?t=1456137695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_ae1b55df7e91e538319599cd2943e7836e03e298.600x338.jpg?t=1456137695
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_98b7a8439ca5cc0eac522b749cccc4f7075e905f.1920x1080.jpg?t=1456137695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_98b7a8439ca5cc0eac522b749cccc4f7075e905f.600x338.jpg?t=1456137695
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_fa3bf612bb12a0b0138e8747faeeadd762c3356b.1920x1080.jpg?t=1456137695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/441770/ss_fa3bf612bb12a0b0138e8747faeeadd762c3356b.600x338.jpg?t=1456137695
+    short_description: MindTex is a normal map generation utility for game developers
+      and 3d professionals. Whether you want to generate a normal, height, specular,
+      gloss, self-illumination, occlusion, or reflection map, you can easily do it
+      in seconds flat from a single source texture with MindTex.
+    steam_appid: 441770
+    support_info:
+      email: support@frozenflamecorp.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://mindtex.com
+  success: true
+reviews:
+  cursor: AoJw54zSzfYCfdKRvQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 5
+    total_positive: 70
+    total_reviews: 75
+  reviews:
+  - author:
+      last_played: 1609862212
+      num_games_owned: 104
+      num_reviews: 7
+      playtime_at_review: 126
+      playtime_forever: 1567
+      playtime_last_two_weeks: 1567
+      steamid: '76561198086515717'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '83135789'
+    review: "[h1] \u0413 \u041E \u0414 \u041D \u041E \u0422 \u0410 [/h1]"
+    steam_purchase: true
+    timestamp_created: 1608922982
+    timestamp_updated: 1608922982
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

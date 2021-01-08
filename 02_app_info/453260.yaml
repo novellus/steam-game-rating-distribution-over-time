@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: The MechaNika original soundtrack by Guillem Vilamala Serrano
+      and Mango Protocol features all the score from the game and some additonal music
+      tracks from promotional trailers.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/453260/page_bg_generated_v6b.jpg?t=1597935105
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The MechaNika original soundtrack by Guillem Vilamala Serrano
+      and Mango Protocol features all the score from the game and some additonal music
+      tracks from promotional trailers.
+    developers:
+    - Mango Protocol
+    fullgame:
+      appid: '384680'
+      name: MechaNika
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/453260/header.jpg?t=1597935105
+    is_free: false
+    legal_notice: "\xA9 2015 Mango Protocol"
+    linux_requirements: []
+    mac_requirements: []
+    name: MechaNika - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: MechaNika - Original Soundtrack - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 97803
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy MechaNika - Original Soundtrack
+    packages:
+    - 97803
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Mango Protocol
+    release_date:
+      coming_soon: false
+      date: Mar 17, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/453260/ss_ec371bb5fb70ce2ec783d29f4990586cdc4a287a.1920x1080.jpg?t=1597935105
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/453260/ss_ec371bb5fb70ce2ec783d29f4990586cdc4a287a.600x338.jpg?t=1597935105
+    short_description: The MechaNika original soundtrack by Guillem Vilamala Serrano
+      and Mango Protocol.
+    steam_appid: 453260
+    support_info:
+      email: info@mangoprotocol.com
+      url: https://www.mangoprotocol.com
+    supported_languages: English, Spanish - Spain, French, German, Russian, Korean,
+      Simplified Chinese
+    type: music
+    website: https://www.mangoprotocol.com
+  success: true
+reviews:
+  cursor: AoJ4oqW/vvMCfKiRlwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 78
+      num_reviews: 27
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198025869600'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '73173644'
+    review: "\u043F\u043E \u043C\u043D\u0435 \u043D\u0435 \u043E\u0447\u0435\u043D\
+      \u044C \u043D\u0443 \u0441\u0440\u0435\u0434\u043D\u0435\u043D\u044C\u043A\u043E\
+      ."
+    steam_purchase: true
+    timestamp_created: 1595529833
+    timestamp_updated: 1595529833
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.476190477609634399'
+    written_during_early_access: false
+  success: 1

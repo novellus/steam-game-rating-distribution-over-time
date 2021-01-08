@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: "The Convoy Soundtrack by Project Antinomia in MP3 as well as\
+      \ high quality FLAC format.<br />\r\n<br />\r\nAn hour-long album featuring\
+      \ all music heard in the game. The first half of the album features energetic\
+      \ action tracks, the second half is composed of chilled out ambient songs.<br\
+      \ />\r\n<br />\r\nAll proceeds (after Steam and publisher cut) go directly to\
+      \ the artist. His music is also available on various streaming platforms."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/395950/page_bg_generated_v6b.jpg?t=1581627292
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Convoy Soundtrack by Project Antinomia in MP3 as well\
+      \ as high quality FLAC format.<br />\r\n<br />\r\nAn hour-long album featuring\
+      \ all music heard in the game. The first half of the album features energetic\
+      \ action tracks, the second half is composed of chilled out ambient songs.<br\
+      \ />\r\n<br />\r\nAll proceeds (after Steam and publisher cut) go directly to\
+      \ the artist. His music is also available on various streaming platforms."
+    developers:
+    - Convoy Games
+    - Project Antinomia
+    fullgame:
+      appid: '318230'
+      name: Convoy
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/395950/header.jpg?t=1581627292
+    is_free: false
+    legal_notice: "\xA92014 Convoy Games and Indietopia Games. All Rights Reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    name: Convoy Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Convoy OST - $9.99
+        packageid: 76151
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Convoy Soundtrack
+    packages:
+    - 76151
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        120 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 360 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Indietopia Games
+    release_date:
+      coming_soon: false
+      date: Feb 5, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/395950/ss_ee6f2745bb7403501f2bad9086f350e05bbc80fd.1920x1080.jpg?t=1581627292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/395950/ss_ee6f2745bb7403501f2bad9086f350e05bbc80fd.600x338.jpg?t=1581627292
+    short_description: The Convoy Soundtrack by Project Antinomia in MP3 and high
+      quality FLAC format. An hour-long album featuring all tracks heard in the game.
+      All proceeds go directly to the artist.
+    steam_appid: 395950
+    support_info:
+      email: info@convoy-games.com
+      url: http://www.convoy-games.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://www.convoy-games.com
+  success: true
+reviews:
+  cursor: AoJ4soX15u0CfPKR1AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 0
+    total_positive: 5
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2116
+      num_reviews: 1892
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198025089345'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '55611180'
+    review: "17\u9996ogg\u97F3\u4E50+1024*1024\u5927\u5C0F\u7684\u5C01\u9762\u56FE\
+      ~\n\u97F3\u4E50\u5F88\u68D2~\u5F88\u5408\u9002\u6E38\u620F\u6C1B\u56F4~"
+    steam_purchase: true
+    timestamp_created: 1571116297
+    timestamp_updated: 1571116297
+    voted_up: true
+    votes_funny: 2
+    votes_up: 13
+    weighted_vote_score: '0.649959325790405273'
+    written_during_early_access: false
+  success: 1

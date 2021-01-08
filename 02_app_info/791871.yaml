@@ -1,0 +1,156 @@
+details:
+  data:
+    about_the_game: Halloween roller coaster for Epic Roller Coasters.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/791871/page_bg_generated_v6b.jpg?t=1537883882
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Halloween roller coaster for Epic Roller Coasters.
+    developers:
+    - B4T Games
+    fullgame:
+      appid: '787790'
+      name: Epic Roller Coasters
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/791871/header.jpg?t=1537883882
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "Epic Roller Coasters \u2014 Halloween"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "Epic Roller Coasters \u2014 Halloween - <span class=\"discount_original_price\"\
+          >$2.99</span> $1.49"
+        packageid: 239746
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 149
+      title: "Buy Epic Roller Coasters \u2014 Halloween"
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$9.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $9.99 / month
+        packageid: 251865
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: "Buy Epic Roller Coasters \u2014 Halloween Subscription Plan"
+    packages:
+    - 239746
+    - 251865
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        Core i5- 4590 equivalent or greater<br></li><li><strong>Memory:</strong> 8
+        GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or greater<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        i5- 4590 equivalent or greater.<br></li><li><strong>Memory:</strong> 8 GB
+        RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 AMD Radeon RX 480
+        (equivalent or better)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 149
+      final_formatted: $1.49
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - B4T Games
+    release_date:
+      coming_soon: false
+      date: Feb 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/791871/ss_a92aebce7b29b175a442678a0fe8ecb1d29bb9ab.1920x1080.jpg?t=1537883882
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/791871/ss_a92aebce7b29b175a442678a0fe8ecb1d29bb9ab.600x338.jpg?t=1537883882
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/791871/ss_f75bcb9d3a516ccd0bd7a62966957aedc2a7a8de.1920x1080.jpg?t=1537883882
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/791871/ss_f75bcb9d3a516ccd0bd7a62966957aedc2a7a8de.600x338.jpg?t=1537883882
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/791871/ss_edb0dc75c4ea90db97129ed182385c0538c2251e.1920x1080.jpg?t=1537883882
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/791871/ss_edb0dc75c4ea90db97129ed182385c0538c2251e.600x338.jpg?t=1537883882
+    short_description: Halloween roller coaster for Epic Roller Coasters.
+    steam_appid: 791871
+    support_info:
+      email: contact@b4t.games
+      url: http://b4t.games
+    supported_languages: English<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4gaOAifUCcMH+pgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 265
+      num_reviews: 73
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198086193799'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77329424'
+    review: "This has to be the most enjoyable roller coaster in the fantasy bundle,\
+      \ it's a great fun little coaster with skeletons, werewolves, bats and a lot\
+      \ more. It's not really as scary as I had hoped for but I think they went more\
+      \ for a family experience rather than a horror experience. \n\nA goofy but fun\
+      \ halloween rollercoaster, there's not much else to it :)"
+    steam_purchase: true
+    timestamp_created: 1602324863
+    timestamp_updated: 1602324863
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.52173912525177002'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,74 @@
+details:
+  data:
+    about_the_game: "Lost Demo for BIC<br />\r\n<br />\r\n * Demo is NOT savable."
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Lost Demo for BIC<br />\r\n<br />\r\n * Demo is NOT savable."
+    developers:
+    - Tiny Beluga
+    fullgame:
+      appid: '1095360'
+      name: Lost
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1095730/header.jpg?t=1564147550
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Lost Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Tiny Beluga
+    release_date:
+      coming_soon: false
+      date: Jul 26, 2019
+    required_age: 0
+    short_description: Lost Demo for BIC
+    steam_appid: 1095730
+    support_info:
+      email: tinybeluga.official@gmail.com
+      url: https://github.com/tiny-beluga/Lost-Issue-Tracker/issues
+    supported_languages: English, Korean
+    type: demo
+    website: https://tiny-beluga.github.io/lost
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

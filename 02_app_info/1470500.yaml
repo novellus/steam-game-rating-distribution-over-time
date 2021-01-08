@@ -1,0 +1,89 @@
+details:
+  data:
+    about_the_game: "Soundtrack for Rhythm 'n Bullets. Contains remastered tracks\
+      \ from the game!<br />\r\n<br />\r\nAdditional themes will be added as they\
+      \ are released"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1470500/page_bg_generated_v6b.jpg?t=1605297708
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Soundtrack for Rhythm 'n Bullets. Contains remastered tracks\
+      \ from the game!<br />\r\n<br />\r\nAdditional themes will be added as they\
+      \ are released"
+    developers:
+    - DB Creations
+    fullgame:
+      appid: '1427770'
+      name: Rhythm 'n Bullets
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1470500/header.jpg?t=1605297708
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Rhythm 'n Bullets Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Rhythm 'n Bullets Soundtrack - $2.99
+        packageid: 517723
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Rhythm 'n Bullets Soundtrack
+    packages:
+    - 517723
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - DB Creations
+    release_date:
+      coming_soon: false
+      date: Nov 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1470500/ss_aea685118f4dbd96b1d96fb6776c6e4bd6f9cae2.1920x1080.jpg?t=1605297708
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1470500/ss_aea685118f4dbd96b1d96fb6776c6e4bd6f9cae2.600x338.jpg?t=1605297708
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1470500/ss_a9b8950e15fd8ea82ff086b8a74fc1a660b6a4d9.1920x1080.jpg?t=1605297708
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1470500/ss_a9b8950e15fd8ea82ff086b8a74fc1a660b6a4d9.600x338.jpg?t=1605297708
+    short_description: Soundtrack for Rhythm 'n Bullets. Contains remastered tracks
+      from the game! Additional themes will be added as they are...
+    steam_appid: 1470500
+    support_info:
+      email: admin@dbcreations.studio
+      url: https://dbcreations.studio
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

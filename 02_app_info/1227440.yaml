@@ -1,0 +1,160 @@
+details:
+  data:
+    about_the_game: "Mupen64Plus-Next is an emulation library for the libretro API,\
+      \ based on Mupen64Plus. It brings a ton of awesome features to modernize your\
+      \ experience, including increasing the internal resolution (push from 240p up\
+      \ to 1080p for smooth polygon edges) and texture upscaling using XBRZ, as well\
+      \ as simulated widescreen without stretching HUD elements and support for custom\
+      \ and community-made high-res texture packs.<br />\r\n<br />\r\nThe following\
+      \ projects have been incorporated into this core:<br />\r\n<br />\r\n    mupen64plus<br\
+      \ />\r\n    GLideN64<br />\r\n    cxd4<br />\r\n    parallel-rsp<br />\r\n \
+      \   angrylion-rdp-plus (Currently based on its ParaLLel variant)<br />\r\n<br\
+      \ />\r\nA special thanks to:<br />\r\n<br />\r\n    The Mupen64Plus Team, especially\
+      \ Gillou68310<br />\r\n    gonetz and those that have worked on GLideN64, especially\
+      \ fzurita<br />\r\n    The Authors of cxd4 and angrylion-rdp-plus (ata4)<br\
+      \ />\r\n    themaister for parallel-rsp<br />\r\n    Everyone in the libretro\
+      \ Team<br />\r\n<br />\r\n- m4xw"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1227440/page_bg_generated_v6b.jpg?t=1599461881
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: LAN PvP
+      id: 47
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: LAN Co-op
+      id: 48
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: Remote Play on TV
+      id: 43
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Mupen64Plus-Next is an emulation library for the libretro\
+      \ API, based on Mupen64Plus. It brings a ton of awesome features to modernize\
+      \ your experience, including increasing the internal resolution (push from 240p\
+      \ up to 1080p for smooth polygon edges) and texture upscaling using XBRZ, as\
+      \ well as simulated widescreen without stretching HUD elements and support for\
+      \ custom and community-made high-res texture packs.<br />\r\n<br />\r\nThe following\
+      \ projects have been incorporated into this core:<br />\r\n<br />\r\n    mupen64plus<br\
+      \ />\r\n    GLideN64<br />\r\n    cxd4<br />\r\n    parallel-rsp<br />\r\n \
+      \   angrylion-rdp-plus (Currently based on its ParaLLel variant)<br />\r\n<br\
+      \ />\r\nA special thanks to:<br />\r\n<br />\r\n    The Mupen64Plus Team, especially\
+      \ Gillou68310<br />\r\n    gonetz and those that have worked on GLideN64, especially\
+      \ fzurita<br />\r\n    The Authors of cxd4 and angrylion-rdp-plus (ata4)<br\
+      \ />\r\n    themaister for parallel-rsp<br />\r\n    Everyone in the libretro\
+      \ Team<br />\r\n<br />\r\n- m4xw"
+    developers:
+    - Libretro
+    - Mupen64Plus team
+    - Gillou
+    - gonetz
+    - m4xw
+    fullgame:
+      appid: '1118310'
+      name: RetroArch
+    genres:
+    - description: Free to Play
+      id: '37'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1227440/header.jpg?t=1599461881
+    is_free: true
+    legal_notice: "RetroArch is free/open source software, available under the GNU\
+      \ GPL 3.0 license.<br />\r\n<br />\r\nMupen64plus-Next is free/open source software,\
+      \ available under the GNU GPL 2.0 license.<br />\r\n<br />\r\nIt does not contain\
+      \ any copyrighted material by third parties. RetroArch, libretro and any associated\
+      \ projects do not promote, facilitate or condone copyright infringement/piracy\
+      \ in any way, shape or form."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256789069
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256789069/movie480.mp4?t=1592034122
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256789069/movie_max.mp4?t=1592034122
+      name: Mupen64Plus Next
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256789069/movie.293x165.jpg?t=1592034122
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256789069/movie480_vp9.webm?t=1592034122
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256789069/movie_max_vp9.webm?t=1592034122
+    name: Mupen64Plus-Next
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Core2Duo<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Any GPU and driver that supports
+        OpenGL v2.0 or higher<br></li><li><strong>Storage:</strong> 10 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Core i5 8th generation
+        or higher<br></li><li><strong>Graphics:</strong> Nvidia 1060 Ti or better<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Libretro
+    release_date:
+      coming_soon: false
+      date: Jun 8, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_9210262f70e1ea7b3f2d2d050a993c06c82e5b2c.1920x1080.jpg?t=1599461881
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_9210262f70e1ea7b3f2d2d050a993c06c82e5b2c.600x338.jpg?t=1599461881
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_cf3e3397c98304eb5d4992ca783ba92ce4f2d95c.1920x1080.jpg?t=1599461881
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_cf3e3397c98304eb5d4992ca783ba92ce4f2d95c.600x338.jpg?t=1599461881
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_b836bd424e901a23f3c640bc9a40e80b5c6cd491.1920x1080.jpg?t=1599461881
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_b836bd424e901a23f3c640bc9a40e80b5c6cd491.600x338.jpg?t=1599461881
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_63a039f66c4296065748396ce71a4630f78bc5ed.1920x1080.jpg?t=1599461881
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_63a039f66c4296065748396ce71a4630f78bc5ed.600x338.jpg?t=1599461881
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_7fbff1880ba1836735beef733a2883b0f2344402.1920x1080.jpg?t=1599461881
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227440/ss_7fbff1880ba1836735beef733a2883b0f2344402.600x338.jpg?t=1599461881
+    short_description: A libretro implementation of the Mupen64plus emulation engine
+      for use with the RetroArch gaming and multimedia interface. Users must supply
+      their own games, demos and homebrew.
+    steam_appid: 1227440
+    support_info:
+      email: libretro@gmail.com
+      url: https://www.retroarch.com
+    supported_languages: English, French, Italian, German, Spanish - Spain, Dutch,
+      Greek, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil,
+      Russian, Spanish - Latin America, Swedish, Turkish, Vietnamese, Simplified Chinese,
+      Traditional Chinese
+    type: dlc
+    website: https://www.retroarch.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

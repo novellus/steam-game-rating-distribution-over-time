@@ -1,0 +1,72 @@
+details:
+  data:
+    about_the_game: This demo includes the tutorial section of the full game, as well
+      as a sample of some more challenging levels.
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This demo includes the tutorial section of the full game,
+      as well as a sample of some more challenging levels.
+    developers:
+    - Peter Gutenko
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/366630/header.jpg?t=1447373384
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Java-supported distro<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.1<br></li><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Java 7 or higher</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.7 or higher<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.1<br></li><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Java 7 or higher</li></ul>
+    name: Prompt Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or higher<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.1<br></li><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Java 7 or higher</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Peter Gutenko
+    release_date:
+      coming_soon: false
+      date: Jul 6, 2015
+    required_age: 0
+    short_description: This demo includes the tutorial section of the full game, as
+      well as a sample of some more challenging levels.
+    steam_appid: 366630
+    support_info:
+      email: promptgamecontact@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

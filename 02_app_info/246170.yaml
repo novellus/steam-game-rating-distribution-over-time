@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Treexy
+    fullgame:
+      appid: '234820'
+      name: Driver Fusion - The Best Driver & Device Solution
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/246170/header.jpg?t=1608822723
+    is_free: true
+    legal_notice: "Driver Fusion\u2122 \xA9 2012-2020 Treexy. Published and distributed\
+      \ by Treexy. All other trademarks are the property of their respective owners.\
+      \ All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Driver Fusion Free Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong>
+        Any<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong>
+        Any<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Treexy
+    release_date:
+      coming_soon: false
+      date: Dec 24, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 246170
+    support_info:
+      email: https://treexy.com/support
+      url: https://treexy.com/support
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Swedish,
+      Thai, Turkish, Traditional Chinese, Ukrainian, Portuguese - Brazil, Spanish
+      - Latin America, Vietnamese
+    type: demo
+    website: https://treexy.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

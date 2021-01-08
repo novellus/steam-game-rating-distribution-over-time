@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Cauldron
+    fullgame:
+      appid: '218860'
+      name: Uninitialized
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/82133/header.jpg?t=1572397153
+    is_free: false
+    legal_notice: "\xA92012 Activision Publishing, Inc. Activision is a registered\
+      \ trademark of Activision Publishing Inc. All rights reserved. Cabela\u2019\
+      s and the Cabela\u2019s logo are registered trademarks of Cabela\u2019s Inc.\
+      \ ESRB rating icons are registered trademarks of the Entertainment Software\
+      \ Association (ESA) and may not be used without permission of the ESA.  All\
+      \ other trademarks and trade names are the properties of their respective owners."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 82133
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82133/movie480.mp4?t=1572397153
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82133/movie_max.mp4?t=1572397153
+      name: Cabelas Dangerous Hunts 2013 Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/82133/movie.293x165.jpg?t=1572397153
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82133/movie480.webm?t=1572397153
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82133/movie_max.webm?t=1572397153
+    name: Cabelas Dangerous Hunts 2013 Trailer
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE XP 32-bit (with Service Pack 3)<br>\t</li><li><strong>Processor:</strong>\
+        \ Intel Core\xAE 2 Duo E2180 or AMD Athlon 64 X2 4000+ Socket AM2<br>\t</li><li><strong>Memory:</strong>\
+        \ 2 GB RAM<br>\t</li><li><strong>Graphics:</strong> NVidia GeForce 8800 GT\
+        \ 512MB/ ATI X1900XT 512MB<br>\t</li><li><strong>DirectX\xAE:</strong> 9.0c<br>\t\
+        </li><li><strong>Hard Drive:</strong> 6 GB HD space<br>\t</li><li><strong>Sound:</strong>\
+        \ 100% DirectX 9.0c compatible 16-bit sound card<br>\t</li><li><strong>Other\
+        \ Requirements:</strong> Broadband Internet connection</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 19, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 82133
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>,
+      Italian<strong>*</strong><br><strong>*</strong>languages with full audio support
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '600860'
+      name: Gintama
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/600860/header.jpg?t=1553555088
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Gintama: Siblings'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Gintama: Siblings - $1.99'
+        packageid: 185121
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Gintama: Siblings'
+    packages:
+    - 185121
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 25, 2017
+    required_age: 0
+    short_description: Kagura, Gintoki, and Shinpachi take a stand against Kamui,
+      hoping to bring his true self back.
+    steam_appid: 655969
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwyLTXpvUCep/quwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1581998307
+      num_games_owned: 20
+      num_reviews: 23
+      playtime_at_review: 13
+      playtime_forever: 33
+      playtime_last_two_weeks: 0
+      steamid: '76561198849032140'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '49238522'
+    review: "Me encanta, El argumento es sencillo y f\xE1cil de entender y retoma\
+      \ desde donde se dejo la temporada pasada pero llevando el conflicto a un escenario\
+      \ totalmente diferente, la animaci\xF3n en la gran mayor\xEDa del anime es muy\
+      \ correcta (pese a que a veces haya ciertos errores).\n\nEsta junto con la Tercera\
+      \ temporada (2015) son de las mejores de Gintama, La pelea entre Gintoki, Kagura,\
+      \ Abuto y Shinpachi contra Kamui es buen\xEDsima yo dir\xEDa que esta a la altura\
+      \ de la de Gintoki y Takasugi de la anterior temporada."
+    steam_purchase: true
+    timestamp_created: 1551142722
+    timestamp_updated: 1603320784
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,77 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/772140/page_bg_generated_v6b.jpg?t=1516391581
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - RedNukem
+    fullgame:
+      appid: '730270'
+      name: JunkerBot
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/772140/header.jpg?t=1516391581
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: JunkerBot Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 190 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - RedNukem
+    release_date:
+      coming_soon: false
+      date: Jan 19, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_b4a10458d222b4828e7de6005309b91096669346.1920x1080.jpg?t=1516391581
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_b4a10458d222b4828e7de6005309b91096669346.600x338.jpg?t=1516391581
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_538e17c235511923f1fa80bd1bbad90ebefc5d3e.1920x1080.jpg?t=1516391581
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_538e17c235511923f1fa80bd1bbad90ebefc5d3e.600x338.jpg?t=1516391581
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_03d2b2d30f7713bff65787981815b668aae55ed8.1920x1080.jpg?t=1516391581
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_03d2b2d30f7713bff65787981815b668aae55ed8.600x338.jpg?t=1516391581
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_e737ea4bd55bfa6a28e43121717ede01630393e6.1920x1080.jpg?t=1516391581
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_e737ea4bd55bfa6a28e43121717ede01630393e6.600x338.jpg?t=1516391581
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_0bcfb202f83bad8a26c822b78ff9aa4a182f6120.1920x1080.jpg?t=1516391581
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/772140/ss_0bcfb202f83bad8a26c822b78ff9aa4a182f6120.600x338.jpg?t=1516391581
+    short_description: ''
+    steam_appid: 772140
+    support_info:
+      email: rednukemgames@gmail.com
+      url: http://www.indiedb.com/messages/compose?to=RedNukem
+    supported_languages: English
+    type: demo
+    website: http://www.indiedb.com/games/junkerbot
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

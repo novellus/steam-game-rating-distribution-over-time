@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: "This preview was added to 3DMark in early 2016 while VRMark was\
+      \ still in development. And although this DLC will continue to be available\
+      \ in 3DMark for a while longer, we recommend that you check out the real thing\
+      \ instead.<br />\r\n<br />\r\nThe full version of VRMark is available to buy\
+      \ on Steam. <br />\r\nOr try the free version by clicking 'Download Demo' on\
+      \ the VRMark store page."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/428810/page_bg_generated_v6b.jpg?t=1560991355
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: VR Support
+      id: 31
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This preview was added to 3DMark in early 2016 while VRMark\
+      \ was still in development. And although this DLC will continue to be available\
+      \ in 3DMark for a while longer, we recommend that you check out the real thing\
+      \ instead.<br />\r\n<br />\r\nThe full version of VRMark is available to buy\
+      \ on Steam. <br />\r\nOr try the free version by clicking 'Download Demo' on\
+      \ the VRMark store page."
+    developers:
+    - UL
+    fullgame:
+      appid: '223850'
+      name: 3DMark
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/428810/header.jpg?t=1560991355
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: VRMark Preview
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 3DMark - $29.99
+        packageid: 323175
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy VRMark Preview
+    packages:
+    - 323175
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows\
+        \ 7*<br>\t</li><li><strong>Processor:</strong>1.8 GHz dual-core<br>\t</li><li><strong>Graphics:</strong>DirectX\
+        \ 11<br>\t</li><li><strong>Storage:</strong>6 GB free space</li></ul><br><strong>For\
+        \ systems with a discrete graphics card</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong>2\
+        \ GB RAM and 1 GB video card memory</li></ul><br><strong>For systems with\
+        \ integrated graphics</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong>3\
+        \ GB RAM</li></ul><br>* Windows 7 users must install Service Pack 1."
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - UL
+    release_date:
+      coming_soon: false
+      date: Dec 18, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.1920x1080.jpg?t=1560991355
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.600x338.jpg?t=1560991355
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.1920x1080.jpg?t=1560991355
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.600x338.jpg?t=1560991355
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.1920x1080.jpg?t=1560991355
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.600x338.jpg?t=1560991355
+    short_description: See 3DMark as you've never seen it before with VRMark, our
+      virtual reality benchmark. VR headset not required.
+    steam_appid: 428810
+    support_info:
+      email: ''
+      url: https://benchmarks.ul.com/support
+    supported_languages: English, Russian, Simplified Chinese, German
+    type: dlc
+    website: https://benchmarks.ul.com/vrmark
+  success: true
+reviews:
+  cursor: AoJ4nNXn6PYCebnRwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 8
+    total_positive: 17
+    total_reviews: 25
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 55
+      num_reviews: 93
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198184955086'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '84052889'
+    review: 3000fps lol
+    steam_purchase: true
+    timestamp_created: 1609834605
+    timestamp_updated: 1609834605
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: This DLC is a donation intended for those who wish to provide
+      additional support to the developer of Snail Trek. It contains no gameplay changes
+      or additional game content, except for:<br><br><ul class="bb_ul"><li> You may
+      play with your characters dressed in a classic janitor uniform at any time (toggle
+      this ability in the options menu)<br></li><li> It also adds a secret option
+      to the Zhawk's computer rewarding you for your patronage.</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/851610/page_bg_generated_v6b.jpg?t=1524513279
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC is a donation intended for those who wish to provide
+      additional support to the developer of Snail Trek. It contains no gameplay changes
+      or additional game content, except for:<br><br><ul class="bb_ul"><li> You may
+      play with your characters dressed in a classic janitor uniform at any time (toggle
+      this ability in the options menu)<br></li><li> It also adds a secret option
+      to the Zhawk's computer rewarding you for your patronage.</li></ul>
+    developers:
+    - Phil Fortier
+    fullgame:
+      appid: '761480'
+      name: 'Snail Trek - Chapter 3: Lettuce Be'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/851610/header.jpg?t=1524513279
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu/SteamOS 64-bit<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    name: Snail Trek 3 - Janitor Donation DLC
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Snail Trek 3 - Janitor Donation DLC - $1.99
+        packageid: 267240
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Snail Trek 3 - Janitor Donation DLC
+    packages:
+    - 267240
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 23, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_8929be5cbe32b6aa2db198d3bed8294daecdc304.1920x1080.jpg?t=1524513279
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_8929be5cbe32b6aa2db198d3bed8294daecdc304.600x338.jpg?t=1524513279
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_9fc9fadaf58c8ad9f47d0a98c507049758639ce4.1920x1080.jpg?t=1524513279
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_9fc9fadaf58c8ad9f47d0a98c507049758639ce4.600x338.jpg?t=1524513279
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_ec6e3ac92797365733c0abbf247cbab6766a27b8.1920x1080.jpg?t=1524513279
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_ec6e3ac92797365733c0abbf247cbab6766a27b8.600x338.jpg?t=1524513279
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_3523d60ebb247474b9e558066c8310d3fb9701d5.1920x1080.jpg?t=1524513279
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/851610/ss_3523d60ebb247474b9e558066c8310d3fb9701d5.600x338.jpg?t=1524513279
+    short_description: Support the developer so they can make more games like Snail
+      Trek! And dress up in some classic janitor uniforms while you're at it.
+    steam_appid: 851610
+    support_info:
+      email: phil@icefallgames.com
+      url: http://snailtrek.com
+    supported_languages: English
+    type: dlc
+    website: http://snailtrek.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

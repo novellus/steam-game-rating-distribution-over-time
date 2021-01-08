@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: "The soundtrack for &quot;Storynth,&quot; containing virtually\
+      \ all pieces of music that appear in-game. The tracks are arranged in chronological\
+      \ order, but please use caution if you'd like to avoid musical &quot;spoilers.&quot;<br\
+      \ />\r\n<br />\r\nThe album contains 68 tracks, and has an overall run-time\
+      \ of 102 minutes."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1360540/page_bg_generated_v6b.jpg?t=1594386433
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The soundtrack for &quot;Storynth,&quot; containing virtually\
+      \ all pieces of music that appear in-game. The tracks are arranged in chronological\
+      \ order, but please use caution if you'd like to avoid musical &quot;spoilers.&quot;<br\
+      \ />\r\n<br />\r\nThe album contains 68 tracks, and has an overall run-time\
+      \ of 102 minutes."
+    developers:
+    - Julia Barker
+    fullgame:
+      appid: '1278040'
+      name: Storynth
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1360540/header.jpg?t=1594386433
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Storynth Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Storynth Soundtrack - $7.99
+        packageid: 477015
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy Storynth Soundtrack
+    packages:
+    - 477015
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Julia Barker
+    release_date:
+      coming_soon: false
+      date: Jul 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_283516e5d511b7169121df3515cd7667a9c50c67.1920x1080.jpg?t=1594386433
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_283516e5d511b7169121df3515cd7667a9c50c67.600x338.jpg?t=1594386433
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_91270c460e8363d65c4c9718e01b8ab9d1e0fe35.1920x1080.jpg?t=1594386433
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_91270c460e8363d65c4c9718e01b8ab9d1e0fe35.600x338.jpg?t=1594386433
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_3e0197083ae1e30b9a3f1b1d22c75ca88c236475.1920x1080.jpg?t=1594386433
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_3e0197083ae1e30b9a3f1b1d22c75ca88c236475.600x338.jpg?t=1594386433
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_2b28fb73491046491f1cf71d6669de3b1b2a37f7.1920x1080.jpg?t=1594386433
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_2b28fb73491046491f1cf71d6669de3b1b2a37f7.600x338.jpg?t=1594386433
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_2841c3fe934cb4b1a744b66963ddfec8677612dd.1920x1080.jpg?t=1594386433
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1360540/ss_2841c3fe934cb4b1a744b66963ddfec8677612dd.600x338.jpg?t=1594386433
+    short_description: The soundtrack for &quot;Storynth,&quot; containing virtually
+      all pieces of music that appear in-game.
+    steam_appid: 1360540
+    support_info:
+      email: storynth@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

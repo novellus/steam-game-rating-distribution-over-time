@@ -1,0 +1,230 @@
+details:
+  data:
+    about_the_game: "Lead your orbital battleships to victory in Flotilla! Fight,\
+      \ trade, and explore new planets in your journey through the galaxy.<br>\t\t\
+      \t\t\tDiscover upgrades and artifacts to install on your fleet ships, and engage\
+      \ in battle with bounty hunters and pirate space-chickens. Featuring tactically\
+      \ rich 3D combat, flank and surprise the enemy from any direction. And when\
+      \ the dust settles, generate another uniquely randomized universe for a brand-spanking\
+      \ new adventure!<br>\t\t\t\t\t<br>\t\t\t\t\t<strong>Key features:</strong><br>\t\
+      \t\t\t\t<ul class=\"bb_ul\"><li>No adventure is the same: Whenever you begin\
+      \ an adventure, the universe is randomly populated with characters, upgrades,\
+      \ and encounters.<br>\t\t\t\t\t</li><li>There is no &quot;up&quot; in space:\
+      \ Explore the tactical richness of full 3D movement. Watch your angles and flank\
+      \ the enemy from all directions.<br>\t\t\t\t\t</li><li>Configure your fleet:\
+      \ Find loot throughout your adventures, and install upgrades and artifacts to\
+      \ your flotilla of ships.<br>\t\t\t\t\t</li><li>Play with a friend: Grab a buddy\
+      \ and play through the adventure cooperatively in splitscreen.<br>\t\t\t\t\t\
+      </li><li>Blow up your friend: In the Skirmish Mode, set up custom fleets and\
+      \ battle human or computer-controlled enemies.<br>\t\t\t\t\t</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/55000/page_bg_generated_v6b.jpg?t=1586734432
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Partial Controller Support
+      id: 18
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Lead your orbital battleships to victory in Flotilla! Fight,\
+      \ trade, and explore new planets in your journey through the galaxy.<br>\t\t\
+      \t\t\tDiscover upgrades and artifacts to install on your fleet ships, and engage\
+      \ in battle with bounty hunters and pirate space-chickens. Featuring tactically\
+      \ rich 3D combat, flank and surprise the enemy from any direction. And when\
+      \ the dust settles, generate another uniquely randomized universe for a brand-spanking\
+      \ new adventure!<br>\t\t\t\t\t<br>\t\t\t\t\t<strong>Key features:</strong><br>\t\
+      \t\t\t\t<ul class=\"bb_ul\"><li>No adventure is the same: Whenever you begin\
+      \ an adventure, the universe is randomly populated with characters, upgrades,\
+      \ and encounters.<br>\t\t\t\t\t</li><li>There is no &quot;up&quot; in space:\
+      \ Explore the tactical richness of full 3D movement. Watch your angles and flank\
+      \ the enemy from all directions.<br>\t\t\t\t\t</li><li>Configure your fleet:\
+      \ Find loot throughout your adventures, and install upgrades and artifacts to\
+      \ your flotilla of ships.<br>\t\t\t\t\t</li><li>Play with a friend: Grab a buddy\
+      \ and play through the adventure cooperatively in splitscreen.<br>\t\t\t\t\t\
+      </li><li>Blow up your friend: In the Skirmish Mode, set up custom fleets and\
+      \ battle human or computer-controlled enemies.<br>\t\t\t\t\t</li></ul>"
+    developers:
+    - Blendo Games
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/55000/header.jpg?t=1586734432
+    is_free: false
+    linux_requirements:
+      minimum: '<ul class="bb_ul"><li><strong>Operating system:  </strong> glibc 2.17+,
+        32/64-bit<br></li><li><strong>Processor:  </strong> 1GHz<br></li><li><strong>Memory:  </strong>
+        1GB<br></li><li><strong>Hard disk space:  </strong> 50MB<br></li><li><strong>Video:  </strong>
+        OpenGL 3.0 or above</li></ul>'
+    mac_requirements:
+      minimum: '<ul class="bb_ul"><li><strong>Operating system:  </strong> 10.9.5
+        Mavericks or newer<br></li><li><strong>Processor:  </strong> 1GHz<br></li><li><strong>Memory:  </strong>
+        1GB<br></li><li><strong>Hard disk space:  </strong> 50MB<br></li><li><strong>Video:  </strong>
+        OpenGL 3.0 or above</li></ul>'
+    metacritic:
+      score: 72
+      url: https://www.metacritic.com/game/pc/flotilla?ftag=MCD-06-10aaa1f
+    movies:
+    - highlight: true
+      id: 256732295
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732295/movie480.mp4?t=1539702976
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732295/movie_max.mp4?t=1539702976
+      name: Flotilla trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256732295/movie.293x165.jpg?t=1539702976
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732295/movie480.webm?t=1539702976
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732295/movie_max.webm?t=1539702976
+    name: Flotilla
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Flotilla - <span class="discount_original_price">$9.99</span>
+          $4.99
+        packageid: 4189
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Flotilla - Commercial License - $9.99
+        packageid: 430473
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Flotilla
+    packages:
+    - 4189
+    - 430473
+    pc_requirements:
+      minimum: '<ul class="bb_ul"><li><strong>Operating system:  </strong> Windows
+        XP or newer<br></li><li><strong>Processor:  </strong> 1GHz<br></li><li><strong>Memory:  </strong>
+        1GB<br></li><li><strong>Hard disk space:  </strong> 50MB<br></li><li><strong>Video:  </strong>
+        OpenGL 3.0 or above</li></ul>'
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 499
+      final_formatted: $4.99
+      initial: 999
+      initial_formatted: $9.99
+    publishers:
+    - Blendo Games
+    recommendations:
+      total: 166
+    release_date:
+      coming_soon: false
+      date: Apr 2010
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_4d09a1c274d139ea76b852c6d03a06051c8a01b9.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_4d09a1c274d139ea76b852c6d03a06051c8a01b9.600x338.jpg?t=1586734432
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_9ff2d209718ea908324049cdc3e978d1982e6683.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_9ff2d209718ea908324049cdc3e978d1982e6683.600x338.jpg?t=1586734432
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_efa6b21bbb4fb02ebda681f9728059483cdd4f6e.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_efa6b21bbb4fb02ebda681f9728059483cdd4f6e.600x338.jpg?t=1586734432
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_db3269493293d7f6983e6d0b8a58b9ded5c45b68.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_db3269493293d7f6983e6d0b8a58b9ded5c45b68.600x338.jpg?t=1586734432
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_3f1162117876176518a3e564f708f34e04c7d78d.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_3f1162117876176518a3e564f708f34e04c7d78d.600x338.jpg?t=1586734432
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_d5fd712f86f9a42a3537eb74f8c873dd6d016f28.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_d5fd712f86f9a42a3537eb74f8c873dd6d016f28.600x338.jpg?t=1586734432
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_cf7f2d083ca96e94c5bf96a8e84f3581907eeed3.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_cf7f2d083ca96e94c5bf96a8e84f3581907eeed3.600x338.jpg?t=1586734432
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_78898e31b5f690c1c468fe9ab16f2d2cd5c13945.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_78898e31b5f690c1c468fe9ab16f2d2cd5c13945.600x338.jpg?t=1586734432
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_71c6ac31cbe7700473f102f48f5d23a245a51cb8.1920x1080.jpg?t=1586734432
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/55000/ss_71c6ac31cbe7700473f102f48f5d23a245a51cb8.600x338.jpg?t=1586734432
+    short_description: Lead your orbital battleships to victory in Flotilla! Fight,
+      trade, and explore new planets in your journey through the galaxy. Featuring
+      tactically rich 3D combat, flank and surprise the enemy from any direction.
+      And when the dust settles, generate another uniquely randomized universe for
+      a brand-spanking new adventure!
+    steam_appid: 55000
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://www.blendogames.com/flotilla
+  success: true
+reviews:
+  cursor: AoJw2+PMqvYCfLG/Ag==
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 24
+    total_positive: 142
+    total_reviews: 166
+  reviews:
+  - author:
+      last_played: 1607750126
+      num_games_owned: 425
+      num_reviews: 11
+      playtime_at_review: 328
+      playtime_forever: 378
+      playtime_last_two_weeks: 0
+      steamid: '76561197974387228'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '654108'
+    review: 'Edit: For years, this game hasn''t worked on my computer, but now it
+      does again and I can''t tell you how lovely of a surprise that was.
+
+
+      There''s something about this game that just clicks. The ship battles are fascinating
+      with remarkably deep strategies. The graphics are wonderfully retro and uncluttered.
+      The crazy world the game is set in is fantastic. But the thing I like best about
+      Flotilla is the music- the freaking piano music in the middle of an intense
+      space battle. It seems undeniably, perfectly right, and I can no longer play
+      any other space combat game without thinking of Chopin.'
+    steam_purchase: true
+    timestamp_created: 1304392732
+    timestamp_updated: 1607747182
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: "Variable is a real-time card game.<br />\r\nThe goal of the game\
+      \ is to score more points than the opponent.<br />\r\nThe player must take cards\
+      \ from the common deck.<br />\r\nWhen the deck is over, points are counted.<br\
+      \ />\r\nThere are five types of cards.<br />\r\nIf the card is repeated, then\
+      \ the move is transferred to another player.<br />\r\n<br />\r\nThere are special\
+      \ cards in the deck:<br />\r\n1 - Take any enemy card.<br />\r\n2 - The game\
+      \ is transferred to another player.<br />\r\n<br />\r\nThe game continues until\
+      \ the third defeat.<br />\r\nYou can play with a computer or another player."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1471550/page_bg_generated_v6b.jpg?t=1607925341
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Variable is a real-time card game.<br />\r\nThe goal of\
+      \ the game is to score more points than the opponent.<br />\r\nThe player must\
+      \ take cards from the common deck.<br />\r\nWhen the deck is over, points are\
+      \ counted.<br />\r\nThere are five types of cards.<br />\r\nIf the card is repeated,\
+      \ then the move is transferred to another player.<br />\r\n<br />\r\nThere are\
+      \ special cards in the deck:<br />\r\n1 - Take any enemy card.<br />\r\n2 -\
+      \ The game is transferred to another player.<br />\r\n<br />\r\nThe game continues\
+      \ until the third defeat.<br />\r\nYou can play with a computer or another player."
+    developers:
+    - Kedexa
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1471550/header.jpg?t=1607925341
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256808851
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256808851/movie480.mp4?t=1606462888
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256808851/movie_max.mp4?t=1606462888
+      name: Admin
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256808851/movie.293x165.jpg?t=1606462888
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256808851/movie480_vp9.webm?t=1606462888
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256808851/movie_max_vp9.webm?t=1606462888
+    name: Variable
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Variable - $18.99
+        packageid: 518073
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1899
+      title: Buy Variable
+    packages:
+    - 518073
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> core 2 duo (or equivalent)<br></li><li><strong>Graphics:</strong>
+        nvidia gt 9600 (or equivalent)<br></li><li><strong>Storage:</strong> 50 MB
+        available space<br></li><li><strong>Sound Card:</strong> High Definition Audio</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1899
+      final_formatted: $18.99
+      initial: 1899
+      initial_formatted: ''
+    publishers:
+    - Kedexa
+    release_date:
+      coming_soon: false
+      date: Dec 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_997f102c26f04950d8e613ac74227815590054d3.1920x1080.jpg?t=1607925341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_997f102c26f04950d8e613ac74227815590054d3.600x338.jpg?t=1607925341
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_02fb543907deb31c1bb6ae9211d4f3519c822cf3.1920x1080.jpg?t=1607925341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_02fb543907deb31c1bb6ae9211d4f3519c822cf3.600x338.jpg?t=1607925341
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_dd7124aef9131375d821d20c3dcb6648ae6d282a.1920x1080.jpg?t=1607925341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_dd7124aef9131375d821d20c3dcb6648ae6d282a.600x338.jpg?t=1607925341
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_9c70bd6347cd725d82ccd4527fa672817d669ca4.1920x1080.jpg?t=1607925341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_9c70bd6347cd725d82ccd4527fa672817d669ca4.600x338.jpg?t=1607925341
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_653feab4716b0b04eb9f6a486b637baf33657a7e.1920x1080.jpg?t=1607925341
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1471550/ss_653feab4716b0b04eb9f6a486b637baf33657a7e.600x338.jpg?t=1607925341
+    short_description: The goal of the game is to score more points than the opponent.
+      The player must take cards from the common deck. When the deck is over, points
+      are counted. There are five types of cards. If the card is repeated, then the
+      move is transferred to another player.
+    steam_appid: 1471550
+    support_info:
+      email: admin@kedexa.ru
+      url: https://www.kedexa.ru
+    supported_languages: English
+    type: game
+    website: https://kedexa.ru
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

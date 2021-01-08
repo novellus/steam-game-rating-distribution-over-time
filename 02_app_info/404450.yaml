@@ -1,0 +1,117 @@
+details:
+  data:
+    about_the_game: This Original Soundtrack DLC contains 25 tracks of Dandelion ~Wishes
+      Brought to You~. It includes background music, opening and ending songs.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/404450/page_bg_generated_v6b.jpg?t=1447378163
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This Original Soundtrack DLC contains 25 tracks of Dandelion
+      ~Wishes Brought to You~. It includes background music, opening and ending songs.
+    developers:
+    - Cheritz
+    fullgame:
+      appid: '321290'
+      name: Dandelion - Wishes brought to you -
+    genres:
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/404450/header.jpg?t=1447378163
+    is_free: false
+    legal_notice: "\xA9 2012-2015 Cheritz Corporation, all rights reserved."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any OS Version<br></li><li><strong>Processor:</strong> Any Processor</li></ul>
+    name: Dandelion - Wishes brought to you - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dandelion - Wishes brought to you - OST - $9.99
+        packageid: 79321
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Dandelion - Wishes brought to you - OST
+    packages:
+    - 79321
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any OS Version<br></li><li><strong>Processor:</strong> Any Processor</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Cheritz
+    release_date:
+      coming_soon: false
+      date: Sep 23, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404450/ss_c674a811a36572f661c53a9ba7cae4ed148fe725.1920x1080.jpg?t=1447378163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404450/ss_c674a811a36572f661c53a9ba7cae4ed148fe725.600x338.jpg?t=1447378163
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404450/ss_a9b868edc6396783a6d7eccce108b50bb8de0d1c.1920x1080.jpg?t=1447378163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404450/ss_a9b868edc6396783a6d7eccce108b50bb8de0d1c.600x338.jpg?t=1447378163
+    short_description: This Original Soundtrack DLC contains 25 tracks of Dandelion
+      ~Wishes Brought to You~. It includes background music, opening and ending songs.
+    steam_appid: 404450
+    support_info:
+      email: help_en@cheritz.com
+      url: http://dl.cheritz.com/en
+    type: dlc
+    website: http://dl.cheritz.com
+  success: true
+reviews:
+  cursor: AoJwuZPRnNoCf4OMcg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 36
+      num_reviews: 6
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198238138212'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '29909055'
+    review: Love the music it's beautiful
+    steam_purchase: true
+    timestamp_created: 1487019482
+    timestamp_updated: 1487019482
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.573643386363983154'
+    written_during_early_access: false
+  success: 1

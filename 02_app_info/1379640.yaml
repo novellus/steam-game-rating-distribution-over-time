@@ -1,0 +1,188 @@
+details:
+  data:
+    about_the_game: Wake up in a narrow corridor to quickly realize you're all alone
+      and utterly lost. Escape the dungeons - overcome many traps, solve puzzles,
+      search for useful items and try to avoid the monster following your every step
+      as you try to escape the labyrinth. But what if there's something worse than
+      the monster? What about hungry zombies? Will you fight back?
+    achievements:
+      highlighted:
+      - name: Ending One
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1379640/22510fa18b5fc73420a2b4a37b5aa9b386bce490.jpg
+      - name: Ending Two
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1379640/a0ff21020d19c956ca28fa3576a53a2bb7f25ad8.jpg
+      - name: Idiot
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1379640/3fa597f50d66803c2bd4457b8f1f11b05c7965fb.jpg
+      - name: No Kill
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1379640/e80d1d0757f67e9d19e9360c44881237c04d11c9.jpg
+      - name: Nostalgic
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1379640/f67e102fdc0504ca917609c0b4ff55c0de12e6b4.jpg
+      - name: Party?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1379640/06f7c75bceac82f4cae172f7e2d7c3bf25be11eb.jpg
+      - name: Shortcuts
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1379640/effbeddb27218d636db5febc6ee0611f23c1adf0.jpg
+      total: 7
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1379640/page_bg_generated_v6b.jpg?t=1598912149
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h1>About me</h1><p>I'm a starting game developer since
+      2019. aMAZEd is my very first project on which I've learned basics of operating
+      a game engine and graphics. Since my strengths are more on the programming side
+      in the whole development process, you'll see some free assets used in this game
+      (characters and several items) which I haven't been able to produce by myself
+      - if you occur to notice some graphics with worse production values, it's probably
+      made by me. Thanks in advance for your feedback.</p><br><h1>Localisation</h1><p>This
+      game includes English, Czech and Slovak localisations. Localisation file is
+      accessible to anyone - feel free to add another language to this game.</p><br><h1>About
+      the Game</h1>Wake up in a narrow corridor to quickly realize you're all alone
+      and utterly lost. Escape the dungeons - overcome many traps, solve puzzles,
+      search for useful items and try to avoid the monster following your every step
+      as you try to escape the labyrinth. But what if there's something worse than
+      the monster? What about hungry zombies? Will you fight back?
+    developers:
+    - "Ond\u0159ej Hlad\xEDk"
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1379640/header.jpg?t=1598912149
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256794980
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256794980/movie480.mp4?t=1598486152
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256794980/movie_max.mp4?t=1598486152
+      name: Cinematic in-game trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256794980/movie.293x165.jpg?t=1598486152
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256794980/movie480_vp9.webm?t=1598486152
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256794980/movie_max_vp9.webm?t=1598486152
+    - highlight: true
+      id: 256798640
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256798640/movie480.mp4?t=1598486160
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256798640/movie_max.mp4?t=1598486160
+      name: Gameplay trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256798640/movie.293x165.jpg?t=1598486160
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256798640/movie480_vp9.webm?t=1598486160
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256798640/movie_max_vp9.webm?t=1598486160
+    name: aMAZEd
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: aMAZEd - <span class="discount_original_price">$11.99</span>
+          $5.99
+        packageid: 483955
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 599
+      title: Buy aMAZEd
+    packages:
+    - 483955
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 8300H Coffee
+        Lake<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 1050 4GB<br></li><li><strong>Storage:</strong> 2 GB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 599
+      final_formatted: $5.99
+      initial: 1199
+      initial_formatted: $11.99
+    publishers:
+    - Venushja Games
+    release_date:
+      coming_soon: false
+      date: Aug 31, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_478cffb5646796637a1aa6e018f5323efa229d50.1920x1080.jpg?t=1598912149
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_478cffb5646796637a1aa6e018f5323efa229d50.600x338.jpg?t=1598912149
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_4c13e78df6104c035469fc146c014525d9a80171.1920x1080.jpg?t=1598912149
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_4c13e78df6104c035469fc146c014525d9a80171.600x338.jpg?t=1598912149
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_12fb2ccd4c799519263106c07cee4c7bbcf32efb.1920x1080.jpg?t=1598912149
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_12fb2ccd4c799519263106c07cee4c7bbcf32efb.600x338.jpg?t=1598912149
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_5f6e11dbc6c79157fd44545bdd2d1f81cb0fc458.1920x1080.jpg?t=1598912149
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_5f6e11dbc6c79157fd44545bdd2d1f81cb0fc458.600x338.jpg?t=1598912149
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_4ccdc0556eca6a55f439b2a6f7dae7c27884a25c.1920x1080.jpg?t=1598912149
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_4ccdc0556eca6a55f439b2a6f7dae7c27884a25c.600x338.jpg?t=1598912149
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_62c13f13d14ccbdfcd1bb862361f080592736fe4.1920x1080.jpg?t=1598912149
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_62c13f13d14ccbdfcd1bb862361f080592736fe4.600x338.jpg?t=1598912149
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_a56707ed4f24b01ae6f44514245d3aa6a47e7ad6.1920x1080.jpg?t=1598912149
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1379640/ss_a56707ed4f24b01ae6f44514245d3aa6a47e7ad6.600x338.jpg?t=1598912149
+    short_description: aMAZEd is an atmospheric first-person exploration adventure
+      game with elements of action and horror. Lost in a labyrinth, prey to others.
+      Find as many items and clues to escape it and enjoy escalating difficulty in
+      both exploration and action aspects of the game.
+    steam_appid: 1379640
+    support_info:
+      email: support@venushjagames.com
+      url: ''
+    supported_languages: English<strong>*</strong>, Czech<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ406mWpvQCe8SgnwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1598969241
+      num_games_owned: 156
+      num_reviews: 96
+      playtime_at_review: 8
+      playtime_forever: 8
+      playtime_last_two_weeks: 0
+      steamid: '76561198304996503'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '75301963'
+    review: "\u771F\u7684\u5C31\u662F3D\u8FF7\u5BAB"
+    steam_purchase: true
+    timestamp_created: 1599008755
+    timestamp_updated: 1599008755
+    voted_up: true
+    votes_funny: 4
+    votes_up: 2
+    weighted_vote_score: '0.52173912525177002'
+    written_during_early_access: false
+  success: 1

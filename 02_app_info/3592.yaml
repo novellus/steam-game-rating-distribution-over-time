@@ -1,0 +1,81 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - PopCap Games, Inc.
+    fullgame:
+      appid: '3590'
+      name: Plants vs. Zombies GOTY Edition
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/3592/header.jpg?t=1447351833
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 87
+    name: Plants vs. Zombies Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - PopCap Games, Inc.
+    release_date:
+      coming_soon: false
+      date: May 5, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 3592
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: AoJ40a/14NkCeJKUcA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1483095197
+      num_games_owned: 37
+      num_reviews: 5
+      playtime_at_review: 7
+      playtime_forever: 7
+      playtime_last_two_weeks: 0
+      steamid: '76561198153094593'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '29401384'
+    review: "Zjebane G\xF3wno"
+    steam_purchase: true
+    timestamp_created: 1485015711
+    timestamp_updated: 1485015711
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '735900'
+      name: Classroom of the Elite
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/735900/header.jpg?t=1553552853
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Classroom of the Elite: What is evil? Whatever springs from weakness.'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Classroom of the Elite: What is evil? Whatever springs from
+          weakness. - $1.99'
+        packageid: 216562
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Classroom of the Elite: What is evil? Whatever springs from weakness.'
+    packages:
+    - 216562
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 26, 2017
+    required_age: 0
+    short_description: Melancholy, unmotivated Ayanokoji Kiyotaka attends his first
+      day at Tokyo Metropoiltan Advanced Nuturing High School, a government-established
+      institution for training a generation of Japan's best and brightest.
+    steam_appid: 739760
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4oeekrd8CcYq2iQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1509053034
+      num_games_owned: 398
+      num_reviews: 17
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198052300408'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '36024481'
+    review: 'Was my favorite this summer. Every episode made me excited for the next
+      one.
+
+      Very good MC. People who like thriller and mystery will love this series.'
+    steam_purchase: true
+    timestamp_created: 1509053119
+    timestamp_updated: 1509053119
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

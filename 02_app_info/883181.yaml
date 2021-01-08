@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: 'Purchase of this lifetime Star Booster Pack will grant the player
+      following boosts: earn 5 times more Stars and 100,000 Stars + 75 Hints.<br><br>Your
+      lifetime Star Booster Pack contains:<br><ul class="bb_ul"><li>x5 Stars Booster<br></li><li>100,000
+      Stars<br></li><li>75 Hints</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/883181/page_bg_generated_v6b.jpg?t=1531168445
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Purchase of this lifetime Star Booster Pack will grant
+      the player following boosts: earn 5 times more Stars and 100,000 Stars + 75
+      Hints.<br><br>Your lifetime Star Booster Pack contains:<br><ul class="bb_ul"><li>x5
+      Stars Booster<br></li><li>100,000 Stars<br></li><li>75 Hints</li></ul>'
+    fullgame:
+      appid: '879250'
+      name: Dot to Dot Puzzles
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/883181/header.jpg?t=1531168445
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Dot To Dot Puzzles - Lifetime Star Booster Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dot To Dot Puzzles - Lifetime Star Booster Pack - $1.99
+        packageid: 280591
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Dot To Dot Puzzles - Lifetime Star Booster Pack
+    packages:
+    - 280591
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 9, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/883181/ss_f086cfd599d1ec8f8bdb19d3b6ffe2359e3a70e4.1920x1080.jpg?t=1531168445
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/883181/ss_f086cfd599d1ec8f8bdb19d3b6ffe2359e3a70e4.600x338.jpg?t=1531168445
+    short_description: 'Purchase of this lifetime Star Booster Pack will grant the
+      player following boosts: earn 5 times more Stars and 100,000 Stars + 75 Hints.'
+    steam_appid: 883181
+    support_info:
+      email: info@ocigrup.com
+      url: https://www.ocigrup.com
+    supported_languages: English, French, German, Spanish - Spain, Polish, Portuguese,
+      Portuguese - Brazil, Russian, Arabic, Japanese, Korean, Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJw8MOY1fMCf5f/iQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 247
+      num_reviews: 205
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198040775070'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '69728639'
+    review: "Encore une foule de nouveaux dessins avec ce petit DLC. Accessoirement,\
+      \ vous acquerrez un peu plus d'indices disponibles.\n\nCe guide vous aidera\
+      \ dans Dot to dot puzzles\_:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1509355572"
+    steam_purchase: true
+    timestamp_created: 1590330755
+    timestamp_updated: 1596291424
+    voted_up: true
+    votes_funny: 0
+    votes_up: 6
+    weighted_vote_score: '0.621559619903564453'
+    written_during_early_access: false
+  success: 1

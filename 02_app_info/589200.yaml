@@ -1,0 +1,208 @@
+details:
+  data:
+    about_the_game: "Experience a new kind of immersive horror in Dreadhalls!<br><br>You\
+      \ are trapped deep inside a massive dungeon. Explore it, survive it, and find\
+      \ a way to escape. Your only weapons will be stealth, your own courage, and\
+      \ a faint light.<br><br>Inspired by the survival horror and roguelike genres,\
+      \ Dreadhalls has been terrorizing people ever since its debut at the 2013 Oculus\
+      \ + Indiecade VR Jam.<br><br>Dreadhalls is an intense and scary experience,\
+      \ not for the faint of heart. You have been warned!<h2 class=\"bb_tag\">FEATURES:</h2><br><ul\
+      \ class=\"bb_ul\"><li><strong>Procedural Levels</strong> - Every time you play,\
+      \ the map will be different. You\u2019ll never know what to expect.<br></li><li><strong>Listen\
+      \ to your surroundings!</strong> - Dreadhalls combines positional audio cues\
+      \ and an original soundtrack to build its award-winning immersive soundscape.<br></li><li><strong>Survive!</strong>\
+      \ - Hide and run from the creatures that creep in the darkness. Find oil to\
+      \ keep your light fed. Surviving in a dungeon is not an easy task!</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/589200/page_bg_generated_v6b.jpg?t=1560876505
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Experience a new kind of immersive horror in Dreadhalls!<br><br>You\
+      \ are trapped deep inside a massive dungeon. Explore it, survive it, and find\
+      \ a way to escape. Your only weapons will be stealth, your own courage, and\
+      \ a faint light.<br><br>Inspired by the survival horror and roguelike genres,\
+      \ Dreadhalls has been terrorizing people ever since its debut at the 2013 Oculus\
+      \ + Indiecade VR Jam.<br><br>Dreadhalls is an intense and scary experience,\
+      \ not for the faint of heart. You have been warned!<h2 class=\"bb_tag\">FEATURES:</h2><br><ul\
+      \ class=\"bb_ul\"><li><strong>Procedural Levels</strong> - Every time you play,\
+      \ the map will be different. You\u2019ll never know what to expect.<br></li><li><strong>Listen\
+      \ to your surroundings!</strong> - Dreadhalls combines positional audio cues\
+      \ and an original soundtrack to build its award-winning immersive soundscape.<br></li><li><strong>Survive!</strong>\
+      \ - Hide and run from the creatures that creep in the darkness. Find oil to\
+      \ keep your light fed. Surviving in a dungeon is not an easy task!</li></ul>"
+    developers:
+    - White Door Games
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/589200/header.jpg?t=1560876505
+    is_free: false
+    legal_notice: Copyright 2017 White Door Games, SL
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256680412
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256680412/movie480.mp4?t=1488366378
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256680412/movie_max.mp4?t=1488366378
+      name: Launch Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256680412/movie.293x165.jpg?t=1488366378
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256680412/movie480.webm?t=1488366378
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256680412/movie_max.webm?t=1488366378
+    - highlight: false
+      id: 256680215
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256680215/movie480.mp4?t=1488366391
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256680215/movie_max.mp4?t=1488366391
+      name: Gameplay Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256680215/movie.293x165.jpg?t=1488366391
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256680215/movie480.webm?t=1488366391
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256680215/movie_max.webm?t=1488366391
+    name: Dreadhalls
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dreadhalls - <span class="discount_original_price">$9.99</span>
+          $7.49
+        packageid: 152450
+        percent_savings: 0
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 749
+      title: Buy Dreadhalls
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$9.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $9.99 / month
+        packageid: 172082
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Dreadhalls Subscription Plan
+    packages:
+    - 152450
+    - 172082
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1<br></li><li><strong>Processor:</strong> Intel i5-4590 / AMD FX 8350 (or
+        equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GTX 970 / AMD R9 290 (or equivalent)<br></li><li><strong>Storage:</strong>
+        1024 MB available space<br></li><li><strong>Additional Notes:</strong> Requires
+        a Virtual Reality headset</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 25
+      final: 749
+      final_formatted: $7.49
+      initial: 999
+      initial_formatted: $9.99
+    publishers:
+    - White Door Games
+    recommendations:
+      total: 230
+    release_date:
+      coming_soon: false
+      date: Mar 9, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_8f478b6cf317bb33dcd35441aa15f37e01b6684a.1920x1080.jpg?t=1560876505
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_8f478b6cf317bb33dcd35441aa15f37e01b6684a.600x338.jpg?t=1560876505
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_91b275dfa0496766871f63f7ccac4c202c6239f0.1920x1080.jpg?t=1560876505
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_91b275dfa0496766871f63f7ccac4c202c6239f0.600x338.jpg?t=1560876505
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_3e832a975a70b574fe8bad95807999a621bae065.1920x1080.jpg?t=1560876505
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_3e832a975a70b574fe8bad95807999a621bae065.600x338.jpg?t=1560876505
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_89398bee7ca4f039216fc51af63c8f01c9fa38fa.1920x1080.jpg?t=1560876505
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_89398bee7ca4f039216fc51af63c8f01c9fa38fa.600x338.jpg?t=1560876505
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_2fad237a5fcccc4d18213f709daa413ab4149470.1920x1080.jpg?t=1560876505
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/589200/ss_2fad237a5fcccc4d18213f709daa413ab4149470.600x338.jpg?t=1560876505
+    short_description: You are trapped deep inside a massive dungeon. Explore it,
+      survive it and find a way to escape. Your only weapons will be stealth, your
+      own courage, and a faint light. Dreadhalls is an intense and scary experience,
+      not for the faint of heart. You have been warned!
+    steam_appid: 589200
+    support_info:
+      email: info@dreadhalls.com
+      url: http://www.dreadhalls.com/contact
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>,
+      Spanish - Spain<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.dreadhalls.com/
+  success: true
+reviews:
+  cursor: AoJ4ls7w5vYCeqezwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 11
+    total_positive: 219
+    total_reviews: 230
+  reviews:
+  - author:
+      last_played: 1609625615
+      num_games_owned: 170
+      num_reviews: 36
+      playtime_at_review: 19
+      playtime_forever: 19
+      playtime_last_two_weeks: 19
+      steamid: '76561198106853901'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83991162'
+    review: I was looking for genuine scares and this classic holds up like the motionless
+      gargoyle that is definitely not something to worry about or have nightmares
+      over
+    steam_purchase: true
+    timestamp_created: 1609769841
+    timestamp_updated: 1609769841
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

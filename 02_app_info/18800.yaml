@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      highlighted:
+      - name: Gentleman's Wager
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/41726352c4fad3370da657f39fb2949481a8545d.jpg
+      - name: Complete Shutout
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/47a9e352e571d5b218a316660cb3abd7123bc536.jpg
+      - name: I Would Drive 500 Miles
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/3d787cacadb7427fdb550d673018a774ac1fdaef.jpg
+      - name: I Would Drive 500 More
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/3750447a521be693839bda52651e163bb234c8af.jpg
+      - name: Ultimate Indie Gamer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/b2a59aaee5b16f5a8e39a09f8248540ec74de10a.jpg
+      - name: Nail Biter
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/f2372401d464bfcf388c3c507e36e612787bc77e.jpg
+      - name: Frozen Finish
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/09f9c08bc73bb801b4a9495e05b4ccfc2386a900.jpg
+      - name: Float Like a Butterfly
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/9689acdb3f1cde31bb52c105c2a6e60ec395e10d.jpg
+      - name: Sting Like a Bee
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/13d40fbdcd36aa2f80844f957d890ed48c372f72.jpg
+      - name: Climate Change
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/18800/d492aabcbe095a034f62ea93cbbeaa3a3fdc7da2.jpg
+      total: 45
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Nimblebit
+    fullgame:
+      appid: '18820'
+      name: Zero Gear
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/18800/header.jpg?t=1447352814
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Zero Gear Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Nimblebit
+    release_date:
+      coming_soon: false
+      date: Dec 22, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 18800
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

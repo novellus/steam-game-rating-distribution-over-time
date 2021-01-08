@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: "Get 5 Blue Orbs. Each Blue Orb boosts your vitality by 1,000\
+      \ points.<br />\r\nNote: There are 14 Blue Orbs in the game. You cannot have\
+      \ more than 14 Blue Orbs (20,000 vitality points), even if you purchase extra\
+      \ Blue Orbs."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/359494/page_bg_generated_v6b.jpg?t=1447371501
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Get 5 Blue Orbs. Each Blue Orb boosts your vitality by\
+      \ 1,000 points.<br />\r\nNote: There are 14 Blue Orbs in the game. You cannot\
+      \ have more than 14 Blue Orbs (20,000 vitality points), even if you purchase\
+      \ extra Blue Orbs."
+    developers:
+    - CAPCOM Co., Ltd.
+    fullgame:
+      appid: '329050'
+      name: Devil May Cry 4 Special Edition
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/359494/header.jpg?t=1447371501
+    is_free: false
+    legal_notice: "\xA9CAPCOM CO., LTD. 2008, 2015 ALL RIGHTS RESERVED.<br />\r\n\
+      ILLUSTRATIONS:Kazuma Kaneko/ATLUS"
+    linux_requirements: []
+    mac_requirements: []
+    name: 5 Blue Orbs
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 5 Blue Orbs - $2.99
+        packageid: 64056
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy 5 Blue Orbs
+    packages:
+    - 64056
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, Windows 8.1</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, Windows 8.1</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - CAPCOM Co., Ltd.
+    release_date:
+      coming_soon: false
+      date: Jun 23, 2015
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/359494/ss_6b7e69e07a1534116f83da27326fb3e591e9ef20.1920x1080.jpg?t=1447371501
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/359494/ss_6b7e69e07a1534116f83da27326fb3e591e9ef20.600x338.jpg?t=1447371501
+    short_description: 'Get 5 Blue Orbs. Each Blue Orb boosts your vitality by 1,000
+      points. Note: Max vitality is 14 Blue Orbs (20,000 points).'
+    steam_appid: 359494
+    support_info:
+      email: Support@capcom.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Japanese<strong>*</strong><br><strong>*</strong>languages with full
+      audio support
+    type: dlc
+    website: http://www.capcom.co.jp/devil4se/
+  success: true
+reviews:
+  cursor: AoJw37e65ekCcd+MvgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1235
+      num_reviews: 436
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198045331223'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '49833457'
+    review: 'yes'
+    steam_purchase: true
+    timestamp_created: 1553887510
+    timestamp_updated: 1553887510
+    voted_up: true
+    votes_funny: 13
+    votes_up: 7
+    weighted_vote_score: '0.384615540504455566'
+    written_during_early_access: false
+  success: 1

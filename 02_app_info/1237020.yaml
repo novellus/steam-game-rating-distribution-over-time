@@ -1,0 +1,141 @@
+details:
+  data:
+    about_the_game: "The official soundtrack to Eliza, a visual novel by Zachtronics.<br><br><i>After\
+      \ abandoning her high-powered tech career and a mysterious three-year absence,\
+      \ Evelyn Ishino-Aubrey resurfaces working as a proxy for a virtual counseling\
+      \ app called Eliza. Her job consists solely of reading a script provided to\
+      \ her in real-time by an AI, leaving her no autonomy over what she says. Is\
+      \ Eliza a technological marvel that brings therapy to those who otherwise couldn\u2019\
+      t access it? Or is it an ineffective replacement and another vector for technology\
+      \ companies to gain control over our lives and humanity?<br><br>As she reconnects\
+      \ with people from her past and gets to know the ordinary people of Seattle\
+      \ who use Eliza for counseling, Evelyn finds herself caught in the middle between\
+      \ differing sides of the argument\u2014 and as she begins to question everything\
+      \ about her past life and future purpose in the world, it becomes clear she\
+      \ must confront the turmoil and darkness inside.</i>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1237020/page_bg_generated_v6b.jpg?t=1598472893
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The official soundtrack to Eliza, a visual novel by Zachtronics.<br><br><i>After\
+      \ abandoning her high-powered tech career and a mysterious three-year absence,\
+      \ Evelyn Ishino-Aubrey resurfaces working as a proxy for a virtual counseling\
+      \ app called Eliza. Her job consists solely of reading a script provided to\
+      \ her in real-time by an AI, leaving her no autonomy over what she says. Is\
+      \ Eliza a technological marvel that brings therapy to those who otherwise couldn\u2019\
+      t access it? Or is it an ineffective replacement and another vector for technology\
+      \ companies to gain control over our lives and humanity?<br><br>As she reconnects\
+      \ with people from her past and gets to know the ordinary people of Seattle\
+      \ who use Eliza for counseling, Evelyn finds herself caught in the middle between\
+      \ differing sides of the argument\u2014 and as she begins to question everything\
+      \ about her past life and future purpose in the world, it becomes clear she\
+      \ must confront the turmoil and darkness inside.</i>"
+    developers:
+    - Zachtronics
+    fullgame:
+      appid: '716500'
+      name: Eliza
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1237020/header.jpg?t=1598472893
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Eliza Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Eliza Original Soundtrack - <span class="discount_original_price">$6.99</span>
+          $3.49
+        packageid: 429081
+        percent_savings: 0
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 349
+      title: Buy Eliza Original Soundtrack
+    packages:
+    - 429081
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        150 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 370 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 50
+      final: 349
+      final_formatted: $3.49
+      initial: 699
+      initial_formatted: $6.99
+    publishers:
+    - Zachtronics
+    release_date:
+      coming_soon: false
+      date: Feb 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237020/ss_65b1afb9f7351b8f48e013629ca3591e83abaa8d.1920x1080.jpg?t=1598472893
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237020/ss_65b1afb9f7351b8f48e013629ca3591e83abaa8d.600x338.jpg?t=1598472893
+    short_description: The official soundtrack to Eliza, a visual novel by Zachtronics.
+    steam_appid: 1237020
+    support_info:
+      email: support@zachtronics.com
+      url: http://www.zachtronics.com/support/
+    supported_languages: English<strong>*</strong>, Hungarian, Russian<br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://www.zachtronics.com/eliza
+  success: true
+reviews:
+  cursor: AoJ41tGCs/UCdpGlqgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 25
+      num_reviews: 27
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198272936933'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78194966'
+    review: Aweome music and the game itself is awesome too. Recommended !!
+    steam_purchase: true
+    timestamp_created: 1603734769
+    timestamp_updated: 1603734769
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

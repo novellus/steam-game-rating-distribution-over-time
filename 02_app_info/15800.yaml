@@ -1,0 +1,200 @@
+details:
+  data:
+    about_the_game: "<p>Planet Busters is a new single-player game from Slam, combining\
+      \ puzzle-solving action with awesome firepower and spectacular explosions.</p>\n\
+      \t\t\t\t\t<p>The mysterious Scourge have destroyed Earth. Now it\u2019s payback\
+      \ time.  With most of the fleet killed in the attack, it\u2019s up to you and\
+      \ your fellow ensigns to eradicate the Scourge and make the galaxy safe for\
+      \ humankind once more.</p>\n\t\t\t\t\t<p>Use the tactical grid to solve puzzles\
+      \ and match rockets by color to trigger attacks  on enemy ships, moons or planets.\
+      \  Deploy EMP measures; use missiles for extra fire-power; and collect power-ups\
+      \ to assist you in your mission \u2013 to defeat the Scourge. At all costs.</p>\n\
+      \t\t\t\t\t<p>Planet Busters supports Steam Achievements: show off your progress\
+      \ through your Steam Community profile page.</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t\
+      <li>9 Steam Achievements to collect</li>\n\t\t\t\t\t<li>Supports Xbox controller</li>\n\
+      \t\t\t\t\t<li>Over 50 levels</li></ul>"
+    achievements:
+      highlighted:
+      - name: Shock
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/shock64on.jpg
+      - name: Awe
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/awe64on.jpg
+      - name: Bring It On
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/bringiton64on.jpg
+      - name: Look Ma, No Missiles!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/nomissiles64on.jpg
+      - name: Look Pa, No EMPs!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/noemp64on.jpg
+      - name: That Was Close
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/thatwasclose64on.jpg
+      - name: Skin of Teeth
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/skinofteeth64on.jpg
+      - name: Admiral
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/admiral64on.jpg
+      - name: Obsessive Completionist
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/15800/completion64on.jpg
+      total: 9
+    background: https://steamcdn-a.akamaihd.net/steam/apps/15800/page_bg_generated_v6b.jpg?t=1447351377
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 15810
+      description: ''
+    detailed_description: "<p>Planet Busters is a new single-player game from Slam,\
+      \ combining puzzle-solving action with awesome firepower and spectacular explosions.</p>\n\
+      \t\t\t\t\t<p>The mysterious Scourge have destroyed Earth. Now it\u2019s payback\
+      \ time.  With most of the fleet killed in the attack, it\u2019s up to you and\
+      \ your fellow ensigns to eradicate the Scourge and make the galaxy safe for\
+      \ humankind once more.</p>\n\t\t\t\t\t<p>Use the tactical grid to solve puzzles\
+      \ and match rockets by color to trigger attacks  on enemy ships, moons or planets.\
+      \  Deploy EMP measures; use missiles for extra fire-power; and collect power-ups\
+      \ to assist you in your mission \u2013 to defeat the Scourge. At all costs.</p>\n\
+      \t\t\t\t\t<p>Planet Busters supports Steam Achievements: show off your progress\
+      \ through your Steam Community profile page.</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t\
+      <li>9 Steam Achievements to collect</li>\n\t\t\t\t\t<li>Supports Xbox controller</li>\n\
+      \t\t\t\t\t<li>Over 50 levels</li></ul>"
+    developers:
+    - Slam
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/15800/header.jpg?t=1447351377
+    is_free: false
+    legal_notice: "Copyright \xA9 2008 Slam Games Ltd.  All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Planet Busters
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Planet Busters - $9.99
+        packageid: 836
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Planet Busters
+    packages:
+    - 836
+    pc_requirements:
+      minimum: "<ul>\n\t\t\t\t\t<li><strong>OS:</strong> Windows 2000 / XP / Vista</li>\n\
+        \t\t\t\t\t<li><strong>Processor:</strong> 1GHz</li>\n\t\t\t\t\t<li><strong>Memory:</strong>\
+        \ 256MB</li>\n\t\t\t\t\t<li><strong>Graphics:</strong> DirectX 9.0c compatible\
+        \ card with Pixel Shader 2.0 support</li>\n\t\t\t\t\t<li><strong>DirectX Version:</strong>\
+        \ 9.0c or higher</li>\n\t\t\t\t\t<li><strong>Sound:</strong> DirectX 9.0c\
+        \ compatible sound card</li>\n\t\t\t\t\t<li><strong>Hard Drive:</strong> 120MB</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Slam
+    release_date:
+      coming_soon: false
+      date: Jun 30, 2008
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004612.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004612.600x338.jpg?t=1447351377
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004613.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004613.600x338.jpg?t=1447351377
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004614.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004614.600x338.jpg?t=1447351377
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004615.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004615.600x338.jpg?t=1447351377
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004616.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004616.600x338.jpg?t=1447351377
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004617.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004617.600x338.jpg?t=1447351377
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004618.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004618.600x338.jpg?t=1447351377
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004619.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004619.600x338.jpg?t=1447351377
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004620.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004620.600x338.jpg?t=1447351377
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004621.1920x1080.jpg?t=1447351377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/15800/0000004621.600x338.jpg?t=1447351377
+    short_description: "Planet Busters is a new single-player game from Slam, combining\
+      \ puzzle-solving action with awesome firepower and spectacular explosions. The\
+      \ mysterious Scourge have destroyed Earth. Now it\u2019s payback time."
+    steam_appid: 15800
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://www.slam-games.com/planetbusters/
+  success: true
+reviews:
+  cursor: AoJ47o20v8QCe8T/BA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 86400
+      num_games_owned: 4908
+      num_reviews: 101
+      playtime_at_review: 7
+      playtime_forever: 7
+      playtime_last_two_weeks: 0
+      steamid: '76561197991161976'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '1309771'
+    review: "2008\uB144 \uB098\uC654\uC744 \uB2F9\uC2DC \uAD6C\uC785\uD55C \uB098\uB2D8\
+      \uC740 \uB9D0\uD560 \uC218 \uC788\uB2E4. '\uB098\uB984 \uAD1C\uCC2E\uC740 \uAC8C\
+      \uC784\uC774\uC5C8\uB294\uB370 \uD2B9\uC815 \uC2A4\uD14C\uC774\uC9C0 \uC9C0\uB098\
+      \uCE58\uAC8C \uB192\uC740 \uB09C\uC774\uB3C4 \uC218\uC815\uD588\uB2E4\uACE0\
+      \ \uD558\uB354\uB2C8, \uC774\uC804 \uC138\uC774\uBE0C\uD30C\uC77C\uC774 \uC644\
+      \uC804 \uB0A0\uB77C\uAC04 \uC774\uC0C1\uD55C \uBC84\uADF8\uAC00 \uC788\uC5B4\
+      \uC11C \uC811\uC5C8\uB2E4.' \uC9C0\uAE08\uC740 \uAD1C\uCC2E\uC744\uC9C0\uB294\
+      \ \uBAA8\uB974\uACA0\uC74C."
+    steam_purchase: true
+    timestamp_created: 1323787370
+    timestamp_updated: 1393696993
+    voted_up: false
+    votes_funny: 1
+    votes_up: 1
+    weighted_vote_score: '0.349036037921905518'
+    written_during_early_access: false
+  success: 1

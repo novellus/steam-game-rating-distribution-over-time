@@ -1,0 +1,205 @@
+details:
+  data:
+    about_the_game: Paddle Master VR is a cross between a breakout-style game and
+      racquetball, inspired by a popular mobile game (Ballz).   You play inside something
+      like a racquetball court, but with numbered blocks that you must destroy.   You
+      have a gun that you use to shoot balls at the blocks, and a paddle to keep the
+      balls in play when they bounce back to you.   When your balls are all gone,
+      your gun is automatically reloaded, and a new row of blocks appears, and any
+      old blocks are moved closer to you.  You lose when any blocks get pushed past
+      the red line marking the front of the play area.  Oh, and the balls have a tendency
+      to explode... How long can you last?
+    achievements:
+      highlighted:
+      - name: Yay, I didn't lose!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/164015af4185197df1f659c54efab042b3b8773c.jpg
+      - name: Paddle Apprentice
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/f7db5bd9a40e1e5976318cec75d32285a0e50be9.jpg
+      - name: I am the Paddle Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/d5df8659aad0c2c074e1c3be74fb0c197690f40f.jpg
+      - name: Did the wall just move?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/94ba83792e65aec56bd23b91f322be42ce94781c.jpg
+      - name: Board Clear!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/39f332a696d26164ce628e6796f32524e6ffca39.jpg
+      - name: How far back does it go???
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/c26e8deae69d29a1c4912329579033dd989ccd6e.jpg
+      - name: Um, I broke the scoreboard...
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/266ef86bc2b084d60da4bbe7d1222cbdbef5ca53.jpg
+      - name: Two balls are better than one
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/5b846b3bfbaee0c30456297c394cb3d2cf9b11ee.jpg
+      - name: A decent set of balls
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/3d56c59ba0c945d50df0bda20d22c6f7f1f6397f.jpg
+      - name: A massive set of balls
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/743070/9f781803d5f447efa31745db1befcf34180952a2.jpg
+      total: 22
+    background: https://steamcdn-a.akamaihd.net/steam/apps/743070/page_bg_generated_v6b.jpg?t=1529348594
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Paddle Master VR is a cross between a breakout-style game
+      and racquetball, inspired by a popular mobile game (Ballz).   You play inside
+      something like a racquetball court, but with numbered blocks that you must destroy.   You
+      have a gun that you use to shoot balls at the blocks, and a paddle to keep the
+      balls in play when they bounce back to you.   When your balls are all gone,
+      your gun is automatically reloaded, and a new row of blocks appears, and any
+      old blocks are moved closer to you.  You lose when any blocks get pushed past
+      the red line marking the front of the play area.  Oh, and the balls have a tendency
+      to explode... How long can you last?
+    developers:
+    - Raging Pygmy Goat Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/743070/header.jpg?t=1529348594
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256699318
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699318/movie480.mp4?t=1509054600
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699318/movie_max.mp4?t=1509054600
+      name: Gameplay1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256699318/movie.293x165.jpg?t=1509054600
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699318/movie480.webm?t=1509054600
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699318/movie_max.webm?t=1509054600
+    name: Paddle Master VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Paddle Master VR - <span class="discount_original_price">$3.99</span>
+          $0.99
+        packageid: 217817
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 99
+      title: Buy Paddle Master VR
+    packages:
+    - 217817
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> Windows\
+        \ 7 SP1, Windows 8.1, or Windows 10<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE i5-4590 / AMD FX 8350 equivalent or greater<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX 970\
+        \ / AMD Radeon\u2122 R9 290 equivalent or greater<br></li><li><strong>Storage:</strong>\
+        \ 300 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ Windows 7 SP1, Windows 8.1, or Windows 10<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE i5-4590 / AMD FX 8350 equivalent or greater<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX 970\
+        \ / AMD Radeon\u2122 R9 290 equivalent or greater<br></li><li><strong>Storage:</strong>\
+        \ 300 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 99
+      final_formatted: $0.99
+      initial: 399
+      initial_formatted: $3.99
+    publishers:
+    - Raging Pygmy Goat Games
+    release_date:
+      coming_soon: false
+      date: Nov 18, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_347c2116577768bf746cf587ccda90a4f1ccde8c.1920x1080.jpg?t=1529348594
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_347c2116577768bf746cf587ccda90a4f1ccde8c.600x338.jpg?t=1529348594
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_fe7bb1817f103825f57a977da07e8ed0c15e1de1.1920x1080.jpg?t=1529348594
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_fe7bb1817f103825f57a977da07e8ed0c15e1de1.600x338.jpg?t=1529348594
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_9ba106c4b4c6948418fd3d5747d42c9586fae428.1920x1080.jpg?t=1529348594
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_9ba106c4b4c6948418fd3d5747d42c9586fae428.600x338.jpg?t=1529348594
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_c4fb2e7137770e19ab91cd7299e2ddf39fefd9be.1920x1080.jpg?t=1529348594
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_c4fb2e7137770e19ab91cd7299e2ddf39fefd9be.600x338.jpg?t=1529348594
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_3fc1c69527c757262decd1103158130ee3ce9b9c.1920x1080.jpg?t=1529348594
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/743070/ss_3fc1c69527c757262decd1103158130ee3ce9b9c.600x338.jpg?t=1529348594
+    short_description: A cross between a breakout-style game and racquetball.
+    steam_appid: 743070
+    support_info:
+      email: ragingpygmygoatgames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://www.facebook.com/RagingPygmyGoatGames/
+  success: true
+reviews:
+  cursor: AoJw19qmm+oCf+fIvwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1558903504
+      num_games_owned: 287
+      num_reviews: 1
+      playtime_at_review: 303
+      playtime_forever: 303
+      playtime_last_two_weeks: 0
+      steamid: '76561198000339444'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '50218623'
+    review: 'Paddle Master is an entertaining, casual title that nails the immersive
+      room-scale VR feel. I quickly found myself attempting desperate, futile saves
+      with my feet when I couldn''t stretch my paddle arm in time.  The challenge
+      tapers a bit as you collect ammo and damage upgrades, but you can step up the
+      difficulty (and fun!) at your own discretion by fielding several balls at once.
+
+
+      Great game overall, and I''d especially recommend it as an accessible, affordable
+      introduction to casual arcade/sports games in VR.'
+    steam_purchase: true
+    timestamp_created: 1555694278
+    timestamp_updated: 1555694278
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.472440958023071289'
+    written_during_early_access: false
+  success: 1

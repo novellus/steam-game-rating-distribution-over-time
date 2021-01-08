@@ -1,0 +1,92 @@
+details:
+  data:
+    about_the_game: In this DLC you find full soundtrack from the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1231010/page_bg_generated_v6b.jpg?t=1596805863
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: In this DLC you find full soundtrack from the game.
+    developers:
+    - Kotovodk Studio
+    fullgame:
+      appid: '1189360'
+      name: Art of Beauties
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1231010/header.jpg?t=1596805863
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Art of Beauties Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Art of Beauties Soundtrack - $1.99
+        packageid: 426872
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Art of Beauties Soundtrack
+    packages:
+    - 426872
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 220 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Kotovodk Studio
+    release_date:
+      coming_soon: false
+      date: Feb 18, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1231010/ss_e815f2e56883cbc1bb2e8896dd5f337e44f0506b.1920x1080.jpg?t=1596805863
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1231010/ss_e815f2e56883cbc1bb2e8896dd5f337e44f0506b.600x338.jpg?t=1596805863
+    short_description: In this DLC you find full soundtrack from the game.
+    steam_appid: 1231010
+    support_info:
+      email: KotovodK@yandex.ru
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

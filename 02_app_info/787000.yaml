@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: Official Soundtrack for Get Dis Money. 8 Tracks of 8-bit, chiptune
+      loops. All Made in the Pico-8 Sound editor.<br><br><strong>Soundtrack Directory:</strong>
+      &quot;SteamGetDisMoneyLocalFiles&quot;/sountrack<br><br><strong>Format:</strong>
+      Mp3<br><br><strong>Track Listing:</strong><br><br>1. Main Menu - 1:09<br>2.
+      World 1 - 1:16<br>3. Boss - 1:16<br>4. Game Over - 1:23<br>5. World 2 - 1:14<br>6.
+      FILE_NOT_FOUND - 1:24<br>7. World 3 - 1:16<br>8. Final Boss - 1:26
+    background: https://steamcdn-a.akamaihd.net/steam/apps/787000/page_bg_generated_v6b.jpg?t=1520582882
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Official Soundtrack for Get Dis Money. 8 Tracks of 8-bit,
+      chiptune loops. All Made in the Pico-8 Sound editor.<br><br><strong>Soundtrack
+      Directory:</strong> &quot;SteamGetDisMoneyLocalFiles&quot;/sountrack<br><br><strong>Format:</strong>
+      Mp3<br><br><strong>Track Listing:</strong><br><br>1. Main Menu - 1:09<br>2.
+      World 1 - 1:16<br>3. Boss - 1:16<br>4. Game Over - 1:23<br>5. World 2 - 1:14<br>6.
+      FILE_NOT_FOUND - 1:24<br>7. World 3 - 1:16<br>8. Final Boss - 1:26
+    developers:
+    - Aaron Turner
+    fullgame:
+      appid: '738130'
+      name: Get Dis Money
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/787000/header.jpg?t=1520582882
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Debian 8 / Ubuntu 12.04<br></li><li><strong>Processor:</strong> 32 bit 2 Ghz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 3.1+ Compliant<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX 10.9+<br></li><li><strong>Processor:</strong> 64bit 2 Ghz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 3.1+ Compliant<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    name: Get Dis Money - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Get Dis Money - Soundtrack - $5.99
+        packageid: 237676
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Get Dis Money - Soundtrack
+    packages:
+    - 237676
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 32-bit<br></li><li><strong>Processor:</strong> 1.5Ghz dual-core
+        Intel Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Open GL 3.1+ Compliant<br></li><li><strong>Storage:</strong> 200 MB available
+        space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Team No Comply Games
+    release_date:
+      coming_soon: false
+      date: Mar 9, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787000/ss_3cb058c59f745d9f1c14d7b243fec252a306c182.1920x1080.jpg?t=1520582882
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787000/ss_3cb058c59f745d9f1c14d7b243fec252a306c182.600x338.jpg?t=1520582882
+    short_description: Official Soundtrack for Get Dis Money. 8 Tracks of 8-bit, chiptune
+      loops. All Made in the Pico-8 Sound editor.
+    steam_appid: 787000
+    support_info:
+      email: aaron@aaronthedev.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://getdismoney.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,182 @@
+details:
+  data:
+    about_the_game: "Highway Junkie is a racing game about crazy driving on open highway.<br\
+      \ />\r\n<br />\r\nRules:<br />\r\nFor 5 minutes drive as far as you can. Every\
+      \ meter gives you +1 point. End result multiplied by experience factor, that\
+      \ depends on difficulty level.<br />\r\nThe damage is deducted from the total\
+      \ count. The race ends if you break the car or run out of time. Get as many\
+      \ points as possible!<br />\r\n<br />\r\nThere are 4 different types of physics\\\
+      difficulty level:<br />\r\n<br />\r\n1) Arcade<br />\r\nDo you remember the\
+      \ &quot;racing&quot; on tetris? That's it, but only with better graphics.<br\
+      \ />\r\n<br />\r\n2) Semi-Arcade<br />\r\nCar is under control, however, you\
+      \ should keep your eyes on road.<br />\r\n<br />\r\n3) Semi-Realistic<br />\r\
+      \nYou should have some kind of experience, concentration and accuracy. But,\
+      \ in general, the steering system will not allow you to make a mistake.<br />\r\
+      \n<br />\r\n4) Realistic<br />\r\nOnly for experienced racers.  It is recommended\
+      \ to use analog steering (mouse or steering wheel)."
+    achievements:
+      total: 0
+    background: https://steamcdn-a.akamaihd.net/steam/apps/865990/page_bg_generated_v6b.jpg?t=1541611223
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Highway Junkie is a racing game about crazy driving on\
+      \ open highway.<br />\r\n<br />\r\nRules:<br />\r\nFor 5 minutes drive as far\
+      \ as you can. Every meter gives you +1 point. End result multiplied by experience\
+      \ factor, that depends on difficulty level.<br />\r\nThe damage is deducted\
+      \ from the total count. The race ends if you break the car or run out of time.\
+      \ Get as many points as possible!<br />\r\n<br />\r\nThere are 4 different types\
+      \ of physics\\difficulty level:<br />\r\n<br />\r\n1) Arcade<br />\r\nDo you\
+      \ remember the &quot;racing&quot; on tetris? That's it, but only with better\
+      \ graphics.<br />\r\n<br />\r\n2) Semi-Arcade<br />\r\nCar is under control,\
+      \ however, you should keep your eyes on road.<br />\r\n<br />\r\n3) Semi-Realistic<br\
+      \ />\r\nYou should have some kind of experience, concentration and accuracy.\
+      \ But, in general, the steering system will not allow you to make a mistake.<br\
+      \ />\r\n<br />\r\n4) Realistic<br />\r\nOnly for experienced racers.  It is\
+      \ recommended to use analog steering (mouse or steering wheel)."
+    developers:
+    - DEtH_MoroZ
+    genres:
+    - description: Racing
+      id: '9'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/865990/header.jpg?t=1541611223
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256717217
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256717217/movie480.mp4?t=1529316923
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256717217/movie_max.mp4?t=1529316923
+      name: semi-realistic mode
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256717217/movie.293x165.jpg?t=1529316923
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256717217/movie480.webm?t=1529316923
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256717217/movie_max.webm?t=1529316923
+    - highlight: true
+      id: 256717232
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256717232/movie480.mp4?t=1529316930
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256717232/movie_max.mp4?t=1529316930
+      name: semi-arcade mode
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256717232/movie.293x165.jpg?t=1529316930
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256717232/movie480.webm?t=1529316930
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256717232/movie_max.webm?t=1529316930
+    - highlight: true
+      id: 256720161
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720161/movie480.mp4?t=1529316937
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720161/movie_max.mp4?t=1529316937
+      name: arcade mode
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256720161/movie.293x165.jpg?t=1529316937
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256720161/movie480.webm?t=1529316937
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256720161/movie_max.webm?t=1529316937
+    name: Highway Junkie
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Highway Junkie - $1.99
+        packageid: 273153
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Highway Junkie
+    packages:
+    - 273153
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1 core cpu<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Radeon 9600<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 and newer<br></li><li><strong>Processor:</strong> 2+ core cpu<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        400 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - DEtH_MoroZ
+    release_date:
+      coming_soon: false
+      date: Jun 20, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_c7bbee1c648a5ee32edecb0c5e41fb8e840a9fc4.1920x1080.jpg?t=1541611223
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_c7bbee1c648a5ee32edecb0c5e41fb8e840a9fc4.600x338.jpg?t=1541611223
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_747e3b773a7ef952c869ac5bb5b994802024c991.1920x1080.jpg?t=1541611223
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_747e3b773a7ef952c869ac5bb5b994802024c991.600x338.jpg?t=1541611223
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_aea7ba87f66c1345c276e2edcb490fc94d5dece9.1920x1080.jpg?t=1541611223
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_aea7ba87f66c1345c276e2edcb490fc94d5dece9.600x338.jpg?t=1541611223
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_0010f9ae98488b5b3e2015dc198bf18bfba5182d.1920x1080.jpg?t=1541611223
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/865990/ss_0010f9ae98488b5b3e2015dc198bf18bfba5182d.600x338.jpg?t=1541611223
+    short_description: Exciting race on the highway! A variety of modes of physics
+      and tight traffic will not let you relax!
+    steam_appid: 865990
+    support_info:
+      email: dethmoroz.mathgrind@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4ldHu8fQCd4KXpQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1535708617
+      num_games_owned: 66
+      num_reviews: 8
+      playtime_at_review: 412
+      playtime_forever: 412
+      playtime_last_two_weeks: 0
+      steamid: '76561198399303162'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '76855335'
+    review: "g\xFCzel.\n"
+    steam_purchase: true
+    timestamp_created: 1601548487
+    timestamp_updated: 1601548487
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: "Fancy some heavy stuff? This is GROOD - Original Soundtrack,\
+      \ composed by Andrew Wildman, 11 tracks of pure rock-metal stuff.<br>All the\
+      \ tracks are 320kbps MP3 files.<br><br>The Soundtrack will be placed here: \u2026\
+      Steam\\steamapps\\common\\GROOD\\Soundtrack<br><br>Grab your headphones and\
+      \ enjoy the music!<h2 class=\"bb_tag\">Tracklist</h2><ul class=\"bb_ul\"><li>\
+      \ 00 - Last Stand<br></li><li> 01 - This Is My Payback<br></li><li> 02 - A Neverending\
+      \ Night<br></li><li> 03 - From Beneath The Sea<br></li><li> 04 - Flying Faster\
+      \ Than a Bullet<br></li><li> 05 - Long Way From Home<br></li><li> 06 - The Brain<br></li><li>\
+      \ 07 - Ascension<br></li><li> 08 - Mechanical Party<br></li><li> 09 - Hail To\
+      \ The New Lord<br></li><li> 10 - Grooette</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/819200/page_bg_generated_v6b.jpg?t=1522653781
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Fancy some heavy stuff? This is GROOD - Original Soundtrack,\
+      \ composed by Andrew Wildman, 11 tracks of pure rock-metal stuff.<br>All the\
+      \ tracks are 320kbps MP3 files.<br><br>The Soundtrack will be placed here: \u2026\
+      Steam\\steamapps\\common\\GROOD\\Soundtrack<br><br>Grab your headphones and\
+      \ enjoy the music!<h2 class=\"bb_tag\">Tracklist</h2><ul class=\"bb_ul\"><li>\
+      \ 00 - Last Stand<br></li><li> 01 - This Is My Payback<br></li><li> 02 - A Neverending\
+      \ Night<br></li><li> 03 - From Beneath The Sea<br></li><li> 04 - Flying Faster\
+      \ Than a Bullet<br></li><li> 05 - Long Way From Home<br></li><li> 06 - The Brain<br></li><li>\
+      \ 07 - Ascension<br></li><li> 08 - Mechanical Party<br></li><li> 09 - Hail To\
+      \ The New Lord<br></li><li> 10 - Grooette</li></ul>"
+    developers:
+    - Claudio Catalano
+    - CC_ARTS
+    fullgame:
+      appid: '793630'
+      name: GROOD
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/819200/header.jpg?t=1522653781
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    name: GROOD - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: GROOD - Soundtrack - $1.99
+        packageid: 251044
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy GROOD - Original Soundtrack
+    packages:
+    - 251044
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 2, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/819200/ss_393119b1706e0db6e401dae9accb836e9ea90168.1920x1080.jpg?t=1522653781
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/819200/ss_393119b1706e0db6e401dae9accb836e9ea90168.600x338.jpg?t=1522653781
+    short_description: Fancy some heavy stuff? This is GROOD - Original Soundtrack,
+      composed by Andrew Wildman, 11 tracks of pure rock-metal stuff. All the tracks
+      are 320kbps MP3 files. Grab your headphones and enjoy the music!
+    steam_appid: 819200
+    support_info:
+      email: info@ccarts.it
+      url: https://ccarts.it/grood
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://ccarts.it/grood
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

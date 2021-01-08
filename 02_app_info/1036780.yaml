@@ -1,0 +1,193 @@
+details:
+  data:
+    about_the_game: '<i>Pokris</i> is what it sounds like: a cross between poker and
+      Tetris. Playing cards drop from the top, and it''s your job to match them vertically
+      or horizontally into poker combinations like pairs, straights, flushes, and
+      so on. As the timer goes up, so does the speed, so act fast. You''ll have to
+      decide between waiting for certain cards to boost your score with great hands
+      like full houses, and just racking up pairs to clear some cards off the board.<br><br>For
+      slightly more advanced gameplay, you can flip cards upside down by pressing
+      up. When upside down they won''t be counted towards combinations until you flip
+      them back. This way you &quot;save&quot; a run for a three or four of a kind,
+      for example, without accidentally matching a pair.<br><br>Your score is based
+      on combinations scored, with more difficult hands counting for more points,
+      and time alive.<br><br>Sit back, relax to some original music, and try to beat
+      your own high score in <i>Pokris</i>.'
+    achievements:
+      highlighted:
+      - name: Two Pair
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/9ea9a6bc45f74c57aa79fe046f59780242a6340d.jpg
+      - name: Three of a Kind
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/cfc4dc13b3d2a10d7ad33be1b5797aa9908b915d.jpg
+      - name: Straight
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/22616cce697d4d408e6f93f0c066537e293aa677.jpg
+      - name: Flush
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/f5a36cff97e995f43ec9a87de1351657c38cce20.jpg
+      - name: Full House
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/a11defd798b386182de331f21954945a7420a1ec.jpg
+      - name: Four of a Kind
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/7e2f6058da5660dee25c7e46c209b1f85a701dce.jpg
+      - name: Straight Flush
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/5f24b7adfde9c6339d3f100da0072b5356b45dba.jpg
+      - name: Royal Flush
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/811f2dabc5587bf432ecf06bad806339350a6f27.jpg
+      - name: Two in a Row
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/915f6a5d45a9dfe5006c5b1bf6d2b3e079dee317.jpg
+      - name: Three in a Row
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/46f6cb5d58283cf1981ec01fd3cd7c474117893c.jpg
+      total: 18
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1036780/page_bg_generated_v6b.jpg?t=1553293081
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: '<i>Pokris</i> is what it sounds like: a cross between poker
+      and Tetris. Playing cards drop from the top, and it''s your job to match them
+      vertically or horizontally into poker combinations like pairs, straights, flushes,
+      and so on. As the timer goes up, so does the speed, so act fast. You''ll have
+      to decide between waiting for certain cards to boost your score with great hands
+      like full houses, and just racking up pairs to clear some cards off the board.<br><br>For
+      slightly more advanced gameplay, you can flip cards upside down by pressing
+      up. When upside down they won''t be counted towards combinations until you flip
+      them back. This way you &quot;save&quot; a run for a three or four of a kind,
+      for example, without accidentally matching a pair.<br><br>Your score is based
+      on combinations scored, with more difficult hands counting for more points,
+      and time alive.<br><br>Sit back, relax to some original music, and try to beat
+      your own high score in <i>Pokris</i>.'
+    developers:
+    - Odd Digs
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1036780/header.jpg?t=1553293081
+    is_free: false
+    legal_notice: "\xA9 2019 by Odd Digs"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256744526
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256744526/movie480.mp4?t=1551993673
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256744526/movie_max.mp4?t=1551993673
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256744526/movie.293x165.jpg?t=1551993673
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256744526/movie480.webm?t=1551993673
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256744526/movie_max.webm?t=1551993673
+    name: Pokris
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Pokris - $0.99
+        packageid: 345201
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Pokris
+    packages:
+    - 345201
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win7 SP1<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB Video RAM<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Odd Digs
+    release_date:
+      coming_soon: false
+      date: Mar 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c2e89b01ba77d74c023f94ec71d3fdea2a854a7.1920x1080.jpg?t=1553293081
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c2e89b01ba77d74c023f94ec71d3fdea2a854a7.600x338.jpg?t=1553293081
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_61a205d00cc8505a0a5623d6e2a4b93ce18aac26.1920x1080.jpg?t=1553293081
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_61a205d00cc8505a0a5623d6e2a4b93ce18aac26.600x338.jpg?t=1553293081
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_e417d3f5880c0fbc904f3801f2dc1e033ac47c15.1920x1080.jpg?t=1553293081
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_e417d3f5880c0fbc904f3801f2dc1e033ac47c15.600x338.jpg?t=1553293081
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_f1f3539a37ec18db86469fc6c8e42002735ea1cf.1920x1080.jpg?t=1553293081
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_f1f3539a37ec18db86469fc6c8e42002735ea1cf.600x338.jpg?t=1553293081
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c6a71f0a24e912d5256a266bd9f87b515d41cf2.1920x1080.jpg?t=1553293081
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c6a71f0a24e912d5256a266bd9f87b515d41cf2.600x338.jpg?t=1553293081
+    short_description: A combination of poker and a certain falling blocks game. Match
+      cards into pairs, straights, flushes, and more as they drop from the top. Beat
+      your high score before the board fills up!
+    steam_appid: 1036780
+    support_info:
+      email: info@odddigs.com
+      url: http://odddigs.com
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ45cTome4CdPDu1gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1572728250
+      num_games_owned: 186
+      num_reviews: 147
+      playtime_at_review: 37
+      playtime_forever: 37
+      playtime_last_two_weeks: 0
+      steamid: '76561198105785707'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '56325892'
+    review: 'It goes too fast and the screen is too small to involve any strategy
+      most of the time. Just luck.
+
+      Also : how is this 150 Megabytes? It''s probably bloated because of unity but
+      there is no more than 5 megabytes of actual content there. Even with the music.
+
+      The Commodore 64 has had better looking and sounding games in just 64 kilobytes.
+
+      At least it''s not too expensive so I didn''t ask for a refund.'
+    steam_purchase: true
+    timestamp_created: 1572728656
+    timestamp_updated: 1572824295
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.440967291593551636'
+    written_during_early_access: false
+  success: 1

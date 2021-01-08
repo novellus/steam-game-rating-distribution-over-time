@@ -1,0 +1,192 @@
+details:
+  data:
+    about_the_game: This game is composed of several different game spaces. Players
+      get resources (such as gold coins) through the game, and go to different game
+      spaces through shuttles. Different games have different identities, different
+      game scenes and enemies. For example, in the beginning of the game space, the
+      player is a warrior. When the warrior dies, he will become a ghost. The ghost
+      will attach to the enemy's body, and the ability and resources of the hood warrior
+      will continue to play
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1227190/page_bg_generated_v6b.jpg?t=1582946082
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This game is composed of several different game spaces.
+      Players get resources (such as gold coins) through the game, and go to different
+      game spaces through shuttles. Different games have different identities, different
+      game scenes and enemies. For example, in the beginning of the game space, the
+      player is a warrior. When the warrior dies, he will become a ghost. The ghost
+      will attach to the enemy's body, and the ability and resources of the hood warrior
+      will continue to play
+    developers:
+    - liugao
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1227190/header.jpg?t=1582946082
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256773529
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773529/movie480.mp4?t=1580268052
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773529/movie_max.mp4?t=1580268052
+      name: totas2
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256773529/movie.jpg?t=1580268052
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773529/movie480.webm?t=1580268052
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773529/movie_max.webm?t=1580268052
+    - highlight: true
+      id: 256772791
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256772791/movie480.mp4?t=1580268059
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256772791/movie_max.mp4?t=1580268059
+      name: sotas
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256772791/movie.293x165.jpg?t=1580268059
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256772791/movie480.webm?t=1580268059
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256772791/movie_max.webm?t=1580268059
+    name: "sotas/\u65F6\u7A7A\u5E7D\u7075"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "sotas/\u65F6\u7A7A\u5E7D\u7075 - $2.99"
+        packageid: 425346
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: "Buy sotas/\u65F6\u7A7A\u5E7D\u7075"
+    packages:
+    - 425346
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> GHOST WIN7\
+        \ SP1 X64 V2020.01\uFF0864\uFF09<br></li><li><strong>Processor:</strong> Intel\
+        \ HD Graphics 630<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ Mobile Intel(R) 4 Series Express Chipset Family<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 500 MB available space<br></li><li><strong>Sound Card:</strong> Realtek\
+        \ HD Audio output<br></li><li><strong>Additional Notes:</strong> The computer\
+        \ can choose to be compatible with &quot;window XP&quot; mode</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ GHOST WIN7 SP1 X64 V2020.01\uFF0864\uFF09<br></li><li><strong>Processor:</strong>\
+        \ Intel HD Graphics 630<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ Mobile Intel(R) 4 Series Express Chipset Family<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 500 MB available space<br></li><li><strong>Sound Card:</strong> Realtek\
+        \ HD Audio output<br></li><li><strong>Additional Notes:</strong> The computer\
+        \ can choose to be compatible with &quot;window XP&quot; mode</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - liugao
+    release_date:
+      coming_soon: false
+      date: Feb 28, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_de4ecb10dc3673ca55f694e99a25ffa04e5d89ed.1920x1080.jpg?t=1582946082
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_de4ecb10dc3673ca55f694e99a25ffa04e5d89ed.600x338.jpg?t=1582946082
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_12195aa311509bddcf5cfd965022ac584cff0344.1920x1080.jpg?t=1582946082
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_12195aa311509bddcf5cfd965022ac584cff0344.600x338.jpg?t=1582946082
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_ee540a5b9cc7e9402f6e606731ef5ec8861f4360.1920x1080.jpg?t=1582946082
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_ee540a5b9cc7e9402f6e606731ef5ec8861f4360.600x338.jpg?t=1582946082
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_5767a1bff5b1f3a73f497530bc4c57a29e7f9fa4.1920x1080.jpg?t=1582946082
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_5767a1bff5b1f3a73f497530bc4c57a29e7f9fa4.600x338.jpg?t=1582946082
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_165b8ac44b04e0d753c39967baad302ed82b6fda.1920x1080.jpg?t=1582946082
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_165b8ac44b04e0d753c39967baad302ed82b6fda.600x338.jpg?t=1582946082
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_f4b0195d382429d1b3711f80766190abdc8e9c5f.1920x1080.jpg?t=1582946082
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1227190/ss_f4b0195d382429d1b3711f80766190abdc8e9c5f.600x338.jpg?t=1582946082
+    short_description: This game is composed of several different game spaces. Players
+      get resources (such as gold coins) through the game, and go to different game
+      spaces through shuttles. Different games have different identities, different
+      game scenes and enemies. For example, in the beginning of the game space, the
+      player is a warrior.
+    steam_appid: 1227190
+    support_info:
+      email: 1743671933@qq.com
+      url: ''
+    supported_languages: English, French, German, Russian, Japanese, Simplified Chinese,
+      Korean
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwiJ/buvECcMPHgAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1600566327
+      num_games_owned: 193
+      num_reviews: 11
+      playtime_at_review: 12
+      playtime_forever: 23
+      playtime_last_two_weeks: 0
+      steamid: '76561198035213965'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '67255344'
+    review: Best indie title of the year. Do not pass this one by.
+    steam_purchase: true
+    timestamp_created: 1586813008
+    timestamp_updated: 1586813008
+    voted_up: true
+    votes_funny: 3
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,118 @@
+details:
+  data:
+    about_the_game: 'You find yourself in a maze, dark and eerily quiet. You''re trapped.
+      Gather enough coins, and you might be able to get out. Thing is, you''re not
+      the only one trapped inside. <br><br><i>Is something breathing behind you?</i><br><br>Quick
+      info: <br><ul class="bb_ul"><li>Objective: Find all the coins, escape the maze<br></li><li>Locomotion:
+      Teleporting<br></li><li>Maze: Random each time<br></li><li>Size: Not too big,
+      quick-ish to play. You can get lost though.<br></li><li>Monster: Scary</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/997770/page_bg_generated_v6b.jpg?t=1546540166
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'You find yourself in a maze, dark and eerily quiet. You''re
+      trapped. Gather enough coins, and you might be able to get out. Thing is, you''re
+      not the only one trapped inside. <br><br><i>Is something breathing behind you?</i><br><br>Quick
+      info: <br><ul class="bb_ul"><li>Objective: Find all the coins, escape the maze<br></li><li>Locomotion:
+      Teleporting<br></li><li>Maze: Random each time<br></li><li>Size: Not too big,
+      quick-ish to play. You can get lost though.<br></li><li>Monster: Scary</li></ul>'
+    developers:
+    - Vaahtera Studios
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/997770/header.jpg?t=1546540166
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256739687
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256739687/movie480.mp4?t=1546533226
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256739687/movie_max.mp4?t=1546533226
+      name: Main Trailer, fixed
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256739687/movie.293x165.jpg?t=1546533226
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256739687/movie480.webm?t=1546533226
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256739687/movie_max.webm?t=1546533226
+    name: Dungeon Maze
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dungeon Maze - $5.99
+        packageid: 329314
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Dungeon Maze
+    packages:
+    - 329314
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Storage:</strong> 160 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Vaahtera Studios
+    release_date:
+      coming_soon: false
+      date: Jan 3, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_ba167531041774ce1a1d7a7fe51e096c35e8886e.1920x1080.jpg?t=1546540166
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_ba167531041774ce1a1d7a7fe51e096c35e8886e.600x338.jpg?t=1546540166
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_c00e498f43196c6c14a442b0f22cde95150d8f3a.1920x1080.jpg?t=1546540166
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_c00e498f43196c6c14a442b0f22cde95150d8f3a.600x338.jpg?t=1546540166
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_f1dc7a79e3c2a34b05d33f46e9321f4a4b879abb.1920x1080.jpg?t=1546540166
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_f1dc7a79e3c2a34b05d33f46e9321f4a4b879abb.600x338.jpg?t=1546540166
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_81352f8ab737af7c9772d1e77dc8096f85aec490.1920x1080.jpg?t=1546540166
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_81352f8ab737af7c9772d1e77dc8096f85aec490.600x338.jpg?t=1546540166
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_1bd3d6b58372c614ffcbc98e523de476b99d9215.1920x1080.jpg?t=1546540166
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/997770/ss_1bd3d6b58372c614ffcbc98e523de476b99d9215.600x338.jpg?t=1546540166
+    short_description: Dungeon Maze is a VR horror game inside a procedurally generated
+      maze. Remember, you're not the only one trapped in there.
+    steam_appid: 997770
+    support_info:
+      email: vaahtera@nettee.fi
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

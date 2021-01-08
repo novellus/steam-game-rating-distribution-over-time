@@ -1,0 +1,124 @@
+details:
+  data:
+    about_the_game: The original soundtracks are composed by Ziyi Zhang. The music
+      itself narrates the game story. It is recommended to put on a headphone to enjoy.<h2
+      class="bb_tag">The tracks</h2><ul class="bb_ul"><li>Where Are You</li></ul><ul
+      class="bb_ul"><li>Night Sky</li></ul><ul class="bb_ul"><li>A Different Room</li></ul><ul
+      class="bb_ul"><li>Timeless</li></ul><ul class="bb_ul"><li>Passage</li></ul><ul
+      class="bb_ul"><li>She Is Not Here</li></ul><ul class="bb_ul"><li>Save Her, from
+      Dreams</li></ul><ul class="bb_ul"><li>Fallen Dreams</li></ul><ul class="bb_ul"><li>Exit</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/855380/page_bg_generated_v6b.jpg?t=1524928437
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The original soundtracks are composed by Ziyi Zhang. The
+      music itself narrates the game story. It is recommended to put on a headphone
+      to enjoy.<h2 class="bb_tag">The tracks</h2><ul class="bb_ul"><li>Where Are You</li></ul><ul
+      class="bb_ul"><li>Night Sky</li></ul><ul class="bb_ul"><li>A Different Room</li></ul><ul
+      class="bb_ul"><li>Timeless</li></ul><ul class="bb_ul"><li>Passage</li></ul><ul
+      class="bb_ul"><li>She Is Not Here</li></ul><ul class="bb_ul"><li>Save Her, from
+      Dreams</li></ul><ul class="bb_ul"><li>Fallen Dreams</li></ul><ul class="bb_ul"><li>Exit</li></ul>
+    developers:
+    - Ziyi Zhang
+    fullgame:
+      appid: '840910'
+      name: Save her, from dreams
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/855380/header.jpg?t=1524928437
+    is_free: false
+    legal_notice: Ziyi Zhang
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+<br></li><li><strong>Processor:</strong> Intel Core
+        2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Additional Notes:</strong> Headphone
+        recommended</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or
+        better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Metal support<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Headphone recommended</li></ul>
+    name: Save her, from dreams Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Save her, from dreams Original Soundtrack - $0.99
+        packageid: 268817
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Save her, from dreams Original Soundtrack
+    packages:
+    - 268817
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista SP1+<br></li><li><strong>Processor:</strong> Intel Core 2 Duo
+        or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Headphone recommended</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 26, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855380/ss_189884d6e80fd9c99e85e597f721e66c22a2caad.1920x1080.jpg?t=1524928437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855380/ss_189884d6e80fd9c99e85e597f721e66c22a2caad.600x338.jpg?t=1524928437
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855380/ss_c44fdb236801933de903bc535a0c3bce25be67b7.1920x1080.jpg?t=1524928437
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855380/ss_c44fdb236801933de903bc535a0c3bce25be67b7.600x338.jpg?t=1524928437
+    short_description: The original soundtrack of Save her, from dreams
+    steam_appid: 855380
+    support_info:
+      email: hi@saveherfromdreams.com
+      url: https://saveherfromdreams.com/
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

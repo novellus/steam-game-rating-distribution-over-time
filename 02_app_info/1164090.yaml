@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: The haunting ambient soundscapes from The Gateway Trilogy includes
+      12 tracks in MP3 and FLAC format.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1164090/page_bg_generated_v6b.jpg?t=1589999383
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The haunting ambient soundscapes from The Gateway Trilogy
+      includes 12 tracks in MP3 and FLAC format.
+    developers:
+    - Cockroach Inc.
+    fullgame:
+      appid: '661470'
+      name: The Gateway Trilogy
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1164090/header.jpg?t=1589999383
+    is_free: false
+    legal_notice: "\xA9 2020 The Sleeping Machine AB all rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256774527
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256774527/movie480.mp4?t=1586340966
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256774527/movie_max.mp4?t=1586340966
+      name: The Gateway Trilogy - Soundtrack Sample
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256774527/movie.293x165.jpg?t=1586340966
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256774527/movie480.webm?t=1586340966
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256774527/movie_max.webm?t=1586340966
+    name: The Gateway Trilogy - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Gateway Trilogy - Soundtrack - $3.99
+        packageid: 397544
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy The Gateway Trilogy - Soundtrack
+    packages:
+    - 397544
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        75 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 205 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - The Sleeping Machine
+    release_date:
+      coming_soon: false
+      date: Apr 8, 2020
+    required_age: 0
+    reviews: "\u201CReminiscent of a John Carpenter score\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://adventuregamers.com/articles/view/40250\"\
+      \ target=\"_blank\" rel=\"noopener\"  >Adventure Gamers</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1164090/ss_a44f21514070efafa8aa2e638eb29bb78f1d4cbf.1920x1080.jpg?t=1589999383
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1164090/ss_a44f21514070efafa8aa2e638eb29bb78f1d4cbf.600x338.jpg?t=1589999383
+    short_description: The haunting ambient soundscapes from The Gateway Trilogy
+    steam_appid: 1164090
+    support_info:
+      email: tdmfeedback@cockroach.se
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,201 @@
+details:
+  data:
+    about_the_game: "BRAVE HERO is a platformer where the player faces a seemingly\
+      \ simple task to collect all the shards of the crystal. Shards are scattered\
+      \ across tangled levels, where traps lie in wait. Moving platforms will also\
+      \ add complexity to achieving the goal. It takes a lot of dexterity to jump\
+      \ higher. A trampoline will help you to get as high as possible, which will\
+      \ throw the protagonist high enough to catch and push off the wall. The intricate\
+      \ maze will force you to strain your memory to remember where you were and where\
+      \ you were not. This is the only way to find all the parts of the crystal.<br\
+      \ />\r\nChaos has come to the world. To restore order to the world, you need\
+      \ to reunite all parts of the crystal so that order returns to the world. Only\
+      \ a real hero can do it!<br />\r\n<br />\r\n<br />\r\n-Beautiful graphics<br\
+      \ />\r\n-Dynamic gameplay<br />\r\n-Confused levels"
+    achievements:
+      highlighted:
+      - name: ' first ruby'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493310/a79f0c1372876d0836353d8da73395cf1d8966a0.jpg
+      - name: ' second ruby'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493310/958d76494010c01d59ec74b2985332ac813a21c2.jpg
+      - name: ' third ruby'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493310/98edf52d36ede1d5e1017e34f6f9864bd6ad60cd.jpg
+      - name: ' fourth ruby'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493310/9f2767bf84bee8bc9008313a39edb35c65f02dd3.jpg
+      - name: ' fifth ruby'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493310/c227287233ec5551a7b96cd8d92635c4eca7b847.jpg
+      total: 5
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1493310/page_bg_generated_v6b.jpg?t=1608539316
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "BRAVE HERO is a platformer where the player faces a seemingly\
+      \ simple task to collect all the shards of the crystal. Shards are scattered\
+      \ across tangled levels, where traps lie in wait. Moving platforms will also\
+      \ add complexity to achieving the goal. It takes a lot of dexterity to jump\
+      \ higher. A trampoline will help you to get as high as possible, which will\
+      \ throw the protagonist high enough to catch and push off the wall. The intricate\
+      \ maze will force you to strain your memory to remember where you were and where\
+      \ you were not. This is the only way to find all the parts of the crystal.<br\
+      \ />\r\nChaos has come to the world. To restore order to the world, you need\
+      \ to reunite all parts of the crystal so that order returns to the world. Only\
+      \ a real hero can do it!<br />\r\n<br />\r\n<br />\r\n-Beautiful graphics<br\
+      \ />\r\n-Dynamic gameplay<br />\r\n-Confused levels"
+    developers:
+    - Welland
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1493310/header.jpg?t=1608539316
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256812299
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256812299/movie480.mp4?t=1607361888
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256812299/movie_max.mp4?t=1607361888
+      name: Brave Hero
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256812299/movie.293x165.jpg?t=1607361888
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256812299/movie480_vp9.webm?t=1607361888
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256812299/movie_max_vp9.webm?t=1607361888
+    name: Brave Hero
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Brave Hero - $0.99
+        packageid: 526417
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Brave Hero
+    packages:
+    - 526417
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel
+        Core i3<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GTX 1030<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong>
+        2048 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1050 TI<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - KazakovStudios
+    release_date:
+      coming_soon: false
+      date: Dec 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_6a01b6cde572b6d2ab753bcf36398976b28e8ff8.1920x1080.jpg?t=1608539316
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_6a01b6cde572b6d2ab753bcf36398976b28e8ff8.600x338.jpg?t=1608539316
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_08259f8dffa8c37803cfe4910c522c0a08a9413d.1920x1080.jpg?t=1608539316
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_08259f8dffa8c37803cfe4910c522c0a08a9413d.600x338.jpg?t=1608539316
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_5ce21c1a22a4e84601ee1c5a80a2aae80a18a53f.1920x1080.jpg?t=1608539316
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_5ce21c1a22a4e84601ee1c5a80a2aae80a18a53f.600x338.jpg?t=1608539316
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_2939cd63eae8cdefcf2418c489150890c5831e31.1920x1080.jpg?t=1608539316
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_2939cd63eae8cdefcf2418c489150890c5831e31.600x338.jpg?t=1608539316
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_c567eec06127a4bdd90766f6c386776bbba34d36.1920x1080.jpg?t=1608539316
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_c567eec06127a4bdd90766f6c386776bbba34d36.600x338.jpg?t=1608539316
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_e11386420cf40be0f87f261f843daa246c3601e9.1920x1080.jpg?t=1608539316
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_e11386420cf40be0f87f261f843daa246c3601e9.600x338.jpg?t=1608539316
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_50aa5e6937233062d85546ad022d7a4b994fa605.1920x1080.jpg?t=1608539316
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493310/ss_50aa5e6937233062d85546ad022d7a4b994fa605.600x338.jpg?t=1608539316
+    short_description: BRAVE HERO is a platformer where the player faces a seemingly
+      simple task to collect all the shards of the crystal.
+    steam_appid: 1493310
+    support_info:
+      email: kazakovstudios@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4mIiV5/YCfeS4wAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 0
+    total_positive: 6
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1609778902
+      num_games_owned: 58
+      num_reviews: 21
+      playtime_at_review: 119
+      playtime_forever: 119
+      playtime_last_two_weeks: 119
+      steamid: '76561198802081322'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '84002381'
+    review: "RAVE HERO - \u044D\u0442\u043E \u043F\u043B\u0430\u0442\u0444\u043E\u0440\
+      \u043C\u0435\u0440 , \u0432 \u0438\u0433\u0440\u0435 \u043D\u0430\u043C \u043F\
+      \u0440\u0435\u0434\u0441\u0442\u043E\u0438\u0442 \u0441\u043E\u0431\u0438\u0440\
+      \u0430\u0442\u044C \u043E\u0441\u043A\u043E\u043B\u043A\u0438 , \u0430 \u0442\
+      \u0430\u043A\u0436\u0435 \u043A\u0440\u0438\u0441\u0442\u0430\u043B\u043B\u044B\
+      \ . \u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u0440\u0430\u0437\u0431\u0440\
+      \u043E\u0441\u0430\u043D\u044B \u043F\u043E \u043A\u0430\u0440\u0442\u0435 \u0438\
+      \ \u0438\u0445 \u043D\u0443\u0436\u043D\u043E \u0441\u043E\u0431\u0438\u0440\
+      \u0430\u0442\u044C . \u0412 \u0438\u0433\u0440\u0435 \u043D\u0430\u043C \u043D\
+      \u0443\u0436\u043D\u043E \u043C\u043D\u043E\u0433\u043E \u043B\u043E\u0432\u043A\
+      \u043E\u0441\u0442\u0438, \u0447\u0442\u043E \u0431\u044B \u043F\u0440\u044B\
+      \u0433\u043D\u0443\u0442\u044C \u0432\u044B\u0448\u0435 \u0447\u0442\u043E-\
+      \ \u0431\u044B \u0434\u043E\u0431\u0438\u0440\u0430\u0442\u044C\u0441\u044F\
+      \ \u0434\u043E \u043A\u0440\u0438\u0441\u0442\u0430\u043B\u043B\u043E\u0432\
+      \ . \u0412 \u0446\u0435\u043B\u043E\u043C \u0438\u0433\u0440\u0430 \u043C\u043D\
+      \u0435 \u043E\u0447\u0435\u043D\u044C \u043F\u043E\u043D\u0440\u0430\u0432\u0438\
+      \u043B\u0430\u0441\u044C \u044F \u0434\u043E\u0432\u043E\u043B\u0435\u043D \u043F\
+      \u043E\u043A\u0443\u043F\u043A\u043E\u0439 \u0432\u0441\u0435\u043C \u0441\u043E\
+      \u0432\u0435\u0442\u0443\u044E .\n\n"
+    steam_purchase: true
+    timestamp_created: 1609779397
+    timestamp_updated: 1609779397
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

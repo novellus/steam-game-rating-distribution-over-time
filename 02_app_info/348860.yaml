@@ -1,0 +1,300 @@
+details:
+  data:
+    about_the_game: "MyDream is a sandbox game that combines grid-based building with\
+      \ organic and fully-deformable voxel terrain. Build, terraform, quest, and explore\
+      \ your way across various environments in beautiful and expansive worlds!<br\
+      \ />\r\n<br />\r\nMyDream Interactive Inc. set out on a bold journey to build\
+      \ a new voxel sandbox game to encourage creativity, courage, and collaboration\
+      \ among players. MyDream was built in Unity using the in-house VoxelForm engine,\
+      \ which allowed for high performance and exceptional deformation quality when\
+      \ altering the world.<br />\r\n<br />\r\nOver time, many features became deprecated,\
+      \ and rebuilding them became increasingly difficult. When the team started moving\
+      \ forward into the space of VR, a premium on performance and stability began\
+      \ to take precedence over open-world interaction and deformation, which caused\
+      \ the team to shift away from the voxel tech and ultimately MyDream itself in\
+      \ 2016.<br />\r\n<br />\r\nInstead of taking down the game from the store, the\
+      \ team decided to release it as-is so users can still check out and enjoy what\
+      \ was developed. Online mode is no longer possible, so offline play is all that\
+      \ is available. Some of what would later become Siege Hammer is available in\
+      \ the vr_towerdefense branch, however lack of VR SDK updates has left it inoperable\
+      \ for VR and unplayable without VR due to locked pitch. <br />\r\n<br />\r\n\
+      Thank you to all of our fans, supporters, and backers, for giving us the opportunity\
+      \ to work on MyDream!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/348860/page_bg_generated_v6b.jpg?t=1522858975
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "MyDream is a sandbox game that combines grid-based building\
+      \ with organic and fully-deformable voxel terrain. Build, terraform, quest,\
+      \ and explore your way across various environments in beautiful and expansive\
+      \ worlds!<br />\r\n<br />\r\nMyDream Interactive Inc. set out on a bold journey\
+      \ to build a new voxel sandbox game to encourage creativity, courage, and collaboration\
+      \ among players. MyDream was built in Unity using the in-house VoxelForm engine,\
+      \ which allowed for high performance and exceptional deformation quality when\
+      \ altering the world.<br />\r\n<br />\r\nOver time, many features became deprecated,\
+      \ and rebuilding them became increasingly difficult. When the team started moving\
+      \ forward into the space of VR, a premium on performance and stability began\
+      \ to take precedence over open-world interaction and deformation, which caused\
+      \ the team to shift away from the voxel tech and ultimately MyDream itself in\
+      \ 2016.<br />\r\n<br />\r\nInstead of taking down the game from the store, the\
+      \ team decided to release it as-is so users can still check out and enjoy what\
+      \ was developed. Online mode is no longer possible, so offline play is all that\
+      \ is available. Some of what would later become Siege Hammer is available in\
+      \ the vr_towerdefense branch, however lack of VR SDK updates has left it inoperable\
+      \ for VR and unplayable without VR due to locked pitch. <br />\r\n<br />\r\n\
+      Thank you to all of our fans, supporters, and backers, for giving us the opportunity\
+      \ to work on MyDream!"
+    developers:
+    - MyDream Interactive, Inc
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/348860/header.jpg?t=1522858975
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Mac\xAE OS X 10.7.0 or later<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Core\u2122 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ Intel\u2122 HD Graphics 4000, NVIDIA\xAE GeForce\xAE GT 330M or ATI\u2122\
+        \ Radeon\u2122 HD 6490M or better<br></li><li><strong>Storage:</strong> 650\
+        \ MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Mac\xAE OS X 10.7.0 or later<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA\xAE GeForce\xAE GT 650M or ATI\u2122 Radeon\u2122 HD 5770 or better<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 650\
+        \ MB available space</li></ul>"
+    movies:
+    - highlight: true
+      id: 256662881
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256662881/movie480.mp4?t=1460654401
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256662881/movie_max.mp4?t=1460654401
+      name: MyDreamVR
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256662881/movie.293x165.jpg?t=1460654401
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256662881/movie480.webm?t=1460654401
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256662881/movie_max.webm?t=1460654401
+    name: MyDream
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows XP 32-bit<br></li><li><strong>Processor:</strong> Dual Core 2.0\
+        \ GHz or equivalent processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA\xAE GeForce\xAE 8800 / ATI Radeon\u2122 2600 or better<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0<br></li><li><strong>Storage:</strong> 650 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 64-bit or Windows 8 64-bit<br></li><li><strong>Processor:</strong>\
+        \ Quad Core 2.3GHz or equivalent processor<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\xAE 560\
+        \ Ti / ATI Radeon\u2122 6950 or better<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 650 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - MyDream Interactive, Inc
+    release_date:
+      coming_soon: false
+      date: Feb 20, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_86684c3c2a05059144ac7021892a3575dbcc28d5.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_86684c3c2a05059144ac7021892a3575dbcc28d5.600x338.jpg?t=1522858975
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_4242a1da959859ae580f9647b26bd274692bbd94.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_4242a1da959859ae580f9647b26bd274692bbd94.600x338.jpg?t=1522858975
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_cc4dd8cc8abd80798fdd269b2339aa67317826c7.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_cc4dd8cc8abd80798fdd269b2339aa67317826c7.600x338.jpg?t=1522858975
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_5f76c3a89050c539676e80147e07248a0552596d.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_5f76c3a89050c539676e80147e07248a0552596d.600x338.jpg?t=1522858975
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_73bf39a971b3f0611bae377a7875ee06ab4fe00f.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_73bf39a971b3f0611bae377a7875ee06ab4fe00f.600x338.jpg?t=1522858975
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_6ff1094c43cc506809bca96a22135d4f3e665091.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_6ff1094c43cc506809bca96a22135d4f3e665091.600x338.jpg?t=1522858975
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_57e873d5a41e0d2f620dcd6770369f479958a6e4.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_57e873d5a41e0d2f620dcd6770369f479958a6e4.600x338.jpg?t=1522858975
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_bc3e0ce6e4a55687de3abbe87a931044dd037b5b.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_bc3e0ce6e4a55687de3abbe87a931044dd037b5b.600x338.jpg?t=1522858975
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_4088430146afd7f4c929b40b839227ac2b3958ea.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_4088430146afd7f4c929b40b839227ac2b3958ea.600x338.jpg?t=1522858975
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_e300c82e7ccbedc7749df35e71c3910721065232.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_e300c82e7ccbedc7749df35e71c3910721065232.600x338.jpg?t=1522858975
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_595b8538523862549e44d052ce71087105ac3ca5.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_595b8538523862549e44d052ce71087105ac3ca5.600x338.jpg?t=1522858975
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_a6a6cda943bcd63c432f50904324275c26b5740e.1920x1080.jpg?t=1522858975
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/348860/ss_a6a6cda943bcd63c432f50904324275c26b5740e.600x338.jpg?t=1522858975
+    short_description: Build, terraform, quest, and explore your way across beautiful
+      voxel-based worlds in MyDream!
+    steam_appid: 348860
+    support_info:
+      email: support@mydreaminteractive.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.mydreamvr.com
+  success: true
+reviews:
+  cursor: AoJw+trektoCcKXdcQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 4
+    review_score_desc: Mostly Negative
+    total_negative: 8
+    total_positive: 3
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 1486687404
+      num_games_owned: 358
+      num_reviews: 824
+      playtime_at_review: 37
+      playtime_forever: 37
+      playtime_last_two_weeks: 0
+      steamid: '76561198095917598'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '29813328'
+    review: "My Dream is a building game like Minecraft, but MyDream managed to make\
+      \ me play for hours. you can create a radome world or play online and visit\
+      \ other people's world, the game have good Graphics and nice soundtrack.\nThe\
+      \ only things I can complain are absence of tutorial and on the speed at which\
+      \ the tips on Load Screen are changed, is very fast and does not allow any reading.\n\
+      but, is just a Early access and probably still will be many updates. **********************************************************************************************\n\
+      UPDATE ONLY ABOUT 9 HOURS AFTER MY REVIEW WENT UP ON STEAM HERE:\n\nI gotta\
+      \ say, this is how you handle criticism on your early access game! These developers\
+      \ didn't take the only review so far ...my original review found below, being\
+      \ negative and basically saying this game is too early in its development status\
+      \ to charge $30 USD. \n\n..These developers LISTENED to me... and to the other\
+      \ people in the community forums saying that this game is asking too much money\
+      \ for it's early state of development!\n\nI will leave my original review unchanged\
+      \ below just so that viewers can see my original first review based on this\
+      \ games original $29.99 USD price tag at it's early access launch.\n\nBut because\
+      \ of the developers listening to this only review so far... and the other posters\
+      \ on the forums here... I must say that I LOVE this kind of professional response\
+      \ so quick from them.\n\n..They didn't blame me for having an insufficient computer\
+      \ or blame the way I played their game.\n\n..They didn't make excuses of any\
+      \ kind.\n\n...They simply listened and dropped their price in half, and are\
+      \ offing refunds to anyone who purchased this game at it's original price tag\
+      \ for early access of $29.99 USD.\n\n....And for that reason, and because I\
+      \ do believe this game certainly shows a ton of potential... and also because\
+      \ I can see most users getting $15 USD worth of fun out of this game in its\
+      \ current state, then I am CHANGING my review from a negative to a positive\
+      \ review. Obviously, changing the price doesn't fix the problems, bugs, or make\
+      \ the game itself any different. But what it does do is shows me that this development\
+      \ team listens to feedback which is HUGE! I do believe they will fix bugs and\
+      \ continue to give this game updates and make it better and better as well.\n\
+      \nIt is now worth it's asking price. And it has developers who listen and react\
+      \ quickly to criticism rather then act like cocky jackazzes who make every excuse\
+      \ in the book (we've all seen too many developers like that, right?) \n\nThank\
+      \ you developers for listening. And reactiving professionally. You have my support\
+      \ now, and I will in turn play your game more, upload more videos, and share\
+      \ why \"MyDream\" is worth it's new asking price!\n\n....If only more developers\
+      \ were like this! Other developers can and should learn from this! :-)\n\n******************************************************************************************************\n\
+      \n---- EVERYTHING BELOW SHOULD BE TAKEN WITH THE UNDERSTANDING THAT THIS WAS\
+      \ BASED ON THIS GAMES INITIAL ASKING PRICE OF $29.99 USD AND BEFORE THEY SHOWED\
+      \ THEY CARE ABOUT LISTENING TO THEIR CUSTOMERS AND REACTING QUICKLY AND PROFESSIONALLY.\
+      \ THIS ORIGINAL REVIEW BELOW WILL REMAIN UN-ALTERED, HOWEVER WHAT I STATE ABOVE\
+      \ SHOULD BE CONSIDERED AS MOST RECENT REACTIONS FROM MYSELF ON THE VALUE OF\
+      \ THIS GAME, THANK YOU. ---\n----------------------- ------------------------------\
+      \ -------------------------\n\nWatch My Video Review At This Early Access Launch\
+      \ Here: https://www.youtube.com/watch?v=92lNiAhKn28\n\nOkay, against my better\
+      \ judgement, I bought into this game.. another early access sandbox voxel world\
+      \ game at what seems like a hefty price. \n\nAfter 3 days, not a single review\
+      \ has come in for this game, and I decided to be the first one to buy it, play\
+      \ it, and give all of you out there my 'honest' thoughts and opinion as to whether\
+      \ this game is worth it right now. The key words being \"right now\" as of February\
+      \ 23, 2015. Things can change over time, and this game could be completely different\
+      \ and much more evolved in two or three months then it is right now, just three\
+      \ days after it's Steam early access launch.\n\nSo... is MyDream worth it's\
+      \ asking price?\n\nIn my opinion, as much as I want to like this game... my\
+      \ answer is a firm NO. I think that answer would apply to most people who might\
+      \ be looking at this game with interest or curiosity. For most people, I think\
+      \ there are better options out there for your money. \n\nMinecraft is cheaper\
+      \ right now and offers tons of player support, community add on, mods, texture\
+      \ packs and more available for free. \n\nCreativerse right now is $10 cheaper,\
+      \ will be free-to-play sometime in the next 6-8 months likely and I believe\
+      \ is much further evolved and more playable then is this game. \n\nIf creating\
+      \ quests and placing treasure and loot and monsters is what you are looking\
+      \ for, then please take a strong look at 'Fight The Dragon' at half the price\
+      \ of this games current asking price. Fight The Dragon is much more complete\
+      \ and fun in my opinion then this game is currently.\n\nAll of the above options\
+      \ would be my recommended options for people looking at this game to consider\
+      \ first. There of course are always exceptions to the rule. I'm sure there are\
+      \ some people who love creating things that might easily get their moneys worth\
+      \ and be happy... but again.. I think that kinda person would be an exception\
+      \ rather then the typical onlooker curious about this game. Most people will\
+      \ probably feel a little scorched for their dollar paying $30 for this game\
+      \ right NOW in the state it is in currently.\n\nRight now, there just isn't\
+      \ enough finished tools in the game, nor enough players actively playing or\
+      \ even on this game's own websites forums to support their asking price. Again,\
+      \ this is only my opinion... and I really WANT to like this game and give it\
+      \ my thumbs up, but I just can't honestly do that now. I will come back and\
+      \ re-review this game in four to six months and see how much has changed and\
+      \ if I feel differently at that time, but for now, I have to give this game\
+      \ a thumbs down. (If it were half it's asking price now of $15 USD, then I would\
+      \ likely give it a pass, but $30 is just far too much for what you get now I\
+      \ believe)\n\nIf you are looking for specific reasons as to why I say \"NO BUY\"\
+      \ on this game now, please watch my video above, at the top of this review.\
+      \ You should see many specific reasons in that video as to why I give this game\
+      \ a thumbs down review currently. \n\nI hope that my honest review here has\
+      \ helped save someone some money and more importantly saved them the disappointment\
+      \ I felt with this game at it's current early access state of development.\n\
+      \nSorry devs! I DO see a ton of potential for this game... please keep up the\
+      \ hard work! I'd love to be able to play this game in a few months and change\
+      \ my opinion around 180 degrees and become a supporter and lover of this game!\
+      \ MyDream is a fantastic open world - sandbox game that will lead you to adventure.\
+      \ Explore and build your own world using wide variety of tools and assets provided\
+      \ or play online and join other worlds! \n\nKeep in mind that it's still in\
+      \ early access and there might be few annoyances but I'm sure things will iron\
+      \ out with each update. MyDream is the answer to the question, \"What if Minecraft\
+      \ and RPG Maker had a baby?\" It's a game based around user-generated, story-driven\
+      \ voxelized worlds where just about anything goes, and this gives it a lot of\
+      \ potential.\n\nThe graphics are decent, although they're much better than that\
+      \ OTHER voxel-based sandbox game everyone enjoys. I'm playing on a laptop with\
+      \ an integrated graphics card, too, so I'm sure it's not running at the highest\
+      \ quality the Unity engine delivers. Audio quality is good, but I'm not much\
+      \ of a techno/electro fan.\n\nI had issues connecting to other worlds, in that\
+      \ I attempted to join four/five of the most popular worlds for at least five\
+      \ minutes each \n \n\n- Zaxx\n\nIf you like sand box game, you'll like MyDream.\n\
+      10/10"
+    steam_purchase: true
+    timestamp_created: 1486687492
+    timestamp_updated: 1486687492
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

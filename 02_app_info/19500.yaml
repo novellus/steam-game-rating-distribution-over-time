@@ -1,0 +1,194 @@
+details:
+  data:
+    about_the_game: "<p>                        Eternity's Child, a quirky, hand drawn\
+      \ next generation 2D platformer is based on a fairy tale by Luc Bernard. It\
+      \ arrives on Steam with exclusive Steam Only levels and HD Resolution.     \
+      \                   </p>                        \n\t\t\t\t\t<p><strong>Features:</strong></p>\
+      \                        \n\t\t\t\t\t<ul>                        \n\t\t\t\t\t\
+      <li>Beautiful 2D graphics with one of the most unique art direction done in\
+      \ a videogame</li>                        \n\t\t\t\t\t<li>Orchestral Soundtrack</li>\
+      \                        \n\t\t\t\t\t<li>Game to be updated with new levels\
+      \ and chapters for free</li>                        \n\t\t\t\t\t<li>Exclusive\
+      \ levels and HD resolution for the Steam version</li>                      \
+      \  \n\t\t\t\t\t<li>Exclusive BETA level editor for the Steam version</li>  \
+      \                      \n\t\t\t\t\t<li>Exclusive Steam Achievements</li>   \
+      \                      </ul>                        "
+    achievements:
+      highlighted:
+      - name: Deep In The Woods
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/19500/633ce6315c467b611d387112e73ecf94338b4128.jpg
+      - name: Completed Chapter 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/19500/459857a60394a76f904882aa5cfbfbfb03a15632.jpg
+      - name: Paid The Toll
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/19500/b0bce970e6f968919594d2d9500656074b6cd5c4.jpg
+      - name: Purchased Game
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/19500/a93a2db9819e0a199a818fbfc85753f01588a465.jpg
+      total: 4
+    background: https://steamcdn-a.akamaihd.net/steam/apps/19500/page_bg_generated_v6b.jpg?t=1447351403
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 19510
+      description: ''
+    detailed_description: "<p>                        Eternity's Child, a quirky,\
+      \ hand drawn next generation 2D platformer is based on a fairy tale by Luc Bernard.\
+      \ It arrives on Steam with exclusive Steam Only levels and HD Resolution.  \
+      \                      </p>                        \n\t\t\t\t\t<p><strong>Features:</strong></p>\
+      \                        \n\t\t\t\t\t<ul>                        \n\t\t\t\t\t\
+      <li>Beautiful 2D graphics with one of the most unique art direction done in\
+      \ a videogame</li>                        \n\t\t\t\t\t<li>Orchestral Soundtrack</li>\
+      \                        \n\t\t\t\t\t<li>Game to be updated with new levels\
+      \ and chapters for free</li>                        \n\t\t\t\t\t<li>Exclusive\
+      \ levels and HD resolution for the Steam version</li>                      \
+      \  \n\t\t\t\t\t<li>Exclusive BETA level editor for the Steam version</li>  \
+      \                      \n\t\t\t\t\t<li>Exclusive Steam Achievements</li>   \
+      \                      </ul>                        "
+    developers:
+    - Luc Bernard
+    - SilverSphereStudios
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/19500/header.jpg?t=1447351403
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Eternity's Child
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Eternity's Child - $4.99
+        packageid: 893
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Eternity's Child
+    packages:
+    - 893
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>                        \n\t\t\t\t\
+        \t<ul>                        \n\t\t\t\t\t<li><strong>Supported OS: </strong>Windows\
+        \ XP/ Windows Vista</li>                        \n\t\t\t\t\t<li><strong>Processor:\
+        \ </strong>2.0 ghz Intel Celeron (2.0ghz Pentium 4 suggested)</li>       \
+        \                 \n\t\t\t\t\t<li><strong>Memory: </strong>256mb (512mb suggested)</li>\
+        \                        \n\t\t\t\t\t<li><strong>Graphics: </strong>OpenGL\
+        \ 2.0 compatible video card (128mb video ram suggested)</li>             \
+        \           \n\t\t\t\t\t<li><strong>Sound: </strong>DirectX 9.0 compliant\
+        \ sound device </li>                        \n\t\t\t\t\t<li><strong>Hard Drive:\
+        \ </strong>50 MB </li>                        </ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Silver Sphere Studios
+    release_date:
+      coming_soon: false
+      date: Jul 31, 2008
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004854.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004854.600x338.jpg?t=1447351403
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004861.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004861.600x338.jpg?t=1447351403
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004856.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004856.600x338.jpg?t=1447351403
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004857.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004857.600x338.jpg?t=1447351403
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004858.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004858.600x338.jpg?t=1447351403
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004859.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004859.600x338.jpg?t=1447351403
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004860.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004860.600x338.jpg?t=1447351403
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004863.1920x1080.jpg?t=1447351403
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/19500/0000004863.600x338.jpg?t=1447351403
+    short_description: 'Eternity''s Child, a quirky, hand drawn next generation 2D
+      platformer is based on a fairy tale by Luc Bernard. It arrives on Steam with
+      exclusive Steam Only levels and HD Resolution. Features: Beautiful 2D graphics
+      with one of the most unique art direction done in a videogame Orchestral Soundtrack
+      Game to be updated with new levels and...'
+    steam_appid: 19500
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwgaSepvICdKObigI=
+  query_summary:
+    num_reviews: 1
+    review_score: 2
+    review_score_desc: Very Negative
+    total_negative: 41
+    total_positive: 9
+    total_reviews: 50
+  reviews:
+  - author:
+      last_played: 1590416798
+      num_games_owned: 3175
+      num_reviews: 36
+      playtime_at_review: 412
+      playtime_forever: 412
+      playtime_last_two_weeks: 0
+      steamid: '76561197969208810'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '69786164'
+    review: 'I was probably one of the people who hated this when it came out, but
+      I replayed it today and...
+
+
+      Sure it''s a bit janky, but I seriously can''t fathom how this game got to be
+      one of the most hated games of it''s time.
+
+
+      Eternity''s Child biggest mistake was being one of the first indie games on
+      Steam, nothing else.'
+    steam_purchase: true
+    timestamp_created: 1590420906
+    timestamp_updated: 1590420906
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,91 @@
+details:
+  data:
+    about_the_game: "This is the original soundtrack for Feria d'Arles, composed by\
+      \ Chris K\xF6bke."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1207430/page_bg_generated_v6b.jpg?t=1581630233
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is the original soundtrack for Feria d'Arles, composed\
+      \ by Chris K\xF6bke."
+    developers:
+    - Tom Simpson
+    fullgame:
+      appid: '1181570'
+      name: Feria d'Arles
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1207430/header.jpg?t=1581630233
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Feria d'Arles - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Feria d'Arles - Soundtrack - <span class="discount_original_price">$0.99</span>
+          $0.74
+        packageid: 417163
+        percent_savings: 0
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 74
+      title: Buy Feria d'Arles - Soundtrack
+    packages:
+    - 417163
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Graphics:</strong>
+        Any<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 25
+      final: 74
+      final_formatted: $0.74
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 20, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1207430/ss_a4139cccc6f207ec4893f8fef1f1f328b574aea8.1920x1080.jpg?t=1581630233
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1207430/ss_a4139cccc6f207ec4893f8fef1f1f328b574aea8.600x338.jpg?t=1581630233
+    short_description: "Original Feria d'Arles Soundtrack by Chris K\xF6bke"
+    steam_appid: 1207430
+    support_info:
+      email: tom@tom-simpson.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,202 @@
+details:
+  data:
+    about_the_game: "<p>Star Raiders features a fresh new take on the seminal classic,\
+      \ letting you engage in epic dogfights and aerial assaults against the onslaught\
+      \ of the evil Zylons.  Utilize radical ship transformations and robot co-pilots\
+      \ in the heat of battle as you fight to save humanity.  Explore the galaxy as\
+      \ you utilize galactic warps and sector tactical maps that let you set your\
+      \ own path to liberation!</p>\n\t\t\t\t\t<h2>Key features:</h2><ul>\n\t\t\t\t\
+      \t<li><strong>Epic Space Battles </strong>\u2013 Defend humanity against the\
+      \ onslaught of the Zylon fleet, as you pilot your ship amongst huge capital\
+      \ ships and take part in treacherous dogfights.\n\t\t\t\t\t<li><strong>Battle\
+      \ Transformations </strong>\u2013 Players can transform their ship in the heat\
+      \ of battle into different specialized configurations that have their own flight\
+      \ and combat characteristics.\n\t\t\t\t\t<li><strong>Robot Co-pilots </strong>\u2013\
+      \ You are never alone in combat! Known as K0-Pi these tactical robot co-pilots\
+      \ will enhance and monitor ship systems performing repairs and provide real\
+      \ time tactical information to the player.\n\t\t\t\t\t<li><strong>Explore the\
+      \ Galaxy </strong>\u2013 Galactic warps and sector tactical maps let you choose\
+      \ your missions and set your own path to liberation.</ul>\n\t\t\t\t\t"
+    achievements:
+      highlighted:
+      - name: Pilot
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/ebe158509bd30c237c8ede7767986b5ba51e8b2e.jpg
+      - name: Warrior
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/d2848e43524e0fa3eab91654db2462de04dfffa6.jpg
+      - name: Commander
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/6a56e7126ddb0e1c9e05e5673349e5fd55911934.jpg
+      - name: Star Commander
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/30c694ffe779455316d6f7d3026839516cd3f9db.jpg
+      - name: Star Raider!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/0b3933d4474992c18ceca8bee5bdd3088a6e7327.jpg
+      - name: Arms Dealer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/752c5aa4a75fc48085deedab85fd117169607192.jpg
+      - name: Modal
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/9182281f9fd809795282cc06c82f6616de701e5d.jpg
+      - name: Zylon Collector Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/5871c13ead92191275013427f0b20b28987f34d3.jpg
+      - name: Zylon Collector Legend
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/252a71b28d3dddacb3fca7eb716d64790e940d99.jpg
+      - name: Turret Expert
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/9970/93f35dad6665d4b3239d3e28fa47046c46738466.jpg
+      total: 12
+    background: https://steamcdn-a.akamaihd.net/steam/apps/9970/page_bg_generated_v6b.jpg?t=1447354208
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<p>Star Raiders features a fresh new take on the seminal\
+      \ classic, letting you engage in epic dogfights and aerial assaults against\
+      \ the onslaught of the evil Zylons.  Utilize radical ship transformations and\
+      \ robot co-pilots in the heat of battle as you fight to save humanity.  Explore\
+      \ the galaxy as you utilize galactic warps and sector tactical maps that let\
+      \ you set your own path to liberation!</p>\n\t\t\t\t\t<h2>Key features:</h2><ul>\n\
+      \t\t\t\t\t<li><strong>Epic Space Battles </strong>\u2013 Defend humanity against\
+      \ the onslaught of the Zylon fleet, as you pilot your ship amongst huge capital\
+      \ ships and take part in treacherous dogfights.\n\t\t\t\t\t<li><strong>Battle\
+      \ Transformations </strong>\u2013 Players can transform their ship in the heat\
+      \ of battle into different specialized configurations that have their own flight\
+      \ and combat characteristics.\n\t\t\t\t\t<li><strong>Robot Co-pilots </strong>\u2013\
+      \ You are never alone in combat! Known as K0-Pi these tactical robot co-pilots\
+      \ will enhance and monitor ship systems performing repairs and provide real\
+      \ time tactical information to the player.\n\t\t\t\t\t<li><strong>Explore the\
+      \ Galaxy </strong>\u2013 Galactic warps and sector tactical maps let you choose\
+      \ your missions and set your own path to liberation.</ul>\n\t\t\t\t\t"
+    developers:
+    - Incinerator Studios
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/9970/header.jpg?t=1447354208
+    is_free: false
+    legal_notice: "Star Raiders \xA9 2011 Atari Interactive, Inc. All rights reserved.\
+      \ The ESRB rating icons are registered trademarks of the Entertainment Software\
+      \ Association."
+    linux_requirements: []
+    mac_requirements: []
+    name: Star Raiders
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Star Raiders - $9.99
+        packageid: 8107
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Star Raiders
+    packages:
+    - 8107
+    pc_requirements:
+      minimum: "<ul>\n\t\t\t\t<li><strong>OS:</strong> Windows XP SP2, Vista SP2,\
+        \ 7\n\t\t\t\t<li><strong>Processor:</strong> Intel Core 2 Duo E4300 or AMD\
+        \ Athlon X2 4400+\n\t\t\t\t<li><strong>Memory:</strong> 1GB\n\t\t\t\t<li><strong>Graphics:</strong>\
+        \ Radeon ATI Radeon HD 2600 or NVIDIA GeForce 8600 or faster. Other integrated\
+        \ graphics, such as the Intel G43/G45 Express, are not supported\n\t\t\t\t\
+        <li><strong>DirectX&reg;:</strong> 9.0c\n\t\t\t\t<li><strong>Hard Drive:</strong>\
+        \ 500MB free\n\t\t\t\t<li><strong>Sound:</strong> DirectX 9.0c-compatible\n\
+        \t\t\t\t<li><strong>Other:</strong> Microsoft Xbox 360 Controller for PC,\
+        \ Microsoft Xbox 360 Wireless Controller for Windows, Logitech Gamepad F310/F510/F710\n\
+        \t\t\t</ul>\n\t\t\t"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Atari
+    release_date:
+      coming_soon: false
+      date: May 11, 2011
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_6dcb3635f88a531845a1c93f6389ea2895f4e2b4.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_6dcb3635f88a531845a1c93f6389ea2895f4e2b4.600x338.jpg?t=1447354208
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_09e057cabd4b0e5edfef3543b0ed5ee4dc2ace5c.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_09e057cabd4b0e5edfef3543b0ed5ee4dc2ace5c.600x338.jpg?t=1447354208
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_78ef997fa670f68d0b12ca129215855ef9895322.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_78ef997fa670f68d0b12ca129215855ef9895322.600x338.jpg?t=1447354208
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_660c4cdb79d5d5c9e0acc7e81451bc404a535160.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_660c4cdb79d5d5c9e0acc7e81451bc404a535160.600x338.jpg?t=1447354208
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_9712fcddf9f2f125463d7689c521000833430107.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_9712fcddf9f2f125463d7689c521000833430107.600x338.jpg?t=1447354208
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_41964192d74dd69e3031cedc7b67a328ba700c3d.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_41964192d74dd69e3031cedc7b67a328ba700c3d.600x338.jpg?t=1447354208
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_74b63763861d5f8afb1e4161f9b5d566e8495e99.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_74b63763861d5f8afb1e4161f9b5d566e8495e99.600x338.jpg?t=1447354208
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_bd3b8af14c931af99092c6d2dad55a91ba14b45b.1920x1080.jpg?t=1447354208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/9970/ss_bd3b8af14c931af99092c6d2dad55a91ba14b45b.600x338.jpg?t=1447354208
+    short_description: Engage in epic dogfights and aerial assaults against the onslaught
+      of the evil Zylons.
+    steam_appid: 9970
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, German
+    type: game
+    website: http://www.atari.com/starraiders
+  success: true
+reviews:
+  cursor: AoJw5tejhugCdKqctwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 4
+    review_score_desc: Mostly Negative
+    total_negative: 19
+    total_positive: 5
+    total_reviews: 24
+  reviews:
+  - author:
+      last_played: 1546398536
+      num_games_owned: 1167
+      num_reviews: 7
+      playtime_at_review: 32
+      playtime_forever: 32
+      playtime_last_two_weeks: 0
+      steamid: '76561197995726942'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48030372'
+    review: "I enjoyed playing Star Raiders on my Atari 400 system when I was younger\
+      \ and seeing a remake of the game made me a bit excited. The graphics are good\
+      \ for a game that is 8 years old. Unfortunately the controls were a mess. Mouse\
+      \ control was almost non existant, trying to turn my ship had me rolling the\
+      \ mouse across the desk multiple times, keyboard binding is very unintuitive\
+      \ and difficult to really understand. I tried using my Logitech Dual Action\
+      \ controller but the game did not recognize that there are two joysticks. \n\
+      \nI would not recomend this game to anyone."
+    steam_purchase: true
+    timestamp_created: 1546398908
+    timestamp_updated: 1546398908
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.520547926425933838'
+    written_during_early_access: false
+  success: 1

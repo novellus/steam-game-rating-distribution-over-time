@@ -1,0 +1,85 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '964550'
+      name: 'Red vs. Blue: The Shisno Paradox'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/964550/header.jpg?t=1541534718
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Red vs. Blue: The Shisno Paradox: Walk and Talk'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Red vs. Blue: The Shisno Paradox: Walk and Talk - <span class="discount_original_price">$1.99</span>
+          $0.49'
+        packageid: 315643
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 49
+      title: 'Buy Red vs. Blue: The Shisno Paradox: Walk and Talk'
+    packages:
+    - 315643
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 49
+      final_formatted: $0.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 6, 2018
+    required_age: '14'
+    short_description: Agents Carolina and Washington visit with Dylan's time travel
+      expert. Grif gets his steps in. Meanwhile in the distant past, the King of England
+      receives an unexpected guest.
+    steam_appid: 964564
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

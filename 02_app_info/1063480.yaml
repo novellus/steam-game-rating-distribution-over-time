@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: "The full original soundtrack for Vane. Produced by Thomas Lilja.\
+      \  Includes bonus tracks. <br />\r\n<br />\r\n1. Introduction<br />\r\n2. Loop<br\
+      \ />\r\n3. Metamorphosis<br />\r\n4. The Long Walk<br />\r\n5. Collapse<br />\r\
+      \n6. Paradigm<br />\r\n7. The Savior<br />\r\n8. Capture/Release<br />\r\n9.\
+      \ First Denial<br />\r\n10. Gold/Ruin<br />\r\n11. Preach<br />\r\n12. Search<br\
+      \ />\r\n13. Rescue<br />\r\n14. The Tower<br />\r\n15. Adolesence<br />\r\n\
+      16. The Escape<br />\r\n17. The Sacrifice<br />\r\n<br />\r\n--- Bonus tracks\
+      \ ---<br />\r\n<br />\r\n18. 2016 Trailer<br />\r\n19. 2018 Trailer"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1063480/page_bg_generated_v6b.jpg?t=1563834174
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The full original soundtrack for Vane. Produced by Thomas\
+      \ Lilja.  Includes bonus tracks. <br />\r\n<br />\r\n1. Introduction<br />\r\
+      \n2. Loop<br />\r\n3. Metamorphosis<br />\r\n4. The Long Walk<br />\r\n5. Collapse<br\
+      \ />\r\n6. Paradigm<br />\r\n7. The Savior<br />\r\n8. Capture/Release<br />\r\
+      \n9. First Denial<br />\r\n10. Gold/Ruin<br />\r\n11. Preach<br />\r\n12. Search<br\
+      \ />\r\n13. Rescue<br />\r\n14. The Tower<br />\r\n15. Adolesence<br />\r\n\
+      16. The Escape<br />\r\n17. The Sacrifice<br />\r\n<br />\r\n--- Bonus tracks\
+      \ ---<br />\r\n<br />\r\n18. 2016 Trailer<br />\r\n19. 2018 Trailer"
+    developers:
+    - Friend & Foe Games
+    fullgame:
+      appid: '1063310'
+      name: Vane
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1063480/header.jpg?t=1563834174
+    is_free: false
+    legal_notice: "Vane is \xA9 2019, Friend & Foe Games AB.<br />\r\n'VANE' and 'FRIEND\
+      \ & FOE GAMES' are trademarks of Friend & Foe Games AB."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or later</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.6+</li></ul>
+    name: Vane Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Vane Soundtrack - $6.99
+        packageid: 355674
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Vane Soundtrack
+    packages:
+    - 355674
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or Later</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1063480/ss_2c055f3a01f961a5c4858caef257dceed02e3566.1920x1080.jpg?t=1563834174
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1063480/ss_2c055f3a01f961a5c4858caef257dceed02e3566.600x338.jpg?t=1563834174
+    short_description: The full soundtrack for Vane
+    steam_appid: 1063480
+    support_info:
+      email: ''
+      url: http://www.friendandfoegames.com/contact
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.friendandfoegames.com/vane
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

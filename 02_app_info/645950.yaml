@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Atelier Melon-Kissa
+    fullgame:
+      appid: '477720'
+      name: Toricky
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/645950/header.jpg?t=1507902734
+    is_free: true
+    legal_notice: (c)2015-2017 Atelier Melon-Kissa All rights reserved.
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.6 or greater<br></li><li><strong>Processor:</strong> Any 64 processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL Compatible
+        Video card<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.6 or greater<br></li><li><strong>Processor:</strong> AMD A10 5745M
+        @ 2.1GHz / Intel(R) Core(TM) i7-4700MQ CPU @ 2.4GHz or higher<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 7800 Series
+        / NVIDIA GeForce GTX 460 or higher<br></li><li><strong>Storage:</strong> 2
+        GB available space</li></ul>
+    name: Toricky Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10<br></li><li><strong>Processor:</strong>
+        Any 64 or 32 bit processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX or OpenGL Compatible Video card<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        WINDOWS 7 / WINDOWS 8 / WINDOWS 10<br></li><li><strong>Processor:</strong>
+        AMD A10 5745M @ 2.1GHz / Intel(R) Core(TM) i7-4700MQ CPU @ 2.4GHz or higher<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 7800 Series
+        / NVIDIA GeForce GTX 460 or higher<br></li><li><strong>DirectX:</strong> Version
+        11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Atelier Melon-Kissa
+    - OtakuMaker.com
+    release_date:
+      coming_soon: false
+      date: Jun 7, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 645950
+    support_info:
+      email: studio@otakumaker.com
+      url: http://studio.otakumaker.com/
+    supported_languages: English, French, Italian, Spanish - Spain, Czech, Japanese,
+      Korean, Portuguese - Brazil, Russian, Simplified Chinese
+    type: demo
+    website: http://studio.otakumaker.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

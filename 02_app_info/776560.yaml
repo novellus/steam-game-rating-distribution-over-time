@@ -1,0 +1,140 @@
+details:
+  data:
+    about_the_game: This is the full soundtrack for Heartbound plus a number remixes,
+      test songs, and otherwise unreleased tracks.<br>Additional songs will be added
+      to this pack as we release more chapters of the game.<br><br><a href="http://store.steampowered.com/app/567380/"
+      target="_blank" rel="noreferrer"  id="dynamiclink_1" >http://store.steampowered.com/app/567380/</a>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/776560/page_bg_generated_v6b.jpg?t=1581546311
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This is the full soundtrack for Heartbound plus a number
+      remixes, test songs, and otherwise unreleased tracks.<br>Additional songs will
+      be added to this pack as we release more chapters of the game.<br><br><a href="http://store.steampowered.com/app/567380/"
+      target="_blank" rel="noreferrer"  id="dynamiclink_0" >http://store.steampowered.com/app/567380/</a>
+    developers:
+    - Pirate Software
+    fullgame:
+      appid: '567380'
+      name: Heartbound
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/776560/header.jpg?t=1581546311
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        1.2Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional
+        Notes:</strong> This game is locked to 60 frames per second.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        1.2Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional
+        Notes:</strong> This game is locked to 60 frames per second.</li></ul>
+    name: Heartbound - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Heartbound - OST - $4.99
+        packageid: 233344
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Heartbound - OST
+    packages:
+    - 233344
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        1.2Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        512MB<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional
+        Notes:</strong> This game is locked to 60 frames per second.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Pirate Software
+    release_date:
+      coming_soon: false
+      date: Dec 24, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/776560/ss_1dca6cab971d67bed484e3e780f45b150e9f5e4f.1920x1080.jpg?t=1581546311
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/776560/ss_1dca6cab971d67bed484e3e780f45b150e9f5e4f.600x338.jpg?t=1581546311
+    short_description: The original sound track for Heartbound.
+    steam_appid: 776560
+    support_info:
+      email: GoPirateSoftware@Gmail.com
+      url: http://gopiratesoftware.com/games/Heartbound/
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Portuguese
+      - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://gopiratesoftware.com/games/Heartbound/
+  success: true
+reviews:
+  cursor: AoJw05zB3/ACdtuD9wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 9
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 180
+      num_reviews: 54
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198141967531'
+    comment_count: 0
+    developer_response: Heyo. That definitely isn't anything on our end. You may want
+      to break up the OST into separate folders if your machine is having trouble
+      loading them like this.
+    language: english
+    received_for_free: false
+    recommendationid: '64757174'
+    review: "While I love this soundtrack, the files are messed up. I have plenty\
+      \ other mp3 files of songs or soundtracks to test, and they all are working\
+      \ fine. \nBut everytime I open one of these mp3 files they make my program lagg\
+      \ for multiple seconds. Ruining the experience for such a random reason."
+    steam_purchase: true
+    timestamp_created: 1583752631
+    timestamp_dev_responded: 1587759152
+    timestamp_updated: 1583752734
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,59 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Krystian Majewski
+    fullgame:
+      appid: '98100'
+      name: Trauma
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/80995/header.jpg?t=1447354513
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: TRAUMA Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Krystian Majewski
+    release_date:
+      coming_soon: false
+      date: Aug 8, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 80995
+    support_info:
+      email: ''
+      url: ''
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

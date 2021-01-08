@@ -1,0 +1,157 @@
+details:
+  data:
+    about_the_game: "Roll back the years with these 1980's based technology models!<br\
+      \ />\r\n<br />\r\nThere are 40 high quality objects included - here's the full\
+      \ breakdown:<br />\r\n<br />\r\n2 x Amplifiers<br />\r\n1 x Boombox<br />\r\n\
+      2 x Camcorder<br />\r\n3 x Cassettes<br />\r\n1 x Clock Radio<br />\r\n4 x Computers<br\
+      \ />\r\n1 x Electronic Guitar<br />\r\n1 x Game glove<br />\r\n1 x Hat<br />\r\
+      \n1 x Keyboard<br />\r\n1 x Monitor<br />\r\n2 x Portable Computers<br />\r\n\
+      1 x Portable TV<br />\r\n1 x Portable Phone<br />\r\n1 x Robot Teacher<br />\r\
+      \n1 x Skateboard<br />\r\n1 x Sketcher<br />\r\n1 x Slide Projector<br />\r\n\
+      1 x Sound Mixer<br />\r\n2 x Televisions<br />\r\n2 x VCR's<br />\r\n6 x VHS\
+      \ Tapes<br />\r\n1 x Walkman<br />\r\n1 x Year Book"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1343490/page_bg_generated_v6b.jpg?t=1593414156
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Roll back the years with these 1980's based technology\
+      \ models!<br />\r\n<br />\r\nThere are 40 high quality objects included - here's\
+      \ the full breakdown:<br />\r\n<br />\r\n2 x Amplifiers<br />\r\n1 x Boombox<br\
+      \ />\r\n2 x Camcorder<br />\r\n3 x Cassettes<br />\r\n1 x Clock Radio<br />\r\
+      \n4 x Computers<br />\r\n1 x Electronic Guitar<br />\r\n1 x Game glove<br />\r\
+      \n1 x Hat<br />\r\n1 x Keyboard<br />\r\n1 x Monitor<br />\r\n2 x Portable Computers<br\
+      \ />\r\n1 x Portable TV<br />\r\n1 x Portable Phone<br />\r\n1 x Robot Teacher<br\
+      \ />\r\n1 x Skateboard<br />\r\n1 x Sketcher<br />\r\n1 x Slide Projector<br\
+      \ />\r\n1 x Sound Mixer<br />\r\n2 x Televisions<br />\r\n2 x VCR's<br />\r\n\
+      6 x VHS Tapes<br />\r\n1 x Walkman<br />\r\n1 x Year Book"
+    developers:
+    - TheGameCreators
+    fullgame:
+      appid: '266310'
+      name: GameGuru
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Education
+      id: '54'
+    - description: Software Training
+      id: '56'
+    - description: Utilities
+      id: '57'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1343490/header.jpg?t=1593414156
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256790359
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256790359/movie480.mp4?t=1593160963
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256790359/movie_max.mp4?t=1593160963
+      name: MainTrailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256790359/movie.293x165.jpg?t=1593160963
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256790359/movie480_vp9.webm?t=1593160963
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256790359/movie_max_vp9.webm?t=1593160963
+    name: GameGuru - Retro 80's Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: GameGuru - Retro 80s Pack - $14.99
+        packageid: 469767
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy GameGuru - Retro 80's Pack
+    packages:
+    - 469767
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7, 8, 10<br></li><li><strong>Processor:</strong> Intel Dual-Core 2GHz or AMD
+        Dual-Core 2GHz<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 400 series
+        or AMD Radeon HD 6000 series, 2GB Video Card (Minimum Shader Model 5.0)<br></li><li><strong>Sound
+        Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or better<br></li><li><strong>Processor:</strong> Intel Quad-Core
+        (i5 2300) or AMD Octo-Core (FX 8150)<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 660Ti or greater, AMD Radeon HD 7950 or greater, 2GB Video
+        Card (Minimum Shader Model 5.0)<br></li><li><strong>Sound Card:</strong> DirectX
+        Compatible Sound Card with latest drivers</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - TheGameCreators
+    release_date:
+      coming_soon: false
+      date: Jun 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_6ecd6be3d4c1b86399dbe2d9e026c4573e09a737.1920x1080.jpg?t=1593414156
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_6ecd6be3d4c1b86399dbe2d9e026c4573e09a737.600x338.jpg?t=1593414156
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_66d86b525c26663938aab97ec531e576eca8a28d.1920x1080.jpg?t=1593414156
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_66d86b525c26663938aab97ec531e576eca8a28d.600x338.jpg?t=1593414156
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_3b853b08495c3c385e1753272c2510a70370d612.1920x1080.jpg?t=1593414156
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_3b853b08495c3c385e1753272c2510a70370d612.600x338.jpg?t=1593414156
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_493ca54886351a8106e77ebc3829b2baf63f8ee0.1920x1080.jpg?t=1593414156
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_493ca54886351a8106e77ebc3829b2baf63f8ee0.600x338.jpg?t=1593414156
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_d6c6d53cf9bc64e9af7b802f11939241a95f8bed.1920x1080.jpg?t=1593414156
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_d6c6d53cf9bc64e9af7b802f11939241a95f8bed.600x338.jpg?t=1593414156
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_ba9f08a9472fd84f3bc8b48efa881449a38c1cdb.1920x1080.jpg?t=1593414156
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1343490/ss_ba9f08a9472fd84f3bc8b48efa881449a38c1cdb.600x338.jpg?t=1593414156
+    short_description: A pack with 40 high quality 1980's themed objects!
+    steam_appid: 1343490
+    support_info:
+      email: support@thegamecreators.com
+      url: https://www.game-guru.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://www.game-guru.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

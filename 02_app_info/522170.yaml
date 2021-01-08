@@ -1,0 +1,177 @@
+details:
+  data:
+    about_the_game: "Pick up the New Costumes and Music Bundle and get 6 new costumes\
+      \ and 3 new songs!<br />\r\n<br />\r\nDownload the Bundle to unlock the Magical\
+      \ Girl, Steampunk, Arctic, Snow Sport, Doctor and Detective Outfits for Hue\
+      \ and Val.<br />\r\n<br />\r\nAlso, get your heart pumping with three brand\
+      \ new pieces of music, &quot;You Sleigh Me!&quot;, &quot;Ready for Mo\xE9?&quot;\
+      \ and a pumping rave edition of the Runbow Theme!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/522170/page_bg_generated_v6b.jpg?t=1479488502
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Pick up the New Costumes and Music Bundle and get 6 new\
+      \ costumes and 3 new songs!<br />\r\n<br />\r\nDownload the Bundle to unlock\
+      \ the Magical Girl, Steampunk, Arctic, Snow Sport, Doctor and Detective Outfits\
+      \ for Hue and Val.<br />\r\n<br />\r\nAlso, get your heart pumping with three\
+      \ brand new pieces of music, &quot;You Sleigh Me!&quot;, &quot;Ready for Mo\xE9\
+      ?&quot; and a pumping rave edition of the Runbow Theme!"
+    developers:
+    - 13AM Games
+    fullgame:
+      appid: '464650'
+      name: Runbow
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/522170/header.jpg?t=1479488502
+    is_free: false
+    legal_notice: "Runbow\u2122 is a trademark of 13AM Games Inc. \xA9 2015 13AM Games\
+      \ Inc. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11
+        with feature level 9.3 capabilities</li></ul>
+    name: Runbow - Costumes and Music Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Runbow - Costumes and Music Bundle - $6.99
+        packageid: 123966
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Runbow - Costumes and Music Pack
+    packages:
+    - 123966
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11
+        with feature level 9.3 capabilities</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - 13AM Games
+    release_date:
+      coming_soon: false
+      date: Nov 18, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_9aa77bf8f6826911810da117313146559c84b9e7.1920x1080.jpg?t=1479488502
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_9aa77bf8f6826911810da117313146559c84b9e7.600x338.jpg?t=1479488502
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_d4553421d8328288ab96acacb9fb9d44d7fd0b0a.1920x1080.jpg?t=1479488502
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_d4553421d8328288ab96acacb9fb9d44d7fd0b0a.600x338.jpg?t=1479488502
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_b2d06c1361d0644a0d6282d211ac74406c886bef.1920x1080.jpg?t=1479488502
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_b2d06c1361d0644a0d6282d211ac74406c886bef.600x338.jpg?t=1479488502
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_29632aac2ab920a06c8628f41a221904a1fb4747.1920x1080.jpg?t=1479488502
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_29632aac2ab920a06c8628f41a221904a1fb4747.600x338.jpg?t=1479488502
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_6762662327fff28dab071a3d3c131bc33eead7af.1920x1080.jpg?t=1479488502
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_6762662327fff28dab071a3d3c131bc33eead7af.600x338.jpg?t=1479488502
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_1a035921edb7355f9ea14201c15ab324e5071950.1920x1080.jpg?t=1479488502
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_1a035921edb7355f9ea14201c15ab324e5071950.600x338.jpg?t=1479488502
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_fd54abcbd0876dae4bc6b0c99d1c0b47553e613e.1920x1080.jpg?t=1479488502
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522170/ss_fd54abcbd0876dae4bc6b0c99d1c0b47553e613e.600x338.jpg?t=1479488502
+    short_description: Pick up the New Costumes and Music Bundle and get 6 new costumes
+      and 3 new songs!
+    steam_appid: 522170
+    support_info:
+      email: contact@13amgames.com
+      url: http://www.13amgames.com/contact/
+    supported_languages: English, French, Italian, German, Spanish - Spain, Japanese
+    type: dlc
+    website: http://www.runbowgame.com
+  success: true
+reviews:
+  cursor: AoJ42fH29+wCd7bE0QE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1878
+      num_reviews: 537
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198059971262'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '54928231'
+    review: I only bought this pack to support 13AM Games, to tell them that I like
+      Runbow. Other than that, this pack is totally useless, not really interesting,
+      and not worth it unless you want to support the developpers like me.
+    steam_purchase: true
+    timestamp_created: 1567392239
+    timestamp_updated: 1567392239
+    voted_up: false
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.423094898462295532'
+    written_during_early_access: false
+  success: 1

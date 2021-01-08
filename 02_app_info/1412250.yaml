@@ -1,0 +1,226 @@
+details:
+  data:
+    about_the_game: "Path Maker is a 2D puzzle-platformer game where each level is\
+      \ unfinished and must be fixed before you can complete it. Use a number of in-game\
+      \ editor tools to place additional objects and reach the star in order to progress\
+      \ through the game.<br />\r\n<br />\r\nIn each level, the player needs to reach\
+      \ the shining star to complete the level. Every level provides different kinds\
+      \ of blocks that can be placed in the level. In the beginning, the levels are\
+      \ small but later on the levels are bigger and the player will need to use more\
+      \ blocks. <br />\r\n<br />\r\nThe first block you will utilize is just a simple\
+      \ platform that you can use to bridge a gap. The trampoline block will give\
+      \ you a jump boost to reach higher levels. The TNT block will destroy other\
+      \ objects so you can create a pathway by blowing stuff up. Then there is a block\
+      \ that makes you bigger and one that makes you smaller so you fit through small\
+      \ areas. The other blocks you have to find out for yourself!"
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/8b31da1562e843b5f2dde1bab739366736dfd555.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/00634f7d883569e59590f8359b0010b6b38d5e72.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/f5b691e5dea5e10f302684c4211ed4c965a34dad.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/71317659c4d9138e0c0059ee201335053d2bc0f3.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/c8d3921f26c5240e070e2b41ba07120c5a6f47d3.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/9e56b600287d32d3640b3ef4ac3bdf1d8f40ceae.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/d5218e488a0fc6c42d77ec8667a757ee0ce3e0fb.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/92580f8eef220b0337c78fd5574f03b0bbbd2ca7.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/373d6fa09c413119ed647fe2b12dcb49d50a90a9.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1412250/09e40566bd012c00e92b605dd0c1b43a934378cf.jpg
+      total: 24
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1412250/page_bg_generated_v6b.jpg?t=1609500454
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Path Maker is a 2D puzzle-platformer game where each level\
+      \ is unfinished and must be fixed before you can complete it. Use a number of\
+      \ in-game editor tools to place additional objects and reach the star in order\
+      \ to progress through the game.<br />\r\n<br />\r\nIn each level, the player\
+      \ needs to reach the shining star to complete the level. Every level provides\
+      \ different kinds of blocks that can be placed in the level. In the beginning,\
+      \ the levels are small but later on the levels are bigger and the player will\
+      \ need to use more blocks. <br />\r\n<br />\r\nThe first block you will utilize\
+      \ is just a simple platform that you can use to bridge a gap. The trampoline\
+      \ block will give you a jump boost to reach higher levels. The TNT block will\
+      \ destroy other objects so you can create a pathway by blowing stuff up. Then\
+      \ there is a block that makes you bigger and one that makes you smaller so you\
+      \ fit through small areas. The other blocks you have to find out for yourself!"
+    developers:
+    - NanningsGames
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1412250/header.jpg?t=1609500454
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256799170
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799170/movie480.mp4?t=1598993243
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799170/movie_max.mp4?t=1598993243
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256799170/movie.293x165.jpg?t=1598993243
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799170/movie480_vp9.webm?t=1598993243
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799170/movie_max_vp9.webm?t=1598993243
+    name: Path Maker
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Path Maker - <span class="discount_original_price">$0.99</span>
+          $0.59
+        packageid: 495612
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 59
+      title: Buy Path Maker
+    packages:
+    - 495612
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel(R) Celeron(R)
+        CPU N3450 @ 1.10GHz (cpu 2.2 GHz)<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> Intel(R) HD Graphics (128 MB)<br></li><li><strong>Storage:</strong>
+        140 MB available space<br></li><li><strong>Sound Card:</strong> Intel(R) Display
+        Audio</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 59
+      final_formatted: $0.59
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - NanningsGames
+    release_date:
+      coming_soon: false
+      date: Oct 23, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_b62fe1dbf20addd936899c7957b9f26a9aecca72.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_b62fe1dbf20addd936899c7957b9f26a9aecca72.600x338.jpg?t=1609500454
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_ca8567d7190019b258155ec4d463d91b94c392b1.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_ca8567d7190019b258155ec4d463d91b94c392b1.600x338.jpg?t=1609500454
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_1a52caf4f04e561ce3176b65c78edf3e7f4ab72e.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_1a52caf4f04e561ce3176b65c78edf3e7f4ab72e.600x338.jpg?t=1609500454
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_f93efa470bd99896065342e58ea75b03f2ee47e7.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_f93efa470bd99896065342e58ea75b03f2ee47e7.600x338.jpg?t=1609500454
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_c27445d55fa076cca9dc24b2f6ab02932082e311.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_c27445d55fa076cca9dc24b2f6ab02932082e311.600x338.jpg?t=1609500454
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_7accc3a8aae8e1857130f43ed4f0d375f18746f6.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_7accc3a8aae8e1857130f43ed4f0d375f18746f6.600x338.jpg?t=1609500454
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_41c587f4f6648be52b01f8248cae2b7700b16036.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_41c587f4f6648be52b01f8248cae2b7700b16036.600x338.jpg?t=1609500454
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_1bc61b41c7ff8ea946d2e58f509e9f9ad10247b8.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_1bc61b41c7ff8ea946d2e58f509e9f9ad10247b8.600x338.jpg?t=1609500454
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_bcaf20fdbbaf4b1945a8e385199bfc90867e055b.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_bcaf20fdbbaf4b1945a8e385199bfc90867e055b.600x338.jpg?t=1609500454
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_c2295e952d72c7207bb5cc42bad8437a131cd70b.1920x1080.jpg?t=1609500454
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1412250/ss_c2295e952d72c7207bb5cc42bad8437a131cd70b.600x338.jpg?t=1609500454
+    short_description: Path Maker is a 2D puzzle-platformer game where each level
+      is unfinished and must be fixed before you can complete it. Use a number of
+      in-game editor tools to place additional objects and reach the star in order
+      to progress through the game.
+    steam_appid: 1412250
+    support_info:
+      email: mrnannings@gmail.com
+      url: http://www.nannings.nz
+    supported_languages: English
+    type: game
+    website: http://www.nannings.nz
+  success: true
+reviews:
+  cursor: AoJ4lfeMxfUCdYHuqwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1604341158
+      num_games_owned: 55
+      num_reviews: 74
+      playtime_at_review: 13
+      playtime_forever: 13
+      playtime_last_two_weeks: 0
+      steamid: '76561198077084892'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '78606357'
+    review: "\u041C\u0438\u043D\u0438\u043C\u0430\u043B\u0438\u0441\u0442\u0438\u0447\
+      \u043D\u0430\u044F \u0438\u0433\u0440\u0430.\n\n\u0415\u0441\u0442\u044C \u043D\
+      \u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0443\u0440\u043E\u0432\u043D\
+      \u0435\u0439, \u0435\u0441\u0442\u044C \u043F\u0435\u0440\u0441\u043E\u043D\u0430\
+      \u0436, \u0435\u0441\u0442\u044C \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\
+      \u043E \u0431\u043B\u043E\u043A\u043E\u0432 (\u0444\u0438\u043A\u0441\u0438\u0440\
+      \u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0431\u043B\u043E\u043A, \u043F\u043E\
+      \u0434\u0431\u0440\u0430\u0441\u044B\u0432\u0430\u044E\u0449\u0438\u0439, \u043E\
+      \u0442\u043D\u043E\u0441\u044F\u0449\u0438\u0439 \u0432 \u0441\u0442\u043E\u0440\
+      \u043E\u043D\u0443, \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u044E\
+      \u0449\u0438\u0439, \u0443\u043C\u0435\u043D\u044C\u0448\u0430\u044E\u0449\u0438\
+      \u0439, \u0432\u0437\u0440\u044B\u0432\u0430\u044E\u0449\u0438\u0439\u0441\u044F\
+      , \u043B\u0451\u0433\u043A\u0438\u0439 \u043F\u043E \u043C\u0430\u0441\u0441\
+      \u0435).\n\n\u0421 \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u0432\u0441\u0435\
+      \u0433\u043E \u044D\u0442\u043E\u0433\u043E \u043D\u0443\u0436\u043D\u043E \u0434\
+      \u043E\u0441\u0442\u0430\u0442\u044C \u0437\u0432\u0435\u0437\u0434\u0443.\n\
+      \u0412 \u043F\u0440\u0438\u043D\u0446\u0438\u043F\u0435, \u0438 \u0432\u0441\
+      \u0451.\n\n\u0414\u043E\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u043C\
+      \ \u043F\u0430\u0440\u0443 \u0434\u0435\u0441\u044F\u0442\u043A\u043E\u0432\
+      \ \u0443\u0440\u043E\u0432\u043D\u0435\u0439 \u0438 \u0438\u0433\u0440\u0430\
+      \ \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u0430."
+    steam_purchase: true
+    timestamp_created: 1604341447
+    timestamp_updated: 1604341447
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

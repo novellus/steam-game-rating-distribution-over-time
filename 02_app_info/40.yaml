@@ -1,0 +1,147 @@
+details:
+  data:
+    about_the_game: Enjoy fast-paced multiplayer gaming with Deathmatch Classic (a.k.a.
+      DMC). Valve's tribute to the work of id software, DMC invites players to grab
+      their rocket launchers and put their reflexes to the test in a collection of
+      futuristic settings.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/40/page_bg_generated_v6b.jpg?t=1568752159
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Valve Anti-Cheat enabled
+      id: 8
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Enjoy fast-paced multiplayer gaming with Deathmatch Classic
+      (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players
+      to grab their rocket launchers and put their reflexes to the test in a collection
+      of futuristic settings.
+    developers:
+    - Valve
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/40/header.jpg?t=1568752159
+    is_free: false
+    linux_requirements:
+      minimum: 'Minimum: Linux Ubuntu 12.04, Dual-core from Intel or AMD at 2.8 GHz,
+        1GB Memory, nVidia GeForce 8600/9600GT, ATI/AMD Radeaon HD2600/3600 (Graphic
+        Drivers: nVidia 310, AMD 12.11), OpenGL 2.1, 4GB Hard Drive Space, OpenAL
+        Compatible Sound Card'
+    mac_requirements:
+      minimum: 'Minimum: OS X  Snow Leopard 10.6.3, 1GB RAM, 4GB Hard Drive Space,NVIDIA
+        GeForce 8 or higher, ATI X1600 or higher, or Intel HD 3000 or higher Mouse,
+        Keyboard, Internet Connection'
+    name: Deathmatch Classic
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Deathmatch Classic - <span class="discount_original_price">$4.99</span>
+          $0.99
+        packageid: 31
+        percent_savings: 0
+        percent_savings_text: '-80% '
+        price_in_cents_with_discount: 99
+      title: Buy Deathmatch Classic
+    packages:
+    - 31
+    pc_requirements:
+      minimum: "\r\n\t\t\t<p><strong>Minimum:</strong> 500 mhz processor, 96mb ram,\
+        \ 16mb video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\r\
+        \n\t\t\t<p><strong>Recommended:</strong> 800 mhz processor, 128mb ram, 32mb+\
+        \ video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\r\
+        \n\t\t\t"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 80
+      final: 99
+      final_formatted: $0.99
+      initial: 499
+      initial_formatted: $4.99
+    publishers:
+    - Valve
+    recommendations:
+      total: 1278
+    release_date:
+      coming_soon: false
+      date: Jun 1, 2001
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000142.1920x1080.jpg?t=1568752159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000142.600x338.jpg?t=1568752159
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000143.1920x1080.jpg?t=1568752159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000143.600x338.jpg?t=1568752159
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000144.1920x1080.jpg?t=1568752159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000144.600x338.jpg?t=1568752159
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000145.1920x1080.jpg?t=1568752159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/40/0000000145.600x338.jpg?t=1568752159
+    short_description: Enjoy fast-paced multiplayer gaming with Deathmatch Classic
+      (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players
+      to grab their rocket launchers and put their reflexes to the test in a collection
+      of futuristic settings.
+    steam_appid: 40
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, German, Italian, Spanish - Spain, Korean,
+      Russian, Simplified Chinese, Traditional Chinese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4+/mL6PYCcdzIwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 255
+    total_positive: 1023
+    total_reviews: 1278
+  reviews:
+  - author:
+      last_played: 1609557816
+      num_games_owned: 44
+      num_reviews: 2
+      playtime_at_review: 99
+      playtime_forever: 99
+      playtime_last_two_weeks: 99
+      steamid: '76561198078568173'
+    comment_count: 0
+    language: finnish
+    received_for_free: false
+    recommendationid: '84035009'
+    review: good old classic fps, but pretty much dead
+    steam_purchase: true
+    timestamp_created: 1609810438
+    timestamp_updated: 1609810563
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

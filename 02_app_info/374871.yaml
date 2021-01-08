@@ -1,0 +1,393 @@
+details:
+  data:
+    about_the_game: "<strong>Munich Tram - the first Add-On for the LOTUS-Simulator!</strong><br>For\
+      \ the first time, we offer you the possibility to control a highly detailed\
+      \ tram model in a realistic simulation on real tracks!<h2 class=\"bb_tag\">The\
+      \ Simulation At A Glance</h2>With the tram type R2.2b you can take a virtual\
+      \ tour through downtown Munich and explore the routes of the lines 27 and 28!\
+      \ Experience for yourself how it feels to take the tram through the Bavarian\
+      \ capital. The tram has a long tradition in Munich, the first tram line opened\
+      \ in 1876. But our simulation doesn't lead you that far back, because instead\
+      \ of the R2.2b there was still a horse-drawn tram on the way. About 120 years\
+      \ later, since the mid-1990s, the vehicles of the R2.2 series have dominated\
+      \ the Munich cityscape. The type R2.2b was comprehensively modernized from 2011\
+      \ and is currently in use on Munich's rails in its redesign.<br><br><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Layout_Screen.png?t=1581011035\"\
+      \ /><br><br>And exactly with this vehicle in the well-known blue design of the\
+      \ MVG you can become tram drivers yourself! Put your skills to the test - get\
+      \ into the driver's seat and you're ready to go!<h2 class=\"bb_tag\">The Routes</h2><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Liniengrafik_27.png?t=1581011035\"\
+      \ /><br>Route 27 runs in the heart of Munich from Sendlinger Tor via Karlsplatz,\
+      \ Karolinienplatz, Kurf\xFCrstenplatz and Hohenzollernplatz to Petuelring. The\
+      \ journey time for the 15 stops along the line is about 20 minutes. Past many\
+      \ famous sights, such as the Pinakotheken or the old B\xF6rse, time passes in\
+      \ a flash. Line 27 is not only in use during the day, but also at night. Test\
+      \ your driving skills in night traffic as well!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Liniengrafik_28.png?t=1581011035\"\
+      \ /><br>Route 28 also starts at Sendlinger Tor and runs via Karlsplatz and Karolinienplatz\
+      \ to Kurf\xFCrstenplatz. There, line 28 branches off from the shared route with\
+      \ line 27 and continues to Scheidplatz. The journey time for the 12 stops along\
+      \ the line is about 16 minutes.<br>Try it out! Become a tram driver yourself\
+      \ and drive through Munich on our lines.<h2 class=\"bb_tag\">The Tram Model</h2><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Fahrzeugfoto.png?t=1581011035\"\
+      \ /><br>Type R2.2b belongs to the R series, MVG's first low-floor tramway. After\
+      \ around 15 years in service, the R2.2 one-way vehicles were extensively modernised\
+      \ and went into operation in 2011 as the R2.2b series. Both inside and outside,\
+      \ the modernised model is available in a new design - blue and white aluminium.\
+      \ New handrails, extended passenger information and swivelling sliding doors\
+      \ characterise the redesign."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/374871/page_bg_generated_v6b.jpg?t=1581011035
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: VR Support
+      id: 31
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>Latest updates</h1><p><i>06.02.2020</i><h2 class=\"\
+      bb_tag\">Official announcement</h2><br>Dear Community,<br><br>we would like\
+      \ to inform you that we unfortunately have to change the planned content and\
+      \ schedule for the product LOTUS-Simulator: Munich Tram.<br><br>As we are still\
+      \ waiting for essential functions and improvements in the LOTUS Rails module\
+      \ (bug fixes in the MapEditor, complete AI functionality, passengers, lighting,\
+      \ performance optimization and loading times in the MapEditor), we hereby inform\
+      \ you that we have to suspend the further development of the LOTUS Munich Add-On\
+      \ for an indefinite period of time.<br><br>In the sense of early access, as\
+      \ it is communicated by Oriolus Software GmbH for the LOTUS Simulator, we unfortunately\
+      \ cannot provide a concrete time schedule when we will integrate further functions.\
+      \ We regret this step very much, but unfortunately we have no influence and\
+      \ get no feedback when the mentioned functions are expected. <br><br>Since we\
+      \ are dependent on the LOTUS Simulator basic functions for the further development\
+      \ of the add-on, we have no other choice than to suspend further development\
+      \ indefinitely. The function for simple AI was promised by Oriolus until the\
+      \ end of 2019, but there is no information about it until today. At this point\
+      \ in time, we can no longer implement our development to a reasonable extent,\
+      \ so this decision follows, which we will also communicate transparently and\
+      \ openly without delay.<br><br>The product LOTUS-Simulator: Munich Tram is -\
+      \ as it is - sold at the current status and we have adapted this information\
+      \ accordingly.<br><br>--------------------------------------------------------------------------------------------------<br><br><i>23.12.2019</i><h2\
+      \ class=\"bb_tag\">Munich Christmas-Tram Update!</h2><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Screen_Typ_M_Release_EN.jpg?t=1581011035\"\
+      \ /><br><br>The Christkindl-Tram Type M is now available for download as a Christmas\
+      \ special for our loyal customers!<br><br>We have developed this vehicle for\
+      \ you in the last weeks as a self-controllable and drivable version and this\
+      \ is now available as a Christmas present for all owners of our add-on as a\
+      \ free update, because AI vehicles are not possible in LOTUS-Simualtor up to\
+      \ now.<br><br><strong>Info about the steering system:</strong><br>The drive\
+      \ control works like other trams in the LOTUS simulator: Insert directional\
+      \ control forwards and then press the setpoint adjuster forward to accelerate\
+      \ and backwards to brake. The fast brake as well as the rail brake were also\
+      \ installed, as well as lighting and doors opening/closing and door release\
+      \ (holding brake). All these functions use the LOTUS key assignment. The electrical\
+      \ system is permanently activated for simplicity, as well as the pantograph\
+      \ is permanently extended and the main switch is permanently inserted.<br>The\
+      \ only function that does not use a standard button is the activation/deactivation\
+      \ of Christmas music, which is assigned to the Dead Man/SiFa button.<br><br>It\
+      \ is recommended to switch on the vehicle's hints to get information about the\
+      \ control!<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Direction\
+      \ of travel switchable by directional switch<br></li><li>Drive control with\
+      \ 4 speed levels for acceleration and 6 braking levels<br></li><li>Doors can\
+      \ be opened and closed<br></li><li>Bell can be operated<br></li><li>Rail brake\
+      \ is available<br></li><li>Lighting can be switched on and off<br></li><li>Christmas\
+      \ music can be played at the touch of a button (the Christmas music is copyright-free\
+      \ and is only subject to the Creative Commons BY license)<br></li><li>Compressed\
+      \ air system with compressor<br></li><li>Sidecar can be coupled manually<br></li><li>Multiplayer\
+      \ capable!<br><br>We wish you a lot of fun with the new vehicle and with it\
+      \ nice Christmas holidays!<br><br>--------------------------------------------------------------------------------------------------<br><br><i>18.09.2019</i><h2\
+      \ class=\"bb_tag\">NEW - Multiplayer-Update!</h2><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Update_Screen_1.1_Multiplayer_EN.jpg?t=1581011035\"\
+      \ /><br><br>From now on you can ride the Munich Tram with friends in multiplayer!<br><br><strong>Changelog:</strong><br><br><i>Map:</i><br><ul\
+      \ class=\"bb_ul\"><li>Multiplayer on the Munich map now available!<br></li><li>Corrected\
+      \ track in front of Ottostra\xDFe stop that had caused the tram to jump/float<br></li><li>Fixed\
+      \ minor faults/holes in road construction<br></li><li>Missing spotlight objects\
+      \ added at Karolinenplatz (now only lights up at night)<br></li><li>Sign for\
+      \ terminus stop/exit stop Petuelring added<br></li><li>Minor adjustments for\
+      \ traffic light circuits<br></li><li>Missing traffic light request switches\
+      \ on traffic light masts added<br></li><li>Entrypoints at Karolinenplatz and\
+      \ Kurf\xFCrstenplatz added (e.g. for multiplayer spawn)</li></ul><br><i>Tram\
+      \ R2.2b:</i><br><ul class=\"bb_ul\"><li>Existing repaints corrected<br></li><li>Repaint\
+      \ template is now available<br></li><li>Added driver camera views for left side\
+      \ and right side view</li></ul><br>--------------------------------------------------------------------------------------------------<br><br><i>13.09.2019</i><h2\
+      \ class=\"bb_tag\">Major-Update 1.1 out now - Route 27 and passengers!</h2><br><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Update_Screen_1.1_EN.jpg?t=1581011035\"\
+      \ /><br><br>New update with the full route 27 and passengers now available for\
+      \ download!<br>Note: The passengers are exclusively developed by us for Munich\
+      \ Tram and no LOTUS feature!<br><br><strong>Changelog:</strong><br><br><i>Map:</i><br><ul\
+      \ class=\"bb_ul\"><li>The map of route 27 is completely finished with all details!<br></li><li>Passengers\
+      \ added<br></li><li>Additional signal signs placed on anchoring wires<br></li><li>All\
+      \ switches can now be controlled from the vehicle<br></li><li>Switch signals\
+      \ made operational<br></li><li>Traffic light requests for tram added<br></li><li>Construction\
+      \ site at the Sendlinger Tor with many new objects and functions<br></li><li>Floating\
+      \ objects are now correctly placed on the ground again<br></li><li>Minor repairs\
+      \ in road construction</li></ul><br><i>Tram R2.2b:</i><br><ul class=\"bb_ul\"\
+      ><li>IBIS: route, timetable and announcements for route 27 added<br></li><li>IBIS:\
+      \ Separation of terminus and departure stop Sendlinger Tor<br></li><li>Passengers\
+      \ added<br></li><li>Dynamic vehicle numbers<br></li><li>Repaints added<br></li><li>Controlling\
+      \ switches via switch switch<br></li><li>Switches are set automatically by IBIS\
+      \ (depending on the set route)<br></li><li>Driver character added<br></li><li>Adjustment\
+      \ animation of the kilometre counter (in the speedometer)<br></li><li>Emergency\
+      \ lighting installed (above the doors; lights up when no catenary voltage is\
+      \ present)<br></li><li>Interior lighting and train peak signal are now also\
+      \ automatically switched on when shunting<br></li><li>Multiplayer script adaptations\
+      \ --&gt; vehicle is ready for the multiplayer<br></li><li>Shunting console script\
+      \ logic customization; thanks to @Trambahner<br></li><li>Illumination error\
+      \ at shunting console elements corrected<br></li><li>Bugfix: Wheelchair lift\
+      \ folding sound was mistakenly played in a certain situation; thanks to @Marvin_0</li></ul><br>--------------------------------------------------------------------------------------------------<br><br><i>29.08.2019</i><h2\
+      \ class=\"bb_tag\">Announcement: Extension Route 27 with major update 1.1 and\
+      \ reduced price expires!</h2><br>Dear Community,<br><br>During the summer we\
+      \ worked very hard and intensively on our Munich-Add-On and want to bring you\
+      \ up to date today:<br><br><strong>We plan to deliver the next expansion with\
+      \ the major update 1.1 in about 2 weeks on 13.09.2019.</strong><br>This brings\
+      \ a lot of new content, functions and loving details for you!<br>And first of\
+      \ all: <strong>as announced at the start, the reduced price will also expire\
+      \ on this date, so that the add-on will cost \u20AC 34,99 as regular RRP.</strong>\
+      \ So be quick, you still have two weeks time for the discounted purchase!<br><br>In\
+      \ the past, we have already integrated a number of functions into our Munich\
+      \ add-on that have not been available in LOTUS before, and here too we will\
+      \ continue to add our own driver figure to the game for the first time. There\
+      \ will also be a timetable with fully functional IBIS integration for line 27,\
+      \ as well as another surprise that will be released :)</p><br><h1>About the\
+      \ Game</h1><strong>Munich Tram - the first Add-On for the LOTUS-Simulator!</strong><br>For\
+      \ the first time, we offer you the possibility to control a highly detailed\
+      \ tram model in a realistic simulation on real tracks!<h2 class=\"bb_tag\">The\
+      \ Simulation At A Glance</h2>With the tram type R2.2b you can take a virtual\
+      \ tour through downtown Munich and explore the routes of the lines 27 and 28!\
+      \ Experience for yourself how it feels to take the tram through the Bavarian\
+      \ capital. The tram has a long tradition in Munich, the first tram line opened\
+      \ in 1876. But our simulation doesn't lead you that far back, because instead\
+      \ of the R2.2b there was still a horse-drawn tram on the way. About 120 years\
+      \ later, since the mid-1990s, the vehicles of the R2.2 series have dominated\
+      \ the Munich cityscape. The type R2.2b was comprehensively modernized from 2011\
+      \ and is currently in use on Munich's rails in its redesign.<br><br><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Layout_Screen.png?t=1581011035\"\
+      \ /><br><br>And exactly with this vehicle in the well-known blue design of the\
+      \ MVG you can become tram drivers yourself! Put your skills to the test - get\
+      \ into the driver's seat and you're ready to go!<h2 class=\"bb_tag\">The Routes</h2><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Liniengrafik_27.png?t=1581011035\"\
+      \ /><br>Route 27 runs in the heart of Munich from Sendlinger Tor via Karlsplatz,\
+      \ Karolinienplatz, Kurf\xFCrstenplatz and Hohenzollernplatz to Petuelring. The\
+      \ journey time for the 15 stops along the line is about 20 minutes. Past many\
+      \ famous sights, such as the Pinakotheken or the old B\xF6rse, time passes in\
+      \ a flash. Line 27 is not only in use during the day, but also at night. Test\
+      \ your driving skills in night traffic as well!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Liniengrafik_28.png?t=1581011035\"\
+      \ /><br>Route 28 also starts at Sendlinger Tor and runs via Karlsplatz and Karolinienplatz\
+      \ to Kurf\xFCrstenplatz. There, line 28 branches off from the shared route with\
+      \ line 27 and continues to Scheidplatz. The journey time for the 12 stops along\
+      \ the line is about 16 minutes.<br>Try it out! Become a tram driver yourself\
+      \ and drive through Munich on our lines.<h2 class=\"bb_tag\">The Tram Model</h2><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/374871/extras/Fahrzeugfoto.png?t=1581011035\"\
+      \ /><br>Type R2.2b belongs to the R series, MVG's first low-floor tramway. After\
+      \ around 15 years in service, the R2.2 one-way vehicles were extensively modernised\
+      \ and went into operation in 2011 as the R2.2b series. Both inside and outside,\
+      \ the modernised model is available in a new design - blue and white aluminium.\
+      \ New handrails, extended passenger information and swivelling sliding doors\
+      \ characterise the redesign.</li></ul>"
+    developers:
+    - ViewApp GmbH
+    fullgame:
+      appid: '370350'
+      name: LOTUS-Simulator
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/374871/header.jpg?t=1581011035
+    is_free: false
+    legal_notice: "The manual, documentation, video images, software, and all the\
+      \ related materials are copyrighted and must not be copied, photocopied or reduced\
+      \ to any electronic medium or machine legible form, neither completely nor in\
+      \ part, without the previous written consent of VIEWAPP. <br />\r\n<br />\r\n\
+      THE SOFTWARE IS FURNISHED \"AS IS\" AND IT DOES NOT COME FURNISHED WITH ANY\
+      \ GUARANTEE IMPLICIT OR EXPRESS.<br />\r\nTHE AUTHOR DECLINES EVERY RESPONSIBILITY\
+      \ FOR CONTINGENT MALFUNCTIONS, DECELERATION, AND ANY DRAWBACK THAT SHOULD ARISE,\
+      \ USING THIS SOFTWARE. <br />\r\n<br />\r\nCopyright \xA9 2019 ViewApp GmbH.\
+      \ All rights reserved.<br />\r\nAll trademarks and brand names are trademarks\
+      \ or registered trademarks of the respective owners. <br />\r\n<br />\r\nViewApp\
+      \ GmbH<br />\r\nChristine-Touaillon-Stra\xDFe 11/Top21<br />\r\n1220 Wien, Austria"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256746657
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256746657/movie480.mp4?t=1553857634
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256746657/movie_max.mp4?t=1553857634
+      name: Trailer Munich Tram
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256746657/movie.293x165.jpg?t=1553857634
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256746657/movie480.webm?t=1553857634
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256746657/movie_max.webm?t=1553857634
+    - highlight: true
+      id: 256748464
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256748464/movie480.mp4?t=1555664790
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256748464/movie_max.mp4?t=1555664790
+      name: Functions Munich Tram
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256748464/movie.293x165.jpg?t=1555664790
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256748464/movie480.webm?t=1555664790
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256748464/movie_max.webm?t=1555664790
+    - highlight: true
+      id: 256748469
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256748469/movie480.mp4?t=1555664798
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256748469/movie_max.mp4?t=1555664798
+      name: Wheelchair-platformlift Munich Tram
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256748469/movie.293x165.jpg?t=1555664798
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256748469/movie480.webm?t=1555664798
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256748469/movie_max.webm?t=1555664798
+    name: "LOTUS-Simulator: M\xFCnchen Tram"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'LOTUS-Simulator: Munich Tram - $39.99'
+        packageid: 69213
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3999
+      title: "Buy LOTUS-Simulator: M\xFCnchen Tram"
+    packages:
+    - 69213
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2,8 GHz, 4 Core<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available
+        space<br></li><li><strong>Additional Notes:</strong> OpenGL 3.3, Internet-connection
+        required</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 3,6 GHz, 4 Core<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> 6 GB DDR5<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available
+        space<br></li><li><strong>Additional Notes:</strong> OpenGL 3.3, Internet-connection
+        required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 3999
+      final_formatted: $39.99
+      initial: 3999
+      initial_formatted: ''
+    publishers:
+    - ViewApp GmbH
+    release_date:
+      coming_soon: false
+      date: Mar 29, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_dca2558078a28a98026c4445af5d0afc2dc09d4b.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_dca2558078a28a98026c4445af5d0afc2dc09d4b.600x338.jpg?t=1581011035
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_21944cd0ba8a5a0f8759be277a84e8f54b6bc9bd.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_21944cd0ba8a5a0f8759be277a84e8f54b6bc9bd.600x338.jpg?t=1581011035
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_b26190629cad27fc402b3cb1f39a5a6791b50367.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_b26190629cad27fc402b3cb1f39a5a6791b50367.600x338.jpg?t=1581011035
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_7665d683dda07bc48d5599d2079635ba7f1a00ea.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_7665d683dda07bc48d5599d2079635ba7f1a00ea.600x338.jpg?t=1581011035
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_1df9cb544ebca178b10259371f2dea479fc9b862.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_1df9cb544ebca178b10259371f2dea479fc9b862.600x338.jpg?t=1581011035
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_294f407b71022a5b58abcf68cdbf3ef4fda367e2.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_294f407b71022a5b58abcf68cdbf3ef4fda367e2.600x338.jpg?t=1581011035
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_6737b85705a77a1fd344a5ea85cdde326d36252c.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_6737b85705a77a1fd344a5ea85cdde326d36252c.600x338.jpg?t=1581011035
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_4cd472aebac91a9fb92504b1bd0bc84d7947a2aa.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_4cd472aebac91a9fb92504b1bd0bc84d7947a2aa.600x338.jpg?t=1581011035
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_97d01e90c9382c316e0cd72c9831f8ab7f224c66.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_97d01e90c9382c316e0cd72c9831f8ab7f224c66.600x338.jpg?t=1581011035
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_dc4d95d2cace083cdb0ee970ea4500ccd41c0c98.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_dc4d95d2cace083cdb0ee970ea4500ccd41c0c98.600x338.jpg?t=1581011035
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_a86c4e1b835335e6112cc41fa9ba5bd33555ed19.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_a86c4e1b835335e6112cc41fa9ba5bd33555ed19.600x338.jpg?t=1581011035
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_15608ed223830ca2495572e56a50bc0fed7c9feb.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_15608ed223830ca2495572e56a50bc0fed7c9feb.600x338.jpg?t=1581011035
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_f7811f8f9bfc898e7e1466eb89fbe1814f5cec19.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_f7811f8f9bfc898e7e1466eb89fbe1814f5cec19.600x338.jpg?t=1581011035
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_e300b72cf605604b2ae1b1dab5409fec3829a84a.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_e300b72cf605604b2ae1b1dab5409fec3829a84a.600x338.jpg?t=1581011035
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_3d4a3b767eaa9fca7bd320f1424ce11193c183ff.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_3d4a3b767eaa9fca7bd320f1424ce11193c183ff.600x338.jpg?t=1581011035
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_0b98539b6b5c35e8e17183752c44a2d8d5583006.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_0b98539b6b5c35e8e17183752c44a2d8d5583006.600x338.jpg?t=1581011035
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_d6f4564cdfe851d77ed5b46a12f4ca28bf0bd8dd.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_d6f4564cdfe851d77ed5b46a12f4ca28bf0bd8dd.600x338.jpg?t=1581011035
+    - id: 17
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_540b0bfa8e55842b9edee730b8e3896d6f9875e2.1920x1080.jpg?t=1581011035
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374871/ss_540b0bfa8e55842b9edee730b8e3896d6f9875e2.600x338.jpg?t=1581011035
+    short_description: 'The first add-on for the LOTUS-Simulator: the Munich Tram.
+      With the tram R2.2b of MVG you can virtually drive through the city centre of
+      Munich and explore the scenery along routes 27 &amp; 28. Detailled reconstructed
+      and perfectly animated. Take control at the driver''s seat, let''s go.'
+    steam_appid: 374871
+    support_info:
+      email: support@viewapp.com
+      url: http://www.viewapp.com/
+    supported_languages: English, German<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.viewapp.com
+  success: true
+reviews:
+  cursor: AoJ4mMCVxfYCf7uZ0gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 21
+    total_positive: 17
+    total_reviews: 38
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 30
+      num_reviews: 21
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198056319641'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '55102399'
+    review: Leider kommen keine Updates mehr. Deshalb nicht zu empfehlen.
+    steam_purchase: true
+    timestamp_created: 1568447273
+    timestamp_updated: 1608638661
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.445692062377929688'
+    written_during_early_access: false
+  success: 1

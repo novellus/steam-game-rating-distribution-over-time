@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '626300'
+      name: Brave Witches
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/626300/header.jpg?t=1553554181
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Brave Witches: On a Holy Night'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Brave Witches: On a Holy Night - $1.99'
+        packageid: 169658
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Brave Witches: On a Holy Night'
+    packages:
+    - 169658
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: It's time for the Saturnus festival, and there's no food to
+      celebrate with! What's worse, Hikari has come down with a cold from all the
+      stress she's under. Nipa and Kanno decide to put on a Christmas celebration
+      anyway, using local mushrooms and hand-carved presents, but their plans are...
+    steam_appid: 627096
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,79 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/802420/page_bg_generated_v6b.jpg?t=1572930598
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: ''
+    developers:
+    - Frontwing
+    fullgame:
+      appid: '800180'
+      name: Momoiro Closet
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/802420/header.jpg?t=1572930598
+    is_free: true
+    legal_notice: "\xA9 2017 Frontwing Co., Ltd. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Momoiro Closet Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ 7/8.1/10<br></li><li><strong>Processor:</strong> Intel Core 2 DUO<br></li><li><strong>Memory:</strong>\
+        \ 1 GB RAM<br></li><li><strong>Graphics:</strong> VRAM320MB, 1280\xD7720<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Sound Card:</strong> Support for PCM playback\
+        \ through DirectSound<br></li><li><strong>Additional Notes:</strong> Windows\
+        \ Media Player 9 equivalent or higher</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ 7/8.1/10<br></li><li><strong>Processor:</strong> Intel Core 2 DUO 2.66GHz<br></li><li><strong>Memory:</strong>\
+        \ 2 GB RAM<br></li><li><strong>Graphics:</strong> VRAM512MB, 1280\xD7720<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Sound Card:</strong> Support for PCM playback\
+        \ through DirectSound<br></li><li><strong>Additional Notes:</strong> Windows\
+        \ Media Player 9 equivalent or higher</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Frontwing USA
+    release_date:
+      coming_soon: false
+      date: Mar 28, 2018
+    required_age: 0
+    short_description: Momoiro Closet is a visual novel exploring the unlikely romance
+      of an average joe and the student council president. Experience the otaku mecca
+      of Akihabara firsthand as you court your anime-obsessed cosplayer schoolmate,
+      through either a tender love story or a passionate tale of lust.
+    steam_appid: 802420
+    support_info:
+      email: ask@frontwing.co.jp
+      url: ''
+    type: demo
+    website: http://frontwing.jp/product/morokuro/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

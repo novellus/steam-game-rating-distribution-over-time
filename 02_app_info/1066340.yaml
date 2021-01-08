@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: "The supporter pack unlocks the ability to have 4 human players\
+      \ in SUPER RECOILFIGHT and helps OKSoft in our pursuit to deliver you OK software(get\
+      \ it?)<br />\r\n<br />\r\nThe pack also comes with the game's OST and Bosca\
+      \ Ceoil source files for them as a small bonus. More bonuses may be added in\
+      \ the future."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1066340/page_bg_generated_v6b.jpg?t=1558427484
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The supporter pack unlocks the ability to have 4 human\
+      \ players in SUPER RECOILFIGHT and helps OKSoft in our pursuit to deliver you\
+      \ OK software(get it?)<br />\r\n<br />\r\nThe pack also comes with the game's\
+      \ OST and Bosca Ceoil source files for them as a small bonus. More bonuses may\
+      \ be added in the future."
+    developers:
+    - OKSoft
+    fullgame:
+      appid: '1063950'
+      name: SUPER RECOILFIGHT
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1066340/header.jpg?t=1558427484
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: SUPER RECOILFIGHT Supporter Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SUPER RECOILFIGHT Supporter Pack - $1.99
+        packageid: 356917
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy SUPER RECOILFIGHT Supporter Pack
+    packages:
+    - 356917
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> 7, 8, 10<br></li><li><strong>Processor:</strong>
+        2GHz<br></li><li><strong>Memory:</strong> 512 MB RAM</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 21, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1066340/ss_44bb721964b11e41bcebb2a3bcb52363d8974042.1920x1080.jpg?t=1558427484
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1066340/ss_44bb721964b11e41bcebb2a3bcb52363d8974042.600x338.jpg?t=1558427484
+    short_description: Play SUPER RECOILFIGHT with 4 people!
+    steam_appid: 1066340
+    support_info:
+      email: ''
+      url: https://discord.gg/fZUu4Hm
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwtazx7/MCdMrymgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 2
+    total_positive: 0
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 437
+      num_reviews: 27
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198077722640'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '74159268'
+    review: "Mais uma merda que voc\xEA acaba encontrando na steam, desenvolvedor\
+      \ apenas garante que as conquistas funcionam caso compre esta merda de DLC.\
+      \ Eu fui trouxa de comprar e mesmo assim n\xE3o dropa nenhuma, o jeito foi pedir\
+      \ reembolso e denunciar esta merda caso alguem resolva comprar."
+    steam_purchase: true
+    timestamp_created: 1597187122
+    timestamp_updated: 1597187122
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

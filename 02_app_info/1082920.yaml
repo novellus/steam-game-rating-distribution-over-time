@@ -1,0 +1,135 @@
+details:
+  data:
+    about_the_game: "This package contains: <br><strong><br><ul class=\"bb_ul\"><li>15\
+      \ HQ wallpapers<br></li><li>an exclusive drawing!</li></ul></strong><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1082920/extras/ty.png?t=1559419266\"\
+      \ /><br><br>\u2661\u2661<br><br>To find them:<br>1. Open Steam, go to the Library\
+      \ tab, and right-click on missed messages in your game list.<br>2. Select Properties\
+      \ and click the Local Files tab.<br>3. Click the Browse Local Files... button.<br>4.\
+      \ Open the &quot;Goodies&quot; folder!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1082920/page_bg_generated_v6b.jpg?t=1559419266
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This package contains: <br><strong><br><ul class=\"bb_ul\"\
+      ><li>15 HQ wallpapers<br></li><li>an exclusive drawing!</li></ul></strong><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1082920/extras/ty.png?t=1559419266\"\
+      \ /><br><br>\u2661\u2661<br><br>To find them:<br>1. Open Steam, go to the Library\
+      \ tab, and right-click on missed messages in your game list.<br>2. Select Properties\
+      \ and click the Local Files tab.<br>3. Click the Browse Local Files... button.<br>4.\
+      \ Open the &quot;Goodies&quot; folder!"
+    developers:
+    - Angela He
+    fullgame:
+      appid: '812810'
+      name: missed messages.
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1082920/header.jpg?t=1559419266
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        27 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        27 MB available space</li></ul>
+    name: missed messages - Fan Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: missed messages - Fan Pack - $4.99
+        packageid: 363765
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy missed messages - Fan Pack
+    packages:
+    - 363765
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        27 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    recommendations:
+      total: 105
+    release_date:
+      coming_soon: false
+      date: May 28, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1082920/ss_9846c061bd958ba21e48d19125a09b2a18369636.1920x1080.jpg?t=1559419266
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1082920/ss_9846c061bd958ba21e48d19125a09b2a18369636.600x338.jpg?t=1559419266
+    short_description: This DLC contains wallpapers of in-game art and a thank you
+      drawing~
+    steam_appid: 1082920
+    support_info:
+      email: heangela.arts@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4x/PvwPYCeN7kuwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 0
+    total_positive: 105
+    total_reviews: 105
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 24
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198375578244'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82781672'
+    review: <3
+    steam_purchase: true
+    timestamp_created: 1608494587
+    timestamp_updated: 1608494587
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

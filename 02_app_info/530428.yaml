@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '530400'
+      name: Battle Disc
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/530428/header.jpg?t=1476465649
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Battle Disc: Battle, Between Fire and Metal!'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Battle Disc: Battle, Between Fire and Metal! - <span class="discount_original_price">$0.99</span>
+          $0.49'
+        packageid: 127666
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: 'Buy Battle Disc: Battle, Between Fire and Metal!'
+    packages:
+    - 127666
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 14, 2016
+    required_age: 0
+    short_description: Little Fire Beast is in trouble! Gordon holds Little Fire Beast
+      Captive, and our heroes have to battle to get him back! The King of Disc Championship
+      is heating up!
+    steam_appid: 530428
+    support_info:
+      email: ''
+      url: ''
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

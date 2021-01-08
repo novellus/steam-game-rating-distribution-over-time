@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: The official soundtrack for Wild West and Wizards transports your
+      mind's eye back to that wide open, dusty landscape where wizards and cowboys
+      become one. Grab a cup of campfire joe and recall your revolver-wielding, fireball
+      blasting adventures through a strange frontier.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1346930/page_bg_generated_v6b.jpg?t=1592223136
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The official soundtrack for Wild West and Wizards transports
+      your mind's eye back to that wide open, dusty landscape where wizards and cowboys
+      become one. Grab a cup of campfire joe and recall your revolver-wielding, fireball
+      blasting adventures through a strange frontier.
+    developers:
+    - Lavaboots Studios
+    fullgame:
+      appid: '1071290'
+      name: Wild West and Wizards
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1346930/header.jpg?t=1592223136
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Wild West and Wizards Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wild West and Wizards Soundtrack - $5.99
+        packageid: 470996
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Wild West and Wizards Soundtrack
+    packages:
+    - 470996
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 330 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Lavaboots Studios
+    release_date:
+      coming_soon: false
+      date: Jun 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1346930/ss_27104859dc44bf06944ca03b73ceed019258cab0.1920x1080.jpg?t=1592223136
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1346930/ss_27104859dc44bf06944ca03b73ceed019258cab0.600x338.jpg?t=1592223136
+    short_description: This soundtrack contains all of the tracks used within Wild
+      West and Wizards.
+    steam_appid: 1346930
+    support_info:
+      email: contact@lavaboots.com
+      url: https://www.wildwestandwizards.com/
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwjcu+3PICff2bjgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 227
+      num_reviews: 94
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198090592487'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '70836189'
+    review: 'Great soundtrack filled with nice western styled music!
+
+
+      Lot''s of relaxing guitar, and some more intense battle music!'
+    steam_purchase: true
+    timestamp_created: 1592241314
+    timestamp_updated: 1592241314
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.541984736919403076'
+    written_during_early_access: false
+  success: 1

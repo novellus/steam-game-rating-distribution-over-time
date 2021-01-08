@@ -1,0 +1,191 @@
+details:
+  data:
+    about_the_game: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/979970/extras/banner.png?t=1570904236"
+      /><br><br>IMAZE.EXE - game where you need to found the way from maze.<h2 class="bb_tag"><strong>Features:</strong></h2>-
+      40 levels.<br>- Pleasant music.<br>- More than 2 hours of gameplay.<br>- Simple
+      controls.<br>- Steam Achievements.<br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/979970/extras/achievements.png?t=1570904236"
+      /><h2 class="bb_tag"><strong>Credits:</strong></h2><ul class="bb_ul"><li> Programming:
+      AFBIK Studio<br></li><li> Music and effects: zapsplat</li></ul><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/979970/extras/banner.png?t=1570904236"
+      />'
+    achievements:
+      highlighted:
+      - name: Complete 1 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/075f41954a4e5f99efec17768edbdb8b53cf49c0.jpg
+      - name: Complete 2 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/f00fedfecdb2c5825975126e5528d17925c3227d.jpg
+      - name: Complete 3 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/1406cbc1dd671250da74d40557c605f46b0cdb81.jpg
+      - name: Complete 4 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/2c62d67e68384390df458c2c994222c53dbe6c53.jpg
+      - name: Complete 5 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/a864fdba830a0da3d34ff4bba06b3c2b28cbd935.jpg
+      - name: Complete 6 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/e2e95cbb69a41a13f3440d31c98bc766b04773b9.jpg
+      - name: Complete 7 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/7439d03d3ebbb01ae7858cd27a0e5cb0228c2c4a.jpg
+      - name: Complete 8 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/81a9ad2103e6c6d597e714742279331e5d9e9a42.jpg
+      - name: Complete 9 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/14c244f1f95d7ecd7015c8552be377f3487b7802.jpg
+      - name: Complete 10 LvL
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/979970/71d2b3b6687448b4e74c889146d4180c9e5978bc.jpg
+      total: 42
+    background: https://steamcdn-a.akamaihd.net/steam/apps/979970/page_bg_generated_v6b.jpg?t=1570904236
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/979970/extras/banner.png?t=1570904236"
+      /><br><br>IMAZE.EXE - game where you need to found the way from maze.<h2 class="bb_tag"><strong>Features:</strong></h2>-
+      40 levels.<br>- Pleasant music.<br>- More than 2 hours of gameplay.<br>- Simple
+      controls.<br>- Steam Achievements.<br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/979970/extras/achievements.png?t=1570904236"
+      /><h2 class="bb_tag"><strong>Credits:</strong></h2><ul class="bb_ul"><li> Programming:
+      AFBIK Studio<br></li><li> Music and effects: zapsplat</li></ul><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/979970/extras/banner.png?t=1570904236"
+      />'
+    developers:
+    - AFBIK Studio
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/979970/header.jpg?t=1570904236
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256735166
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256735166/movie480.mp4?t=1541868318
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256735166/movie_max.mp4?t=1541868318
+      name: Game
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256735166/movie.293x165.jpg?t=1541868318
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256735166/movie480.webm?t=1541868318
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256735166/movie_max.webm?t=1541868318
+    name: IMAZE.EXE
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: IMAZE.EXE - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 322252
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      title: Buy IMAZE.EXE
+    packages:
+    - 322252
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7,8,10<br></li><li><strong>Processor:</strong> 2.0 GHz
+        CPU Dual Core<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong>
+        512 MB<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound
+        Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Use headphones
+        for better experience!</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7,8,10<br></li><li><strong>Processor:</strong> Core i3
+        or higher<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong>
+        1 GB<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound
+        Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Use headphones
+        for better experience!</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - AFBIK Studio
+    release_date:
+      coming_soon: false
+      date: Nov 24, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_c28afb3f8a0171c16bd2babd5ed9982fcf464e79.1920x1080.jpg?t=1570904236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_c28afb3f8a0171c16bd2babd5ed9982fcf464e79.600x338.jpg?t=1570904236
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_5d9b567540c3801570920c0b1777b820f9dcb239.1920x1080.jpg?t=1570904236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_5d9b567540c3801570920c0b1777b820f9dcb239.600x338.jpg?t=1570904236
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_7825c63d439589478e3915f5411c8a72b1740a68.1920x1080.jpg?t=1570904236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_7825c63d439589478e3915f5411c8a72b1740a68.600x338.jpg?t=1570904236
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_a3370143e45fafcad5ad137480d1bd7a51b46cac.1920x1080.jpg?t=1570904236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_a3370143e45fafcad5ad137480d1bd7a51b46cac.600x338.jpg?t=1570904236
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_39003df2728d2234c58a50aee4dab2a3466f979f.1920x1080.jpg?t=1570904236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/979970/ss_39003df2728d2234c58a50aee4dab2a3466f979f.600x338.jpg?t=1570904236
+    short_description: IMAZE.EXE - game where you need to found the way from maze.
+    steam_appid: 979970
+    support_info:
+      email: afbikstudio@mail.ru
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Traditional
+      Chinese, Simplified Chinese, Korean, Spanish - Latin America, Dutch, Norwegian,
+      Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech,
+      Swedish, Japanese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw1bTS5fYCeN2iwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 9
+    total_positive: 23
+    total_reviews: 32
+  reviews:
+  - author:
+      last_played: 1609728046
+      num_games_owned: 146
+      num_reviews: 19
+      playtime_at_review: 81
+      playtime_forever: 81
+      playtime_last_two_weeks: 81
+      steamid: '76561198931726349'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '83957208'
+    review: "jogo legal para passar o tempo, esse \xE9 um daqueles games que vc joga\
+      \ ouvindo uma musica do seu gosto ao fundo, porem, no entanto, toda via entretanto,\
+      \ n\xE3o tem op\xE7\xE3o de mutar o som do jogo para vc colocar uma musica q\
+      \ mais te agrade, a musica do game \xE9 um lupping q se repete de 5 em 5 segundos,\
+      \ mas eu achei o som agradavel, mas seria muito melhor se pudesse ser mutada,\
+      \ mas de qualquer forma, eu indico o game"
+    steam_purchase: true
+    timestamp_created: 1609728370
+    timestamp_updated: 1609728370
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,175 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1210830/extras/storeHeader.png?t=1594569172"
+      /><br>A relaxing labyrinth game. You need to lead the player (bright square)
+      through a set of fifty mazes to the finish line (transparent square). As you
+      progress through the complexity of the labyrinths will increase.<br><br><ul
+      class="bb_ul"><li>50 levels, divided by complexity into boards containing from
+      5x5 to 9x9 cells<br></li><li>100 achievements<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1210830/extras/achv.png?t=1594569172"
+      /><br></li><li>control with arrow keys<br></li><li>original relaxing soundtrack</li></ul><br><img
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1210830/extras/mw_nwjs.png?t=1594569172"
+      />
+    achievements:
+      highlighted:
+      - name: '00'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/6dffc44a97a378b3825a3a58031a7b30c53dabbb.jpg
+      - name: '01'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/1ca60f1d58e12c1cd0b0ef1a23786824ed1cf64f.jpg
+      - name: '02'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/0f34df7b6360de76d7d8dc0292b51435df82c8da.jpg
+      - name: '03'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/d6a09f7ebae41fccc11705173b8e366747ffb4dc.jpg
+      - name: '04'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/dec21b34eb9fc030b6387e24468440b8ecfa1f58.jpg
+      - name: '05'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/179b27f16a2310464cbd37fe48ba968c82646b2b.jpg
+      - name: '06'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/939c9a5710988c29345f38ae45edfed2086c3ac3.jpg
+      - name: '07'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/4f8dc28fbcdcf225e9852b13733c86700da37deb.jpg
+      - name: 08
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/a0d4a0891554b95e9d2a99a421e60c42fc11e026.jpg
+      - name: 09
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1210830/dc22010422b985901dbdb7b18e954f777eeef2ad.jpg
+      total: 100
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1210830/page_bg_generated_v6b.jpg?t=1594569172
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1210830/extras/storeHeader.png?t=1594569172"
+      /><br>A relaxing labyrinth game. You need to lead the player (bright square)
+      through a set of fifty mazes to the finish line (transparent square). As you
+      progress through the complexity of the labyrinths will increase.<br><br><ul
+      class="bb_ul"><li>50 levels, divided by complexity into boards containing from
+      5x5 to 9x9 cells<br></li><li>100 achievements<br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1210830/extras/achv.png?t=1594569172"
+      /><br></li><li>control with arrow keys<br></li><li>original relaxing soundtrack</li></ul><br><img
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1210830/extras/mw_nwjs.png?t=1594569172"
+      />
+    developers:
+    - SAARSE
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1210830/header.jpg?t=1594569172
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256770014
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770014/movie480.mp4?t=1576808678
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770014/movie_max.mp4?t=1576808678
+      name: labyrinth_trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256770014/movie.293x165.jpg?t=1576808678
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770014/movie480.webm?t=1576808678
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770014/movie_max.webm?t=1576808678
+    name: labyrinth
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: labyrinth - $0.99
+        packageid: 418496
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy labyrinth
+    packages:
+    - 418496
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 (or later)<br></li><li><strong>Processor:</strong> INTEL Celeron
+        G3900 / AMD Athlon II X3 425<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        any (1+ GB VRAM)<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - SAARSE
+    release_date:
+      coming_soon: false
+      date: Jan 9, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_b4d47c818439da145f12b7f61fd55eb8feeddebc.1920x1080.jpg?t=1594569172
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_b4d47c818439da145f12b7f61fd55eb8feeddebc.600x338.jpg?t=1594569172
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_98f3b9773819cf35178cfb1ac24233926985f728.1920x1080.jpg?t=1594569172
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_98f3b9773819cf35178cfb1ac24233926985f728.600x338.jpg?t=1594569172
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_3c6447ca52c24cf26bd8e616bc9135bcc9a8e9a0.1920x1080.jpg?t=1594569172
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_3c6447ca52c24cf26bd8e616bc9135bcc9a8e9a0.600x338.jpg?t=1594569172
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_b346b68166c8e00aaf02f5178df1bca8760ec81f.1920x1080.jpg?t=1594569172
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_b346b68166c8e00aaf02f5178df1bca8760ec81f.600x338.jpg?t=1594569172
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_98151e4887acc4738cb942055bd7b0a0cc47eeec.1920x1080.jpg?t=1594569172
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210830/ss_98151e4887acc4738cb942055bd7b0a0cc47eeec.600x338.jpg?t=1594569172
+    short_description: A relaxing labyrinth game.
+    steam_appid: 1210830
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/groups/saarse
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ45Inwz/YCd662vQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 1
+    total_positive: 6
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 1588703605
+      num_games_owned: 23
+      num_reviews: 17
+      playtime_at_review: 20
+      playtime_forever: 20
+      playtime_last_two_weeks: 0
+      steamid: '76561199013485077'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '83210983'
+    review: Muito bom para jogar com os amigos!
+    steam_purchase: true
+    timestamp_created: 1608997949
+    timestamp_updated: 1608997949
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

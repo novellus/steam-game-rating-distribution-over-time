@@ -1,0 +1,150 @@
+details:
+  data:
+    about_the_game: "Extra ships and items included!<br />\r\n<br />\r\nIncluded:<br\
+      \ />\r\n2 bonus green ships (more to come)<br />\r\nAdditional booster available"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/402950/page_bg_generated_v6b.jpg?t=1447378046
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Captions available
+      id: 13
+    - description: Steam Workshop
+      id: 30
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Extra ships and items included!<br />\r\n<br />\r\nIncluded:<br\
+      \ />\r\n2 bonus green ships (more to come)<br />\r\nAdditional booster available"
+    developers:
+    - PlazSoft
+    fullgame:
+      appid: '369040'
+      name: Yargis - Space Melee
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/402950/header.jpg?t=1447378046
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Yargis - Extra ships / Extra items
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Yargis - Extra ships / Extra items - <span class="discount_original_price">$2.99</span>
+          $0.50
+        packageid: 78747
+        percent_savings: 0
+        percent_savings_text: '-83% '
+        price_in_cents_with_discount: 50
+      title: Buy Yargis - Extra ships / Extra items
+    packages:
+    - 78747
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 384MB Video RAM<br></li><li><strong>Additional
+        Notes:</strong> Requires Yargis</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Requires Yargis</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 83
+      final: 50
+      final_formatted: $0.50
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - PlazSoft
+    release_date:
+      coming_soon: false
+      date: Sep 15, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/402950/ss_b67f331881f347e70eb3995b636ccc9247d1785f.1920x1080.jpg?t=1447378046
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/402950/ss_b67f331881f347e70eb3995b636ccc9247d1785f.600x338.jpg?t=1447378046
+    short_description: 'Extra ships and items included! Included: 2 bonus green ships
+      (more to come) Additional booster...'
+    steam_appid: 402950
+    support_info:
+      email: yargis@plazsoft.com
+      url: http://yargis.com/Yargis/Contact.aspx
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://yargis.com
+  success: true
+reviews:
+  cursor: AoJw6fbp5O4CesS04QE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 340
+      num_reviews: 38
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198315961664'
+    comment_count: 0
+    language: latam
+    received_for_free: false
+    recommendationid: '59089994'
+    review: Buen contenido adicional.
+    steam_purchase: true
+    timestamp_created: 1575341242
+    timestamp_updated: 1575341242
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

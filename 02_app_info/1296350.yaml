@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1296350/page_bg_generated_v6b.jpg?t=1592336608
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    - description: Steam Leaderboards
+      id: 25
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Clockwork Origins
+    fullgame:
+      appid: '1120390'
+      name: 'Tri6: Infinite'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1296350/header.jpg?t=1592336608
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 16.04+,
+        SteamOS<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> OS X 10.12+<br></li><li><strong>Processor:</strong>
+        SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: 'Tri6: Infinite Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Clockwork Origins
+    release_date:
+      coming_soon: false
+      date: Jun 16, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_b33364956b26aef24376ccae4229229c99cc474b.1920x1080.jpg?t=1592336608
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_b33364956b26aef24376ccae4229229c99cc474b.600x338.jpg?t=1592336608
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_73f557ddbbcc504b18a39b67e45e5012f39b725c.1920x1080.jpg?t=1592336608
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_73f557ddbbcc504b18a39b67e45e5012f39b725c.600x338.jpg?t=1592336608
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_364e436aae377acd080690baffcee21307bfa55f.1920x1080.jpg?t=1592336608
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_364e436aae377acd080690baffcee21307bfa55f.600x338.jpg?t=1592336608
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_5cadeec3d8ee636ee2efc119ecafc2f44bfcd45f.1920x1080.jpg?t=1592336608
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_5cadeec3d8ee636ee2efc119ecafc2f44bfcd45f.600x338.jpg?t=1592336608
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_f78701fd863fc952f8ea19333f8d28d96544cf42.1920x1080.jpg?t=1592336608
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296350/ss_f78701fd863fc952f8ea19333f8d28d96544cf42.600x338.jpg?t=1592336608
+    short_description: 'Tri6: Infinite is a fast paced endless racer in the Tri6 cyberspace.
+      Avoid the obstacles as long as possible with your driving skills and different
+      powerups to beat the top scores. With electrons you collect while playing you
+      can unlock new vehicles and powerups for new challenges.'
+    steam_appid: 1296350
+    support_info:
+      email: contact@clockwork-origins.com
+      url: https://discord.gg/bwnuXq9
+    supported_languages: English, German
+    type: demo
+    website: https://tri6game.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

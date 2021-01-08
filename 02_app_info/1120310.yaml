@@ -1,0 +1,198 @@
+details:
+  data:
+    about_the_game: 'Practical overlay for games and other 3D applications, with convenient
+      in-game tweaks (smoothness, performance). Advanced framerate/latency control;
+      CPU and GPU status. For enthusiasts, professionals, developers...<h2 class="bb_tag">Features</h2><ul
+      class="bb_ul"><li>Advanced framerate limiter with unique smoothing and power
+      efficiency features. Flexible in-game adjustments.<br></li><li>Real-time latency
+      control for DirectX games.<br></li><li>CPU status: utilization and memory consumption.<br></li><li>GPU
+      status: temperatures, fan speed, resource utilization and memory consumption.<br></li><li>Custom
+      user notes and flexible overlay display options (compact, or different custom
+      chart types).<br></li><li>Highly efficient with minimal resource usage.<br></li><li>Simple
+      under/overclocking (experimental).</li></ul><h2 class="bb_tag">Community-Driven
+      Development</h2>New features will be added based on user preferences. If you''re
+      an eSports player with specific gameplay needs or a game developer interested
+      in debugging features feel free to send a message detailing your requirements.<h2
+      class="bb_tag">Privacy and Security</h2>This software doesn''t require drivers
+      or administrative privileges to work, and it doesn''t write any data to the
+      file system or Windows registry (apart from the optional user-controlled settings
+      file). It doesn''t access the internet and can be used with Steam in offline
+      mode.<br><br><br>It is adequate for use in secure environments and complies
+      with all data protection regulations, including CCPA, HIPAA, COPPA and the European
+      GDPR.<h2 class="bb_tag">Current Limitations</h2><ul class="bb_ul"><li>GUI is
+      not available for OpenGL games (framerate control features still work).<br></li><li>Latency
+      control is not enabled for old DirectX 9 or Vulkan games. May be enabled soon,
+      depending on player interest.<br></li><li>GPU status and overclocking features
+      only available for AMD and NVIDIA cards.<br></li><li>Some status data may be
+      missing (e.g. most graphics cards don''t have a memory temperature sensor).<br></li><li>Overclocking
+      has some limitations described in the manual (mostly driver-related).<br></li><li>Native
+      UWP apps not supported (some apps in the Windows Store).</li></ul><br>Additional
+      gameplay features are currently available under NDA. Send a message for demonstrations.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1120310/page_bg_generated_v6b.jpg?t=1592512958
+    categories:
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Practical overlay for games and other 3D applications,
+      with convenient in-game tweaks (smoothness, performance). Advanced framerate/latency
+      control; CPU and GPU status. For enthusiasts, professionals, developers...<h2
+      class="bb_tag">Features</h2><ul class="bb_ul"><li>Advanced framerate limiter
+      with unique smoothing and power efficiency features. Flexible in-game adjustments.<br></li><li>Real-time
+      latency control for DirectX games.<br></li><li>CPU status: utilization and memory
+      consumption.<br></li><li>GPU status: temperatures, fan speed, resource utilization
+      and memory consumption.<br></li><li>Custom user notes and flexible overlay display
+      options (compact, or different custom chart types).<br></li><li>Highly efficient
+      with minimal resource usage.<br></li><li>Simple under/overclocking (experimental).</li></ul><h2
+      class="bb_tag">Community-Driven Development</h2>New features will be added based
+      on user preferences. If you''re an eSports player with specific gameplay needs
+      or a game developer interested in debugging features feel free to send a message
+      detailing your requirements.<h2 class="bb_tag">Privacy and Security</h2>This
+      software doesn''t require drivers or administrative privileges to work, and
+      it doesn''t write any data to the file system or Windows registry (apart from
+      the optional user-controlled settings file). It doesn''t access the internet
+      and can be used with Steam in offline mode.<br><br><br>It is adequate for use
+      in secure environments and complies with all data protection regulations, including
+      CCPA, HIPAA, COPPA and the European GDPR.<h2 class="bb_tag">Current Limitations</h2><ul
+      class="bb_ul"><li>GUI is not available for OpenGL games (framerate control features
+      still work).<br></li><li>Latency control is not enabled for old DirectX 9 or
+      Vulkan games. May be enabled soon, depending on player interest.<br></li><li>GPU
+      status and overclocking features only available for AMD and NVIDIA cards.<br></li><li>Some
+      status data may be missing (e.g. most graphics cards don''t have a memory temperature
+      sensor).<br></li><li>Overclocking has some limitations described in the manual
+      (mostly driver-related).<br></li><li>Native UWP apps not supported (some apps
+      in the Windows Store).</li></ul><br>Additional gameplay features are currently
+      available under NDA. Send a message for demonstrations.'
+    developers:
+    - Disruptive Software
+    genres:
+    - description: Utilities
+      id: '57'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1120310/header.jpg?t=1592512958
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256776258
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776258/movie480.mp4?t=1582660182
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776258/movie_max.mp4?t=1582660182
+      name: Demonstration
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256776258/movie.293x165.jpg?t=1582660182
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776258/movie480.webm?t=1582660182
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776258/movie_max.webm?t=1582660182
+    name: Game Dashboard
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Game Dashboard - $4.99
+        packageid: 379723
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Game Dashboard
+    packages:
+    - 379723
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> Any x86 compatible
+        CPU<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong>
+        Any graphics card<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Vulkan, OpenGL, or DirectX 9 / 10 / 11 / 12 game(s)</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> Dual-core or better<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Graphics:</strong> AMD or NVIDIA graphics
+        card<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Vulkan driver 1.1 or higher</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Disruptive Software
+    release_date:
+      coming_soon: false
+      date: Aug 27, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_0370be45fbaf70452f9cbf13600e0336a5e1a5ee.1920x1080.jpg?t=1592512958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_0370be45fbaf70452f9cbf13600e0336a5e1a5ee.600x338.jpg?t=1592512958
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_4381ea4f9b0e24cf23ba6ecb1956c0b0f2de6846.1920x1080.jpg?t=1592512958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_4381ea4f9b0e24cf23ba6ecb1956c0b0f2de6846.600x338.jpg?t=1592512958
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_503868aa3931a691e3f808a7cf81552e2cc053e2.1920x1080.jpg?t=1592512958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_503868aa3931a691e3f808a7cf81552e2cc053e2.600x338.jpg?t=1592512958
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_48e7a9b4cd69517d0e65ff3d2da29093aa8270a4.1920x1080.jpg?t=1592512958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_48e7a9b4cd69517d0e65ff3d2da29093aa8270a4.600x338.jpg?t=1592512958
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_47de19e9facfbf0ae1815277c3cab2810d592495.1920x1080.jpg?t=1592512958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_47de19e9facfbf0ae1815277c3cab2810d592495.600x338.jpg?t=1592512958
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_780bc3dadefafbf5ceb3c53dff14577722fec096.1920x1080.jpg?t=1592512958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1120310/ss_780bc3dadefafbf5ceb3c53dff14577722fec096.600x338.jpg?t=1592512958
+    short_description: Practical overlay for games and other 3D applications, with
+      convenient in-game tweaks (smoothness, performance). Advanced framerate/latency
+      control; CPU and GPU status. For enthusiasts, professionals, developers...
+    steam_appid: 1120310
+    support_info:
+      email: ''
+      url: https://disruptivesoft.blogspot.com/p/contact.html
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ42ezyzfYCf72WvQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 1
+    total_positive: 7
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 1609383848
+      num_games_owned: 8
+      num_reviews: 3
+      playtime_at_review: 222
+      playtime_forever: 246
+      playtime_last_two_weeks: 23
+      steamid: '76561198829232929'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '83145695'
+    review: ruim
+    steam_purchase: true
+    timestamp_created: 1608931567
+    timestamp_updated: 1608931567
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

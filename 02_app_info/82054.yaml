@@ -1,0 +1,60 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Beenox
+    fullgame:
+      appid: '212580'
+      name: Uninitialized
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/82054/header.jpg?t=1447356703
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 82054
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82054/movie480.mp4?t=1447356703
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82054/movie_max.mp4?t=1447356703
+      name: Amazing Spiderman Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/82054/movie.293x165.jpg?t=1447356703
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82054/movie480.webm?t=1447356703
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82054/movie_max.webm?t=1447356703
+    name: Amazing Spiderman Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 21, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 82054
+    support_info:
+      email: ''
+      url: ''
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

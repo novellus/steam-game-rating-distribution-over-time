@@ -1,0 +1,186 @@
+details:
+  data:
+    about_the_game: The classic board game of all times, with gorgeous graphics, computer
+      opponent, and intuitive interface. Backgammon is a game of luck and strategy.
+      Beautiful handcrafted board and pieces are showcased in a 3D view with rotation
+      and zoom. With Backgammon you can test your playing skills against the computer,
+      or against friends or family on the same device.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/696110/page_bg_generated_v6b.jpg?t=1503935741
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The classic board game of all times, with gorgeous graphics,
+      computer opponent, and intuitive interface. Backgammon is a game of luck and
+      strategy. Beautiful handcrafted board and pieces are showcased in a 3D view
+      with rotation and zoom. With Backgammon you can test your playing skills against
+      the computer, or against friends or family on the same device.
+    developers:
+    - baKno Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/696110/header.jpg?t=1503935741
+    is_free: false
+    legal_notice: baKno Games. All rights reserved
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> 10.10 (Ubuntu)<br></li><li><strong>Processor:</strong>
+        Intel single core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        2004 GPU<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10.12
+        (Ubuntu)<br></li><li><strong>Processor:</strong> Intel multi core<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> 2010 GPU<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 400 MB
+        available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Mac OS X 10.6<br></li><li><strong>Processor:</strong>
+        Intel single core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        2004 GPU<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Mac
+        OS X 10.10<br></li><li><strong>Processor:</strong> Intel multi core<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> 2010 GPU<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 400 MB
+        available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256692417
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256692417/movie480.mp4?t=1502719452
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256692417/movie_max.mp4?t=1502719452
+      name: Backgammon Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256692417/movie.293x165.jpg?t=1502719452
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256692417/movie480.webm?t=1502719452
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256692417/movie_max.webm?t=1502719452
+    name: Backgammon
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Backgammon - $4.99
+        packageid: 200011
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Backgammon
+    packages:
+    - 200011
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> XP<br></li><li><strong>Processor:</strong>
+        Intel single core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        2004 GPU<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong>
+        Intel multi core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        2010 GPU<br></li><li><strong>DirectX:</strong> Version 7.0<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 400 MB
+        available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - baKno Games
+    release_date:
+      coming_soon: false
+      date: Aug 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_56df07014afa16a3c8b9fef1c9a5c8cd27a7702b.1920x1080.jpg?t=1503935741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_56df07014afa16a3c8b9fef1c9a5c8cd27a7702b.600x338.jpg?t=1503935741
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_9575dd455c3a2757ec1ce53b01275aaa5c632846.1920x1080.jpg?t=1503935741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_9575dd455c3a2757ec1ce53b01275aaa5c632846.600x338.jpg?t=1503935741
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_d993194ec17548caffa0d43e3b0f0301860be7b2.1920x1080.jpg?t=1503935741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_d993194ec17548caffa0d43e3b0f0301860be7b2.600x338.jpg?t=1503935741
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_bddbb914dfc81c24fa1f792f442775e630e8314d.1920x1080.jpg?t=1503935741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_bddbb914dfc81c24fa1f792f442775e630e8314d.600x338.jpg?t=1503935741
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_8e5cfb4c74c271c27ec3e7daba26eb3c8d233b61.1920x1080.jpg?t=1503935741
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/696110/ss_8e5cfb4c74c271c27ec3e7daba26eb3c8d233b61.600x338.jpg?t=1503935741
+    short_description: The classic board game of all times, with gorgeous graphics,
+      computer opponent, and intuitive interface.
+    steam_appid: 696110
+    support_info:
+      email: info@bakno.com
+      url: http://www.bakno.com/Support/index.html
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Arabic, Japanese, Korean, Portuguese, Portuguese - Brazil, Russian,
+      Simplified Chinese<br><strong>*</strong>languages with full audio support
+    type: game
+    website: http://www.bakno.com/Backgammon
+  success: true
+reviews:
+  cursor: AoJ46tyQrvYCefnpuQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 4
+    review_score_desc: Mostly Negative
+    total_negative: 10
+    total_positive: 5
+    total_reviews: 15
+  reviews:
+  - author:
+      last_played: 1607865522
+      num_games_owned: 34
+      num_reviews: 2
+      playtime_at_review: 1510
+      playtime_forever: 1510
+      playtime_last_two_weeks: 0
+      steamid: '76561197969057538'
+    comment_count: 0
+    language: norwegian
+    received_for_free: false
+    recommendationid: '82268057'
+    review: "D\xE5rligste spill ever. Fj\xE5sete design, flytting av brikker et marerit\
+      \ og idiotisk tregt. Styr langt unna !! Om spillet s\xE5 hadde v\xE6rt gratis\
+      \ s\xE5 er det bare irriterende..."
+    steam_purchase: true
+    timestamp_created: 1607865657
+    timestamp_updated: 1607865657
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

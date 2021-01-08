@@ -1,0 +1,263 @@
+details:
+  data:
+    about_the_game: Climbey is a VR-only climbing game!<br>The goal is to climb to
+      the finish as fast as you can, avoiding obstacles and trying not to fall along
+      the way.<br><br><strong>Features:</strong><br><ul class="bb_ul"><li>Physics-powered
+      climbing and jumping controls that are easy to grasp but hard to master!<br></li><li>15
+      built in intro levels!<br></li><li>A level editor with full workshop support
+      so you can create and share levels!<br></li><li>Online multiplayer with up to
+      <strong>10 people</strong>, including workshop level support! Race your friends!<br></li><li>Support
+      for custom skyboxes! Set it to whatever you like!<br></li><li>Optional comfort
+      settings for the motion sick prone among you, floor dots, fov reduction and
+      a spherical cage, more!</li></ul>
+    achievements:
+      highlighted:
+      - name: Walksalot
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/9a0874dac9b135a8cb35ed190b4b6acb9a4f0723.jpg
+      - name: Jumpey
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/5d650cd4bf1832238182ea1c148dc92653d47ded.jpg
+      - name: My First Jump
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/1fd0e0265bf05db18f1dd1c59f19e0201f76f930.jpg
+      - name: Community Builder
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/78586436d470afabaf9e72c5a2566bd8c64914d8.jpg
+      - name: Crack Shot
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/039a3677ba5c55af7f9a55f1b71c26bcb6316d95.jpg
+      - name: Pretty Good Jumper
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/240fd6f163a2680b4c4c2be684ecd611c2994b2a.jpg
+      - name: Master jumper
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/383a198dd0a5f2de1eacafcf6a6a8aa536cb7eb0.jpg
+      - name: Highfiver
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/520010/67459cf5e94adf819aa611dcddbdee3a4083ae82.jpg
+      total: 8
+    background: https://steamcdn-a.akamaihd.net/steam/apps/520010/page_bg_generated_v6b.jpg?t=1568742036
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Steam Workshop
+      id: 30
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 535810
+      description: ''
+    detailed_description: Climbey is a VR-only climbing game!<br>The goal is to climb
+      to the finish as fast as you can, avoiding obstacles and trying not to fall
+      along the way.<br><br><strong>Features:</strong><br><ul class="bb_ul"><li>Physics-powered
+      climbing and jumping controls that are easy to grasp but hard to master!<br></li><li>15
+      built in intro levels!<br></li><li>A level editor with full workshop support
+      so you can create and share levels!<br></li><li>Online multiplayer with up to
+      <strong>10 people</strong>, including workshop level support! Race your friends!<br></li><li>Support
+      for custom skyboxes! Set it to whatever you like!<br></li><li>Optional comfort
+      settings for the motion sick prone among you, floor dots, fov reduction and
+      a spherical cage, more!</li></ul>
+    developers:
+    - Brian Lindenhof
+    genres:
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/520010/header.jpg?t=1568742036
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256672282
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256672282/movie480.mp4?t=1561376196
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256672282/movie_max.mp4?t=1561376196
+      name: Gameplay trailer 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256672282/movie.293x165.jpg?t=1561376196
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256672282/movie480.webm?t=1561376196
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256672282/movie_max.webm?t=1561376196
+    - highlight: true
+      id: 256754394
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256754394/movie480.mp4?t=1561461820
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256754394/movie_max.mp4?t=1561461820
+      name: Workshop trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256754394/movie.293x165.jpg?t=1561461820
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256754394/movie480.webm?t=1561461820
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256754394/movie_max.webm?t=1561461820
+    name: Climbey
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Climbey - $9.99
+        packageid: 123040
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Climbey
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $19.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$19.99 at checkout,
+          auto-renewed every 1 month(s) at $19.99.</p>
+        option_text: $19.99 / month
+        packageid: 141713
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Climbey Subscription Plan
+    packages:
+    - 123040
+    - 141713
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        Any i5 or Ryzen 5<br></li><li><strong>Graphics:</strong> NVidia Geforce GTX
+        1050 Ti<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Additional disk space required for user created content.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        Any i7 or Ryzen 7<br></li><li><strong>Graphics:</strong> NVidia Geforce GTX
+        1070<br></li><li><strong>Storage:</strong> 700 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Additional disk space required for user created content.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ShadowBrain Games
+    recommendations:
+      total: 918
+    release_date:
+      coming_soon: false
+      date: Oct 25, 2016
+    required_age: 0
+    reviews: "\u201CClimbey feels like a breath of fresh air for my VR library. I\
+      \ didn\u2019t realize I\u2019d missed rock climbing until playing it and seeing\
+      \ these massive courses jet off into the sky. Moving platforms, obstacles, pitfalls\
+      \ and creative jumping made me feel like I was playing something like VR Mario\
+      \ Maker.\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.vrfitnessinsider.com/climbey-a-speedrunners-dream-vr-workout/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >VR Fitness Insider</a><br><br>\u201C\
+      Climbey is a casual and fun experience that is just as fun to play alone as\
+      \ it is to bring out at a social gathering, especially to watch those who have\
+      \ never been inside a VR headset.\u201D<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.thevrgrid.com/climbey/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >The VR Grid</a><br><br>\u201CIt\u2019\
+      s an excellent VR game and I think you\u2019ll enjoy it. It\u2019s simple, mostly\
+      \ polished, fun, replayable, challenging, and rewarding.\u201D<br><a href=\"\
+      https://steamcommunity.com/linkfilter/?url=https://www.spawnroom.com/virtual-reality/climbey-vr-review-on-htc-vive/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >The Spawn Room</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_2780cf1736efebfb1751268beb10652745f5cc06.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_2780cf1736efebfb1751268beb10652745f5cc06.600x338.jpg?t=1568742036
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_81982fbd16f4c7204d8b3f37a7c0b9245042b650.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_81982fbd16f4c7204d8b3f37a7c0b9245042b650.600x338.jpg?t=1568742036
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_484bb4a11d627a99f391b952e9e8dc84724c1a96.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_484bb4a11d627a99f391b952e9e8dc84724c1a96.600x338.jpg?t=1568742036
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_4e336e23b4fc3d54d1713797fd4f7fb902bada19.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_4e336e23b4fc3d54d1713797fd4f7fb902bada19.600x338.jpg?t=1568742036
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_5ee28cc3a1e77d9c53822d0aaf9f23b9330a062d.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_5ee28cc3a1e77d9c53822d0aaf9f23b9330a062d.600x338.jpg?t=1568742036
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_7396c054c09117efb5e66e58389b2e0964f11b11.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_7396c054c09117efb5e66e58389b2e0964f11b11.600x338.jpg?t=1568742036
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_92006438e0c4b875cd825e22175d28f5444a8f7f.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_92006438e0c4b875cd825e22175d28f5444a8f7f.600x338.jpg?t=1568742036
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_89e114067c5dde6a86e020d762421c4480eec256.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_89e114067c5dde6a86e020d762421c4480eec256.600x338.jpg?t=1568742036
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_b4759ea12c646f2f9c3aa8c18848c660e02e1a35.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_b4759ea12c646f2f9c3aa8c18848c660e02e1a35.600x338.jpg?t=1568742036
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_9dfaa3795f1e82a1a9ec25181bd5bd6347b0e35f.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_9dfaa3795f1e82a1a9ec25181bd5bd6347b0e35f.600x338.jpg?t=1568742036
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_0cd5d140c30007b84fbe22d9268b99dd7f92c169.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_0cd5d140c30007b84fbe22d9268b99dd7f92c169.600x338.jpg?t=1568742036
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_f8b1db908dac04dc8daac75efa16c353b0604191.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_f8b1db908dac04dc8daac75efa16c353b0604191.600x338.jpg?t=1568742036
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_a3e1368f7773e4774e0ec27d9a2157f17486c85f.1920x1080.jpg?t=1568742036
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/520010/ss_a3e1368f7773e4774e0ec27d9a2157f17486c85f.600x338.jpg?t=1568742036
+    short_description: Climbey is a VR-only climbing game! The goal is to climb to
+      the finish as fast as you can, avoiding obstacles and trying not to fall along
+      the way.
+    steam_appid: 520010
+    support_info:
+      email: support@shadowbrain.net
+      url: http://www.shadowbrain.net/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ49+fD6vYCc5zuwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 69
+    total_positive: 849
+    total_reviews: 918
+  reviews:
+  - author:
+      last_played: 1609427814
+      num_games_owned: 150
+      num_reviews: 34
+      playtime_at_review: 27
+      playtime_forever: 27
+      playtime_last_two_weeks: 27
+      steamid: '76561197990846700'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84111811'
+    review: Brilliant
+    steam_purchase: true
+    timestamp_created: 1609892315
+    timestamp_updated: 1609892315
+    voted_up: true
+    votes_funny: 1
+    votes_up: 14
+    weighted_vote_score: '0.615311682224273682'
+    written_during_early_access: true
+  success: 1

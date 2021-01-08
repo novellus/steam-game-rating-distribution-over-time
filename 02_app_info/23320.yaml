@@ -1,0 +1,68 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - SQUARE ENIX
+    fullgame:
+      appid: '23300'
+      name: "Yosumin!\u2122"
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/23320/header.jpg?t=1447351687
+    is_free: true
+    legal_notice: "Copyright: \xA92009 SQUARE ENIX Co., Ltd. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: "Yosumin!\u2122 Demo"
+    package_groups: []
+    pc_requirements:
+      minimum: "                    \n\t\t\t\t\t<ul>\n                    <li><strong>Operating\
+        \ System: </strong>Microsoft\xAE Windows\xAE XP/Vista</li>\n             \
+        \       <li><strong>Processor: </strong>800 Mhz</li>\n                   \
+        \ <li><strong>Memory: </strong>512 MB RAM</li>\n                    <li><strong>Hard\
+        \ Disk Space: </strong>65 MB</li>\n                    <li><strong>Video Card:\
+        \ </strong>On Board Video Card</li>\n                    <li><strong>Sound\
+        \ Card: </strong>DirectX 9.0 Compatible</li>\n                    <li><strong>DirectX\xAE\
+        \ Version: </strong>DirectX\xAE 9.0c\uFF082007 Nov or later\uFF09</li>\n \
+        \                   </ul>\n\t\t\t\t\t"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - SQUARE ENIX, Eidos Interactive
+    release_date:
+      coming_soon: false
+      date: May 26, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 23320
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish, Japanese
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

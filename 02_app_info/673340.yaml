@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: "Reference book of Red Spider Series. (PDF, written in Japanese)<br\
+      \ />\r\nContents:<br />\r\n-All Charatcer Sheets<br />\r\n-History<br />\r\n\
+      -Map<br />\r\n-Translator's Comments<br />\r\netc<br />\r\nNumber of pages:298<br\
+      \ />\r\nThis PDF is also included in OST."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/673340/page_bg_generated_v6b.jpg?t=1575714236
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Reference book of Red Spider Series. (PDF, written in Japanese)<br\
+      \ />\r\nContents:<br />\r\n-All Charatcer Sheets<br />\r\n-History<br />\r\n\
+      -Map<br />\r\n-Translator's Comments<br />\r\netc<br />\r\nNumber of pages:298<br\
+      \ />\r\nThis PDF is also included in OST."
+    developers:
+    - studio wasp
+    fullgame:
+      appid: '537130'
+      name: 'Red Spider: Vengeance'
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/673340/header.jpg?t=1575714236
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        any<br></li><li><strong>Processor:</strong> any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS<br></li><li><strong>Processor:</strong> any</li></ul>
+    name: Red Spider Chronicle
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Red Spider Chronicle - $1.99
+        packageid: 191667
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Red Spider Chronicle
+    packages:
+    - 191667
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows<br></li><li><strong>Processor:</strong> any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - studio wasp
+    release_date:
+      coming_soon: false
+      date: Jul 7, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_7a2f868dbc3d3a97b53a4dfc92c4e8cd1ed88aaa.1920x1080.jpg?t=1575714236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_7a2f868dbc3d3a97b53a4dfc92c4e8cd1ed88aaa.600x338.jpg?t=1575714236
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_cea56d33e3074eaab23010f46a071aba144810f7.1920x1080.jpg?t=1575714236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_cea56d33e3074eaab23010f46a071aba144810f7.600x338.jpg?t=1575714236
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_77aa41b9ff30d4070cefe305d0ffb1a9c1aa3809.1920x1080.jpg?t=1575714236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_77aa41b9ff30d4070cefe305d0ffb1a9c1aa3809.600x338.jpg?t=1575714236
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_d9a1b0daf28c3d1c0fe5fb27797931ad550c022f.1920x1080.jpg?t=1575714236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_d9a1b0daf28c3d1c0fe5fb27797931ad550c022f.600x338.jpg?t=1575714236
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_50321a79a23a61a70cdebc702f53680bfade9737.1920x1080.jpg?t=1575714236
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/673340/ss_50321a79a23a61a70cdebc702f53680bfade9737.600x338.jpg?t=1575714236
+    short_description: Reference book of Red Spider Series. (PDF, written in Japanese)
+      Number of pages:298 This PDF is also included in OST.
+    steam_appid: 673340
+    support_info:
+      email: wasp@rpgdl.org
+      url: http://www.rpgdl.org/wasp/
+    supported_languages: Japanese
+    type: dlc
+    website: http://www.rpgdl.org/wasp/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

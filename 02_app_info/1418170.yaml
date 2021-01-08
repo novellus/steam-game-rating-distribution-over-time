@@ -1,0 +1,135 @@
+details:
+  data:
+    about_the_game: 'Featuring music rearranged by BAFTA award-winning composer James
+      Hannigan (Harry Potter, Command &amp; Conquer, Dead Space 3) and performed by
+      The Philharmonia Orchestra at the world-renowned Abbey Road Studios in December
+      2017 and by the Slovak National Symphony Orchestra in Bratislava in 2012, RuneScape:
+      The Orchestral Collection takes listeners on a classical journey to the fantasy
+      world of Gielinor. The tracks from the Abbey Road sessions are all new compositions
+      or new arrangements of classic tracks, with many making their debut on the album.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1418170/page_bg_generated_v6b.jpg?t=1602752354
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Featuring music rearranged by BAFTA award-winning composer
+      James Hannigan (Harry Potter, Command &amp; Conquer, Dead Space 3) and performed
+      by The Philharmonia Orchestra at the world-renowned Abbey Road Studios in December
+      2017 and by the Slovak National Symphony Orchestra in Bratislava in 2012, RuneScape:
+      The Orchestral Collection takes listeners on a classical journey to the fantasy
+      world of Gielinor. The tracks from the Abbey Road sessions are all new compositions
+      or new arrangements of classic tracks, with many making their debut on the album.'
+    developers:
+    - Jagex
+    fullgame:
+      appid: '1343400'
+      name: "RuneScape \xAE"
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1418170/header.jpg?t=1602752354
+    is_free: false
+    legal_notice: "Jagex\xAE, RuneScape\xAE and Old School RuneScape\xAE are registered\
+      \ and/or unregistered trade marks of Jagex Limited in the United Kingdom, the\
+      \ United States and other countries."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'RuneScape: The Orchestral Collection'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: RuneScape Standard Pack - $39.99
+        packageid: 491843
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3999
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: RuneScape Max Pack - $129.99
+        packageid: 491846
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 12999
+      title: 'Buy RuneScape: The Orchestral Collection'
+    packages:
+    - 491843
+    - 491846
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        246 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 1200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Jagex
+    release_date:
+      coming_soon: false
+      date: Oct 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1418170/ss_3dbae5c611750ef9cf8af97ea9866f163ec4a71f.1920x1080.jpg?t=1602752354
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1418170/ss_3dbae5c611750ef9cf8af97ea9866f163ec4a71f.600x338.jpg?t=1602752354
+    short_description: 'Featuring music rearranged by James Hannigan, RuneScape: The
+      Orchestral Collection takes listeners on a journey to the fantasy world of Gielinor.
+      The tracks from the Abbey Road sessions are all new compositions or new arrangements
+      of classic tracks, with many making their debut on the album.'
+    steam_appid: 1418170
+    support_info:
+      email: ''
+      url: https://support.runescape.com
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwp66GsvYCdt+ougI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 4
+    total_positive: 3
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 732
+      num_reviews: 232
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197960940977'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82396662'
+    review: "Badly overpriced at \xA324.99.\n\nThey left out the Al Kharid theme,\
+      \ and possibly one of the most loved video game themes ever composed (Sea Shanty\
+      \ 2) so they certainly could have offered more value to this collection.\n\n\
+      I couldn't find the album in my Steam library [i]or[/i] the Steam music player\
+      \ after downloading it, so I had to find them in C:\\Program Files (x86)\\Steam\\\
+      steamapps\\music and then tried them in Winamp, then noticed that the tracks\
+      \ miss details like year, genre, album name, and even track listing. \n\nI'd\
+      \ love to say that atleast the bitrate was good, but it's actually about 4x\
+      \ too high (at 1 GB) which isn't great for downloading and storing music that\
+      \ you're not going to play often. You'd be saving yourself some money and hard\
+      \ drive space if you just made a YouTube playlist - and you could even throw\
+      \ Sea Shanty 2 in there..."
+    steam_purchase: true
+    timestamp_created: 1607997158
+    timestamp_updated: 1607997158
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.515151500701904297'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,85 @@
+details:
+  data:
+    about_the_game: The Demo of <strong>NUMTATE</strong>. Includes 10 levels of the
+      full game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1246430/page_bg_generated_v6b.jpg?t=1581548438
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Demo of <strong>NUMTATE</strong>. Includes 10 levels
+      of the full game.
+    developers:
+    - Michael Maas
+    fullgame:
+      appid: '1234160'
+      name: NUMTATE
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1246430/header.jpg?t=1581548438
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: NUMTATE Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Michael Maas
+    release_date:
+      coming_soon: false
+      date: Feb 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_7e9b1edf7d626ceb09a55e241bbf7aea829547ad.1920x1080.jpg?t=1581548438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_7e9b1edf7d626ceb09a55e241bbf7aea829547ad.600x338.jpg?t=1581548438
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_36cc32b9e6546b90cd728e5b69d92cf90a50a39e.1920x1080.jpg?t=1581548438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_36cc32b9e6546b90cd728e5b69d92cf90a50a39e.600x338.jpg?t=1581548438
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_140304e72076a182e2649684379ff1ff1df5b240.1920x1080.jpg?t=1581548438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_140304e72076a182e2649684379ff1ff1df5b240.600x338.jpg?t=1581548438
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_a6992625d9d98445fc2037fedce77a477a53ad73.1920x1080.jpg?t=1581548438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_a6992625d9d98445fc2037fedce77a477a53ad73.600x338.jpg?t=1581548438
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_54e0816475a2a2ef124011b490bdef40fec1762d.1920x1080.jpg?t=1581548438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1246430/ss_54e0816475a2a2ef124011b490bdef40fec1762d.600x338.jpg?t=1581548438
+    short_description: This Demo of NUMTATE includes 10 level of the full game.
+    steam_appid: 1246430
+    support_info:
+      email: mmaas.games@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

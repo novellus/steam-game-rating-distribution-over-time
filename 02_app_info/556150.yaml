@@ -1,0 +1,139 @@
+details:
+  data:
+    about_the_game: Variable-Rate Shading (VRS) is a new feature in DirectX 12 that
+      allows developers to improve performance by selectively reducing the level of
+      detail in parts of the frame where there will be little noticeable effect on
+      image quality.<br><br>There are two tiers of VRS support. With Tier 1, developers
+      can specify a different shading rate for each draw call. Tier 2 adds more flexibility
+      and control by allowing different shading rates within each draw call.<br><br>This
+      3DMark feature test helps you compare differences in performance and image quality
+      when using Tier 1 or Tier 2 Variable-Rate Shading. There is also an interactive
+      mode for experimenting with different VRS settings and exporting frames for
+      comparison.<br><br><ul class="bb_ul"><li>Compare performance and image quality
+      with Variable-Rate Shading. <br></li><li>Separate tests for Tier 1 and Tier
+      2. <br></li><li>DirectX 12 API implementation for impartial results.<br></li><li>Interactive
+      mode for experimenting with VRS settings.</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/556150/page_bg_generated_v6b.jpg?t=1579598961
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Variable-Rate Shading (VRS) is a new feature in DirectX
+      12 that allows developers to improve performance by selectively reducing the
+      level of detail in parts of the frame where there will be little noticeable
+      effect on image quality.<br><br>There are two tiers of VRS support. With Tier
+      1, developers can specify a different shading rate for each draw call. Tier
+      2 adds more flexibility and control by allowing different shading rates within
+      each draw call.<br><br>This 3DMark feature test helps you compare differences
+      in performance and image quality when using Tier 1 or Tier 2 Variable-Rate Shading.
+      There is also an interactive mode for experimenting with different VRS settings
+      and exporting frames for comparison.<br><br><ul class="bb_ul"><li>Compare performance
+      and image quality with Variable-Rate Shading. <br></li><li>Separate tests for
+      Tier 1 and Tier 2. <br></li><li>DirectX 12 API implementation for impartial
+      results.<br></li><li>Interactive mode for experimenting with VRS settings.</li></ul>
+    developers:
+    - UL
+    fullgame:
+      appid: '223850'
+      name: 3DMark
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/556150/header.jpg?t=1579598961
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 3DMark VRS feature test
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 3DMark - $29.99
+        packageid: 323175
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy 3DMark VRS feature test
+    packages:
+    - 323175
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10 version 1903 or later<br>\t</li><li><strong>Processor:</strong>Dual-core\
+        \ processor<br>\t</li><li><strong>Memory:</strong>4 GB<br>\t</li><li><strong>Graphics:</strong>DirectX\
+        \ 12*<br>\t</li><li><strong>Video memory:</strong>1 GB<br>\t</li><li><strong>Storage:</strong>720\
+        \ MB</li></ul><br>* To run the Tier 1 test you need a DirectX 12 GPU that\
+        \ supports Tier 1 Variable-Rate Shading. You need a GPU that supports Tier\
+        \ 2 Variable-Rate Shading to run the Tier 2 test."
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - UL
+    release_date:
+      coming_soon: false
+      date: Aug 26, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_61880f6b4cc2ebf9701a41cb0497a2278f986d18.1920x1080.jpg?t=1579598961
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_61880f6b4cc2ebf9701a41cb0497a2278f986d18.600x338.jpg?t=1579598961
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_7bf65a535a64aeddbcb6355a1817e00c3bcbe21f.1920x1080.jpg?t=1579598961
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_7bf65a535a64aeddbcb6355a1817e00c3bcbe21f.600x338.jpg?t=1579598961
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_a6f019af6c81a0c14668ea99c1cdcec89480e769.1920x1080.jpg?t=1579598961
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_a6f019af6c81a0c14668ea99c1cdcec89480e769.600x338.jpg?t=1579598961
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_415e9f5ca321bd548a72640ff75da5492e84f4e0.1920x1080.jpg?t=1579598961
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_415e9f5ca321bd548a72640ff75da5492e84f4e0.600x338.jpg?t=1579598961
+    short_description: Test variable-rate shading performance and image quality.
+    steam_appid: 556150
+    support_info:
+      email: ''
+      url: https://benchmarks.ul.com/support
+    supported_languages: English, German, Simplified Chinese, Russian, Japanese, Korean,
+      Spanish - Spain, Traditional Chinese
+    type: dlc
+    website: https://benchmarks.ul.com/3dmark
+  success: true
+reviews:
+  cursor: AoJ44+fn6PYCdbvRwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 0
+    total_positive: 7
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 55
+      num_reviews: 93
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198184955086'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '84052917'
+    review: 3000+ fps
+    steam_purchase: true
+    timestamp_created: 1609834643
+    timestamp_updated: 1609834643
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

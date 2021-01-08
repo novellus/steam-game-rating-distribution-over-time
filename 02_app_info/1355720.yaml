@@ -1,0 +1,178 @@
+details:
+  data:
+    about_the_game: "HENOSIS\u2122 is a mysterious 2D Platform Puzzler where players\
+      \ are propelled into weird and visceral worlds as they take control of a small,\
+      \ droplet of water while overcoming obstacles and enemies throughout each level.<br><br>The\
+      \ Player must venture through each world as it collects precious water tokens\
+      \ in order open the exit portal and restore vitality to its drought-ridden home\
+      \ world.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Traverse\
+      \ your way through 27 hand-crafted levels<br></li><li>Unique player mechanics<br></li><li>Battle\
+      \ menacing bosses across 3 distinct worlds<br></li><li>Original artwork &amp;\
+      \ animation<br></li><li>Full controller support*</li></ul><br>*While it is possible\
+      \ to leverage a keyboard, player manoeuvrability does require a fair bit of\
+      \ accuracy so we recommend that you use an Xbox Controller or similar model\
+      \ instead."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1355720/page_bg_generated_v6b.jpg?t=1603157689
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    demos:
+    - appid: 1368600
+      description: Download Demo
+    detailed_description: "HENOSIS\u2122 is a mysterious 2D Platform Puzzler where\
+      \ players are propelled into weird and visceral worlds as they take control\
+      \ of a small, droplet of water while overcoming obstacles and enemies throughout\
+      \ each level.<br><br>The Player must venture through each world as it collects\
+      \ precious water tokens in order open the exit portal and restore vitality to\
+      \ its drought-ridden home world.<h2 class=\"bb_tag\">Features:</h2><ul class=\"\
+      bb_ul\"><li>Traverse your way through 27 hand-crafted levels<br></li><li>Unique\
+      \ player mechanics<br></li><li>Battle menacing bosses across 3 distinct worlds<br></li><li>Original\
+      \ artwork &amp; animation<br></li><li>Full controller support*</li></ul><br>*While\
+      \ it is possible to leverage a keyboard, player manoeuvrability does require\
+      \ a fair bit of accuracy so we recommend that you use an Xbox Controller or\
+      \ similar model instead."
+    developers:
+    - Odd Critter Games
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1355720/header.jpg?t=1603157689
+    is_free: false
+    legal_notice: "\xA9 Odd Critter Games 2020 | HENOSIS\u2122 is a trademark of Andrew\
+      \ Gavin Taylor"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 16.04+<br></li><li><strong>Processor:</strong>
+        SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        2500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Any
+        modern x64 bit OS<br></li><li><strong>Processor:</strong> 1.1 GHz Processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>Storage:</strong> 2500 MB available
+        space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> macOS 10.12+<br></li><li><strong>Processor:</strong>
+        SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Any
+        modern OS<br></li><li><strong>Processor:</strong> 1.1 GHz Processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>Storage:</strong> 500 MB available
+        space</li></ul>
+    movies:
+    - highlight: true
+      id: 256790248
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256790248/movie480.mp4?t=1595516200
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256790248/movie_max.mp4?t=1595516200
+      name: 'Henosis: Official Launch Trailer'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256790248/movie.293x165.jpg?t=1595516200
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256790248/movie480_vp9.webm?t=1595516200
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256790248/movie_max_vp9.webm?t=1595516200
+    name: "Henosis\u2122"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Henosis - $9.99
+        packageid: 475090
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: "Buy Henosis\u2122"
+    packages:
+    - 475090
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>Storage:</strong> 2500 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Any
+        modern x64 bit OS<br></li><li><strong>Processor:</strong> 1.1 GHz Processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>Storage:</strong> 2500 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Odd Critter Games
+    release_date:
+      coming_soon: false
+      date: Jul 23, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_20bbae2d9d5aaa2f043f372a551faabc0c47b0b4.1920x1080.jpg?t=1603157689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_20bbae2d9d5aaa2f043f372a551faabc0c47b0b4.600x338.jpg?t=1603157689
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_45d90ffc0c8eb4f59ad8fae2acf5bfad8fd22560.1920x1080.jpg?t=1603157689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_45d90ffc0c8eb4f59ad8fae2acf5bfad8fd22560.600x338.jpg?t=1603157689
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_51c204dceb89591910a9627ad39f994ea99af606.1920x1080.jpg?t=1603157689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_51c204dceb89591910a9627ad39f994ea99af606.600x338.jpg?t=1603157689
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_43b160e81517e70faaa4aa0f47a7695cd98453e7.1920x1080.jpg?t=1603157689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_43b160e81517e70faaa4aa0f47a7695cd98453e7.600x338.jpg?t=1603157689
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_d471414fcb5b734a198533f7d068e1931b778546.1920x1080.jpg?t=1603157689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_d471414fcb5b734a198533f7d068e1931b778546.600x338.jpg?t=1603157689
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_64739e5a9a48355814505d85203f9fd6521564ca.1920x1080.jpg?t=1603157689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1355720/ss_64739e5a9a48355814505d85203f9fd6521564ca.600x338.jpg?t=1603157689
+    short_description: "HENOSIS\u2122 is a mysterious 2D Platform Puzzler where players\
+      \ are propelled into weird and visceral worlds as they take control of a small,\
+      \ droplet of water while overcoming obstacles and enemies throughout each level."
+    steam_appid: 1355720
+    support_info:
+      email: info@henosisgame.com
+      url: https://henosisgame.com/
+    supported_languages: English
+    type: game
+    website: https://henosisgame.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

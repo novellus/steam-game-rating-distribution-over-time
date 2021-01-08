@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: "The musical legacy of Langrisser I &amp; II is yours to command!\
+      \ Download the special music DLC bundle and choose your own in-game music from\
+      \ these additional soundtracks that span the entirety of Langrisser's history!<br\
+      \ />\r\n<br />\r\n- 1993-96 Ver.<br />\r\n- 1995 Ver.<br />\r\n- 1997 Ver.<br\
+      \ />\r\n- 1998 Ver."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1205510/page_bg_generated_v6b.jpg?t=1583859617
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The musical legacy of Langrisser I &amp; II is yours to\
+      \ command! Download the special music DLC bundle and choose your own in-game\
+      \ music from these additional soundtracks that span the entirety of Langrisser's\
+      \ history!<br />\r\n<br />\r\n- 1993-96 Ver.<br />\r\n- 1995 Ver.<br />\r\n\
+      - 1997 Ver.<br />\r\n- 1998 Ver."
+    developers:
+    - Chara-ani Corporation
+    fullgame:
+      appid: '1060220'
+      name: Langrisser I & II
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1205510/header.jpg?t=1583859617
+    is_free: false
+    legal_notice: "\xA9extreme / \xA9Chara-ani Corporation <br />\r\nLicensed to and\
+      \ published by NIS America, Inc."
+    linux_requirements: []
+    mac_requirements: []
+    name: Langrisser I & II - Legacy BGM Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Langrisser I & II - Legacy BGM Pack - <span class="discount_original_price">$9.99</span>
+          $5.99
+        packageid: 416303
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 599
+      title: Buy Langrisser I & II - Legacy BGM Pack
+    packages:
+    - 416303
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 599
+      final_formatted: $5.99
+      initial: 999
+      initial_formatted: $9.99
+    publishers:
+    - NIS America, Inc.
+    release_date:
+      coming_soon: false
+      date: Mar 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1205510/ss_72fec5c41d7bb139443e97a4c4feb5a4e09c9c33.1920x1080.jpg?t=1583859617
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1205510/ss_72fec5c41d7bb139443e97a4c4feb5a4e09c9c33.600x338.jpg?t=1583859617
+    short_description: 'Download this special music DLC bundle of in-game tracks that
+      span the entirety of Langrisser''s history! The following soundtrack versions
+      are included: 1993-96, 1995, 1997, 1998.'
+    steam_appid: 1205510
+    support_info:
+      email: ''
+      url: http://nisamerica.com/index.php?nav=s
+    supported_languages: English, Japanese, Korean, Traditional Chinese
+    type: dlc
+    website: https://nisamerica.com/langrisser-1-2/
+  success: true
+reviews:
+  cursor: AoJwwaTP6PACfqHb9wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1909
+      num_reviews: 446
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197962082784'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '64936478'
+    review: 'The game comes with the old Genesis soundtrack for free as well as the
+      updated soundtrack, which is quite good in and of itself.
+
+
+      For this, you are getting, and I could be wrong here, the SNES, Saturn, and
+      Playstation soundtracks.'
+    steam_purchase: true
+    timestamp_created: 1584058410
+    timestamp_updated: 1584058410
+    voted_up: true
+    votes_funny: 0
+    votes_up: 5
+    weighted_vote_score: '0.587242960929870605'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/522335/page_bg_generated_v6b.jpg?t=1476370794
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Flying Wild Hog
+    fullgame:
+      appid: '324800'
+      name: Shadow Warrior 2
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/522335/header.jpg?t=1476370794
+    is_free: false
+    legal_notice: Copyright 2016 Flying Wild Hog. All Rights Reserved.
+    linux_requirements: []
+    mac_requirements: []
+    name: Shadow Warrior 2 - Digital Artbook
+    package_groups: []
+    packages:
+    - 124034
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Devolver Digital
+    release_date:
+      coming_soon: false
+      date: Oct 13, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522335/ss_1546e864b0f189e3d6997363687001169efeea9c.1920x1080.jpg?t=1476370794
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522335/ss_1546e864b0f189e3d6997363687001169efeea9c.600x338.jpg?t=1476370794
+    short_description: ''
+    steam_appid: 522335
+    support_info:
+      email: ''
+      url: www.flyingwildhog.com
+    supported_languages: English<strong>*</strong>, German<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.shadowwarrior.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

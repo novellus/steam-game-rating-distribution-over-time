@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: "From the world of Quantum Protocol comes IDOL, everyone's favorite\
+      \ pop star!<br />\r\nThis collection includes all the original music from Quantum\
+      \ Protocol.<br />\r\n<br />\r\nAlso includes full-size wallpaper of the album\
+      \ art!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1456450/page_bg_generated_v6b.jpg?t=1604534399
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "From the world of Quantum Protocol comes IDOL, everyone's\
+      \ favorite pop star!<br />\r\nThis collection includes all the original music\
+      \ from Quantum Protocol.<br />\r\n<br />\r\nAlso includes full-size wallpaper\
+      \ of the album art!"
+    developers:
+    - Kaio Meris
+    fullgame:
+      appid: '1328530'
+      name: Quantum Protocol
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1456450/header.jpg?t=1604534399
+    is_free: false
+    legal_notice: "Quantum Protocol uses Unreal\xAE Engine. Unreal\xAE is a trademark\
+      \ or registered trademark of Epic Games, Inc. in the United States of America\
+      \ and elsewhere. Unreal\xAE Engine, Copyright 1998 \u2013 2020, Epic Games,\
+      \ Inc. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256805926
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256805926/movie480.mp4?t=1603512463
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256805926/movie_max.mp4?t=1603512463
+      name: Sample2
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256805926/movie.293x165.jpg?t=1603512463
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256805926/movie480_vp9.webm?t=1603512463
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256805926/movie_max_vp9.webm?t=1603512463
+    name: Quantum Protocol Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Quantum Protocol Soundtrack - $3.99
+        packageid: 512746
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Quantum Protocol Soundtrack
+    packages:
+    - 512746
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        120 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 320 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Kaio Meris
+    release_date:
+      coming_soon: false
+      date: Nov 4, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1456450/ss_cca40777e6b5465aace88ccd957cb2efe7b72696.1920x1080.jpg?t=1604534399
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1456450/ss_cca40777e6b5465aace88ccd957cb2efe7b72696.600x338.jpg?t=1604534399
+    short_description: From the world of Quantum Protocol comes IDOL, everyone's favorite
+      pop star! This collection includes all the original music from Quantum Protocol.
+    steam_appid: 1456450
+    support_info:
+      email: contact@kaiomeris.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4wevigPYCffCXsQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 140
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198060035820'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '80002829'
+    review: This album slaps
+    steam_purchase: true
+    timestamp_created: 1606343679
+    timestamp_updated: 1606343679
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.563758373260498047'
+    written_during_early_access: false
+  success: 1

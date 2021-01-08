@@ -1,0 +1,185 @@
+details:
+  data:
+    about_the_game: "Forgotten Ball is a minimalist abstract platformer in an open\
+      \ world.<br />\r\n<br />\r\nMoving in 2.5 dimensions (well, 3) the ball must\
+      \ ascend a tower with little clues of who it came to be, or why the ball is\
+      \ there. Red primitives patrol the world, set out to stop ball wherever they\
+      \ can.<br />\r\n<br />\r\nForgotten Ball features a unique automatic world rotation\
+      \ ability, where the world rotates 90 degrees to allow the ball to travel along\
+      \ a new plane. It's cool."
+    achievements:
+      highlighted:
+      - name: Ball 01
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/86c591791b395e374ccf95950b45b00f38d4df8f.jpg
+      - name: Ball 02
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/5d79b0f07e1888f8224d6358130565a0db9406fb.jpg
+      - name: Ball 03
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/f7e6966ea71d6c20c47b2808a6e375484374a32e.jpg
+      - name: Ball 04
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/7ccb04794af76fc5887a9e1647733e2501b9d29f.jpg
+      - name: Ball 05
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/57d6218b3b28f2365bd9cf9c69105fb5c9e8ce84.jpg
+      - name: Ball 06
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/0993a4976bc0db1dd81b160e4534dcf7d8418023.jpg
+      - name: Ball 07
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/7042c38fbdbb0f7d8ff8be61b41e04ba077fe0af.jpg
+      - name: Ball 08
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/ac3b844c428adccd914d6a43d1099397aa7b3026.jpg
+      - name: Ball 09
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/076781cc9ad79061c8d1510b793e294fdfa29bb6.jpg
+      - name: Ball 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/434700/1aaae326bbe9100e5267b6d1b8b729994fda22cc.jpg
+      total: 27
+    background: https://steamcdn-a.akamaihd.net/steam/apps/434700/page_bg_generated_v6b.jpg?t=1598164083
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Forgotten Ball is a minimalist abstract platformer in an\
+      \ open world.<br />\r\n<br />\r\nMoving in 2.5 dimensions (well, 3) the ball\
+      \ must ascend a tower with little clues of who it came to be, or why the ball\
+      \ is there. Red primitives patrol the world, set out to stop ball wherever they\
+      \ can.<br />\r\n<br />\r\nForgotten Ball features a unique automatic world rotation\
+      \ ability, where the world rotates 90 degrees to allow the ball to travel along\
+      \ a new plane. It's cool."
+    developers:
+    - littleGigantic
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/434700/header.jpg?t=1598164083
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+<br></li><li><strong>Processor:</strong> Pentium(R) Dual-Core
+        CPU T4200 @ 2.00GHz x 2<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Additional Notes:</strong> Simple
+        settings.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX<br></li><li><strong>Processor:</strong> Intel Core 2 Duo processor<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Simple settings.</li></ul>
+    movies:
+    - highlight: true
+      id: 256660682
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256660682/movie480.mp4?t=1456391093
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256660682/movie_max.mp4?t=1456391093
+      name: Main
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256660682/movie.293x165.jpg?t=1456391093
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256660682/movie480.webm?t=1456391093
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256660682/movie_max.webm?t=1456391093
+    name: Forgotten Ball
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Forgotten Ball - $0.99
+        packageid: 90710
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Forgotten Ball
+    packages:
+    - 90710
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista<br></li><li><strong>Processor:</strong> Pentium(R) Dual-Core
+        CPU T4200 @ 2.00GHz x 2<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Additional Notes:</strong> Simple
+        settings.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - littleGigantic
+    release_date:
+      coming_soon: false
+      date: Mar 3, 2016
+    required_age: 0
+    reviews: "\u201C..An absorbing game with lovely music.\u201D<br>7/10 \u2013 <a\
+      \ href=\"https://steamcommunity.com/linkfilter/?url=https://pbs.twimg.com/media/CS4SLd5WwAAT6ge.jpg:large\"\
+      \ target=\"_blank\" rel=\"noopener\"  >RetroGamer Magazine</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_897fc14cd701f700b85ceb81f5fe787a4ca4e421.1920x1080.jpg?t=1598164083
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_897fc14cd701f700b85ceb81f5fe787a4ca4e421.600x338.jpg?t=1598164083
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_c6a31e34caaf3aeca75bbd8c78d8efd20841e87e.1920x1080.jpg?t=1598164083
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_c6a31e34caaf3aeca75bbd8c78d8efd20841e87e.600x338.jpg?t=1598164083
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_c43818e0a54e93c987c092631ab1786cf56201fa.1920x1080.jpg?t=1598164083
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_c43818e0a54e93c987c092631ab1786cf56201fa.600x338.jpg?t=1598164083
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_08b566d1c99022f8bee308daa6b04eb32606f22e.1920x1080.jpg?t=1598164083
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_08b566d1c99022f8bee308daa6b04eb32606f22e.600x338.jpg?t=1598164083
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_9a8b0035b3942497424dffb702d7650ded1ee9c3.1920x1080.jpg?t=1598164083
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434700/ss_9a8b0035b3942497424dffb702d7650ded1ee9c3.600x338.jpg?t=1598164083
+    short_description: A classically inspired modern ball simulation platformer. Control
+      a singular ball through a cubic towering labyrinth. Overcome challenging platforms
+      and puzzles whilst ascending a seamless connected huge world.
+    steam_appid: 434700
+    support_info:
+      email: support@littlegigantic.co.uk
+      url: http://littlegigantic.co.uk/support/
+    supported_languages: English, French, German, Spanish - Spain, Russian, Traditional
+      Chinese
+    type: game
+    website: http://www.forgottenball.co.uk
+  success: true
+reviews:
+  cursor: AoJ4jsHbh/ICetTChwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 4
+    total_positive: 12
+    total_reviews: 16
+  reviews:
+  - author:
+      last_played: 1589396709
+      num_games_owned: 34
+      num_reviews: 2
+      playtime_at_review: 74
+      playtime_forever: 74
+      playtime_last_two_weeks: 0
+      steamid: '76561198210473072'
+    comment_count: 0
+    language: tchinese
+    received_for_free: false
+    recommendationid: '69080394'
+    review: "\u760B\u72C2\u7684\u9583\u9000 \u8D8A\u73A9\u8D8A\u4E0D\u723D"
+    steam_purchase: true
+    timestamp_created: 1589396769
+    timestamp_updated: 1589396769
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: "A simple, yet challenging 2D Platformer. Test your skills and\
+      \ see if you can get from Point A to Point B without hitting a spike and having\
+      \ to start over.<br />\r\n<br />\r\nCollect coins on the way to buy features\
+      \ to make the game more atmospheric, challenging and interesting."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1247490/page_bg_generated_v6b.jpg?t=1592858289
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A simple, yet challenging 2D Platformer. Test your skills\
+      \ and see if you can get from Point A to Point B without hitting a spike and\
+      \ having to start over.<br />\r\n<br />\r\nCollect coins on the way to buy features\
+      \ to make the game more atmospheric, challenging and interesting."
+    developers:
+    - CopingCode
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1247490/header.jpg?t=1592858289
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256776571
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776571/movie480.mp4?t=1582905169
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776571/movie_max.mp4?t=1582905169
+      name: Release Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256776571/movie.293x165.jpg?t=1582905169
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776571/movie480.webm?t=1582905169
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776571/movie_max.webm?t=1582905169
+    name: Cube Course
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cube Course - $1.99
+        packageid: 432877
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Cube Course
+    packages:
+    - 432877
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        64-Bit<br></li><li><strong>Processor:</strong> 2 Core/4 Thread<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - CopingCode
+    release_date:
+      coming_soon: false
+      date: Jun 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_06687a7b13508f481a1daa5b4a0ff42033311f0f.1920x1080.jpg?t=1592858289
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_06687a7b13508f481a1daa5b4a0ff42033311f0f.600x338.jpg?t=1592858289
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_0ad7552d66ec00adf8ec7e212ef22a5006dd1dc8.1920x1080.jpg?t=1592858289
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_0ad7552d66ec00adf8ec7e212ef22a5006dd1dc8.600x338.jpg?t=1592858289
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_0c53ace7b13043453c85871eac6b336ae4267a2e.1920x1080.jpg?t=1592858289
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_0c53ace7b13043453c85871eac6b336ae4267a2e.600x338.jpg?t=1592858289
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_84db0aae532d1cf54f09a053dc03e2577e53357c.1920x1080.jpg?t=1592858289
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_84db0aae532d1cf54f09a053dc03e2577e53357c.600x338.jpg?t=1592858289
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_c814eb47fd6bdbecf29af8829b00b548204af024.1920x1080.jpg?t=1592858289
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1247490/ss_c814eb47fd6bdbecf29af8829b00b548204af024.600x338.jpg?t=1592858289
+    short_description: A simple, yet fun 2D platformer. Get from point A to point
+      B without hitting a spike and dying. Collect coins along the way to unlock features
+      that change the atmosphere, difficulty and feeling of the game. If you like
+      those old games that aren't to complicated and complex, you'll love this.
+    steam_appid: 1247490
+    support_info:
+      email: ''
+      url: https://www.copingcode.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://www.copingcode.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

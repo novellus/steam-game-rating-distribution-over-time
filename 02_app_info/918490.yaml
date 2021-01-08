@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: 'A 15-page art collection for the visual novel <a href="https://store.steampowered.com/app/917680"
+      target="_blank" rel="noreferrer"  >one night, hot springs</a> with art from
+      the game along with intros for the main characters. <br><br>The PDF file will
+      be placed in your &quot;one night, hot springs&quot; game folder in the Steam
+      Directory: ...Steam\steamapps\common\one night, hot springs\onsengame-market'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/918490/page_bg_generated_v6b.jpg?t=1538737526
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'A 15-page art collection for the visual novel <a href="https://store.steampowered.com/app/917680"
+      target="_blank" rel="noreferrer"  >one night, hot springs</a> with art from
+      the game along with intros for the main characters. <br><br>The PDF file will
+      be placed in your &quot;one night, hot springs&quot; game folder in the Steam
+      Directory: ...Steam\steamapps\common\one night, hot springs\onsengame-market'
+    developers:
+    - npckc
+    fullgame:
+      appid: '917680'
+      name: one night, hot springs
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/918490/header.jpg?t=1538737526
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux x86/x86_64</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.6</li></ul>
+    name: one night, hot springs - art collection
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: one night, hot springs - art collection - $2.99
+        packageid: 295351
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy one night, hot springs - art collection
+    packages:
+    - 295351
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 32 bit</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - npckc
+    release_date:
+      coming_soon: false
+      date: Aug 30, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/918490/ss_a2129fa278f808afa899019323aa574346f97e8c.1920x1080.jpg?t=1538737526
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/918490/ss_a2129fa278f808afa899019323aa574346f97e8c.600x338.jpg?t=1538737526
+    short_description: Art collection for the visual novel one night, hot springs.
+    steam_appid: 918490
+    support_info:
+      email: hello@npckc.site
+      url: https://npckc.site
+    supported_languages: English
+    type: dlc
+    website: https://npckc.site
+  success: true
+reviews:
+  cursor: AoJ4+7S34fYCcpjZvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 14
+    total_reviews: 14
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 275
+      num_reviews: 92
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198193317705'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83806594'
+    review: '+pros
+
+      supporting the dev
+
+      awesome art collection
+
+      cheap
+
+
+      -cons
+
+      nothing'
+    steam_purchase: true
+    timestamp_created: 1609587075
+    timestamp_updated: 1609587075
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,208 @@
+details:
+  data:
+    about_the_game: "UBERMOSH:BLACK is the second volume of the arcade series UBERMOSH.<br\
+      \ />\r\nCut bullets with your sword, shoot with heavy guns and splatter enemies\
+      \ with a rage fueled psionic wave.<br />\r\n<br />\r\nA love letter to the community,\
+      \ Black comes with the &quot;brainclap&quot; feature, a new class mod, more\
+      \ achievements, more enemies, a new ultimate gun and a complex balance to allow\
+      \ 30% more stuff on screen creating an even more intense combat experience,\
+      \ packed in 90 seconds bursts.<br />\r\n<br />\r\nWelcome back, to UBERMOSH."
+    achievements:
+      highlighted:
+      - name: SURVIVOR
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/0e3017ffc19288b64ddcb94fec1a8e2b303a42a6.jpg
+      - name: VENERABLE
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/822889520658da65ea7821a1c8d481056a20ed76.jpg
+      - name: VENERABLE KENSAI
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/6772c73a3051df132bbcb25a78800dd77713d0c3.jpg
+      - name: VENERABLE GUNNER
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/a7b293e1f7d9498bf74a3ff363ff3b03e27a0f80.jpg
+      - name: VENERABLE WARLOCK
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/1f09df8f296e98eada22fbf478a7469a22361ae3.jpg
+      - name: VENERABLE CATALYST
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/6575c39fab99f81c57736bbdd42938ae1e3be894.jpg
+      - name: PSIONIC REAPER
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/1f913c9c4df4af437f66a07d2c8382b22caac498.jpg
+      - name: HARDBOILED
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/444940/4febe36f622986a5e028897dbba1ec12763d09cf.jpg
+      total: 8
+    background: https://steamcdn-a.akamaihd.net/steam/apps/444940/page_bg_generated_v6b.jpg?t=1568685801
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "UBERMOSH:BLACK is the second volume of the arcade series\
+      \ UBERMOSH.<br />\r\nCut bullets with your sword, shoot with heavy guns and\
+      \ splatter enemies with a rage fueled psionic wave.<br />\r\n<br />\r\nA love\
+      \ letter to the community, Black comes with the &quot;brainclap&quot; feature,\
+      \ a new class mod, more achievements, more enemies, a new ultimate gun and a\
+      \ complex balance to allow 30% more stuff on screen creating an even more intense\
+      \ combat experience, packed in 90 seconds bursts.<br />\r\n<br />\r\nWelcome\
+      \ back, to UBERMOSH."
+    developers:
+    - Walter Machado
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/444940/header.jpg?t=1568685801
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04 LTS or compatible<br></li><li><strong>Processor:</strong> 2.5Ghz+<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB<br></li><li><strong>Storage:</strong>
+        420 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        3.0Ghz</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256660765
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256660765/movie480.mp4?t=1455746320
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256660765/movie_max.mp4?t=1455746320
+      name: UBERMOSH:BLACK gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256660765/movie.293x165.jpg?t=1455746320
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256660765/movie480.webm?t=1455746320
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256660765/movie_max.webm?t=1455746320
+    name: UBERMOSH:BLACK
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: UBERMOSH:BLACK - <span class="discount_original_price">$0.99</span>
+          $0.49
+        packageid: 94682
+        percent_savings: 0
+        percent_savings_text: '-51% '
+        price_in_cents_with_discount: 49
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: UBERMOSH:BLACK - Commercial License - $0.99
+        packageid: 239740
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: UBERMOSH Collection - $19.99
+        packageid: 95016
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy UBERMOSH:BLACK
+    packages:
+    - 94682
+    - 239740
+    - 95016
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 2.5Ghz+<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 420 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        3.0Ghz</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 51
+      final: 49
+      final_formatted: $0.49
+      initial: 99
+      initial_formatted: $0.99
+    publishers:
+    - Walter Machado
+    recommendations:
+      total: 218
+    release_date:
+      coming_soon: false
+      date: Feb 17, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_e34d8a1e6e6e3a9de5470671f5effe3352d51b0b.1920x1080.jpg?t=1568685801
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_e34d8a1e6e6e3a9de5470671f5effe3352d51b0b.600x338.jpg?t=1568685801
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_cb63db53a236550a1628b6053844cd74a7f126c9.1920x1080.jpg?t=1568685801
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_cb63db53a236550a1628b6053844cd74a7f126c9.600x338.jpg?t=1568685801
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_72fd38c652094386216eff080ff81cd34b33ab4a.1920x1080.jpg?t=1568685801
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_72fd38c652094386216eff080ff81cd34b33ab4a.600x338.jpg?t=1568685801
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_ad876496a2dfb4e85a9cb7151458246743a1681c.1920x1080.jpg?t=1568685801
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_ad876496a2dfb4e85a9cb7151458246743a1681c.600x338.jpg?t=1568685801
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_d2aa1b38fcbf8c81cdcfb23c94c2ee72c70d4de5.1920x1080.jpg?t=1568685801
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/444940/ss_d2aa1b38fcbf8c81cdcfb23c94c2ee72c70d4de5.600x338.jpg?t=1568685801
+    short_description: UBERMOSH:BLACK is the second volume of the arcade series UBERMOSH.
+      Cut bullets with your sword, shoot with heavy guns and splatter enemies with
+      a rage fueled psionic wave.
+    steam_appid: 444940
+    support_info:
+      email: ''
+      url: https://www.facebook.com/waltermachadodev
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ48eep5fYCd4WewAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 27
+    total_positive: 191
+    total_reviews: 218
+  reviews:
+  - author:
+      last_played: 1609717554
+      num_games_owned: 721
+      num_reviews: 52
+      playtime_at_review: 19
+      playtime_forever: 19
+      playtime_last_two_weeks: 19
+      steamid: '76561198058946622'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83947607'
+    review: Same as the first game, with the changes of having "brainclap" which is
+      ever x number of kills it wipes the screen but it makes it a tad too easy. Once
+      you have the best gun it's a clap every few seconds. That's the hardest part
+      about overmosh black vs the original. Once you have the best gun you're golden,
+      but for the first 20 sec or so the enemies that drop them don't spawn in, so
+      it's just a matter of not losing all your lives within the first 20sec so you
+      have a chance at the rest. Still fun, like the first, but I prefer the first.
+      It's simpler and isn't a rush to get a certain gun.
+    steam_purchase: true
+    timestamp_created: 1609717727
+    timestamp_updated: 1609717727
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

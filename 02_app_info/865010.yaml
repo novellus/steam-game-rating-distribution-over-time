@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: This DLC is only for donations; it contains no content and does
+      not affect the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/865010/page_bg_generated_v6b.jpg?t=1527682799
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC is only for donations; it contains no content and
+      does not affect the game.
+    developers:
+    - Maniac Games
+    fullgame:
+      appid: '711690'
+      name: Cognizer
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/865010/header.jpg?t=1527682799
+    is_free: false
+    legal_notice: "\xA9 2018 Maniac Games"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+</li></ul>
+    name: Cognizer - Donation level 1
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cognizer - Donation level 1 - $0.99
+        packageid: 272797
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Cognizer - Donation level 1
+    packages:
+    - 272797
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista SP1+</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Maniac Games
+    release_date:
+      coming_soon: false
+      date: May 30, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/865010/ss_1aa80f77c9f432eee1db32f1f5ded1f1078f4224.1920x1080.jpg?t=1527682799
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/865010/ss_1aa80f77c9f432eee1db32f1f5ded1f1078f4224.600x338.jpg?t=1527682799
+    short_description: This DLC is only for donations; it contains no content and
+      does not affect the game.
+    steam_appid: 865010
+    support_info:
+      email: support@maniac-games.com
+      url: http://www.maniac-games.com/support.html
+    supported_languages: English
+    type: dlc
+    website: http://www.maniac-games.com/index.html
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

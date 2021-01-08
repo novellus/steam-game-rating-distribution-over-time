@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      total: 0
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Soldak Entertainment
+    fullgame:
+      appid: '217290'
+      name: Din's Curse
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/218110/header.jpg?t=1447356392
+    is_free: true
+    legal_notice: "Copyright \xA9 2010-2012 Soldak Entertainment, Inc. All rights\
+      \ reserved."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 76
+    name: Din's Curse Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <ul class="bb_ul"><li><strong>OS:</strong> Windows XP/Vista/Windows
+        7<br>                </li><li><strong>Processor:</strong> 1.5 GHz Pentium
+        4 or better<br>                </li><li><strong>Memory:</strong> 256 MB RAM<br>                </li><li><strong>Hard
+        Disk Space:</strong> 200 MB                <br>                </li><li><strong>Video
+        Card:</strong> GeForce 2 (or equivalent) or better<br>                </li><li><strong>DirectX:</strong>
+        DirectX 7<br>                </li><li><strong>Additional:</strong> DSL or
+        better internet connection required for multiplayer           </li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Soldak Entertainment
+    release_date:
+      coming_soon: false
+      date: Nov 2, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 218110
+    support_info:
+      email: ''
+      url: http://www.soldak.com/Company/Contact.html
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://www.soldak.com/Dins-Curse/Overview.html
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,82 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/510720/page_bg_generated_v6b.jpg?t=1472501839
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - 6L6 Interactive
+    fullgame:
+      appid: '510180'
+      name: NDE Rescue
+    genres:
+    - description: Action
+      id: '1'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/510720/header.jpg?t=1472501839
+    is_free: true
+    legal_notice: 2015 copyright 6L6 Interactive
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X Mavericks (version 10.9)<br></li><li><strong>Processor:</strong> x64<br></li><li><strong>Memory:</strong>
+        2048 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL ES 2.0 compatible<br></li><li><strong>Storage:</strong>
+        60 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL compatible<br></li><li><strong>Additional
+        Notes:</strong> Keyboard alone, keyboard and mouse</li></ul>
+    name: NDE Rescue Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista or 7<br></li><li><strong>Processor:</strong> x86, x64<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL ES 2.0 compatible<br></li><li><strong>Storage:</strong>
+        60 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL compatible<br></li><li><strong>Additional
+        Notes:</strong> Keyboard alone, keyboard and mouse</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - KSCM Consulting
+    release_date:
+      coming_soon: false
+      date: Aug 29, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/510720/ss_212e746367e597302d90c02fc457cf5b79ae5709.1920x1080.jpg?t=1472501839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/510720/ss_212e746367e597302d90c02fc457cf5b79ae5709.600x338.jpg?t=1472501839
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/510720/ss_0e588065feb3189d26235642937f48db36c8666c.1920x1080.jpg?t=1472501839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/510720/ss_0e588065feb3189d26235642937f48db36c8666c.600x338.jpg?t=1472501839
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/510720/ss_ac3589eb3ece6341bd45f19c9e57d870874deb0b.1920x1080.jpg?t=1472501839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/510720/ss_ac3589eb3ece6341bd45f19c9e57d870874deb0b.600x338.jpg?t=1472501839
+    short_description: ''
+    steam_appid: 510720
+    support_info:
+      email: contact@6l6interactive.com
+      url: http://www.nderescue.com/support_en/
+    supported_languages: English, French, Italian, German, Spanish - Spain, Czech,
+      Japanese, Russian, Turkish
+    type: demo
+    website: http://www.nderescue.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

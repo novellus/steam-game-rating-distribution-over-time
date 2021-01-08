@@ -1,0 +1,171 @@
+details:
+  data:
+    about_the_game: Get up to 200 Projects in your Ohm Studio account!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/258512/page_bg_generated_v6b.jpg?t=1447359038
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Get up to 200 Projects in your Ohm Studio account!
+    developers:
+    - GRAOUMF
+    fullgame:
+      appid: '241660'
+      name: Ohm Studio
+    genres:
+    - description: Audio Production
+      id: '52'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/258512/header.jpg?t=1447359038
+    is_free: false
+    legal_notice: "Copyright \xA9 2013 Ohm Force \u2014 In order to use Ohm Studio,\
+      \ Users must indicate that they have read and agreed to the <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.ohmstudio.com/doc/terms\"\
+      \ target=\"_blank\" rel=\"noopener\"  >Terms of Use</a>."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        MacOS 10.5.8<br></li><li><strong>Processor:</strong> Intel Processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Intel graphics<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> Integrated sound
+        card<br></li><li><strong>Additional Notes:</strong> (disk space depends on
+        how many projects you make)</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        MacOS 10.5.8 or later<br></li><li><strong>Processor:</strong> Intel Processor<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Original graphic card or better<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB
+        available space<br></li><li><strong>Sound Card:</strong> CoreAudio compatible
+        sound card<br></li><li><strong>Additional Notes:</strong> (disk space depends
+        on how many projects you make)</li></ul>
+    name: Ohm Cloud
+    package_groups:
+    - description: Get up to 200 Projects in your Ohm Studio account!  To be billed
+        on a recurring basis.
+      display_type: '1'
+      is_recurring_subscription: 'true'
+      name: default
+      save_text: Save up to 25%
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$9.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $9.99 / month
+        packageid: 35083
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$24.99 at checkout,
+          auto-renewed every 3 month(s) at $24.99.</p>
+        option_text: $24.99 / 3 months
+        packageid: 35353
+        percent_savings: 17
+        percent_savings_text: '-17% '
+        price_in_cents_with_discount: 2499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$89.99 at checkout,
+          auto-renewed every 12 month(s) at $89.99.</p>
+        option_text: $89.99 / 12 months
+        packageid: 35355
+        percent_savings: 25
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 8999
+      title: Buy Ohm Cloud
+    packages:
+    - 35083
+    - 35353
+    - 35355
+    - 35083
+    - 35353
+    - 35355
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP Service Pack 2<br></li><li><strong>Processor:</strong> Pentium
+        4 or Athlon 64<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        9 years old graphic card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available
+        space<br></li><li><strong>Sound Card:</strong> DirectX/MME compatible sound
+        card<br></li><li><strong>Additional Notes:</strong> (disk space depends on
+        how many projects you make)</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Pentium 4 or Athlon 64<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> 3 years old graphic card or
+        better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB
+        available space<br></li><li><strong>Sound Card:</strong> ASIO compatible sound
+        card<br></li><li><strong>Additional Notes:</strong> (disk space depends on
+        how many projects you make)</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+      recurring_sub: 35085
+      recurring_sub_desc: $9.99 at checkout, auto-renewed every 1 month(s) at $9.99.
+    publishers:
+    - Ohm Force
+    release_date:
+      coming_soon: false
+      date: Dec 9, 2013
+    required_age: 0
+    reviews: "\u201COhm Studio now frees us from the previous limitations that we\
+      \ may not have even been aware of. The future is here.\u201D<br>9/10 \u2013\
+      \ <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.musictech.net/2013/09/ohm-studio-review/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >MusicTech</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.1920x1080.jpg?t=1447359038
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.600x338.jpg?t=1447359038
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d987fc0e0236d17d38950978822d4066b27159a8.1920x1080.jpg?t=1447359038
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d987fc0e0236d17d38950978822d4066b27159a8.600x338.jpg?t=1447359038
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.1920x1080.jpg?t=1447359038
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.600x338.jpg?t=1447359038
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d34cb1ac3d933a5cdd39d6c951a9d1959cf45521.1920x1080.jpg?t=1447359038
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d34cb1ac3d933a5cdd39d6c951a9d1959cf45521.600x338.jpg?t=1447359038
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_273febe9591a28d5ff7bbf8149bc10c29194c67b.1920x1080.jpg?t=1447359038
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_273febe9591a28d5ff7bbf8149bc10c29194c67b.600x338.jpg?t=1447359038
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_4a670cccecc94aade445861f384301698167bc15.1920x1080.jpg?t=1447359038
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_4a670cccecc94aade445861f384301698167bc15.600x338.jpg?t=1447359038
+    short_description: Get up to 200 Projects in your Ohm Studio account!
+    steam_appid: 258512
+    support_info:
+      email: support@ohmstudio.com
+      url: http://forum.ohmstudio.com/
+    supported_languages: English
+    type: dlc
+    website: http://www.ohmstudio.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

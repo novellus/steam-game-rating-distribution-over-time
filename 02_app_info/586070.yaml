@@ -1,0 +1,132 @@
+details:
+  data:
+    about_the_game: "Enjoy some R&amp;R and keep listening to Phonetic Hero's fwooshy\
+      \ tunes outside the cockpit!<br />\r\n<br />\r\nTracks 8 &amp; 9 composed in\
+      \ collaboration with Kubbi."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/586070/page_bg_generated_v6b.jpg?t=1591143687
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Enjoy some R&amp;R and keep listening to Phonetic Hero's\
+      \ fwooshy tunes outside the cockpit!<br />\r\n<br />\r\nTracks 8 &amp; 9 composed\
+      \ in collaboration with Kubbi."
+    developers:
+    - The Otherworld Agency
+    fullgame:
+      appid: '381020'
+      name: Sky Rogue
+    genres:
+    - description: Action
+      id: '1'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/586070/header.jpg?t=1591143687
+    is_free: false
+    legal_notice: All rights reserved (C) 2013-2017 Fractal Phase Games Corporation
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>
+    name: Sky Rogue Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sky Rogue Original Soundtrack - $3.99
+        packageid: 151432
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Sky Rogue Original Soundtrack
+    packages:
+    - 151432
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Boss Battle Records
+    release_date:
+      coming_soon: false
+      date: Feb 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/586070/ss_8582f3219dd516d1d647e2c9a40602a1680fa60d.1920x1080.jpg?t=1591143687
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/586070/ss_8582f3219dd516d1d647e2c9a40602a1680fa60d.600x338.jpg?t=1591143687
+    short_description: Enjoy some R&amp;R and keep listening to Phonetic Hero's fwooshy
+      tunes outside the cockpit!
+    steam_appid: 586070
+    support_info:
+      email: support@skyroguegame.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: https://phonetichero.bandcamp.com/album/sky-rogue
+  success: true
+reviews:
+  cursor: AoJ4vaHZ1d8Cd/eCiwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 642
+      num_reviews: 37
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198053169938'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '36444023'
+    review: it goes fwoosh
+    steam_purchase: true
+    timestamp_created: 1510409047
+    timestamp_updated: 1510409047
+    voted_up: true
+    votes_funny: 2
+    votes_up: 3
+    weighted_vote_score: '0.554698765277862549'
+    written_during_early_access: false
+  success: 1

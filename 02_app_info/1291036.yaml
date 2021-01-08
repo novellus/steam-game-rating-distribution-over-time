@@ -1,0 +1,351 @@
+details:
+  data:
+    about_the_game: "Display Utilities offer various functions to manage your displays\
+      \ and how programs interact with them.  Bring newly focused apps to the cursor\
+      \ instead of a random monitor.  Adjust blue light on a schedule.  Enable Simplode\
+      \ Suite to treat NVIDIA Surround and Eyefinity spanned displays individually.<br>This\
+      \ product is available natively in English, but it has automated translations\
+      \ for most major languages.<br>Contents: Display Color Settings (\U0001F5B5\U0001F3A8\
+      \U0001F4A1), Operating System Display Settings (\U0001F5B5\u2756), Screen Split\
+      \ Detection (\U0001F5B5\U0001F5B5), Smart Focus (\U0001F5D4\U0001F3AF), Screen\
+      \ Refresh Rates Quick Set (\U0001F5B5hz), Toggle Blue Light Filter (\U0001F5B5\
+      \U0001F319), Display Off (\U0001F5B5\U0001F50C)<h2 class=\"bb_tag\">Display\
+      \ Color Settings (\U0001F5B5\U0001F3A8\U0001F4A1)</h2>Adjust brightness and\
+      \ color settings for monitors.<br><br>Settings:<ul class=\"bb_ul\"><li>Automatically\
+      \ Reload Monitor Settings (Default: False)<br>By default, software color and\
+      \ brightness settings are not reloaded when the computer or monitors restart.\
+      \  This setting will routinely check the settings and reload them as needed.<br></li><li>Brightness\
+      \ (Default: 1)<br></li><li>Hardware Brightness Management Enabled (Default:\
+      \ True)<br>If enabled, the tool will try to manage your monitor's brightness.\
+      \  Some monitors/drivers may be incompatible and may not work at all or may\
+      \ work incorrectly.  This setting primarily exists as a way to disable the feature\
+      \ if it is not working correctly.<br></li><li>Hardware Brightness (Default:\
+      \ 0.5)<br>Maybe it can change the brightness on all your monitors...  <br></li><li>Red\
+      \ Balance (Default: 1)<br></li><li>Green Balance (Default: 1)<br></li><li>Blue\
+      \ Balance (Default: 1)<br></li><li>Blue Light Filter (Default: False)<br>When\
+      \ enabled, reduces the amount of blue light emitted by your displays.<br></li><li>Gamma\
+      \ (Default: 2.2)<br></li><li>Red Gamma (Default: 2.2)<br></li><li>Green Gamma\
+      \ (Default: 2.2)<br></li><li>Blue Gamma (Default: 2.2)</li></ul><h2 class=\"\
+      bb_tag\">Operating System Display Settings (\U0001F5B5\u2756)</h2>Opens your\
+      \ operating system's display settings menu.<h2 class=\"bb_tag\">Screen Split\
+      \ Detection (\U0001F5B5\U0001F5B5)</h2>Automatically detect AMD EyeFinity or\
+      \ NVidia Surround and use the information to improve UI element positions and\
+      \ full screen positioning.<br><br>Settings:<ul class=\"bb_ul\"><li>Screen Split\
+      \ Detection (Default: True)<br>If enabled, attempts to automatically detect\
+      \ breaks between screens.  Nvidia and AMD both produce solutions which allow\
+      \ multiple screens to function as a single screen, so this feature allows this\
+      \ program to be smarter about how it uses screen space in accounting for the\
+      \ screen breaks when they are detected.<br></li><li>Virtual Maximize (Default:\
+      \ True)<br>When maximizing a single window that is on a virtual split screen,\
+      \ fill the virtual split screen instead of performing a standard operating system\
+      \ maximize operation.<br></li><li>Virtual Maximize Group (Default: True)<br>When\
+      \ maximizing a window that is part of a group, spread the group's windows over\
+      \ the screen instead of performing a standard operating system maximize operation.<br></li><li>Multiple\
+      \ Display DPI Scales (Default: True)<br>If enabled, the tool will try to appropriately\
+      \ size its own windows based on your individual monitor DPI settings.  The tool\
+      \ will wait until you are done moving a window before it will change the scaling.</li></ul><h2\
+      \ class=\"bb_tag\">Smart Focus (\U0001F5D4\U0001F3AF)</h2>When a new window\
+      \ takes focus, automatically move it to the cursor.<br><ul class=\"bb_ul\"><li>Helps\
+      \ keep new windows from getting lost on multiple monitors or large monitors.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Smart Focus (Default: False)<br>This is the master switch\
+      \ for all Smart Focus features.  If disabled, all Smart Focus features will\
+      \ be disabled even if they are individually enabled.<br></li><li>Smart Focus\
+      \ General Apps (Default: True)<br>When focusing on most general applications,\
+      \ the application will be moved to the cursor if it is not near the cursor.\
+      \  The application positioning will attempt to stay on a single monitor if possible.\
+      \  This ensures that newly focused windows will appear on the monitor you are\
+      \ currently looking at, assuming that is where your cursor is.<br></li><li>Smart\
+      \ Focus General Apps From Taskbar (Default: True)<br>If you want your taskbar\
+      \ to trigger Smart Focus, enable this setting.<br></li><li>Smart Focus General\
+      \ Apps From Taskbar Preview Thumbnails (Default: Disabled)<br>Controls how Smart\
+      \ Focus behaves when clicking on a taskbar preview thumbnail.  When hovering\
+      \ over a taskbar preview thumbnail, the operating system illuminates the window\
+      \ that will be focused, which may draw your attention away from the cursor and\
+      \ to the window.<br> - Disabled<br> - Move Window to Cursor: The window will\
+      \ be moved to the cursor, which may be a bit jarring after the target window\
+      \ has been illuminated.<br> - Move Cursor to Title Bar: The cursor will automatically\
+      \ be moved to the title bar of the newly focused window, which will let you\
+      \ quickly grab it and move it if you want.<br> - Move Cursor To Center: The\
+      \ cursor will automatically be moved to the center of the newly focused window,\
+      \ which is likely where you are already looking, saving you a bit of time.<br></li><li>Smart\
+      \ Focus Pull Factor (Default: 1)<br>When set to 1, will center Smart Focused\
+      \ windows on the cursor.  When set to 0, will bring the closest edge of a Smart\
+      \ Focused window to the cursor.  Values in between will produce a margin effect.\
+      \  This option does not effect some windows with special positioning.<br></li><li>Smart\
+      \ Focus Full Screen Apps (Default: False)<br>If disabled, full screen applications\
+      \ will be ignored by Smart Focus.<br></li><li>Smart Focus Task Switcher (Default:\
+      \ True)<br>The operating system's task switcher appears when pressing [Alt]+[Tab].\
+      \  Enable this option to automatically move the task switcher to the monitor\
+      \ your mouse is on.<br></li><li>Smart Focus Start Menu (Default: True)<br>On\
+      \ standard multiple monitor setups, the start menu always launches on your primary\
+      \ monitor.  Enable this setting to dynamically position the start menu based\
+      \ on the location of your cursor.  This mainly helps when using the operating\
+      \ system key to launch the start menu, as manually clicking on the start button\
+      \ will naturally put the start menu where it would normally be.  The operating\
+      \ system also has a setting which allows you to place a taskbar on each monitor,\
+      \ and if you use that setting then you can open up the start menu on each screen\
+      \ without this tool so long as you are willing to have multiple taskbars.  That\
+      \ setting can be found by right clicking on the taskbar and going into &quot;Taskbar\
+      \ settings&quot;.</li></ul><h2 class=\"bb_tag\">Screen Refresh Rates Quick Set\
+      \ (\U0001F5B5hz)</h2>Tries to set the refresh rates of all screens to the config\
+      \ value.<br><ul class=\"bb_ul\"><li>I added this feature because it can be a\
+      \ pain to individually change refresh rates for multiple monitors.  My monitors\
+      \ can be finicky sometimes and changing one monitor can cause another monitor\
+      \ to fall back, so doing all three at the same time increases my success rate.<br></li><li>This\
+      \ feature does not create refresh rate overclock profiles.  If you want to do\
+      \ this, you should find the option in your graphics driver software.  Once you\
+      \ create these profiles, this tool might be able to set them for you.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Screen Refresh Rate Quick Set Hz (Default: 60)</li></ul><h2\
+      \ class=\"bb_tag\">Toggle Blue Light Filter (\U0001F5B5\U0001F319)</h2>Quickly\
+      \ toggle a blue filter for your display to reduce blue light.  You can also\
+      \ put the blue light filter on a customizable daily schedule with smooth transitions.\
+      \  For more other display color options, see Display Color Settings.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Blue Light Filter (Default: False)<br>When enabled, reduces\
+      \ the amount of blue light emitted by your displays.<br></li><li>Blue Light\
+      \ Filter Strength (Default: 0.5)<br>Controls the strength of the blue light\
+      \ filter when toggled.<br></li><li>Blue Light Filter Minimum Strength (Default:\
+      \ 0)<br>Controls the minimum strength of the blue light filter.  When you toggle\
+      \ the blue light filter off, it will actually still remain at this strength.\
+      \  Also, when dynamic mode is enabled, the blue light filter will always have\
+      \ at least this strength no matter what time it is.  The transition to and from\
+      \ peak strength will smoothly move between the regular strength and the minimum\
+      \ strength.<br></li><li>Blue Light Filter Dynamic Mode (Default: False)<br>When\
+      \ enabled, the strength of the blue light filter is dynamically adjusted according\
+      \ to the time to have progressively less blue light towards the end of the day.<br></li><li>Blue\
+      \ Light Filter Dynamic Start (Default: 18)<br>Time of day when the dynamic blue\
+      \ light filter begins to strengthen.  This is a number of hours since midnight,\
+      \ so 18 would be 6pm.<br></li><li>Blue Light Filter Dynamic Peak Start (Default:\
+      \ 21)<br>Time of day when the dynamic blue light filter reaches full strength.\
+      \  This is a number of hours since midnight, so 21 would be 9pm.<br></li><li>Blue\
+      \ Light Filter Dynamic Peak End (Default: 5)<br>Time of day when the dynamic\
+      \ blue light filter begins to weaken.  This is a number of hours since midnight,\
+      \ so 5 would be 5am.<br></li><li>Blue Light Filter Dynamic End (Default: 6)<br>Time\
+      \ of day when the dynamic blue light filter resets.  This is a number of hours\
+      \ since midnight, so 6 would be 6am.<br></li><li>Blue Balance (Default: 1)<br></li><li>Blue\
+      \ Gamma (Default: 2.2)</li></ul><h2 class=\"bb_tag\">Display Off (\U0001F5B5\
+      \U0001F50C)</h2>Turns off your monitors.<br><br>Settings:<ul class=\"bb_ul\"\
+      ><li>Screen Off Delay Milliseconds (Default: 750)<br>Keyboard presses and mouse\
+      \ movements can cause the screen to turn back on.  This delay allows you to\
+      \ trigger the Screen Off function and then clear your hands before the monitors\
+      \ will go off.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1291036/page_bg_generated_v6b.jpg?t=1606275670
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Display Utilities offer various functions to manage your\
+      \ displays and how programs interact with them.  Bring newly focused apps to\
+      \ the cursor instead of a random monitor.  Adjust blue light on a schedule.\
+      \  Enable Simplode Suite to treat NVIDIA Surround and Eyefinity spanned displays\
+      \ individually.<br>This product is available natively in English, but it has\
+      \ automated translations for most major languages.<br>Contents: Display Color\
+      \ Settings (\U0001F5B5\U0001F3A8\U0001F4A1), Operating System Display Settings\
+      \ (\U0001F5B5\u2756), Screen Split Detection (\U0001F5B5\U0001F5B5), Smart Focus\
+      \ (\U0001F5D4\U0001F3AF), Screen Refresh Rates Quick Set (\U0001F5B5hz), Toggle\
+      \ Blue Light Filter (\U0001F5B5\U0001F319), Display Off (\U0001F5B5\U0001F50C\
+      )<h2 class=\"bb_tag\">Display Color Settings (\U0001F5B5\U0001F3A8\U0001F4A1\
+      )</h2>Adjust brightness and color settings for monitors.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Automatically Reload Monitor Settings (Default: False)<br>By\
+      \ default, software color and brightness settings are not reloaded when the\
+      \ computer or monitors restart.  This setting will routinely check the settings\
+      \ and reload them as needed.<br></li><li>Brightness (Default: 1)<br></li><li>Hardware\
+      \ Brightness Management Enabled (Default: True)<br>If enabled, the tool will\
+      \ try to manage your monitor's brightness.  Some monitors/drivers may be incompatible\
+      \ and may not work at all or may work incorrectly.  This setting primarily exists\
+      \ as a way to disable the feature if it is not working correctly.<br></li><li>Hardware\
+      \ Brightness (Default: 0.5)<br>Maybe it can change the brightness on all your\
+      \ monitors...  <br></li><li>Red Balance (Default: 1)<br></li><li>Green Balance\
+      \ (Default: 1)<br></li><li>Blue Balance (Default: 1)<br></li><li>Blue Light\
+      \ Filter (Default: False)<br>When enabled, reduces the amount of blue light\
+      \ emitted by your displays.<br></li><li>Gamma (Default: 2.2)<br></li><li>Red\
+      \ Gamma (Default: 2.2)<br></li><li>Green Gamma (Default: 2.2)<br></li><li>Blue\
+      \ Gamma (Default: 2.2)</li></ul><h2 class=\"bb_tag\">Operating System Display\
+      \ Settings (\U0001F5B5\u2756)</h2>Opens your operating system's display settings\
+      \ menu.<h2 class=\"bb_tag\">Screen Split Detection (\U0001F5B5\U0001F5B5)</h2>Automatically\
+      \ detect AMD EyeFinity or NVidia Surround and use the information to improve\
+      \ UI element positions and full screen positioning.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Screen Split Detection (Default: True)<br>If enabled, attempts to\
+      \ automatically detect breaks between screens.  Nvidia and AMD both produce\
+      \ solutions which allow multiple screens to function as a single screen, so\
+      \ this feature allows this program to be smarter about how it uses screen space\
+      \ in accounting for the screen breaks when they are detected.<br></li><li>Virtual\
+      \ Maximize (Default: True)<br>When maximizing a single window that is on a virtual\
+      \ split screen, fill the virtual split screen instead of performing a standard\
+      \ operating system maximize operation.<br></li><li>Virtual Maximize Group (Default:\
+      \ True)<br>When maximizing a window that is part of a group, spread the group's\
+      \ windows over the screen instead of performing a standard operating system\
+      \ maximize operation.<br></li><li>Multiple Display DPI Scales (Default: True)<br>If\
+      \ enabled, the tool will try to appropriately size its own windows based on\
+      \ your individual monitor DPI settings.  The tool will wait until you are done\
+      \ moving a window before it will change the scaling.</li></ul><h2 class=\"bb_tag\"\
+      >Smart Focus (\U0001F5D4\U0001F3AF)</h2>When a new window takes focus, automatically\
+      \ move it to the cursor.<br><ul class=\"bb_ul\"><li>Helps keep new windows from\
+      \ getting lost on multiple monitors or large monitors.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Smart Focus (Default: False)<br>This is the master switch\
+      \ for all Smart Focus features.  If disabled, all Smart Focus features will\
+      \ be disabled even if they are individually enabled.<br></li><li>Smart Focus\
+      \ General Apps (Default: True)<br>When focusing on most general applications,\
+      \ the application will be moved to the cursor if it is not near the cursor.\
+      \  The application positioning will attempt to stay on a single monitor if possible.\
+      \  This ensures that newly focused windows will appear on the monitor you are\
+      \ currently looking at, assuming that is where your cursor is.<br></li><li>Smart\
+      \ Focus General Apps From Taskbar (Default: True)<br>If you want your taskbar\
+      \ to trigger Smart Focus, enable this setting.<br></li><li>Smart Focus General\
+      \ Apps From Taskbar Preview Thumbnails (Default: Disabled)<br>Controls how Smart\
+      \ Focus behaves when clicking on a taskbar preview thumbnail.  When hovering\
+      \ over a taskbar preview thumbnail, the operating system illuminates the window\
+      \ that will be focused, which may draw your attention away from the cursor and\
+      \ to the window.<br> - Disabled<br> - Move Window to Cursor: The window will\
+      \ be moved to the cursor, which may be a bit jarring after the target window\
+      \ has been illuminated.<br> - Move Cursor to Title Bar: The cursor will automatically\
+      \ be moved to the title bar of the newly focused window, which will let you\
+      \ quickly grab it and move it if you want.<br> - Move Cursor To Center: The\
+      \ cursor will automatically be moved to the center of the newly focused window,\
+      \ which is likely where you are already looking, saving you a bit of time.<br></li><li>Smart\
+      \ Focus Pull Factor (Default: 1)<br>When set to 1, will center Smart Focused\
+      \ windows on the cursor.  When set to 0, will bring the closest edge of a Smart\
+      \ Focused window to the cursor.  Values in between will produce a margin effect.\
+      \  This option does not effect some windows with special positioning.<br></li><li>Smart\
+      \ Focus Full Screen Apps (Default: False)<br>If disabled, full screen applications\
+      \ will be ignored by Smart Focus.<br></li><li>Smart Focus Task Switcher (Default:\
+      \ True)<br>The operating system's task switcher appears when pressing [Alt]+[Tab].\
+      \  Enable this option to automatically move the task switcher to the monitor\
+      \ your mouse is on.<br></li><li>Smart Focus Start Menu (Default: True)<br>On\
+      \ standard multiple monitor setups, the start menu always launches on your primary\
+      \ monitor.  Enable this setting to dynamically position the start menu based\
+      \ on the location of your cursor.  This mainly helps when using the operating\
+      \ system key to launch the start menu, as manually clicking on the start button\
+      \ will naturally put the start menu where it would normally be.  The operating\
+      \ system also has a setting which allows you to place a taskbar on each monitor,\
+      \ and if you use that setting then you can open up the start menu on each screen\
+      \ without this tool so long as you are willing to have multiple taskbars.  That\
+      \ setting can be found by right clicking on the taskbar and going into &quot;Taskbar\
+      \ settings&quot;.</li></ul><h2 class=\"bb_tag\">Screen Refresh Rates Quick Set\
+      \ (\U0001F5B5hz)</h2>Tries to set the refresh rates of all screens to the config\
+      \ value.<br><ul class=\"bb_ul\"><li>I added this feature because it can be a\
+      \ pain to individually change refresh rates for multiple monitors.  My monitors\
+      \ can be finicky sometimes and changing one monitor can cause another monitor\
+      \ to fall back, so doing all three at the same time increases my success rate.<br></li><li>This\
+      \ feature does not create refresh rate overclock profiles.  If you want to do\
+      \ this, you should find the option in your graphics driver software.  Once you\
+      \ create these profiles, this tool might be able to set them for you.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Screen Refresh Rate Quick Set Hz (Default: 60)</li></ul><h2\
+      \ class=\"bb_tag\">Toggle Blue Light Filter (\U0001F5B5\U0001F319)</h2>Quickly\
+      \ toggle a blue filter for your display to reduce blue light.  You can also\
+      \ put the blue light filter on a customizable daily schedule with smooth transitions.\
+      \  For more other display color options, see Display Color Settings.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Blue Light Filter (Default: False)<br>When enabled, reduces\
+      \ the amount of blue light emitted by your displays.<br></li><li>Blue Light\
+      \ Filter Strength (Default: 0.5)<br>Controls the strength of the blue light\
+      \ filter when toggled.<br></li><li>Blue Light Filter Minimum Strength (Default:\
+      \ 0)<br>Controls the minimum strength of the blue light filter.  When you toggle\
+      \ the blue light filter off, it will actually still remain at this strength.\
+      \  Also, when dynamic mode is enabled, the blue light filter will always have\
+      \ at least this strength no matter what time it is.  The transition to and from\
+      \ peak strength will smoothly move between the regular strength and the minimum\
+      \ strength.<br></li><li>Blue Light Filter Dynamic Mode (Default: False)<br>When\
+      \ enabled, the strength of the blue light filter is dynamically adjusted according\
+      \ to the time to have progressively less blue light towards the end of the day.<br></li><li>Blue\
+      \ Light Filter Dynamic Start (Default: 18)<br>Time of day when the dynamic blue\
+      \ light filter begins to strengthen.  This is a number of hours since midnight,\
+      \ so 18 would be 6pm.<br></li><li>Blue Light Filter Dynamic Peak Start (Default:\
+      \ 21)<br>Time of day when the dynamic blue light filter reaches full strength.\
+      \  This is a number of hours since midnight, so 21 would be 9pm.<br></li><li>Blue\
+      \ Light Filter Dynamic Peak End (Default: 5)<br>Time of day when the dynamic\
+      \ blue light filter begins to weaken.  This is a number of hours since midnight,\
+      \ so 5 would be 5am.<br></li><li>Blue Light Filter Dynamic End (Default: 6)<br>Time\
+      \ of day when the dynamic blue light filter resets.  This is a number of hours\
+      \ since midnight, so 6 would be 6am.<br></li><li>Blue Balance (Default: 1)<br></li><li>Blue\
+      \ Gamma (Default: 2.2)</li></ul><h2 class=\"bb_tag\">Display Off (\U0001F5B5\
+      \U0001F50C)</h2>Turns off your monitors.<br><br>Settings:<ul class=\"bb_ul\"\
+      ><li>Screen Off Delay Milliseconds (Default: 750)<br>Keyboard presses and mouse\
+      \ movements can cause the screen to turn back on.  This delay allows you to\
+      \ trigger the Screen Off function and then clear your hands before the monitors\
+      \ will go off.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1291036/header.jpg?t=1606275670
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Display Utilities
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Display Utilities - $4.99
+        packageid: 450344
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Simplode Suite - Display Utilities
+    packages:
+    - 450344
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1291036/ss_2451bdeb052f70b6b0d0f19ee5a31325ff7bba01.1920x1080.jpg?t=1606275670
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1291036/ss_2451bdeb052f70b6b0d0f19ee5a31325ff7bba01.600x338.jpg?t=1606275670
+    short_description: Display Utilities offer various functions to manage your displays
+      and how programs interact with them. Bring newly focused apps to the cursor
+      instead of a random monitor. Adjust blue light on a schedule. Enable Simplode
+      Suite to treat NVIDIA Surround and Eyefinity spanned displays individually.
+    steam_appid: 1291036
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-display-utilities
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

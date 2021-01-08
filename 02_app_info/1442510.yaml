@@ -1,0 +1,123 @@
+details:
+  data:
+    about_the_game: In this expansion our group will discover the hidden secret of
+      the elements in the world. After previous events, explore more hidden areas,
+      talk to even stranger characters, learn new, more powerful spells, discover
+      new gear and new stories that will take you where you don't expect ... maybe?
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1442510/page_bg_generated_v6b.jpg?t=1608819018
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: In this expansion our group will discover the hidden secret
+      of the elements in the world. After previous events, explore more hidden areas,
+      talk to even stranger characters, learn new, more powerful spells, discover
+      new gear and new stories that will take you where you don't expect ... maybe?
+    developers:
+    - Exa_Inc
+    fullgame:
+      appid: '1414640'
+      name: Early Quest
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1442510/header.jpg?t=1608819018
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 750 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    name: Early Quest - Elemental Power DLC
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Early Quest - Elemental Power DLC - $2.99
+        packageid: 507238
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Early Quest - Elemental Power DLC
+    packages:
+    - 507238
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Exa_Inc
+    release_date:
+      coming_soon: false
+      date: Dec 24, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1442510/ss_83b1a07b2cbd343ab22fad1bad566b047a999d64.1920x1080.jpg?t=1608819018
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1442510/ss_83b1a07b2cbd343ab22fad1bad566b047a999d64.600x338.jpg?t=1608819018
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1442510/ss_cb4e1f680f31cfca75fee4dca5eeeccdde344e6c.1920x1080.jpg?t=1608819018
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1442510/ss_cb4e1f680f31cfca75fee4dca5eeeccdde344e6c.600x338.jpg?t=1608819018
+    short_description: In this expansion our group will discover the hidden secret
+      of the elements in the world. Explore more hidden areas, talk to even stranger
+      characters, learn new, more powerful spells, and more!
+    steam_appid: 1442510
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/groups/exainc
+    supported_languages: Italian, English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

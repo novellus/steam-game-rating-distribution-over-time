@@ -1,0 +1,171 @@
+details:
+  data:
+    about_the_game: "ChromaSquares is a puzzle game where the goal is to completely\
+      \ clear the board of colored squares. The color of each new square is randomly\
+      \ chosen from among the colors of squares already on the board. The only guarantee\
+      \ is that you won't get the same color twice in a row (unless that's the only\
+      \ color left).<br />\r\n<br />\r\nThe difficulty of the game can be changed\
+      \ by adjusting the number of colors in use and the dimensions of the game board.\
+      \ There is also an alternate color palette to assist colorblind players."
+    achievements:
+      highlighted:
+      - name: Baby Steps
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/572966382bd6da61eb88e2155eeead0085396ee5.jpg
+      - name: Getting the Hang of It
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/f256ac43912c478e04601c640c28fc78d3069ad3.jpg
+      - name: Squarely in the Zone
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/98e4421fd4ae18d58f36d35159b5645ae47e23df.jpg
+      - name: Seeing Squares in Your Sleep
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/9088829e73b9099fd02eb9294d4865cb22ca5e10.jpg
+      - name: The Big League
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/e89fb0a7a2ec3762cb27d43e9c50922beec78b8a.jpg
+      - name: The MVP
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/c1ac56d824acfbbad3fa91798b1ba733545b1a5f.jpg
+      - name: Maybe Play Something Else?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/a74f93e263d88ffb276f6733f8e49f7e7e313762.jpg
+      - name: Missing Link
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/0f0f86fa85b472c5c29c7a847af3d1b2a7ec3007.jpg
+      - name: Chain Reaction
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/2d0c790dddf6843fd7c3ba346ebda99eb5843b50.jpg
+      - name: Critical Mass
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/911640/c203bfcec4069f9f30aadf47556747385422d7d9.jpg
+      total: 20
+    background: https://steamcdn-a.akamaihd.net/steam/apps/911640/page_bg_generated_v6b.jpg?t=1559500944
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "ChromaSquares is a puzzle game where the goal is to completely\
+      \ clear the board of colored squares. The color of each new square is randomly\
+      \ chosen from among the colors of squares already on the board. The only guarantee\
+      \ is that you won't get the same color twice in a row (unless that's the only\
+      \ color left).<br />\r\n<br />\r\nThe difficulty of the game can be changed\
+      \ by adjusting the number of colors in use and the dimensions of the game board.\
+      \ There is also an alternate color palette to assist colorblind players."
+    developers:
+    - Racing Thought Studios
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/911640/header.jpg?t=1559500944
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Graphics:</strong>
+        Shader Model 4.0+<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.13.6+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Graphics:</strong>
+        Shader Model 4.0+<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256752346
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256752346/movie480.mp4?t=1559500937
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256752346/movie_max.mp4?t=1559500937
+      name: ChromaSquares
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256752346/movie.293x165.jpg?t=1559500937
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256752346/movie480.webm?t=1559500937
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256752346/movie_max.webm?t=1559500937
+    name: ChromaSquares
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ChromaSquares - $4.99
+        packageid: 292366
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy ChromaSquares
+    packages:
+    - 292366
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Graphics:</strong>
+        Shader Model 4.0+<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        120 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Racing Thought Studios
+    release_date:
+      coming_soon: false
+      date: Sep 14, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_cf91a75a5087020f4bc9fd30e4ef808576fb4944.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_cf91a75a5087020f4bc9fd30e4ef808576fb4944.600x338.jpg?t=1559500944
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_88ec0d339047188642d93c3ca4e6e10cc374b756.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_88ec0d339047188642d93c3ca4e6e10cc374b756.600x338.jpg?t=1559500944
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_8b62f4763a68b0ca3c34b04c9241c16c001a0709.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_8b62f4763a68b0ca3c34b04c9241c16c001a0709.600x338.jpg?t=1559500944
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_42009f3892c99abff52889cc37f66d9cdfdd6f7c.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_42009f3892c99abff52889cc37f66d9cdfdd6f7c.600x338.jpg?t=1559500944
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_460dad581d48f74a865b9e2643c1f729f5e4dd53.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_460dad581d48f74a865b9e2643c1f729f5e4dd53.600x338.jpg?t=1559500944
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_ad8eaa846ad75ac239c91d3552eb6ef3142577f1.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_ad8eaa846ad75ac239c91d3552eb6ef3142577f1.600x338.jpg?t=1559500944
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_3cc13fc1b1458619c6667753dbc3055cf525aa4e.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_3cc13fc1b1458619c6667753dbc3055cf525aa4e.600x338.jpg?t=1559500944
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_9808ca5b80225c69dd40eb1b8581f7b7787f7434.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_9808ca5b80225c69dd40eb1b8581f7b7787f7434.600x338.jpg?t=1559500944
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_8c517b609cf861dc1374937fcbfa72b0a36954b5.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_8c517b609cf861dc1374937fcbfa72b0a36954b5.600x338.jpg?t=1559500944
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_2567649b672c06933b92056aed75637fca620a5a.1920x1080.jpg?t=1559500944
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/911640/ss_2567649b672c06933b92056aed75637fca620a5a.600x338.jpg?t=1559500944
+    short_description: A game of strategy complicated by chance.
+    steam_appid: 911640
+    support_info:
+      email: support@racingthought.com
+      url: https://racingthought.com/contact/
+    supported_languages: English, German
+    type: game
+    website: https://racingthought.com/chromasquares/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

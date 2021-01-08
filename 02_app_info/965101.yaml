@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: The original script for Welcome To... Chichester Redux.  Note
+      that the visual novel differs quite a bit from the script, as a lot was added
+      during the coding process.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/965101/page_bg_generated_v6b.jpg?t=1548182102
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 5
+      notes: Descriptions of realistic and comedic violence
+    detailed_description: The original script for Welcome To... Chichester Redux.  Note
+      that the visual novel differs quite a bit from the script, as a lot was added
+      during the coding process.
+    developers:
+    - Triority
+    fullgame:
+      appid: '963770'
+      name: 'Welcome To... Chichester 1/Redux : The Spy Of America And The Long Vacation'
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/965101/header.jpg?t=1548182102
+    is_free: false
+    legal_notice: Only to be used for educational purposes.  Unauthorised reproduction
+      in any media form is not allowed.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF Reader Needed</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF Reader Needed</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF Reader Needed</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF Reader Needed</li></ul>
+    name: WTC Redux Script
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: WTC Redux Script - <span class="discount_original_price">$5.99</span>
+          $1.49
+        packageid: 315901
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 149
+      title: Buy WTC Redux Script
+    packages:
+    - 315901
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF Reader Needed</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> PDF Reader Needed</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 149
+      final_formatted: $1.49
+      initial: 599
+      initial_formatted: $5.99
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_82f28265162d41eda51400573450f3db269514c6.1920x1080.jpg?t=1548182102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_82f28265162d41eda51400573450f3db269514c6.600x338.jpg?t=1548182102
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_58d98ec16e414ecaf9c911dccb27f9a2af297897.1920x1080.jpg?t=1548182102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_58d98ec16e414ecaf9c911dccb27f9a2af297897.600x338.jpg?t=1548182102
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_42a32a72e7ffb7ee7e737b9bdb81f173d7448965.1920x1080.jpg?t=1548182102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_42a32a72e7ffb7ee7e737b9bdb81f173d7448965.600x338.jpg?t=1548182102
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_1fe523ae68251cb5c6012848a5df227b61d4b45c.1920x1080.jpg?t=1548182102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_1fe523ae68251cb5c6012848a5df227b61d4b45c.600x338.jpg?t=1548182102
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_13bca8aa9c2d2781222ad25b380e6230f4a37b30.1920x1080.jpg?t=1548182102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/965101/ss_13bca8aa9c2d2781222ad25b380e6230f4a37b30.600x338.jpg?t=1548182102
+    short_description: Welcome To... Chichester Redux original...
+    steam_appid: 965101
+    support_info:
+      email: triority_developer@outlook.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

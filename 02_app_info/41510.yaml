@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    achievements:
+      highlighted:
+      - name: The Adventure Begins
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/07c2f02d0c630594306296366d09a68ffbdcda0c.jpg
+      - name: Master Smasher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/5768058b0e1353dae209e63221b7d308121cb0e2.jpg
+      - name: Beast of Burden
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/070257ef270d02f5cfec62ecb427783344c82f7d.jpg
+      - name: Rich
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/3730b45435358152666e030f16dd5dfd90ed3c09.jpg
+      - name: Deep Pockets
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/fe22c18b66b112d9c076213814aa161c737e68f3.jpg
+      - name: Gibbed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/ee575f2f11026307ac45add6741d6ce62106278b.jpg
+      - name: Deep Delver
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/550721f09664943da48d644da2c9eac7ea1864cd.jpg
+      - name: Epic Strike
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/bf2a7e8927fe048856e01221a3ac9b07a6815c49.jpg
+      - name: True Delver
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/b11ffb59d5034b5ad96f819258fd98353bc9401b.jpg
+      - name: Angler
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/41510/3f23f1bcdcd886c3fed6594451a5b86e4db76666.jpg
+      total: 66
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Runic Games
+    fullgame:
+      appid: '41500'
+      name: Torchlight
+    genres:
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/41510/header.jpg?t=1572486190
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 83
+    name: Torchlight Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Runic Games
+    release_date:
+      coming_soon: false
+      date: Oct 27, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 41510
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://www.torchlightgame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

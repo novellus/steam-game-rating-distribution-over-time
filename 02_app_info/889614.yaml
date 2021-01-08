@@ -1,0 +1,100 @@
+details:
+  data:
+    about_the_game: "Unlock a unique request from Meel, the Keeper of Wunderkammer,\
+      \ and complete it to receive a one-of-a-kind item\u2014the Strategy Guide Pact!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/889614/page_bg_generated_v6b.jpg?t=1537289384
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Unlock a unique request from Meel, the Keeper of Wunderkammer,\
+      \ and complete it to receive a one-of-a-kind item\u2014the Strategy Guide Pact!"
+    developers:
+    - Nippon Ichi Software, Inc.
+    fullgame:
+      appid: '566540'
+      name: 'Labyrinth of Refrain: Coven of Dusk'
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/889614/header.jpg?t=1537289384
+    is_free: false
+    legal_notice: "\xA92016-2018 Nippon Ichi Software, Inc. \xA92018 NIS America,\
+      \ Inc. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Labyrinth of Refrain: Coven of Dusk - Meel''s Strategy Guide Pact'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Labyrinth of Refrain: Coven of Dusk - Meel''s Strategy Guide
+          Pact - $0.99'
+        packageid: 283565
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Labyrinth of Refrain: Coven of Dusk - Meel''s Strategy Guide Pact'
+    packages:
+    - 283565
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Same with base game</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - NIS America, Inc.
+    release_date:
+      coming_soon: false
+      date: Sep 18, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889614/ss_ba24daa5e1d5673eb0375f1fd6b755c1b2fa84fc.1920x1080.jpg?t=1537289384
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889614/ss_ba24daa5e1d5673eb0375f1fd6b755c1b2fa84fc.600x338.jpg?t=1537289384
+    short_description: "Unlock a unique request from Meel, the Keeper of Wunderkammer,\
+      \ and complete it to receive a one-of-a-kind item\u2014the Strategy Guide Pact!"
+    steam_appid: 889614
+    support_info:
+      email: ''
+      url: http://www.nisamerica.com/index.php?nav=s
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong>, French<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

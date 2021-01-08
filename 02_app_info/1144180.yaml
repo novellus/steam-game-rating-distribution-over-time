@@ -1,0 +1,146 @@
+details:
+  data:
+    about_the_game: "The &quot;Best Of&quot; soundtrack contains every music piece\
+      \ currently in the game mastered in a traditional album format. Every time we\
+      \ add new music to the game, we'll expand this album for no additional charge.<br\
+      \ />\r\n<br />\r\nThe official Them's Fightin' Herds soundtrack was created\
+      \ by musicians Stuart Ferguson and Whitetail. 100% of the proceeds from soundtrack\
+      \ sales (after platform fees) go directly to them. Thanks for your support,\
+      \ and enjoy!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1144180/page_bg_generated_v6b.jpg?t=1604522001
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Additional High-Quality Audio
+      id: 50
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The &quot;Best Of&quot; soundtrack contains every music\
+      \ piece currently in the game mastered in a traditional album format. Every\
+      \ time we add new music to the game, we'll expand this album for no additional\
+      \ charge.<br />\r\n<br />\r\nThe official Them's Fightin' Herds soundtrack was\
+      \ created by musicians Stuart Ferguson and Whitetail. 100% of the proceeds from\
+      \ soundtrack sales (after platform fees) go directly to them. Thanks for your\
+      \ support, and enjoy!"
+    developers:
+    - Mane6, Inc.
+    fullgame:
+      appid: '574980'
+      name: Them's Fightin' Herds
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1144180/header.jpg?t=1604522001
+    is_free: false
+    legal_notice: "<strong>THEM\u2019S FIGHTIN\u2019 HERDS</strong> \xAE & \xA9 2017\
+      \ Mane6, Inc. All rights reserved.<br><strong>THEM\u2019S FIGHTIN\u2019 HERDS</strong>\
+      \ is a registered trademark of Mane6, Inc. <br>All other trademarks and copyrights\
+      \ are the property of their respective owners. Used under license. All rights\
+      \ reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Them's Fightin' Herds - "Best Of" Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Them's Fightin' Herds - "Best Of" Soundtrack - $9.99
+        packageid: 389463
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Them's Fightin' Herds - "Best Of" Soundtrack
+    packages:
+    - 389463
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        309 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Humble Games
+    release_date:
+      coming_soon: false
+      date: Feb 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1144180/ss_803d554bf543fdde56d30b937488391d134f5751.1920x1080.jpg?t=1604522001
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1144180/ss_803d554bf543fdde56d30b937488391d134f5751.600x338.jpg?t=1604522001
+    short_description: "Them\u2019s Fightin\u2019 Herds is an indie 2D fighting game\
+      \ featuring a cast of adorable animals designed by acclaimed cartoon producer\
+      \ Lauren Faust. The official soundtrack was created by musicians Stuart Ferguson\
+      \ and Whitetail."
+    steam_appid: 1144180
+    support_info:
+      email: support@mane6.com
+      url: https://forums.themsfightinherds.com/index.php
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://mane6.com/
+  success: true
+reviews:
+  cursor: AoJ4oKjPj/YCc5XCtgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 11
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 82
+      num_reviews: 4
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198975943813'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81400147'
+    review: I do enjoy the soundtrack. It is well made and works very well for the
+      game itself , it also enjoyable to listen too on its own. I would recommend
+      it.
+    steam_purchase: true
+    timestamp_created: 1606841877
+    timestamp_updated: 1606841877
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: "If you are satisfied with the game &quot;Draw Near&quot;, please\
+      \ support us by purchasing this DLC.<h2 class=\"bb_tag\">\u25CFATTENTION</h2>This\
+      \ DLC is only for donations. it contains no content and will not affect the\
+      \ game."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/832950/page_bg_generated_v6b.jpg?t=1547551262
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "If you are satisfied with the game &quot;Draw Near&quot;,\
+      \ please support us by purchasing this DLC.<h2 class=\"bb_tag\">\u25CFATTENTION</h2>This\
+      \ DLC is only for donations. it contains no content and will not affect the\
+      \ game."
+    developers:
+    - Omniscience
+    fullgame:
+      appid: '831490'
+      name: Draw Near
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/832950/header.jpg?t=1547551262
+    is_free: false
+    legal_notice: "Copyright \xA9 2017-2018 Omniscience All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Donation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Donation - $2.99
+        packageid: 257913
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Donation
+    packages:
+    - 257913
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10 (64bit Required)</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 8.1, 10 (64bit Required)</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 2, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/832950/ss_75e5851eb2fdd66e91b1e7488be42a9c5d629118.1920x1080.jpg?t=1547551262
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/832950/ss_75e5851eb2fdd66e91b1e7488be42a9c5d629118.600x338.jpg?t=1547551262
+    short_description: This DLC is only for donations, it contains no content and
+      does not affect the game.
+    steam_appid: 832950
+    support_info:
+      email: ''
+      url: http://omniscience.hateblo.jp/entry/CONTACT
+    supported_languages: English, Japanese
+    type: dlc
+    website: http://omniscience.hateblo.jp/entry/DrawNear
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

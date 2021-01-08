@@ -1,0 +1,228 @@
+details:
+  data:
+    about_the_game: "You probably heard the theory that we live inside a computer\
+      \ simulation.<br><br>I wanted to create a big sandbox game in which you can\
+      \ create your own simulations, change the laws of physics, design mechanisms,\
+      \ create A-Life worlds and inhabit them with living beings, experiment with\
+      \ evolution and AI.<br><br>SST is a particle simulator that uses a graphics\
+      \ card as a supercomputer to calculate physics. The more powerful the graphics\
+      \ card, the greater the gameplay!<br><br>The building block of all worlds is\
+      \ an atom. Atoms can have links, thus producing spatial structures.<br><br>The\
+      \ physical properties of materials can vary over a wide range, allowing the\
+      \ simulation of gases, liquids, soft and solid bodies, various chemical processes\
+      \ and states of matter.<br><br>Perhaps even creating a virtual life!<br><br>For\
+      \ example, the \u201CProtobiome\u201D simulation is a living virtual world with\
+      \ light, water, earth, growing plants and dwelling creatures, guided by evolutionary\
+      \ genetics.<br><br><strong>ATTENTION!<br><br>The game is in the deep Early Access\
+      \ state. It may be unstable. It may also completely fail to run on your system.<br><br>The\
+      \ game had initially been developed for NVIDIA cards. Therefore, the project\
+      \ works most optimally and efficiently on modern NVIDIA GPUs using CUDA. However,\
+      \ I'm willing to support the widest possible range of gaming systems. This is\
+      \ why the game also has an OpenCL port, so it can run on most AMD graphics cards\
+      \ as well.<br><br>It is really important that you have a recent version of the\
+      \ video driver installed. In case of problems running the game, first of all,\
+      \ please, try to update the video card driver!<br><br>I HIGHLY RECOMMEND to\
+      \ try the free demo version of the game before buying the Early Access version.\
+      \ This will let you make sure the game works well on your system! </strong>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1196080/page_bg_generated_v6b.jpg?t=1601491440
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1320450
+      description: ''
+    detailed_description: "You probably heard the theory that we live inside a computer\
+      \ simulation.<br><br>I wanted to create a big sandbox game in which you can\
+      \ create your own simulations, change the laws of physics, design mechanisms,\
+      \ create A-Life worlds and inhabit them with living beings, experiment with\
+      \ evolution and AI.<br><br>SST is a particle simulator that uses a graphics\
+      \ card as a supercomputer to calculate physics. The more powerful the graphics\
+      \ card, the greater the gameplay!<br><br>The building block of all worlds is\
+      \ an atom. Atoms can have links, thus producing spatial structures.<br><br>The\
+      \ physical properties of materials can vary over a wide range, allowing the\
+      \ simulation of gases, liquids, soft and solid bodies, various chemical processes\
+      \ and states of matter.<br><br>Perhaps even creating a virtual life!<br><br>For\
+      \ example, the \u201CProtobiome\u201D simulation is a living virtual world with\
+      \ light, water, earth, growing plants and dwelling creatures, guided by evolutionary\
+      \ genetics.<br><br><strong>ATTENTION!<br><br>The game is in the deep Early Access\
+      \ state. It may be unstable. It may also completely fail to run on your system.<br><br>The\
+      \ game had initially been developed for NVIDIA cards. Therefore, the project\
+      \ works most optimally and efficiently on modern NVIDIA GPUs using CUDA. However,\
+      \ I'm willing to support the widest possible range of gaming systems. This is\
+      \ why the game also has an OpenCL port, so it can run on most AMD graphics cards\
+      \ as well.<br><br>It is really important that you have a recent version of the\
+      \ video driver installed. In case of problems running the game, first of all,\
+      \ please, try to update the video card driver!<br><br>I HIGHLY RECOMMEND to\
+      \ try the free demo version of the game before buying the Early Access version.\
+      \ This will let you make sure the game works well on your system! </strong>"
+    developers:
+    - Pavel Kudinov
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1196080/header.jpg?t=1601491440
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256787381
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787381/movie480.mp4?t=1592176337
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787381/movie_max.mp4?t=1592176337
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256787381/movie.293x165.jpg?t=1592176337
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787381/movie480_vp9.webm?t=1592176337
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787381/movie_max_vp9.webm?t=1592176337
+    name: Space Simulation Toolkit
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Space Simulation Toolkit - $14.99
+        packageid: 412112
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Space Simulation Toolkit
+    packages:
+    - 412112
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong>
+        Core i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA/AMD with OpenCL 1.2 support, 1+ GB VRAM<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Additional Notes:</strong> UPDATE
+        GPU DRIVERS!</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10<br></li><li><strong>Processor:</strong> Core i5<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GPU with CUDA support,
+        4+ GB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional
+        Notes:</strong> UPDATE GPU DRIVERS!</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Pavel Kudinov
+    release_date:
+      coming_soon: false
+      date: Jun 5, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_0c9a6421ba69fb592f09ee1564bafd98cc7a4f84.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_0c9a6421ba69fb592f09ee1564bafd98cc7a4f84.600x338.jpg?t=1601491440
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_8e50956082e7c9b5d2c907e2a4443373e334df7e.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_8e50956082e7c9b5d2c907e2a4443373e334df7e.600x338.jpg?t=1601491440
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_f1c603deb440ad8c1b28732ec0abd6e6ef2f26f7.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_f1c603deb440ad8c1b28732ec0abd6e6ef2f26f7.600x338.jpg?t=1601491440
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_8b1946b020419ee540b638f3ed2492c4f8e0c852.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_8b1946b020419ee540b638f3ed2492c4f8e0c852.600x338.jpg?t=1601491440
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_c1947e39380d41fdf17c61b00c611ef4e0014b41.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_c1947e39380d41fdf17c61b00c611ef4e0014b41.600x338.jpg?t=1601491440
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_c53d2392bbeeba71279871321787ebf7516c1fcc.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_c53d2392bbeeba71279871321787ebf7516c1fcc.600x338.jpg?t=1601491440
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_eed6e9e4e359386094503dcc5d7cc6c54164e820.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_eed6e9e4e359386094503dcc5d7cc6c54164e820.600x338.jpg?t=1601491440
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_fc0043c3f1539e9aa7318e4364ddb6772a0688e8.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_fc0043c3f1539e9aa7318e4364ddb6772a0688e8.600x338.jpg?t=1601491440
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_3135fa88d5701b49335df953a056cd839ebb3d28.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_3135fa88d5701b49335df953a056cd839ebb3d28.600x338.jpg?t=1601491440
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_fcb99a31da1a10c5ea16bd8732fc3049986ca547.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_fcb99a31da1a10c5ea16bd8732fc3049986ca547.600x338.jpg?t=1601491440
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_e4e65aacbdf8b6d1e710dfaaac5deb4f29d06072.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_e4e65aacbdf8b6d1e710dfaaac5deb4f29d06072.600x338.jpg?t=1601491440
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_fb394d339dc9028a7dcdb6e7e0d63e4d5947883c.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_fb394d339dc9028a7dcdb6e7e0d63e4d5947883c.600x338.jpg?t=1601491440
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_6eb17215e785cc561cc5c51eff3a2433839ec18f.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_6eb17215e785cc561cc5c51eff3a2433839ec18f.600x338.jpg?t=1601491440
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_2a342ff76e14321f7c4f83c604a90c629e402c4c.1920x1080.jpg?t=1601491440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1196080/ss_2a342ff76e14321f7c4f83c604a90c629e402c4c.600x338.jpg?t=1601491440
+    short_description: Physics sandbox game that uses a graphics card as a supercomputer.
+      Change the laws of physics, design mechanisms, create A-Life worlds and inhabit
+      them with living beings, experiment with evolution and AI.
+    steam_appid: 1196080
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/groups/SpaceSimulationToolkit
+    supported_languages: English
+    type: game
+    website: https://discord.gg/bBqKG3A
+  success: true
+reviews:
+  cursor: AoJ4scLf7PYCefGNwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 5
+    total_positive: 25
+    total_reviews: 30
+  reviews:
+  - author:
+      last_played: 1609973355
+      num_games_owned: 15
+      num_reviews: 7
+      playtime_at_review: 573
+      playtime_forever: 675
+      playtime_last_two_weeks: 101
+      steamid: '76561198357778446'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '84176665'
+    review: "\u0444\u0438\u0437\u0438\u043A\u0430 \u0431\u0430\u043B\u0434\u0451\u0436"
+    steam_purchase: true
+    timestamp_created: 1609966687
+    timestamp_updated: 1609966687
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

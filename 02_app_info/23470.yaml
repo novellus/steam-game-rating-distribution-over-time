@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Haemimont Games
+    fullgame:
+      appid: '23450'
+      name: 'Grand Ages: Rome'
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/23470/header.jpg?t=1580400749
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 72
+    name: 'Grand Ages: Rome Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: "<ul class=\"bb_ul\"><li><strong>Operating system: </strong>Windows\xAE\
+        \ XP &amp; Vista                     <br>\t\t\t\t\t</li><li><strong>Processor:\
+        \ </strong>2.5 GHz Single Core Processor                     <br>\t\t\t\t\t\
+        </li><li><strong>Memory: </strong>1 GB RAM                     <br>\t\t\t\t\
+        \t</li><li><strong>Hard disk space: </strong>4 GB                      <br>\t\
+        \t\t\t\t</li><li><strong>Video: </strong>128 MB 3d Video Card (GeForce\xAE\
+        \ 6600/Radeon\xAE 9600 or better)                    <br>\t\t\t\t\t</li><li><strong>DirectX\xAE\
+        \ Version: </strong>9c                     </li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Kalypso Media Digital
+    release_date:
+      coming_soon: false
+      date: Feb 26, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 23470
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, German
+    type: demo
+    website: http://www.grandages.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

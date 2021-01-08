@@ -1,0 +1,93 @@
+details:
+  data:
+    about_the_game: Soundtrack for project gravity. Consist of 10 ambient songs which
+      play during your playthrough.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1430560/page_bg_generated_v6b.jpg?t=1600976132
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack for project gravity. Consist of 10 ambient songs
+      which play during your playthrough.
+    developers:
+    - "\u0160t\u011Bp\xE1n Meister"
+    fullgame:
+      appid: '1392140'
+      name: Project Gravity
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1430560/header.jpg?t=1600976132
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Project Gravity Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Project Gravity Soundtrack - $0.99
+        packageid: 502466
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Project Gravity Soundtrack
+    packages:
+    - 502466
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - "\u0160t\u011Bp\xE1n Meister"
+    release_date:
+      coming_soon: false
+      date: Sep 24, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_bd1b80383c5fd06ad0f2d9a6a86daf6579626923.1920x1080.jpg?t=1600976132
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_bd1b80383c5fd06ad0f2d9a6a86daf6579626923.600x338.jpg?t=1600976132
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_9b1fabcd032d39edab03250e432e2e087b16517e.1920x1080.jpg?t=1600976132
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_9b1fabcd032d39edab03250e432e2e087b16517e.600x338.jpg?t=1600976132
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_3ab42a70a7ddfc85b50fc9ebf8f640ac56bd3af1.1920x1080.jpg?t=1600976132
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_3ab42a70a7ddfc85b50fc9ebf8f640ac56bd3af1.600x338.jpg?t=1600976132
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_7d45a9cde987acc635b8c4756d4fc0db4248cb23.1920x1080.jpg?t=1600976132
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_7d45a9cde987acc635b8c4756d4fc0db4248cb23.600x338.jpg?t=1600976132
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_8f99eece59b5452efc70f9523667414c322cfdaf.1920x1080.jpg?t=1600976132
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1430560/ss_8f99eece59b5452efc70f9523667414c322cfdaf.600x338.jpg?t=1600976132
+    short_description: Soundtrack for project gravity. Consist of 10 ambient songs
+      which play during your playthrough.
+    steam_appid: 1430560
+    support_info:
+      email: projectgravity.game@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

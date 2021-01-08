@@ -1,0 +1,152 @@
+details:
+  data:
+    about_the_game: '<strong>Hnefatafl</strong> is an ancient Scandinavian board game
+      whose variants were played all over medieval Europe before chess was even invented.
+      In those so called Tafl games two different sized armies fight each other. The
+      invading black army tries to capture the white king, while the defending white
+      army tries to protect their king and help him escape.<br><br>Often also called
+      the Game of the Vikings <strong>Hnefatafl</strong> tells many stories, like
+      the Moskowites invasion of Sweden or the Viking hordes pillaging Britain. But
+      no matter what the story is one thing always stays the same: <i>The hunt for
+      the king</i>.<br><br>Even though the rules aren''t complicated the game offers
+      fascinating strategies and rewards tactical play. Try to surround the enemy
+      pieces, plan ahead, lay traps and force your opponent into surrender. Will you
+      capture the king for gold and glory? Can the loyal guards hold back the invading
+      forces and secure the flight of their king?<br><br>You can even create your
+      own custom variants -- with over 200,000 different variants possible -- for
+      online or offline play!<h2 class="bb_tag">The Demo</h2>This demo includes the
+      variant &quot;Copenhagen Hnefatafl&quot; and you can play against the AI as
+      the defender (trying to escape as the King). The demo doesn''t support switching
+      sides, chosing different AIs, playing locally against another human or online
+      play. Nor does it have achievements, workshop support or custom variants. <br><br>If
+      you want all that, consider buying the full game.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1394850/page_bg_generated_v6b.jpg?t=1597731903
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong>Hnefatafl</strong> is an ancient Scandinavian board
+      game whose variants were played all over medieval Europe before chess was even
+      invented. In those so called Tafl games two different sized armies fight each
+      other. The invading black army tries to capture the white king, while the defending
+      white army tries to protect their king and help him escape.<br><br>Often also
+      called the Game of the Vikings <strong>Hnefatafl</strong> tells many stories,
+      like the Moskowites invasion of Sweden or the Viking hordes pillaging Britain.
+      But no matter what the story is one thing always stays the same: <i>The hunt
+      for the king</i>.<br><br>Even though the rules aren''t complicated the game
+      offers fascinating strategies and rewards tactical play. Try to surround the
+      enemy pieces, plan ahead, lay traps and force your opponent into surrender.
+      Will you capture the king for gold and glory? Can the loyal guards hold back
+      the invading forces and secure the flight of their king?<br><br>You can even
+      create your own custom variants -- with over 200,000 different variants possible
+      -- for online or offline play!<h2 class="bb_tag">The Demo</h2>This demo includes
+      the variant &quot;Copenhagen Hnefatafl&quot; and you can play against the AI
+      as the defender (trying to escape as the King). The demo doesn''t support switching
+      sides, chosing different AIs, playing locally against another human or online
+      play. Nor does it have achievements, workshop support or custom variants. <br><br>If
+      you want all that, consider buying the full game.'
+    developers:
+    - Philippe Schober
+    fullgame:
+      appid: '1249510'
+      name: Hnefatafl
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1394850/header.jpg?t=1597731903
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 16.04<br></li><li><strong>Processor:</strong>
+        x64 architecture with SSE2 instruction set support<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2+, Vulkan capable<br></li><li><strong>Storage:</strong> 200 MB available
+        space<br></li><li><strong>Additional Notes:</strong> Gnome desktop environment
+        running on top of X11 windowing system Other configuration and user environment
+        as provided stock with the supported distribution (such as Kernel or Compositor)
+        Nvidia and AMD GPUs using Nvidia official proprietary graphics driver or AMD
+        Mesa graphics driver.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Ubuntu
+        18.04<br></li><li><strong>Processor:</strong> x64 architecture with SSE2 instruction
+        set support<br></li><li><strong>Graphics:</strong> OpenGL 3.2+, Vulkan capable<br></li><li><strong>Storage:</strong>
+        300 MB available space<br></li><li><strong>Additional Notes:</strong> Gnome
+        desktop environment running on top of X11 windowing system Other configuration
+        and user environment as provided stock with the supported distribution (such
+        as Kernel or Compositor) Nvidia and AMD GPUs using Nvidia official proprietary
+        graphics driver or AMD Mesa graphics driver.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Hnefatafl Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Sound Card:</strong> Optional</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10<br></li><li><strong>Processor:</strong> Faster CPU equals better AI opponents<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX11 capabilities<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound
+        Card:</strong> Yes</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - Philippe Schober
+    release_date:
+      coming_soon: false
+      date: Aug 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_b5e23e084eb1fec1a3205635b93f14a0609ae15a.1920x1080.jpg?t=1597731903
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_b5e23e084eb1fec1a3205635b93f14a0609ae15a.600x338.jpg?t=1597731903
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_f608807bbddc091541ef028396b915f3fdc46006.1920x1080.jpg?t=1597731903
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_f608807bbddc091541ef028396b915f3fdc46006.600x338.jpg?t=1597731903
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_1112cdb222aadd2f3dac6ec01c9c832403327e1e.1920x1080.jpg?t=1597731903
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_1112cdb222aadd2f3dac6ec01c9c832403327e1e.600x338.jpg?t=1597731903
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_aad0c3ab43978ddf428483796e827ea3e637660a.1920x1080.jpg?t=1597731903
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_aad0c3ab43978ddf428483796e827ea3e637660a.600x338.jpg?t=1597731903
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_faa2e3883c2bd920cb08b917d254193776b6e327.1920x1080.jpg?t=1597731903
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_faa2e3883c2bd920cb08b917d254193776b6e327.600x338.jpg?t=1597731903
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_596186696c0bbb9ccdb7253acea0976e2784633a.1920x1080.jpg?t=1597731903
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_596186696c0bbb9ccdb7253acea0976e2784633a.600x338.jpg?t=1597731903
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_185881ff6bc732cb26b6492d7d3fd95918f489fe.1920x1080.jpg?t=1597731903
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1394850/ss_185881ff6bc732cb26b6492d7d3fd95918f489fe.600x338.jpg?t=1597731903
+    short_description: The ancient boardgame of the Vikings.
+    steam_appid: 1394850
+    support_info:
+      email: support@fellhuhn.com
+      url: ''
+    supported_languages: English, French, Italian, German, Dutch, Norwegian, Polish,
+      Russian, Ukrainian
+    type: demo
+    website: https://www.fellhuhn.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

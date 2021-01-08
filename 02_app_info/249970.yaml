@@ -1,0 +1,69 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Bleank
+    fullgame:
+      appid: '233680'
+      name: Black Ink
+    genres:
+    - description: Design & Illustration
+      id: '53'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/249970/header.jpg?t=1447358556
+    is_free: true
+    legal_notice: "Black Ink \xA92013 Bleank. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Black Ink Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP (SP3)<br></li><li><strong>Processor:</strong> Single Core Processor  at
+        1.6 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphic card with support of pixel shader 3.0 and 512 Mo of VRAM<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 (SP1)<br></li><li><strong>Processor:</strong> Quad core processor<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Graphic card with pixel shader
+        3.0 support and with 1 GB of VRAM<br></li><li><strong>DirectX:</strong> Version
+        11<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 6, 2013
+    required_age: 0
+    short_description: ''
+    steam_appid: 249970
+    support_info:
+      email: products@bleank.com
+      url: http://forum.bleank.com/viewforum.php?f=3
+    supported_languages: English
+    type: demo
+    website: http://blackink.bleank.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

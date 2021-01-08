@@ -1,0 +1,155 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/398520/page_bg_generated_v6b.jpg?t=1447377750
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Roll7
+    fullgame:
+      appid: '365660'
+      name: 'OlliOlli2: Welcome to Olliwood'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/398520/header.jpg?t=1447377750
+    is_free: false
+    legal_notice: Copyright 2015 Roll7. All Rights Reserved.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Eardrums highly recommended.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Eardrums highly recommended.</li></ul>
+    name: OlliOlli2 Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: OlliOlli2 Soundtrack - $6.99
+        packageid: 77028
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: OlliOlli2 RAD Edition - $19.99
+        packageid: 79280
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy OlliOlli2 Soundtrack
+    packages:
+    - 77028
+    - 79280
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Eardrums highly recommended.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Devolver Digital
+    release_date:
+      coming_soon: false
+      date: Oct 12, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/398520/ss_b31b0dd49251c1afaafb95207ebe365fc0b596be.1920x1080.jpg?t=1447377750
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/398520/ss_b31b0dd49251c1afaafb95207ebe365fc0b596be.600x338.jpg?t=1447377750
+    short_description: ''
+    steam_appid: 398520
+    support_info:
+      email: ''
+      url: http://www.roll7.co.uk/#!olliolli2/ccko
+    supported_languages: English, French, Italian, German, Spanish - Spain, Japanese
+    type: dlc
+    website: http://www.roll7.co.uk/#!olliolli2/ccko
+  success: true
+reviews:
+  cursor: AoJ4i5bA/vQCcdKWpgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 360
+      num_reviews: 35
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198051922186'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77116705'
+    review: "I personally think the soundtrack here, more than the average game, makes\
+      \ a huge part of this game's personality. Not only does this help define the\
+      \ game outside of the other skate games (a la THPS and Skate), it also helps\
+      \ that it keeps up the game pacing. You're doing dozens of tries to nail that\
+      \ full combo run, and it's nice to have something not quite so aggressive and\
+      \ upfront, especially since each run could be anywhere from 10s to 40s. \n\n\
+      But overall, how good is the music? A solid 8-9/10. Honestly could've benefited\
+      \ from maybe a couple more tracks, as you'll no doubt listen to all of it multiple\
+      \ times in a few short sessions, but I do realise this is a smaller game with\
+      \ a correspondingly smaller team. Everything is suitably chilled out, helping\
+      \ you reach a calmer state. The soundtrack's also pretty dang consistent too,\
+      \ something I really do appreciate. While I do realise this is a compilation\
+      \ of previously released tracks, nothing here is atrociously mixed, nor is anything\
+      \ of subpar quality. Nice mix of house, chill, minimal. \n\nIf you're into music\
+      \ collecting however, the tracks are unfortunately in 160 kbps MP3. No FLAC\
+      \ lossless for you, but it's also annoying that a lot of the tags aren't filled\
+      \ in. Mp3tag is your friend. On decent headphones the loss in quality is noticeable,\
+      \ but again, it's nothing atrocious. \n\nFavourite track: [i]Lust-StarRo[/i]"
+    steam_purchase: true
+    timestamp_created: 1601972515
+    timestamp_updated: 1601972515
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

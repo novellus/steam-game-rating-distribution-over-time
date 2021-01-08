@@ -1,0 +1,61 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Jaime Paz Lopes
+    fullgame:
+      appid: '887300'
+      name: Bleeding Sun
+    genres:
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/892220/header.jpg?t=1530241101
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Bleeding Sun Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Jaime Paz Lopes
+    release_date:
+      coming_soon: false
+      date: Jun 28, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 892220
+    support_info:
+      email: jaime.plopes@gmail.com
+      url: https://twitter.com/JaimePazLopes
+    supported_languages: English, Portuguese - Brazil
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

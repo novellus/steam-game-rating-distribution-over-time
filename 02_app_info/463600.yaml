@@ -1,0 +1,133 @@
+details:
+  data:
+    about_the_game: Officiel Guide about Inexistence, discover all the secrets and
+      information about the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/463600/page_bg_generated_v6b.jpg?t=1461003510
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Officiel Guide about Inexistence, discover all the secrets
+      and information about the game.
+    developers:
+    - Jonathan BRASSAUD
+    fullgame:
+      appid: '444720'
+      name: Inexistence
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/463600/header.jpg?t=1461003510
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Official Guide - Inexistence
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Official Guide - Inexistence - $0.99
+        packageid: 101476
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Official Guide - Inexistence
+    packages:
+    - 101476
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP3<br></li><li><strong>Processor:</strong> Processeur Pentium
+        200 Mhz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong>
+        118 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 18, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/463600/ss_2bd6a947fa6af137c4d3c226e04e943530edb346.1920x1080.jpg?t=1461003510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/463600/ss_2bd6a947fa6af137c4d3c226e04e943530edb346.600x338.jpg?t=1461003510
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/463600/ss_7f83c3e3bca734780925b6e3dacfa9a189f11e76.1920x1080.jpg?t=1461003510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/463600/ss_7f83c3e3bca734780925b6e3dacfa9a189f11e76.600x338.jpg?t=1461003510
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/463600/ss_726ef141f016050afe20815b1d333473ba002228.1920x1080.jpg?t=1461003510
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/463600/ss_726ef141f016050afe20815b1d333473ba002228.600x338.jpg?t=1461003510
+    short_description: Officiel Guide about Inexistence, discover all the secrets
+      and information about the game.
+    steam_appid: 463600
+    support_info:
+      email: jonathan.brassaud36@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://pixold.fr/Inexistence
+  success: true
+reviews:
+  cursor: AoJ4yd+swtoCeZ2tcw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1043
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198003051437'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '30239193'
+    review: Un cutre PDF, en ingles, de 21 paginas.
+    steam_purchase: true
+    timestamp_created: 1488285007
+    timestamp_updated: 1488285007
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.48207169771194458'
+    written_during_early_access: false
+  success: 1

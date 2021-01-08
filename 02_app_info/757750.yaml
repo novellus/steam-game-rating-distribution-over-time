@@ -1,0 +1,100 @@
+details:
+  data:
+    about_the_game: "This DLC have music, which you hear in the Barrimean Jungle.<br\
+      \ />\r\n<br />\r\n- The Hopelessness<br />\r\n- Through The Darkness<br />\r\
+      \n- The Latest Witcher"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/757750/page_bg_generated_v6b.jpg?t=1511482608
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC have music, which you hear in the Barrimean Jungle.<br\
+      \ />\r\n<br />\r\n- The Hopelessness<br />\r\n- Through The Darkness<br />\r\
+      \n- The Latest Witcher"
+    developers:
+    - Golden Bear's GAMEWORKS
+    fullgame:
+      appid: '749650'
+      name: Barrimean Jungle
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/757750/header.jpg?t=1511482608
+    is_free: false
+    legal_notice: "\xA9 Golden Bear's Company"
+    linux_requirements: []
+    mac_requirements: []
+    name: Barrimean Jungle |AUDIO PACK|
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Barrimean Jungle |AUDIO PACK| - $0.99
+        packageid: 223562
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Barrimean Jungle |AUDIO PACK|
+    packages:
+    - 223562
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> GTX 560<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 23, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/757750/ss_def2cce82b89a8097c74325f6e001379837953b7.1920x1080.jpg?t=1511482608
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/757750/ss_def2cce82b89a8097c74325f6e001379837953b7.600x338.jpg?t=1511482608
+    short_description: This DLC have music, which you hear in the Barrimean Jungle.
+    steam_appid: 757750
+    support_info:
+      email: n.e.vision.good@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

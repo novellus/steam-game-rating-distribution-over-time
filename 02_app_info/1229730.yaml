@@ -1,0 +1,192 @@
+details:
+  data:
+    about_the_game: "Achievement Clicker is a simple clicker game. All you need to\
+      \ do is click the trophy to get points and earn amazing achievements<br />\r\
+      \n<br />\r\nFeatures:<br />\r\n- Nice Achievements<br />\r\n- Cool OST<br />\r\
+      \n- Simple Gameplay<br />\r\n- Discord Rich Presence"
+    achievements:
+      highlighted:
+      - name: '!'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/0f799475baae1524c6879f4e24448760298b2109.jpg
+      - name: '"'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/3cf8b26bad8cf0015c564d6dab6ef6a06f9c522f.jpg
+      - name: '#'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/11d510a46da164cd4573594543eb527fe7f2a6f0.jpg
+      - name: $
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/191ded156521d0dceaa5a2e0eb6e8c3d4e2bd8b0.jpg
+      - name: '%'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/2d72eeff7df0e768a08a423b100f6a77bc885422.jpg
+      - name: '&'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/aeb8330ae55f3b770b2ef1b69ba80a59f52839af.jpg
+      - name: ''''
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/71c3b4f48ac0e3b03001d3506cff54bb6bb9631c.jpg
+      - name: (
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/77679033e354fea98f6554dd0d94a186d2a46431.jpg
+      - name: )
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/55f9602330f1b2e45e56179b164a0d139aff946f.jpg
+      - name: '*'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1229730/3868a92890f34259312c0c918156f824aba5fa08.jpg
+      total: 100
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1229730/page_bg_generated_v6b.jpg?t=1589937716
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Achievement Clicker is a simple clicker game. All you need\
+      \ to do is click the trophy to get points and earn amazing achievements<br />\r\
+      \n<br />\r\nFeatures:<br />\r\n- Nice Achievements<br />\r\n- Cool OST<br />\r\
+      \n- Simple Gameplay<br />\r\n- Discord Rich Presence"
+    developers:
+    - Barlow Studio
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1229730/header.jpg?t=1589937716
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        2.0 GHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GT 240<br></li><li><strong>Storage:</strong> 128 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        3.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GT 240 (or better)<br></li><li><strong>Storage:</strong> 128
+        MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 240<br></li><li><strong>Storage:</strong>
+        128 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10<br></li><li><strong>Processor:</strong> 3.0 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 240 (or
+        better)<br></li><li><strong>Storage:</strong> 128 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256773218
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773218/movie480.mp4?t=1580241232
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773218/movie_max.mp4?t=1580241232
+      name: trailer 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256773218/movie.293x165.jpg?t=1580241232
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773218/movie480.webm?t=1580241232
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773218/movie_max.webm?t=1580241232
+    name: Achievement Clicker
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Achievement Clicker - $0.99
+        packageid: 426364
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Achievement Clicker
+    packages:
+    - 426364
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 240<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 128 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> 3.0 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 240 (or
+        better)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        128 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Barlow Studio
+    release_date:
+      coming_soon: false
+      date: Feb 11, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_33c629c2c30a021892b5f28422063bf6cdd41f8a.1920x1080.jpg?t=1589937716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_33c629c2c30a021892b5f28422063bf6cdd41f8a.600x338.jpg?t=1589937716
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_58182fa9c4c735c4200f684a36b66fd3f8d5bbc1.1920x1080.jpg?t=1589937716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_58182fa9c4c735c4200f684a36b66fd3f8d5bbc1.600x338.jpg?t=1589937716
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_507b816a2c46914c315cda53aa52bdd9a4579a33.1920x1080.jpg?t=1589937716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_507b816a2c46914c315cda53aa52bdd9a4579a33.600x338.jpg?t=1589937716
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_dd9a32da587d598de85d0b14bbec97a205950d5f.1920x1080.jpg?t=1589937716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_dd9a32da587d598de85d0b14bbec97a205950d5f.600x338.jpg?t=1589937716
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_0e319449d67500bb17dbbe63a288e0b650e1e941.1920x1080.jpg?t=1589937716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_0e319449d67500bb17dbbe63a288e0b650e1e941.600x338.jpg?t=1589937716
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_c5fe13f81d6940998198f5402c81763fa12bc721.1920x1080.jpg?t=1589937716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_c5fe13f81d6940998198f5402c81763fa12bc721.600x338.jpg?t=1589937716
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_836ca4d88d43350f8ce455a1b857d500dc6bd8b1.1920x1080.jpg?t=1589937716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1229730/ss_836ca4d88d43350f8ce455a1b857d500dc6bd8b1.600x338.jpg?t=1589937716
+    short_description: Achievement Clicker is a simple clicker game. All you need
+      to do is click the trophy to get points and earn amazing...
+    steam_appid: 1229730
+    support_info:
+      email: xxmichas@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwtYuU3/YCdLm0vwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 10
+    total_positive: 10
+    total_reviews: 20
+  reviews:
+  - author:
+      last_played: 1609510689
+      num_games_owned: 1101
+      num_reviews: 605
+      playtime_at_review: 5
+      playtime_forever: 5
+      playtime_last_two_weeks: 5
+      steamid: '76561198041885150'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '83731348'
+    review: Yes.
+    steam_purchase: true
+    timestamp_created: 1609510706
+    timestamp_updated: 1609510706
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

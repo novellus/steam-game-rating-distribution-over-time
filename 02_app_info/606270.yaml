@@ -1,0 +1,172 @@
+details:
+  data:
+    about_the_game: "This game allows you to play both chess and checkers in virtual\
+      \ reality, either against the computer AI, or against a friend on the same computer\
+      \ (using desktop screen and mouse). There are 3 AI settings to choose from and\
+      \ the chess board measures 1.5m x 1.5m.<br />\r\n<br />\r\nThe game can be played\
+      \ both room scale and seated. To play the game room scale, just place your controller\
+      \ on the piece you wish to move and then pull the trigger whilst lifting the\
+      \ piece up. Then place it over a valid square and let go of the trigger, when\
+      \ that square has turned green. To play it seated, you can simply hold the 'Point'\
+      \ button down and then aim at the piece you wish to select, before pulling the\
+      \ trigger. If playing against a friend on the same computer, then they will\
+      \ need to use the desktop screen and mouse. They can then play by first clicking\
+      \ on the desired piece and then clicking on the valid square they wish to move\
+      \ to."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/606270/page_bg_generated_v6b.jpg?t=1585706841
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This game allows you to play both chess and checkers in\
+      \ virtual reality, either against the computer AI, or against a friend on the\
+      \ same computer (using desktop screen and mouse). There are 3 AI settings to\
+      \ choose from and the chess board measures 1.5m x 1.5m.<br />\r\n<br />\r\n\
+      The game can be played both room scale and seated. To play the game room scale,\
+      \ just place your controller on the piece you wish to move and then pull the\
+      \ trigger whilst lifting the piece up. Then place it over a valid square and\
+      \ let go of the trigger, when that square has turned green. To play it seated,\
+      \ you can simply hold the 'Point' button down and then aim at the piece you\
+      \ wish to select, before pulling the trigger. If playing against a friend on\
+      \ the same computer, then they will need to use the desktop screen and mouse.\
+      \ They can then play by first clicking on the desired piece and then clicking\
+      \ on the valid square they wish to move to."
+    developers:
+    - MobileFusion Apps Ltd
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/606270/header.jpg?t=1585706841
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256779780
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779780/movie480.mp4?t=1585706838
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779780/movie_max.mp4?t=1585706838
+      name: Chess and Checkers VR Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256779780/movie.293x165.jpg?t=1585706838
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779780/movie480.webm?t=1585706838
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779780/movie_max.webm?t=1585706838
+    name: Chess and Checkers VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Chess and Checkers VR - $4.99
+        packageid: 160037
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Chess and Checkers VR
+    packages:
+    - 160037
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> Intel\xAE i5-4590, AMD\
+        \ FX 8350 equivalent or better<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA GeForce\xAE GTX 970, AMD Radeon\u2122 R9 290 equivalent or better,\
+        \ Video Output: HDMI 1.4, DisplayPort 1.2 or newer<br></li><li><strong>Storage:</strong>\
+        \ 373 MB available space<br></li><li><strong>Additional Notes:</strong> HTC\
+        \ Vive required</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - MobileFusion Apps Ltd
+    release_date:
+      coming_soon: false
+      date: Mar 14, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_aa395b55f9a4c84b18f2356ef7ced37b2d3cc820.1920x1080.jpg?t=1585706841
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_aa395b55f9a4c84b18f2356ef7ced37b2d3cc820.600x338.jpg?t=1585706841
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_b2e710e5bae907ba628af655ef86b7bb3419768d.1920x1080.jpg?t=1585706841
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_b2e710e5bae907ba628af655ef86b7bb3419768d.600x338.jpg?t=1585706841
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_992433b20f6e45552c543304755423e48d23d0b4.1920x1080.jpg?t=1585706841
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_992433b20f6e45552c543304755423e48d23d0b4.600x338.jpg?t=1585706841
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_77d0d79854cd8301347ff9eba23ca4a16f2441b3.1920x1080.jpg?t=1585706841
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_77d0d79854cd8301347ff9eba23ca4a16f2441b3.600x338.jpg?t=1585706841
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_033a865260230c69fc5680d2285a8d35ca32ed6f.1920x1080.jpg?t=1585706841
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/606270/ss_033a865260230c69fc5680d2285a8d35ca32ed6f.600x338.jpg?t=1585706841
+    short_description: Play chess and checkers in virtual reality, either against
+      the computer AI, or against a friend on the same computer (using desktop screen
+      and mouse). There are 3 AI settings to choose from and the chess board measures
+      1.5m x 1.5m. The game can be played both room scale and seated.
+    steam_appid: 606270
+    support_info:
+      email: contact@mobilefusionapps.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw2qCItPUCf+uvqgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 3
+    total_positive: 1
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1603763478
+      num_games_owned: 265
+      num_reviews: 14
+      playtime_at_review: 37
+      playtime_forever: 37
+      playtime_last_two_weeks: 0
+      steamid: '76561198014028337'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78216895'
+    review: "I bought this game because it's hilarious watching the dude in the tux\
+      \ move his pieces inhumanly fast. \n\nOh, and it's a perfectly functional chess/checker\
+      \ game too. Best $2 I've ever spent."
+    steam_purchase: true
+    timestamp_created: 1603769796
+    timestamp_updated: 1603769796
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

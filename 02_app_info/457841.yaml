@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: Enter the Gungeon digital comic by Dayjob Studio.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/457841/page_bg_generated_v6b.jpg?t=1459866634
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Enter the Gungeon digital comic by Dayjob Studio.
+    developers:
+    - Dodge Roll
+    fullgame:
+      appid: '311690'
+      name: Enter the Gungeon
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/457841/header.jpg?t=1459866634
+    is_free: false
+    legal_notice: Copyright 2016 Dodge Roll. All Rights Reserved.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or later</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8 or later</li></ul>
+    name: Enter the Gungeon - Digital Comic
+    package_groups: []
+    packages:
+    - 99435
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or Later</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Devolver Digital
+    release_date:
+      coming_soon: false
+      date: Apr 5, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/457841/ss_1c092b7bd1adf76b4bb78553bda243ca49ceff82.1920x1080.jpg?t=1459866634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/457841/ss_1c092b7bd1adf76b4bb78553bda243ca49ceff82.600x338.jpg?t=1459866634
+    short_description: Enter the Gungeon digital comic by Dayjob Studio.
+    steam_appid: 457841
+    support_info:
+      email: ''
+      url: http://www.enterthegungeon.com
+    supported_languages: English, French, Italian, German, Spanish - Spain, Japanese,
+      Korean, Polish, Portuguese - Brazil, Russian
+    type: dlc
+    website: http://www.enterthegungeon.com
+  success: true
+reviews:
+  cursor: AoJ4paGiwvUCcZLLqwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 7
+    total_positive: 42
+    total_reviews: 49
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 39
+      num_reviews: 71
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198066046193'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '78534945'
+    review: Bom quadrinho pra complementar.
+    steam_purchase: true
+    timestamp_created: 1604246375
+    timestamp_updated: 1604246375
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

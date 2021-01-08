@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: The Original Soundtrack of VirtuaVerse by MASTER BOOT RECORD
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1343530/page_bg_generated_v6b.jpg?t=1592498414
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Original Soundtrack of VirtuaVerse by MASTER BOOT RECORD
+    developers:
+    - Theta Division
+    fullgame:
+      appid: '1019310'
+      name: VirtuaVerse
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1343530/header.jpg?t=1592498414
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: VirtuaVerse Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: VirtuaVerse Soundtrack - $7.00
+        packageid: 469780
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 700
+      title: Buy VirtuaVerse Soundtrack
+    packages:
+    - 469780
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        205 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 1094 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 700
+      final_formatted: $7.00
+      initial: 700
+      initial_formatted: ''
+    publishers:
+    - Blood Music
+    release_date:
+      coming_soon: false
+      date: Jun 18, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1343530/ss_aaf315d70643554cb70f8f9d272df0b8cd16b8fb.1920x1080.jpg?t=1592498414
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1343530/ss_aaf315d70643554cb70f8f9d272df0b8cd16b8fb.600x338.jpg?t=1592498414
+    short_description: The Original Soundtrack of VirtuaVerse by MASTER BOOT RECORD
+    steam_appid: 1343530
+    support_info:
+      email: support@blood-music.com
+      url: http://www.blood-music.com
+    type: music
+    website: http://www.mbrserver.com
+  success: true
+reviews:
+  cursor: AoJwuvS95PICcsTpjgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 737
+      num_reviews: 4
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198068329322'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '70995010'
+    review: "\u041A\u0443\u043F\u0438\u043B, \u043F\u0440\u043E\u0441\u0442\u043E\
+      \ \u0447\u0442\u043E\u0431\u044B \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0430\
+      \u0442\u044C \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\
+      \u043E\u0432, \u0434\u0430 \u0438 \u0441\u0430\u0443\u043D\u0434\u0442\u0440\
+      \u0435\u043A \u043E\u0447\u0435\u043D\u044C \u0438 \u043E\u0447\u0435\u043D\u044C\
+      \ \u0445\u043E\u0440\u043E\u0448) \u0421 \u043D\u0435\u0442\u0435\u0440\u043F\
+      \u0435\u043D\u0438\u0435\u043C \u0436\u0434\u0443 \u0440\u0443\u0441\u0441\u043A\
+      \u043E\u0439 \u043B\u043E\u043A\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u0438\
+      )\n\nI bought it just to support the developers, and the soundtrack is very,\
+      \ very good) I look forward to Russian localization)"
+    steam_purchase: true
+    timestamp_created: 1592509572
+    timestamp_updated: 1592509572
+    voted_up: true
+    votes_funny: 0
+    votes_up: 8
+    weighted_vote_score: '0.639440715312957764'
+    written_during_early_access: false
+  success: 1

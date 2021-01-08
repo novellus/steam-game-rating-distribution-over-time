@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: 'Digital Art Book for Drumpf 2: Lost, But Not Forgotten!<br><br>Features:<br><ul
+      class="bb_ul"><li>Total number of pages: 124.<br></li><li>Format for Art book
+      is .pdf.<br></li><li>Contains images of all of the characters, enemies, and
+      companions found in Drumpf 2: Lost, But Not Forgotten!<br></li><li>Digital Art
+      book can be located in: ..\Steam\steamapps\common\Drumpf 2 Lost But Not Forgotten\Artbook\</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1110131/page_bg_generated_v6b.jpg?t=1563206438
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 3
+      - 5
+      notes: There are gratuitous depictions of both sexual acts and violence in this
+        game. If you are not okay with either of those things, this may not be the
+        game for you.
+    detailed_description: 'Digital Art Book for Drumpf 2: Lost, But Not Forgotten!<br><br>Features:<br><ul
+      class="bb_ul"><li>Total number of pages: 124.<br></li><li>Format for Art book
+      is .pdf.<br></li><li>Contains images of all of the characters, enemies, and
+      companions found in Drumpf 2: Lost, But Not Forgotten!<br></li><li>Digital Art
+      book can be located in: ..\Steam\steamapps\common\Drumpf 2 Lost But Not Forgotten\Artbook\</li></ul>'
+    developers:
+    - DP3 Softworks
+    fullgame:
+      appid: '1039290'
+      name: 'Drumpf 2: Lost, But Not Forgotten!'
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1110131/header.jpg?t=1563206438
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Drumpf 2: Lost, But Not Forgotten! - Digital Art Book'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Drumpf 2: Lost, But Not Forgotten! - Artbook - <span class="discount_original_price">$1.99</span>
+          $0.49'
+        packageid: 375473
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 49
+      title: 'Buy Drumpf 2: Lost, But Not Forgotten! - Digital Art Book'
+    packages:
+    - 375473
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 500 MHz<br></li><li><strong>Memory:</strong>
+        500 MB RAM<br></li><li><strong>Graphics:</strong> Integrated<br></li><li><strong>Storage:</strong>
+        270 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 49
+      final_formatted: $0.49
+      initial: 199
+      initial_formatted: $1.99
+    publishers:
+    - DP3 Softworks
+    release_date:
+      coming_soon: false
+      date: Jul 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1110131/ss_23b1de79e091fa0f713fa6cec4e59e46875189cc.1920x1080.jpg?t=1563206438
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1110131/ss_23b1de79e091fa0f713fa6cec4e59e46875189cc.600x338.jpg?t=1563206438
+    short_description: 'Digital Art Book for Drumpf 2: Lost, But Not Forgotten!'
+    steam_appid: 1110131
+    support_info:
+      email: dp3softworks@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

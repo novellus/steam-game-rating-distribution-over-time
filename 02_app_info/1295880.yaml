@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: Original soundtrack of Core Awaken~the Yuka~
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1295880/page_bg_generated_v6b.jpg?t=1601599163
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Original soundtrack of Core Awaken~the Yuka~
+    developers:
+    - Celusis
+    fullgame:
+      appid: '878150'
+      name: Core Awaken ~The Yuka~
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1295880/header.jpg?t=1601599163
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Core Awaken ~The Yuka~ Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Core Awaken ~The Yuka~ Soundtrack - $6.99
+        packageid: 452098
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Core Awaken ~The Yuka~ Soundtrack
+    packages:
+    - 452098
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        130 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - CelLab
+    release_date:
+      coming_soon: false
+      date: Jun 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1295880/ss_3481af80264f4cc50717fb102e7a8d7602508563.1920x1080.jpg?t=1601599163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1295880/ss_3481af80264f4cc50717fb102e7a8d7602508563.600x338.jpg?t=1601599163
+    short_description: Original soundtrack of Core Awaken~the Yuka~
+    steam_appid: 1295880
+    support_info:
+      email: zestoStudio@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwvuSXu/UCfNH3qgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 61
+      num_reviews: 7
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198107350285'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78363932'
+    review: "Yes.\n\u6953\u96C5\u4E5D\u5F25 is a god"
+    steam_purchase: true
+    timestamp_created: 1604008748
+    timestamp_updated: 1604008748
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

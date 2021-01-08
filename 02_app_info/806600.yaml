@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: "Travel back in time and enjoy the retro feel of a 2D adventure\
+      \ game. Wind your way through labyrinths filled with ghosts, spiders, goblins\
+      \ and other surprises before you run out of light! Collect as much treasure\
+      \ as you can along the way in order to receive bonus power ups to help you.<br\
+      \ />\r\n<br />\r\n50% of proceeds from this game will go to benefit CHOC Children's."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/806600/page_bg_generated_v6b.jpg?t=1521126947
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Travel back in time and enjoy the retro feel of a 2D adventure\
+      \ game. Wind your way through labyrinths filled with ghosts, spiders, goblins\
+      \ and other surprises before you run out of light! Collect as much treasure\
+      \ as you can along the way in order to receive bonus power ups to help you.<br\
+      \ />\r\n<br />\r\n50% of proceeds from this game will go to benefit CHOC Children's."
+    developers:
+    - Halfheartd Games
+    dlc:
+    - 823520
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/806600/header.jpg?t=1521126947
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256709724
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256709724/movie480.mp4?t=1519708116
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256709724/movie_max.mp4?t=1519708116
+      name: Escape! Release Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256709724/movie.293x165.jpg?t=1519708116
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256709724/movie480.webm?t=1519708116
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256709724/movie_max.webm?t=1519708116
+    name: Escape!
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Escape! - <span class="discount_original_price">$2.99</span>
+          $0.74
+        packageid: 245855
+        percent_savings: 0
+        percent_savings_text: '-75% '
+        price_in_cents_with_discount: 74
+      title: Buy Escape!
+    packages:
+    - 245855
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong>
+        Version 9.0</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 75
+      final: 74
+      final_formatted: $0.74
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - Halfheartd Games
+    release_date:
+      coming_soon: false
+      date: Mar 15, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_66ef0d356a2c505cca8c9d30a211c16a0c554891.1920x1080.jpg?t=1521126947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_66ef0d356a2c505cca8c9d30a211c16a0c554891.600x338.jpg?t=1521126947
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_557b00dd4c46e50c1552f1f985ad95e0d71a4fb0.1920x1080.jpg?t=1521126947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_557b00dd4c46e50c1552f1f985ad95e0d71a4fb0.600x338.jpg?t=1521126947
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_905185a9f614474026d301835d13a7b30fdd2a99.1920x1080.jpg?t=1521126947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_905185a9f614474026d301835d13a7b30fdd2a99.600x338.jpg?t=1521126947
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_67ea337c759dd05f5dc032c1211745a7acfeb491.1920x1080.jpg?t=1521126947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_67ea337c759dd05f5dc032c1211745a7acfeb491.600x338.jpg?t=1521126947
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_abb520279922197af4df0b0d2073fdfc76ed6081.1920x1080.jpg?t=1521126947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/806600/ss_abb520279922197af4df0b0d2073fdfc76ed6081.600x338.jpg?t=1521126947
+    short_description: Travel back in time and enjoy the retro feel of a 2D adventure
+      game. Wind your way through labyrinths filled with ghosts, spiders, goblins
+      and other surprises before you run out of light! Collect as much treasure as
+      you can along the way in order to receive bonus power ups to help you.
+    steam_appid: 806600
+    support_info:
+      email: halfheartdgames@gmail.com
+      url: https://www.facebook.com/halfheartdgames/
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

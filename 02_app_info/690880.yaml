@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: "This music pack includes:<br />\r\n<br />\r\n= FamiSoulFrOST\
+      \ - authentic 8-bit NES versions of 6 original tracks made from scratch with\
+      \ FamiTracker, by Xeneder.<br />\r\n<br />\r\n= SoulFrOST - original soundtrack\
+      \ of SoulFrost, consisting of:<br />\r\n- 6 in-game tracks<br />\r\n- 4 &quot;Lost\
+      \ Tracks&quot; which were made but were unused in-game<br />\r\n- 5 &quot;Extra\
+      \ Mix&quot; tracks which are resampled from the original ones. 4 of there are\
+      \ the Brip-07b variations actually.<br />\r\n<br />\r\nFull tracklist:<br />\r\
+      \n<br />\r\n1. Brip-00<br />\r\n2. Brip-01<br />\r\n3. Brip-02<br />\r\n4. Brip-04<br\
+      \ />\r\n5. Brip-07b<br />\r\n6. Brip-08<br />\r\n<br />\r\n7. Brip-01 old<br\
+      \ />\r\n8. Brip-03<br />\r\n9. Brip-05<br />\r\n10. Brip-07<br />\r\n<br />\r\
+      \n11. Brip-07b-Dirty<br />\r\n12. Brip-07c<br />\r\n13. Brip-07d<br />\r\n14.\
+      \ Brip-08b"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/690880/page_bg_generated_v6b.jpg?t=1501783948
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This music pack includes:<br />\r\n<br />\r\n= FamiSoulFrOST\
+      \ - authentic 8-bit NES versions of 6 original tracks made from scratch with\
+      \ FamiTracker, by Xeneder.<br />\r\n<br />\r\n= SoulFrOST - original soundtrack\
+      \ of SoulFrost, consisting of:<br />\r\n- 6 in-game tracks<br />\r\n- 4 &quot;Lost\
+      \ Tracks&quot; which were made but were unused in-game<br />\r\n- 5 &quot;Extra\
+      \ Mix&quot; tracks which are resampled from the original ones. 4 of there are\
+      \ the Brip-07b variations actually.<br />\r\n<br />\r\nFull tracklist:<br />\r\
+      \n<br />\r\n1. Brip-00<br />\r\n2. Brip-01<br />\r\n3. Brip-02<br />\r\n4. Brip-04<br\
+      \ />\r\n5. Brip-07b<br />\r\n6. Brip-08<br />\r\n<br />\r\n7. Brip-01 old<br\
+      \ />\r\n8. Brip-03<br />\r\n9. Brip-05<br />\r\n10. Brip-07<br />\r\n<br />\r\
+      \n11. Brip-07b-Dirty<br />\r\n12. Brip-07c<br />\r\n13. Brip-07d<br />\r\n14.\
+      \ Brip-08b"
+    developers:
+    - Xitilon
+    - Xeneder
+    fullgame:
+      appid: '675220'
+      name: SoulFrost
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/690880/header.jpg?t=1501783948
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: SoulFrost Original+Arranged SoundTrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SoulFrost Original+Arranged SoundTrack - $0.99
+        packageid: 198033
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy SoulFrost Original+Arranged SoundTrack
+    packages:
+    - 198033
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Anything reading MP3<br></li><li><strong>Storage:</strong> 50 MB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Xitilon
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/690880/ss_e7947a8d5e1abbbdc44a7c91d96d79a7b2376e5d.1920x1080.jpg?t=1501783948
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/690880/ss_e7947a8d5e1abbbdc44a7c91d96d79a7b2376e5d.600x338.jpg?t=1501783948
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/690880/ss_d9a891860a29119f622fc0cbff225dd3d9668d6e.1920x1080.jpg?t=1501783948
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/690880/ss_d9a891860a29119f622fc0cbff225dd3d9668d6e.600x338.jpg?t=1501783948
+    short_description: Original soundtrack of SoulFrost + authentic 8-bit NES versions
+      of 6 original tracks made from scratch with FamiTracker, by Xeneder.
+    steam_appid: 690880
+    support_info:
+      email: xitilon@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: https://xitilon.itch.io/soulfrost
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

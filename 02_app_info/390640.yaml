@@ -1,0 +1,68 @@
+details:
+  data:
+    about_the_game: This demo includes the first two levels of Big Journey to Home.
+      It supports leaderboards and BJtH-Online achievements. Progress from the demo
+      is transferrable to the full version
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Captions available
+      id: 13
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This demo includes the first two levels of Big Journey to
+      Home. It supports leaderboards and BJtH-Online achievements. Progress from the
+      demo is transferrable to the full version
+    developers:
+    - The Light Sword Team
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/390640/header.jpg?t=1447377313
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Big Journey to Home Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - The Light Sword Team
+    release_date:
+      coming_soon: false
+      date: Aug 20, 2015
+    required_age: 0
+    short_description: This demo includes the first two levels of Big Journey to Home.
+      It supports leaderboards and BJtH-Online achievements.
+    steam_appid: 390640
+    support_info:
+      email: silversword@live.ru
+      url: http://bigjourneytohome.com/
+    supported_languages: English, Russian
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

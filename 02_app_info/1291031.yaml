@@ -1,0 +1,159 @@
+details:
+  data:
+    about_the_game: "The Task Menu can perform duties similar to your task bar.  Currently\
+      \ open programs will appear in the Task Menu, where you can quickly access them\
+      \ with the ring menu system.  Your open programs will also be searchable using\
+      \ the Action Search feature, allowing you to quickly find an open window by\
+      \ window title, which can come in especially handy for power users who may have\
+      \ dozens of windows open simultaneously.<br>This product is available natively\
+      \ in English, but it has automated translations for most major languages.<br>Contents:\
+      \ Task Menu (\u2756\u29C2), Task View (\u25A6\u2756), Task Handler (\u2756)<h2\
+      \ class=\"bb_tag\">Task Menu (\u2756\u29C2)</h2>Contains currently active apps.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Task Ring Focus Ordering (Default: True)<br>If enabled,\
+      \ the most recently focused app will always be moved to the last position in\
+      \ the task ring and task menu.<br></li><li>Task Ring Include Task View (Default:\
+      \ True)<br>If enabled, task view action will be available in the task ring.\
+      \  The task view action will open your operating system's task viewer, if available.<br></li><li>Dirty\
+      \ Chromium Icon Integration (Default: False)<br>When enabled, it checks the\
+      \ URLs of your Chrome windows to retrieve individual icons for them.  Beware\
+      \ that this feature inspects the URLs you are visiting and requests the icon\
+      \ from the associated website.<br></li><li>Dirty Chromium Icon Integration Page\
+      \ Specific (Default: False)<br>Tries to parse contents of URLs from Chrome windows\
+      \ to find page specific icons for them.  Beware that this feature inspects the\
+      \ URLs you are visiting and requests the page and the icon from the associated\
+      \ page.  Sometimes Chrome does not react well to the integration, so if Chrome\
+      \ starts freezing up on you, you should try to turn this off and see if it improves.</li></ul><h2\
+      \ class=\"bb_tag\">Task View (\u25A6\u2756)</h2>Opens your operating system's\
+      \ task viewer.<br><ul class=\"bb_ul\"><li>Only works on operating systems that\
+      \ have a built-in task viewer.<br></li><li>Simply sends [\u2756]+[Tab], which\
+      \ is the default operating system hotkey for opening its task viewer.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Task Ring Include Task View (Default: True)<br>If enabled,\
+      \ task view action will be available in the task ring.  The task view action\
+      \ will open your operating system's task viewer, if available.</li></ul><h2\
+      \ class=\"bb_tag\">Task Handler (\u2756)</h2>The task handler controls what\
+      \ happens when you interact with task buttons or their flyout menus.<br><ul\
+      \ class=\"bb_ul\"><li>When single clicking a task handler button, it will bring\
+      \ the associated task to the foreground.<br></li><li>A secondary action is available\
+      \ when you press and hold the task handler button and then right click anywhere\
+      \ on the screen.  The secondary action will bring the associated task to the\
+      \ foreground and also center it on the cursor, which may be extra helpful on\
+      \ excessively large monitors or multiple monitor systems.<br></li><li>The Window\
+      \ Menu (\U0001F5D4\u29C2) action available in the task handler flyout is bound\
+      \ to the associated task, which will be automatically targeted by any of the\
+      \ actions within.  This provides an easy way to make any of the adjustments\
+      \ available within the window menu to a window even if it is not visible or\
+      \ not clickable.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1291031/page_bg_generated_v6b.jpg?t=1606277208
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Task Menu can perform duties similar to your task bar.\
+      \  Currently open programs will appear in the Task Menu, where you can quickly\
+      \ access them with the ring menu system.  Your open programs will also be searchable\
+      \ using the Action Search feature, allowing you to quickly find an open window\
+      \ by window title, which can come in especially handy for power users who may\
+      \ have dozens of windows open simultaneously.<br>This product is available natively\
+      \ in English, but it has automated translations for most major languages.<br>Contents:\
+      \ Task Menu (\u2756\u29C2), Task View (\u25A6\u2756), Task Handler (\u2756)<h2\
+      \ class=\"bb_tag\">Task Menu (\u2756\u29C2)</h2>Contains currently active apps.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Task Ring Focus Ordering (Default: True)<br>If enabled,\
+      \ the most recently focused app will always be moved to the last position in\
+      \ the task ring and task menu.<br></li><li>Task Ring Include Task View (Default:\
+      \ True)<br>If enabled, task view action will be available in the task ring.\
+      \  The task view action will open your operating system's task viewer, if available.<br></li><li>Dirty\
+      \ Chromium Icon Integration (Default: False)<br>When enabled, it checks the\
+      \ URLs of your Chrome windows to retrieve individual icons for them.  Beware\
+      \ that this feature inspects the URLs you are visiting and requests the icon\
+      \ from the associated website.<br></li><li>Dirty Chromium Icon Integration Page\
+      \ Specific (Default: False)<br>Tries to parse contents of URLs from Chrome windows\
+      \ to find page specific icons for them.  Beware that this feature inspects the\
+      \ URLs you are visiting and requests the page and the icon from the associated\
+      \ page.  Sometimes Chrome does not react well to the integration, so if Chrome\
+      \ starts freezing up on you, you should try to turn this off and see if it improves.</li></ul><h2\
+      \ class=\"bb_tag\">Task View (\u25A6\u2756)</h2>Opens your operating system's\
+      \ task viewer.<br><ul class=\"bb_ul\"><li>Only works on operating systems that\
+      \ have a built-in task viewer.<br></li><li>Simply sends [\u2756]+[Tab], which\
+      \ is the default operating system hotkey for opening its task viewer.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Task Ring Include Task View (Default: True)<br>If enabled,\
+      \ task view action will be available in the task ring.  The task view action\
+      \ will open your operating system's task viewer, if available.</li></ul><h2\
+      \ class=\"bb_tag\">Task Handler (\u2756)</h2>The task handler controls what\
+      \ happens when you interact with task buttons or their flyout menus.<br><ul\
+      \ class=\"bb_ul\"><li>When single clicking a task handler button, it will bring\
+      \ the associated task to the foreground.<br></li><li>A secondary action is available\
+      \ when you press and hold the task handler button and then right click anywhere\
+      \ on the screen.  The secondary action will bring the associated task to the\
+      \ foreground and also center it on the cursor, which may be extra helpful on\
+      \ excessively large monitors or multiple monitor systems.<br></li><li>The Window\
+      \ Menu (\U0001F5D4\u29C2) action available in the task handler flyout is bound\
+      \ to the associated task, which will be automatically targeted by any of the\
+      \ actions within.  This provides an easy way to make any of the adjustments\
+      \ available within the window menu to a window even if it is not visible or\
+      \ not clickable.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1291031/header.jpg?t=1606277208
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Task Menu
+    package_groups: []
+    packages:
+    - 505110
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1291031/ss_a96581eb0b59bcc990afcc1adc923714ed2a2df7.1920x1080.jpg?t=1606277208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1291031/ss_a96581eb0b59bcc990afcc1adc923714ed2a2df7.600x338.jpg?t=1606277208
+    short_description: The Task Menu is like your task bar. Currently open apps will
+      appear in the Task Menu, where you can access them with the ring menu system.
+      Your open programs will also be searchable, allowing you to find an open window
+      by window title, useful for power users with dozens of windows open.
+    steam_appid: 1291031
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-task-menu
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

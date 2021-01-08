@@ -1,0 +1,117 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Stuff For Nerds</h2><br>Ever wanted to download
+      the source code of some irrelevant indie game on Steam? Now you can do it!<br><br>This
+      DLC includes <strong>the source code</strong> for both the game engine (based
+      on <a href="https://steamcommunity.com/linkfilter/?url=https://opensludge.github.io/"
+      target="_blank" rel="noopener"  >OpenSLUDGE</a>) and game scripts consisting
+      of <i>The Secret of Tremendous Corporation</i>.<br><br>Found a bug you want
+      to fix for us? Want to learn how the game works? <i>Muh freedomz?</i> We got
+      you covered!<br><br>The DLC installs the source code into the &quot;src&quot;
+      directory in your Steam library. With a little bit of software building experience
+      and manpage reading skills, you should be able to build your own copy of TSoTC
+      entirely from scratch.<br><br><i>Please don't judge us when you read the code!</i>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/408940/page_bg_generated_v6b.jpg?t=1530026167
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">Stuff For Nerds</h2><br>Ever wanted to
+      download the source code of some irrelevant indie game on Steam? Now you can
+      do it!<br><br>This DLC includes <strong>the source code</strong> for both the
+      game engine (based on <a href="https://steamcommunity.com/linkfilter/?url=https://opensludge.github.io/"
+      target="_blank" rel="noopener"  >OpenSLUDGE</a>) and game scripts consisting
+      of <i>The Secret of Tremendous Corporation</i>.<br><br>Found a bug you want
+      to fix for us? Want to learn how the game works? <i>Muh freedomz?</i> We got
+      you covered!<br><br>The DLC installs the source code into the &quot;src&quot;
+      directory in your Steam library. With a little bit of software building experience
+      and manpage reading skills, you should be able to build your own copy of TSoTC
+      entirely from scratch.<br><br><i>Please don't judge us when you read the code!</i>
+    developers:
+    - Sebastian Krzyszkowiak
+    - Konrad Burandt
+    - "Pawe\u0142 Radej"
+    fullgame:
+      appid: '380140'
+      name: The Secret of Tremendous Corporation
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/408940/header.jpg?t=1530026167
+    is_free: true
+    legal_notice: <i>OpenSLUDGE</i> is distributed on GNU LGPLv2.1<br><i>The Secret
+      of Tremendous Corporation</i> is distributed on CC-BY-SA 4.0 International
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Awesome</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Decent</li></ul>
+    name: The Sources of Tremendous Corporation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: The Sources of Tremendous Corporation - Free
+        packageid: 81026
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: Buy The Sources of Tremendous Corporation
+    packages:
+    - 81026
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - dosowisko.net
+    release_date:
+      coming_soon: false
+      date: Oct 12, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/408940/ss_1af12526ac1acb05bb01fb2e0bf1f101e929bb2f.1920x1080.jpg?t=1530026167
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/408940/ss_1af12526ac1acb05bb01fb2e0bf1f101e929bb2f.600x338.jpg?t=1530026167
+    short_description: Source code - stuff for The Nerds of Tremendous Corporation
+    steam_appid: 408940
+    support_info:
+      email: tsotc@dosowisko.net
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://tremendouscorp.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,114 @@
+details:
+  data:
+    about_the_game: 'This is a permanent advent calendar! You''ll get: <br><ul class="bb_ul"><li>Access
+      to the Advent Calendar. Once a day you''ll be able to open the next day and
+      receive 50 gems. <br></li><li>Every 7 days of the calendar, you''ll get 300
+      gems!<br></li><li>It''s permanent! No need to re-pay once you open all 28 days.
+      The next day you''ll start over at 1. <br></li><li>Our love and gratitude!</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/778881/page_bg_generated_v6b.jpg?t=1588967653
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'This is a permanent advent calendar! You''ll get: <br><ul
+      class="bb_ul"><li>Access to the Advent Calendar. Once a day you''ll be able
+      to open the next day and receive 50 gems. <br></li><li>Every 7 days of the calendar,
+      you''ll get 300 gems!<br></li><li>It''s permanent! No need to re-pay once you
+      open all 28 days. The next day you''ll start over at 1. <br></li><li>Our love
+      and gratitude!</li></ul>'
+    developers:
+    - Samobee Games
+    fullgame:
+      appid: '772070'
+      name: Harvest Seasons
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/778881/header.jpg?t=1588967653
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Harvest Seasons - Advent Calendar
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Harvest Seasons - Advent Calendar - $9.99
+        packageid: 234365
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Harvest Seasons - Advent Calendar
+    packages:
+    - 234365
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7 or later<br></li><li><strong>Processor:</strong> 64bit
+        Intel compatible Dual Core CPU<br></li><li><strong>Memory:</strong> 32 MB
+        RAM<br></li><li><strong>Graphics:</strong> VIDEO CARD: DX9 compliant graphics
+        card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        60 MB available space</li></ul>'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Samobee Games
+    release_date:
+      coming_soon: false
+      date: Feb 23, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/778881/ss_958e41f06fc38ecfab29b995db8f184bc053f73a.1920x1080.jpg?t=1588967653
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/778881/ss_958e41f06fc38ecfab29b995db8f184bc053f73a.600x338.jpg?t=1588967653
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/778881/ss_9960ac270b62cc5baf14cd1ad802a8270dfc956e.1920x1080.jpg?t=1588967653
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/778881/ss_9960ac270b62cc5baf14cd1ad802a8270dfc956e.600x338.jpg?t=1588967653
+    short_description: Get an Advent Calendar, which will permanently award you with
+      50 gems a day forever!
+    steam_appid: 778881
+    support_info:
+      email: contact@beardedbunnies.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

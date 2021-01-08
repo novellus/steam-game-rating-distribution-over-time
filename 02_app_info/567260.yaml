@@ -1,0 +1,222 @@
+details:
+  data:
+    about_the_game: "Super death arena is an online horde mode survival game where\
+      \ you fight increasingly larger waves of mutants in an all out arena brawl.\
+      \ The goal is to survive ten waves of increasingly more mutants where you receive\
+      \ better and better weaponry to use. Keep moving and look out for bear traps\
+      \ that spawn in the level so you don't get stuck, and keep a distance when blowing\
+      \ up explosive barrels in the levels, they damage mutants as well as yourself\
+      \ or other players.<br />\r\n<br />\r\nYou will receive XP for each zombie kill,\
+      \ dismemberment, wave survived and more, and when you level up you receive a\
+      \ loot box. These loot boxes unlock new gear to customize your character with."
+    achievements:
+      highlighted:
+      - name: Quad Kill!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/8c21012b019366f030b98449a9b782dbd75b6a84.jpg
+      - name: "Q\u2026 Quindecuple kill?"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/73a40e35200f5465998addeec1c5573de913f73b.jpg
+      - name: HEADSHOT!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/47eefbcaa6eca96e296db33b781e0b320e987c47.jpg
+      - name: (H)armless
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/9eff7c296ea21c30a6403720060d3ef0095195c7.jpg
+      - name: Three zombies with one shot!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/0a7c760045e0a7d9b677b6c15e4f5cdab99b2032.jpg
+      - name: Zombie Defusal
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/9cb95ff1442246e8439473334787d158d8ddf45b.jpg
+      - name: Mass murder!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/be690d340eeaad08f9c561918d28a5e50a049a7a.jpg
+      - name: Slaughterhouse!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/6996b28a2cb9ac229d3c46b8c25bdba8f3eb7d50.jpg
+      - name: Massacre!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/d9eb5ca532fcef149e0a99d3100ab327968f9bea.jpg
+      - name: Reached Level 5!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/567260/dd26e70840addda658002fe405b409d81afaa770.jpg
+      total: 33
+    background: https://steamcdn-a.akamaihd.net/steam/apps/567260/page_bg_generated_v6b.jpg?t=1484148411
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Steam Achievements
+      id: 22
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Super death arena is an online horde mode survival game\
+      \ where you fight increasingly larger waves of mutants in an all out arena brawl.\
+      \ The goal is to survive ten waves of increasingly more mutants where you receive\
+      \ better and better weaponry to use. Keep moving and look out for bear traps\
+      \ that spawn in the level so you don't get stuck, and keep a distance when blowing\
+      \ up explosive barrels in the levels, they damage mutants as well as yourself\
+      \ or other players.<br />\r\n<br />\r\nYou will receive XP for each zombie kill,\
+      \ dismemberment, wave survived and more, and when you level up you receive a\
+      \ loot box. These loot boxes unlock new gear to customize your character with."
+    developers:
+    - Rigid-Soft
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Gore
+      id: '74'
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/567260/header.jpg?t=1484148411
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256676906
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256676906/movie480.mp4?t=1483403079
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256676906/movie_max.mp4?t=1483403079
+      name: Launch Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256676906/movie.293x165.jpg?t=1483403079
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256676906/movie480.webm?t=1483403079
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256676906/movie_max.webm?t=1483403079
+    name: Super Death Arena
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Super Death Arena - $8.99
+        packageid: 143430
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 899
+      title: Buy Super Death Arena
+    packages:
+    - 143430
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        64 bit SP1<br></li><li><strong>Processor:</strong> Intel Core i3 3Ghz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 560 or similar<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        5 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        7 or above<br></li><li><strong>Processor:</strong> Intel Core i5 - Current
+        Gen<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 960<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 899
+      final_formatted: $8.99
+      initial: 899
+      initial_formatted: ''
+    publishers:
+    - Rigid-Soft
+    release_date:
+      coming_soon: false
+      date: Jan 11, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_32e5e20413f47d03b25ea4f5d02578c63f733965.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_32e5e20413f47d03b25ea4f5d02578c63f733965.600x338.jpg?t=1484148411
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_e1718c07058571054e9a22697e30b76e93db5e87.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_e1718c07058571054e9a22697e30b76e93db5e87.600x338.jpg?t=1484148411
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_47bcb3d0d05269e43baa73cf20a6df3e592ef297.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_47bcb3d0d05269e43baa73cf20a6df3e592ef297.600x338.jpg?t=1484148411
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_7a3055564a90857a07788044197a02f8bfb8ab58.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_7a3055564a90857a07788044197a02f8bfb8ab58.600x338.jpg?t=1484148411
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_01bc0a0dc226fb8d95f5f76cdc7289224b4b2c4f.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_01bc0a0dc226fb8d95f5f76cdc7289224b4b2c4f.600x338.jpg?t=1484148411
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_e7959b0e803e8a94d8b46b0db0bee864c1437b94.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_e7959b0e803e8a94d8b46b0db0bee864c1437b94.600x338.jpg?t=1484148411
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_02c304d09c9f9df3288b8d394e746721580369b5.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_02c304d09c9f9df3288b8d394e746721580369b5.600x338.jpg?t=1484148411
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_a9e444bc3b8ab35faa5fed8d9e6194fa6c30562d.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_a9e444bc3b8ab35faa5fed8d9e6194fa6c30562d.600x338.jpg?t=1484148411
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_6631eeb04e44497ec81a90902271f8a275c284a0.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_6631eeb04e44497ec81a90902271f8a275c284a0.600x338.jpg?t=1484148411
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_fe40641bb81b962997ba3ba7f39363622462d0ae.1920x1080.jpg?t=1484148411
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/567260/ss_fe40641bb81b962997ba3ba7f39363622462d0ae.600x338.jpg?t=1484148411
+    short_description: Super Death Arena is an online horde mode survival game where
+      you fight increasingly larger waves of mutants. Survive ten waves to win, and
+      level up to get loot boxes with new fun gear to customize your character.
+    steam_appid: 567260
+    support_info:
+      email: admin@rigid-soft.com
+      url: http://rigid-soft.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://rigid-soft.com
+  success: true
+reviews:
+  cursor: AoJ4qt6e6+cCfIiAtgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 9
+    total_positive: 6
+    total_reviews: 15
+  reviews:
+  - author:
+      last_played: 1545491785
+      num_games_owned: 327
+      num_reviews: 5
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198117153508'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '47710348'
+    review: Dont buy, Severs are dead.
+    steam_purchase: true
+    timestamp_created: 1545491641
+    timestamp_updated: 1545491641
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.462046205997467041'
+    written_during_early_access: false
+  success: 1
