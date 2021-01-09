@@ -27,6 +27,7 @@ if __name__ == '__main__':
         'AssertionError: data is empty',
         'AssertionError: release_date is empty',
         'AssertionError: release_date -> date is empty',
+        'AssertionError: dateparser returned falsey result',
         'AssertionError: name field is empty',
         'AssertionError: appid does not match queried appid',
         'AssertionError: reviews success is false',
@@ -41,6 +42,7 @@ if __name__ == '__main__':
         date_parse_error_code,
         'json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)',
         "requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))",
+        "requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host'",
     ]
 
     for app in manifest['applist']['apps']:

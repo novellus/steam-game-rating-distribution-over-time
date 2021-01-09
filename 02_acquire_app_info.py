@@ -69,9 +69,9 @@ def validate_parsed_data(appid, data):
         assert data['details']['data'], 'data is empty'
 
         assert data['details']['data']['release_date'], 'release_date is empty'
-        if not data['details']['data']['release_date']['coming_soon']:  # field should always exist, and is boolean. Indicates game is not playable. Is False for early access games.
-            assert data['details']['data']['release_date']['date'], 'release_date -> date is empty'
-            dateparser.parse(data['details']['data']['release_date']['date'])  # try to parse date
+        assert not data['details']['data']['release_date']['coming_soon']  # field should always exist, and is boolean. Indicates game is not playable. Is False for early access games.
+        assert data['details']['data']['release_date']['date'], 'release_date -> date is empty'
+        assert dateparser.parse(data['details']['data']['release_date']['date']), 'dateparser returned falsey result'  # try to parse date
 
         assert data['details']['data']['name'], 'name field is empty'
         assert data['details']['data']['steam_appid'] == appid, 'appid does not match queried appid'  # some appids redirect to another appid. This removes the duplicates
