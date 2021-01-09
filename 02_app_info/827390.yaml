@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '826200'
+      name: Food Wars! The Third Plate
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/826200/header.jpg?t=1553553364
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Food Wars! The Third Plate: Challenging the Elite Ten'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Food Wars! The Third Plate: Challenging the Elite Ten - $1.99'
+        packageid: 254317
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Food Wars! The Third Plate: Challenging the Elite Ten'
+    packages:
+    - 254317
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 20, 2018
+    required_age: 0
+    short_description: "Soma finds out that Totsuki has a school festival that happens\
+      \ at the end of autumn called the Moon Festival. Soma is told by the 8th seat\
+      \ of the Elite Ten, Kuga, that if he\u2019s able to beat him in any dish there,\
+      \ he\u2019ll accept a Shokugeki from him and Soma decides to enter the Moon\
+      \ Festival so..."
+    steam_appid: 827390
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

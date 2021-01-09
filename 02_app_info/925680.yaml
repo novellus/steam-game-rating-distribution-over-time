@@ -1,0 +1,142 @@
+details:
+  data:
+    about_the_game: Warrior costume is replaced by swimsuit.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/925680/page_bg_generated_v6b.jpg?t=1573090548
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: Warrior costume is replaced by swimsuit.
+    developers:
+    - ZOV GAME STUDIO
+    fullgame:
+      appid: '925670'
+      name: Dungeon Kitty
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/925680/header.jpg?t=1573090548
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Dungeon Kitty Swimwear
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dungeon Kitty Swimwear - $2.99
+        packageid: 299077
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Dungeon Kitty Swimwear
+    packages:
+    - 299077
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/Vista/Windows 7/8/8.1/10 (32bit/64BIT)<br></li><li><strong>Processor:</strong>
+        1.6 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        intel Graphics<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX 9.0 Compatible Sound</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/Vista/Windows 7/8/8.1/10 (32bit/64BIT)<br></li><li><strong>Processor:</strong>
+        1.6 GHz +<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NIVIDIA OR AMD<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX 9.0 Compatible Sound +</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ZOV GAME STUDIO
+    release_date:
+      coming_soon: false
+      date: Aug 31, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/925680/ss_c5e9eb5badccc8b617dc7437fe977d76639cac70.1920x1080.jpg?t=1573090548
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/925680/ss_c5e9eb5badccc8b617dc7437fe977d76639cac70.600x338.jpg?t=1573090548
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/925680/ss_1d7074d99c53c9eb124c9e71fbd32c4fa0061a27.1920x1080.jpg?t=1573090548
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/925680/ss_1d7074d99c53c9eb124c9e71fbd32c4fa0061a27.600x338.jpg?t=1573090548
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/925680/ss_dce3c2559a80253d4011de17e96b9bc3cbd08851.1920x1080.jpg?t=1573090548
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/925680/ss_dce3c2559a80253d4011de17e96b9bc3cbd08851.600x338.jpg?t=1573090548
+    short_description: Warrior costume is replaced by swimsuit.
+    steam_appid: 925680
+    support_info:
+      email: ''
+      url: http://zovgame.lofter.com/
+    supported_languages: English, French, Italian, German, Spanish - Spain, Danish,
+      Ukrainian, Russian, Bulgarian, Hungarian, Turkish, Greek, Norwegian, Czech,
+      Japanese, Polish, Thai, Swedish, Simplified Chinese, Traditional Chinese, Romanian,
+      Finnish, Dutch, Portuguese, Portuguese - Brazil, Arabic, Korean
+    type: dlc
+    website: http://zovgame.lofter.com/
+  success: true
+reviews:
+  cursor: AoJwjO6kvugCecCHuQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 413
+      num_reviews: 619
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198818845478'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '48512009'
+    review: "\u80FD\u8131\u8863\u670D\u8FD8\u884C"
+    steam_purchase: true
+    timestamp_created: 1548278264
+    timestamp_updated: 1548278264
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.581749081611633301'
+    written_during_early_access: false
+  success: 1

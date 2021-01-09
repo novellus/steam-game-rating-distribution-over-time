@@ -1,0 +1,57 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: MMO
+      id: 20
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Hi-Rez Studios
+    fullgame:
+      appid: '17020'
+      name: Uninitialized
+    genres:
+    - description: Action
+      id: '1'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/81140/header.jpg?t=1447354731
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Global Agenda Recursive Colony Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Hi-Rez Studios
+    release_date:
+      coming_soon: false
+      date: Sep 21, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 81140
+    support_info:
+      email: ''
+      url: ''
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

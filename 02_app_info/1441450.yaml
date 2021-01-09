@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: Unlock the <strong>custom</strong> game mode<br><br><strong><u>Set
+      the</u></strong><br><ul class="bb_ul"><li>size and maximum size of the square<br></li><li>count
+      of different colors</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1441450/extras/DLC_1.png?t=1602888585"
+      /><br><br><strong><u>Further you can set the</u></strong><br><ul class="bb_ul"><li>timer
+      before a new line spawns<br></li><li>incremental decrease of consecutive timers<br></li><li>and
+      where these lines will be added</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1441450/extras/DLC_2.png?t=1602888585"
+      /><br><br><strong><u>At last you can set</u></strong><br><ul class="bb_ul"><li>count
+      of locked blocks<br></li><li>a rotationspeed of the square<br></li><li>minimum
+      number of blocks that are required for a complete line</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1441450/extras/DLC_3.png?t=1602888585"
+      /><br><br>and then play this setup for as long as you like<br><br>Chose your
+      prefered level. From pretty simple like 5x5 with 3 colors or slightly more challanging
+      8x8 with 8 colors.<br>Find your sweetspot and stay there as long as it's fun.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1441450/page_bg_generated_v6b.jpg?t=1602888585
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Unlock the <strong>custom</strong> game mode<br><br><strong><u>Set
+      the</u></strong><br><ul class="bb_ul"><li>size and maximum size of the square<br></li><li>count
+      of different colors</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1441450/extras/DLC_1.png?t=1602888585"
+      /><br><br><strong><u>Further you can set the</u></strong><br><ul class="bb_ul"><li>timer
+      before a new line spawns<br></li><li>incremental decrease of consecutive timers<br></li><li>and
+      where these lines will be added</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1441450/extras/DLC_2.png?t=1602888585"
+      /><br><br><strong><u>At last you can set</u></strong><br><ul class="bb_ul"><li>count
+      of locked blocks<br></li><li>a rotationspeed of the square<br></li><li>minimum
+      number of blocks that are required for a complete line</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1441450/extras/DLC_3.png?t=1602888585"
+      /><br><br>and then play this setup for as long as you like<br><br>Chose your
+      prefered level. From pretty simple like 5x5 with 3 colors or slightly more challanging
+      8x8 with 8 colors.<br>Find your sweetspot and stay there as long as it's fun.
+    developers:
+    - OptiMAST
+    fullgame:
+      appid: '1411030'
+      name: Square Game
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1441450/header.jpg?t=1602888585
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Square Game - Custom Mode
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Square Game - Custom Mode - $0.99
+        packageid: 506818
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Square Game - Custom Mode
+    packages:
+    - 506818
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 (SP1+) and Windows 10<br></li><li><strong>Processor:</strong> x86,
+        x64 architecture with SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        250 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - OptiMAST
+    release_date:
+      coming_soon: false
+      date: Oct 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1441450/ss_b65c94c70c4911bd1756aa444f638d9c60d44e64.1920x1080.jpg?t=1602888585
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1441450/ss_b65c94c70c4911bd1756aa444f638d9c60d44e64.600x338.jpg?t=1602888585
+    short_description: Unlock the custom game mode
+    steam_appid: 1441450
+    support_info:
+      email: martin@strobl.space
+      url: ''
+    supported_languages: English, German, French, Spanish - Spain
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

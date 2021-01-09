@@ -1,0 +1,95 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '354500'
+      name: 'PAYDAY: The Web Series'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/354520/header.jpg?t=1466616725
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'PAYDAY: The Web Series: Hector'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: 'PAYDAY: The Web Series - Free'
+        packageid: 62298
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy PAYDAY: The Web Series: Hector'
+    packages:
+    - 62298
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 10, 2015
+    required_age: 0
+    short_description: The FBI start to suspect there might be a connection between
+      the Payday Crew and a much larger threat.
+    steam_appid: 354520
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: ''
+  success: true
+reviews:
+  cursor: AoJwlOik8NkCcqjPcA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1491421563
+      num_games_owned: 187
+      num_reviews: 46
+      playtime_at_review: 17
+      playtime_forever: 20
+      playtime_last_two_weeks: 0
+      steamid: '76561198036972752'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '29522562'
+    review: stealing noses right under their noses
+    steam_purchase: true
+    timestamp_created: 1485531464
+    timestamp_updated: 1485531464
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.403392672538757324'
+    written_during_early_access: false
+  success: 1

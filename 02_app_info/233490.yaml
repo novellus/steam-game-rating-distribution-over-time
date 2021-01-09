@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Southend
+    fullgame:
+      appid: '207930'
+      name: Sacred Citadel
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/233490/header.jpg?t=1447357527
+    is_free: true
+    legal_notice: "\xA9\_Copyright 2013 and Published by DeepSilver,\_a division of\
+      \ Koch Media GmbH, Gewerbegebiet 1, 6604 H\xF6fen, Austria.<br />\nAll rights\
+      \ reserved<br />\nDeveloped by Southend Interactive AB.<br />\nSacred is a registered\
+      \ trademark of Koch Media. Southend Interactive AB and its associated logo are\
+      \ trademarks of Southend<br />\nInteractive AB.\_ \u201CDeep Silver\u201D and\
+      \ the Deep Silver logo are registered trademarks of Koch Media GmbH.\_ All trademarks\
+      \ of each<br />\nparty and trademarks within the Game IP shall be identified\
+      \ using the symbols \xAE or \u201CTM\u201D (as the case may be).<br />\n"
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 61
+    name: Sacred Citadel Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Vista/Win7</li>\n\
+        \t<li><strong>Processor:</strong>2GHz Dual Core</li>\n\t<li><strong>Memory:</strong>2\
+        \ GB RAM</li>\n\t<li><strong>Graphics:</strong>Nvidia GeForce 8600 or better,\
+        \ ATI Radeon HD 2600 or better</li>\n\t<li><strong>DirectX:</strong>9.0c</li>\n\
+        \t<li><strong>Additional:</strong>GPU Memory: 256MB</li>\n</ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 20, 2013
+    required_age: 0
+    short_description: ''
+    steam_appid: 233490
+    support_info:
+      email: ''
+      url: http://www.deepsilver.com/us/support/
+    supported_languages: English<strong>*</strong>, German<strong>*</strong>, French,
+      Italian, Spanish - Spain, Russian, Japanese, Portuguese - Brazil, Polish<br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://www.sacred-world.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

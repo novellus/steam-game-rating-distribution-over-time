@@ -1,0 +1,77 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Nadeo
+    fullgame:
+      appid: '375900'
+      name: "Trackmania\xAE Turbo"
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/456400/header.jpg?t=1529051145
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Trackmania Turbo Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Ubisoft
+    release_date:
+      coming_soon: false
+      date: Jun 6, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 456400
+    support_info:
+      email: ''
+      url: https://support.ubi.com/
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: AoJw08jU/dkCebGGcQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1485980139
+      num_games_owned: 58
+      num_reviews: 3
+      playtime_at_review: 98
+      playtime_forever: 98
+      playtime_last_two_weeks: 0
+      steamid: '76561198070557144'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '29635353'
+    review: 'gut
+
+      '
+    steam_purchase: true
+    timestamp_created: 1485980190
+    timestamp_updated: 1485980190
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

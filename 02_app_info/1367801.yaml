@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: <strong><i>animARide 6DOF emulator</i></strong> emulates the functionality
+      of 6DOF simulator, supporting you to check motion possibility as a real simulator,
+      without the need of an actual device.<br><br>Features<br><ul class="bb_ul"><li>Just
+      like the real device, <strong><i><strong><i>animARide 6DOF emulator</i></strong></i></strong>
+      is discoverable on local network<br></li><li>Allows <strong><i>animARide</i></strong>
+      software to connect to it.<br></li><li>Follows UDP commands, sends responses,
+      shows them on the screen<br></li><li>Shows current state (6 params)<br></li><li>Shows
+      a 3d CGI model of simulator<br></li><li>Simulates motion<br></li><li>SimTools
+      support</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1367801/page_bg_generated_v6b.jpg?t=1594976309
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong><i>animARide 6DOF emulator</i></strong> emulates
+      the functionality of 6DOF simulator, supporting you to check motion possibility
+      as a real simulator, without the need of an actual device.<br><br>Features<br><ul
+      class="bb_ul"><li>Just like the real device, <strong><i><strong><i>animARide
+      6DOF emulator</i></strong></i></strong> is discoverable on local network<br></li><li>Allows
+      <strong><i>animARide</i></strong> software to connect to it.<br></li><li>Follows
+      UDP commands, sends responses, shows them on the screen<br></li><li>Shows current
+      state (6 params)<br></li><li>Shows a 3d CGI model of simulator<br></li><li>Simulates
+      motion<br></li><li>SimTools support</li></ul>
+    developers:
+    - Evgeny Merzlyakov
+    - Alexey Odnorog
+    fullgame:
+      appid: '1355840'
+      name: animARide
+    genres:
+    - description: Simulation
+      id: '28'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1367801/header.jpg?t=1594976309
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: animARide 6DOF emulator
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong>
+        Intel i5 7th Gen<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong>
+        GeForce GTX 1060<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows<br></li><li><strong>Processor:</strong>
+        Intel i7 8th+ Gen, AMD Ryzen 1st+ Gen<br></li><li><strong>Memory:</strong>
+        16 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1080Ti<br></li><li><strong>Storage:</strong>
+        120 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Yasmina Surfside LLC
+    release_date:
+      coming_soon: false
+      date: Jul 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1367801/ss_a2b594fcc24b8f9a4723108a53fe0e0da222fc7c.1920x1080.jpg?t=1594976309
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1367801/ss_a2b594fcc24b8f9a4723108a53fe0e0da222fc7c.600x338.jpg?t=1594976309
+    short_description: animARide 6DOF emulator emulates the functionality of 6DOF
+      simulator, supporting you to check motion possibility as a real simulator, without
+      the need of an actual device.
+    steam_appid: 1367801
+    support_info:
+      email: feniks.270392@yandex.ru
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://animaride.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

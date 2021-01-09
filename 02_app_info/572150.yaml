@@ -1,0 +1,74 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - BT Studios
+    fullgame:
+      appid: '570890'
+      name: Fallen
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/572150/header.jpg?t=1482346719
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Fallen Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win 7 or later<br></li><li><strong>Processor:</strong> Dual core processor
+        with 2.8 GHz<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        130 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible
+        sound card</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - BT Studios
+    release_date:
+      coming_soon: false
+      date: Dec 20, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 572150
+    support_info:
+      email: btstudiosgames@gmail.com
+      url: http://btstudios.weebly.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://btstudios.weebly.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

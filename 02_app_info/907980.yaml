@@ -1,0 +1,164 @@
+details:
+  data:
+    about_the_game: "A one-room simulation &amp; dark adventure game. This room somewhere\
+      \ in a city have a large two-person sofa and a TV. They are free to spend their\
+      \ time there. You can enjoy watching their life, know their names and what kind\
+      \ of person they are. Come to their room and know them when you like, and enjoy.<br\
+      \ />\r\n<br />\r\nPoint<br />\r\n\u30FB Time will flow<br />\r\n\u30FB They\
+      \ spend their time<br />\r\n\u30FB There is a hidden &quot;fun&quot; in their\
+      \ room<br />\r\n<br />\r\nStory<br />\r\nThere is a clear story in this game.\
+      \ As users continue to play the game, they can see the story fragments in turn.<br\
+      \ />\r\n<br />\r\nCollection<br />\r\nRetrieved when the user sees a story fragment.\
+      \ I call this a badge. Users can check the conditions under which the story\
+      \ is published and the story text in the game from the acquired badge. Collection\
+      \ element. This allows the user to determine whether or not all of the story\
+      \ fragments have been acquired.<br />\r\nIn the future, I plan to link it with\
+      \ some Steam achievements."
+    achievements:
+      highlighted:
+      - name: Hot dog
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/7026aad711925a93ad60686c8535ca42e0ef418a.jpg
+      - name: Foot
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      - name: Seashell
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/9d5705c4250273a6f7ac2e6e7741da6661db24b4.jpg
+      - name: Ice cream
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      - name: Knife
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      - name: Double
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      - name: Gloves
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      - name: Blood
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      - name: Dress
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      - name: Gold
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/907980/ad82f6d81072cdba28b4c4f84a556dfd68cea484.jpg
+      total: 12
+    background: https://steamcdn-a.akamaihd.net/steam/apps/907980/page_bg_generated_v6b.jpg?t=1607661851
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids:
+      - 5
+      notes: violence
+    detailed_description: "A one-room simulation &amp; dark adventure game. This room\
+      \ somewhere in a city have a large two-person sofa and a TV. They are free to\
+      \ spend their time there. You can enjoy watching their life, know their names\
+      \ and what kind of person they are. Come to their room and know them when you\
+      \ like, and enjoy.<br />\r\n<br />\r\nPoint<br />\r\n\u30FB Time will flow<br\
+      \ />\r\n\u30FB They spend their time<br />\r\n\u30FB There is a hidden &quot;fun&quot;\
+      \ in their room<br />\r\n<br />\r\nStory<br />\r\nThere is a clear story in\
+      \ this game. As users continue to play the game, they can see the story fragments\
+      \ in turn.<br />\r\n<br />\r\nCollection<br />\r\nRetrieved when the user sees\
+      \ a story fragment. I call this a badge. Users can check the conditions under\
+      \ which the story is published and the story text in the game from the acquired\
+      \ badge. Collection element. This allows the user to determine whether or not\
+      \ all of the story fragments have been acquired.<br />\r\nIn the future, I plan\
+      \ to link it with some Steam achievements."
+    developers:
+    - WOODGLIM
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/907980/header.jpg?t=1607661851
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256736454
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256736454/movie480.mp4?t=1571618159
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256736454/movie_max.mp4?t=1571618159
+      name: GRAULARM
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256736454/movie.293x165.jpg?t=1571618159
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256736454/movie480.webm?t=1571618159
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256736454/movie_max.webm?t=1571618159
+    name: GRAULARM
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: GRAULARM - $10.99
+        packageid: 290832
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1099
+      title: Buy GRAULARM
+    packages:
+    - 290832
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ windows7,8,8.1,10<br></li><li><strong>Processor:</strong> Pentium III 1.0\
+        \ GHz or better<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong>\
+        \ 1280\xD7720<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>\
+        \ 50 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1099
+      final_formatted: $10.99
+      initial: 1099
+      initial_formatted: ''
+    publishers:
+    - WOODGLIM
+    release_date:
+      coming_soon: false
+      date: Nov 19, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_45ff0ef1e33e317fc2af68d27195ac6f1ee10817.1920x1080.jpg?t=1607661851
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_45ff0ef1e33e317fc2af68d27195ac6f1ee10817.600x338.jpg?t=1607661851
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_1984127c3abd2582e8307098d7a8a66c09635784.1920x1080.jpg?t=1607661851
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_1984127c3abd2582e8307098d7a8a66c09635784.600x338.jpg?t=1607661851
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_79873965dfdc173b0ad00f522ab1fc5724908d0c.1920x1080.jpg?t=1607661851
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_79873965dfdc173b0ad00f522ab1fc5724908d0c.600x338.jpg?t=1607661851
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_99de5444b0e8850130e6d0e7d83663e11b861784.1920x1080.jpg?t=1607661851
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_99de5444b0e8850130e6d0e7d83663e11b861784.600x338.jpg?t=1607661851
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_daaa92027f71680ae9c200f490d4df7958f7c4aa.1920x1080.jpg?t=1607661851
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/907980/ss_daaa92027f71680ae9c200f490d4df7958f7c4aa.600x338.jpg?t=1607661851
+    short_description: Large sofa, TV. And, two people.
+    steam_appid: 907980
+    support_info:
+      email: ''
+      url: https://woodglim.web.fc2.com
+    supported_languages: English
+    type: game
+    website: https://woodglim.web.fc2.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

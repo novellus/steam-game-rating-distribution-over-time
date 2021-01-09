@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: The soundtrack for Portal is contained in the The Orange Box Original
+      Soundtrack released on December 21, 2007.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/323170/page_bg_generated_v6b.jpg?t=1581545764
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The soundtrack for Portal is contained in the The Orange
+      Box Original Soundtrack released on December 21, 2007.
+    developers:
+    - Valve
+    fullgame:
+      appid: '400'
+      name: Portal
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/323170/header.jpg?t=1581545764
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Portal Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: Portal Soundtrack - Free
+        packageid: 50871
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: Buy Portal Soundtrack
+    packages:
+    - 50871
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 197 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Valve
+    release_date:
+      coming_soon: false
+      date: Sep 24, 2014
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/323170/ss_1b1d8f93102a6dc1000f9d0af886b8c70c623b7c.1920x1080.jpg?t=1581545764
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/323170/ss_1b1d8f93102a6dc1000f9d0af886b8c70c623b7c.600x338.jpg?t=1581545764
+    short_description: The soundtrack for Portal is contained in the The Orange Box
+      Original Soundtrack released on December 21, 2007.
+    steam_appid: 323170
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://www.whatistheorangebox.com/
+  success: true
+reviews:
+  cursor: AoJ4pY/bgtsCeK/zcQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 141
+      num_reviews: 30
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198311423862'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '29858552'
+    review: I am changing this now because it poped up. it downloaded but i had to
+      redownload it.
+    steam_purchase: true
+    timestamp_created: 1486850839
+    timestamp_updated: 1490444647
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.482758641242980957'
+    written_during_early_access: false
+  success: 1

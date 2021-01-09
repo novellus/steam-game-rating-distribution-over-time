@@ -1,0 +1,142 @@
+details:
+  data:
+    about_the_game: BANDAI NAMCO music DLC for Groove Coaster<br><strong>Title:</strong>
+      Namcot Medley<br><strong>Artist:</strong> BANDAI NAMCO Entertainment Inc.<br><strong>Difficulty:</strong>
+      Simple 3 / Normal 7 / Hard 9 / EXTRA 11<br><strong>BPM:</strong> 110-153
+    background: https://steamcdn-a.akamaihd.net/steam/apps/966490/page_bg_generated_v6b.jpg?t=1589356427
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: BANDAI NAMCO music DLC for Groove Coaster<br><strong>Title:</strong>
+      Namcot Medley<br><strong>Artist:</strong> BANDAI NAMCO Entertainment Inc.<br><strong>Difficulty:</strong>
+      Simple 3 / Normal 7 / Hard 9 / EXTRA 11<br><strong>BPM:</strong> 110-153
+    developers:
+    - TAITO CORP.
+    fullgame:
+      appid: '744060'
+      name: Groove Coaster
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/966490/header.jpg?t=1589356427
+    is_free: false
+    legal_notice: "\xA9TAITO CORPORATION 1978, 2018 ALL RIGHTS RESERVED."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256736264
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256736264/movie480.mp4?t=1543456082
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256736264/movie_max.mp4?t=1543456082
+      name: trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256736264/movie.293x165.jpg?t=1543456082
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256736264/movie480.webm?t=1543456082
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256736264/movie_max.webm?t=1543456082
+    name: Groove Coaster - Namcot Medley
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Groove Coaster - Namcot Medley - $1.99
+        packageid: 316463
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Groove Coaster - Namcot Medley
+    packages:
+    - 316463
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows7/8.1/10 (64bit)<br></li><li><strong>Processor:</strong> 2.0 GHz+<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Additional Notes:</strong> Limited
+        Offline Play (Steam login required every 7 days)</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        4 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 28, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/966490/ss_9106df5b7c5f267df7f177ab0fc72a68f049ad6d.1920x1080.jpg?t=1589356427
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/966490/ss_9106df5b7c5f267df7f177ab0fc72a68f049ad6d.600x338.jpg?t=1589356427
+    short_description: 'BANDAI NAMCO music DLC for Groove CoasterTitle: Namcot MedleyArtist:
+      BANDAI NAMCO Entertainment Inc.'
+    steam_appid: 966490
+    support_info:
+      email: games@degica.com
+      url: ''
+    supported_languages: English, Japanese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4mb3Lr+gCe5vOuAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 210
+      num_reviews: 24
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198281146940'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '48394683'
+    review: "\uC73C\uC74F \uB3C4\uD2B8\uBF55\uC5D0 \uC2FC\uB2F7"
+    steam_purchase: true
+    timestamp_created: 1547785071
+    timestamp_updated: 1547785071
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,230 @@
+details:
+  data:
+    about_the_game: "<h2 class=\"bb_tag\">ABOUT</h2>Schlocks, your favorite mini-games\
+      \ department store, understands you, the consumer. Every game at Schlocks is\
+      \ a whopping 10 seconds to try our product(s), and experience what everyone's\
+      \ been talking about! Hop in, test a product in one of our patented Microscopic\
+      \ Games\u2122, and then be suddenly whisked away to a new one; it's an adventure\
+      \ unlike any other you've experienced at a department store! We're so sure you'll\
+      \ love shopping with us, that we can promise a consideration of the suggestion\
+      \ of a money back guarantee, or else! That's the Schlocks-brand Commitment\u2122\
+      \ that you can count on.<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"\
+      ><li>50+ games in Early Access with over 100 on final release.<br></li><li>Enjoy\
+      \ competitive party gaming with friends, while also giving friends a good laugh\
+      \ at their expense.<br></li><li>\u2026 or play all alone if you have no friends.\
+      \ It\u2019s still fun!<br></li><li>Explore 10 different departments of the Schlocks\
+      \ Store, including the farm, kitchen, ocean, carnival, and more!<br></li><li>Unbeatable\
+      \ value! That's the Schlocks-brand Commitment\u2122 that you can count on.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/601320/page_bg_generated_v6b.jpg?t=1493147659
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 627990
+      description: Schlocks Demo
+    detailed_description: "<h2 class=\"bb_tag\">ABOUT</h2>Schlocks, your favorite\
+      \ mini-games department store, understands you, the consumer. Every game at\
+      \ Schlocks is a whopping 10 seconds to try our product(s), and experience what\
+      \ everyone's been talking about! Hop in, test a product in one of our patented\
+      \ Microscopic Games\u2122, and then be suddenly whisked away to a new one; it's\
+      \ an adventure unlike any other you've experienced at a department store! We're\
+      \ so sure you'll love shopping with us, that we can promise a consideration\
+      \ of the suggestion of a money back guarantee, or else! That's the Schlocks-brand\
+      \ Commitment\u2122 that you can count on.<h2 class=\"bb_tag\">FEATURES</h2><ul\
+      \ class=\"bb_ul\"><li>50+ games in Early Access with over 100 on final release.<br></li><li>Enjoy\
+      \ competitive party gaming with friends, while also giving friends a good laugh\
+      \ at their expense.<br></li><li>\u2026 or play all alone if you have no friends.\
+      \ It\u2019s still fun!<br></li><li>Explore 10 different departments of the Schlocks\
+      \ Store, including the farm, kitchen, ocean, carnival, and more!<br></li><li>Unbeatable\
+      \ value! That's the Schlocks-brand Commitment\u2122 that you can count on.</li></ul>"
+    developers:
+    - Fancy Bear Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/601320/header.jpg?t=1493147659
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256682835
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256682835/movie480.mp4?t=1493147657
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256682835/movie_max.mp4?t=1493147657
+      name: Schlocks Steam Early Access Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256682835/movie.293x165.jpg?t=1493147657
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256682835/movie480.webm?t=1493147657
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256682835/movie_max.webm?t=1493147657
+    name: Schlocks
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Schlocks - $14.99
+        packageid: 158031
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Schlocks
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $19.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$19.99 at checkout,
+          auto-renewed every 1 month(s) at $19.99.</p>
+        option_text: $19.99 / month
+        packageid: 197838
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Schlocks Subscription Plan
+    packages:
+    - 158031
+    - 197838
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\u2122 7 SP1, Windows\u2122 8.1 or later or Windows\u2122 10<br></li><li><strong>Processor:</strong>\
+        \ Intel\u2122 Core\u2122 i5-4590 or AMD FX\u2122 8350, equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\u2122 GTX\
+        \ 1060 or AMD Radeon\u2122 RX 480, equivalent or better.<br></li><li><strong>Storage:</strong>\
+        \ 2 GB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Fancy Bear Games
+    release_date:
+      coming_soon: false
+      date: Apr 18, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_7383ea0cd9ee008671b30b8b7f9e011dad2aa8c8.1920x1080.jpg?t=1493147659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_7383ea0cd9ee008671b30b8b7f9e011dad2aa8c8.600x338.jpg?t=1493147659
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_097384009d5f1da93fc98f781012430f1a270f6f.1920x1080.jpg?t=1493147659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_097384009d5f1da93fc98f781012430f1a270f6f.600x338.jpg?t=1493147659
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_bae0b8b3b1e08fa1a5bc586d3a03d3fac3a70fb4.1920x1080.jpg?t=1493147659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_bae0b8b3b1e08fa1a5bc586d3a03d3fac3a70fb4.600x338.jpg?t=1493147659
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_e0b34a14b1f3b5b185c78810f36c014c3cf74271.1920x1080.jpg?t=1493147659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_e0b34a14b1f3b5b185c78810f36c014c3cf74271.600x338.jpg?t=1493147659
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_57b0ca58ad4d36331366859dc27b931c25c5213b.1920x1080.jpg?t=1493147659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_57b0ca58ad4d36331366859dc27b931c25c5213b.600x338.jpg?t=1493147659
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_1f3bf6f75f7e64c725b312f7ae4c7e98c49d88f1.1920x1080.jpg?t=1493147659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_1f3bf6f75f7e64c725b312f7ae4c7e98c49d88f1.600x338.jpg?t=1493147659
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_41c2e106abbb201c32222710761b2340e23f00f7.1920x1080.jpg?t=1493147659
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_41c2e106abbb201c32222710761b2340e23f00f7.600x338.jpg?t=1493147659
+    short_description: "100+ hectic micro-games in the first ever competitive party\
+      \ game for VR. Each game in Schlocks is only 10 seconds long, so don\u2019t\
+      \ get comfortable; you\u2019ll need to stay on your toes as you bat beehives,\
+      \ hoist the mainsail, and make a dang good sandwich!"
+    steam_appid: 601320
+    support_info:
+      email: contact@fancybeargames.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://schlocksgame.com
+  success: true
+reviews:
+  cursor: AoJwuMnMhPACev317wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1580620593
+      num_games_owned: 460
+      num_reviews: 24
+      playtime_at_review: 20
+      playtime_forever: 20
+      playtime_last_two_weeks: 0
+      steamid: '76561198001258350'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '62894042'
+    review: "I bought this a while ago on sale, I knew it was in Early Access but\
+      \ it showed promise and I thought WarioWare in VR would be a thing that's hard\
+      \ to mess up.\n\nI waited for a big update before trying it. An update that\
+      \ never came, because as it turns out it's abandoned by the devs and hasn't\
+      \ been updated in 3 years. I decided to give it a try now and it's extremely\
+      \ lackluster.\n\n\u2022 The default button bindings for the Vive wands shows\
+      \ how old it is: you grab with the side grips rather than with the trigger.\
+      \ Thankfully you can change this.\n\u2022 There's a distinct lack of anti-aliasing\
+      \ despite every model being made out of a handful of triangles.\n\u2022 The\
+      \ game defaults to 3 players, making it clear that it was never planned to be\
+      \ enjoyed alone. I doubt it would be very fun sharing your headset every 3 minutes\
+      \ anyway...\n\u2022 Props often spawn outside the safe area, which makes it\
+      \ either impossible for me to interact with, or makes me risk knocking furniture\
+      \ around.\n\u2022 About half the minigames are reskins of others.\n\u2022 If\
+      \ you win the minigames during the screen transition, it makes validation sounds\
+      \ but it doesn't count as a win.\n\u2022 A lot of minigames rely on color-coding\
+      \ or remembering lists, which has no place in a game like this and makes certain\
+      \ minigames unbeatable if you're colorblind.\n\u2022 The game lacks personality.\
+      \ The music sounds like copyright-free stuff you grab as a placeholder. The\
+      \ \"great job!\" voiceline is grating and plays every 10 seconds. There are\
+      \ barely any sound effects, or the ones that are in don't sound good (popping\
+      \ a balloon makes a *thud* sound). The main menu has the pictures of the devs\
+      \ hung on the wall for you to look at, so you can put a face on the complaints\
+      \ you have after coming to the realisation that you bought an abandoned test\
+      \ game.\n\nPerhaps I should've tried the demo. Oops."
+    steam_purchase: true
+    timestamp_created: 1580702256
+    timestamp_updated: 1580702256
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: true
+  success: 1

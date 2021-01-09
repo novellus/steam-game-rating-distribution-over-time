@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: "This DLC include ost from game(1 track)<br />\r\nTrack called\
+      \ &quot;APo&quot; and its during 4 minute 33 seconds. Available in &quot;WAV&quot;\
+      \ format"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1001580/page_bg_generated_v6b.jpg?t=1546339418
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC include ost from game(1 track)<br />\r\nTrack\
+      \ called &quot;APo&quot; and its during 4 minute 33 seconds. Available in &quot;WAV&quot;\
+      \ format"
+    developers:
+    - Nikita "Ghost_RUS"
+    fullgame:
+      appid: '1000790'
+      name: Flex Apocalypse Racing
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1001580/header.jpg?t=1546339418
+    is_free: false
+    legal_notice: "Flex Apocalypse Racing uses the Unreal\xAE Engine. Unreal\xAE is\
+      \ a trademark or registered trademark of Epic Games, Inc. in the United States\
+      \ of America and elsewhere. Unreal\xAE Engine, Copyright 1998 \u2013 2018, Epic\
+      \ Games, Inc. All rights reserved"
+    linux_requirements: []
+    mac_requirements: []
+    name: Flex Apocalypse Racing - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Flex Apocalypse Racing - OST - $0.99
+        packageid: 330990
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Flex Apocalypse Racing - OST
+    packages:
+    - 330990
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7\8\10<br></li><li><strong>Processor:</strong> Intel Core I5<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 700 series<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible
+        Sound Card with latest drivers</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Ghost_RUS Games
+    release_date:
+      coming_soon: false
+      date: Jan 1, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1001580/ss_f4f10cd7efa2f3b6bf620cb7be7bb879d76d8703.1920x1080.jpg?t=1546339418
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1001580/ss_f4f10cd7efa2f3b6bf620cb7be7bb879d76d8703.600x338.jpg?t=1546339418
+    short_description: This DLC include ost from game(1 track)
+    steam_appid: 1001580
+    support_info:
+      email: ghostnikitaeagle@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

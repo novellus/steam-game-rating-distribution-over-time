@@ -1,0 +1,430 @@
+details:
+  data:
+    about_the_game: "Keyboard Utilities help you improve productivity and reduce strain\
+      \ when using the keyboard.  Virtually hold down a key.  Transform regular keys\
+      \ into toggling keys.  Forcibly paste text using the keyboard.  You can also\
+      \ dynamically continue a key pressing rythm.<br>This product is available natively\
+      \ in English, but it has automated translations for most major languages.<br>Contents:\
+      \ Keyboard Dynamic Repeat (\u2328\u231A), Keyboard Hold Next Key (\u2328\u2913\
+      ), Keyboard Repeat Next Key (\u2328\u231A\u2913), Keyboard Dynamic Repeat (\u2328\
+      \u231A), Toggle Next Toggle Key (Toggle\xB2Next), Force Paste (\U0001F4CB\u2328\
+      )<h2 class=\"bb_tag\">Keyboard Dynamic Repeat (\u2328\u231A)</h2>Toggle keyboard\
+      \ dynamic repeat.<br><ul class=\"bb_ul\"><li>When enabled, it will detect when\
+      \ you are rapidly pressing a key.  Then, if you immediately hold the key down\
+      \ after repeatedly pressing the key, the tool will continue pressing the key\
+      \ for you at the same rate until you release the key.<br>Operating systems support\
+      \ key repetition by default, but this feature will work on more programs and\
+      \ games while also dynamically matching your actual repetition speed.<br></li><li>Using\
+      \ any input modification features puts you at risk with multiplayer gaming.\
+      \  Each game has its own rules on where it draws the line between cheating and\
+      \ not cheating.  Some don't care, some will kick you, and some might ban you.\
+      \  This product does its part in cooperating with anti-cheat software by not\
+      \ hiding the source of input, so any game could easily ignore injected input\
+      \ if programmed to do so.<br></li><li>This feature has a moderate risk of being\
+      \ considered cheating in a multiplayer game.  This feature does not comply with\
+      \ the common rule of 1 user input to 1 game input.  While you could reasonably\
+      \ argue that the feature is not cheating because it only matches your proven\
+      \ repetition rate, the people in charge of games are not required to be reasonable.\
+      \  Also, they can surely make some arguments about how this feature is giving\
+      \ you an advantage over other players, such as increased resistance to repetitive\
+      \ stress injury.</li></ul>Settings:<ul class=\"bb_ul\"><li>Keyboard Dynamic\
+      \ Repeat Enabled (Default: False)<br>When enabled, it will detect when you are\
+      \ rapidly pressing a key.  Then, if you immediately hold the key down after\
+      \ repeatedly pressing the key, the tool will continue pressing the key for you\
+      \ at the same rate until you release the key.<br>Operating systems support key\
+      \ repetition by default, but this feature will work on more programs and games\
+      \ while also dynamically matching your actual repetition speed.<br></li><li>Keyboard\
+      \ Dynamic Repeat Match Variance (Default: True)<br>When repeating the key for\
+      \ you, the keyboard dynamic repeat feature will try to match your natural variance\
+      \ for its repetitions if enabled.<br></li><li>Keyboard Dynamic Repeat Default\
+      \ Variance (Default: 0.15)<br>When repeating the key for you, the keyboard dynamic\
+      \ repeat feature will vary the timings of key presses according to this value,\
+      \ unless match variance is enabled.<br></li><li>Keyboard Dynamic Repeat Threshold\
+      \ (Default: 3)<br>This is the number of times you need to repeatedly press a\
+      \ key before the dynamic repeat can kick in.  If you choose 2, there will be\
+      \ no variance to match.<br></li><li>Keyboard Dynamic Repeat Movement Mode (Default:\
+      \ 4)<br>Keyboard Dynamic Repeat can cause issues with movement keys.  This can\
+      \ be solved by having it ignore the movement keys.  Arrow keys will be ignored\
+      \ in every choice except &quot;None&quot;.  I have defaulted this value to the\
+      \ arrow keys and begrudgingly to WASD.  While I fear I have betrayed my ESDF\
+      \ compatriots, I do not doubt their ability to easily find this setting and\
+      \ set it to the superior movement keys.  Long live ESDF!<br> - 0<br> - 1<br>\
+      \ - 2<br> - 3<br> - 4<br> - 5<br></li><li>Keyboard Dynamic Repeat Modifier Keys\
+      \ Enabled (Default: False)<br>Keyboard Dynamic Repeat can be easily triggered\
+      \ by modifier keys due to the way they are typically used, which can cause more\
+      \ problems than it is worth.  By default, Control, Alt, Shift, and Windows Key\
+      \ are not handled by Keyboard Dynamic Repeat for this reason, but you can enable\
+      \ these keys with this setting.</li></ul><h2 class=\"bb_tag\">Keyboard Hold\
+      \ Next Key (\u2328\u2913)</h2>The next key you press will remain pressed until\
+      \ you press it again.<br><ul class=\"bb_ul\"><li>Using any input modification\
+      \ features puts you at risk with multiplayer gaming.  Each game has its own\
+      \ rules on where it draws the line between cheating and not cheating.  Some\
+      \ don't care, some will kick you, and some might ban you.  This product does\
+      \ its part in cooperating with anti-cheat software by not hiding the source\
+      \ of input, so any game could easily ignore injected input if programmed to\
+      \ do so.<br></li><li>This feature should face minimal risk of being considered\
+      \ cheating in a multiplayer game, as the most commonly enforced rule is that\
+      \ one human input yields one game input, a rule with which this feature is in\
+      \ compliance.</li></ul><h2 class=\"bb_tag\">Keyboard Repeat Next Key (\u2328\
+      \u231A\u2913)</h2>The next key that you press twice will continue repeating\
+      \ at the same rate until you press it again.<br><ul class=\"bb_ul\"><li>Using\
+      \ any input modification features puts you at risk with multiplayer gaming.\
+      \  Each game has its own rules on where it draws the line between cheating and\
+      \ not cheating.  Some don't care, some will kick you, and some might ban you.\
+      \  This product does its part in cooperating with anti-cheat software by not\
+      \ hiding the source of input, so any game could easily ignore injected input\
+      \ if programmed to do so.<br></li><li>This feature has a moderate risk of being\
+      \ considered cheating in a multiplayer game.  This feature does not comply with\
+      \ the common rule of 1 user input to 1 game input.  While you could reasonably\
+      \ argue that the feature is not cheating because it only matches your proven\
+      \ repetition rate, the people in charge of games are not required to be reasonable.\
+      \  Also, they can surely make some arguments about how this feature is giving\
+      \ you an advantage over other players, such as increased resistance to repetitive\
+      \ stress injury.</li></ul><h2 class=\"bb_tag\">Keyboard Dynamic Repeat (\u2328\
+      \u231A)</h2>Toggle keyboard dynamic repeat.<br><ul class=\"bb_ul\"><li>When\
+      \ enabled, it will detect when you are rapidly pressing a key.  Then, if you\
+      \ immediately hold the key down after repeatedly pressing the key, the tool\
+      \ will continue pressing the key for you at the same rate until you release\
+      \ the key.<br>Operating systems support key repetition by default, but this\
+      \ feature will work on more programs and games while also dynamically matching\
+      \ your actual repetition speed.<br></li><li>Using any input modification features\
+      \ puts you at risk with multiplayer gaming.  Each game has its own rules on\
+      \ where it draws the line between cheating and not cheating.  Some don't care,\
+      \ some will kick you, and some might ban you.  This product does its part in\
+      \ cooperating with anti-cheat software by not hiding the source of input, so\
+      \ any game could easily ignore injected input if programmed to do so.<br></li><li>This\
+      \ feature has a moderate risk of being considered cheating in a multiplayer\
+      \ game.  This feature does not comply with the common rule of 1 user input to\
+      \ 1 game input.  While you could reasonably argue that the feature is not cheating\
+      \ because it only matches your proven repetition rate, the people in charge\
+      \ of games are not required to be reasonable.  Also, they can surely make some\
+      \ arguments about how this feature is giving you an advantage over other players,\
+      \ such as increased resistance to repetitive stress injury.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Keyboard Dynamic Repeat Enabled (Default: False)<br>When\
+      \ enabled, it will detect when you are rapidly pressing a key.  Then, if you\
+      \ immediately hold the key down after repeatedly pressing the key, the tool\
+      \ will continue pressing the key for you at the same rate until you release\
+      \ the key.<br>Operating systems support key repetition by default, but this\
+      \ feature will work on more programs and games while also dynamically matching\
+      \ your actual repetition speed.<br></li><li>Keyboard Dynamic Repeat Match Variance\
+      \ (Default: True)<br>When repeating the key for you, the keyboard dynamic repeat\
+      \ feature will try to match your natural variance for its repetitions if enabled.<br></li><li>Keyboard\
+      \ Dynamic Repeat Default Variance (Default: 0.15)<br>When repeating the key\
+      \ for you, the keyboard dynamic repeat feature will vary the timings of key\
+      \ presses according to this value, unless match variance is enabled.<br></li><li>Keyboard\
+      \ Dynamic Repeat Threshold (Default: 3)<br>This is the number of times you need\
+      \ to repeatedly press a key before the dynamic repeat can kick in.  If you choose\
+      \ 2, there will be no variance to match.<br></li><li>Keyboard Dynamic Repeat\
+      \ Movement Mode (Default: 4)<br>Keyboard Dynamic Repeat can cause issues with\
+      \ movement keys.  This can be solved by having it ignore the movement keys.\
+      \  Arrow keys will be ignored in every choice except &quot;None&quot;.  I have\
+      \ defaulted this value to the arrow keys and begrudgingly to WASD.  While I\
+      \ fear I have betrayed my ESDF compatriots, I do not doubt their ability to\
+      \ easily find this setting and set it to the superior movement keys.  Long live\
+      \ ESDF!<br> - 0<br> - 1<br> - 2<br> - 3<br> - 4<br> - 5<br></li><li>Keyboard\
+      \ Dynamic Repeat Modifier Keys Enabled (Default: False)<br>Keyboard Dynamic\
+      \ Repeat can be easily triggered by modifier keys due to the way they are typically\
+      \ used, which can cause more problems than it is worth.  By default, Control,\
+      \ Alt, Shift, and Windows Key are not handled by Keyboard Dynamic Repeat for\
+      \ this reason, but you can enable these keys with this setting.</li></ul><h2\
+      \ class=\"bb_tag\">Toggle Next Toggle Key (Toggle\xB2Next)</h2>When enabled,\
+      \ the next key that you hold down will become a toggle key.  When pressing a\
+      \ toggle key, it will remain pressed until you press it again.  You can make\
+      \ a toggle key back into a regular key by simply holding the key down.<br><ul\
+      \ class=\"bb_ul\"><li>Using any input modification features puts you at risk\
+      \ with multiplayer gaming.  Each game has its own rules on where it draws the\
+      \ line between cheating and not cheating.  Some don't care, some will kick you,\
+      \ and some might ban you.  This product does its part in cooperating with anti-cheat\
+      \ software by not hiding the source of input, so any game could easily ignore\
+      \ injected input if programmed to do so.<br></li><li>This feature should face\
+      \ minimal risk of being considered cheating in a multiplayer game, as the most\
+      \ commonly enforced rule is that one human input yields one game input, a rule\
+      \ with which this feature is in compliance.</li></ul>Settings:<ul class=\"bb_ul\"\
+      ><li>Keyboard Toggle Keys Enabled (Default: False)<br>If you have set some keys\
+      \ to become locking keys, disabling this setting will disable the lock keys.<br></li><li>Keyboard\
+      \ Toggle Next Toggle Key (Default: False)<br>When enabled, the next key that\
+      \ is pressed will be converted into a key that alternates between pressed and\
+      \ not pressed each time it is physically pressed.<br></li><li>Keyboard Toggle\
+      \ Keys Trigger Length Milliseconds (Default: 750)<br>When creating a toggle\
+      \ key or removing a toggle key, you hold the key down for longer than this duration.</li></ul><h2\
+      \ class=\"bb_tag\">Force Paste (\U0001F4CB\u2328)</h2>Forcibly paste the clipboard\
+      \ contents via the keyboard.<br><br>Settings:<ul class=\"bb_ul\"><li>Force Paste\
+      \ Milliseconds Key Duration (Default: 1)<br>Some systems/programs may experience\
+      \ issues with input that is sent too quickly, so raising this value could alleviate\
+      \ such problems.<br></li><li>Force Paste Milliseconds Between Keys (Default:\
+      \ 1)<br>Some systems/programs may experience issues with input that is sent\
+      \ too quickly, so raising this value could alleviate such problems.<br></li><li>Force\
+      \ Paste Alternative Behavior (Default: False)<br>If you are facing issues with\
+      \ the standard behavior, try to flip this option on and see if it works better\
+      \ for you.  The alternative behavior currently does not support the additional\
+      \ timing options.<br></li><li>Force Paste Dangerous Mode (Default: False)<br>Enables\
+      \ SendKeys commands when executing ForcePaste.  Also includes an additional\
+      \ {DELAY 1000} command which delays by the number of milliseconds specified.\
+      \  Enabling this feature is potententially dangerous because someone could put\
+      \ an evil command in your clipboard without you knowing, so you could accidentally\
+      \ execute the evil command if you perform a force paste.<br></li><li>Force Paste\
+      \ Unquote (Default: False)<br>If enabled, removes start and ending quotes when\
+      \ using Force Paste.  Some programs like to put quotes around information that\
+      \ you are copying.  If you are getting creative with using Force Paste to fill\
+      \ out forms from a spread sheet, for example, going back and removing the outside\
+      \ quotes can interrupt your workflow.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1291034/page_bg_generated_v6b.jpg?t=1606276192
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Keyboard Utilities help you improve productivity and reduce\
+      \ strain when using the keyboard.  Virtually hold down a key.  Transform regular\
+      \ keys into toggling keys.  Forcibly paste text using the keyboard.  You can\
+      \ also dynamically continue a key pressing rythm.<br>This product is available\
+      \ natively in English, but it has automated translations for most major languages.<br>Contents:\
+      \ Keyboard Dynamic Repeat (\u2328\u231A), Keyboard Hold Next Key (\u2328\u2913\
+      ), Keyboard Repeat Next Key (\u2328\u231A\u2913), Keyboard Dynamic Repeat (\u2328\
+      \u231A), Toggle Next Toggle Key (Toggle\xB2Next), Force Paste (\U0001F4CB\u2328\
+      )<h2 class=\"bb_tag\">Keyboard Dynamic Repeat (\u2328\u231A)</h2>Toggle keyboard\
+      \ dynamic repeat.<br><ul class=\"bb_ul\"><li>When enabled, it will detect when\
+      \ you are rapidly pressing a key.  Then, if you immediately hold the key down\
+      \ after repeatedly pressing the key, the tool will continue pressing the key\
+      \ for you at the same rate until you release the key.<br>Operating systems support\
+      \ key repetition by default, but this feature will work on more programs and\
+      \ games while also dynamically matching your actual repetition speed.<br></li><li>Using\
+      \ any input modification features puts you at risk with multiplayer gaming.\
+      \  Each game has its own rules on where it draws the line between cheating and\
+      \ not cheating.  Some don't care, some will kick you, and some might ban you.\
+      \  This product does its part in cooperating with anti-cheat software by not\
+      \ hiding the source of input, so any game could easily ignore injected input\
+      \ if programmed to do so.<br></li><li>This feature has a moderate risk of being\
+      \ considered cheating in a multiplayer game.  This feature does not comply with\
+      \ the common rule of 1 user input to 1 game input.  While you could reasonably\
+      \ argue that the feature is not cheating because it only matches your proven\
+      \ repetition rate, the people in charge of games are not required to be reasonable.\
+      \  Also, they can surely make some arguments about how this feature is giving\
+      \ you an advantage over other players, such as increased resistance to repetitive\
+      \ stress injury.</li></ul>Settings:<ul class=\"bb_ul\"><li>Keyboard Dynamic\
+      \ Repeat Enabled (Default: False)<br>When enabled, it will detect when you are\
+      \ rapidly pressing a key.  Then, if you immediately hold the key down after\
+      \ repeatedly pressing the key, the tool will continue pressing the key for you\
+      \ at the same rate until you release the key.<br>Operating systems support key\
+      \ repetition by default, but this feature will work on more programs and games\
+      \ while also dynamically matching your actual repetition speed.<br></li><li>Keyboard\
+      \ Dynamic Repeat Match Variance (Default: True)<br>When repeating the key for\
+      \ you, the keyboard dynamic repeat feature will try to match your natural variance\
+      \ for its repetitions if enabled.<br></li><li>Keyboard Dynamic Repeat Default\
+      \ Variance (Default: 0.15)<br>When repeating the key for you, the keyboard dynamic\
+      \ repeat feature will vary the timings of key presses according to this value,\
+      \ unless match variance is enabled.<br></li><li>Keyboard Dynamic Repeat Threshold\
+      \ (Default: 3)<br>This is the number of times you need to repeatedly press a\
+      \ key before the dynamic repeat can kick in.  If you choose 2, there will be\
+      \ no variance to match.<br></li><li>Keyboard Dynamic Repeat Movement Mode (Default:\
+      \ 4)<br>Keyboard Dynamic Repeat can cause issues with movement keys.  This can\
+      \ be solved by having it ignore the movement keys.  Arrow keys will be ignored\
+      \ in every choice except &quot;None&quot;.  I have defaulted this value to the\
+      \ arrow keys and begrudgingly to WASD.  While I fear I have betrayed my ESDF\
+      \ compatriots, I do not doubt their ability to easily find this setting and\
+      \ set it to the superior movement keys.  Long live ESDF!<br> - 0<br> - 1<br>\
+      \ - 2<br> - 3<br> - 4<br> - 5<br></li><li>Keyboard Dynamic Repeat Modifier Keys\
+      \ Enabled (Default: False)<br>Keyboard Dynamic Repeat can be easily triggered\
+      \ by modifier keys due to the way they are typically used, which can cause more\
+      \ problems than it is worth.  By default, Control, Alt, Shift, and Windows Key\
+      \ are not handled by Keyboard Dynamic Repeat for this reason, but you can enable\
+      \ these keys with this setting.</li></ul><h2 class=\"bb_tag\">Keyboard Hold\
+      \ Next Key (\u2328\u2913)</h2>The next key you press will remain pressed until\
+      \ you press it again.<br><ul class=\"bb_ul\"><li>Using any input modification\
+      \ features puts you at risk with multiplayer gaming.  Each game has its own\
+      \ rules on where it draws the line between cheating and not cheating.  Some\
+      \ don't care, some will kick you, and some might ban you.  This product does\
+      \ its part in cooperating with anti-cheat software by not hiding the source\
+      \ of input, so any game could easily ignore injected input if programmed to\
+      \ do so.<br></li><li>This feature should face minimal risk of being considered\
+      \ cheating in a multiplayer game, as the most commonly enforced rule is that\
+      \ one human input yields one game input, a rule with which this feature is in\
+      \ compliance.</li></ul><h2 class=\"bb_tag\">Keyboard Repeat Next Key (\u2328\
+      \u231A\u2913)</h2>The next key that you press twice will continue repeating\
+      \ at the same rate until you press it again.<br><ul class=\"bb_ul\"><li>Using\
+      \ any input modification features puts you at risk with multiplayer gaming.\
+      \  Each game has its own rules on where it draws the line between cheating and\
+      \ not cheating.  Some don't care, some will kick you, and some might ban you.\
+      \  This product does its part in cooperating with anti-cheat software by not\
+      \ hiding the source of input, so any game could easily ignore injected input\
+      \ if programmed to do so.<br></li><li>This feature has a moderate risk of being\
+      \ considered cheating in a multiplayer game.  This feature does not comply with\
+      \ the common rule of 1 user input to 1 game input.  While you could reasonably\
+      \ argue that the feature is not cheating because it only matches your proven\
+      \ repetition rate, the people in charge of games are not required to be reasonable.\
+      \  Also, they can surely make some arguments about how this feature is giving\
+      \ you an advantage over other players, such as increased resistance to repetitive\
+      \ stress injury.</li></ul><h2 class=\"bb_tag\">Keyboard Dynamic Repeat (\u2328\
+      \u231A)</h2>Toggle keyboard dynamic repeat.<br><ul class=\"bb_ul\"><li>When\
+      \ enabled, it will detect when you are rapidly pressing a key.  Then, if you\
+      \ immediately hold the key down after repeatedly pressing the key, the tool\
+      \ will continue pressing the key for you at the same rate until you release\
+      \ the key.<br>Operating systems support key repetition by default, but this\
+      \ feature will work on more programs and games while also dynamically matching\
+      \ your actual repetition speed.<br></li><li>Using any input modification features\
+      \ puts you at risk with multiplayer gaming.  Each game has its own rules on\
+      \ where it draws the line between cheating and not cheating.  Some don't care,\
+      \ some will kick you, and some might ban you.  This product does its part in\
+      \ cooperating with anti-cheat software by not hiding the source of input, so\
+      \ any game could easily ignore injected input if programmed to do so.<br></li><li>This\
+      \ feature has a moderate risk of being considered cheating in a multiplayer\
+      \ game.  This feature does not comply with the common rule of 1 user input to\
+      \ 1 game input.  While you could reasonably argue that the feature is not cheating\
+      \ because it only matches your proven repetition rate, the people in charge\
+      \ of games are not required to be reasonable.  Also, they can surely make some\
+      \ arguments about how this feature is giving you an advantage over other players,\
+      \ such as increased resistance to repetitive stress injury.</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Keyboard Dynamic Repeat Enabled (Default: False)<br>When\
+      \ enabled, it will detect when you are rapidly pressing a key.  Then, if you\
+      \ immediately hold the key down after repeatedly pressing the key, the tool\
+      \ will continue pressing the key for you at the same rate until you release\
+      \ the key.<br>Operating systems support key repetition by default, but this\
+      \ feature will work on more programs and games while also dynamically matching\
+      \ your actual repetition speed.<br></li><li>Keyboard Dynamic Repeat Match Variance\
+      \ (Default: True)<br>When repeating the key for you, the keyboard dynamic repeat\
+      \ feature will try to match your natural variance for its repetitions if enabled.<br></li><li>Keyboard\
+      \ Dynamic Repeat Default Variance (Default: 0.15)<br>When repeating the key\
+      \ for you, the keyboard dynamic repeat feature will vary the timings of key\
+      \ presses according to this value, unless match variance is enabled.<br></li><li>Keyboard\
+      \ Dynamic Repeat Threshold (Default: 3)<br>This is the number of times you need\
+      \ to repeatedly press a key before the dynamic repeat can kick in.  If you choose\
+      \ 2, there will be no variance to match.<br></li><li>Keyboard Dynamic Repeat\
+      \ Movement Mode (Default: 4)<br>Keyboard Dynamic Repeat can cause issues with\
+      \ movement keys.  This can be solved by having it ignore the movement keys.\
+      \  Arrow keys will be ignored in every choice except &quot;None&quot;.  I have\
+      \ defaulted this value to the arrow keys and begrudgingly to WASD.  While I\
+      \ fear I have betrayed my ESDF compatriots, I do not doubt their ability to\
+      \ easily find this setting and set it to the superior movement keys.  Long live\
+      \ ESDF!<br> - 0<br> - 1<br> - 2<br> - 3<br> - 4<br> - 5<br></li><li>Keyboard\
+      \ Dynamic Repeat Modifier Keys Enabled (Default: False)<br>Keyboard Dynamic\
+      \ Repeat can be easily triggered by modifier keys due to the way they are typically\
+      \ used, which can cause more problems than it is worth.  By default, Control,\
+      \ Alt, Shift, and Windows Key are not handled by Keyboard Dynamic Repeat for\
+      \ this reason, but you can enable these keys with this setting.</li></ul><h2\
+      \ class=\"bb_tag\">Toggle Next Toggle Key (Toggle\xB2Next)</h2>When enabled,\
+      \ the next key that you hold down will become a toggle key.  When pressing a\
+      \ toggle key, it will remain pressed until you press it again.  You can make\
+      \ a toggle key back into a regular key by simply holding the key down.<br><ul\
+      \ class=\"bb_ul\"><li>Using any input modification features puts you at risk\
+      \ with multiplayer gaming.  Each game has its own rules on where it draws the\
+      \ line between cheating and not cheating.  Some don't care, some will kick you,\
+      \ and some might ban you.  This product does its part in cooperating with anti-cheat\
+      \ software by not hiding the source of input, so any game could easily ignore\
+      \ injected input if programmed to do so.<br></li><li>This feature should face\
+      \ minimal risk of being considered cheating in a multiplayer game, as the most\
+      \ commonly enforced rule is that one human input yields one game input, a rule\
+      \ with which this feature is in compliance.</li></ul>Settings:<ul class=\"bb_ul\"\
+      ><li>Keyboard Toggle Keys Enabled (Default: False)<br>If you have set some keys\
+      \ to become locking keys, disabling this setting will disable the lock keys.<br></li><li>Keyboard\
+      \ Toggle Next Toggle Key (Default: False)<br>When enabled, the next key that\
+      \ is pressed will be converted into a key that alternates between pressed and\
+      \ not pressed each time it is physically pressed.<br></li><li>Keyboard Toggle\
+      \ Keys Trigger Length Milliseconds (Default: 750)<br>When creating a toggle\
+      \ key or removing a toggle key, you hold the key down for longer than this duration.</li></ul><h2\
+      \ class=\"bb_tag\">Force Paste (\U0001F4CB\u2328)</h2>Forcibly paste the clipboard\
+      \ contents via the keyboard.<br><br>Settings:<ul class=\"bb_ul\"><li>Force Paste\
+      \ Milliseconds Key Duration (Default: 1)<br>Some systems/programs may experience\
+      \ issues with input that is sent too quickly, so raising this value could alleviate\
+      \ such problems.<br></li><li>Force Paste Milliseconds Between Keys (Default:\
+      \ 1)<br>Some systems/programs may experience issues with input that is sent\
+      \ too quickly, so raising this value could alleviate such problems.<br></li><li>Force\
+      \ Paste Alternative Behavior (Default: False)<br>If you are facing issues with\
+      \ the standard behavior, try to flip this option on and see if it works better\
+      \ for you.  The alternative behavior currently does not support the additional\
+      \ timing options.<br></li><li>Force Paste Dangerous Mode (Default: False)<br>Enables\
+      \ SendKeys commands when executing ForcePaste.  Also includes an additional\
+      \ {DELAY 1000} command which delays by the number of milliseconds specified.\
+      \  Enabling this feature is potententially dangerous because someone could put\
+      \ an evil command in your clipboard without you knowing, so you could accidentally\
+      \ execute the evil command if you perform a force paste.<br></li><li>Force Paste\
+      \ Unquote (Default: False)<br>If enabled, removes start and ending quotes when\
+      \ using Force Paste.  Some programs like to put quotes around information that\
+      \ you are copying.  If you are getting creative with using Force Paste to fill\
+      \ out forms from a spread sheet, for example, going back and removing the outside\
+      \ quotes can interrupt your workflow.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1291034/header.jpg?t=1606276192
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Keyboard Utilities
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Keyboard Utilities - $4.99
+        packageid: 450338
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Simplode Suite - Keyboard Utilities
+    packages:
+    - 450338
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1291034/ss_2e76c60089ce09bc278e32a690cfb75697f83dfb.1920x1080.jpg?t=1606276192
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1291034/ss_2e76c60089ce09bc278e32a690cfb75697f83dfb.600x338.jpg?t=1606276192
+    short_description: Keyboard Utilities help you improve productivity and reduce
+      strain when using the keyboard. Virtually hold down a key. Transform regular
+      keys into toggling keys. Forcibly paste text using the keyboard. You can also
+      dynamically continue a key pressing rythm.
+    steam_appid: 1291034
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

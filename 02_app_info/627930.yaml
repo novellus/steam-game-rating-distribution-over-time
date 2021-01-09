@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '626360'
+      name: Myriad Colors Phantom World
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/626360/header.jpg?t=1553554163
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Myriad Colors Phantom World: Age of Phantoms'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Myriad Colors Phantom World: Age of Phantoms - $1.99'
+        packageid: 170542
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Myriad Colors Phantom World: Age of Phantoms'
+    packages:
+    - 170542
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: Clumsy Haruhiko and violent Mai need more people on their Phantom-fighting
+      team. They meet a Phantom Eater, Reina.
+    steam_appid: 627930
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJwgt/0wuACcO2fkwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1514073654
+      num_games_owned: 18
+      num_reviews: 1
+      playtime_at_review: 11
+      playtime_forever: 11
+      playtime_last_two_weeks: 0
+      steamid: '76561198131623238'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '38600400'
+    review: 'Muy buena serie, me gusto bastante, la premisa y ejecucion son bastante
+      buenas. Posee muchas cualidades y muy pocos defectos. El mejor anime en su temporada.
+
+      La verdad no hay desperdicio con esta serie'
+    steam_purchase: true
+    timestamp_created: 1514073684
+    timestamp_updated: 1514073684
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

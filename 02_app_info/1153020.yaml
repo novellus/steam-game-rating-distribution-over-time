@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: "<h2 class=\"bb_tag\">Installation:</h2>After installed, the DLC\
+      \ will be downloaded in your <strong>local folder</strong>.<br>Check the game\
+      \ library, right click &quot;The Other: Airi's Adventure&quot;, click &quot;properties&quot;\
+      \ and find the &quot;local files&quot;.<br>It's in the folder &quot;Airi's Adventure\
+      \ Art Book EN&quot;.<h2 class=\"bb_tag\">Notice:</h2>Really sorry that the price\
+      \ and release date was incorrect. The price hasn't been changed because it can't\
+      \ have a discount at the moment.<br>The price will be 3.99 USD after two weeks\
+      \ from the release date. Apologies for the inconvenience!<br><br>\u2606    \u2606\
+      \    \u2606<br>This Art Book includes everything about &quot;Airi's Adventure&quot;\
+      \ and its development.<br>It is an A4 sized ebook (a pdf file) with about 100\
+      \ pages (50 double pages). In this art book you will find:<br><br>    Detailed\
+      \ information about the characters, environments and the whole story<br><br>\
+      \    Doodles and sketches during the development<br><br>    New illustrations<br><br>\
+      \    Comments from the developer<br><br><br>Thank you for supporting this project!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1153020/page_bg_generated_v6b.jpg?t=1569845826
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h2 class=\"bb_tag\">Installation:</h2>After installed,\
+      \ the DLC will be downloaded in your <strong>local folder</strong>.<br>Check\
+      \ the game library, right click &quot;The Other: Airi's Adventure&quot;, click\
+      \ &quot;properties&quot; and find the &quot;local files&quot;.<br>It's in the\
+      \ folder &quot;Airi's Adventure Art Book EN&quot;.<h2 class=\"bb_tag\">Notice:</h2>Really\
+      \ sorry that the price and release date was incorrect. The price hasn't been\
+      \ changed because it can't have a discount at the moment.<br>The price will\
+      \ be 3.99 USD after two weeks from the release date. Apologies for the inconvenience!<br><br>\u2606\
+      \    \u2606    \u2606<br>This Art Book includes everything about &quot;Airi's\
+      \ Adventure&quot; and its development.<br>It is an A4 sized ebook (a pdf file)\
+      \ with about 100 pages (50 double pages). In this art book you will find:<br><br>\
+      \    Detailed information about the characters, environments and the whole story<br><br>\
+      \    Doodles and sketches during the development<br><br>    New illustrations<br><br>\
+      \    Comments from the developer<br><br><br>Thank you for supporting this project!"
+    developers:
+    - Rabbiton
+    fullgame:
+      appid: '998270'
+      name: 'The Other: Airi''s Adventure'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1153020/header.jpg?t=1569845826
+    is_free: false
+    legal_notice: Rabbiton, 2018-2019
+    linux_requirements: []
+    mac_requirements: []
+    name: Airi's Adventure Art Book
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Other: Airi''s Adventure Artbook - $3.99'
+        packageid: 393037
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Airi's Adventure Art Book
+    packages:
+    - 393037
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i3
+        or better<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 (64bit)<br></li><li><strong>Processor:</strong> Inter Core i5 or
+        better<br></li><li><strong>Memory:</strong> 16 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 13, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1153020/ss_58e5f3df2864c58e9b12c1247a96a9a4836d3d27.1920x1080.jpg?t=1569845826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1153020/ss_58e5f3df2864c58e9b12c1247a96a9a4836d3d27.600x338.jpg?t=1569845826
+    short_description: 'The Art Book of The Other: Airi''s Adventure, includes everything
+      about the story and its development.'
+    steam_appid: 1153020
+    support_info:
+      email: ''
+      url: http://www.rabbitongames.com/
+    supported_languages: English, Simplified Chinese
+    type: dlc
+    website: http://www.rabbitongames.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

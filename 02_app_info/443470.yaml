@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: The Deluxe Content include the Soundtrack or Yrminsul, as well
+      as a 100+ page comics!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/443470/page_bg_generated_v6b.jpg?t=1457080557
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Deluxe Content include the Soundtrack or Yrminsul, as
+      well as a 100+ page comics!
+    developers:
+    - Black Flag Studio
+    fullgame:
+      appid: '412490'
+      name: Yrminsul
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/443470/header.jpg?t=1457080557
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> You just need your computer :)</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> You just need your computer :)</li></ul>
+    name: Yrminsul - Deluxe Content
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Yrminsul - Deluxe Content - $3.99
+        packageid: 94131
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Yrminsul - Deluxe Content
+    packages:
+    - 94131
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> You just need your computer :)</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Plug In Digital
+    release_date:
+      coming_soon: false
+      date: Mar 4, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/443470/ss_b27d1e2559004b68b80d80dad06f9a6bc81d40ba.1920x1080.jpg?t=1457080557
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/443470/ss_b27d1e2559004b68b80d80dad06f9a6bc81d40ba.600x338.jpg?t=1457080557
+    short_description: The Deluxe Content include the Soundtrack or Yrminsul, as well
+      as a 100+ page comics!
+    steam_appid: 443470
+    support_info:
+      email: ''
+      url: http://studioblackflag.com/yrminsul/
+    supported_languages: English<strong>*</strong>, French<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

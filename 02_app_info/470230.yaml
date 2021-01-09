@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: Original Soundtrack to March of the Living composed by Benedict
+      Nichols.<br><br><ul class="bb_ul"><li>01 - An Afternoon Stroll<br></li><li>02
+      - Should Have Stayed At Home<br></li><li>03 - Nighttime Blues<br></li><li>04
+      - City Escape<br></li><li>05 - Trader Post<br></li><li>06 - Fight Or Flee<br></li><li>07
+      - Still Alive<br></li><li>08 - An Introduction To The Apocalypse</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/470230/page_bg_generated_v6b.jpg?t=1478640873
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Original Soundtrack to March of the Living composed by Benedict
+      Nichols.<br><br><ul class="bb_ul"><li>01 - An Afternoon Stroll<br></li><li>02
+      - Should Have Stayed At Home<br></li><li>03 - Nighttime Blues<br></li><li>04
+      - City Escape<br></li><li>05 - Trader Post<br></li><li>06 - Fight Or Flee<br></li><li>07
+      - Still Alive<br></li><li>08 - An Introduction To The Apocalypse</li></ul>
+    developers:
+    - Benedict Nichols
+    - Machine 22
+    fullgame:
+      appid: '458000'
+      name: March of the Living
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/470230/header.jpg?t=1478640873
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    name: March of the Living - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: March of the Living - Soundtrack - $1.99
+        packageid: 103940
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy March of the Living - Soundtrack
+    packages:
+    - 103940
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Creaky Corpse Ltd
+    release_date:
+      coming_soon: false
+      date: May 10, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/470230/ss_f96dd5151f1342970616a9cf95f674f9235bff7c.1920x1080.jpg?t=1478640873
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/470230/ss_f96dd5151f1342970616a9cf95f674f9235bff7c.600x338.jpg?t=1478640873
+    short_description: Original Soundtrack to March of the Living composed by Benedict
+      Nichols.
+    steam_appid: 470230
+    support_info:
+      email: ''
+      url: http://www.benedictnichols.com/
+    supported_languages: English
+    type: dlc
+    website: http://www.benedictnichols.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

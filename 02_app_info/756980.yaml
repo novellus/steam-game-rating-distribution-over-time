@@ -1,0 +1,164 @@
+details:
+  data:
+    about_the_game: <strong>Raymond's Obstacle Course is a single player first person
+      platformer.</strong><br><br>Raymond's Obstacle Course contains over 10 stages
+      in each stage you will be challenged to perfectly execute your strategy to reach
+      the next stage. Failure will result in repeating the stage. Jump! Sprint! Crouch!
+      and Air Walk your way to victory!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/756980/page_bg_generated_v6b.jpg?t=1517522647
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>Raymond's Obstacle Course is a single player first
+      person platformer.</strong><br><br>Raymond's Obstacle Course contains over 10
+      stages in each stage you will be challenged to perfectly execute your strategy
+      to reach the next stage. Failure will result in repeating the stage. Jump! Sprint!
+      Crouch! and Air Walk your way to victory!
+    developers:
+    - Raymond Leung
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/756980/header.jpg?t=1517522647
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256705037
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256705037/movie480.mp4?t=1515456432
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256705037/movie_max.mp4?t=1515456432
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256705037/movie.293x165.jpg?t=1515456432
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256705037/movie480.webm?t=1515456432
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256705037/movie_max.webm?t=1515456432
+    name: Raymond's Obstacle Course
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Raymond's Obstacle Course - $3.99
+        packageid: 223279
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Raymond's Obstacle Course
+    packages:
+    - 223279
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 2.00 GHz or
+        AMD equivalent<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 450 or higher with 1GB Memory<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Raymond Leung
+    release_date:
+      coming_soon: false
+      date: Jan 31, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_b57e18406369908e78332fc7d456f0e6f97cf375.1920x1080.jpg?t=1517522647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_b57e18406369908e78332fc7d456f0e6f97cf375.600x338.jpg?t=1517522647
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_1476aa80b7722ef268623e5efd8c05c28e05d075.1920x1080.jpg?t=1517522647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_1476aa80b7722ef268623e5efd8c05c28e05d075.600x338.jpg?t=1517522647
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_fa5ff1a88b48400c15932e4032f2667f52f940cc.1920x1080.jpg?t=1517522647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_fa5ff1a88b48400c15932e4032f2667f52f940cc.600x338.jpg?t=1517522647
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_f32390ad237273878c5b0e28741d8413b1b04425.1920x1080.jpg?t=1517522647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_f32390ad237273878c5b0e28741d8413b1b04425.600x338.jpg?t=1517522647
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_0a1fb2eaa7b05beadeeffe11b51ee6ca11fa097d.1920x1080.jpg?t=1517522647
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/756980/ss_0a1fb2eaa7b05beadeeffe11b51ee6ca11fa097d.600x338.jpg?t=1517522647
+    short_description: Raymond's Obstacle Course is a multi-stage 3D, first-person
+      platformer. Your goal is to reach the end of each stage by successfully navigating
+      across all obstacles.
+    steam_appid: 756980
+    support_info:
+      email: raymonddeveloper@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4t4++6uUCc4jSlwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1522524868
+      num_games_owned: 1138
+      num_reviews: 44
+      playtime_at_review: 130
+      playtime_forever: 130
+      playtime_last_two_weeks: 0
+      steamid: '76561198048409073'
+    comment_count: 1
+    language: english
+    received_for_free: false
+    recommendationid: '39751811'
+    review: 'First
+
+
+      But to be serious, this a simple and fun platforming game. The objective is
+      simple, get from point A to point B. The difficulty gets more challenging as
+      you advance, just like any other game. The answers aren''t always clear and
+      have a lot of trial and error. Graphics are simple, nothing to fancy. The soundtrack
+      isn''t made by John Williams, but it sets the environment for you.
+
+
+      Make sure you select a mouse sensitivity. It''s simple, press ESC button in
+      game and type in a number.
+
+
+      7/10 would Johnny Guitar again.'
+    steam_purchase: true
+    timestamp_created: 1517420119
+    timestamp_updated: 1536876379
+    voted_up: true
+    votes_funny: 4
+    votes_up: 7
+    weighted_vote_score: '0.320644915103912354'
+    written_during_early_access: false
+  success: 1

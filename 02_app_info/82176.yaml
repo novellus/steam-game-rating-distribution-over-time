@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - ACQUIRE Corp.
+    fullgame:
+      appid: '206230'
+      name: Clan of Champions
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/82176/header.jpg?t=1447356961
+    is_free: false
+    legal_notice: "\xA92012 ACQUIRE Corp. All rights reserved. Licensed to and published\
+      \ by NIS America, Inc. Clan of Champions is a trademark of ACQUIRE"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 82176
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82176/movie480.mp4?t=1447356961
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82176/movie_max.mp4?t=1447356961
+      name: Clan of Champions Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/82176/movie.293x165.jpg?t=1447356961
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82176/movie480.webm?t=1447356961
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82176/movie_max.webm?t=1447356961
+    name: Clan of Champions Trailer
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Windows\
+        \ XP Professional 32bit</li>\n\t<li><strong>Processor:</strong>Core2 duo e8500</li>\n\
+        \t<li><strong>Memory:</strong>2 GB RAM</li>\n\t<li><strong>Graphics:</strong>NVIDIA\
+        \ GeForce GT240, ATI RADEON HD6450</li>\n\t<li><strong>Hard Drive:</strong>40\
+        \ GB HD space</li>\n\t<li><strong>Sound:</strong>On board sound card</li>\n\
+        \t<li><strong>Other Requirements:</strong>Broadband Internet connection</li>\n\
+        </ul>"
+      recommended: "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Windows\
+        \ XP / Vista / 7</li>\n\t<li><strong>Processor:</strong>Core i3 540 BOX</li>\n\
+        \t<li><strong>Memory:</strong>4 MB RAM</li>\n\t<li><strong>Graphics:</strong>NVIDIA\
+        \ GeForce GT430, ATI RADEON HD6770</li>\n\t<li><strong>Hard Drive:</strong>120\
+        \ GB HD space</li>\n\t<li><strong>Sound:</strong>Stereo sound card</li>\n\t\
+        <li><strong>Other Requirements:</strong>Broadband Internet connection</li>\n\
+        </ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 30, 2012
+    required_age: '18'
+    short_description: ''
+    steam_appid: 82176
+    support_info:
+      email: support@nisamerica.com
+      url: http://nisamerica.com/index.php?nav=s
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: movie
+    website: http://nisamerica.com/games/coc/index.php?offset=-7
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

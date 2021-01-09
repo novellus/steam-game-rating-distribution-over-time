@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: "These materials presents the 15-page artbook of the Hazardous\
+      \ Space game world. It contains art, concepts and sketches. You can get more\
+      \ information about Max\u2019s team, look at the other side of the \u201CWanderer\u201D\
+      \ station riddle and learn more about the upcoming dangers."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1000490/page_bg_generated_v6b.jpg?t=1545392256
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "These materials presents the 15-page artbook of the Hazardous\
+      \ Space game world. It contains art, concepts and sketches. You can get more\
+      \ information about Max\u2019s team, look at the other side of the \u201CWanderer\u201D\
+      \ station riddle and learn more about the upcoming dangers."
+    developers:
+    - Coffee Cat Games
+    fullgame:
+      appid: '760080'
+      name: Hazardous Space
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1000490/header.jpg?t=1545392256
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 LTS<br></li><li><strong>Processor:</strong> 1Ghz and up<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 256 mb video memory, OpenGL
+        2<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Os X 10.9 or later<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 256mb Video Memory<br></li><li><strong>Storage:</strong>
+        40 MB available space</li></ul>
+    name: Hazardous Space - Digital Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hazardous Space - Digital Artbook - $1.99
+        packageid: 330533
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Hazardous Space - Digital Artbook
+    packages:
+    - 330533
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP and up<br></li><li><strong>Processor:</strong> 1 Ghz and up<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        40 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Black Tower Entertainment
+    release_date:
+      coming_soon: false
+      date: Dec 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1000490/ss_a0d497d68e1743af2da88151e709701ac60d3ffb.1920x1080.jpg?t=1545392256
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1000490/ss_a0d497d68e1743af2da88151e709701ac60d3ffb.600x338.jpg?t=1545392256
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1000490/ss_a37e81017b377d69a9f867435b91bf10998cb6d2.1920x1080.jpg?t=1545392256
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1000490/ss_a37e81017b377d69a9f867435b91bf10998cb6d2.600x338.jpg?t=1545392256
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1000490/ss_27458d97d4fc861c6d9458e592b355ae033dc4fe.1920x1080.jpg?t=1545392256
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1000490/ss_27458d97d4fc861c6d9458e592b355ae033dc4fe.600x338.jpg?t=1545392256
+    short_description: 'Hazardous Space additional materials: artbook.'
+    steam_appid: 1000490
+    support_info:
+      email: vlad@blacktower.vc
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://blacktower.vc/shop/hazardousspace
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

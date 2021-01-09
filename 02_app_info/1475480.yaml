@@ -1,0 +1,67 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - MXT Games
+    fullgame:
+      appid: '1361720'
+      name: Space Fuel
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1475480/header.jpg?t=1608842792
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Space Fuel Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - MXT Games
+    release_date:
+      coming_soon: false
+      date: Dec 24, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1475480
+    support_info:
+      email: support@mxtgames.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: "The Official Soundtrack for Wordlase.<br><br>It includes a collection\
+      \ of 7 MP3 \\ FLAC tracks made by H311.<br><br>A Word from the Composer:<br><br>\u201C\
+      I hope that you will like my music and it will become a part of your life, helping\
+      \ to relax from the bustle.\u201D \u2013 H311<br><br>Track List:<br><ul class=\"\
+      bb_ul\"><li> Life<br></li><li> Humanity<br></li><li> Solitude<br></li><li> Tunguska<br></li><li>\
+      \ Back to Earth<br></li><li> We Are Space<br></li><li> Red Signal</li></ul><br>Please\
+      \ note \u2013 The Wordlase: Official Soundtrack will be placed in your Wordlase\
+      \ folder in the Steam Directory: ...Steam\\steamapps\\common\\Wordlase\\Wordlase\
+      \ OST"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/615140/page_bg_generated_v6b.jpg?t=1503569168
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Official Soundtrack for Wordlase.<br><br>It includes\
+      \ a collection of 7 MP3 \\ FLAC tracks made by H311.<br><br>A Word from the\
+      \ Composer:<br><br>\u201CI hope that you will like my music and it will become\
+      \ a part of your life, helping to relax from the bustle.\u201D \u2013 H311<br><br>Track\
+      \ List:<br><ul class=\"bb_ul\"><li> Life<br></li><li> Humanity<br></li><li>\
+      \ Solitude<br></li><li> Tunguska<br></li><li> Back to Earth<br></li><li> We\
+      \ Are Space<br></li><li> Red Signal</li></ul><br>Please note \u2013 The Wordlase:\
+      \ Official Soundtrack will be placed in your Wordlase folder in the Steam Directory:\
+      \ ...Steam\\steamapps\\common\\Wordlase\\Wordlase OST"
+    developers:
+    - DeXP
+    fullgame:
+      appid: '602930'
+      name: Wordlase
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/615140/header.jpg?t=1503569168
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        2016<br></li><li><strong>Processor:</strong> x64<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> with OpenGL 2.2<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Sound Card:</strong> internal</li></ul>
+    mac_requirements: []
+    name: Wordlase - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wordlase - Soundtrack - $0.99
+        packageid: 164886
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Wordlase - Soundtrack
+    packages:
+    - 164886
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7<br></li><li><strong>Processor:</strong> i686<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> with OpenGL 2.2<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Sound Card:</strong> internal</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 21, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/615140/ss_b061d8c2c8493821ff1c4d8a458ae476b7e40b41.1920x1080.jpg?t=1503569168
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/615140/ss_b061d8c2c8493821ff1c4d8a458ae476b7e40b41.600x338.jpg?t=1503569168
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/615140/ss_95a0edb8593edaa87a5531c069b13d52e8040fb6.1920x1080.jpg?t=1503569168
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/615140/ss_95a0edb8593edaa87a5531c069b13d52e8040fb6.600x338.jpg?t=1503569168
+    short_description: The Official Soundtrack for Wordlase.
+    steam_appid: 615140
+    support_info:
+      email: soft@dexp.in
+      url: ''
+    supported_languages: English, German, Russian, Ukrainian
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

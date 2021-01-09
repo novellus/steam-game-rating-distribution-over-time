@@ -1,0 +1,234 @@
+details:
+  data:
+    about_the_game: "Drive, aim, shoot. Drill or grapple to escape. It's that simple.<br\
+      \ />\r\n<br />\r\nThe standard game is continuous rounds where everyone gets\
+      \ a random weapons (RPG, Laser, Grenade, C4, Bouncer, or Nuke) and 3 utility\
+      \ tools (grapple, thruster and drill), played on one of the 5 biomes, each with\
+      \ unique elements (eg. the Ice Cave is slippery, so you'll need your boost rocket\
+      \ to get up steeper slopes).<br />\r\n<br />\r\nEach round only last about a\
+      \ minute and once any player is dead it's sudden death for everyone else, so\
+      \ all players can have non-stop fun.<br />\r\n<br />\r\nGamepad controllers\
+      \ are fully supported and one player can play from a keyboard, for up to 5 players.<br\
+      \ />\r\n<br />\r\nIn single-player mode you need to destroy towers, some of\
+      \ which are shielded (touch the shield controller with your vehicle to disable\
+      \ it) - you can practice both weapons and acrobatics.<br />\r\n<br />\r\nNot\
+      \ sure? Try the free version (the &quot;Download Demo&quot; button on this page),\
+      \ which is the same as the full game except only the class RPG weapon is available\
+      \ (it's the most balanced weapon in the game)."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1004100/page_bg_generated_v6b.jpg?t=1593324820
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    demos:
+    - appid: 1355730
+      description: ''
+    detailed_description: "Drive, aim, shoot. Drill or grapple to escape. It's that\
+      \ simple.<br />\r\n<br />\r\nThe standard game is continuous rounds where everyone\
+      \ gets a random weapons (RPG, Laser, Grenade, C4, Bouncer, or Nuke) and 3 utility\
+      \ tools (grapple, thruster and drill), played on one of the 5 biomes, each with\
+      \ unique elements (eg. the Ice Cave is slippery, so you'll need your boost rocket\
+      \ to get up steeper slopes).<br />\r\n<br />\r\nEach round only last about a\
+      \ minute and once any player is dead it's sudden death for everyone else, so\
+      \ all players can have non-stop fun.<br />\r\n<br />\r\nGamepad controllers\
+      \ are fully supported and one player can play from a keyboard, for up to 5 players.<br\
+      \ />\r\n<br />\r\nIn single-player mode you need to destroy towers, some of\
+      \ which are shielded (touch the shield controller with your vehicle to disable\
+      \ it) - you can practice both weapons and acrobatics.<br />\r\n<br />\r\nNot\
+      \ sure? Try the free version (the &quot;Download Demo&quot; button on this page),\
+      \ which is the same as the full game except only the class RPG weapon is available\
+      \ (it's the most balanced weapon in the game)."
+    developers:
+    - Waz
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1004100/header.jpg?t=1593324820
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256739557
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256739557/movie480.mp4?t=1546986069
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256739557/movie_max.mp4?t=1546986069
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256739557/movie.293x165.jpg?t=1546986069
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256739557/movie480.webm?t=1546986069
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256739557/movie_max.webm?t=1546986069
+    name: Chaos Caves
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Chaos Caves - $5.99
+        packageid: 331939
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Chaos Caves
+    packages:
+    - 331939
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> HD 4400<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Expect 30Hz refresh with minimal requirements.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 750ti or better<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional
+        Notes:</strong> 4K fully supported</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Waz Games
+    release_date:
+      coming_soon: false
+      date: Jan 25, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_be1473f2eebc41e85e54b9a3a0de2b6395a6b6d6.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_be1473f2eebc41e85e54b9a3a0de2b6395a6b6d6.600x338.jpg?t=1593324820
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_b7e4ae2ce1862b27f9cd0d9d5a6624a0cc70d345.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_b7e4ae2ce1862b27f9cd0d9d5a6624a0cc70d345.600x338.jpg?t=1593324820
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_866739141b7c52dca5389ebd056a2899455de6cd.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_866739141b7c52dca5389ebd056a2899455de6cd.600x338.jpg?t=1593324820
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_24f609373fe9c893f97ed899fcb56643855b9a48.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_24f609373fe9c893f97ed899fcb56643855b9a48.600x338.jpg?t=1593324820
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_2fb179cb90c3f9e6fa7bbaec73a96d360a49be0b.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_2fb179cb90c3f9e6fa7bbaec73a96d360a49be0b.600x338.jpg?t=1593324820
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_fc1ab3903491437744fd709ac316aa4cf98770e7.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_fc1ab3903491437744fd709ac316aa4cf98770e7.600x338.jpg?t=1593324820
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_3b0676e2fd30230be77c0a179dac22590e1cfb6b.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_3b0676e2fd30230be77c0a179dac22590e1cfb6b.600x338.jpg?t=1593324820
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_30f553c14477ac7ac7ec756610116053674321e4.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_30f553c14477ac7ac7ec756610116053674321e4.600x338.jpg?t=1593324820
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_cfb3ba56fed3816ec3613bd9348cc6e42b8e4a50.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_cfb3ba56fed3816ec3613bd9348cc6e42b8e4a50.600x338.jpg?t=1593324820
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_da930647a7eff72b1aa3e4391f6a27e718010c2e.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_da930647a7eff72b1aa3e4391f6a27e718010c2e.600x338.jpg?t=1593324820
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_23f142508f7a46886a6ed8b387655cf150a9c6fb.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_23f142508f7a46886a6ed8b387655cf150a9c6fb.600x338.jpg?t=1593324820
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_1565da185e1f3e37a33bbbc62f8e4b36e39acd57.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_1565da185e1f3e37a33bbbc62f8e4b36e39acd57.600x338.jpg?t=1593324820
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_32f9fe1d9bf9606127dd388d37b4084f4dd3eab6.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_32f9fe1d9bf9606127dd388d37b4084f4dd3eab6.600x338.jpg?t=1593324820
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_ce92569558d36b38db5ff975ca3e5b882fea5293.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_ce92569558d36b38db5ff975ca3e5b882fea5293.600x338.jpg?t=1593324820
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_f34320a85c45d7fd7f6fb7652fd99cc86be4113e.1920x1080.jpg?t=1593324820
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1004100/ss_f34320a85c45d7fd7f6fb7652fd99cc86be4113e.600x338.jpg?t=1593324820
+    short_description: Chaos Caves is an all-action couch game where you blast each
+      other with completely unreasonable weaponry. Games last about a minute, everyone
+      gets a turn at the Nuke, and failure is just as funny as winning. Next time,
+      grapple out of range!
+    steam_appid: 1004100
+    support_info:
+      email: waz@chaoscaves.com
+      url: http://www.chaoscaves.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.chaoscaves.com
+  success: true
+reviews:
+  cursor: AoJ4ira5tvYCcpPiugI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 2
+    total_positive: 2
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1609500250
+      num_games_owned: 201
+      num_reviews: 1
+      playtime_at_review: 3399
+      playtime_forever: 3447
+      playtime_last_two_weeks: 29
+      steamid: '76561198067523279'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82514226'
+    review: "Very underestimated little game. I've played this for 50h+ with my kids\
+      \ and had such a great time of it. While it has a little learning curve to it,\
+      \ due to many controls and unusual interface, it's still extremely simple to\
+      \ get started with. Between digging, light gravity maneuvers, and portals, it\
+      \ has some complexity to it as well. \n\nIt contains some really novel ideas,\
+      \ which makes this game stand out. For example, \"Sudden Death\" after one player\
+      \ is out, makes the waiting really short for the dead player.\n\nSingle player\
+      \ is only there for something to do when waiting for the other players. So,\
+      \ don't get your hopes up on that. Aim for multiplayer.\n\nIt has some likeness\
+      \ to Liero, which is a great game, though Liero is bit dated in terms of usability\
+      \ compared to Chaos Caves. \nChaos Caves has support for more players and hand\
+      \ controls, but less variety in guns and mods than Liero, due to that games\
+      \ large amount of user-created enhancements.\n\nThere are some UX tweaks needed\
+      \ to make it a bit easier to use, and it would be sweet with an update and some\
+      \ new content but, it's totally playable and recommended, as is."
+    steam_purchase: true
+    timestamp_created: 1608144556
+    timestamp_updated: 1608144761
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,317 @@
+details:
+  data:
+    about_the_game: "\u6E38\u620F\u80CC\u666F\uFF1A<br>\u4E0A\u53E4\u65F6\u4EE3\uFF0C\
+      \u5171\u5DE5\u548C\u989B\u987C\u4E89\u5E1D\u5931\u8D25\uFF0C\u6012\u649E\u4E0D\
+      \u5468\u5C71\uFF0C\u5929\u67F1\u6298\uFF0C\u4E00\u65F6\u95F4\u6D2A\u6C34\u8086\
+      \u8650\uFF0C\u5929\u4E0B\u5927\u4E71\u3002\u4E1C\u7687\u9057\u65CF\uFF0C\u86A9\
+      \u5C24\u6B8B\u90E8\uFF0C\u4E0A\u53E4\u51F6\u517D\uFF0C\u5404\u79CD\u52BF\u529B\
+      \u8822\u8822\u6B32\u52A8\uFF0C\u5973\u5A32\u5A18\u5A18\u51B3\u8BA1\u4F7F\u7528\
+      \u5C71\u6CB3\u793E\u7A37\u56FE\uFF0C\u5728\u90E8\u65CF\u5F53\u4E2D\u6311\u9009\
+      \u5927\u5DEB\uFF0C\u52A9\u5176\u8865\u5929\u5E73\u5929\u4E0B\u3002<br><br>\u6982\
+      \u8FF0<br>\u300A\u5927\u5DEB\u300B\u5C55\u793A\u4E0A\u53E4\u795E\u8BDD\u65F6\
+      \u671F\u5148\u5929\u795E\u5723\u3001\u795E\u517D\u3001\u5996\u65CF\u3001\u5DEB\
+      \u65CF\u3001\u4EBA\u7C7B\u5171\u540C\u6784\u6210\u4E86\u83BD\u8352\u72C2\u91CE\
+      \u7684\u5C71\u6D77\u7ECF\u4E16\u754C\uFF0C\u6E38\u620F\u91C7\u7528Roguelike\u7684\
+      \u65B9\u5F0F\uFF0C\u6E38\u620F\u5168\u5C40\u5F00\u542F\u968F\u673A\u8DEF\u5F84\
+      \uFF0C\u9762\u5BF9\u5404\u79CD\u5947\u9047\u548C\u4E0A\u53E4\u5F02\u517DBOSS\uFF0C\
+      \u6CA1\u6709\u804C\u4E1A\u9650\u5236\uFF0C\u4EE5\u6280\u80FD\u7EC4\u5408\u81EA\
+      \u7531\u521B\u9020BD\u4E3A\u6838\u5FC3\u73A9\u6CD5\uFF0C\u6446\u8131\u4E86\u7EBF\
+      \u6027\u7684\u675F\u7F1A\uFF0C\u4F60\u4F1A\u56E0\u4E3A\u521B\u9020\u4E86\u5168\
+      \u65B0\u6280\u80FD\uFF0C\u62FE\u53D6\u4E0D\u540C\u7684\u795E\u5668\uFF0C\u800C\
+      \u4F7F\u6E38\u620F\u6709\u65E0\u7A77\u65E0\u5C3D\u7684\u53D8\u5316\u3002\u5F53\
+      \u524D\u5C5E\u4E8E\u5236\u4F5C\u521D\u671F\uFF0C\u6211\u4EEC\u8FD8\u5C06\u7EE7\
+      \u7EED\u589E\u52A0\u6E38\u620F\u5185\u5BB9\uFF0C\u8BA9\u6E38\u620F\u53D8\u5F97\
+      \u4E30\u5BCC\u6709\u8DA3\uFF0C\u9664\u4E86\u6DF1\u5EA6\u6700\u5F3A\u7684\u6E38\
+      \u620F\u672C\u8EAB\u6838\u5FC3\u73A9\u6CD5\u4E4B\u5916\uFF0C\u6210\u5C31\u7CFB\
+      \u7EDF\uFF0C\u5267\u60C5\u89E3\u8C1C\u7CFB\u7EDF\u4E5F\u5728\u5F00\u53D1\u5F53\
+      \u4E2D\uFF0C\u5E0C\u671B\u80FD\u7ED9\u4F60\u5E26\u6765\u5FEB\u4E50\uFF0C\u4E5F\
+      \u5E0C\u671B\u4F60\u591A\u591A\u652F\u6301\u3002<br><br>\u6E38\u620F\u7279\u8272\
+      <br><br>1\u3001\u6C34\u58A8\u98CE\u683C\u7684\u53E4\u5178\u753B\u98CE<br>\u300A\
+      \u5927\u5DEB\u300B\u80A5\u5B85\u753B\u5E08\u5927\u709C\u4F7F\u7528\u624B\u7ED8\
+      \u65B9\u5F0F\u5448\u73B0\u4E2D\u56FD\u6C34\u58A8\u98CE\u683C\uFF0C\u521B\u9020\
+      \u5999\u8DA3\u6A2A\u751F\u7684\u5C71\u6CB3\u793E\u7A37\u56FE\uFF0C\u8FD8\u539F\
+      \u72C2\u91CE\u5954\u653E\u7684\u5C71\u6D77\u7ECF\u4E16\u754C\uFF0C\u753B\u5E08\
+      \u5927\u709C\u7684\u9E92\u9E9F\u81C2\u5373\u5C06\u5927\u6210\uFF0C\u76EE\u524D\
+      \u6E38\u620F\u7F8E\u672F\u7D20\u6750\u50A8\u5907\u7A0D\u6709\u4E0D\u8DB3\uFF0C\
+      \u8BF7\u5927\u5BB6\u4F53\u8C05\uFF0C\u5927\u709C\u9E92\u9E9F\u81C2\u4FEE\u6210\
+      \u4E4B\u65F6\uFF0C\u4E00\u5207\u90FD\u4E0D\u662F\u4E8B\u513F\uFF01<br><br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/kaishi.jpg?t=1578567222\"\
+      \ /><br><br>2\u3001\u73A9\u5BB6\u81EA\u7531\u521B\u9020BD\u6D41\u6D3E<br>\u5236\
+      \u4F5C\u4EBA\u5927\u7C73\u7C73\u548C\u7A0B\u5E8F\u733FSmart\u4FCA\u624B\u62C9\
+      \u624B\uFF0C\u4E00\u8D77\u5EA6\u8FC7\u65E0\u6570\u4E2A\u6B22\u4E50\u7684\u591C\
+      \u665A\uFF0C\u6109\u5FEB\u6EF4\u556A\u556A\u6572\u7740\u952E\u76D8\uFF0C\u6253\
+      \u9020\u4E86\u300A\u5927\u5DEB\u300B\u6838\u5FC3\u73A9\u6CD5\u6280\u80FD\u4E0E\
+      \u5185\u4E39\u7CFB\u7EDF\uFF0C\u8BA9\u73A9\u5BB6\u53EF\u4EE5\u81EA\u7531\u521B\
+      \u9020BD\u6D41\u6D3E\u3002<br>\u6E38\u620F\u5F00\u5C40\u5168\u968F\u673A\uFF0C\
+      \u5B8C\u5168\u81EA\u7531\u7684\u6280\u80FD\u4F53\u7CFB\uFF0C\u6570\u5341\u79CD\
+      \u6280\u80FD\u548C\u6280\u80FD\u589E\u5F3A\u5185\u4E39\uFF0C\u8BA9\u4F60\u81EA\
+      \u7531\u642D\u914D\uFF0C\u505A\u4F60\u60F3\u505A\u7684\uFF0C\u4E0D\u7528\u62D8\
+      \u8C28\uFF0C\u4F60\u53EF\u4EE5\u4E3A\u6240\u6B32\u4E3A\u3002<br>\u7279\u6548\
+      \u5C0F\u4ED9\u5973\u76AE\u76AE\uFF0C\u522B\u51FA\u5FC3\u88C1\u4E3A\u5404\u79CD\
+      \u6280\u80FD\u52A0\u4E86\u4E24\u5757\u94B1\u70AB\u9177\u7279\u6548\uFF0C\u8BA9\
+      \u4F60\u5145\u6EE1\u201C\u6211\u597D\u70AB\u201D\u3001\u201C\u6211\u597D\u9177\
+      \u201D\u3001\u201C\u6211\u597Ddiao\u201D\u81A8\u80C0\u5230\u70B8\u88C2\u7684\
+      \u611F\u89C9\uFF01<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/xuanze.jpg?t=1578567222\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/neidan.jpg?t=1578567222\"\
+      \ /><br><br>3\u3001\u6781\u5177\u795E\u79D8\u611F\u7684\u4E0A\u53E4\u5F02\u517D\
+      <br>\u80A5\u5B85\u753B\u5E08\u5927\u709C\uFF0C\u67E5\u9605\u4E86\u4F17\u591A\
+      \u8D44\u6599\uFF08\u767E\u5EA6+\u8C37\u6B4C\uFF09\uFF0C\u671F\u95F4\u559D\u4E86\
+      \u6570\u5428\u5FEB\u4E50\u6C34\uFF0C\u53C2\u8003\u4E86\u5F88\u591A\u4EBA\u7ED8\
+      \u5236\u5C71\u6D77\u7ECF\u5F02\u517D\u548C\u53E4\u5178\u4E66\u7C4D\u8D44\u6599\
+      \uFF0C\u5927\u709C\u4EE5\u5176\u753B\u98CE\uFF0C\u5168\u65B0\u8BBE\u8BA1\u4E86\
+      \u72EC\u7279\u7684\u4E0A\u53E4\u5F02\u517DBOSS\uFF0C<br>\u76AE\u76AE\u5C0F\u4ED9\
+      \u5973\u52A0\u4E0A\u4E24\u5757\u94B1\u70AB\u9177\u7279\u6548\u4E4B\u540E\uFF0C\
+      \u4E0A\u53E4\u5F02\u517D\u90FD\u77AC\u95F4\u6D3B\u4E86\uFF0C\u7B80\u76F4\u71C3\
+      \u70B8\u4E86\uFF0C\u4EAE\u778E\u73A9\u5BB6\u7684\u6C2A\u91D1\u72D7\u773C\uFF01\
+      <br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/jietu11_schinese_1.png?t=1578567222\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/jietu13_schinese_1.png?t=1578567222\"\
+      \ /><br><br>4\u3001\u8111\u6D1E\u5927\u5F00\u7684\u5947\u9047<br>\u8111\u6D1E\
+      \u5927\u5F00\u7684\u5947\u9047\u7CFB\u7EDF\uFF0C\u5728\u7D27\u5F20\u7684\u6218\
+      \u6597\u4E4B\u4F59\uFF0C\u8FD8\u53EF\u4EE5\u89E6\u53D1\u5947\u9047\u548C\u5B9D\
+      \u7BB1\u7B49\u4EA4\u4E92\u9009\u62E9\uFF0C\u8003\u9A8C\u73A9\u5BB6\u7684\u7B56\
+      \u7565\u9009\u62E9\u80FD\u529B\u3002\u5751\u903C\u7B56\u5212\u5927\u7C73\u7C73\
+      \u5728\u7ED9\u4F60\u521B\u9020\u4E86\u65E0\u6570\u60CA\u559C\u7684\u540C\u65F6\
+      \uFF0C\u4E5F\u6316\u4E86\u5F88\u591A\u5751\u7B49\u7740\u57CB\u4F60\u3002<br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/baoxiang.jpg?t=1578567222\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/qiyu.jpg?t=1578567222\"\
+      \ /><br><br>5\u3001\u4E0A\u53E4\u795E\u5668\uFF0C\u725B\u903Cor\u5751\u7239\
+      <br>\u795E\u5668\u8D4B\u4E88\u5C5E\u6027\u548C\u6280\u80FD\u52A0\u6210\u8BA9\
+      \u4F60\u5982\u6709\u795E\u52A9\uFF0C\u4F46\u662F\u8BF7\u64E6\u4EAE\u773C\u775B\
+      \u4E86\uFF0C\u5927\u5751\u903C\u7B56\u5212\u5927\u7C73\u7C73\u5C45\u7136\u8FD8\
+      \u8BBE\u8BA1\u4E86\u4E00\u4E9B\u5751\u7239\u795E\u5668\uFF0C\u5927\u7C73\u7C73\
+      \u771F\u6562\u60F3\uFF0CSmart\u4FCA\u771F\u6562\u505A\uFF0C\u9505\u4ECE\u5929\
+      \u964D\u7684\u5751\u7239\u795E\u5668\uFF0C\u4F1A\u8BA9\u4F60\u9762\u5BF9\u5404\
+      \u79CDdebuff\u6293\u72C2\uFF0C\u6068\u4E0D\u5F97\u6349\u4F4F\u5927\u7C73\u7C73\
+      \u548CSmart\u4FCA\u4E00\u987F\u80D6\u63CD\u3002<br><br>\u5173\u4E8E\u6211\u4EEC\
+      <br>\u6211\u4EEC\u662F\u6765\u81EA\u4E8E\u4E2D\u56FD\u5317\u4EAC8\u73AF\u5185\
+      \u76844\u4EBA\u5F00\u53D1\u56E2\u961F\uFF0C\u7B56\u5212\u5927\u7C73\u7C73\u3001\
+      \u7A0B\u5E8F\u733FSmart\u4FCA\u3001\u80A5\u5B85\u753B\u5E08\u5927\u709C\u3001\
+      \u7279\u6548\u5C0F\u4ED9\u5973\u76AE\u76AE\u3002<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/qqun.jpg?t=1578567222\"\
+      \ /><br><br>\u5982\u679C\u4F60\u60F3\u548C\u5176\u4ED6\u201C\u9053\u53CB\u201D\
+      \u76F8\u4E92\u6C9F\u901A\uFF0C\u60F3\u8981\u5410\u69FD\u5236\u4F5C\u4EBA\u5927\
+      \u7C73\u7C73\uFF0C\u60F3\u8981\u64A9\u62E8\u5C0F\u4ED9\u5973\u76AE\u76AE\uFF0C\
+      \u53EF\u4EE5\u52A0\u5165\u6211\u4EEC\u7684\u5B98\u65B9QQ\u7FA4\uFF08635956795\uFF09\
+      \uFF0C\u575A\u6301\u53C2\u4E0E\u6211\u4EEC\u7684\u6D4B\u8BD5\uFF0C\u6210\u4E3A\
+      \u300A\u5927\u5DEB\u300B\u73A9\u5BB6\u7B56\u5212\uFF0C\u4E0E\u6211\u4EEC\u4E00\
+      \u8D77\u767B\u5165\u5F00\u53D1\u8005\u540D\u5355\uFF0C\u671F\u5F85\u6E38\u620F\
+      \u53D1\u5E03\u597D\u8BC4\u5982\u6F6E\uFF0C\u6E38\u620F\u5927\u706B\uFF0C\u6211\
+      \u4EEC\u4E00\u8D77\u5403\u8089\uFF1B\u5982\u679C\u6E38\u620F\u6CA1\u706B\uFF0C\
+      \u6211\u4EEC\u8E72\u9A6C\u8DEF\u8FB9\u4E00\u8D77\u5403\u4E24\u5757\u94B1\u4E32\
+      \u4E32O(\u2229_\u2229)O\u54C8\u54C8~"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1095760/page_bg_generated_v6b.jpg?t=1578567222
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1214770
+      description: ''
+    detailed_description: "\u6E38\u620F\u80CC\u666F\uFF1A<br>\u4E0A\u53E4\u65F6\u4EE3\
+      \uFF0C\u5171\u5DE5\u548C\u989B\u987C\u4E89\u5E1D\u5931\u8D25\uFF0C\u6012\u649E\
+      \u4E0D\u5468\u5C71\uFF0C\u5929\u67F1\u6298\uFF0C\u4E00\u65F6\u95F4\u6D2A\u6C34\
+      \u8086\u8650\uFF0C\u5929\u4E0B\u5927\u4E71\u3002\u4E1C\u7687\u9057\u65CF\uFF0C\
+      \u86A9\u5C24\u6B8B\u90E8\uFF0C\u4E0A\u53E4\u51F6\u517D\uFF0C\u5404\u79CD\u52BF\
+      \u529B\u8822\u8822\u6B32\u52A8\uFF0C\u5973\u5A32\u5A18\u5A18\u51B3\u8BA1\u4F7F\
+      \u7528\u5C71\u6CB3\u793E\u7A37\u56FE\uFF0C\u5728\u90E8\u65CF\u5F53\u4E2D\u6311\
+      \u9009\u5927\u5DEB\uFF0C\u52A9\u5176\u8865\u5929\u5E73\u5929\u4E0B\u3002<br><br>\u6982\
+      \u8FF0<br>\u300A\u5927\u5DEB\u300B\u5C55\u793A\u4E0A\u53E4\u795E\u8BDD\u65F6\
+      \u671F\u5148\u5929\u795E\u5723\u3001\u795E\u517D\u3001\u5996\u65CF\u3001\u5DEB\
+      \u65CF\u3001\u4EBA\u7C7B\u5171\u540C\u6784\u6210\u4E86\u83BD\u8352\u72C2\u91CE\
+      \u7684\u5C71\u6D77\u7ECF\u4E16\u754C\uFF0C\u6E38\u620F\u91C7\u7528Roguelike\u7684\
+      \u65B9\u5F0F\uFF0C\u6E38\u620F\u5168\u5C40\u5F00\u542F\u968F\u673A\u8DEF\u5F84\
+      \uFF0C\u9762\u5BF9\u5404\u79CD\u5947\u9047\u548C\u4E0A\u53E4\u5F02\u517DBOSS\uFF0C\
+      \u6CA1\u6709\u804C\u4E1A\u9650\u5236\uFF0C\u4EE5\u6280\u80FD\u7EC4\u5408\u81EA\
+      \u7531\u521B\u9020BD\u4E3A\u6838\u5FC3\u73A9\u6CD5\uFF0C\u6446\u8131\u4E86\u7EBF\
+      \u6027\u7684\u675F\u7F1A\uFF0C\u4F60\u4F1A\u56E0\u4E3A\u521B\u9020\u4E86\u5168\
+      \u65B0\u6280\u80FD\uFF0C\u62FE\u53D6\u4E0D\u540C\u7684\u795E\u5668\uFF0C\u800C\
+      \u4F7F\u6E38\u620F\u6709\u65E0\u7A77\u65E0\u5C3D\u7684\u53D8\u5316\u3002\u5F53\
+      \u524D\u5C5E\u4E8E\u5236\u4F5C\u521D\u671F\uFF0C\u6211\u4EEC\u8FD8\u5C06\u7EE7\
+      \u7EED\u589E\u52A0\u6E38\u620F\u5185\u5BB9\uFF0C\u8BA9\u6E38\u620F\u53D8\u5F97\
+      \u4E30\u5BCC\u6709\u8DA3\uFF0C\u9664\u4E86\u6DF1\u5EA6\u6700\u5F3A\u7684\u6E38\
+      \u620F\u672C\u8EAB\u6838\u5FC3\u73A9\u6CD5\u4E4B\u5916\uFF0C\u6210\u5C31\u7CFB\
+      \u7EDF\uFF0C\u5267\u60C5\u89E3\u8C1C\u7CFB\u7EDF\u4E5F\u5728\u5F00\u53D1\u5F53\
+      \u4E2D\uFF0C\u5E0C\u671B\u80FD\u7ED9\u4F60\u5E26\u6765\u5FEB\u4E50\uFF0C\u4E5F\
+      \u5E0C\u671B\u4F60\u591A\u591A\u652F\u6301\u3002<br><br>\u6E38\u620F\u7279\u8272\
+      <br><br>1\u3001\u6C34\u58A8\u98CE\u683C\u7684\u53E4\u5178\u753B\u98CE<br>\u300A\
+      \u5927\u5DEB\u300B\u80A5\u5B85\u753B\u5E08\u5927\u709C\u4F7F\u7528\u624B\u7ED8\
+      \u65B9\u5F0F\u5448\u73B0\u4E2D\u56FD\u6C34\u58A8\u98CE\u683C\uFF0C\u521B\u9020\
+      \u5999\u8DA3\u6A2A\u751F\u7684\u5C71\u6CB3\u793E\u7A37\u56FE\uFF0C\u8FD8\u539F\
+      \u72C2\u91CE\u5954\u653E\u7684\u5C71\u6D77\u7ECF\u4E16\u754C\uFF0C\u753B\u5E08\
+      \u5927\u709C\u7684\u9E92\u9E9F\u81C2\u5373\u5C06\u5927\u6210\uFF0C\u76EE\u524D\
+      \u6E38\u620F\u7F8E\u672F\u7D20\u6750\u50A8\u5907\u7A0D\u6709\u4E0D\u8DB3\uFF0C\
+      \u8BF7\u5927\u5BB6\u4F53\u8C05\uFF0C\u5927\u709C\u9E92\u9E9F\u81C2\u4FEE\u6210\
+      \u4E4B\u65F6\uFF0C\u4E00\u5207\u90FD\u4E0D\u662F\u4E8B\u513F\uFF01<br><br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/kaishi.jpg?t=1578567222\"\
+      \ /><br><br>2\u3001\u73A9\u5BB6\u81EA\u7531\u521B\u9020BD\u6D41\u6D3E<br>\u5236\
+      \u4F5C\u4EBA\u5927\u7C73\u7C73\u548C\u7A0B\u5E8F\u733FSmart\u4FCA\u624B\u62C9\
+      \u624B\uFF0C\u4E00\u8D77\u5EA6\u8FC7\u65E0\u6570\u4E2A\u6B22\u4E50\u7684\u591C\
+      \u665A\uFF0C\u6109\u5FEB\u6EF4\u556A\u556A\u6572\u7740\u952E\u76D8\uFF0C\u6253\
+      \u9020\u4E86\u300A\u5927\u5DEB\u300B\u6838\u5FC3\u73A9\u6CD5\u6280\u80FD\u4E0E\
+      \u5185\u4E39\u7CFB\u7EDF\uFF0C\u8BA9\u73A9\u5BB6\u53EF\u4EE5\u81EA\u7531\u521B\
+      \u9020BD\u6D41\u6D3E\u3002<br>\u6E38\u620F\u5F00\u5C40\u5168\u968F\u673A\uFF0C\
+      \u5B8C\u5168\u81EA\u7531\u7684\u6280\u80FD\u4F53\u7CFB\uFF0C\u6570\u5341\u79CD\
+      \u6280\u80FD\u548C\u6280\u80FD\u589E\u5F3A\u5185\u4E39\uFF0C\u8BA9\u4F60\u81EA\
+      \u7531\u642D\u914D\uFF0C\u505A\u4F60\u60F3\u505A\u7684\uFF0C\u4E0D\u7528\u62D8\
+      \u8C28\uFF0C\u4F60\u53EF\u4EE5\u4E3A\u6240\u6B32\u4E3A\u3002<br>\u7279\u6548\
+      \u5C0F\u4ED9\u5973\u76AE\u76AE\uFF0C\u522B\u51FA\u5FC3\u88C1\u4E3A\u5404\u79CD\
+      \u6280\u80FD\u52A0\u4E86\u4E24\u5757\u94B1\u70AB\u9177\u7279\u6548\uFF0C\u8BA9\
+      \u4F60\u5145\u6EE1\u201C\u6211\u597D\u70AB\u201D\u3001\u201C\u6211\u597D\u9177\
+      \u201D\u3001\u201C\u6211\u597Ddiao\u201D\u81A8\u80C0\u5230\u70B8\u88C2\u7684\
+      \u611F\u89C9\uFF01<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/xuanze.jpg?t=1578567222\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/neidan.jpg?t=1578567222\"\
+      \ /><br><br>3\u3001\u6781\u5177\u795E\u79D8\u611F\u7684\u4E0A\u53E4\u5F02\u517D\
+      <br>\u80A5\u5B85\u753B\u5E08\u5927\u709C\uFF0C\u67E5\u9605\u4E86\u4F17\u591A\
+      \u8D44\u6599\uFF08\u767E\u5EA6+\u8C37\u6B4C\uFF09\uFF0C\u671F\u95F4\u559D\u4E86\
+      \u6570\u5428\u5FEB\u4E50\u6C34\uFF0C\u53C2\u8003\u4E86\u5F88\u591A\u4EBA\u7ED8\
+      \u5236\u5C71\u6D77\u7ECF\u5F02\u517D\u548C\u53E4\u5178\u4E66\u7C4D\u8D44\u6599\
+      \uFF0C\u5927\u709C\u4EE5\u5176\u753B\u98CE\uFF0C\u5168\u65B0\u8BBE\u8BA1\u4E86\
+      \u72EC\u7279\u7684\u4E0A\u53E4\u5F02\u517DBOSS\uFF0C<br>\u76AE\u76AE\u5C0F\u4ED9\
+      \u5973\u52A0\u4E0A\u4E24\u5757\u94B1\u70AB\u9177\u7279\u6548\u4E4B\u540E\uFF0C\
+      \u4E0A\u53E4\u5F02\u517D\u90FD\u77AC\u95F4\u6D3B\u4E86\uFF0C\u7B80\u76F4\u71C3\
+      \u70B8\u4E86\uFF0C\u4EAE\u778E\u73A9\u5BB6\u7684\u6C2A\u91D1\u72D7\u773C\uFF01\
+      <br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/jietu11_schinese_1.png?t=1578567222\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/jietu13_schinese_1.png?t=1578567222\"\
+      \ /><br><br>4\u3001\u8111\u6D1E\u5927\u5F00\u7684\u5947\u9047<br>\u8111\u6D1E\
+      \u5927\u5F00\u7684\u5947\u9047\u7CFB\u7EDF\uFF0C\u5728\u7D27\u5F20\u7684\u6218\
+      \u6597\u4E4B\u4F59\uFF0C\u8FD8\u53EF\u4EE5\u89E6\u53D1\u5947\u9047\u548C\u5B9D\
+      \u7BB1\u7B49\u4EA4\u4E92\u9009\u62E9\uFF0C\u8003\u9A8C\u73A9\u5BB6\u7684\u7B56\
+      \u7565\u9009\u62E9\u80FD\u529B\u3002\u5751\u903C\u7B56\u5212\u5927\u7C73\u7C73\
+      \u5728\u7ED9\u4F60\u521B\u9020\u4E86\u65E0\u6570\u60CA\u559C\u7684\u540C\u65F6\
+      \uFF0C\u4E5F\u6316\u4E86\u5F88\u591A\u5751\u7B49\u7740\u57CB\u4F60\u3002<br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/baoxiang.jpg?t=1578567222\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/qiyu.jpg?t=1578567222\"\
+      \ /><br><br>5\u3001\u4E0A\u53E4\u795E\u5668\uFF0C\u725B\u903Cor\u5751\u7239\
+      <br>\u795E\u5668\u8D4B\u4E88\u5C5E\u6027\u548C\u6280\u80FD\u52A0\u6210\u8BA9\
+      \u4F60\u5982\u6709\u795E\u52A9\uFF0C\u4F46\u662F\u8BF7\u64E6\u4EAE\u773C\u775B\
+      \u4E86\uFF0C\u5927\u5751\u903C\u7B56\u5212\u5927\u7C73\u7C73\u5C45\u7136\u8FD8\
+      \u8BBE\u8BA1\u4E86\u4E00\u4E9B\u5751\u7239\u795E\u5668\uFF0C\u5927\u7C73\u7C73\
+      \u771F\u6562\u60F3\uFF0CSmart\u4FCA\u771F\u6562\u505A\uFF0C\u9505\u4ECE\u5929\
+      \u964D\u7684\u5751\u7239\u795E\u5668\uFF0C\u4F1A\u8BA9\u4F60\u9762\u5BF9\u5404\
+      \u79CDdebuff\u6293\u72C2\uFF0C\u6068\u4E0D\u5F97\u6349\u4F4F\u5927\u7C73\u7C73\
+      \u548CSmart\u4FCA\u4E00\u987F\u80D6\u63CD\u3002<br><br>\u5173\u4E8E\u6211\u4EEC\
+      <br>\u6211\u4EEC\u662F\u6765\u81EA\u4E8E\u4E2D\u56FD\u5317\u4EAC8\u73AF\u5185\
+      \u76844\u4EBA\u5F00\u53D1\u56E2\u961F\uFF0C\u7B56\u5212\u5927\u7C73\u7C73\u3001\
+      \u7A0B\u5E8F\u733FSmart\u4FCA\u3001\u80A5\u5B85\u753B\u5E08\u5927\u709C\u3001\
+      \u7279\u6548\u5C0F\u4ED9\u5973\u76AE\u76AE\u3002<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1095760/extras/qqun.jpg?t=1578567222\"\
+      \ /><br><br>\u5982\u679C\u4F60\u60F3\u548C\u5176\u4ED6\u201C\u9053\u53CB\u201D\
+      \u76F8\u4E92\u6C9F\u901A\uFF0C\u60F3\u8981\u5410\u69FD\u5236\u4F5C\u4EBA\u5927\
+      \u7C73\u7C73\uFF0C\u60F3\u8981\u64A9\u62E8\u5C0F\u4ED9\u5973\u76AE\u76AE\uFF0C\
+      \u53EF\u4EE5\u52A0\u5165\u6211\u4EEC\u7684\u5B98\u65B9QQ\u7FA4\uFF08635956795\uFF09\
+      \uFF0C\u575A\u6301\u53C2\u4E0E\u6211\u4EEC\u7684\u6D4B\u8BD5\uFF0C\u6210\u4E3A\
+      \u300A\u5927\u5DEB\u300B\u73A9\u5BB6\u7B56\u5212\uFF0C\u4E0E\u6211\u4EEC\u4E00\
+      \u8D77\u767B\u5165\u5F00\u53D1\u8005\u540D\u5355\uFF0C\u671F\u5F85\u6E38\u620F\
+      \u53D1\u5E03\u597D\u8BC4\u5982\u6F6E\uFF0C\u6E38\u620F\u5927\u706B\uFF0C\u6211\
+      \u4EEC\u4E00\u8D77\u5403\u8089\uFF1B\u5982\u679C\u6E38\u620F\u6CA1\u706B\uFF0C\
+      \u6211\u4EEC\u8E72\u9A6C\u8DEF\u8FB9\u4E00\u8D77\u5403\u4E24\u5757\u94B1\u4E32\
+      \u4E32O(\u2229_\u2229)O\u54C8\u54C8~"
+    developers:
+    - "\u83AB\u79BB\u6E38\u620F"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1095760/header.jpg?t=1578567222
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u5927\u5DEB Great Witcher"
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or higher<br></li><li><strong>Processor:</strong> 2.0 GHz Core
+        2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.0 or DirectX 9.0c<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        2 GB available space<br></li><li><strong>Sound Card:</strong> <br></li><li><strong>Additional
+        Notes:</strong> </li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - "\u83AB\u79BB\u6E38\u620F"
+    release_date:
+      coming_soon: true
+      date: "\u5373\u5C06\u53D1\u884C"
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_4b0d6beccee35fa8dec69daebb113be3ce74f09d.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_4b0d6beccee35fa8dec69daebb113be3ce74f09d.600x338.jpg?t=1578567222
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_0f58b2cb3aad78343992a2cbceb18bd280c46363.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_0f58b2cb3aad78343992a2cbceb18bd280c46363.600x338.jpg?t=1578567222
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_d439894cd022703547277a6c34393f11bcdb732d.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_d439894cd022703547277a6c34393f11bcdb732d.600x338.jpg?t=1578567222
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_91cdd37fe3fe170e5bc8771fd6b93d4f344562f9.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_91cdd37fe3fe170e5bc8771fd6b93d4f344562f9.600x338.jpg?t=1578567222
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_69658532ea8a63a287132b766693078ac989c41e.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_69658532ea8a63a287132b766693078ac989c41e.600x338.jpg?t=1578567222
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_0d98f23c92b009735c937ab826c5ac7c3bc650aa.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_0d98f23c92b009735c937ab826c5ac7c3bc650aa.600x338.jpg?t=1578567222
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_096a160567c39183ce631c1f5d10b962c8cf279a.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_096a160567c39183ce631c1f5d10b962c8cf279a.600x338.jpg?t=1578567222
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_4de60fe78d9662241a4170d8dfab6661c6ed7981.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_4de60fe78d9662241a4170d8dfab6661c6ed7981.600x338.jpg?t=1578567222
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_ac18a06c10cefae8e03306cd323ed59662556013.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_ac18a06c10cefae8e03306cd323ed59662556013.600x338.jpg?t=1578567222
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_22a24f837aafc1c87606c1ed4d3f340ae459fb63.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_22a24f837aafc1c87606c1ed4d3f340ae459fb63.600x338.jpg?t=1578567222
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_ae2914792262ab71c6915276c13109b7fe162050.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_ae2914792262ab71c6915276c13109b7fe162050.600x338.jpg?t=1578567222
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_7fcd0b96fb93a175e7b007edfbbcc93c4c01c95f.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_7fcd0b96fb93a175e7b007edfbbcc93c4c01c95f.600x338.jpg?t=1578567222
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_dbf0f5b6508c913f8b23389101c4348e2965b553.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_dbf0f5b6508c913f8b23389101c4348e2965b553.600x338.jpg?t=1578567222
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_5f48d5ca5bce850ac8df1a92987eee2a9955f5d9.1920x1080.jpg?t=1578567222
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1095760/ss_5f48d5ca5bce850ac8df1a92987eee2a9955f5d9.600x338.jpg?t=1578567222
+    short_description: "\u300A\u5927\u5DEB\u300B\u5C55\u793A\u4E0A\u53E4\u795E\u8BDD\
+      \u65F6\u671F\u5148\u5929\u795E\u5723\u3001\u795E\u517D\u3001\u5996\u65CF\u3001\
+      \u5DEB\u65CF\u3001\u4EBA\u7C7B\u5171\u540C\u6784\u6210\u4E86\u83BD\u8352\u72C2\
+      \u91CE\u7684\u5C71\u6D77\u7ECF\u4E16\u754C\uFF0C\u6E38\u620F\u91C7\u7528Roguelike\u7684\
+      \u65B9\u5F0F\uFF0C\u6E38\u620F\u5168\u5C40\u5F00\u542F\u968F\u673A\u8DEF\u5F84\
+      \uFF0C\u9762\u5BF9\u5404\u79CD\u5947\u9047\u548C\u4E0A\u53E4\u5F02\u517DBOSS\uFF0C\
+      \u6CA1\u6709\u804C\u4E1A\u9650\u5236\uFF0C\u4EE5\u6280\u80FD\u7EC4\u5408\u81EA\
+      \u7531\u521B\u9020BD\u4E3A\u6838\u5FC3\u73A9\u6CD5\uFF0C\u6446\u8131\u4E86\u7EBF\
+      \u6027\u7684\u675F\u7F1A\uFF0C\u4F60\u4F1A\u56E0\u4E3A\u521B\u9020\u4E86\u5168\
+      \u65B0\u6280\u80FD\uFF0C\u62FE\u53D6\u4E0D\u540C\u7684\u795E\u5668\uFF0C\u800C\
+      \u4F7F\u6E38\u620F\u6709\u65E0\u7A77\u65E0\u5C3D\u7684\u53D8\u5316\u3002"
+    steam_appid: 1095760
+    support_info:
+      email: liangshukui@5moli.com
+      url: ''
+    supported_languages: Simplified Chinese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

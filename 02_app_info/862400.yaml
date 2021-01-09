@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: All Weapons Unlocked without having to rank up. Access every weapon
+      instantaneously for the ultimate paintball experience.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/862400/page_bg_generated_v6b.jpg?t=1548803079
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: All Weapons Unlocked without having to rank up. Access every
+      weapon instantaneously for the ultimate paintball experience.
+    developers:
+    - Gamepainters
+    fullgame:
+      appid: '678450'
+      name: Full-On Paintball
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/862400/header.jpg?t=1548803079
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Full-On Paintball - All Weapons Unlocked
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Full-On Paintball - All Weapons Unlocked - $1.99
+        packageid: 271734
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Full-On Paintball - All Weapons Unlocked
+    packages:
+    - 271734
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP3 (32-bit only)<br></li><li><strong>Processor:</strong> 2.0+
+        GHz processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        A graphics card with shader model 3.0 support.<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 64-bit<br></li><li><strong>Processor:</strong> 2.0+ GHz multi-core
+        processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA 8000 series or higher graphics card<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        4 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 18, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/862400/ss_b91c19eeceac2b4c4738af33b194f83eeed0fcd0.1920x1080.jpg?t=1548803079
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/862400/ss_b91c19eeceac2b4c4738af33b194f83eeed0fcd0.600x338.jpg?t=1548803079
+    short_description: All Weapons Unlocked
+    steam_appid: 862400
+    support_info:
+      email: fullonpaintball@gamepainters.com
+      url: http://www.gamepainters.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.gamepainters.com
+  success: true
+reviews:
+  cursor: AoJw56e14+MCcfKDogE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 121
+      num_reviews: 50
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198185436605'
+    comment_count: 0
+    developer_response: "Gehen Sie im Men\xFC zum Store-Button und dann in den Keller\
+      \ des Ladens. Auf einer Holzspule befindet sich ein Computer. das ist das Loadout-Men\xFC\
+      . dann in die Waffen. dann verwenden Sie die Pfeile, um zur Waffe der Wahl zu\
+      \ gehen. So einfach ist das."
+    language: german
+    received_for_free: false
+    recommendationid: '42475297'
+    review: "Ich habe leider nicht rausfinden k\xF6nnen wie man die Waffen ausw\xE4\
+      hlt. Ich habe immer noch die schlechte Standard Waffe"
+    steam_purchase: true
+    timestamp_created: 1528049254
+    timestamp_dev_responded: 1570555477
+    timestamp_updated: 1528049254
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

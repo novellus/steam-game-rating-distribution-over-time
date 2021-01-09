@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: "Images of the room without any characters.<br />\r\n<br />\r\n\
+      This Image Pack adds 25 assorted images of the room without any characters in\
+      \ the scene. These images will be mixed into the random selection available\
+      \ in the game. Add variety to the scenes of the story!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1052570/page_bg_generated_v6b.jpg?t=1574500337
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Images of the room without any characters.<br />\r\n<br\
+      \ />\r\nThis Image Pack adds 25 assorted images of the room without any characters\
+      \ in the scene. These images will be mixed into the random selection available\
+      \ in the game. Add variety to the scenes of the story!"
+    developers:
+    - SunshineOvercast
+    fullgame:
+      appid: '1038830'
+      name: Author Clicker
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1052570/header.jpg?t=1574500337
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Author Clicker - Empty Room Image Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Author Clicker - Empty Room Image Pack - $0.99
+        packageid: 351259
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Author Clicker - Empty Room Image Pack
+    packages:
+    - 351259
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 64 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - SunshineOvercast
+    release_date:
+      coming_soon: false
+      date: Mar 19, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1052570/ss_e940d0ef8a69a5b7d180c0f484d6693b4ab10f49.1920x1080.jpg?t=1574500337
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1052570/ss_e940d0ef8a69a5b7d180c0f484d6693b4ab10f49.600x338.jpg?t=1574500337
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1052570/ss_f7e212ccf3936b6d368da3469228073d0c7e9bd8.1920x1080.jpg?t=1574500337
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1052570/ss_f7e212ccf3936b6d368da3469228073d0c7e9bd8.600x338.jpg?t=1574500337
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1052570/ss_7ace3d558c3ac7b1309b17dc403f529b64895c8f.1920x1080.jpg?t=1574500337
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1052570/ss_7ace3d558c3ac7b1309b17dc403f529b64895c8f.600x338.jpg?t=1574500337
+    short_description: Add variety to the scenes of the story with images of the room
+      without any characters.
+    steam_appid: 1052570
+    support_info:
+      email: ''
+      url: https://twitter.com/SunOvercast
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

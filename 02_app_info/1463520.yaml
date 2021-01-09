@@ -1,0 +1,85 @@
+details:
+  data:
+    about_the_game: DOTS! SOUNDTRACK
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1463520/page_bg_generated_v6b.jpg?t=1605895253
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: DOTS! SOUNDTRACK
+    developers:
+    - EYEFRONT
+    fullgame:
+      appid: '1462860'
+      name: Dots!
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1463520/header.jpg?t=1605895253
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Dots! Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dots! Soundtrack - $1.99
+        packageid: 515339
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Dots! Soundtrack
+    packages:
+    - 515339
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        175 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 175 MB available space<br></li><li><strong>Additional Notes:</strong>
+        Only High Quality Audio</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - EYEFRONT
+    release_date:
+      coming_soon: false
+      date: Nov 20, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1463520/ss_90a1226d997a40e5e671f395bae7bdadb88e9487.1920x1080.jpg?t=1605895253
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1463520/ss_90a1226d997a40e5e671f395bae7bdadb88e9487.600x338.jpg?t=1605895253
+    short_description: DOTS!...
+    steam_appid: 1463520
+    support_info:
+      email: eyefrontgames@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

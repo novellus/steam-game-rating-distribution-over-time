@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - MumboJumbo
+    fullgame:
+      appid: '16000'
+      name: Discovery! A Seek and Find Adventure
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/16002/header.jpg?t=1447351398
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Discovery! A Seek and Find Adventure Demo
+    package_groups: []
+    pc_requirements:
+      minimum: '<ul>
+
+        <li><strong>Supported OS: </strong>Windows 2K/XP/Vista</li>
+
+        <li><strong>Processor Speed: </strong>800 MHz</li>
+
+        <li><strong>Memory: </strong>256 MB RAM</li>
+
+        <li><strong>Graphics: </strong>64 MB DirectX 8.1 compatible graphics card</li>
+
+        <li><strong>DirectX Version: </strong>DirectX 8.1 or Higher</li>
+
+        <li><strong>Sound: </strong>Sound Card</li>
+
+        <li><strong>Hard Drive: </strong>167MB Free Hard Drive Space</li>
+
+        </ul>'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - MumboJumbo
+    release_date:
+      coming_soon: false
+      date: Jul 29, 2008
+    required_age: 0
+    short_description: ''
+    steam_appid: 16002
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

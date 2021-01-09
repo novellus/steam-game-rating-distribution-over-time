@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: Installation:<br>After purchasing, the DLC will be found in the
+      local game folder.<br>It contains both language versions. Keep what you prefer!<br><br>***<br>This
+      Art Book includes everything about the game and its development.<br>It is an
+      A4 sized ebook (a pdf file) with over 100 pages (50 double pages), and in this
+      art book you will find:<br><br><ul class="bb_ul"><li>Detailed information about
+      the characters, environments and the whole story</li></ul><ul class="bb_ul"><li>Doodles
+      and sketches during the development</li></ul><ul class="bb_ul"><li>New illustrations</li></ul><ul
+      class="bb_ul"><li>Comments from the developers</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/678280/page_bg_generated_v6b.jpg?t=1503920009
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Installation:<br>After purchasing, the DLC will be found
+      in the local game folder.<br>It contains both language versions. Keep what you
+      prefer!<br><br>***<br>This Art Book includes everything about the game and its
+      development.<br>It is an A4 sized ebook (a pdf file) with over 100 pages (50
+      double pages), and in this art book you will find:<br><br><ul class="bb_ul"><li>Detailed
+      information about the characters, environments and the whole story</li></ul><ul
+      class="bb_ul"><li>Doodles and sketches during the development</li></ul><ul class="bb_ul"><li>New
+      illustrations</li></ul><ul class="bb_ul"><li>Comments from the developers</li></ul>
+    developers:
+    - Rabbiton
+    - StarAura
+    fullgame:
+      appid: '594950'
+      name: The Witches' Tea Party
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/678280/header.jpg?t=1503920009
+    is_free: false
+    legal_notice: Rabbiton, 2016-2017
+    linux_requirements: []
+    mac_requirements: []
+    name: The Witches' Tea Party Art Book
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Witches' Tea Party Art Book - $3.99
+        packageid: 193520
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy The Witches' Tea Party Art Book
+    packages:
+    - 193520
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Storage:</strong> 150
+        MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Rabbiton
+    release_date:
+      coming_soon: false
+      date: Aug 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/678280/ss_839ecb9e74b3de0a0c22fd2d5462f7e6f8d8ffe9.1920x1080.jpg?t=1503920009
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/678280/ss_839ecb9e74b3de0a0c22fd2d5462f7e6f8d8ffe9.600x338.jpg?t=1503920009
+    short_description: The Art Book of The Witches' Tea Party.
+    steam_appid: 678280
+    support_info:
+      email: ''
+      url: http://rabbitongames.tumblr.com/
+    supported_languages: English, Simplified Chinese
+    type: dlc
+    website: http://rabbitongames.tumblr.com/
+  success: true
+reviews:
+  cursor: AoJ42suogOACcvKvkAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 59
+      num_reviews: 7
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198314639802'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '37846818'
+    review: "\u5185\u5BB9\u662F\u4EBA\u7269\u7B80\u4ECB\u548C\u4E00\u4E9B\u56FE\u7247\
+      \u3002"
+    steam_purchase: true
+    timestamp_created: 1511839129
+    timestamp_updated: 1511839129
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.541666686534881592'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,80 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Alexis Angely
+    fullgame:
+      appid: '1277100'
+      name: Dungeon & Derision
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1305550/header.jpg?t=1588527016
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04 and Ubuntu 18.04<br></li><li><strong>Processor:</strong> x64
+        architecture with SSE2 instruction set support.<br></li><li><strong>Memory:</strong>
+        220 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2+, Vulkan capable.<br></li><li><strong>Storage:</strong>
+        220 MB available space<br></li><li><strong>Additional Notes:</strong> Gnome
+        desktop environment running on top of X11 windowing system Other configuration
+        and user environment as provided stock with the supported distribution (such
+        as Kernel or Compositor) Nvidia and AMD GPUs using Nvidia official proprietary
+        graphics driver or AMD Mesa graphics driver.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Sierra 10.12+<br></li><li><strong>Processor:</strong> x64 architecture with
+        SSE2.<br></li><li><strong>Graphics:</strong> Metal capable Intel and AMD GPUs<br></li><li><strong>Storage:</strong>
+        185 MB available space</li></ul>
+    name: Dungeon & Derision Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 (SP1+) and Windows 10<br></li><li><strong>Processor:</strong> x86,
+        x64 architecture with SSE2 instruction set support.<br></li><li><strong>Graphics:</strong>
+        DX10, DX11, DX12 capable.<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Alexis Angely
+    release_date:
+      coming_soon: false
+      date: May 2, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1305550
+    support_info:
+      email: support@dungeonderision.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://www.dungeonderision.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

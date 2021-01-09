@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: This DLC includes a pdf document that shows the decisions needed
+      to complete the four main endings.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/446650/page_bg_generated_v6b.jpg?t=1493372029
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC includes a pdf document that shows the decisions
+      needed to complete the four main endings.
+    developers:
+    - Reine Works
+    fullgame:
+      appid: '437720'
+      name: Blossoms Bloom Brightest
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/446650/header.jpg?t=1493372029
+    is_free: false
+    legal_notice: "Reine Works \xA92017+"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Additional
+        Notes:</strong> PDF viewer</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X version Leopard 10.5.8 or later<br></li><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Additional Notes:</strong> PDF viewer</li></ul>
+    name: Blossoms Bloom Brightest - Guide Book
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Blossoms Bloom Brightest - Guide Book - $0.99
+        packageid: 95391
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Blossoms Bloom Brightest - Guide Book
+    packages:
+    - 95391
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Additional
+        Notes:</strong> PDF viewer</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Reine Works
+    release_date:
+      coming_soon: false
+      date: Apr 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446650/ss_04b0e302e5f7fc6a4bf901314398104556b4b1f7.1920x1080.jpg?t=1493372029
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446650/ss_04b0e302e5f7fc6a4bf901314398104556b4b1f7.600x338.jpg?t=1493372029
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446650/ss_52b4ba3c97e90225e445a9cba5139404d99e7d9d.1920x1080.jpg?t=1493372029
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446650/ss_52b4ba3c97e90225e445a9cba5139404d99e7d9d.600x338.jpg?t=1493372029
+    short_description: A pdf decision guide to the game Blossoms Bloom Brightest
+    steam_appid: 446650
+    support_info:
+      email: ''
+      url: DharkerStudio.com
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

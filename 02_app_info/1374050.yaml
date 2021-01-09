@@ -1,0 +1,195 @@
+details:
+  data:
+    about_the_game: KIRO is an indie developed real-time horror text adventure game
+      in which you play as the elected KIRO of your town. The game plays in real time
+      while your player is controlled with text command inputs providing a unique
+      intense experience that combines modern action game play with classic text adventure
+      games.<br><br><u>Gameplay:</u><br><ul class="bb_ul"><li> Navigate the crypts
+      beneath your town to destroy all evil within.<br></li><li> Type text commands
+      and watch your player move in real-time.<br></li><li> Time your actions to defeat
+      enemies with many different weapons.<br></li><li> The dungeon is randomly shuffled
+      so playing twice in a row is completely different. <br></li><li> Contains multiple
+      endings based on what actions you take.<br></li><li> Multiple steam achievements
+      to earn.<br></li><li> Will you be able to handle the pressure and vanquish the
+      evil below?</li></ul>
+    achievements:
+      highlighted:
+      - name: Slugwyrm Slayer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/6298090eeb571989aa44cc5bb755f48cb10622e3.jpg
+      - name: Anorac Slayer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/6c4bb0e0b4962b8a56ead138b88c3ce1ae485eb7.jpg
+      - name: Golem Slayer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/dc1dc44159435fff0d57911108640260898b2b28.jpg
+      - name: Maleficus Slayer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/bf26172b72005731c9060591c8670ccd558c0581.jpg
+      - name: Savior
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/eff63a90250c3cbf979c39a0ad006eb61da23adf.jpg
+      - name: Friend of Marco
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/2232544343c062b2cd0c4ad329337da2ef81f576.jpg
+      - name: Bearded Legend
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/87924ceb872c9108899a7454bdfbb2c83052e9e8.jpg
+      - name: Village Hero
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/7bac3bf071c760ab0f7ca7468cdc2779f208dc00.jpg
+      - name: Slayer of Evil
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1374050/3f8454300dc4368cda4cf85021ee2fac2f079c40.jpg
+      total: 9
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1374050/page_bg_generated_v6b.jpg?t=1602838055
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: KIRO is an indie developed real-time horror text adventure
+      game in which you play as the elected KIRO of your town. The game plays in real
+      time while your player is controlled with text command inputs providing a unique
+      intense experience that combines modern action game play with classic text adventure
+      games.<br><br><u>Gameplay:</u><br><ul class="bb_ul"><li> Navigate the crypts
+      beneath your town to destroy all evil within.<br></li><li> Type text commands
+      and watch your player move in real-time.<br></li><li> Time your actions to defeat
+      enemies with many different weapons.<br></li><li> The dungeon is randomly shuffled
+      so playing twice in a row is completely different. <br></li><li> Contains multiple
+      endings based on what actions you take.<br></li><li> Multiple steam achievements
+      to earn.<br></li><li> Will you be able to handle the pressure and vanquish the
+      evil below?</li></ul>
+    developers:
+    - Blekoh
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1374050/header.jpg?t=1602838055
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu x64 18.04 LTS<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        128MB<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu x64 18.04 LTS<br></li><li><strong>Processor:</strong> 2GHz+<br></li><li><strong>Graphics:</strong>
+        512MB<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256794066
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256794066/movie480.mp4?t=1595879855
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256794066/movie_max.mp4?t=1595879855
+      name: KIROTrailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256794066/movie.293x165.jpg?t=1595879855
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256794066/movie480_vp9.webm?t=1595879855
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256794066/movie_max_vp9.webm?t=1595879855
+    name: KIRO
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: KIRO - $2.99
+        packageid: 481934
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy KIRO
+    packages:
+    - 481934
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        128MB<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Processor:</strong> 2GHz+<br></li><li><strong>Memory:</strong>
+        3 GB RAM<br></li><li><strong>Graphics:</strong> 512MB<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Blekoh
+    release_date:
+      coming_soon: false
+      date: Oct 16, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_2387c79cf9159c2aacf4c5f46bd266747a153fd7.1920x1080.jpg?t=1602838055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_2387c79cf9159c2aacf4c5f46bd266747a153fd7.600x338.jpg?t=1602838055
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_f1ff9f87a9f31cf552c311d63567a425aff141d6.1920x1080.jpg?t=1602838055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_f1ff9f87a9f31cf552c311d63567a425aff141d6.600x338.jpg?t=1602838055
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_5d8a021d11d611a0efff2653185d82a4b69c9e56.1920x1080.jpg?t=1602838055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_5d8a021d11d611a0efff2653185d82a4b69c9e56.600x338.jpg?t=1602838055
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_038251b9a2d2c14c162d32535dd6d81d723e3c4b.1920x1080.jpg?t=1602838055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_038251b9a2d2c14c162d32535dd6d81d723e3c4b.600x338.jpg?t=1602838055
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_3e538ed3eb4e738152797676566ee68a4100054e.1920x1080.jpg?t=1602838055
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1374050/ss_3e538ed3eb4e738152797676566ee68a4100054e.600x338.jpg?t=1602838055
+    short_description: KIRO is an indie developed horror text adventure game that
+      plays in real time while your player is controlled with text command inputs
+      providing a unique intense experience that combines modern action game play
+      with classic text adventure games.
+    steam_appid: 1374050
+    support_info:
+      email: kiro.blekoh@gmail.com
+      url: https://discord.gg/2nQWdKG
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw/4bJt/UCcsTQqgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 10
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 1603886953
+      num_games_owned: 4070
+      num_reviews: 54
+      playtime_at_review: 89
+      playtime_forever: 89
+      playtime_last_two_weeks: 0
+      steamid: '76561197971533686'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78283842'
+    review: "What a little gem! Simple in design, elegant in execution. Explore a\
+      \ small grid of connected rooms - scavenging weapons and items to take on the\
+      \ great evil lurking within. The easiest games are when you don\u2019t find\
+      \ the Maleficus until late in your exploration; but the most exhilarating game\
+      \ is when you find it early. Heart pounding as fast as your fingers on the keyboard,\
+      \ moving from room to room as the beast lurches after you, finding just enough\
+      \ items to defeat the lesser monsters in your way as you frantically flee, until\
+      \ you\u2019ve scavenged enough to turn and fight."
+    steam_purchase: true
+    timestamp_created: 1603887446
+    timestamp_updated: 1603887446
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.513618707656860352'
+    written_during_early_access: false
+  success: 1

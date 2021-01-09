@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1276030/extras/img_steam.png?t=1585821610"
+      /><h2 class="bb_tag">Serge Bulat: Wurmenai. </h2><br>The music companion to
+      your adventures across the Wurroom multiverse.<br><br><i>Includes a 35-page
+      art book.</i>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1276030/page_bg_generated_v6b.jpg?t=1585821610
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1276030/extras/img_steam.png?t=1585821610"
+      /><h2 class="bb_tag">Serge Bulat: Wurmenai. </h2><br>The music companion to
+      your adventures across the Wurroom multiverse.<br><br><i>Includes a 35-page
+      art book.</i>'
+    developers:
+    - Serge Bulat
+    - Michael Rfdshir
+    fullgame:
+      appid: '1153130'
+      name: Wurroom
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1276030/header.jpg?t=1585821610
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256779298
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779298/movie480.mp4?t=1585614101
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779298/movie_max.mp4?t=1585614101
+      name: Wurmenai - Teaser
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256779298/movie.293x165.jpg?t=1585614101
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779298/movie480.webm?t=1585614101
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779298/movie_max.webm?t=1585614101
+    name: 'Wurmenai: The Sound Of Wurroom + Art Book'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wurroom Soundtrack - $4.99
+        packageid: 444350
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: 'Buy Wurmenai: The Sound Of Wurroom + Art Book'
+    packages:
+    - 444350
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Michael Rfdshir
+    release_date:
+      coming_soon: false
+      date: Apr 2, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_30c8847f1a1576da24837148327c17a629060eba.1920x1080.jpg?t=1585821610
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_30c8847f1a1576da24837148327c17a629060eba.600x338.jpg?t=1585821610
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_1cec0a4643ca187bf4e5752653fcfcb648896743.1920x1080.jpg?t=1585821610
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_1cec0a4643ca187bf4e5752653fcfcb648896743.600x338.jpg?t=1585821610
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_b21389c02af2783aaec64560508277da2911dd36.1920x1080.jpg?t=1585821610
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_b21389c02af2783aaec64560508277da2911dd36.600x338.jpg?t=1585821610
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_db4499bedf58230786f0e9aace6407d604a62dbc.1920x1080.jpg?t=1585821610
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_db4499bedf58230786f0e9aace6407d604a62dbc.600x338.jpg?t=1585821610
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_e56c308ac7f597b62ab9e171be1be1c67637aa5d.1920x1080.jpg?t=1585821610
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276030/ss_e56c308ac7f597b62ab9e171be1be1c67637aa5d.600x338.jpg?t=1585821610
+    short_description: 'Serge Bulat: Wurmenai. Music from the art game Wurroom.'
+    steam_appid: 1276030
+    support_info:
+      email: rfdshir@gmail.com
+      url: ''
+    type: music
+    website: https://sergebulat.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

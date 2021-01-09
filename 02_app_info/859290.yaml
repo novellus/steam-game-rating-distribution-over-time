@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: "This add-on includes all the soundtracks from the game (2 tracks).<br\
+      \ />\r\nThe first track is called &quot;Pestis-OST 1&quot; and lasts 1 minute\
+      \ 38 seconds. Available in the format of &quot;WAVE&quot;.<br />\r\nThe second\
+      \ track is called &quot;Pestis-OST 2&quot; and lasts 3 minutes 39 seconds. Available\
+      \ in the format of &quot;WAVE&quot;."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/859290/page_bg_generated_v6b.jpg?t=1546696910
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This add-on includes all the soundtracks from the game\
+      \ (2 tracks).<br />\r\nThe first track is called &quot;Pestis-OST 1&quot; and\
+      \ lasts 1 minute 38 seconds. Available in the format of &quot;WAVE&quot;.<br\
+      \ />\r\nThe second track is called &quot;Pestis-OST 2&quot; and lasts 3 minutes\
+      \ 39 seconds. Available in the format of &quot;WAVE&quot;."
+    developers:
+    - DIEDEMOR STUDIO GAMES
+    fullgame:
+      appid: '853480'
+      name: Pestis
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/859290/header.jpg?t=1546696910
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Pestis - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Pestis - OST - $0.99
+        packageid: 270464
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Pestis - OST
+    packages:
+    - 270464
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP and newer<br></li><li><strong>Processor:</strong> Athlon 2 X3 450<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Laush Studio
+    release_date:
+      coming_soon: false
+      date: May 10, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/859290/ss_a778d3064dae4b84945c2b682ccf87574503ec08.1920x1080.jpg?t=1546696910
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/859290/ss_a778d3064dae4b84945c2b682ccf87574503ec08.600x338.jpg?t=1546696910
+    short_description: This add-on includes all the soundtracks from the game (2 tracks).
+      The first track is called &quot;Pestis-OST 1&quot; and lasts 1 minute 38 seconds.
+      Available in the format of &quot;WAVE&quot;. The second track is called &quot;Pestis-OST
+      2&quot; and lasts 3 minutes 39 seconds. Available in the format of &quot;WAVE&quot;.
+    steam_appid: 859290
+    support_info:
+      email: laushds@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

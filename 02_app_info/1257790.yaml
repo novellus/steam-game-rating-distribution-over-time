@@ -1,0 +1,145 @@
+details:
+  data:
+    about_the_game: "<h2 class=\"bb_tag\">What is the iVRy PSMoveService Driver for\
+      \ SteamVR DLC?</h2><br>\u2022 It is a version of the PSMoveService &amp; PSMoveSteamVRBridge\
+      \ software that has been customised to simplify installation and configuration\
+      \ for use with the iVRy Driver for SteamVR.<h2 class=\"bb_tag\">What is PSMoveSteamVRBridge?</h2><br>\u2022\
+      \ PSMoveSteamVRBridge is a client for PSMoveService that takes the pose and\
+      \ button data of PSMove/DualShock4/PSNavi controller and forwards it into SteamVR.<h2\
+      \ class=\"bb_tag\">What is PSMoveService?</h2><br>\u2022 PSMoveService is a\
+      \ background service that manages multiple PSMove Controllers and PS3 Eye Cameras.\
+      \ Clients connect to the service and stream PSMove Controller state (position,\
+      \ orientation and button presses). A visual client front-end is used for controller/tracker\
+      \ configuration.<h2 class=\"bb_tag\">What does that mean?</h2><br>\u2022 Want\
+      \ to use your Sony Playstation Move controllers to play PC VR* (Virtual Reality)\
+      \ titles?<br>\u2022 Want to add 6DOF (orientation &amp; positional) tracking**\
+      \ to your iVRy VR headset?<br>\u2022 With iVRy, the PSMoveService Driver for\
+      \ SteamVR  and 2 or more Sony Playstation Eye cameras you can!<br><br>* Valve\
+      \ OpenVR/SteamVR. Requires Valve Steam &amp; SteamVR on Windows 7 or later.<br>**\
+      \ Requires LED ball or additional PS Move controller (see &quot;Virtual HMD&quot;\
+      \ section of PSMoveService Wiki, ignore &quot;Additional Software&quot; section)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1257790/page_bg_generated_v6b.jpg?t=1585570197
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "<h1>Before you start</h1><p><h2 class=\"bb_tag\"><strong>IMPORTANT:</strong></h2><br>Before\
+      \ using PSMoveService for the first time, you will need to follow the instructions\
+      \ in the &quot;Initial Setup Documentation&quot; section of the PSMoveService\
+      \ Wiki (View the manual). <br><br>It is recommended to use the &quot;IPISoft\
+      \ PS3EYEDriver&quot; driver for the Sony Playstation Eye camera (link given\
+      \ in &quot;PSEye Software Setup&quot; section of the PSMoveService Wiki).<br><br>You\
+      \ can launch the &quot;PSMoveConfigTool&quot; described in the Wiki by selecting\
+      \ the &quot;Configure PSMoveService&quot; option from the iVRy &quot;Launch&quot;\
+      \ button. PSMoveService will be started automatically.<h2 class=\"bb_tag\"><strong>NOTE:</strong></h2><br>PSMoveService\
+      \ is experimental &quot;alpha&quot; quality software. It is provided in DLC\
+      \ form as a convenience for those users who wish to experiment with it. It is\
+      \ complicated to set up, not suitable for all purposes, with no guarantee of\
+      \ success. If you are not comfortable with experimental software, that requires\
+      \ a lot of tweaking, and may not be suitable for your purposes, then please\
+      \ do not use it. It is not, under any circumstances, to be considered as &quot;production\
+      \ level quality&quot; software. It is open-source software, made by volunteers,\
+      \ in their free time.</p><br><h1>About the Game</h1><h2 class=\"bb_tag\">What\
+      \ is the iVRy PSMoveService Driver for SteamVR DLC?</h2><br>\u2022 It is a version\
+      \ of the PSMoveService &amp; PSMoveSteamVRBridge software that has been customised\
+      \ to simplify installation and configuration for use with the iVRy Driver for\
+      \ SteamVR.<h2 class=\"bb_tag\">What is PSMoveSteamVRBridge?</h2><br>\u2022 PSMoveSteamVRBridge\
+      \ is a client for PSMoveService that takes the pose and button data of PSMove/DualShock4/PSNavi\
+      \ controller and forwards it into SteamVR.<h2 class=\"bb_tag\">What is PSMoveService?</h2><br>\u2022\
+      \ PSMoveService is a background service that manages multiple PSMove Controllers\
+      \ and PS3 Eye Cameras. Clients connect to the service and stream PSMove Controller\
+      \ state (position, orientation and button presses). A visual client front-end\
+      \ is used for controller/tracker configuration.<h2 class=\"bb_tag\">What does\
+      \ that mean?</h2><br>\u2022 Want to use your Sony Playstation Move controllers\
+      \ to play PC VR* (Virtual Reality) titles?<br>\u2022 Want to add 6DOF (orientation\
+      \ &amp; positional) tracking** to your iVRy VR headset?<br>\u2022 With iVRy,\
+      \ the PSMoveService Driver for SteamVR  and 2 or more Sony Playstation Eye cameras\
+      \ you can!<br><br>* Valve OpenVR/SteamVR. Requires Valve Steam &amp; SteamVR\
+      \ on Windows 7 or later.<br>** Requires LED ball or additional PS Move controller\
+      \ (see &quot;Virtual HMD&quot; section of PSMoveService Wiki, ignore &quot;Additional\
+      \ Software&quot; section)"
+    developers:
+    - Chadwick Boulay
+    - Guido Sanchez
+    - Mediator Software
+    fullgame:
+      appid: '992490'
+      name: iVRy Driver for SteamVR
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1257790/header.jpg?t=1585570197
+    is_free: true
+    legal_notice: "Portions \xA9 2015-2020 Chadwick Boulay. Portions \xA9 2017-2020\
+      \ Guido Sanchez. Portions \xA9 2020 Mediator Software. All rights reserved.\
+      \ iVRy and the iVRy logo are trademarks of Mediator Software. No Personal Information\
+      \ is collected by the iVRy mobile app or this driver."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: iVRy PSMoveService Driver for SteamVR
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> Windows\
+        \ 7<br></li><li><strong>Processor:</strong> Intel\xAE i5-4590 / AMD FX 8350\
+        \ equivalent<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX\
+        \ 970 / AMD Radeon\u2122 R9 290 equivalent<br></li><li><strong>Storage:</strong>\
+        \ 60 MB available space<br></li><li><strong>Additional Notes:</strong> PSMove\
+        \ Controller(s), 2 or more PSEye Cameras</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> Intel\xAE i5-4590 / AMD\
+        \ FX 8350 equivalent<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE\
+        \ GTX 970 / AMD Radeon\u2122 R9 290 equivalent<br></li><li><strong>Storage:</strong>\
+        \ 60 MB available space<br></li><li><strong>Additional Notes:</strong> PSMove\
+        \ Controller(s), 2 or more PSEye Cameras</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Mediator Software
+    release_date:
+      coming_soon: false
+      date: Feb 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1257790/ss_33e499e61558d37e05e6a35608039686fe06d10e.1920x1080.jpg?t=1585570197
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1257790/ss_33e499e61558d37e05e6a35608039686fe06d10e.600x338.jpg?t=1585570197
+    short_description: Use your PSMove/DualShock4/PSNavi controller in SteamVR. Lets
+      you add 6DOF tracking to your Mobile or PSVR VR headset.
+    steam_appid: 1257790
+    support_info:
+      email: ''
+      url: https://groups.google.com/forum/m/#!forum/psmoveservice
+    supported_languages: English
+    type: dlc
+    website: https://github.com/psmoveservice/PSMoveService/wiki
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

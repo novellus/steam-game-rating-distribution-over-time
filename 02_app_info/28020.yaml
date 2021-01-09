@@ -1,0 +1,57 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - IO Interactive
+    fullgame:
+      appid: '28000'
+      name: 'Kane & Lynch 2: Dog Days'
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/28020/header.jpg?t=1447353365
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 66
+    name: Kane & Lynch 2 Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - SQUARE ENIX, Eidos Interactive
+    release_date:
+      coming_soon: false
+      date: Jul 26, 2010
+    required_age: 0
+    short_description: ''
+    steam_appid: 28020
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

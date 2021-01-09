@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: "The Mesh Module DLC adds advanced mesh export options for game\
+      \ developers.\t<br><br><ul class=\"bb_ul\"><li>Optimize your meshes up to 90%\
+      \ for efficient rendering in all common game engines<br></li><li>Export color\
+      \ encoded STL for multi-colored 3D printing<br></li><li>Export voxels as individual\
+      \ cubes for physics simulations<br></li><li>Unlock more mesh export options\
+      \ like filename prefixes or output folders</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/456230/page_bg_generated_v6b.jpg?t=1478610117
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Mesh Module DLC adds advanced mesh export options for\
+      \ game developers.\t<br><br><ul class=\"bb_ul\"><li>Optimize your meshes up\
+      \ to 90% for efficient rendering in all common game engines<br></li><li>Export\
+      \ color encoded STL for multi-colored 3D printing<br></li><li>Export voxels\
+      \ as individual cubes for physics simulations<br></li><li>Unlock more mesh export\
+      \ options like filename prefixes or output folders</li></ul>"
+    developers:
+    - Minddesk Software GmbH
+    fullgame:
+      appid: '454550'
+      name: Qubicle Voxel Editor
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/456230/header.jpg?t=1478610117
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X Lion 10.7.5<br></li><li><strong>Processor:</strong> Intel based<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    name: Qubicle Mesh Module
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Qubicle Mesh Module - $9.99
+        packageid: 98823
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Qubicle Mesh Module
+    packages:
+    - 98823
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Open GL 3.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 21, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/456230/ss_6135958eff2e0537289297cafdb4dad859c65689.1920x1080.jpg?t=1478610117
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/456230/ss_6135958eff2e0537289297cafdb4dad859c65689.600x338.jpg?t=1478610117
+    short_description: The Mesh Module DLC adds advanced mesh export options for game
+      developers.
+    steam_appid: 456230
+    support_info:
+      email: ''
+      url: http://www.getqubicle.com/support
+    supported_languages: English
+    type: dlc
+    website: http://www.getqubicle.com
+  success: true
+reviews:
+  cursor: AoJ49dPf4tkCdfabcA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 114
+      num_reviews: 16
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198006484623'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '29417317'
+    review: 'It''s great but the mesh optimization should have been included with
+      the base product.
+
+
+      This is an ABSOLUTE must-have for anyone who plans to put their exported models
+      into a video game, especially an app.'
+    steam_purchase: true
+    timestamp_created: 1485077127
+    timestamp_updated: 1485077127
+    voted_up: true
+    votes_funny: 0
+    votes_up: 12
+    weighted_vote_score: '0.665370523929595947'
+    written_during_early_access: false
+  success: 1

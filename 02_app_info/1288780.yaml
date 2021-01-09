@@ -1,0 +1,85 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1288780/extras/Castle.gif?t=1598321827"
+      /><br><br>The official soundtracks for Faulty Apprentice!<br>Once purchased,
+      files will be available in your SteamApps folder.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1288780/page_bg_generated_v6b.jpg?t=1598321827
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1288780/extras/Castle.gif?t=1598321827"
+      /><br><br>The official soundtracks for Faulty Apprentice!<br>Once purchased,
+      files will be available in your SteamApps folder.
+    developers:
+    - AGL studios
+    fullgame:
+      appid: '630550'
+      name: Faulty Apprentice - Fantasy Dating Sim
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1288780/header.jpg?t=1598321827
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Faulty Apprentice - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Faulty Apprentice - Fantasy Visual Novel / Dating Sim Soundtrack
+          - $2.99
+        packageid: 449412
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Faulty Apprentice - Soundtrack
+    packages:
+    - 449412
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - AGL studios
+    release_date:
+      coming_soon: false
+      date: Jun 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1288780/ss_fa31256094cd4d9ba38020d7ff7f0085a445a314.1920x1080.jpg?t=1598321827
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1288780/ss_fa31256094cd4d9ba38020d7ff7f0085a445a314.600x338.jpg?t=1598321827
+    short_description: This is an official soundtrack for Faulty Apprentice.
+    steam_appid: 1288780
+    support_info:
+      email: AGLstudioart@gmail.com
+      url: AGLstudioart.com
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

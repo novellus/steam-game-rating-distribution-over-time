@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/537421/page_bg_generated_v6b.jpg?t=1475269662
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '534110'
+      name: Agent Origins
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/537421/header.jpg?t=1475269662
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Agent Origins: Conspiracies'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: Agent Origins - Free
+        packageid: 129484
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy Agent Origins: Conspiracies'
+    packages:
+    - 129484
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 30, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_807a54ec79e0c6caacc1653b42948604accc1bd5.1920x1080.jpg?t=1475269662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_807a54ec79e0c6caacc1653b42948604accc1bd5.600x338.jpg?t=1475269662
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_d93a1c328cce07e7aad5da58308ed0c31a5ec29f.1920x1080.jpg?t=1475269662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_d93a1c328cce07e7aad5da58308ed0c31a5ec29f.600x338.jpg?t=1475269662
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_b0812aac28086df7db15cd3ea9feb9ef722a86c0.1920x1080.jpg?t=1475269662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_b0812aac28086df7db15cd3ea9feb9ef722a86c0.600x338.jpg?t=1475269662
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_fa7be19e5f5f8791849eb1bb9a5f24d919557462.1920x1080.jpg?t=1475269662
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/537421/ss_fa7be19e5f5f8791849eb1bb9a5f24d919557462.600x338.jpg?t=1475269662
+    short_description: 'Agent Origins: Conspiracies'
+    steam_appid: 537421
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4gb37vNoCeouWcw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1485773722
+      num_games_owned: 1206
+      num_reviews: 1609
+      playtime_at_review: 5
+      playtime_forever: 5
+      playtime_last_two_weeks: 0
+      steamid: '76561198065176763'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '30191802'
+    review: i dont buy the game ,but i like the movie.
+    steam_purchase: true
+    timestamp_created: 1488104319
+    timestamp_updated: 1488104319
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

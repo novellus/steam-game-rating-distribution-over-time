@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: "This is the complete C++ source code for Crongdor the Barbarian,\
+      \ version 1.4.<br />\r\nIt compiles with Clang or GCC. It will build with Visual\
+      \ Studio but you<br />\r\nwill need to download or build appropriate library\
+      \ files for MSVC.<br />\r\n<br />\r\nWe plan to incrementally add commentary,\
+      \ critical review (&quot;post-mortem&quot;), and<br />\r\ntutorials related\
+      \ to this code over the coming months, based on demand. OpenGL<br />\r\nstudents\
+      \ are usually curious how larger projects can be managed, so this should<br\
+      \ />\r\nbe interesting as /one/ way to do that."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/488190/page_bg_generated_v6b.jpg?t=1465998240
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is the complete C++ source code for Crongdor the Barbarian,\
+      \ version 1.4.<br />\r\nIt compiles with Clang or GCC. It will build with Visual\
+      \ Studio but you<br />\r\nwill need to download or build appropriate library\
+      \ files for MSVC.<br />\r\n<br />\r\nWe plan to incrementally add commentary,\
+      \ critical review (&quot;post-mortem&quot;), and<br />\r\ntutorials related\
+      \ to this code over the coming months, based on demand. OpenGL<br />\r\nstudents\
+      \ are usually curious how larger projects can be managed, so this should<br\
+      \ />\r\nbe interesting as /one/ way to do that."
+    developers:
+    - Anton Gerdelan
+    fullgame:
+      appid: '467790'
+      name: Crongdor the Barbarian
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/488190/header.jpg?t=1465998240
+    is_free: true
+    legal_notice: "<h2 class=\"bb_tag\">Game Source Code</h2><br>The source code for\
+      \ Crongdor the Barbarian in licensed under the GNU General Public Licence v3.<br><br>GPL\
+      \ is a good default licence for educational sharing purposes:<br>* You may host\
+      \ your own branch of this code on e.g. GitHub<br>* You may not use this code\
+      \ in commercial projects<br>* You may negotiate a different licence with us\
+      \ <br><br>The GPLv3 allows others to copy, distribute and modify the software\
+      \ as long as they state what has been changed when, and ensure that any modifications\
+      \ are also licensed under the GPL. Software incorporating (via compiler) GPL-licensed\
+      \ code must also be made also available under the GPLv3 along with build & install\
+      \ instructions. \u2014 <a href=\"https://steamcommunity.com/linkfilter/?url=http://tldrlegal.com\"\
+      \ target=\"_blank\" rel=\"noopener\"  >tldrlegal.com</a><h2 class=\"bb_tag\"\
+      >Third Party Libraries</h2><br>Third party libraries (found in the lib/ sub-folder)\
+      \ and interfaces (found in include/ sub-folders) are shipped with the game source\
+      \ code for convenience. It is the user's responsibility to determine and abide\
+      \ by these licences."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        SteamOS, Ubuntu LTS or newer<br></li><li><strong>Processor:</strong> 1.2 GHz
+        processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.0 compatible driver<br></li><li><strong>Storage:</strong> 256 MB
+        available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        SteamOS, Ubuntu LTS or newer<br></li><li><strong>Processor:</strong> 3 GHz
+        processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.0 compatible driver<br></li><li><strong>Storage:</strong> 256 MB
+        available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        El Capitan<br></li><li><strong>Processor:</strong> 1.2 GHz processor<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible hardware<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        El Capitan<br></li><li><strong>Processor:</strong> 3 GHz processor<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible hardware<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: source_code
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7/8/10<br></li><li><strong>Processor:</strong> 1.2 GHz processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 compatible driver<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7/8/10<br></li><li><strong>Processor:</strong> 3 GHz processor<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 compatible driver<br></li><li><strong>Storage:</strong>
+        256 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Ripped Wizards
+    release_date:
+      coming_soon: false
+      date: Jun 15, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/488190/ss_2f2fa0c23a281eb78b7cb6c4ee2d9e831dbc9300.1920x1080.jpg?t=1465998240
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/488190/ss_2f2fa0c23a281eb78b7cb6c4ee2d9e831dbc9300.600x338.jpg?t=1465998240
+    short_description: This is the complete C++ source code for Crongdor the Barbarian.
+      It compiles to all major desktop platforms.
+    steam_appid: 488190
+    support_info:
+      email: ''
+      url: http://crongdor.com
+    supported_languages: English
+    type: dlc
+    website: http://crongdor.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

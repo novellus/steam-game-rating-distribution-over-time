@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: "The original soundtrack of Cubikolor.<h2 class=\"bb_tag\">Tracklist</h2><br><ul\
+      \ class=\"bb_ul\"><li>01 - Source Code<br></li><li>02 - Compiling<br></li><li>03\
+      \ - Relocation<br></li><li>04 - Loading<br></li><li>05 - Debugging<br></li><li>06\
+      \ - Rewriting<br></li><li>07 - Rebooting<br></li><li>08 - Beginning<br></li><li>09\
+      \ - Ambiant</li></ul><br><br><i>The Soundtrack will be placed in your Cubikolor\
+      \ folder in the Steam Directory: \u2026Steam\\SteamApps\\common\\Cubikolor\\\
+      </i>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/468420/page_bg_generated_v6b.jpg?t=1463760322
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The original soundtrack of Cubikolor.<h2 class=\"bb_tag\"\
+      >Tracklist</h2><br><ul class=\"bb_ul\"><li>01 - Source Code<br></li><li>02 -\
+      \ Compiling<br></li><li>03 - Relocation<br></li><li>04 - Loading<br></li><li>05\
+      \ - Debugging<br></li><li>06 - Rewriting<br></li><li>07 - Rebooting<br></li><li>08\
+      \ - Beginning<br></li><li>09 - Ambiant</li></ul><br><br><i>The Soundtrack will\
+      \ be placed in your Cubikolor folder in the Steam Directory: \u2026Steam\\SteamApps\\\
+      common\\Cubikolor\\</i>"
+    developers:
+    - Fractal Box
+    - Moving Player
+    fullgame:
+      appid: '451100'
+      name: Cubikolor
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/468420/header.jpg?t=1463760322
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.6 Snow Leopard</li></ul>
+    name: Cubikolor - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cubikolor - OST - $2.99
+        packageid: 103294
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Cubikolor - OST
+    packages:
+    - 103294
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/Vista/8/10</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Plug In Digital
+    release_date:
+      coming_soon: false
+      date: May 20, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/468420/ss_5630dd9ee9ea8add97f552375a1bebb675503316.1920x1080.jpg?t=1463760322
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/468420/ss_5630dd9ee9ea8add97f552375a1bebb675503316.600x338.jpg?t=1463760322
+    short_description: The original soundtrack of Cubikolor.
+    steam_appid: 468420
+    support_info:
+      email: ''
+      url: http://fractalbox.fr/contact.php
+    supported_languages: English, French, Italian, German, Spanish - Spain
+    type: dlc
+    website: http://www.cubikolor.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

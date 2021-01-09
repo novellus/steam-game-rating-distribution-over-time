@@ -1,0 +1,183 @@
+details:
+  data:
+    about_the_game: "Alone you wake up amnesiac, trying to uncover your past by exploring\
+      \ the world.<br />\r\n<br />\r\nHope is a point-and-click adventure game where\
+      \ you will seek out many items to combine and use them to solve puzzles.<br\
+      \ />\r\n<br />\r\nMost of the puzzles in the game are difficult, some of them\
+      \ are very hard. <br />\r\nThere is a hint section in the menu if you go under\
+      \ Settings."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/677590/page_bg_generated_v6b.jpg?t=1600328157
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    demos:
+    - appid: 1291580
+      description: ''
+    detailed_description: "Alone you wake up amnesiac, trying to uncover your past\
+      \ by exploring the world.<br />\r\n<br />\r\nHope is a point-and-click adventure\
+      \ game where you will seek out many items to combine and use them to solve puzzles.<br\
+      \ />\r\n<br />\r\nMost of the puzzles in the game are difficult, some of them\
+      \ are very hard. <br />\r\nThere is a hint section in the menu if you go under\
+      \ Settings."
+    developers:
+    - Glusoft
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/677590/header.jpg?t=1600328157
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256727496
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256727496/movie480.mp4?t=1536332952
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256727496/movie_max.mp4?t=1536332952
+      name: Hope Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256727496/movie.293x165.jpg?t=1536332952
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256727496/movie480.webm?t=1536332952
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256727496/movie_max.webm?t=1536332952
+    - highlight: true
+      id: 256781254
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256781254/movie480.mp4?t=1586520103
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256781254/movie_max.mp4?t=1586520103
+      name: Opening scene
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256781254/movie.293x165.jpg?t=1586520103
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256781254/movie480_vp9.webm?t=1586520103
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256781254/movie_max_vp9.webm?t=1586520103
+    name: Hope
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hope - $9.99
+        packageid: 193214
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Hope
+    packages:
+    - 193214
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> Pentium
+        or higher<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong>
+        Any graphic card with support for OpenGL 3.2<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 700 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Minimal resolution 1280x720</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Glusoft
+    release_date:
+      coming_soon: false
+      date: Aug 7, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_3d7e7a4f9c3fd063c047dcf4fe960a32e6d9c831.1920x1080.jpg?t=1600328157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_3d7e7a4f9c3fd063c047dcf4fe960a32e6d9c831.600x338.jpg?t=1600328157
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_b899f1c0962e5d8a1a093e5b31af6af1b653041d.1920x1080.jpg?t=1600328157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_b899f1c0962e5d8a1a093e5b31af6af1b653041d.600x338.jpg?t=1600328157
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_a4843e620e19dee27a347ffdf1bf1b1c3fb71ef2.1920x1080.jpg?t=1600328157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_a4843e620e19dee27a347ffdf1bf1b1c3fb71ef2.600x338.jpg?t=1600328157
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_139b019f1961455124ac5d8e33ccd4edcde3da84.1920x1080.jpg?t=1600328157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_139b019f1961455124ac5d8e33ccd4edcde3da84.600x338.jpg?t=1600328157
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_d61d6d844bea629d3c7e19a46e7bfee245ec9daa.1920x1080.jpg?t=1600328157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_d61d6d844bea629d3c7e19a46e7bfee245ec9daa.600x338.jpg?t=1600328157
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_a12b75262414c9925a25cc3fcc5ce1b46eb9a467.1920x1080.jpg?t=1600328157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_a12b75262414c9925a25cc3fcc5ce1b46eb9a467.600x338.jpg?t=1600328157
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_9f5827fc41039565274d0cf776cee63bd19f9a4d.1920x1080.jpg?t=1600328157
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/677590/ss_9f5827fc41039565274d0cf776cee63bd19f9a4d.600x338.jpg?t=1600328157
+    short_description: Alone you wake up amnesiac, trying to uncover your past by
+      exploring the world.
+    steam_appid: 677590
+    support_info:
+      email: admin@glusoft.com
+      url: https://glusoft.com/games/hope/
+    supported_languages: English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://glusoft.com/games/hope/
+  success: true
+reviews:
+  cursor: AoJw7JLwsfQCcqmPoAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1599407791
+      num_games_owned: 228
+      num_reviews: 15
+      playtime_at_review: 143
+      playtime_forever: 148
+      playtime_last_two_weeks: 0
+      steamid: '76561198025764277'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75528850'
+    review: 'One of the most depressing and PUZZLING games I''ve ever played and a
+      realistic portrayal of slowly losing your mind - realistic as in there are barely
+      any "horror game insanity effects", but rooms suddenly lead to unexpected rooms,
+      people you once loved are there for a moment and then gone again. Often you''ll
+      feel trapped and don''t know what''s expected of you in these strange escape
+      rooms featuring cold, technical CAD graphics overlayed with crayon characters,
+      a contrast that in some rooms works quite well and in others it only looks jarring.
+
+
+      [i]Hope[/i] doesn''t provide much feedback when trying out item combinations,
+      the English translation is wonky at best, but SOMETHING about it, maybe the
+      sternness and total lack of self-awareness, draws me in. But it''s definitely
+      not for someone looking for an easy, relaxed experience, more like... playing
+      with a rock you found on the lawn, all by yourself.'
+    steam_purchase: true
+    timestamp_created: 1599378214
+    timestamp_updated: 1599401400
+    voted_up: true
+    votes_funny: 1
+    votes_up: 2
+    weighted_vote_score: '0.542546391487121582'
+    written_during_early_access: false
+  success: 1

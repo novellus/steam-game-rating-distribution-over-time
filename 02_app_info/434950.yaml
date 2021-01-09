@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/434950/page_bg_generated_v6b.jpg?t=1589340755
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Amaranth Games, LLC
+    fullgame:
+      appid: '433920'
+      name: 'Aveyond 4: Shadow of the Mist'
+    genres:
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/434950/header.jpg?t=1589340755
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Aveyond 4: Shadow of the Mist - Strategy Guide'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Aveyond 4: Shadows Of The Mist - Strategy Guide - $4.99'
+        packageid: 90801
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: 'Buy Aveyond 4: Shadow of the Mist - Strategy Guide'
+    packages:
+    - 90801
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or later<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong>
+        377 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 1, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_9ff6cddfa0e3211cee978ea5ba8b6939219bd522.1920x1080.jpg?t=1589340755
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_9ff6cddfa0e3211cee978ea5ba8b6939219bd522.600x338.jpg?t=1589340755
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_01fce65f19905d9ce4f4a946b58a412666d754fd.1920x1080.jpg?t=1589340755
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_01fce65f19905d9ce4f4a946b58a412666d754fd.600x338.jpg?t=1589340755
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_1ce006154b3c321375e49694a681ecd071e6345b.1920x1080.jpg?t=1589340755
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_1ce006154b3c321375e49694a681ecd071e6345b.600x338.jpg?t=1589340755
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_94b0115b1f8d38ccb48a4280c9a8e6d5e9e2468f.1920x1080.jpg?t=1589340755
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_94b0115b1f8d38ccb48a4280c9a8e6d5e9e2468f.600x338.jpg?t=1589340755
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_f635b4e984a14d054678fca158c7b2fdc8d49d10.1920x1080.jpg?t=1589340755
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_f635b4e984a14d054678fca158c7b2fdc8d49d10.600x338.jpg?t=1589340755
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_47bb332b0ae528a7ba1306596930f14742c45cbf.1920x1080.jpg?t=1589340755
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_47bb332b0ae528a7ba1306596930f14742c45cbf.600x338.jpg?t=1589340755
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_65b420b784317425fbe8e6542c8597af9730849a.1920x1080.jpg?t=1589340755
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/434950/ss_65b420b784317425fbe8e6542c8597af9730849a.600x338.jpg?t=1589340755
+    short_description: ''
+    steam_appid: 434950
+    support_info:
+      email: support@rpgmakerweb.com
+      url: http://www.aveyond.com/forums
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

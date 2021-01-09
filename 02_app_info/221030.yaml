@@ -1,0 +1,71 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Xavi Canal, Ben Palgi
+    fullgame:
+      appid: '221020'
+      name: Towns
+    genres:
+    - description: Strategy
+      id: '2'
+    - description: RPG
+      id: '3'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/221030/header.jpg?t=1447357044
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Towns Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>Memory:</strong>1\
+        \ GB RAM</li>\n\t<li><strong>Graphics:</strong>OpenGL 1.3</li>\n\t<li><strong>Hard\
+        \ Drive:</strong> 15 MB HD space</li>\n\t<li><strong>Additional:</strong>The\
+        \ game needs Java 1.6 or higher</li>\n</ul>"
+      recommended: "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>Memory:</strong>2\
+        \ GB RAM</li>\n\t<li><strong>Additional:</strong>The game needs Java 1.6 or\
+        \ higher</li>\n</ul>"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 15, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 221030
+    support_info:
+      email: support@townsgame.com
+      url: http://www.townsgame.com
+    supported_languages: English, Spanish - Spain
+    type: demo
+    website: http://www.townsgame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

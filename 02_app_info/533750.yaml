@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: "The Original Soundtrack for Earthlock: Festival of Magic. <br\
+      \ />\r\n<br />\r\nMusic composed by Eiko Nichols<br />\r\n<br />\r\nAdditional\
+      \ music by Hiroki Kikuta &amp; Frits Olsen"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/533750/page_bg_generated_v6b.jpg?t=1482141619
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The Original Soundtrack for Earthlock: Festival of Magic.\
+      \ <br />\r\n<br />\r\nMusic composed by Eiko Nichols<br />\r\n<br />\r\nAdditional\
+      \ music by Hiroki Kikuta &amp; Frits Olsen"
+    developers:
+    - Snowcastle Games
+    fullgame:
+      appid: '258030'
+      name: Uninitialized
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/533750/header.jpg?t=1482141619
+    is_free: false
+    legal_notice: Copyright 2014-2016 Snowcastle Games - All rights reserved
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    name: 'EARTHLOCK: Festival of Magic OST'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Earthlock: Festival of Magic OST - $7.99'
+        packageid: 129381
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: 'Buy EARTHLOCK: Festival of Magic OST'
+    packages:
+    - 129381
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 27, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/533750/ss_c243094da3f8a75b329ce449b27cca427cffcb0f.1920x1080.jpg?t=1482141619
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/533750/ss_c243094da3f8a75b329ce449b27cca427cffcb0f.600x338.jpg?t=1482141619
+    short_description: 'The Original Soundtrack for Earthlock: Festival of Magic.'
+    steam_appid: 533750
+    support_info:
+      email: support@snowcastle.no
+      url: http://www.earthlockgame.com
+    supported_languages: English
+    type: dlc
+    website: http://www.earthlockgame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,190 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/231504/page_bg_generated_v6b.jpg?t=1521805107
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Relic Entertainment
+    - Feral Interactive (Mac)
+    - Feral Interactive (Linux)
+    fullgame:
+      appid: '231430'
+      name: Company of Heroes 2
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/231504/header.jpg?t=1521805107
+    is_free: false
+    legal_notice: "\xA9 SEGA. Developed by Relic Entertainment Inc. SEGA, the SEGA\
+      \ logo, Relic Entertainment and Company of Heroes are either registered trademarks\
+      \ or trademarks of SEGA Corporation. All rights reserved. All other trademarks,\
+      \ logos and copyrights are property of their respective owners."
+    linux_requirements:
+      minimum: Minimum Requirements<br><ul class="bb_ul"><li><strong>OS</strong> Ubuntu
+        14.04 (64bit) or SteamOS<br></li><li><strong>Processor</strong> 2.6 GHz Intel
+        Core2 Duo or equivalent.<br></li><li><strong>RAM</strong> 4GB<br></li><li><strong>Hard
+        Disk</strong> 35GB<br></li><li><strong>Graphics</strong> 1GB*<br></li><li><strong>Internet</strong>
+        Broadband Internet connection<br></li><li><strong>Input</strong> Keyboard
+        &amp; Mouse<br>*Requires an Intel Iris Pro graphics card or an NVIDIA 600
+        series graphics card or better with driver version 352.21 or later.</li></ul>
+      recommended: Recommended Requirements<br><ul class="bb_ul"><li><strong>OS</strong>
+        Ubuntu 14.04 (64bit) or SteamOS<br></li><li><strong>Processor</strong> 3.4
+        GHz Intel i5 quad core or equivalent.<br></li><li><strong>RAM</strong> 8GB<br></li><li><strong>Hard
+        Disk</strong> 35GB<br></li><li><strong>Graphics</strong> 4GB**<br></li><li><strong>Internet</strong>
+        Broadband Internet connection<br></li><li><strong>Input</strong> Keyboard
+        &amp; Mouse<br>**NVIDIA 760 series card or better with driver version 352.21
+        or later.</li></ul>
+    mac_requirements:
+      minimum: Minimum Requirements<br><ul class="bb_ul"><li><strong>OS</strong> OS
+        X 10.10.3<br></li><li><strong>Processor</strong> 1.8Ghz Intel<br></li><li><strong>RAM</strong>
+        4GB<br></li><li><strong>Hard Disk</strong> 35GB<br></li><li><strong>Graphics</strong>
+        512MB (Nvidia 6xx series or later, AMD 7xxx series or later and Intel Iris
+        Pro).<br></li><li><strong>Internet</strong> Broadband Internet connection<br></li><li><strong>Input</strong>
+        Keyboard &amp; Mouse</li></ul>
+      recommended: Recommended Requirements<br><ul class="bb_ul"><li><strong>OS</strong>
+        OS X 10.10.3<br></li><li><strong>Processor</strong> 2.4Ghz Intel<br></li><li><strong>RAM</strong>
+        8GB<br></li><li><strong>Hard Disk</strong> 35GB<br></li><li><strong>Graphics</strong>
+        4GB (Nvidia 780MX, AMD D700 or R9 295X)<br></li><li><strong>Internet</strong>
+        Broadband Internet connection<br></li><li><strong>Input</strong> Keyboard
+        &amp; Mouse</li></ul>
+    name: 'COH 2 - Faceplate: Studded'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Company of Heroes 2 - Faceplate: Studded - $1.99'
+        packageid: 30549
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy COH 2 - Faceplate: Studded'
+    packages:
+    - 30549
+    pc_requirements:
+      minimum: "Minimum:<br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2GB RAM<br>\t\
+        </li><li><strong>Processor:</strong> 2Ghz Intel Core2 Duo or equivalent<br>\t\
+        </li><li><strong>Graphics:</strong> 512MB Direct3D 10 capable video card (GeForce\
+        \ 8800 GT or Radeon HD 2900XT)<br>\t</li><li><strong>OS:</strong> 32bit Vista<br>\
+        \        </li><li><strong>Internet:</strong> Broadband Internet connection<br>\t\
+        </li><li><strong>Hard Drive:</strong> 30GB free Hard disc space</li></ul>"
+      recommended: Recommended:<br><ul class="bb_ul"><li><strong>Memory:</strong>
+        4GB RAM<br></li><li><strong>Processor:</strong> 3Ghz Intel i5 quad core or
+        equivalent<br></li><li><strong>Graphics:</strong> 1024 MB Direct3D 11 capable
+        video card (GeForce GTX 470 or Radeon HD 5850)<br></li><li><strong>OS:</strong>
+        64bit Windows 7<br></li><li><strong>Internet:</strong> Broadband Internet
+        connection<br></li><li><strong>Hard Drive:</strong> 30GB free Hard disc space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - SEGA
+    - Feral Interactive (Mac)
+    - Feral Interactive (Linux)
+    release_date:
+      coming_soon: false
+      date: Aug 21, 2013
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/231504/ss_901e0f05e918a1a0eb6c99d3c5c8324ca5f1ab18.1920x1080.jpg?t=1521805107
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/231504/ss_901e0f05e918a1a0eb6c99d3c5c8324ca5f1ab18.600x338.jpg?t=1521805107
+    short_description: ''
+    steam_appid: 231504
+    support_info:
+      email: ''
+      url: https://support.sega.co.uk
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Polish<strong>*</strong>,
+      Russian<strong>*</strong><br><strong>*</strong>languages with full audio support
+    type: dlc
+    website: http://www.companyofheroes.com/
+  success: true
+reviews:
+  cursor: AoJwuuW28e8Cf6qj7gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 150
+      num_reviews: 141
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198262160021'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '62462639'
+    review: "\u2650 Przeznaczona dla:\n\u2610 Maluch\xF3w (4-7)\n\u2610 Dzieci (8-10)\n\
+      \u2611 Nastolatk\xF3w (11-17)\n\u2611 Doros\u0142ych (18-50)\n\u2610 Senior\xF3\
+      w (51-999)\n\u2610 Wszystkich\n\n\u2650 Grafika:\n\u2610Jak Bazyliszek\n\u2610\
+      \ Naprawd\u0119 z\u0142a\n\u2610 Z\u0142a\n\u2610 Ok\n\u2610 Retro\n\u2611 Dobra\n\
+      \u2611 Pi\u0119kna\n\u2610 Przepi\u0119kna\n\u2610 Arcydzie\u0142o\n\n\u2650\
+      \ Cena:\n\u2610 Kupi\u0107 od razu z pe\u0142n\u0105 cen\u0105 na steam\n\u2611\
+      \ Poczeka\u0107 na wyprzeda\u017C\n\u2610 Lepiej kupi\u0107 w internetowych\
+      \ sklepach\n\u2610 Lepiej zwr\xF3\u0107 t\u0105 gr\u0119 p\xF3ki mo\u017Cesz\n\
+      \u2610 Po prostu tego nie kupuj(Nie Wa)rto)\n\u2610 Za Darmo\n\n\u2650 Wymagania:\n\
+      \u2610 Komputer z 80'\n\u2610 Niskie\n\u2611 \u015Arednie\n\u2611 Dobry komputer\n\
+      \u2610 Komputer za 5000\n\u2610 Komputer z NASA\n\n\u2650 Poziom trudno\u015B\
+      ci:\n\u2610 Jak po ma\u015Ble\n\u2610 Potrzebujesz tylko dw\xF3ch r\u0105k\n\
+      \u2610 \u0141atwa\n\u2611 \u0141atwe do nauczenia lecz trudne do opanowania\n\
+      \u2610 Trudne\n\u2610 Prawie jak Dark Souls {50/20}\n\u2610 \u0141atwiejszy\
+      \ jest Dark Souls\n\n\u23F0 Czas gry:\n\u2610 Bardzo kr\xF3tkie (5-10 m)\n\u2610\
+      \ Kr\xF3tkie (2-8 godzin)\n\u2610 \u015Arednio (8-12 godzin)\n\u2610 D\u0142\
+      ugie (+12 godzin)\n\u2611 Niesko\u0144czone\n\n\u2650 Fabu\u0142a:\n\u2610 Brak\n\
+      \u2610 Wci\u0105\u017C lepsza od Teletubisi\xF3w i Dobranocnego ogrodu\n\u2610\
+      \ OK\n\u2610 Dobra\n\u2611 Fantastyczna\n\u2610 Najlepsza\n\n\u2650 Bugi:\n\u2610\
+      \ Gra nie powinna zosta\u0107 nigdy wydana\n\u2610 Bugi j\u0105 wyko\u0144czy\u0142\
+      y\n\u2610 Du\u017Co bug\xF3w\n\u2611 Ma\u0142a ilo\u015B\u0107 ale bugi obecne\n\
+      \u2610 Ledwo widoczne\n\u2610 Brak bug\xF3w\n\n\u2650 Muzyka:\n\u2610 Brak\n\
+      \u2610 Pora\u017Cka\n\u2610 OK\n\u2610 Dobra\n\u2611 Klimatyczna\n\u2611 Uzale\u017C\
+      nia"
+    steam_purchase: true
+    timestamp_created: 1580059012
+    timestamp_updated: 1580059012
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.488779783248901367'
+    written_during_early_access: false
+  success: 1

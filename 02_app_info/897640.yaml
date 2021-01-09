@@ -1,0 +1,203 @@
+details:
+  data:
+    about_the_game: "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/897640/extras/My_Video5.gif?t=1573582350\"\
+      \ /><br><br><strong>Gun Crazy</strong> is a fast paced and hectic arcade style\
+      \ action shoot em\u2019 up, sporting old school pixel art and a retro sound\
+      \ track.<br><br>Tackle <strong>bosses</strong>, dodge an onslaught of bullets,\
+      \ and use <strong>multiple weapons</strong> to take out your foes. Hope you\
+      \ brought your &quot;A&quot; game otherwise be prepared to spam those &quot;continues&quot;!<br><br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/897640/extras/adf7df126636f1850187e986b594882b_original.jpg?t=1573582350\"\
+      \ />"
+    achievements:
+      highlighted:
+      - name: Don't touch me!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/b940b475be3ff7ad0c612e87a740372a3fbf8a9a.jpg
+      - name: No second chance!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/fe4c36e6bcf2858001f9e7a0eaf700b5886c8c23.jpg
+      - name: You only live once.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/23da9f9d25413e1f6a31b71881f3e06489c22b26.jpg
+      - name: Lift off!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/3e06dd57aa23a8758530fd9ab7214ce9287b0b94.jpg
+      - name: Semi pro!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/50158f78286c881221feb33bbc0218c441e0fdd7.jpg
+      - name: World class!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/8a60ff39041fe185c5692ca6c74beb37a6caf4b3.jpg
+      - name: Legendary!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/f637603bcf232355f2ecbab8c5fbf4ee531d5a5b.jpg
+      - name: No help needed!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/bbf7079992358e96ce268d2df6553b5af6deec7c.jpg
+      - name: That's all I had to do?!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/ff0048825c66b57cfe4c1a3b5c07c0d0d0d025b6.jpg
+      - name: No bueno!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/897640/253d2e60ea08c48205ff144742854ab66dcfd643.jpg
+      total: 10
+    background: https://steamcdn-a.akamaihd.net/steam/apps/897640/page_bg_generated_v6b.jpg?t=1573582350
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/897640/extras/My_Video5.gif?t=1573582350\"\
+      \ /><br><br><strong>Gun Crazy</strong> is a fast paced and hectic arcade style\
+      \ action shoot em\u2019 up, sporting old school pixel art and a retro sound\
+      \ track.<br><br>Tackle <strong>bosses</strong>, dodge an onslaught of bullets,\
+      \ and use <strong>multiple weapons</strong> to take out your foes. Hope you\
+      \ brought your &quot;A&quot; game otherwise be prepared to spam those &quot;continues&quot;!<br><br><img\
+      \ src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/897640/extras/adf7df126636f1850187e986b594882b_original.jpg?t=1573582350\"\
+      \ />"
+    developers:
+    - Ritual Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/897640/header.jpg?t=1573582350
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256764172
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764172/movie480.mp4?t=1570668363
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764172/movie_max.mp4?t=1570668363
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256764172/movie.293x165.jpg?t=1570668363
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764172/movie480.webm?t=1570668363
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764172/movie_max.webm?t=1570668363
+    name: Gun Crazy
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Gun Crazy - $4.99
+        packageid: 287026
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Gun Crazy
+    packages:
+    - 287026
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        or higher<br></li><li><strong>Processor:</strong> Pentium(R) Dual-Core E 5200
+        2.50GHz or better<br></li><li><strong>Memory:</strong> 4 MB RAM</li></ul>
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ Windows 10<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i5-5287U Processor<br></li><li><strong>Memory:</strong> 4 MB RAM</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - GrabTheGames
+    release_date:
+      coming_soon: false
+      date: Nov 12, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_7efb114febdd78c7d391ce86ae23751b2e7ca755.1920x1080.jpg?t=1573582350
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_7efb114febdd78c7d391ce86ae23751b2e7ca755.600x338.jpg?t=1573582350
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_007149f63900d39253a83db0a9873abf53cabe81.1920x1080.jpg?t=1573582350
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_007149f63900d39253a83db0a9873abf53cabe81.600x338.jpg?t=1573582350
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_0c48f2a1047417dbae0ce8b427e5e7532b9389c0.1920x1080.jpg?t=1573582350
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_0c48f2a1047417dbae0ce8b427e5e7532b9389c0.600x338.jpg?t=1573582350
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_e616e28fc48bb777f952d095341cb14198bf1c25.1920x1080.jpg?t=1573582350
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_e616e28fc48bb777f952d095341cb14198bf1c25.600x338.jpg?t=1573582350
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_209ac8e6751eabbd58b9de7b90a774f85aec58e2.1920x1080.jpg?t=1573582350
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_209ac8e6751eabbd58b9de7b90a774f85aec58e2.600x338.jpg?t=1573582350
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_4a2103494658f1b5e27b41ce613d2dbbbf2fde82.1920x1080.jpg?t=1573582350
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/897640/ss_4a2103494658f1b5e27b41ce613d2dbbbf2fde82.600x338.jpg?t=1573582350
+    short_description: "Gun Crazy is a fast paced and hectic arcade style action shoot\
+      \ em\u2019 up sporting old school pixel art and a retro sound track."
+    steam_appid: 897640
+    support_info:
+      email: ritualgamesdev@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw3rDh7vYCdM2mwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 15
+    total_positive: 27
+    total_reviews: 42
+  reviews:
+  - author:
+      last_played: 1610048696
+      num_games_owned: 510
+      num_reviews: 68
+      playtime_at_review: 100
+      playtime_forever: 122
+      playtime_last_two_weeks: 122
+      steamid: '76561198205962124'
+    comment_count: 1
+    language: brazilian
+    received_for_free: false
+    recommendationid: '84227284'
+    review: "Jogo curto, mas se vc quiser pegar todas as conquistas d\xE1 mais umas\
+      \ horinhas de jogo pq as conquistas s\xE3o bem dif\xEDceis, assim como o jogo\
+      \ tbm \xE9\nO ponto ruim qe eu vi nele \xE9 qe as moedas qe os inimigos dropam\
+      \ qdo mortos atrapalham vc a enxergar as coisas em mtas das vezes x.x principalmente\
+      \ na 2a fase em qe vc tem qe atirar em bolas qe v\xE3o ficando menores e quicam\
+      \ pelo ch\xE3o, as moedas mtas vezes te fazem tomar dano por ficarem por cima\
+      \ das bolinhas e por n\xE3o deixarem vc enxergar mais nada\nTirando isso eu\
+      \ gostei mto do jogo, tem power ups de arma, mtos inimigos na tela, os bosses\
+      \ s\xE3o legais e a arte do jogo \xE9 bem bonita :3\nRecomendo em promo\xE7\xE3\
+      o ( paguei R$ 2,72 nele )"
+    steam_purchase: true
+    timestamp_created: 1610034284
+    timestamp_updated: 1610034284
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.565217375755310059'
+    written_during_early_access: false
+  success: 1

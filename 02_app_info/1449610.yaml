@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: You got 4x Animal Style Skin with this DLC
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1449610/page_bg_generated_v6b.jpg?t=1602956996
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: You got 4x Animal Style Skin with this DLC
+    developers:
+    - Lance Games
+    fullgame:
+      appid: '1440280'
+      name: Killer Inside Us
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1449610/header.jpg?t=1602956996
+    is_free: false
+    legal_notice: 2020 Lance Games
+    linux_requirements: []
+    mac_requirements: []
+    name: V.U.R.M.A - Animal Hat Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: V.U.R.M.A - Animal Hat Pack - $0.99
+        packageid: 510037
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy V.U.R.M.A - Animal Hat Pack
+    packages:
+    - 510037
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Lance Games
+    release_date:
+      coming_soon: false
+      date: Oct 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449610/ss_6c4de83783d1976464731ebbb843a82813c82277.1920x1080.jpg?t=1602956996
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449610/ss_6c4de83783d1976464731ebbb843a82813c82277.600x338.jpg?t=1602956996
+    short_description: 4x Animal Style Skin
+    steam_appid: 1449610
+    support_info:
+      email: ''
+      url: https://lancegames.com/contact-us
+    supported_languages: English<strong>*</strong>, Turkish<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.lancegames.com/
+  success: true
+reviews:
+  cursor: AoJ4rri3w/YCee2BvAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 21
+      num_reviews: 12
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198990569621'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '82841305'
+    review: very nice
+    steam_purchase: true
+    timestamp_created: 1608580449
+    timestamp_updated: 1608580449
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

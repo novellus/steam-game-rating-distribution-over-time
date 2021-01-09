@@ -1,0 +1,196 @@
+details:
+  data:
+    about_the_game: '&quot;Linked&quot; is a relaxing, minimalistic 2d-puzzle game<br>Each
+      puzzle can only be solved by drawing a predetermined number of lines with specific
+      lengths.<br><br>Great game for short breaks.<h2 class="bb_tag">Features:</h2><ul
+      class="bb_ul"><li>144 levels.<br></li><li>Steam Integration - Achievements and
+      trading cards.</li></ul>'
+    achievements:
+      highlighted:
+      - name: Complete Group 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/002fab2db47fc41c6a7853cefc80da925bbaebc2.jpg
+      - name: Complete Group 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/b21b08b9281d5e202447d202e999f1260c6f7d95.jpg
+      - name: Complete Group 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/0666d0a23288fb4235cde8400b44443f3072d508.jpg
+      - name: Complete Group 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/16045286f71f497c309d91ea642ec787856e65ae.jpg
+      - name: Complete Group 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/b9b76fc625542b9516d874a19b90ebfd18d65396.jpg
+      - name: Complete Group 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/7606b4add8fe44e926450e50f2fdc0a20e4f67eb.jpg
+      - name: Complete Group 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/a6fc88e9716533f6c3000803ba7fb4d5e89d49fb.jpg
+      - name: Complete Group 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/28a8c2294b282b5b9c832be7d8b89bb4d7e99719.jpg
+      - name: Complete Group 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/0ad9b32a88cd3c430d3f1cd1dbce78c9eaf25e7e.jpg
+      - name: Complete Group 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/596590/c4ac866e4831f0a76c57a29c2f940803a2a74d50.jpg
+      total: 12
+    background: https://steamcdn-a.akamaihd.net/steam/apps/596590/page_bg_generated_v6b.jpg?t=1487888054
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '&quot;Linked&quot; is a relaxing, minimalistic 2d-puzzle
+      game<br>Each puzzle can only be solved by drawing a predetermined number of
+      lines with specific lengths.<br><br>Great game for short breaks.<h2 class="bb_tag">Features:</h2><ul
+      class="bb_ul"><li>144 levels.<br></li><li>Steam Integration - Achievements and
+      trading cards.</li></ul>'
+    developers:
+    - ThinkOfGames
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/596590/header.jpg?t=1487888054
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256679913
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679913/movie480.mp4?t=1487663910
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679913/movie_max.mp4?t=1487663910
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256679913/movie.293x165.jpg?t=1487663910
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679913/movie480.webm?t=1487663910
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679913/movie_max.webm?t=1487663910
+    name: Linked
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Linked - $2.99
+        packageid: 156323
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Linked
+    packages:
+    - 156323
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1GHz processor<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 3D graphics card with 512Mb<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX Compatible Sound Card</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> 2GHz Dual Core processor<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 3D graphics card with 512Mb<br></li><li><strong>DirectX:</strong>
+        Version 12<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX Compatible Sound Card</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ThinkOfGames
+    release_date:
+      coming_soon: false
+      date: Feb 20, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_f83e571f64c645daa01aa47054d613e9cf49d7b9.1920x1080.jpg?t=1487888054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_f83e571f64c645daa01aa47054d613e9cf49d7b9.600x338.jpg?t=1487888054
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_a90cf878e9682cc42f74482d04dfcdb2bbfcf918.1920x1080.jpg?t=1487888054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_a90cf878e9682cc42f74482d04dfcdb2bbfcf918.600x338.jpg?t=1487888054
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_88b35cf762d794e56ac02242a910cdd4a8b63240.1920x1080.jpg?t=1487888054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_88b35cf762d794e56ac02242a910cdd4a8b63240.600x338.jpg?t=1487888054
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_0c72d2854c19ee0ec2ad74c37938321594b911b7.1920x1080.jpg?t=1487888054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_0c72d2854c19ee0ec2ad74c37938321594b911b7.600x338.jpg?t=1487888054
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_96a9d1a941997ad4996bb4ec2e58e14a00d5f421.1920x1080.jpg?t=1487888054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/596590/ss_96a9d1a941997ad4996bb4ec2e58e14a00d5f421.600x338.jpg?t=1487888054
+    short_description: Relaxing, minimalistic 2d-puzzle game.
+    steam_appid: 596590
+    support_info:
+      email: support@thinkofgames.com
+      url: http://www.thinkofgames.com
+    supported_languages: English
+    type: game
+    website: http://www.thinkofgames.com
+  success: true
+reviews:
+  cursor: AoJwgc6Kse8CffL86AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 2
+    total_positive: 15
+    total_reviews: 17
+  reviews:
+  - author:
+      last_played: 1577899215
+      num_games_owned: 21
+      num_reviews: 4
+      playtime_at_review: 270
+      playtime_forever: 270
+      playtime_last_two_weeks: 0
+      steamid: '76561198241524552'
+    comment_count: 0
+    language: japanese
+    received_for_free: false
+    recommendationid: '61073197'
+    review: "\u7AEF\u6570\u3092\u57CB\u3081\u308B\u305F\u3081\u306B\u9069\u5F53\u306A\
+      \u30D1\u30BA\u30EB\u30B2\u30FC\u30E0\u3092\u3001\u3068\u601D\u3044\u30BB\u30FC\
+      \u30EB\u4E2D\u306B\u8CFC\u5165\u3002\n\u30D1\u30BA\u30EB\u306E\u30EB\u30FC\u30EB\
+      \u305D\u306E\u3082\u306E\u306F\u30B7\u30F3\u30D7\u30EB\u3067\u5206\u304B\u308A\
+      \u3084\u3059\u304F\u3066\u3044\u3044\u306E\u3067\u3059\u304C\u3001\u3044\u304B\
+      \u3093\u305B\u3093\u809D\u5FC3\u306E\u554F\u984C\u306E\u65B9\u304C\u3044\u307E\
+      \u3044\u3061\u3067\u3059\u3002\n\u529B\u6280\u3067\u5F37\u5F15\u306B\u6D88\u3057\
+      \u3066\u3057\u307E\u3048\u308B\u306E\u3067\u30AF\u30EA\u30A2\u3057\u3066\u3082\
+      \u723D\u5FEB\u611F\u304C\u5F97\u3089\u308C\u306A\u3044\u30BF\u30A4\u30D7\u306E\
+      \u554F\u984C\u306E\u65B9\u304C\u591A\u304F\u3001\u89E3\u3044\u3066\u3044\u3066\
+      \u3059\u3063\u304D\u308A\u3067\u304D\u305F\u554F\u984C\u306F\u534A\u5206\u4EE5\
+      \u4E0B\u3067\u3057\u305F\u3002\n\u307E\u305F\u3001\u5358\u8ABF\u306A\u5206\u98FD\
+      \u304D\u304C\u304F\u308B\u306E\u3082\u65E9\u3044\u3067\u3059\u3002\n\u30A2\u30A4\
+      \u30C7\u30A2\u306F\u3088\u304B\u3063\u305F\u3068\u601D\u3046\u306E\u3067\u3001\
+      \u3082\u3063\u3068\u89E3\u3044\u3066\u3044\u3066\u697D\u3057\u3044\u3068\u601D\
+      \u3048\u308B\u554F\u984C\u304C\u591A\u3051\u308C\u3070\u304A\u30B9\u30B9\u30E1\
+      \u3067\u304D\u305F\u306E\u3067\u3059\u304C\u2026\u2026\u3002\n\u5B9A\u4FA1\u3067\
+      \u8CB7\u3046\u306B\u306F\u3061\u3087\u3063\u3068\u9AD8\u3044\u3067\u3059\u3002\
+      60\uFF05\u4EE5\u4E0AOFF\u3067\u3042\u308C\u3070\u8CB7\u3063\u3066\u3082\u3044\
+      \u3044\u3068\u601D\u3044\u307E\u3059\u3002\n\u5024\u6BB5\u3092\u534A\u984D\u4EE5\
+      \u4E0B\u306B\u3057\u3066\u554F\u984C\u6570\u3092\u30B9\u30EA\u30E0\u30A2\u30C3\
+      \u30D7\u3057\u3064\u3064\u6B63\u7B54\u30D1\u30BF\u30FC\u30F3\u3092\u5C11\u306A\
+      \u304F\u3057\u305F\u65B9\u304C\u3044\u3044\u6C17\u304C\u3057\u307E\u3057\u305F\
+      \u3002"
+    steam_purchase: true
+    timestamp_created: 1577899711
+    timestamp_updated: 1577899946
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

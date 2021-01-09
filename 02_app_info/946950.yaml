@@ -1,0 +1,216 @@
+details:
+  data:
+    about_the_game: BoxTheTop is a geometric intelligence game created by two independent
+      developers.<br><br>Players try to estimate the number of boxes falling into
+      an isometric area to increase their points. As certain scores are exceeded,
+      players win different performance badges and the game level becomes more difficult.
+      Each player gets a place in the overall score table according to their performance
+      badges and score.<br><br><strong>PERFORMANCE BADGES</strong><br>The game has
+      8 performance badges that are earned depending on the score the player has.
+      Each badge game is a bit more difficult and allows the player to earn more points
+      for each question. In this way, players can increase their positions in the
+      rankings more quickly.<br><br><strong>LEADERBOARD</strong><br>The overall score
+      table shows the top 3 players with the most points and the game owner's position
+      in the ranking. Points earned at the end of each game change the player's overall
+      score and position in the rankings.<br><br><strong>GAME</strong><br>When the
+      game time starts, the boxes fall from the top to the platform and are arranged
+      as isometrics. After the boxes are dropped, some boxes will not appear in the
+      player's view, because they can remain behind other boxes, but they can be guessed
+      by looking at the boxes on the bottom and side.<br><br>The number of boxes is
+      estimated by pressing the numbers on the side and the user is shown on the screen
+      whether the answer is correct or incorrect.<br><br>When the game time is over,
+      the player's score is calculated and added to the total score. If the user does
+      not have a performance badge, the scoring screen will be displayed in front
+      of the player.<br><br>Have fun..
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/d45fcb8dc783cf5c5caa540ed9a0a0c2919aaac7.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/a37b000c013b24fdb350feae4e9d3d2a3a81ccc5.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/2b85a4f23ef11d4debaab3bcaa85ef2249e92530.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/e2741bd01efe764cca4ebe02a38ac857a4a9a8de.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/9568cffd420d1ec3371d478d9c37fde0f0fbce63.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/853fee04f6f8c3e68ec75df869ebd52b62da9524.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/0e4815d8ec3fcacbe17402c6863f35a74ea1749e.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/df2aefc17bf00d28bee74cccd200899380b22ff4.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/fccbbf75c7aa63cdcff5e4b2c6a0a6c261a77a36.jpg
+      - name: Winner of the month
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/946950/203240761f1c5e0f416154318a4b911b21242dfc.jpg
+      total: 12
+    background: https://steamcdn-a.akamaihd.net/steam/apps/946950/page_bg_generated_v6b.jpg?t=1547625749
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: BoxTheTop is a geometric intelligence game created by two
+      independent developers.<br><br>Players try to estimate the number of boxes falling
+      into an isometric area to increase their points. As certain scores are exceeded,
+      players win different performance badges and the game level becomes more difficult.
+      Each player gets a place in the overall score table according to their performance
+      badges and score.<br><br><strong>PERFORMANCE BADGES</strong><br>The game has
+      8 performance badges that are earned depending on the score the player has.
+      Each badge game is a bit more difficult and allows the player to earn more points
+      for each question. In this way, players can increase their positions in the
+      rankings more quickly.<br><br><strong>LEADERBOARD</strong><br>The overall score
+      table shows the top 3 players with the most points and the game owner's position
+      in the ranking. Points earned at the end of each game change the player's overall
+      score and position in the rankings.<br><br><strong>GAME</strong><br>When the
+      game time starts, the boxes fall from the top to the platform and are arranged
+      as isometrics. After the boxes are dropped, some boxes will not appear in the
+      player's view, because they can remain behind other boxes, but they can be guessed
+      by looking at the boxes on the bottom and side.<br><br>The number of boxes is
+      estimated by pressing the numbers on the side and the user is shown on the screen
+      whether the answer is correct or incorrect.<br><br>When the game time is over,
+      the player's score is calculated and added to the total score. If the user does
+      not have a performance badge, the scoring screen will be displayed in front
+      of the player.<br><br>Have fun..
+    developers:
+    - Volkan Dagdelen
+    - Fatih Turan
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/946950/header.jpg?t=1547625749
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256733708
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256733708/movie480.mp4?t=1546470943
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256733708/movie_max.mp4?t=1546470943
+      name: BoxTheTop
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256733708/movie.293x165.jpg?t=1546470943
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256733708/movie480.webm?t=1546470943
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256733708/movie_max.webm?t=1546470943
+    name: BoxTheTop
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: BoxTheTop - $0.99
+        packageid: 308039
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy BoxTheTop
+    packages:
+    - 308039
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP3<br></li><li><strong>Processor:</strong> 2 GHz dual core<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics
+        with dedicated memory<br></li><li><strong>Storage:</strong> 120 MB available
+        space<br></li><li><strong>Additional Notes:</strong> Minimum Resolution of
+        1280x720</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - OXY GameLab
+    release_date:
+      coming_soon: false
+      date: Jan 16, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_edf3b2973e5f3ff89258ce95a3f9c63a3da4f39c.1920x1080.jpg?t=1547625749
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_edf3b2973e5f3ff89258ce95a3f9c63a3da4f39c.600x338.jpg?t=1547625749
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_a1c8de519762043574550fa9faf99b52a4151e6a.1920x1080.jpg?t=1547625749
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_a1c8de519762043574550fa9faf99b52a4151e6a.600x338.jpg?t=1547625749
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_ac868272d259beb3efa0a1e3a668d663b416746b.1920x1080.jpg?t=1547625749
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_ac868272d259beb3efa0a1e3a668d663b416746b.600x338.jpg?t=1547625749
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_ba2117bba4e4d869f2d209a96f520d828aa39a26.1920x1080.jpg?t=1547625749
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_ba2117bba4e4d869f2d209a96f520d828aa39a26.600x338.jpg?t=1547625749
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_bfb2f167990daee583d8e8a23785fe7bfb08a84c.1920x1080.jpg?t=1547625749
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/946950/ss_bfb2f167990daee583d8e8a23785fe7bfb08a84c.600x338.jpg?t=1547625749
+    short_description: BoxTheTop is a geometric intelligence game created by two independent
+      developers.
+    steam_appid: 946950
+    support_info:
+      email: info@boxthetop.com
+      url: https://boxthetop.com
+    supported_languages: English<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://boxthetop.com
+  success: true
+reviews:
+  cursor: AoJ4/YPyrugCfpzMuAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1553997092
+      num_games_owned: 414
+      num_reviews: 456
+      playtime_at_review: 178
+      playtime_forever: 239
+      playtime_last_two_weeks: 0
+      steamid: '76561197990354493'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48390606'
+    review: 'I say once you figure out this game I reccomend this game! It challenges
+      the mind for this casual game. It looks easy but once you get started it does
+      get harder. the simple graphics make this game great for this style. Its not
+      expensice so just buy it and challenge that mind. A+
+
+
+      https://www.youtube.com/watch?v=sazUqZWJxX4'
+    steam_purchase: true
+    timestamp_created: 1547761623
+    timestamp_updated: 1547761623
+    voted_up: true
+    votes_funny: 1
+    votes_up: 2
+    weighted_vote_score: '0.501799345016479492'
+    written_during_early_access: false
+  success: 1

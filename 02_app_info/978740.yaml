@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: This digital artbook features artwork from Shining Song Starnova.
+      It contains 32 pages of art including rough sketches, background art and character
+      images.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/978740/page_bg_generated_v6b.jpg?t=1580430935
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This digital artbook features artwork from Shining Song
+      Starnova. It contains 32 pages of art including rough sketches, background art
+      and character images.
+    developers:
+    - Love in Space
+    fullgame:
+      appid: '675240'
+      name: Shining Song Starnova
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/978740/header.jpg?t=1580430935
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        110 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        110 MB available space</li></ul>
+    name: Shining Song Starnova - Digital Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Shining Song Starnova - Digital Artbook - $9.99
+        packageid: 321626
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Shining Song Starnova - Digital Artbook
+    packages:
+    - 321626
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        110 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Nov 12, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/978740/ss_7e25fafd7605cf6211675f34487026994154e22b.1920x1080.jpg?t=1580430935
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/978740/ss_7e25fafd7605cf6211675f34487026994154e22b.600x338.jpg?t=1580430935
+    short_description: This digital artbook features artwork from Shining Song Starnova.
+      It contains 32 pages of art including rough sketches, background art and character
+      images.
+    steam_appid: 978740
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    supported_languages: English
+    type: dlc
+    website: https://sekaiproject.com
+  success: true
+reviews:
+  cursor: AoJwp7nM0fYCe+vVvQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 286
+      num_reviews: 118
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198284207583'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '83275451'
+    review: "\u4E0D\u77E5\u9053\u662F\u4EC0\u4E48\u4E1C\u897F"
+    steam_purchase: true
+    timestamp_created: 1609055718
+    timestamp_updated: 1609055718
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,52 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Edward Ingle
+    fullgame:
+      appid: '1047920'
+      name: White Sun
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1048030/header.jpg?t=1555366550
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: White Sun Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Edward Ingle
+    release_date:
+      coming_soon: false
+      date: Mar 16, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1048030
+    support_info:
+      email: bugs@whitesunrpg.com
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

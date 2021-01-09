@@ -1,0 +1,52 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - "Felip Guimer\xE0"
+    fullgame:
+      appid: '611320'
+      name: Think To Die 3
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/611890/header.jpg?t=1491695508
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Think To Die 3 Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - FelGC.GamesDevelopment
+    release_date:
+      coming_soon: false
+      date: Mar 21, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 611890
+    support_info:
+      email: felgc.gamesdevelopment@gmail.com
+      url: http://felgcgamesdevelopm.wixsite.com/homepage
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

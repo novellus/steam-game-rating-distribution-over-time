@@ -1,0 +1,87 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '735860'
+      name: A Centaur's Life
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/735860/header.jpg?t=1553552579
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'A Centaur''s Life: There Are As Many Names of Flowers... As There Are People,
+      But That''s Totally a Lie! | There Are As Many Types'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'A Centaur''s Life: There Are As Many Names of Flowers... As
+          There Are People, But That''s Totally a Lie! | There Are As Many Types -
+          $1.99'
+        packageid: 217333
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy A Centaur''s Life: There Are As Many Names of Flowers... As There
+        Are People, But That''s Totally a Lie! | There Are As Many Types'
+    packages:
+    - 217333
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 26, 2017
+    required_age: 0
+    short_description: Sue-chan, the youngest of the Mitama family, has a weak constitution.
+      Manami and her triplet sisters are always worrying about her. On the other hand,
+      Himeno's niece, Shino-chan, isa very curious girl. She asks Himeno all kinds
+      of questions as they go for a walk, and looks adorable doing it.
+    steam_appid: 741800
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

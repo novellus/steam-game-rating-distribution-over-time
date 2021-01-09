@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: "Majotori's original soundtrack, composed by Esther Garc\xEDa.<br\
+      \ />\r\n<br />\r\nIncludes 6 mp3 tracks:<br />\r\n<br />\r\n\xB7 Asobu (00:17)<br\
+      \ />\r\n\xB7 Majo torihiki (5:25)<br />\r\n\xB7 Erabu (00:16)<br />\r\n\xB7\
+      \ Majo torihikinu (5:25)<br />\r\n\xB7 Tsubasa wo Onegai (1:33)<br />\r\n\xB7\
+      \ Owari (1:05)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/608620/page_bg_generated_v6b.jpg?t=1583332777
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: null
+    detailed_description: "Majotori's original soundtrack, composed by Esther Garc\xED\
+      a.<br />\r\n<br />\r\nIncludes 6 mp3 tracks:<br />\r\n<br />\r\n\xB7 Asobu (00:17)<br\
+      \ />\r\n\xB7 Majo torihiki (5:25)<br />\r\n\xB7 Erabu (00:16)<br />\r\n\xB7\
+      \ Majo torihikinu (5:25)<br />\r\n\xB7 Tsubasa wo Onegai (1:33)<br />\r\n\xB7\
+      \ Owari (1:05)"
+    developers:
+    - Majorariatto
+    fullgame:
+      appid: '588730'
+      name: Majotori
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/608620/header.jpg?t=1583332777
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Majotori OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Majotori OST - $0.99
+        packageid: 161607
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Majotori OST
+    packages:
+    - 161607
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        33 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Majorariatto
+    release_date:
+      coming_soon: false
+      date: Mar 28, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/608620/ss_a408fc1a9ee5963d34df9e80eca177edbf52d944.1920x1080.jpg?t=1583332777
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/608620/ss_a408fc1a9ee5963d34df9e80eca177edbf52d944.600x338.jpg?t=1583332777
+    short_description: Majotori's original soundtrack.
+    steam_appid: 608620
+    support_info:
+      email: contact@majorariatto.com
+      url: http://www.majorariatto.com/
+    supported_languages: English, Spanish - Spain
+    type: music
+    website: http://www.majorariatto.com/majotori
+  success: true
+reviews:
+  cursor: AoJw/siCyfYCeMzPvAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 0
+    total_positive: 8
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 8
+      num_reviews: 3
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198858719383'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '83000520'
+    review: Me encantan estas canciones sobretodo la cantada por perros jsjsjs
+    steam_purchase: true
+    timestamp_created: 1608767916
+    timestamp_updated: 1608767916
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: "the ball that will fall - score points by floating down onto\
+      \ the platforms below and watch out for an electric shock. You can also score\
+      \ points by collecting rings.<br />\r\n<br />\r\nHow much will you score."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/857590/page_bg_generated_v6b.jpg?t=1571929792
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "the ball that will fall - score points by floating down\
+      \ onto the platforms below and watch out for an electric shock. You can also\
+      \ score points by collecting rings.<br />\r\n<br />\r\nHow much will you score."
+    developers:
+    - Charles Meekins
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/857590/header.jpg?t=1571929792
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256716310
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716310/movie480.mp4?t=1559375327
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716310/movie_max.mp4?t=1559375327
+      name: ball fall trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256716310/movie.293x165.jpg?t=1559375327
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256716310/movie480.webm?t=1559375327
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256716310/movie_max.webm?t=1559375327
+    name: Ball Fall
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ball fall - $0.99
+        packageid: 269797
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Ball Fall
+    packages:
+    - 269797
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows 7</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - 'Charles Meekins '
+    release_date:
+      coming_soon: false
+      date: Jun 17, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_c8eb30b7d3bbfe5974fffc09a4fcc53fcb69202a.1920x1080.jpg?t=1571929792
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_c8eb30b7d3bbfe5974fffc09a4fcc53fcb69202a.600x338.jpg?t=1571929792
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_ec1e003bca4d4f7dbc7658167df183b33bc158d2.1920x1080.jpg?t=1571929792
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_ec1e003bca4d4f7dbc7658167df183b33bc158d2.600x338.jpg?t=1571929792
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_3a389a87ba0aba9efa1cd1408ed45d21b5269a6e.1920x1080.jpg?t=1571929792
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_3a389a87ba0aba9efa1cd1408ed45d21b5269a6e.600x338.jpg?t=1571929792
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_69dc0b9868947a504d21c30e69c0c87e3a4b332a.1920x1080.jpg?t=1571929792
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_69dc0b9868947a504d21c30e69c0c87e3a4b332a.600x338.jpg?t=1571929792
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_58ebcdc3c695336f1e47be9590cc7f68da6d43f9.1920x1080.jpg?t=1571929792
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/857590/ss_58ebcdc3c695336f1e47be9590cc7f68da6d43f9.600x338.jpg?t=1571929792
+    short_description: the ball that will fall - score points by floating down onto
+      the platforms below and watch out for an electric shock. You can also score
+      points by collecting rings. How much will you score.
+    steam_appid: 857590
+    support_info:
+      email: chrismeekins123@hotmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

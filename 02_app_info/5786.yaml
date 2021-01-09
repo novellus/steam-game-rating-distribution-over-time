@@ -1,0 +1,56 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/5786/header.jpg?t=1452903108
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 5786
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/5786/movie480.mp4?t=1452903108
+        max: http://steamcdn-a.akamaihd.net/steam/apps/5786/movie_max.mp4?t=1452903108
+      name: Portal 2 E3 Demo (Wheatley)
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/5786/movie.293x165.jpg?t=1452903108
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/5786/movie480.webm?t=1452903108
+        max: http://steamcdn-a.akamaihd.net/steam/apps/5786/movie_max.webm?t=1452903108
+    name: Portal 2 E3 Demo (Wheatley)
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 28, 2010
+    required_age: 0
+    short_description: ''
+    steam_appid: 5786
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

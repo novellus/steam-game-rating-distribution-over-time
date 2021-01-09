@@ -1,0 +1,158 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Throw coins and dices like never before.</h2><br>Throw
+      dices like never before and save the results to view them later.<br>The hand
+      is making manual throwing possible.<br><br>Features<br><ul class="bb_ul"><li>Throw
+      up to 10 throwables at once<br></li><li>Document your results in .txt files<br></li><li>View
+      documented results<br></li><li>12 different throwables<br></li><li>Optional
+      HUD showing results<br></li><li>Optional hand</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1301800/page_bg_generated_v6b.jpg?t=1589884880
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">Throw coins and dices like never before.</h2><br>Throw
+      dices like never before and save the results to view them later.<br>The hand
+      is making manual throwing possible.<br><br>Features<br><ul class="bb_ul"><li>Throw
+      up to 10 throwables at once<br></li><li>Document your results in .txt files<br></li><li>View
+      documented results<br></li><li>12 different throwables<br></li><li>Optional
+      HUD showing results<br></li><li>Optional hand</li></ul>
+    developers:
+    - GGG
+    fullgame:
+      appid: '1105480'
+      name: GGG Collection
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1301800/header.jpg?t=1589884880
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        10 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        10 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256785880
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256785880/movie480.mp4?t=1589884875
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256785880/movie_max.mp4?t=1589884875
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256785880/movie.293x165.jpg?t=1589884875
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256785880/movie480_vp9.webm?t=1589884875
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256785880/movie_max_vp9.webm?t=1589884875
+    name: GGG Collection - Coindice Simulator
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Coindice Simulator - $1.99
+        packageid: 454057
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Coindice Simulator - Commercial License - $1.99
+        packageid: 464813
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy GGG Collection - Coindice Simulator
+    packages:
+    - 454057
+    - 464813
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        10 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 18, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_f0cbeb59a04c492fab05b59e09472a66f863acf5.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_f0cbeb59a04c492fab05b59e09472a66f863acf5.600x338.jpg?t=1589884880
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_341afe3d8f6c9b143b0329d761410ce599fa5c69.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_341afe3d8f6c9b143b0329d761410ce599fa5c69.600x338.jpg?t=1589884880
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_010c57f76bb60b76bca1f5fd3a5da53b6aceb27c.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_010c57f76bb60b76bca1f5fd3a5da53b6aceb27c.600x338.jpg?t=1589884880
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_349f3649d932ab4c8f6c7d2c12265ce8a07315cf.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_349f3649d932ab4c8f6c7d2c12265ce8a07315cf.600x338.jpg?t=1589884880
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_549a5202585b1436c6be65d315fd3a3967230a98.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_549a5202585b1436c6be65d315fd3a3967230a98.600x338.jpg?t=1589884880
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_68f971642b4f48b4d7e43ae8ece18d43f1a064b4.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_68f971642b4f48b4d7e43ae8ece18d43f1a064b4.600x338.jpg?t=1589884880
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_4a24a54076848c0df5a2c19957bfb496cb6ff749.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_4a24a54076848c0df5a2c19957bfb496cb6ff749.600x338.jpg?t=1589884880
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_1ded402d4abd629025cb41ac5105daa0e062389c.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_1ded402d4abd629025cb41ac5105daa0e062389c.600x338.jpg?t=1589884880
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_027e89bb3d393107a93dd2577d7bfa74112ca56c.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_027e89bb3d393107a93dd2577d7bfa74112ca56c.600x338.jpg?t=1589884880
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_b87984f6af93ec80a6f580c4d52c8d00bacab72c.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_b87984f6af93ec80a6f580c4d52c8d00bacab72c.600x338.jpg?t=1589884880
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_1871d1577a92d9e20ca096f73216cd4900a61d5c.1920x1080.jpg?t=1589884880
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1301800/ss_1871d1577a92d9e20ca096f73216cd4900a61d5c.600x338.jpg?t=1589884880
+    short_description: Throw dices like never before and save the results to view
+      them later. The hand is making manual throwing possible.
+    steam_appid: 1301800
+    support_info:
+      email: ''
+      url: https://help.steampowered.com/
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

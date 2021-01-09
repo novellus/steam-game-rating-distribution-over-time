@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: Soundtrack from the 2019 game Existence. All music composed by
+      Caleb Martin.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1420670/page_bg_generated_v6b.jpg?t=1599969140
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Soundtrack from the 2019 game Existence. All music composed
+      by Caleb Martin.
+    developers:
+    - Sealab Games
+    - Caleb Martin
+    fullgame:
+      appid: '806550'
+      name: Existence
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1420670/header.jpg?t=1599969140
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Existence Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Existence Soundtrack - $0.99
+        packageid: 498622
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Existence Soundtrack
+    packages:
+    - 498622
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        18 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Sealab Games
+    release_date:
+      coming_soon: false
+      date: Sep 12, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420670/ss_e042c763e32e640b6b480cd66e475d713fc16c64.1920x1080.jpg?t=1599969140
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420670/ss_e042c763e32e640b6b480cd66e475d713fc16c64.600x338.jpg?t=1599969140
+    short_description: Soundtrack from the 2019 game Existence. All music composed
+      by Caleb Martin.
+    steam_appid: 1420670
+    support_info:
+      email: calebseibert1@gmail.com
+      url: ''
+    type: music
+    website: https://www.martinmusicmedia.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

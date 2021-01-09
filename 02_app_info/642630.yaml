@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: NEKOPARA Vol. 3 Theme Song Single
+    background: https://steamcdn-a.akamaihd.net/steam/apps/642630/page_bg_generated_v6b.jpg?t=1581989375
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: NEKOPARA Vol. 3 Theme Song Single
+    developers:
+    - NEKO WORKs
+    fullgame:
+      appid: '602520'
+      name: NEKOPARA Vol. 3
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/642630/header.jpg?t=1581989375
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: NEKOPARA Vol. 3 - Theme Song
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: NEKOPARA Vol. 3 - Theme Song - $9.99
+        packageid: 179231
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy NEKOPARA Vol. 3 - Theme Song
+    packages:
+    - 179231
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: May 25, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/642630/ss_64c758ce2dc9bb43755771676ee1b2a80752f970.1920x1080.jpg?t=1581989375
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/642630/ss_64c758ce2dc9bb43755771676ee1b2a80752f970.600x338.jpg?t=1581989375
+    short_description: NEKOPARA Vol. 3 Theme Song...
+    steam_appid: 642630
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4qYiRmfYCfNO6twI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 41
+    total_reviews: 42
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2116
+      num_reviews: 1893
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198025089345'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '81646908'
+    review: "<\u732B\u5A18\u4E50\u56ED3 \u4E3B\u9898\u66F2> 2\u9996\u6B4C36\u5757\uFF0C\
+      \u6B7B\u5B85\u7684\u94B1\u771F\u597D\u8D5A~\n\u6B4C\u786E\u5B9E\u597D\u542C\u5C31\
+      \u662F\u54AF~flac\u548Cmp3\u4E24\u79CD\u7248\u672C\uFF0C\u800C\u4E14\u6807\u7B7E\
+      \u5C01\u9762\u9F50\u5168~"
+    steam_purchase: true
+    timestamp_created: 1607161103
+    timestamp_updated: 1607161103
+    voted_up: true
+    votes_funny: 2
+    votes_up: 13
+    weighted_vote_score: '0.634417474269866943'
+    written_during_early_access: false
+  success: 1

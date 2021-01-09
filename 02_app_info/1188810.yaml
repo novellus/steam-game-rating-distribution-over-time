@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1188810/page_bg_generated_v6b.jpg?t=1576166362
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Choice of Games
+    fullgame:
+      appid: '1188800'
+      name: In the Service of Mrs. Claus
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1188810/header.jpg?t=1576166362
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.9</li></ul>
+    name: In the Service of Mrs. Claus Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Choice of Games
+    release_date:
+      coming_soon: false
+      date: Dec 12, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_d513f36a79c6150e73a371fb183f4f52e4cba6a4.1920x1080.jpg?t=1576166362
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_d513f36a79c6150e73a371fb183f4f52e4cba6a4.600x338.jpg?t=1576166362
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_360418239e91874406f6621069b58009e895d611.1920x1080.jpg?t=1576166362
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_360418239e91874406f6621069b58009e895d611.600x338.jpg?t=1576166362
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_71b5cc8a9fe33f815db878ac15dccafe3ac48e5c.1920x1080.jpg?t=1576166362
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_71b5cc8a9fe33f815db878ac15dccafe3ac48e5c.600x338.jpg?t=1576166362
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_0cb1fe6f85bf17316a819cb858697fb201fb142f.1920x1080.jpg?t=1576166362
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_0cb1fe6f85bf17316a819cb858697fb201fb142f.600x338.jpg?t=1576166362
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_e2826d6a23ab04ed16bf341ef6d49238b2d0c941.1920x1080.jpg?t=1576166362
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1188810/ss_e2826d6a23ab04ed16bf341ef6d49238b2d0c941.600x338.jpg?t=1576166362
+    short_description: ''
+    steam_appid: 1188810
+    support_info:
+      email: support-mrsclaus-steam@choiceofgames.com
+      url: https://www.choiceofgames.com/contact-us
+    supported_languages: English
+    type: demo
+    website: https://www.choiceofgames.com/mrs-claus
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

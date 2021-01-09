@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: "<strong>\u8BE5\u793C\u5305\u5305\u542B\u5982\u4E0B\u6E38\u620F\
+      \u5185\u9053\u5177\uFF1A</strong><br>\u4E00\uFF0C\u82F1\u59FF\uFF08\u6C38\u4E45\
+      \u5934\u50CF\uFF09    <br>\u4E8C\uFF0C\u5C0F\u98DE\u978B\uFF08100\u4E2A\uFF09\
+      <br><br><strong>\u8BE6\u7EC6\u4ECB\u7ECD\uFF1A</strong><br>\u4E00\uFF0C\u82F1\
+      \u59FF\uFF08\u6C38\u4E45\u5934\u50CF\uFF09<br>\u9886\u53D6\u540E\uFF0C\u5728\
+      \u80CC\u5305\u4E2D\u4F7F\u7528\uFF0C\u53EF\u83B7\u5F97\u4E00\u4E2A\u72EC\u4E00\
+      \u65E0\u4E8C\u7684\u6C38\u4E45\u89D2\u8272\u5934\u50CF<br><br>\u4E8C\uFF0C\u5C0F\
+      \u98DE\u978B\uFF08100\u4E2A\uFF09<br>\u70B9\u51FB\u4EFB\u52A1\u6587\u5B57\u65C1\
+      \u8FB9\u7684\u5C0F\u98DE\u978B\uFF0C\u53EF\u7ACB\u5373\u4F20\u9001\u5230\u76EE\
+      \u7684\u5730\uFF0C\u505A\u4EFB\u52A1\u518D\u4E5F\u4E0D\u7528\u62C5\u5FC3\u8DD1\
+      \u65AD\u817F\u5566"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1084650/page_bg_generated_v6b.jpg?t=1558433443
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong>\u8BE5\u793C\u5305\u5305\u542B\u5982\u4E0B\u6E38\
+      \u620F\u5185\u9053\u5177\uFF1A</strong><br>\u4E00\uFF0C\u82F1\u59FF\uFF08\u6C38\
+      \u4E45\u5934\u50CF\uFF09    <br>\u4E8C\uFF0C\u5C0F\u98DE\u978B\uFF08100\u4E2A\
+      \uFF09<br><br><strong>\u8BE6\u7EC6\u4ECB\u7ECD\uFF1A</strong><br>\u4E00\uFF0C\
+      \u82F1\u59FF\uFF08\u6C38\u4E45\u5934\u50CF\uFF09<br>\u9886\u53D6\u540E\uFF0C\
+      \u5728\u80CC\u5305\u4E2D\u4F7F\u7528\uFF0C\u53EF\u83B7\u5F97\u4E00\u4E2A\u72EC\
+      \u4E00\u65E0\u4E8C\u7684\u6C38\u4E45\u89D2\u8272\u5934\u50CF<br><br>\u4E8C\uFF0C\
+      \u5C0F\u98DE\u978B\uFF08100\u4E2A\uFF09<br>\u70B9\u51FB\u4EFB\u52A1\u6587\u5B57\
+      \u65C1\u8FB9\u7684\u5C0F\u98DE\u978B\uFF0C\u53EF\u7ACB\u5373\u4F20\u9001\u5230\
+      \u76EE\u7684\u5730\uFF0C\u505A\u4EFB\u52A1\u518D\u4E5F\u4E0D\u7528\u62C5\u5FC3\
+      \u8DD1\u65AD\u817F\u5566"
+    developers:
+    - "\u6DF1\u5733\u58A8\u9E9F\u79D1\u6280\u80A1\u4EFD\u6709\u9650\u516C\u53F8"
+    fullgame:
+      appid: '1052500'
+      name: "\u5FA1\u9F99\u5728\u5929-\u5E73\u8861\u56FD\u6218\u7248"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1084650/header.jpg?t=1558433443
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u5FA1\u9F99\u5728\u5929-\u8FDB\u9636\u793C\u5305"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u5FA1\u9F99\u5728\u5929-\u8FDB\u9636\u793C\u5305 - $1.99"
+        packageid: 364383
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: "Buy \u5FA1\u9F99\u5728\u5929-\u8FDB\u9636\u793C\u5305"
+    packages:
+    - 364383
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Win7\uFF0832\u4F4D)<br></li><li><strong>Processor:</strong> CPU:\u7B49\u540C\
+        \u4E8Eintel\u53CC\u68382.8G<br></li><li><strong>Memory:</strong> 800 MB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA Geforce GT 620 \u6216\u540C\u7B49\u5176\u5B83\u663E\u5361\uFF08\u6700\
+        \u4F4E\u753B\u8D28\u8FD0\u884C\uFF09<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 5 GB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Win7 64\u4F4D<br></li><li><strong>Processor:</strong> CPU:\u7B49\u540C\u4E8E\
+        intel i5-2100\u53CA\u4EE5\u4E0A\uFF082\u68384\u7EBF\u7A0B\uFF09<br></li><li><strong>Memory:</strong>\
+        \ 1500 MB RAM<br></li><li><strong>Graphics:</strong> NV Geforce GTX650\u6216\
+        \u540C\u7B49\u5176\u5B83\u663E\u5361<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 50 GB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1084650/ss_312fc7ad4f7f3548cd0c2f6ab14ee6bf8b3d3875.1920x1080.jpg?t=1558433443
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1084650/ss_312fc7ad4f7f3548cd0c2f6ab14ee6bf8b3d3875.600x338.jpg?t=1558433443
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1084650/ss_e082fd1e10208e0077759f0febda772b515680d3.1920x1080.jpg?t=1558433443
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1084650/ss_e082fd1e10208e0077759f0febda772b515680d3.600x338.jpg?t=1558433443
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1084650/ss_cfededabf206bfa384ac9c4dfdeb12832ecd9bf4.1920x1080.jpg?t=1558433443
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1084650/ss_cfededabf206bfa384ac9c4dfdeb12832ecd9bf4.600x338.jpg?t=1558433443
+    short_description: "\u8BE5\u793C\u5305\u5305\u542B\u5982\u4E0B\u6E38\u620F\u5185\
+      \u9053\u5177\uFF1A\u4E00\uFF0C\u82F1\u59FF\uFF08\u6C38\u4E45\u5934\u50CF\uFF09\
+      \ \u4E8C\uFF0C\u5C0F\u98DE\u978B\uFF08100\u4E2A\uFF09"
+    steam_appid: 1084650
+    support_info:
+      email: mlkf001@mokylin.com
+      url: https://service.mlyx.com/
+    supported_languages: Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://yl.mlyx.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

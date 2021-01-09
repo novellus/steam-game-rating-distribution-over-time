@@ -1,0 +1,189 @@
+details:
+  data:
+    about_the_game: "About operation:<br />\r\n      The operation is very simple,\
+      \ just press or release :) <br />\r\n      When you press the left mouse button,\
+      \ the speed of time will slow down, which means everything running in the game\
+      \ will slow down <br />\r\n     You can use this time to avoid obstacles and\
+      \ plan the next direction of movement; time will return to normal when you release\
+      \ the button <br />\r\n     The ball will also move in the direction you are\
+      \ pointing <br />\r\n     About the level: <br />\r\n     Levels are theoretically\
+      \ combined randomly, and you can keep playing <br />\r\n     The difficulty\
+      \ also gradually increases, and the bullet speed will become faster and faster"
+    achievements:
+      highlighted:
+      - name: "\u9996\u6B21\u51CF\u901F"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/ca7960f6b8277f75bc81855bd4af379c3481ea93.jpg
+      - name: "\u5230\u8FBE\u7B2C10\u5173"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/22cd58718d2caad0a1a484d21f02d988accc24d8.jpg
+      - name: "\u5230\u8FBE\u7B2C30\u5173"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/118f4be76494e29fe8848518aab222fe5424cfe5.jpg
+      - name: "\u5230\u8FBE\u7B2C50\u5173"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/20f6fb971a15b7b507dddb13a10b91a7245800b1.jpg
+      - name: "\u5230\u8FBE\u7B2C70\u5173"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/dadb02fe80f38183a22adb06695b1dae37d917f3.jpg
+      - name: "\u5230\u8FBE\u7B2C90\u5173"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/f7191cca23fb6dae5d1e3c16bb21fc307c955e48.jpg
+      - name: "\u9996\u6B21\u590D\u6D3B"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/f0bd4f80206aecc1ca4af1fbf4968d6480c8b0dd.jpg
+      - name: "\u51CF\u901F\u4E86200\u6B21"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/987b09e789b9710a780a07214b6099c94c541b43.jpg
+      - name: "\u51CF\u901F\u4E86600\u6B21"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/6eefd09010624c6a9b6b2d4da8ef8319ba452643.jpg
+      - name: "\u51CF\u901F1k\u6B21"
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/855770/ed46e165fc119badb857c9c249526a29b73374be.jpg
+      total: 14
+    background: https://steamcdn-a.akamaihd.net/steam/apps/855770/page_bg_generated_v6b.jpg?t=1596007178
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "About operation:<br />\r\n      The operation is very simple,\
+      \ just press or release :) <br />\r\n      When you press the left mouse button,\
+      \ the speed of time will slow down, which means everything running in the game\
+      \ will slow down <br />\r\n     You can use this time to avoid obstacles and\
+      \ plan the next direction of movement; time will return to normal when you release\
+      \ the button <br />\r\n     The ball will also move in the direction you are\
+      \ pointing <br />\r\n     About the level: <br />\r\n     Levels are theoretically\
+      \ combined randomly, and you can keep playing <br />\r\n     The difficulty\
+      \ also gradually increases, and the bullet speed will become faster and faster"
+    developers:
+    - Morningstar Studios
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/855770/header.jpg?t=1596007178
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256791853
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256791853/movie480.mp4?t=1594868845
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256791853/movie_max.mp4?t=1594868845
+      name: Upboll
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256791853/movie.293x165.jpg?t=1594868845
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256791853/movie480_vp9.webm?t=1594868845
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256791853/movie_max_vp9.webm?t=1594868845
+    name: UpBoll
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: UpBall - $1.99
+        packageid: 268961
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy UpBoll
+    packages:
+    - 268961
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Dual Core +<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB +</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Got four cores? Great!
+        UpBoll will run smooth on most things, but especially on four cores.<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> Something within the last
+        five years would be nice and gorgeous, better is always better<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Morningstar Studios
+    release_date:
+      coming_soon: false
+      date: Jul 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_e411284e306937301ad393bbde250f459b4e3ed9.1920x1080.jpg?t=1596007178
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_e411284e306937301ad393bbde250f459b4e3ed9.600x338.jpg?t=1596007178
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_3b1c8df797b276a0e1c403fa2c185d55e50701c2.1920x1080.jpg?t=1596007178
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_3b1c8df797b276a0e1c403fa2c185d55e50701c2.600x338.jpg?t=1596007178
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_312e48281b0634826d4ea1e7c26dc88fb4d2cab0.1920x1080.jpg?t=1596007178
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_312e48281b0634826d4ea1e7c26dc88fb4d2cab0.600x338.jpg?t=1596007178
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_798180491e8c84fc332cb8601712168390e64942.1920x1080.jpg?t=1596007178
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_798180491e8c84fc332cb8601712168390e64942.600x338.jpg?t=1596007178
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_9b30da0b30e78fa55b4dd34bbac5863b3eeba713.1920x1080.jpg?t=1596007178
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_9b30da0b30e78fa55b4dd34bbac5863b3eeba713.600x338.jpg?t=1596007178
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_6600312a6da16c2f42ab4587a64c0c02e1bd780f.1920x1080.jpg?t=1596007178
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_6600312a6da16c2f42ab4587a64c0c02e1bd780f.600x338.jpg?t=1596007178
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_fa09559498cd84f894a5c8cf3eee7775ea17a4b1.1920x1080.jpg?t=1596007178
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/855770/ss_fa09559498cd84f894a5c8cf3eee7775ea17a4b1.600x338.jpg?t=1596007178
+    short_description: "UpBall is a game of climbing up by controlling the speed of\
+      \ time Each death will not reset the level or let you start over If you are\
+      \ unskilled, then stop the time and think about what to do next The game is\
+      \ inspired by \u201CSUPERHOT\u201D"
+    steam_appid: 855770
+    support_info:
+      email: uniszhangtianfeng@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>,
+      Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwrPG70PMCcqG9mAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1596132598
+      num_games_owned: 361
+      num_reviews: 16
+      playtime_at_review: 57
+      playtime_forever: 57
+      playtime_last_two_weeks: 0
+      steamid: '76561199004616480'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '73525778'
+    review: Worth it just for the satisfying near misses and slow motion.
+    steam_purchase: true
+    timestamp_created: 1596132920
+    timestamp_updated: 1596132920
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: true
+  success: 1

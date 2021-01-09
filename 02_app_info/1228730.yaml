@@ -1,0 +1,179 @@
+details:
+  data:
+    about_the_game: "What is Zulup?<br />\r\n<br />\r\nYou play the role of a ball\
+      \ moving on the inside of a circle. Along the way,  collect regularly appearing\
+      \ points. As you gain points, extraneous balls appear nearby, which differ from\
+      \ your ball in size and speed. Their task is to catch you and ruin your game.\
+      \ You can jump on the opposite side of the circle to avoid a collision or destroy\
+      \ another ball by hitting it exactly and thereby make the playing field a little\
+      \ freer. Your task is to score the most points without hitting other balls.<br\
+      \ />\r\n<br />\r\nAdditional excitement will add a leaderboard and achievements."
+    achievements:
+      highlighted:
+      - name: 10 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/532da6e0b5756a96b465634e50ef5c3362b41b46.jpg
+      - name: 15 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/a696e8dcd56a812e77288ad6343315df97540ad1.jpg
+      - name: 20 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/c5444bdd60432e88fa3b14b9196afea38af2fb13.jpg
+      - name: 25 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/7afb7038e6961731590f04df580b911555111ff7.jpg
+      - name: 30 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/0feee7c897728f5b47c3ad2b41b6bc101022a108.jpg
+      - name: 35 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/b2843c0fa3f3e46d6f421a3c3f5226516ec45554.jpg
+      - name: 40 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/0467e5e2bc1df301e4264a841628411c0de348a7.jpg
+      - name: 45 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/fa1fd01ea522c2570ac9ee4d9e063e023aa62cb0.jpg
+      - name: 50 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/56631a471bc768fb685ba7b48649ae15f024f19a.jpg
+      - name: 55 Points
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1228730/370fec7653a8e633756a2088eb485f6780b6e21e.jpg
+      total: 64
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1228730/page_bg_generated_v6b.jpg?t=1580753381
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "What is Zulup?<br />\r\n<br />\r\nYou play the role of\
+      \ a ball moving on the inside of a circle. Along the way,  collect regularly\
+      \ appearing points. As you gain points, extraneous balls appear nearby, which\
+      \ differ from your ball in size and speed. Their task is to catch you and ruin\
+      \ your game. You can jump on the opposite side of the circle to avoid a collision\
+      \ or destroy another ball by hitting it exactly and thereby make the playing\
+      \ field a little freer. Your task is to score the most points without hitting\
+      \ other balls.<br />\r\n<br />\r\nAdditional excitement will add a leaderboard\
+      \ and achievements."
+    developers:
+    - cBlck
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1228730/header.jpg?t=1580753381
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256772539
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256772539/movie480.mp4?t=1579422704
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256772539/movie_max.mp4?t=1579422704
+      name: '1'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256772539/movie.293x165.jpg?t=1579422704
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256772539/movie480.webm?t=1579422704
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256772539/movie_max.webm?t=1579422704
+    name: Zulup
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Zulup - $0.99
+        packageid: 426025
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Zulup
+    packages:
+    - 426025
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        43 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - cBlck
+    release_date:
+      coming_soon: false
+      date: Feb 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_549a5fc76fa4a9cb95b95fc3426d4709fca18cae.1920x1080.jpg?t=1580753381
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_549a5fc76fa4a9cb95b95fc3426d4709fca18cae.600x338.jpg?t=1580753381
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_264349c4b92eeefa1555a4498b99126ad82b84a2.1920x1080.jpg?t=1580753381
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_264349c4b92eeefa1555a4498b99126ad82b84a2.600x338.jpg?t=1580753381
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_d13d9419b3b7896dfdf26bc5c9e333001118aa0d.1920x1080.jpg?t=1580753381
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_d13d9419b3b7896dfdf26bc5c9e333001118aa0d.600x338.jpg?t=1580753381
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_9e6eb4367f4a03798e4300f3d408a4ffd041f64e.1920x1080.jpg?t=1580753381
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_9e6eb4367f4a03798e4300f3d408a4ffd041f64e.600x338.jpg?t=1580753381
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_b73fdd2e7a31f46ec41fcaaa0e9d736f86f0456c.1920x1080.jpg?t=1580753381
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_b73fdd2e7a31f46ec41fcaaa0e9d736f86f0456c.600x338.jpg?t=1580753381
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_b9a6b830c8ac77c2aa5d3393ded5b0684763217d.1920x1080.jpg?t=1580753381
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1228730/ss_b9a6b830c8ac77c2aa5d3393ded5b0684763217d.600x338.jpg?t=1580753381
+    short_description: You play the role of a ball moving on the inside of a circle.
+      Along the way, collect regularly appearing points.
+    steam_appid: 1228730
+    support_info:
+      email: cBlckgames@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw9e2m1fYCfsiXvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 1
+    total_positive: 5
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1609177229
+      num_games_owned: 7
+      num_reviews: 2
+      playtime_at_review: 7
+      playtime_forever: 7
+      playtime_last_two_weeks: 7
+      steamid: '76561198981599076'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '83410062'
+    review: The achievements are not shown in the display case. And that's just why
+      I bought this game ...
+    steam_purchase: true
+    timestamp_created: 1609180082
+    timestamp_updated: 1609180082
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

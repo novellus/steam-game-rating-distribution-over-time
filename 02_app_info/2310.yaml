@@ -1,0 +1,151 @@
+details:
+  data:
+    about_the_game: Rage through 32 single player levels and 6 deathmatch levels of
+      sheer terror and fully immersive sound and lighting. Arm yourself against the
+      cannibalistic Ogre, fiendish Vore and indestructible Schambler using lethal
+      nails, fierce Thunderbolts and abominable Rocket and Grenade Launchers.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/2310/page_bg_generated_v6b.jpg?t=1572894215
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Rage through 32 single player levels and 6 deathmatch levels
+      of sheer terror and fully immersive sound and lighting. Arm yourself against
+      the cannibalistic Ogre, fiendish Vore and indestructible Schambler using lethal
+      nails, fierce Thunderbolts and abominable Rocket and Grenade Launchers.
+    developers:
+    - id Software
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/2310/header.jpg?t=1572894215
+    is_free: false
+    legal_notice: "\xA9 1996 id Software LLC, a ZeniMax Media company.  QUAKE, id,\
+      \ id Software, id Tech and related logos are registered trademarks or trademarks\
+      \ of id Software LLC in the U.S. and/or other countries.  Bethesda, Bethesda\
+      \ Softworks, ZeniMax and related logos are registered trademarks or trademarks\
+      \ of ZeniMax Media Inc. in the U.S. and/or other countries.  All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 94
+      url: https://www.metacritic.com/game/pc/quake?ftag=MCD-06-10aaa1f
+    name: QUAKE
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Quake - $4.99
+        packageid: 427
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: QUAKE Collection - $24.99
+        packageid: 434
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2499
+      title: Buy QUAKE
+    packages:
+    - 427
+    - 434
+    pc_requirements:
+      minimum: '<strong>Minimum: </strong>A 100% Windows XP/Vista-compatible computer
+        system'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - id Software
+    recommendations:
+      total: 3813
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2007
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002446.1920x1080.jpg?t=1572894215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002446.600x338.jpg?t=1572894215
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002447.1920x1080.jpg?t=1572894215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002447.600x338.jpg?t=1572894215
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002448.1920x1080.jpg?t=1572894215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002448.600x338.jpg?t=1572894215
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002449.1920x1080.jpg?t=1572894215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002449.600x338.jpg?t=1572894215
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002450.1920x1080.jpg?t=1572894215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2310/0000002450.600x338.jpg?t=1572894215
+    short_description: Rage through 32 single player levels and 6 deathmatch levels
+      of sheer terror and fully immersive sound and lighting. Arm yourself against
+      the cannibalistic Ogre, fiendish Vore and indestructible Schambler using lethal
+      nails, fierce Thunderbolts and abominable Rocket and Grenade Launchers.
+    steam_appid: 2310
+    support_info:
+      email: ''
+      url: http://support.bethsoft.com/
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwyOrY8PYCe+q/wQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 9
+    review_score_desc: Overwhelmingly Positive
+    total_negative: 171
+    total_positive: 3641
+    total_reviews: 3812
+  reviews:
+  - author:
+      last_played: 1605516553
+      num_games_owned: 84
+      num_reviews: 23
+      playtime_at_review: 58
+      playtime_forever: 58
+      playtime_last_two_weeks: 0
+      steamid: '76561198441690719'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84278955'
+    review: Its Quake.
+    steam_purchase: true
+    timestamp_created: 1610099152
+    timestamp_updated: 1610099152
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

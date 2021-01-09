@@ -1,0 +1,218 @@
+details:
+  data:
+    about_the_game: "The DLC package contains 2 special resource cards which can be\
+      \ redeemed for a small boost to help Harkyn get started:<br />\r\n\u25CF Attribute\
+      \ Points Card<br />\r\nPlay this card to achieve 2 additional Attribute Points.<br\
+      \ />\r\n\u25CF Potion Card<br />\r\nPlay this card to achieve 1 additional health\
+      \ potion.<br />\r\nThe resource cards will be added to the inventory of each\
+      \ of your characters / savegames as soon as the DLC is installed. By using a\
+      \ resource card you will be rewarded with the corresponding resource and the\
+      \ card gets destroyed."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/317202/page_bg_generated_v6b.jpg?t=1601950405
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The DLC package contains 2 special resource cards which\
+      \ can be redeemed for a small boost to help Harkyn get started:<br />\r\n\u25CF\
+      \ Attribute Points Card<br />\r\nPlay this card to achieve 2 additional Attribute\
+      \ Points.<br />\r\n\u25CF Potion Card<br />\r\nPlay this card to achieve 1 additional\
+      \ health potion.<br />\r\nThe resource cards will be added to the inventory\
+      \ of each of your characters / savegames as soon as the DLC is installed. By\
+      \ using a resource card you will be rewarded with the corresponding resource\
+      \ and the card gets destroyed."
+    developers:
+    - CI Games
+    - Deck 13
+    fullgame:
+      appid: '265300'
+      name: "Lords Of The Fallen\u2122"
+    genres:
+    - description: Action
+      id: '1'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/317202/header.jpg?t=1601950405
+    is_free: false
+    legal_notice: "Lords of the Fallen \xA92014 CI Games S.A. All rights reserved.\
+      \ Lords of the Fallen is a trademark of CI Games S.A.<br />\r\nFledge Engine\
+      \ \xA9Deck 13 Interactive GmbH. Used under license. Powered by Fireflight Technologies\
+      \ FMOD Ex Sound System. Copyright in the Enlighten Is owned by or licensed to\
+      \ Geometrics Limited All rights reserved. PhysX Technology provided under license\
+      \ from NVIDIA Corporation. @ 2002-2014 NVIDIA Corporation. All rights reserved.\
+      \ @ 2014 Valve Corporation. Steamworks and the Steamworks logo are trademarks\
+      \ and/or registered of Valve Corporation In the U.S. <br />\r\nand/or other\
+      \ counter. The NVIDIA logo and the \"The Way It's Meant To Be Played\" logo\
+      \ are registered trademarks, of NVIDIA Corporation. Copyright @ 1997-2014 NVIDIA\
+      \ Corporation. All rights reserved. NVIDIA Corporation,<br />\r\n2701 San Tomas\
+      \ Expressway Santa Clara, CA 95050 USA. All other copyrights and trademarks\
+      \ are the property of their respective owners."
+    linux_requirements: []
+    mac_requirements: []
+    name: Lords of the Fallen - The Foundation Boost
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lords of the Fallen - The Foundation Boost - $1.99
+        packageid: 48694
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lords of the Fallen Game of the Year Edition - $29.99
+        packageid: 48346
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy Lords of the Fallen - The Foundation Boost
+    packages:
+    - 48694
+    - 48346
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista (SP2), Windows 7 (SP1) or Windows 8 (only 64 bit OSs<br></li><li><strong>Processor:</strong>
+        Intel Core 2 Quad Q8400 @ 2.66Ghz or AMD Phenom II X4 940 @ 3.0Ghz<br></li><li><strong>Memory:</strong>
+        6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 460 or better<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX 9.0c Compatible Sound Card with Latest Drivers</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista (SP2), Windows 7 (SP1) or Windows 8 (only 64 bit OSs<br></li><li><strong>Processor:</strong>
+        Intel Core i7-3770 @3.5 GHz or AMD FX-8350 X8 @ 4 GHz<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 560 ti or better<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX 9.0c Compatible Sound Card with Latest Drivers</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - CI Games
+    release_date:
+      coming_soon: false
+      date: Oct 28, 2014
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_f16fc1792bb1035ec9976a148e1d212df18261fb.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_f16fc1792bb1035ec9976a148e1d212df18261fb.600x338.jpg?t=1601950405
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_e984969c59e23ebb6d8aa28f1debb6dd31df0e2f.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_e984969c59e23ebb6d8aa28f1debb6dd31df0e2f.600x338.jpg?t=1601950405
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_57889e32e37f5683b7a73ee71fc79a4027bcc912.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_57889e32e37f5683b7a73ee71fc79a4027bcc912.600x338.jpg?t=1601950405
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_69f397e82c6c4916f9e8ae690166e509d0af21eb.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_69f397e82c6c4916f9e8ae690166e509d0af21eb.600x338.jpg?t=1601950405
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_7f22051a08a7067e1eb64f66624a8d967d4d8a32.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_7f22051a08a7067e1eb64f66624a8d967d4d8a32.600x338.jpg?t=1601950405
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_c3c0d8f4a473d70adcb6048cee89b14524c85a2c.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_c3c0d8f4a473d70adcb6048cee89b14524c85a2c.600x338.jpg?t=1601950405
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_733016705868aab00f9667945c26eb49ed255da2.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_733016705868aab00f9667945c26eb49ed255da2.600x338.jpg?t=1601950405
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_82f0bf24590c0f6d075cdaf01d15f5f4dd78da05.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_82f0bf24590c0f6d075cdaf01d15f5f4dd78da05.600x338.jpg?t=1601950405
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_faa500c318fc4627a8b3bdb01a5455d8c5778f75.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_faa500c318fc4627a8b3bdb01a5455d8c5778f75.600x338.jpg?t=1601950405
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_a6847d40bb1a7a27374a9c47f0634e27c8da3fa8.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_a6847d40bb1a7a27374a9c47f0634e27c8da3fa8.600x338.jpg?t=1601950405
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_e9a1d090f455fa64d2b54c5e5082dfec91471823.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_e9a1d090f455fa64d2b54c5e5082dfec91471823.600x338.jpg?t=1601950405
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_8139552f5399179ec8bc01d7a1c10a2bd456708a.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_8139552f5399179ec8bc01d7a1c10a2bd456708a.600x338.jpg?t=1601950405
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_6b603fbff02c1f824bc005a7f81dd272a5f237be.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_6b603fbff02c1f824bc005a7f81dd272a5f237be.600x338.jpg?t=1601950405
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_0e16494f1809725aac3fbd9bc410f858bc1ebf65.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_0e16494f1809725aac3fbd9bc410f858bc1ebf65.600x338.jpg?t=1601950405
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_73bca8bab79602d401afe0eab97d3f43a1945bab.1920x1080.jpg?t=1601950405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/317202/ss_73bca8bab79602d401afe0eab97d3f43a1945bab.600x338.jpg?t=1601950405
+    short_description: "The DLC package contains 2 special resource cards which can\
+      \ be redeemed for a small boost to help Harkyn get started: \u25CF Attribute\
+      \ Points Card Play this card to achieve 2 additional Attribute Points. \u25CF\
+      \ Potion Card Play this card to achieve 1 additional health potion."
+    steam_appid: 317202
+    support_info:
+      email: support@cigames.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian,
+      German<strong>*</strong>, Spanish - Spain, Czech, Japanese, Polish, Portuguese,
+      Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://lordsofthefallen.com
+  success: true
+reviews:
+  cursor: AoJwoeD+2/UCc5DirQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 6
+    total_positive: 16
+    total_reviews: 22
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 449
+      num_reviews: 496
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198068074539'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '79106307'
+    review: "DLC paketinin i\xE7erisinde Harkyn'in ba\u015Flang\u0131c\u0131na yard\u0131\
+      mc\u0131 olacak k\xFC\xE7\xFCk bir takviye kar\u015F\u0131l\u0131\u011F\u0131\
+      nda takas edilebilen 2 \xF6zel kaynak kart\u0131 bulunmaktad\u0131r:\n\u25CF\
+      \ Attribute Points Kart\u0131\n2 fazladan Attribute Points almak i\xE7in bu\
+      \ kart\u0131 oyna.\n\u25CF Potion Kart\u0131\n1 fazladan health potion almak\
+      \ i\xE7in bu kart\u0131 oyna.\nDLC kurulumu yap\u0131ld\u0131ktan sonra kaynak\
+      \ kartlar\u0131, her karakterindeki / kay\u0131tl\u0131 oyunlardaki inventory\
+      \ alan\u0131na eklenecektir. Bir kaynak kart\u0131 kullanarak ilgili kayna\u011F\
+      \u0131 \xF6d\xFCl olarak alacaks\u0131n ve kart yok olacak."
+    steam_purchase: true
+    timestamp_created: 1605109482
+    timestamp_updated: 1605109482
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

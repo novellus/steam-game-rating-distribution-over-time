@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: "The official soundtrack to Dicey Dungeons, by Chipzel.<br />\r\
+      \n<br />\r\nSoundtrack length: 1 hour, 22 minutes"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1138490/page_bg_generated_v6b.jpg?t=1581548783
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The official soundtrack to Dicey Dungeons, by Chipzel.<br\
+      \ />\r\n<br />\r\nSoundtrack length: 1 hour, 22 minutes"
+    developers:
+    - Chipzel
+    - Terry Cavanagh
+    fullgame:
+      appid: '861540'
+      name: Dicey Dungeons
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1138490/header.jpg?t=1581548783
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Dicey Dungeons - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dicey Dungeons - Soundtrack - $6.99
+        packageid: 387315
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Dicey Dungeons - Soundtrack
+    packages:
+    - 387315
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 13, 2019
+    required_age: 0
+    reviews: "\u201CThe music, by veteran chiptune composer Chipzel, is ****ing me\
+      \ up.  I think you sorta have to hear it, and luckily that\u2019s very easy\
+      \ to do.  [...] I\u2019ve never heard anything like this. I\u2019ve never even\
+      \ heard anyone attempt it.\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.penny-arcade.com/news/post/2019/08/16/gaze-ye\"\
+      \ target=\"_blank\" rel=\"noopener\"  >Penny Arcade</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1138490/ss_b626f21468fe836fa1bfa633ef73bdf78425264f.1920x1080.jpg?t=1581548783
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1138490/ss_b626f21468fe836fa1bfa633ef73bdf78425264f.600x338.jpg?t=1581548783
+    short_description: The official soundtrack to Dicey Dungeons, by Chipzel
+    steam_appid: 1138490
+    support_info:
+      email: terry@diceydungeons.com
+      url: http://www.diceydungeons.com
+    supported_languages: English
+    type: music
+    website: http://diceydungeons.com/
+  success: true
+reviews:
+  cursor: AoJ46o2v6vQCc7rPpAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 14
+    total_reviews: 14
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 620
+      num_reviews: 46
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198078470281'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '76708771'
+    review: Chipzel hits it out of the park
+    steam_purchase: true
+    timestamp_created: 1601296953
+    timestamp_updated: 1601296953
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

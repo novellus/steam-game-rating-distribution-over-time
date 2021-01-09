@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1334380/page_bg_generated_v6b.jpg?t=1591009345
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: MMO
+      id: 20
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 1
+      - 2
+      - 5
+      notes: "- Contains violence against humans and zombies, and you can hunt animals.\r\
+        \n- You can 'skin' corpses and eat the meat or use it as bait, though currently\
+        \ it's not very graphic\r\n- There is a clothing system, which means characters\
+        \ can be undressed down to their underwear.\r\n- Also a fair amount of swearing"
+    detailed_description: ''
+    developers:
+    - Bob
+    fullgame:
+      appid: '1054510'
+      name: 'Survivalist: Invisible Strain'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1334380/header.jpg?t=1591009345
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Survivalist: Invisible Strain Demo'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Ginormocorp Holdings Ltd
+    release_date:
+      coming_soon: false
+      date: Jun 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_4cb415bc75ea53ff272bb1a6c46ee98ea6b31899.1920x1080.jpg?t=1591009345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_4cb415bc75ea53ff272bb1a6c46ee98ea6b31899.600x338.jpg?t=1591009345
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_21f535f6939963726de1bd793ae77898af6df459.1920x1080.jpg?t=1591009345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_21f535f6939963726de1bd793ae77898af6df459.600x338.jpg?t=1591009345
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_6b2271d975a3c1e4e355fbcc54ea7e7eebed9666.1920x1080.jpg?t=1591009345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_6b2271d975a3c1e4e355fbcc54ea7e7eebed9666.600x338.jpg?t=1591009345
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_2224f43eeda008b5ac223d0f00c02e0cc7e34f14.1920x1080.jpg?t=1591009345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_2224f43eeda008b5ac223d0f00c02e0cc7e34f14.600x338.jpg?t=1591009345
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_eee511a776d30d86163bdba03e127443107a00e3.1920x1080.jpg?t=1591009345
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1334380/ss_eee511a776d30d86163bdba03e127443107a00e3.600x338.jpg?t=1591009345
+    short_description: ''
+    steam_appid: 1334380
+    support_info:
+      email: survivalist.game@gmail.com
+      url: http://survivalistgame.blogspot.com/
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: Carefully crafted to evoke a myriad of pleasant emotions, the
+      inspiring instrumentals from The Pedestrian Soundtrack will take you on a journey
+      into your imagination. Wander through an ethereal flow of whimsy, an enchanting
+      glide of musing and a lively dance of classical jazz in this epic musical experience.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1236790/page_bg_generated_v6b.jpg?t=1581625284
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Carefully crafted to evoke a myriad of pleasant emotions,
+      the inspiring instrumentals from The Pedestrian Soundtrack will take you on
+      a journey into your imagination. Wander through an ethereal flow of whimsy,
+      an enchanting glide of musing and a lively dance of classical jazz in this epic
+      musical experience.
+    developers:
+    - Logan Hayes
+    fullgame:
+      appid: '466630'
+      name: The Pedestrian
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1236790/header.jpg?t=1581625284
+    is_free: false
+    legal_notice: 2020 Skookum Arts LLC
+    linux_requirements: []
+    mac_requirements: []
+    name: The Pedestrian Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Pedestrian Soundtrack - $4.99
+        packageid: 429013
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy The Pedestrian Soundtrack
+    packages:
+    - 429013
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        101 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 549 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Skookum Arts
+    release_date:
+      coming_soon: false
+      date: Feb 11, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1236790/ss_85e634de57c910a1131d1e79fef5e9e1a556f3ee.1920x1080.jpg?t=1581625284
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1236790/ss_85e634de57c910a1131d1e79fef5e9e1a556f3ee.600x338.jpg?t=1581625284
+    short_description: The inspiring instrumentals from The Pedestrian Soundtrack
+      will take you on a journey into your imagination.
+    steam_appid: 1236790
+    support_info:
+      email: ''
+      url: https://skookum-arts.com/contact
+    supported_languages: English
+    type: music
+    website: https://skookum-arts.com
+  success: true
+reviews:
+  cursor: AoJwi9bJofACed2T8gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1419
+      num_reviews: 26
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197969660483'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '63479257'
+    review: Such beautiful sounds <3
+    steam_purchase: true
+    timestamp_created: 1581674574
+    timestamp_updated: 1581674574
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.578108847141265869'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,52 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Nyanco Channel
+    fullgame:
+      appid: '1257670'
+      name: Nyanco Space
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1506500/header.jpg?t=1608876030
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Nyanco Space Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Nyanco Channel
+    release_date:
+      coming_soon: false
+      date: Dec 24, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1506500
+    support_info:
+      email: ''
+      url: https://store.steampowered.com/curator/33855818-Nyanco-Channel/
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

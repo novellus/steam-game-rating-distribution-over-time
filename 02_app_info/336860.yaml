@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/336860/page_bg_generated_v6b.jpg?t=1581373257
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - SITER SKAIN
+    fullgame:
+      appid: '283840'
+      name: ALLTYNEX Second
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/336860/header.jpg?t=1581373257
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: ALLTYNEX Second Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ALLTYNEX Second Original Soundtrack - $7.99
+        packageid: 55898
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ALLTYNEX Second Deluxe Edition - $11.99
+        packageid: 56119
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1199
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Tale of ALLTYNEX Deluxe Edition - $29.99
+        packageid: 56116
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy ALLTYNEX Second Original Soundtrack
+    packages:
+    - 55898
+    - 56119
+    - 56116
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Microsoft Windows 2000 / XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong>
+        Intel Pentium4 1.4GHz or better<br></li><li><strong>Memory:</strong> 128 MB
+        RAM<br></li><li><strong>Graphics:</strong> DirectX 8.1 or above and Direct3D
+        with 64MB or more of VRAM<br></li><li><strong>Storage:</strong> 200 MB available
+        space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible Sound
+        Card</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Nyu Media
+    release_date:
+      coming_soon: false
+      date: Dec 11, 2014
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/336860/ss_d7a3641e88c6b1fba9a4616c33bb7012d16b1be7.1920x1080.jpg?t=1581373257
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/336860/ss_d7a3641e88c6b1fba9a4616c33bb7012d16b1be7.600x338.jpg?t=1581373257
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/336860/ss_3795201764e4420622345a78fecd8234e758e4c5.1920x1080.jpg?t=1581373257
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/336860/ss_3795201764e4420622345a78fecd8234e758e4c5.600x338.jpg?t=1581373257
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/336860/ss_a3d95774f0173d5acae52e03080ceca7fc64a3ef.1920x1080.jpg?t=1581373257
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/336860/ss_a3d95774f0173d5acae52e03080ceca7fc64a3ef.600x338.jpg?t=1581373257
+    short_description: ''
+    steam_appid: 336860
+    support_info:
+      email: info@nyu-media.com
+      url: http://nyu-media.com
+    supported_languages: English
+    type: dlc
+    website: https://www.nyu-media.com/alltynex-second
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,199 @@
+details:
+  data:
+    about_the_game: 'Go Greek with a set of fratboy and sorority girl outfits, and
+      be the life of the party with not one but two classic college traditions: the
+      beer helmet and a bra hat. Also includes Shayne''s Barstool Racer.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/247309/page_bg_generated_v6b.jpg?t=1479287683
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Co-op
+      id: 9
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 5
+      notes: null
+    controller_support: full
+    detailed_description: 'Go Greek with a set of fratboy and sorority girl outfits,
+      and be the life of the party with not one but two classic college traditions:
+      the beer helmet and a bra hat. Also includes Shayne''s Barstool Racer.'
+    developers:
+    - Deep Silver Volition
+    fullgame:
+      appid: '206420'
+      name: Saints Row IV
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/247309/header.jpg?t=1479287683
+    is_free: false
+    legal_notice: "\xA9 2013 by Koch Media GmbH, Gewerbegebiet 1, 6604 H\xF6fen, Austria.\
+      \ Deep Silver is a division of Koch Media GmbH.<br />\r\nDeveloped by Deep Silver\
+      \ Volition, LLC. Saints Row, Deep Silver and their respective logos are trademarks\
+      \ of Koch Media. <br />\r\nAll other trademarks, logos and copyrights are property\
+      \ of their respective owners. All rights reserved."
+    linux_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04.3 LTS or SteamOS Brewmaster<br></li><li><strong>Processor:</strong>
+        Intel Core i3-2100 (3.1 GHz) or AMD Athlon II X4 645 AM3 (3.1 GHz)<br></li><li><strong>Memory:</strong>
+        4096 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 440 (1024 MB)
+        or Radeon HD 6670 (1024 MB)<br></li><li><strong>Additional Notes:</strong>
+        Recommended Graphics Drivers: Nvidia: 352, 355 or 358 series driver / AMD:
+        AMD Catalyst (fglrx) 15.9 or better. MESA drivers and Intel Graphics are not
+        currently supported.</li></ul>'
+      recommended: '<strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04.3 LTS or SteamOS Brewmaster<br></li><li><strong>Processor:</strong>
+        Intel Core i5-2500K (3.3 GHz) or AMD FX-4300 (3.8 GHz)<br></li><li><strong>Memory:</strong>
+        8192 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 (2048 MB)
+        or Radeon HD 6970 (2048 MB)<br></li><li><strong>Additional Notes:</strong>
+        Recommended Graphics Drivers: Nvidia: 352, 355 or 358 series driver / AMD:
+        AMD Catalyst (fglrx) 15.9 or better. MESA drivers and Intel Graphics are not
+        currently supported.</li></ul>'
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 2030923
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2030923/movie480.mp4?t=1447360377
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2030923/movie_max.mp4?t=1447360377
+      name: College Daze Pack Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2030923/movie.293x165.jpg?t=1447360377
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/2030923/movie480.webm?t=1447360377
+        max: http://steamcdn-a.akamaihd.net/steam/apps/2030923/movie_max.webm?t=1447360377
+    name: Saints Row IV - College Daze Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Saints Row IV - College Daze - $1.99
+        packageid: 37698
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Saints Row IV Game of the Century Upgrade Pack - $4.99
+        packageid: 47503
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Saints Row IV: Game of the Century Edition - $19.99'
+        packageid: 47804
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Saints Row IV - College Daze Pack
+    packages:
+    - 37698
+    - 47503
+    - 47804
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista (x86 or x64)<br></li><li><strong>Processor:</strong> Intel Core
+        2 Quad Q6600 | AMD Athlon II x3<br></li><li><strong>Memory:</strong> 4 GB
+        RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 260 | AMD Radeon HD
+        5800 series<br></li><li><strong>DirectX:</strong> Version 10</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 (x86 or x64), Windows 8 compatible<br></li><li><strong>Processor:</strong>
+        Intel i3 2100T | AMD Phenom II x4 or higher<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 560 | AMD Radeon
+        HD 6800 series or higher<br></li><li><strong>DirectX:</strong> Version 11</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - 'Deep Silver '
+    release_date:
+      coming_soon: false
+      date: Feb 5, 2014
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_ac5f6fc75c31f949f2f33819758b2182fdcc6eb4.1920x1080.jpg?t=1479287683
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_ac5f6fc75c31f949f2f33819758b2182fdcc6eb4.600x338.jpg?t=1479287683
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_64547cfe484373bc723ba61f8b8ea958b7dded9d.1920x1080.jpg?t=1479287683
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_64547cfe484373bc723ba61f8b8ea958b7dded9d.600x338.jpg?t=1479287683
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_d18ee67c3bdac0b7a9891291c63b2a606a56423b.1920x1080.jpg?t=1479287683
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_d18ee67c3bdac0b7a9891291c63b2a606a56423b.600x338.jpg?t=1479287683
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_5d4604b94a1f20bac26f9b5cf262666e5a757d41.1920x1080.jpg?t=1479287683
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/247309/ss_5d4604b94a1f20bac26f9b5cf262666e5a757d41.600x338.jpg?t=1479287683
+    short_description: 'Go Greek with a set of fratboy and sorority girl outfits,
+      and be the life of the party with not one but two classic college traditions:
+      the beer helmet and a bra hat. Also includes Shayne''s Barstool Racer.'
+    steam_appid: 247309
+    support_info:
+      email: info@deepsilver.com
+      url: http://www.deepsilver.com/us/support/
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Polish, Russian, Japanese<br><strong>*</strong>languages with full
+      audio support
+    type: dlc
+    website: http://www.saintsrow.com
+  success: true
+reviews:
+  cursor: AoJ4pYjl4/YCfO6BwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 11
+    total_positive: 37
+    total_reviews: 48
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 400
+      num_reviews: 400
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198321405853'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '83889900'
+    review: "\u041F\u0430\u043A \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\
+      \u0433\u043E \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044F.\n"
+    steam_purchase: true
+    timestamp_created: 1609666151
+    timestamp_updated: 1609666151
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

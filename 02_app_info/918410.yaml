@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: "This DLC includes unused track of CUBE XL.<br />\r\n<br />\r\n\
+      Includes:<br />\r\n&quot;Get Ready&quot; (.wav)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/918410/page_bg_generated_v6b.jpg?t=1535460540
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC includes unused track of CUBE XL.<br />\r\n<br\
+      \ />\r\nIncludes:<br />\r\n&quot;Get Ready&quot; (.wav)"
+    developers:
+    - Timberwolf Studios
+    fullgame:
+      appid: '645360'
+      name: Cube XL
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/918410/header.jpg?t=1535460540
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Cube XL - Unused Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cube XL - Unused Soundtrack - $0.99
+        packageid: 295320
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Cube XL - Unused Soundtrack
+    packages:
+    - 295320
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows<br></li><li><strong>Processor:</strong> Intel Core Duo<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB Video card<br></li><li><strong>DirectX:</strong>
+        Version 8.0<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX - Compatible</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Timberwolf Studios
+    release_date:
+      coming_soon: false
+      date: Aug 28, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/918410/ss_5b5db7230eaddc00f0c82f5a74ab447beec6a8a1.1920x1080.jpg?t=1535460540
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/918410/ss_5b5db7230eaddc00f0c82f5a74ab447beec6a8a1.600x338.jpg?t=1535460540
+    short_description: This DLC includes unused track of CUBE XL.
+    steam_appid: 918410
+    support_info:
+      email: info@timberwolfgames.com
+      url: https://twitter.com/studiotimberwlf
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

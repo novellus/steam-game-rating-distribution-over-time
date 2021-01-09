@@ -1,0 +1,188 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/374390/extras/version_deluxe.png?t=1573514494"
+      /><br>The Deluxe Edition of Call to Arms includes the following bonus content:<br><br><ul
+      class="bb_ul"><li>The Allied Army DLC, including two minor factions and a GRM
+      singleplayer campaign<br></li><li>A clan tag item<br></li><li>Exclusive squad
+      logo items<br></li><li>Emoticon items for the in-game chat<br></li><li>A slight
+      XP boost to speed up your progress in the leaderboards<br></li><li>An outstanding
+      HUD element visible while playing and recording matches</li></ul><br><img src="https://steamcdn-a.akamaihd.net/steam/apps/374390/extras/chart_versions.png?t=1573514494"
+      />
+    background: https://steamcdn-a.akamaihd.net/steam/apps/374390/page_bg_generated_v6b.jpg?t=1573514494
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Workshop
+      id: 30
+    - description: In-App Purchases
+      id: 35
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/374390/extras/version_deluxe.png?t=1573514494"
+      /><br>The Deluxe Edition of Call to Arms includes the following bonus content:<br><br><ul
+      class="bb_ul"><li>The Allied Army DLC, including two minor factions and a GRM
+      singleplayer campaign<br></li><li>A clan tag item<br></li><li>Exclusive squad
+      logo items<br></li><li>Emoticon items for the in-game chat<br></li><li>A slight
+      XP boost to speed up your progress in the leaderboards<br></li><li>An outstanding
+      HUD element visible while playing and recording matches</li></ul><br><img src="https://steamcdn-a.akamaihd.net/steam/apps/374390/extras/chart_versions.png?t=1573514494"
+      />
+    developers:
+    - Digitalmindsoft
+    fullgame:
+      appid: '302670'
+      name: Call to Arms
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/374390/header.jpg?t=1573514494
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Call to Arms - Deluxe Edition upgrade
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Call to Arms - Deluxe Edition upgrade - $14.99
+        packageid: 69072
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Call to Arms - Deluxe Edition - $24.99
+        packageid: 71635
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Call to Arms - Upgrade to Ultimate Edition - $39.99
+        packageid: 189208
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3999
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Call to Arms - Ultimate Edition - $49.99
+        packageid: 137245
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 4999
+      title: Buy Call to Arms - Deluxe Edition upgrade
+    packages:
+    - 69072
+    - 71635
+    - 189208
+    - 137245
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        64bit - Windows 7, 8, 10<br></li><li><strong>Storage:</strong> 500 MB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Digitalmindsoft
+    release_date:
+      coming_soon: false
+      date: Jul 30, 2015
+    required_age: '16'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/374390/ss_2fb928b4f7dcc720426aba267e475e2144912b5a.1920x1080.jpg?t=1573514494
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/374390/ss_2fb928b4f7dcc720426aba267e475e2144912b5a.600x338.jpg?t=1573514494
+    short_description: The Deluxe Edition of Call to Arms includes lots of bonus content!
+    steam_appid: 374390
+    support_info:
+      email: info@digitalmindsoft.eu
+      url: http://digitalmindsoft.eu/about-us/contact
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Russian, Simplified Chinese<br><strong>*</strong>languages with full
+      audio support
+    type: dlc
+    website: http://digitalmindsoft.eu/products/call-to-arms
+  success: true
+reviews:
+  cursor: AoJwttapy/YCf/DwvAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 16
+    total_positive: 56
+    total_reviews: 72
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 284
+      num_reviews: 43
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198119528816'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83068687'
+    review: dont have access to Germany or Russia even though it explicitly says that
+      this includes it
+    steam_purchase: true
+    timestamp_created: 1608845276
+    timestamp_updated: 1608845276
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.428134560585021973'
+    written_during_early_access: false
+  success: 1

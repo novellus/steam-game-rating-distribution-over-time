@@ -1,0 +1,228 @@
+details:
+  data:
+    about_the_game: "PAY ATTENTION, HOMINID! The Icarus Program is looking for new\
+      \ pilots. Sign up and be the first one to master our experimental flying suit.<br\
+      \ />\r\nOur engineers have designed more than 100 simulations to test your flying\
+      \ skills, your logical-deductive reasoning abilities, and your suicidal tendencies\
+      \ as well.<br />\r\n<br />\r\nThe Icarus Program only chooses the best of the\
+      \ best. Are you the best of the best?<br />\r\n<br />\r\nIf you are willing\
+      \ to become a candidate, send us an abundant DNA sample and buy this game. This\
+      \ will be the first step of a nurturing training process you shall never forget."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/639280/page_bg_generated_v6b.jpg?t=1535550955
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "PAY ATTENTION, HOMINID! The Icarus Program is looking for\
+      \ new pilots. Sign up and be the first one to master our experimental flying\
+      \ suit.<br />\r\nOur engineers have designed more than 100 simulations to test\
+      \ your flying skills, your logical-deductive reasoning abilities, and your suicidal\
+      \ tendencies as well.<br />\r\n<br />\r\nThe Icarus Program only chooses the\
+      \ best of the best. Are you the best of the best?<br />\r\n<br />\r\nIf you\
+      \ are willing to become a candidate, send us an abundant DNA sample and buy\
+      \ this game. This will be the first step of a nurturing training process you\
+      \ shall never forget."
+    developers:
+    - Ivanovich Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/639280/header.jpg?t=1535550955
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256687686
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256687686/movie480.mp4?t=1497637227
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256687686/movie_max.mp4?t=1497637227
+      name: Lander 8009 teaser
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256687686/movie.293x165.jpg?t=1497637227
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256687686/movie480.webm?t=1497637227
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256687686/movie_max.webm?t=1497637227
+    - highlight: true
+      id: 256687356
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256687356/movie480.mp4?t=1497603842
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256687356/movie_max.mp4?t=1497603842
+      name: Lander 8009 trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256687356/movie.293x165.jpg?t=1497603842
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256687356/movie480.webm?t=1497603842
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256687356/movie_max.webm?t=1497603842
+    name: Lander 8009 VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lander 8009 VR - $14.99
+        packageid: 176997
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Lander 8009 VR
+    - description: To be billed on a recurring basis.
+      display_type: '1'
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $19.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$19.99 at checkout,
+          auto-renewed every 1 month(s) at $19.99.</p>
+        option_text: $19.99 / month
+        packageid: 187800
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy Lander 8009 VR Subscription Plan
+    packages:
+    - 176997
+    - 187800
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1 or newer<br></li><li><strong>Processor:</strong> Intel Core i5 4590 or
+        AMD FX 8350 or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 970/AMD Radeon R9 290 equivalent or greater<br></li><li><strong>Storage:</strong>
+        2 GB available space<br></li><li><strong>Sound Card:</strong> Windows Compatible
+        Sound Card<br></li><li><strong>Additional Notes:</strong> HTC-Vive or OCULUS
+        with Oculus touch required</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel Core i5 4590
+        or AMD FX 8350 or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 970/AMD Radeon R9 290 equivalent or greater<br></li><li><strong>Storage:</strong>
+        2 GB available space<br></li><li><strong>Sound Card:</strong> Windows Compatible
+        Sound Card<br></li><li><strong>Additional Notes:</strong> HTC-Vive or OCULUS
+        with Oculus touch required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Ivanovich Games
+    release_date:
+      coming_soon: false
+      date: Jun 16, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_cb3023dc800dd76e29b71055ddf2f2d8ba407356.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_cb3023dc800dd76e29b71055ddf2f2d8ba407356.600x338.jpg?t=1535550955
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_0af618d5beaa19be090dc201707f581ff55aff33.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_0af618d5beaa19be090dc201707f581ff55aff33.600x338.jpg?t=1535550955
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_c43efbfae3b3e018f06b49a7ff9d9c54201c16b8.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_c43efbfae3b3e018f06b49a7ff9d9c54201c16b8.600x338.jpg?t=1535550955
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_37c6ad69e57613999f67ceea630a4f76e8820590.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_37c6ad69e57613999f67ceea630a4f76e8820590.600x338.jpg?t=1535550955
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_73f6142f127e95753d9b8e066e9905530d1cbeb8.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_73f6142f127e95753d9b8e066e9905530d1cbeb8.600x338.jpg?t=1535550955
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_a29575b0ca54bbf70aa160d3c40fe86e494d36a6.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_a29575b0ca54bbf70aa160d3c40fe86e494d36a6.600x338.jpg?t=1535550955
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_46f05619736cb81060e46caffc0ddd3e9d94664d.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_46f05619736cb81060e46caffc0ddd3e9d94664d.600x338.jpg?t=1535550955
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_a533722f14224765ceac73e1bc7aef5324196a94.1920x1080.jpg?t=1535550955
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/639280/ss_a533722f14224765ceac73e1bc7aef5324196a94.600x338.jpg?t=1535550955
+    short_description: The high tech armoured suit VR flight simulator where you flight
+      using the power contained in your gloves
+    steam_appid: 639280
+    support_info:
+      email: support@ivanovichgames.com
+      url: http://www.ivanovichgames.com/web/contact/
+    supported_languages: English<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.ivanovichgames.com
+  success: true
+reviews:
+  cursor: AoJwqYG+nvUCeJrYqAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 3
+    total_positive: 8
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 1605252261
+      num_games_owned: 11
+      num_reviews: 1
+      playtime_at_review: 53
+      playtime_forever: 89
+      playtime_last_two_weeks: 0
+      steamid: '76561199084427397'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '77775272'
+    review: 'I really like this game, and found it quite addictive. The text-to-speech
+      voices are a little weird and might hopefully be replaced with voice actors
+      in the final version, but I thought that the robotic delivery actually helped
+      with the dry comedy.
+
+
+      The physics of the flying feel very intuitive from the start, and the levels
+      get more challenging quickly enough. But the humor in the writing is what I
+      enjoyed most. I rarely laugh out loud during games, but this one actually had
+      me laughing quite a bit at the remarks of the snarky robot instructor. You''ll
+      know which one I mean.'
+    steam_purchase: true
+    timestamp_created: 1603045690
+    timestamp_updated: 1603045690
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

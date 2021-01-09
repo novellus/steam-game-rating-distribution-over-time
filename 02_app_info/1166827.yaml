@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: Ferris Wheel ride for Epic Fun.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1166827/page_bg_generated_v6b.jpg?t=1573027864
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: In-App Purchases
+      id: 35
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Ferris Wheel ride for Epic Fun.
+    developers:
+    - B4T Games
+    fullgame:
+      appid: '909100'
+      name: Epic Fun
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1166827/header.jpg?t=1573027864
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Epic Fun - Kraken Eye
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Epic Fun - Kraken Eye - $2.99
+        packageid: 398642
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Epic Fun - Kraken Eye
+    packages:
+    - 398642
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        Core i5- 4590 equivalent or greater<br></li><li><strong>Memory:</strong> 8
+        GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or greater<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 (64bit) or higher<br></li><li><strong>Processor:</strong> Intel
+        i5- 4590 equivalent or greater.<br></li><li><strong>Memory:</strong> 8 GB
+        RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 AMD Radeon RX 480
+        (equivalent or better)<br></li><li><strong>Storage:</strong> 40 MB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - B4T Games
+    release_date:
+      coming_soon: false
+      date: Nov 6, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1166827/ss_40acb865a2267303d1e57d851cf0491e4389866b.1920x1080.jpg?t=1573027864
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1166827/ss_40acb865a2267303d1e57d851cf0491e4389866b.600x338.jpg?t=1573027864
+    short_description: Ferris Wheel ride for Epic Fun.
+    steam_appid: 1166827
+    support_info:
+      email: contact@b4t.games
+      url: http://b4t.games
+    supported_languages: English, Portuguese - Brazil
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

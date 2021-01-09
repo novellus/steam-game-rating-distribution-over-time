@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: "The soundtrack for Three Digits. Includes three calm, soothing\
+      \ songs.<br />\r\n<br />\r\nTracklist:<br />\r\nSong 1<br />\r\nSong 2<br />\r\
+      \nSong 3"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/394400/page_bg_generated_v6b.jpg?t=1447377536
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The soundtrack for Three Digits. Includes three calm, soothing\
+      \ songs.<br />\r\n<br />\r\nTracklist:<br />\r\nSong 1<br />\r\nSong 2<br />\r\
+      \nSong 3"
+    developers:
+    - Cleverweek
+    fullgame:
+      appid: '390570'
+      name: Three Digits
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/394400/header.jpg?t=1447377536
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    name: Three Digits - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Three Digits - Soundtrack - $0.99
+        packageid: 75661
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Equal Sums Complete Collection - $3.99
+        packageid: 87558
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Three Digits - Soundtrack
+    packages:
+    - 75661
+    - 87558
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 14, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/394400/ss_dcb1b1805fc7fc43a99c8b09706fd6f6f4adc118.1920x1080.jpg?t=1447377536
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/394400/ss_dcb1b1805fc7fc43a99c8b09706fd6f6f4adc118.600x338.jpg?t=1447377536
+    short_description: The soundtrack for Three Digits. Includes three calm, soothing
+      songs in high quality .wav format.
+    steam_appid: 394400
+    support_info:
+      email: support@cleverweek.com
+      url: http://www.cleverweek.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.cleverweek.com
+  success: true
+reviews:
+  cursor: AoJworCygfICeKGAhwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 2
+    total_positive: 3
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1458
+      num_reviews: 229
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197988033557'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '68944408'
+    review: I just didn't enjoy it, sorry
+    steam_purchase: true
+    timestamp_created: 1589184660
+    timestamp_updated: 1589184660
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

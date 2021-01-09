@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: "This GUI includes all the basic toggle switch elements for the\
+      \ game interface in this genre,<br />\r\nYou can use these as buttons, also\
+      \ you can customize your favorite color.<br />\r\n<br />\r\nFeatures:<br />\r\
+      \n- PNG files<br />\r\n- PSD files<br />\r\n- 384 icons;<br />\r\n- 1 Sprite\
+      \ Sheet"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1347370/page_bg_generated_v6b.jpg?t=1591928397
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This GUI includes all the basic toggle switch elements\
+      \ for the game interface in this genre,<br />\r\nYou can use these as buttons,\
+      \ also you can customize your favorite color.<br />\r\n<br />\r\nFeatures:<br\
+      \ />\r\n- PNG files<br />\r\n- PSD files<br />\r\n- 384 icons;<br />\r\n- 1\
+      \ Sprite Sheet"
+    developers:
+    - TigerQiuQiu
+    fullgame:
+      appid: '1326710'
+      name: TIGER GAME ASSETS
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Education
+      id: '54'
+    - description: Photo Editing
+      id: '55'
+    - description: Software Training
+      id: '56'
+    - description: Video Production
+      id: '58'
+    - description: Web Publishing
+      id: '59'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1347370/header.jpg?t=1591928397
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: TIGER GAME ASSETS TOGGLE SWITCH
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: TIGER GAME ASSETS TOGGLE SWITCH - $0.99
+        packageid: 471182
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy TIGER GAME ASSETS TOGGLE SWITCH
+    packages:
+    - 471182
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Microsoft\xAE Windows\xAE XP / Vista / 7 / 8 or later<br></li><li><strong>Processor:</strong>\
+        \ Intel Core 2 Duo 2GHz+ or better<br></li><li><strong>Memory:</strong> 512\
+        \ MB RAM<br></li><li><strong>Graphics:</strong> Onboard<br></li><li><strong>Storage:</strong>\
+        \ 512 MB available space<br></li><li><strong>Sound Card:</strong> Onboard</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - TigerQiuQiu
+    release_date:
+      coming_soon: false
+      date: Jun 11, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1347370/ss_2461b8e21aea9e4d8e48358d3a6948abfd0bbba9.1920x1080.jpg?t=1591928397
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1347370/ss_2461b8e21aea9e4d8e48358d3a6948abfd0bbba9.600x338.jpg?t=1591928397
+    short_description: This GUI includes all the basic toggle switch elements for
+      the game interface in this genre, You can use these as buttons, also you can
+      customize your favorite color.
+    steam_appid: 1347370
+    support_info:
+      email: fuxiyan@tigerqiuqiu.com
+      url: https://www.tigerqiuqiu.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

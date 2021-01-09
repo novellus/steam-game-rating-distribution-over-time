@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: A high-resolution image of the <i>entire</i> layout of <i>Meanwhile</i>.
+      The image is 8640x8640 pixels, available in both JPEG and PNG format. (That's
+      nearly 5 feet square if printed at 150 dpi.)<br><br>Browse the story of <i>Meanwhile</i>
+      as arranged by the author for this app!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/777230/page_bg_generated_v6b.jpg?t=1516204410
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: A high-resolution image of the <i>entire</i> layout of <i>Meanwhile</i>.
+      The image is 8640x8640 pixels, available in both JPEG and PNG format. (That's
+      nearly 5 feet square if printed at 150 dpi.)<br><br>Browse the story of <i>Meanwhile</i>
+      as arranged by the author for this app!
+    developers:
+    - Zarfhome Software
+    fullgame:
+      appid: '714980'
+      name: 'Meanwhile: An Interactive Comic Book'
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/777230/header.jpg?t=1516204410
+    is_free: false
+    legal_notice: '<strong>Meanwhile: An Interactive Comic Book</strong> app copyright
+      2011-2018 by Zarfhome Software Consulting, LLC. <strong>Meanwhile</strong> text
+      and illustrations copyright 2001-2012 by Jason Shiga. <strong>Meanwhile</strong>
+      is published by Amulet Books, an imprint of Abrams Books. <strong>Meanwhile:
+      An Interactive Comic Book</strong> was created by Andrew Plotkin and Jason Shiga,
+      who are solely responsible for its content.'
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        any</li></ul>
+    name: Meanwhile - Bonus Poster Art
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Meanwhile - Bonus Poster Art - $2.99
+        packageid: 233595
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Meanwhile - Bonus Poster Art
+    packages:
+    - 233595
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 17, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/777230/ss_35749ebdaf1bfdf454bc3c6ab93332bb4df07c42.1920x1080.jpg?t=1516204410
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/777230/ss_35749ebdaf1bfdf454bc3c6ab93332bb4df07c42.600x338.jpg?t=1516204410
+    short_description: A high-resolution image of the entire layout of Meanwhile.
+    steam_appid: 777230
+    support_info:
+      email: support@zarfhome.com
+      url: http://zarfhome.com/support.html
+    supported_languages: English
+    type: dlc
+    website: http://zarfhome.com/meanwhile/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

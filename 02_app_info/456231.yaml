@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: The Utility Module DLC adds advanced modeling options to enhance
+      your workflow.<br><br><ul class="bb_ul"><li>Generate random terrain with the
+      flexible landscape generator <br></li><li>Import custom height maps and matching
+      textures created by tools like Terragen<br></li><li>Unlock Compounds to manage
+      big models with object hierarchies</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/456231/page_bg_generated_v6b.jpg?t=1478610027
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Utility Module DLC adds advanced modeling options to
+      enhance your workflow.<br><br><ul class="bb_ul"><li>Generate random terrain
+      with the flexible landscape generator <br></li><li>Import custom height maps
+      and matching textures created by tools like Terragen<br></li><li>Unlock Compounds
+      to manage big models with object hierarchies</li></ul>
+    developers:
+    - Minddesk Software GmbH
+    fullgame:
+      appid: '454550'
+      name: Qubicle Voxel Editor
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/456231/header.jpg?t=1478610027
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X Lion 10.7.5<br></li><li><strong>Processor:</strong> Intel based<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    name: Qubicle Utility Module
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Qubicle Utility Module - $0.99
+        packageid: 98826
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Qubicle Utility Module
+    packages:
+    - 98826
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Open GL 3.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 21, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/456231/ss_297d67de2aa5059e934f842a3b2aaa48253c2e5b.1920x1080.jpg?t=1478610027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/456231/ss_297d67de2aa5059e934f842a3b2aaa48253c2e5b.600x338.jpg?t=1478610027
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/456231/ss_d4f6ccb0f26ea7de8a0d3b34e6dd9dac2cb629dc.1920x1080.jpg?t=1478610027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/456231/ss_d4f6ccb0f26ea7de8a0d3b34e6dd9dac2cb629dc.600x338.jpg?t=1478610027
+    short_description: The Utility Module DLC adds advanced modeling options to enhance
+      your workflow.
+    steam_appid: 456231
+    support_info:
+      email: ''
+      url: http://www.getqubicle.com/support
+    supported_languages: English
+    type: dlc
+    website: http://www.getqubicle.com
+  success: true
+reviews:
+  cursor: AoJ44fjawdQCf5mGVw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 28
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198074350098'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '22819231'
+    review: muito util
+    steam_purchase: true
+    timestamp_created: 1462493759
+    timestamp_updated: 1462493759
+    voted_up: true
+    votes_funny: 1
+    votes_up: 1
+    weighted_vote_score: '0.501661121845245361'
+    written_during_early_access: false
+  success: 1

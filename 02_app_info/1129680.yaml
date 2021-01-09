@@ -1,0 +1,184 @@
+details:
+  data:
+    about_the_game: "GraFi 3 - casual, colorful,minimalist, physical puzzle with traps\
+      \ and changing gravity.<br />\r\nPlayer goal is to relocate blue coin, using\
+      \ only the change of gravity, on the blue rock and keep for some time to pass\
+      \ the level.<br />\r\n<br />\r\nIn GraFi 3:<br />\r\n<br />\r\n- Traps<br />\r\
+      \n- Changing gravity<br />\r\n- Cool Soundtrack<br />\r\n- Achievements<br />\r\
+      \n- Colorful art<br />\r\n- Treadmills<br />\r\n- 50 levels"
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/c68445f3ccea323fdb04e8b94c50f09542fb5761.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/77908f9d9d923db5b48ca8212e38c26e1af2515c.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/f994113ac56565c35fc5a1686cb7c9617497dbd3.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/4a6b71eb02e295eeb9b6a5d973369fe74078dcd4.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/e3f49d50a8ba00b8fdda94ebb25927db6c2f6fe4.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/bec0723b9bce60953fc581d05e7ebd479329ce0b.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/b7308a37f6339fced58b7bb1584bdcb167358425.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/ca7ad2a05014efee5aeeaea19454b504568145da.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/e2aecd42032613a4784c487bd3f0c122f3558842.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1129680/7d2ef6d4485c1f0e80ced0e9afc78ccc99f05854.jpg
+      total: 100
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1129680/page_bg_generated_v6b.jpg?t=1582043583
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "GraFi 3 - casual, colorful,minimalist, physical puzzle\
+      \ with traps and changing gravity.<br />\r\nPlayer goal is to relocate blue\
+      \ coin, using only the change of gravity, on the blue rock and keep for some\
+      \ time to pass the level.<br />\r\n<br />\r\nIn GraFi 3:<br />\r\n<br />\r\n\
+      - Traps<br />\r\n- Changing gravity<br />\r\n- Cool Soundtrack<br />\r\n- Achievements<br\
+      \ />\r\n- Colorful art<br />\r\n- Treadmills<br />\r\n- 50 levels"
+    developers:
+    - Blender Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1129680/header.jpg?t=1582043583
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256757296
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757296/movie480.mp4?t=1564219970
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757296/movie_max.mp4?t=1564219970
+      name: GraFi 3 Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256757296/movie.293x165.jpg?t=1564219970
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757296/movie480.webm?t=1564219970
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757296/movie_max.webm?t=1564219970
+    name: GraFi 3
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: GraFi 3 - $1.99
+        packageid: 383940
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy GraFi 3
+    packages:
+    - 383940
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8.1, 10<br></li><li><strong>Processor:</strong> Intel or AMD 2
+        GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Blender Games
+    release_date:
+      coming_soon: false
+      date: Aug 10, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_7853d0e18ae523bee6107667ca76e099bc86b168.1920x1080.jpg?t=1582043583
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_7853d0e18ae523bee6107667ca76e099bc86b168.600x338.jpg?t=1582043583
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_9d03a8254703b2b0e0b2615fdb8c9a002dcd4213.1920x1080.jpg?t=1582043583
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_9d03a8254703b2b0e0b2615fdb8c9a002dcd4213.600x338.jpg?t=1582043583
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_8ffe8bc272157aad5f16325535d4764974196677.1920x1080.jpg?t=1582043583
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_8ffe8bc272157aad5f16325535d4764974196677.600x338.jpg?t=1582043583
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_2a49330f102f565409f220eb1734000c9abcfa18.1920x1080.jpg?t=1582043583
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_2a49330f102f565409f220eb1734000c9abcfa18.600x338.jpg?t=1582043583
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_bb3dd14c1da38f050858d78d0320ecd5fd539f4c.1920x1080.jpg?t=1582043583
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1129680/ss_bb3dd14c1da38f050858d78d0320ecd5fd539f4c.600x338.jpg?t=1582043583
+    short_description: GraFi 3 - casual, colorful,minimalist, physical puzzle with
+      traps and changing gravity.
+    steam_appid: 1129680
+    support_info:
+      email: blendergamez@gmail.com
+      url: https://store.steampowered.com/app/1129680
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Bulgarian<strong>*</strong>,
+      Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>,
+      Greek<strong>*</strong>, Danish<strong>*</strong>, Spanish - Latin America<strong>*</strong>,
+      Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>,
+      Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>,
+      Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>,
+      Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>,
+      Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>,
+      Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4q+m8wvQCds+6oQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 2
+    total_positive: 6
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 1599954530
+      num_games_owned: 143
+      num_reviews: 111
+      playtime_at_review: 67
+      playtime_forever: 67
+      playtime_last_two_weeks: 0
+      steamid: '76561198090249095'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75879670'
+    review: It's nice; liked the newly-added conveyor belt game mechanics, too. At
+      least I was able to actually complete this game (unlike Data Mining) but I wish
+      it would count towards the "Perfect Games" on my Achievement Showcase; you guys
+      at Blender Games ought to have fixed this problem by now...or at least bothered
+      to try. {:\
+    steam_purchase: true
+    timestamp_created: 1599958371
+    timestamp_updated: 1599958371
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

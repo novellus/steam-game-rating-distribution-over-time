@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: This arrangement of DoDonPachi Resurrection's tunes was performed
+      by RESONATOR (a duo comprised of Kohta Takahashi and Kenji Ito) brings Takahashi's
+      own unique soundscape to bare on the tunes of Dodonpachi Resurrection.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/550381/page_bg_generated_v6b.jpg?t=1586399025
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: This arrangement of DoDonPachi Resurrection's tunes was
+      performed by RESONATOR (a duo comprised of Kohta Takahashi and Kenji Ito) brings
+      Takahashi's own unique soundscape to bare on the tunes of Dodonpachi Resurrection.
+    developers:
+    - CAVE Interactive CO.,LTD.
+    fullgame:
+      appid: '464450'
+      name: DoDonPachi Resurrection
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/550381/header.jpg?t=1586399025
+    is_free: false
+    legal_notice: "\xA9 2008, 2010, 2016 CAVE Interactive CO.,LTD."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256673702
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256673702/movie480.mp4?t=1490949651
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256673702/movie_max.mp4?t=1490949651
+      name: DoDonPachi Resurrection Arrange Preview
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256673702/movie.293x165.jpg?t=1490949651
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256673702/movie480.webm?t=1490949651
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256673702/movie_max.webm?t=1490949651
+    name: DoDonPachi Resurrection Arrange Album
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: DoDonPachi Resurrection Arrange Album - $5.99
+        packageid: 136310
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy DoDonPachi Resurrection Arrange Album
+    packages:
+    - 136310
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        153 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 415 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Degica
+    release_date:
+      coming_soon: false
+      date: Mar 31, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550381/ss_74ae2a7c8e2fff956a924a18329f2ea61627c34a.1920x1080.jpg?t=1586399025
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550381/ss_74ae2a7c8e2fff956a924a18329f2ea61627c34a.600x338.jpg?t=1586399025
+    short_description: Originally enclosed with the Xbox 360 port of DO-DON-PACHI
+      DAI-FUKKATSU Ver.1.5 limited edition package.
+    steam_appid: 550381
+    support_info:
+      email: games@degica.com
+      url: ''
+    supported_languages: English, Japanese
+    type: music
+    website: http://www.caveshmups.com/dodonpachi
+  success: true
+reviews:
+  cursor: AoJ4ivqxk9sCfbXedQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 85
+      num_reviews: 13
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198038701868'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '30864221'
+    review: Great soundtrack, but.................................it would be nice
+      if it was put in-game as a patch.
+    steam_purchase: true
+    timestamp_created: 1491004281
+    timestamp_updated: 1491004281
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.582934737205505371'
+    written_during_early_access: false
+  success: 1

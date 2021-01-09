@@ -1,0 +1,139 @@
+details:
+  data:
+    about_the_game: "This DLC has no content and is just for donations. We want to\
+      \ make upgrades to this game, but we also need to keep our jobs. Donations allow\
+      \ us to prioritize the game and making new content. <br />\r\n<br />\r\nIf you\
+      \ donate and would like a little boost, please email us and we will add 1000\
+      \ coins to your account, or the account of your choice. For example, you can\
+      \ donate here, and request to give the coins to a streamer in order to help\
+      \ them quickly unlock some more levels.<br />\r\n<br />\r\nWe plan to move this\
+      \ functionality to In-App Purchases, but that is not currently a priority."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1005350/page_bg_generated_v6b.jpg?t=1568346281
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC has no content and is just for donations. We want\
+      \ to make upgrades to this game, but we also need to keep our jobs. Donations\
+      \ allow us to prioritize the game and making new content. <br />\r\n<br />\r\
+      \nIf you donate and would like a little boost, please email us and we will add\
+      \ 1000 coins to your account, or the account of your choice. For example, you\
+      \ can donate here, and request to give the coins to a streamer in order to help\
+      \ them quickly unlock some more levels.<br />\r\n<br />\r\nWe plan to move this\
+      \ functionality to In-App Purchases, but that is not currently a priority."
+    developers:
+    - Scott Grambo
+    - Ross Grambo
+    fullgame:
+      appid: '964960'
+      name: Plunder! All Hands Ahoy
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1005350/header.jpg?t=1568346281
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256739032
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256739032/movie480.mp4?t=1547679743
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256739032/movie_max.mp4?t=1547679743
+      name: Main
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256739032/movie.293x165.jpg?t=1547679743
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256739032/movie480.webm?t=1547679743
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256739032/movie_max.webm?t=1547679743
+    name: Plunder! All Hands Ahoy - Donation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Plunder! All Hands Ahoy - Donation - $4.99
+        packageid: 332444
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Plunder! All Hands Ahoy - Donation
+    packages:
+    - 332444
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1 or newer.<br></li><li><strong>Processor:</strong> Intel Core
+        i5 4590 or AMD FX 8350 or greater.<br></li><li><strong>Memory:</strong> 4
+        MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970 or AMD Radeon
+        R9 290 or better.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Grambo Games L.L.P
+    release_date:
+      coming_soon: false
+      date: Jan 16, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_752b0983cedec0760367297386753940d6fc5e62.1920x1080.jpg?t=1568346281
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_752b0983cedec0760367297386753940d6fc5e62.600x338.jpg?t=1568346281
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_f9eea01404c01775157f8042e3bedc988a051dc8.1920x1080.jpg?t=1568346281
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_f9eea01404c01775157f8042e3bedc988a051dc8.600x338.jpg?t=1568346281
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_1ea94d219ca50eb4af483d376d3934fcfadbe7c4.1920x1080.jpg?t=1568346281
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_1ea94d219ca50eb4af483d376d3934fcfadbe7c4.600x338.jpg?t=1568346281
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_7148358e0b0c8fd1758750044a35a7b1bd0f94fe.1920x1080.jpg?t=1568346281
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_7148358e0b0c8fd1758750044a35a7b1bd0f94fe.600x338.jpg?t=1568346281
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_c8b06c40c2ef30cd706bee67e35516304fbacd5a.1920x1080.jpg?t=1568346281
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_c8b06c40c2ef30cd706bee67e35516304fbacd5a.600x338.jpg?t=1568346281
+    short_description: This DLC has no content and is just for donations. We want
+      to make upgrades to this game, but we also need to keep our jobs. Donations
+      allow us to prioritize the game and making new content. If you donate and would
+      like a little boost, please email us at grambogames@outlook.
+    steam_appid: 1005350
+    support_info:
+      email: grambogames@outlook.com
+      url: https://grambogames.com
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

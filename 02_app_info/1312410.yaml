@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: "*Cannot be purchased multiple times<br />\r\n<br />\r\nGive yourself\
+      \ a cash injection of $2,500 ingame credits"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1312410/page_bg_generated_v6b.jpg?t=1589129533
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "*Cannot be purchased multiple times<br />\r\n<br />\r\n\
+      Give yourself a cash injection of $2,500 ingame credits"
+    developers:
+    - ColloseusX
+    fullgame:
+      appid: '529240'
+      name: Creature Clicker - Capture, Train, Ascend!
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1312410/header.jpg?t=1589129533
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Creature Clicker - $2,500 Ingame Credits
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Creature Clicker - $2,500 Ingame Credits - $0.99
+        packageid: 458140
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Creature Clicker - $2,500 Ingame Credits
+    packages:
+    - 458140
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows XP, Vista, 7, 8 and Windows 10<br></li><li><strong>Processor:</strong>\
+        \ 2.33GHz or faster x86-compatible processor, or Intel Atom\u2122 1.6GHz or\
+        \ faster processor for netbook class devices<br></li><li><strong>Memory:</strong>\
+        \ 512 MB RAM<br></li><li><strong>Graphics:</strong> 128MB Graphics<br></li><li><strong>Storage:</strong>\
+        \ 15 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Phat Phrog Studios
+    release_date:
+      coming_soon: false
+      date: May 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1312410/ss_70db9944e4e395d950ec71d15bc76a93d478a28e.1920x1080.jpg?t=1589129533
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1312410/ss_70db9944e4e395d950ec71d15bc76a93d478a28e.600x338.jpg?t=1589129533
+    short_description: Give yourself a cash injection of $2,500 ingame credits
+    steam_appid: 1312410
+    support_info:
+      email: lee@phatphrogstudios.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

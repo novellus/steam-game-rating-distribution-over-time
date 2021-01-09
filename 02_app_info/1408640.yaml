@@ -1,0 +1,124 @@
+details:
+  data:
+    about_the_game: "Immerse yourself in eerie ambiant music and powerful djent with\
+      \ the ScourgeBringer Soundtrack.<br />\r\n<br />\r\nGet ready to blast for 78\
+      \ minutes to the powerful compositions of Joonas Turner (who previously worked\
+      \ on Downwell, Tormentor X Punisher, Nuclear Throne, and Atomicrops).<br />\r\
+      \n<br />\r\nThe soundtrack has been specifically mastered for the best music\
+      \ experience by Petri Majuri at E-Studio, with a fine cover art by Adrien Br\xE9\
+      geot who also worked on the prequel comic."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1408640/page_bg_generated_v6b.jpg?t=1603288317
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Immerse yourself in eerie ambiant music and powerful djent\
+      \ with the ScourgeBringer Soundtrack.<br />\r\n<br />\r\nGet ready to blast\
+      \ for 78 minutes to the powerful compositions of Joonas Turner (who previously\
+      \ worked on Downwell, Tormentor X Punisher, Nuclear Throne, and Atomicrops).<br\
+      \ />\r\n<br />\r\nThe soundtrack has been specifically mastered for the best\
+      \ music experience by Petri Majuri at E-Studio, with a fine cover art by Adrien\
+      \ Br\xE9geot who also worked on the prequel comic."
+    developers:
+    - Flying Oak Games
+    - E-Studio
+    fullgame:
+      appid: '1037020'
+      name: ScourgeBringer
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1408640/header.jpg?t=1603288317
+    is_free: false
+    legal_notice: "Music Composed and Mixed by: Joonas Turner at E-Studio<br />\r\n\
+      Music Mastered by: Petri Majuri at E-Studio<br />\r\nCover Art by: Adrien Br\xE9\
+      geot<br />\r\nScourgeBringer by: Flying Oak Games"
+    linux_requirements: []
+    mac_requirements: []
+    name: ScourgeBringer - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ScourgeBringer - Soundtrack - $6.99
+        packageid: 494338
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy ScourgeBringer - Soundtrack
+    packages:
+    - 494338
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        150 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 850 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Dear Villagers
+    release_date:
+      coming_soon: false
+      date: Oct 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1408640/ss_b7744d85228126b94612d8749f7825a1513125ab.1920x1080.jpg?t=1603288317
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1408640/ss_b7744d85228126b94612d8749f7825a1513125ab.600x338.jpg?t=1603288317
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1408640/ss_77def414191cf5c3c69c4c8e3809001028a0e927.1920x1080.jpg?t=1603288317
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1408640/ss_77def414191cf5c3c69c4c8e3809001028a0e927.600x338.jpg?t=1603288317
+    short_description: Immerse yourself in eerie ambiant music and powerful djent
+      with the ScourgeBringer Soundtrack by Joonas Turner.
+    steam_appid: 1408640
+    support_info:
+      email: gamers@flying-oak.com
+      url: http://flying-oak.com/
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwhp3gqPUCcIy8qQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 379
+      num_reviews: 38
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197999567819'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77979840'
+    review: the track "Candle Mask" is an absolute banger!
+    steam_purchase: true
+    timestamp_created: 1603390204
+    timestamp_updated: 1603390204
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.565217375755310059'
+    written_during_early_access: false
+  success: 1

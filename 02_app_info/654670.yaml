@@ -1,0 +1,175 @@
+details:
+  data:
+    about_the_game: RPS Runner is a simple runner game where you have to choose the
+      correct object from Rock, Paper or Scissors in order to defeat the on-coming
+      objects.
+    achievements:
+      highlighted:
+      - name: Start the game
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/daf75003c2b3a19794ae8e1378222ebc0cf02dcf.jpg
+      - name: Get a score of 100
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/984099e62ffe5a993be7f5daa25f4241938df597.jpg
+      - name: Get a score of 200
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/1dcaf5d2bcffe863ed3d40f6f7af99d9378b938b.jpg
+      - name: Get a score of 300
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/8069e057fb3a59ed9c2d64f9ca254bbecc860cef.jpg
+      - name: Get a score of 400
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/1ed9edf6fc7c447921677a8be5a84643a289d5ff.jpg
+      - name: Get a score of 500
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/8c4f58a8047d89d52702110d249d910108d6cb5a.jpg
+      - name: Get a score of 600
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/984099e62ffe5a993be7f5daa25f4241938df597.jpg
+      - name: Get a score of 700
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/1dcaf5d2bcffe863ed3d40f6f7af99d9378b938b.jpg
+      - name: Get a score of 800
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/1f5f7c3e11de8ecdba975b9d3025638ff562ba26.jpg
+      - name: Get a score of 900
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/654670/984099e62ffe5a993be7f5daa25f4241938df597.jpg
+      total: 15
+    background: https://steamcdn-a.akamaihd.net/steam/apps/654670/page_bg_generated_v6b.jpg?t=1499419249
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: RPS Runner is a simple runner game where you have to choose
+      the correct object from Rock, Paper or Scissors in order to defeat the on-coming
+      objects.
+    developers:
+    - Thugnificent
+    dlc:
+    - 658410
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/654670/header.jpg?t=1499419249
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256687537
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256687537/movie480.mp4?t=1497898709
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256687537/movie_max.mp4?t=1497898709
+      name: RPS Runner
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256687537/movie.293x165.jpg?t=1497898709
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256687537/movie480.webm?t=1497898709
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256687537/movie_max.webm?t=1497898709
+    name: RPS Runner
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: RPS Runner - $0.99
+        packageid: 186749
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy RPS Runner
+    packages:
+    - 186749
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB, Intel<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Core 2 duo<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB, Nvidia<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Thugnificent
+    release_date:
+      coming_soon: false
+      date: Jul 5, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_f1a8215ee4723772b2018bae3387ed077988ed28.1920x1080.jpg?t=1499419249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_f1a8215ee4723772b2018bae3387ed077988ed28.600x338.jpg?t=1499419249
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_cfc946bc6f6337478aa117fed3ff5f8463118ab6.1920x1080.jpg?t=1499419249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_cfc946bc6f6337478aa117fed3ff5f8463118ab6.600x338.jpg?t=1499419249
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_d5264e2a5e5dbf3787ccb14bf9fe8d45d36f120c.1920x1080.jpg?t=1499419249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_d5264e2a5e5dbf3787ccb14bf9fe8d45d36f120c.600x338.jpg?t=1499419249
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_ef0001d7074d6c223127392f3efe00132122d61a.1920x1080.jpg?t=1499419249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_ef0001d7074d6c223127392f3efe00132122d61a.600x338.jpg?t=1499419249
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_02a8b8650e4287c64eddddba3292d505140bc477.1920x1080.jpg?t=1499419249
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/654670/ss_02a8b8650e4287c64eddddba3292d505140bc477.600x338.jpg?t=1499419249
+    short_description: RPS Runner is a simple runner game where you have to choose
+      the correct object from Rock, Paper or Scissors in order to defeat the on-coming
+      objects.
+    steam_appid: 654670
+    support_info:
+      email: thugnificentreviews@gmail.com
+      url: https://thugnificentreviews.wordpress.com/
+    supported_languages: English
+    type: game
+    website: https://thugnificentreviews.wordpress.com/
+  success: true
+reviews:
+  cursor: AoJ48Y79yPUCd+yYrAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 11
+    total_reviews: 12
+  reviews:
+  - author:
+      last_played: 1604471393
+      num_games_owned: 505
+      num_reviews: 33
+      playtime_at_review: 8
+      playtime_forever: 8
+      playtime_last_two_weeks: 0
+      steamid: '76561198328368751'
+    comment_count: 0
+    language: japanese
+    received_for_free: false
+    recommendationid: '78694087'
+    review: "\u6D41\u308C\u3066\u304F\u308B\u624B\u306B\u5408\u308F\u305B\u3066\u30B8\
+      \u30E3\u30F3\u30B1\u30F3\u3067\u52DD\u3063\u3066\u3044\u304F\u30B2\u30FC\u30E0\
+      \u3002\n\u53CD\u5C04\u795E\u7D4C\u306E\u52DD\u8CA0\u306B\u306A\u308B\u304C\u3001\
+      \u3053\u306E\u6642\u9593\u3067\u5B9F\u7E3E\u30B3\u30F3\u30D7\u30EA\u30FC\u30C8\
+      \u3067\u304D\u308B\u304F\u3089\u3044\u306A\u306E\u3067\u7C21\u5358\u306A\u65B9\
+      \u3060\u3068\u601D\u3046\u3002\n\u5B9F\u7E3E\u304C\u6B32\u3057\u3044\uFF06\u30BB\
+      \u30FC\u30EB\u4E2D\u306A\u3089\u30AA\u30B9\u30B9\u30E1\u3002"
+    steam_purchase: true
+    timestamp_created: 1604471519
+    timestamp_updated: 1604471519
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

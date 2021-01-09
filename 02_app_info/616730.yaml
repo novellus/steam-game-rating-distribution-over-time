@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: ''
+    developers:
+    - Whirlpool
+    fullgame:
+      appid: '407310'
+      name: NEKO-NIN exHeart
+    genres:
+    - description: Sexual Content
+      id: '71'
+    - description: Nudity
+      id: '72'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/616730/header.jpg?t=1580429450
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: NEKO-NIN exHeart Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or above<br></li><li><strong>Processor:</strong> 1.2 GHz Pentium
+        4<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        1280 x 720<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: Apr 3, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 616730
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

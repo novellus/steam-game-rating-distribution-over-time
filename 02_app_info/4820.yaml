@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - GSC Game World
+    fullgame:
+      appid: '4800'
+      name: Heroes of Annihilated Empires
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/4820/header.jpg?t=1447350991
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 65
+    name: Heroes... Multiplayer Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p>Windows 2000/XP<br>Latest Video and Sound drivers are highly recommended\
+        \ for optimal performance. For better game performance please close all background\
+        \ programs (instant messaging, antivirus, system monitoring).</p>\n\t\t\t\t\
+        \t<p><strong>Minimum: </strong>Intel Pentium 4 2Ghz or AMD Athlon XP 2000+,\
+        \ nVidia GeForce FX5200 or ATI Radeon 9000 Video card with 128MB Memory, 512MB\
+        \ RAM, DirectX 8.0 compatible Sound, 2.5 Gb Free Hard drive space</p>\n\t\t\
+        \t\t\t<p><strong>Recomended:</strong> Intel Pentium 4 3Ghz or AMD Athlon 64\
+        \ 3200+, nVidia GeForce 6600 or ATI Radeon X800 Video card, 1GB RAM, DirectX\
+        \ 8.0 compatible Sound, 2.5 Gb Free Hard drive space</p>\n\t\t\t\t\t<p><strong>Optional:</strong>\
+        \ Internet Connection for multiplayer game via Internet, Minimal: 56K Dial-Up\
+        \ Connection</p>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - GSC Game World
+    release_date:
+      coming_soon: false
+      date: Mar 6, 2007
+    required_age: 0
+    short_description: ''
+    steam_appid: 4820
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: http://www.heroesofae.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

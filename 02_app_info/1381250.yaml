@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: This is a work in progress demo of the first dimension in Hell
+      Punk Horror.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1381250/page_bg_generated_v6b.jpg?t=1596829348
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Hell Punk Horror contains stylized blood and gore.
+    controller_support: full
+    detailed_description: This is a work in progress demo of the first dimension in
+      Hell Punk Horror.
+    developers:
+    - Philisophic Games
+    fullgame:
+      appid: '1220560'
+      name: Hell Punk Horror
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1381250/header.jpg?t=1596829348
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Hell Punk Horror Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        64-bit<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD processor
+        - 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Philisophic Games
+    release_date:
+      coming_soon: false
+      date: Aug 7, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_e3e91fdd17b6a8ed147fdfb1c82a1eb6b3aaa7b7.1920x1080.jpg?t=1596829348
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_e3e91fdd17b6a8ed147fdfb1c82a1eb6b3aaa7b7.600x338.jpg?t=1596829348
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_c1ca3bdda0a23fb148767335221812ee98772e43.1920x1080.jpg?t=1596829348
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_c1ca3bdda0a23fb148767335221812ee98772e43.600x338.jpg?t=1596829348
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_c6a69d2a762ae110af788ff4838f46ac2147305c.1920x1080.jpg?t=1596829348
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_c6a69d2a762ae110af788ff4838f46ac2147305c.600x338.jpg?t=1596829348
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_e2e3190b299110125adc351a82e1300a06de0d85.1920x1080.jpg?t=1596829348
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_e2e3190b299110125adc351a82e1300a06de0d85.600x338.jpg?t=1596829348
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_45b9545f080b61cb08f0f970e3bd5681b84b6bd2.1920x1080.jpg?t=1596829348
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_45b9545f080b61cb08f0f970e3bd5681b84b6bd2.600x338.jpg?t=1596829348
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_4cd820ce47cf6a30ec2318b4fda4079477aa9c4c.1920x1080.jpg?t=1596829348
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1381250/ss_4cd820ce47cf6a30ec2318b4fda4079477aa9c4c.600x338.jpg?t=1596829348
+    short_description: This is a work in progress demo of the first dimension in Hell
+      Punk Horror.
+    steam_appid: 1381250
+    support_info:
+      email: philisophicgames@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

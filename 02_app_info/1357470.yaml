@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: This soundtrack contains all the music from TANKNAROK, including
+      two bonus tracks! All tracks are composed by bLiNd.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1357470/page_bg_generated_v6b.jpg?t=1593796964
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This soundtrack contains all the music from TANKNAROK, including
+      two bonus tracks! All tracks are composed by bLiNd.
+    developers:
+    - Polyblock Studio
+    - bLiNd
+    fullgame:
+      appid: '1029760'
+      name: TANKNAROK
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1357470/header.jpg?t=1593796964
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 256791737
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256791737/movie480.mp4?t=1593796958
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256791737/movie_max.mp4?t=1593796958
+      name: Soundtrack preview
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256791737/movie.293x165.jpg?t=1593796958
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256791737/movie480_vp9.webm?t=1593796958
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256791737/movie_max_vp9.webm?t=1593796958
+    name: TANKNAROK Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: TANKNAROK Soundtrack - $3.99
+        packageid: 475827
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy TANKNAROK Soundtrack
+    packages:
+    - 475827
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        53 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 334 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Polyblock Studio
+    release_date:
+      coming_soon: false
+      date: Jul 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1357470/ss_b1f014b56b0d090dfda7150c01d644cad56769e6.1920x1080.jpg?t=1593796964
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1357470/ss_b1f014b56b0d090dfda7150c01d644cad56769e6.600x338.jpg?t=1593796964
+    short_description: TANKNAROK is a fast paced couch/online action game where 2-4
+      tanks duke it out in a wide range of arenas, with tons of explosive powerups
+      and deadly hazards.
+    steam_appid: 1357470
+    support_info:
+      email: support@polyblockstudio.com
+      url: ''
+    type: music
+    website: https://www.blindedm.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

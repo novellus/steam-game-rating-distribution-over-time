@@ -1,0 +1,367 @@
+details:
+  data:
+    about_the_game: "\u9996\u5148\u611F\u8C22\u5404\u4F4D\u67E5\u770B\u672C\u9875\u9762\
+      \uFF0C\u672C\u9875\u9762\u7531\u4E00\u4F4D14\u5C81\u5C11\u5E74\u72EC\u7ACB\u5236\
+      \u4F5C\u3002\u6B64\u6E38\u620F\u76EE\u524D\u8FD8\u5728\u6D4B\u8BD5\u7248\u672C\
+      \uFF0C\u53EF\u80FD\u4F1A\u51FA\u73B0\u672A\u77E5\u7684bug\uFF0C\u5C06\u5728\u4EE5\
+      \u540E\u7684\u7248\u672C\u4E2D\u4FEE\u590D\u3002<br>       \u6B64\u6E38\u620F\
+      \u5C06\u4F1A\u5728\u6BCF\u4E2A\u5468\u672B\u8FDB\u884C\u4E00\u6B21\u66F4\u65B0\
+      \uFF0C\u5E0C\u671B\u5404\u4F4D\u5BF9\u8FD9\u4E2A\u6E38\u620F\u4FDD\u6301\u8010\
+      \u5FC3\u5E76\u4E14\u4EE5\u4E50\u89C2\u7684\u6001\u5EA6\u9762\u5BF9\u8FD9\u4E2A\
+      \u6E38\u620F\u7684\u672A\u6765\uFF0C\u5624\u5624\u5624\u2642<br>       \u6B64\
+      \u6E38\u620F\u7684\u521D\u59CB\u4F53\u79EF\u53EF\u80FD\u8F83\u5927\uFF0C\u4EE5\
+      \u540E\u6BCF\u6B21\u5927\u66F4\u65B0\u90FD\u4E0D\u4F1A\u66F4\u65B0\u5F88\u591A\
+      \u5185\u5B58\uFF0C\u8BF7\u89C1\u8C05\u3002<br>\u6E38\u620F\u4ECB\u7ECD\uFF1A\
+      <br>       \u6E38\u620F\u7684\u521D\u8877\u662F\u6CA1\u6709\u76EE\u6807\u7684\
+      \uFF0C\u53EF\u4EE5\u5206\u4E3A\u591A\u79CD\u6A21\u5F0F\u8FDB\u884C\u6E38\u620F\
+      \uFF0C\u5728\u6E38\u620F\u4E2D\u53EF\u4EE5\u5229\u7528\u6B66\u5668\u6253\u51FB\
+      \u654C\u4EBA\uFF0C\u5305\u62EC\u4F7F\u7528\u62F3\u5934\uFF0C\u5251\uFF0C\u5404\
+      \u79CD\u67AA\u652F\uFF08\u6D4B\u8BD5\u4E2D\uFF09\uFF0C\u5728\u4E0D\u4E45\u7684\
+      \u5C06\u6765\u8FD8\u6709\u53EF\u80FD\u52A0\u5165\u521B\u610F\u5DE5\u574A\uFF0C\
+      \u6E38\u620F\u76EE\u524D\u4E3A\u65E9\u671F\u6D4B\u8BD5\u9636\u6BB5\uFF0C\u6709\
+      \u4EC0\u4E48\u95EE\u9898\u548C\u60F3\u52A0\u5165\u7684\u5185\u5BB9\u8BF7\u4E00\
+      \u5B9A\u8981\u8BC4\u8BBA\u554A\uFF01\u6211\u597D\u4FEE\u6539\u6E38\u620F\u554A\
+      \u3002\u76EE\u524D\u7684\u6E38\u620F\u5206\u4E3A\u6E05\u7406\u6A21\u5F0F\uFF08\
+      \u5728\u5730\u56FE\u4E2D\u6E05\u7406\u6240\u6709\u7684\u654C\u4EBA\uFF09\uFF0C\
+      \u50F5\u5C38\u9632\u5B88\u6A21\u5F0F\uFF08\u5728\u4E00\u4E2A\u6751\u5B50\u4E2D\
+      \u62B5\u5FA1\u56DB\u9762\u516B\u65B9\u7684\u50F5\u5C38\uFF09\uFF0C\u4EE5\u53CA\
+      \u5C38\u6F6E\u6A21\u5F0F\uFF08\u6D4B\u8BD5\u4E2D\uFF09\u3002\u6218\u5F79\u6A21\
+      \u5F0F\uFF08\u6D4B\u8BD5\u4E2D\uFF09\uFF0C\u65B0\u624B\u6559\u7A0B\uFF0C\u4EE5\
+      \u53CA\u8BAD\u7EC3\u6A21\u5F0F\u3002<br>       \u5728\u6E38\u620F\u4E2D\u4F60\
+      \u53EF\u4EE5\u901A\u8FC7\u63A7\u5236\u4EBA\u7269\u6765\u8FDB\u884C\u51FB\u6740\
+      \u654C\u4EBA\uFF0C\u654C\u4EBA\u76EE\u524D\u5305\u62EC\u50F5\u5C38\u548C\u4EBA\
+      \u7C7B\uFF0C\u5206\u522B\u5728\u4E0D\u540C\u7684\u6A21\u5F0F\u4E2D\uFF0C\u5728\
+      \u6E38\u620F\u91CC\u8FD8\u53EF\u4EE5\u9009\u62E9\u591A\u79CD\u6B66\u5668\u51FB\
+      \u6740\u654C\u4EBA\u3002<br>        \u4EE5\u4E0A\u4EC5\u4EC5\u662F\u6E38\u620F\
+      \u521D\u671F\u6D4B\u8BD5\u4E2D\u5305\u542B\u7684\u5173\u5361\uFF0C\u672A\u6765\
+      \u7248\u672C\u6216\u591A\u6216\u5C11\u4F1A\u5220\u51CF\u4E00\u4E9B\uFF0C\u5E0C\
+      \u671B\u5404\u4F4D\u53EF\u4EE5\u591A\u63D0\u610F\u89C1\uFF01<br>\u6E38\u620F\
+      \u76EE\u524D\u5305\u542B\u5185\u5BB9:<br>\u5730\u56FE:<br>       1.\u6E05\u7406\
+      \u6A21\u5F0F\u3010\u5728\u4E00\u5F20\u6C99\u6F20\u5730\u56FE\u4E2D\u65E0\u9650\
+      \u5237\u65B0\u5251\u58EB\u548C\u76FE\u58EB\uFF0C\u60A8\u9700\u8981\u51FB\u6740\
+      50\u540D\u58EB\u5175\u6765\u593A\u53D6\u6E38\u620F\u80DC\u5229\u3011<br>   \
+      \    2.\u50F5\u5C38\u6A21\u5F0F\u3010\u60A8\u51FA\u751F\u5728\u4E00\u4E2A\u5C0F\
+      \u9547\u5F53\u4E2D\uFF0C\u5468\u56F4\u4F1A\u6709\u6E90\u6E90\u4E0D\u65AD\u7684\
+      \u50F5\u5C38\u5230\u6765\u3002\u60A8\u9700\u8981\u575A\u6301600\u79D2\u7684\u65F6\
+      \u95F4\u6765\u53D6\u5F97\u6E38\u620F\u80DC\u5229\u3011<br>       3.\u8BAD\u7EC3\
+      \u6A21\u5F0F\u3010\u5177\u6709\u6240\u6709\u6B66\u5668\u4EE5\u53CAAI\uFF0C\u53EF\
+      \u4F9B\u9009\u62E9\uFF0C\u6CA1\u6709\u6E38\u620F\u76EE\u6807\u3011<br>\u6B66\
+      \u5668\uFF1A<br>       1.\u62F3\u5934\u3010\u5305\u542B3\u79CD\u52A8\u4F5C\u3011\
+      <br>       2.\u5251\u3010\u5305\u542B4\u79CD\u52A8\u4F5C\uFF0C\u5916\u52A0\u780D\
+      \u5934\u6740\u3011\u3010\u53EF\u4EE5\u8FDB\u884C\u683C\u6321\u3011<br>     \
+      \  3.\u817F\u3010\u4E09\u79CD\u4E0D\u540C\u89D2\u5EA6\u52A8\u4F5C\uFF0C\u4E00\
+      \u79CD\u780D\u5934\u6740\u52A8\u4F5C\u3011<br>\u6E38\u620FAI\uFF1A<br>     \
+      \  1.\u50F5\u5C38\u3010\u666E\u901AAI\u3011<br>       2.\u58EB\u5175\u3010\u6301\
+      \u5251\u3011<br>       3.\u6301\u76FE\u58EB\u5175\u3010\u5251+\u76FE\u3011<br>\
+      \       ....<br>\u80CC\u5305\uFF1A<br>       1.\u73A9\u5BB6\u53EF\u4EE5\u5728\
+      \u6E38\u620F\u4E2D\u6309TAB\u952E\u6253\u5F00\u6216\u5173\u95ED\u80CC\u5305\
+      <br>       2.\u80CC\u5305\u53EF\u4EE5\u6536\u96C6\u73A9\u5BB6\u7684\u88C5\u5907\
+      \u4E0E\u98DF\u7269<br>\u6E38\u620F\u4F1A\u968F\u7740\u66F4\u65B0\u800C\u6DFB\
+      \u52A0\u65B0\u5185\u5BB9<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>\u63D0\
+      \u793A\uFF1A\u6E38\u620F\u4E2D\u542B\u6709\u6E85\u8840\u7206\u8840\u884C\u4E3A\
+      \uFF0C\u4F8B\u5982\u6B66\u5668\u6253\u51FB\u5230\u654C\u4EBA\u8EAB\u4E0A\u4F1A\
+      \u7206\u51FA\u8840\u6D46\uFF0C\u6E38\u620F\u4E2D\u4E0D\u5305\u542B\u4EFB\u4F55\
+      \u6027\u884C\u4E3A\uFF01<br>       <br>       First of all, thank you for viewing\
+      \ this page. This page is produced independently by a 14-year-old boy. This\
+      \ game is currently in beta and there may be unknown bugs that will be fixed\
+      \ in a future release.<br>\_\_\_\_\_\_\_This game will be updated every weekend.\
+      \ I hope that you will be patient with this game and face the future of this\
+      \ game with optimism.<br>\_\_\_\_\_\_\_The initial size of this game may be\
+      \ large, and you won't update a lot of memory every time you update. Please\
+      \ forgive me.<br>game introduction:<br>\_\_\_\_\_\_\_The original intention\
+      \ of the game is that there is no target. It can be divided into multiple modes\
+      \ for playing games. In the game, you can use weapons to attack the enemy, including\
+      \ using fists, swords, various guns (testing), and possibly joining creative\
+      \ workers in the near future. Square, the game is currently in the early testing\
+      \ stage, please feel free to comment on any questions and content you want to\
+      \ join! I am fine to modify the game. The current game is divided into clean\
+      \ mode (cleaning all enemies in the map), zombie defensive mode (defending zombies\
+      \ in all directions in a village), and corpse mode (testing). Campaign mode\
+      \ (testing), novice tutorial, and training mode.<br>       In the game you can\
+      \ kill the enemy by controlling the characters. The enemy currently includes\
+      \ zombies and humans. In different modes, you can also choose multiple weapons\
+      \ to kill the enemy in the game.<br>        These are just the modes included\
+      \ in the initial test of the game. Future versions will be more or less deleted.\
+      \ I hope you can comment more!<br>NOW CONTENT.<br>map:<br>        1. Cleanup\
+      \ mode [Infinitely refresh swordsman and shield in a desert map, you need to\
+      \ kill 50 soldiers to win the game]<br>        2. Zombie mode [You are born\
+      \ in a small town, surrounded by a steady stream of zombies. You need to stick\
+      \ to 600 seconds to win the game.]<br>        3. Training mode [with all weapons\
+      \ and AI, available for selection, no game target]<br>arms:<br>        1. Fist\
+      \ [including 3 kinds of actions]<br>        2. Sword [including 4 kinds of movements,\
+      \ plus beheading kills] [can be blocked]<br>        3. Legs [three different\
+      \ angles of action, a beheading action]<br>Game AI:<br>        1. Zombie [Ordinary\
+      \ AI]<br>        2. Soldier [holding sword]<br>        3. Holding a shield soldier\
+      \ [sword + shield]<br>        ....<br>Inventory:<br>        1.You can press\
+      \ TAB to open or close<br>        2.This things can help players to collects\
+      \ weapon or foods.<br>The game will add new content as it updates<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>Tip:\
+      \ The game contains blood-splattering, such as weapons that hit the enemy and\
+      \ will splatter blood. The game does not contain any sexual!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/959340/page_bg_generated_v6b.jpg?t=1541763629
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Bloody
+    detailed_description: "\u9996\u5148\u611F\u8C22\u5404\u4F4D\u67E5\u770B\u672C\u9875\
+      \u9762\uFF0C\u672C\u9875\u9762\u7531\u4E00\u4F4D14\u5C81\u5C11\u5E74\u72EC\u7ACB\
+      \u5236\u4F5C\u3002\u6B64\u6E38\u620F\u76EE\u524D\u8FD8\u5728\u6D4B\u8BD5\u7248\
+      \u672C\uFF0C\u53EF\u80FD\u4F1A\u51FA\u73B0\u672A\u77E5\u7684bug\uFF0C\u5C06\u5728\
+      \u4EE5\u540E\u7684\u7248\u672C\u4E2D\u4FEE\u590D\u3002<br>       \u6B64\u6E38\
+      \u620F\u5C06\u4F1A\u5728\u6BCF\u4E2A\u5468\u672B\u8FDB\u884C\u4E00\u6B21\u66F4\
+      \u65B0\uFF0C\u5E0C\u671B\u5404\u4F4D\u5BF9\u8FD9\u4E2A\u6E38\u620F\u4FDD\u6301\
+      \u8010\u5FC3\u5E76\u4E14\u4EE5\u4E50\u89C2\u7684\u6001\u5EA6\u9762\u5BF9\u8FD9\
+      \u4E2A\u6E38\u620F\u7684\u672A\u6765\uFF0C\u5624\u5624\u5624\u2642<br>     \
+      \  \u6B64\u6E38\u620F\u7684\u521D\u59CB\u4F53\u79EF\u53EF\u80FD\u8F83\u5927\uFF0C\
+      \u4EE5\u540E\u6BCF\u6B21\u5927\u66F4\u65B0\u90FD\u4E0D\u4F1A\u66F4\u65B0\u5F88\
+      \u591A\u5185\u5B58\uFF0C\u8BF7\u89C1\u8C05\u3002<br>\u6E38\u620F\u4ECB\u7ECD\
+      \uFF1A<br>       \u6E38\u620F\u7684\u521D\u8877\u662F\u6CA1\u6709\u76EE\u6807\
+      \u7684\uFF0C\u53EF\u4EE5\u5206\u4E3A\u591A\u79CD\u6A21\u5F0F\u8FDB\u884C\u6E38\
+      \u620F\uFF0C\u5728\u6E38\u620F\u4E2D\u53EF\u4EE5\u5229\u7528\u6B66\u5668\u6253\
+      \u51FB\u654C\u4EBA\uFF0C\u5305\u62EC\u4F7F\u7528\u62F3\u5934\uFF0C\u5251\uFF0C\
+      \u5404\u79CD\u67AA\u652F\uFF08\u6D4B\u8BD5\u4E2D\uFF09\uFF0C\u5728\u4E0D\u4E45\
+      \u7684\u5C06\u6765\u8FD8\u6709\u53EF\u80FD\u52A0\u5165\u521B\u610F\u5DE5\u574A\
+      \uFF0C\u6E38\u620F\u76EE\u524D\u4E3A\u65E9\u671F\u6D4B\u8BD5\u9636\u6BB5\uFF0C\
+      \u6709\u4EC0\u4E48\u95EE\u9898\u548C\u60F3\u52A0\u5165\u7684\u5185\u5BB9\u8BF7\
+      \u4E00\u5B9A\u8981\u8BC4\u8BBA\u554A\uFF01\u6211\u597D\u4FEE\u6539\u6E38\u620F\
+      \u554A\u3002\u76EE\u524D\u7684\u6E38\u620F\u5206\u4E3A\u6E05\u7406\u6A21\u5F0F\
+      \uFF08\u5728\u5730\u56FE\u4E2D\u6E05\u7406\u6240\u6709\u7684\u654C\u4EBA\uFF09\
+      \uFF0C\u50F5\u5C38\u9632\u5B88\u6A21\u5F0F\uFF08\u5728\u4E00\u4E2A\u6751\u5B50\
+      \u4E2D\u62B5\u5FA1\u56DB\u9762\u516B\u65B9\u7684\u50F5\u5C38\uFF09\uFF0C\u4EE5\
+      \u53CA\u5C38\u6F6E\u6A21\u5F0F\uFF08\u6D4B\u8BD5\u4E2D\uFF09\u3002\u6218\u5F79\
+      \u6A21\u5F0F\uFF08\u6D4B\u8BD5\u4E2D\uFF09\uFF0C\u65B0\u624B\u6559\u7A0B\uFF0C\
+      \u4EE5\u53CA\u8BAD\u7EC3\u6A21\u5F0F\u3002<br>       \u5728\u6E38\u620F\u4E2D\
+      \u4F60\u53EF\u4EE5\u901A\u8FC7\u63A7\u5236\u4EBA\u7269\u6765\u8FDB\u884C\u51FB\
+      \u6740\u654C\u4EBA\uFF0C\u654C\u4EBA\u76EE\u524D\u5305\u62EC\u50F5\u5C38\u548C\
+      \u4EBA\u7C7B\uFF0C\u5206\u522B\u5728\u4E0D\u540C\u7684\u6A21\u5F0F\u4E2D\uFF0C\
+      \u5728\u6E38\u620F\u91CC\u8FD8\u53EF\u4EE5\u9009\u62E9\u591A\u79CD\u6B66\u5668\
+      \u51FB\u6740\u654C\u4EBA\u3002<br>        \u4EE5\u4E0A\u4EC5\u4EC5\u662F\u6E38\
+      \u620F\u521D\u671F\u6D4B\u8BD5\u4E2D\u5305\u542B\u7684\u5173\u5361\uFF0C\u672A\
+      \u6765\u7248\u672C\u6216\u591A\u6216\u5C11\u4F1A\u5220\u51CF\u4E00\u4E9B\uFF0C\
+      \u5E0C\u671B\u5404\u4F4D\u53EF\u4EE5\u591A\u63D0\u610F\u89C1\uFF01<br>\u6E38\
+      \u620F\u76EE\u524D\u5305\u542B\u5185\u5BB9:<br>\u5730\u56FE:<br>       1.\u6E05\
+      \u7406\u6A21\u5F0F\u3010\u5728\u4E00\u5F20\u6C99\u6F20\u5730\u56FE\u4E2D\u65E0\
+      \u9650\u5237\u65B0\u5251\u58EB\u548C\u76FE\u58EB\uFF0C\u60A8\u9700\u8981\u51FB\
+      \u674050\u540D\u58EB\u5175\u6765\u593A\u53D6\u6E38\u620F\u80DC\u5229\u3011<br>\
+      \       2.\u50F5\u5C38\u6A21\u5F0F\u3010\u60A8\u51FA\u751F\u5728\u4E00\u4E2A\
+      \u5C0F\u9547\u5F53\u4E2D\uFF0C\u5468\u56F4\u4F1A\u6709\u6E90\u6E90\u4E0D\u65AD\
+      \u7684\u50F5\u5C38\u5230\u6765\u3002\u60A8\u9700\u8981\u575A\u6301600\u79D2\u7684\
+      \u65F6\u95F4\u6765\u53D6\u5F97\u6E38\u620F\u80DC\u5229\u3011<br>       3.\u8BAD\
+      \u7EC3\u6A21\u5F0F\u3010\u5177\u6709\u6240\u6709\u6B66\u5668\u4EE5\u53CAAI\uFF0C\
+      \u53EF\u4F9B\u9009\u62E9\uFF0C\u6CA1\u6709\u6E38\u620F\u76EE\u6807\u3011<br>\u6B66\
+      \u5668\uFF1A<br>       1.\u62F3\u5934\u3010\u5305\u542B3\u79CD\u52A8\u4F5C\u3011\
+      <br>       2.\u5251\u3010\u5305\u542B4\u79CD\u52A8\u4F5C\uFF0C\u5916\u52A0\u780D\
+      \u5934\u6740\u3011\u3010\u53EF\u4EE5\u8FDB\u884C\u683C\u6321\u3011<br>     \
+      \  3.\u817F\u3010\u4E09\u79CD\u4E0D\u540C\u89D2\u5EA6\u52A8\u4F5C\uFF0C\u4E00\
+      \u79CD\u780D\u5934\u6740\u52A8\u4F5C\u3011<br>\u6E38\u620FAI\uFF1A<br>     \
+      \  1.\u50F5\u5C38\u3010\u666E\u901AAI\u3011<br>       2.\u58EB\u5175\u3010\u6301\
+      \u5251\u3011<br>       3.\u6301\u76FE\u58EB\u5175\u3010\u5251+\u76FE\u3011<br>\
+      \       ....<br>\u80CC\u5305\uFF1A<br>       1.\u73A9\u5BB6\u53EF\u4EE5\u5728\
+      \u6E38\u620F\u4E2D\u6309TAB\u952E\u6253\u5F00\u6216\u5173\u95ED\u80CC\u5305\
+      <br>       2.\u80CC\u5305\u53EF\u4EE5\u6536\u96C6\u73A9\u5BB6\u7684\u88C5\u5907\
+      \u4E0E\u98DF\u7269<br>\u6E38\u620F\u4F1A\u968F\u7740\u66F4\u65B0\u800C\u6DFB\
+      \u52A0\u65B0\u5185\u5BB9<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>\u63D0\
+      \u793A\uFF1A\u6E38\u620F\u4E2D\u542B\u6709\u6E85\u8840\u7206\u8840\u884C\u4E3A\
+      \uFF0C\u4F8B\u5982\u6B66\u5668\u6253\u51FB\u5230\u654C\u4EBA\u8EAB\u4E0A\u4F1A\
+      \u7206\u51FA\u8840\u6D46\uFF0C\u6E38\u620F\u4E2D\u4E0D\u5305\u542B\u4EFB\u4F55\
+      \u6027\u884C\u4E3A\uFF01<br>       <br>       First of all, thank you for viewing\
+      \ this page. This page is produced independently by a 14-year-old boy. This\
+      \ game is currently in beta and there may be unknown bugs that will be fixed\
+      \ in a future release.<br>\_\_\_\_\_\_\_This game will be updated every weekend.\
+      \ I hope that you will be patient with this game and face the future of this\
+      \ game with optimism.<br>\_\_\_\_\_\_\_The initial size of this game may be\
+      \ large, and you won't update a lot of memory every time you update. Please\
+      \ forgive me.<br>game introduction:<br>\_\_\_\_\_\_\_The original intention\
+      \ of the game is that there is no target. It can be divided into multiple modes\
+      \ for playing games. In the game, you can use weapons to attack the enemy, including\
+      \ using fists, swords, various guns (testing), and possibly joining creative\
+      \ workers in the near future. Square, the game is currently in the early testing\
+      \ stage, please feel free to comment on any questions and content you want to\
+      \ join! I am fine to modify the game. The current game is divided into clean\
+      \ mode (cleaning all enemies in the map), zombie defensive mode (defending zombies\
+      \ in all directions in a village), and corpse mode (testing). Campaign mode\
+      \ (testing), novice tutorial, and training mode.<br>       In the game you can\
+      \ kill the enemy by controlling the characters. The enemy currently includes\
+      \ zombies and humans. In different modes, you can also choose multiple weapons\
+      \ to kill the enemy in the game.<br>        These are just the modes included\
+      \ in the initial test of the game. Future versions will be more or less deleted.\
+      \ I hope you can comment more!<br>NOW CONTENT.<br>map:<br>        1. Cleanup\
+      \ mode [Infinitely refresh swordsman and shield in a desert map, you need to\
+      \ kill 50 soldiers to win the game]<br>        2. Zombie mode [You are born\
+      \ in a small town, surrounded by a steady stream of zombies. You need to stick\
+      \ to 600 seconds to win the game.]<br>        3. Training mode [with all weapons\
+      \ and AI, available for selection, no game target]<br>arms:<br>        1. Fist\
+      \ [including 3 kinds of actions]<br>        2. Sword [including 4 kinds of movements,\
+      \ plus beheading kills] [can be blocked]<br>        3. Legs [three different\
+      \ angles of action, a beheading action]<br>Game AI:<br>        1. Zombie [Ordinary\
+      \ AI]<br>        2. Soldier [holding sword]<br>        3. Holding a shield soldier\
+      \ [sword + shield]<br>        ....<br>Inventory:<br>        1.You can press\
+      \ TAB to open or close<br>        2.This things can help players to collects\
+      \ weapon or foods.<br>The game will add new content as it updates<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>Tip:\
+      \ The game contains blood-splattering, such as weapons that hit the enemy and\
+      \ will splatter blood. The game does not contain any sexual!"
+    developers:
+    - Sch.Black plastic
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/959340/header.jpg?t=1541763629
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Deconstruction Lab
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Deconstruction Lab - $0.99
+        packageid: 313630
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Deconstruction Lab
+    packages:
+    - 313630
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> N<br></li><li><strong>Storage:</strong>
+        5000 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional
+        Notes:</strong> nothing</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Sch.Black plastic
+    release_date:
+      coming_soon: false
+      date: Nov 2, 2018
+    required_age: '13'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_bc33f9612d3ef157ff513a78b79d0b3cfb14d721.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_bc33f9612d3ef157ff513a78b79d0b3cfb14d721.600x338.jpg?t=1541763629
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_aba2e11176bde5c3228af0271c1dec745dc4b153.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_aba2e11176bde5c3228af0271c1dec745dc4b153.600x338.jpg?t=1541763629
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_12a8553aa3fc6f222ea162401b6f6b352a71f0cb.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_12a8553aa3fc6f222ea162401b6f6b352a71f0cb.600x338.jpg?t=1541763629
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_f0d30e73c4a9dacc57ed1300244a6247c54180c2.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_f0d30e73c4a9dacc57ed1300244a6247c54180c2.600x338.jpg?t=1541763629
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_5be5ebebdb7542085f372ed5a915a7c85fd7fca9.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_5be5ebebdb7542085f372ed5a915a7c85fd7fca9.600x338.jpg?t=1541763629
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_099a018e5a97d8bfe5bdcf71e5bd4a89fcde3dfe.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_099a018e5a97d8bfe5bdcf71e5bd4a89fcde3dfe.600x338.jpg?t=1541763629
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_0b1b2eeeab64ff4263d3009cd67b5293552f08fe.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_0b1b2eeeab64ff4263d3009cd67b5293552f08fe.600x338.jpg?t=1541763629
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_3507f44c78b29af100181a1e23e3de3dd2859320.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_3507f44c78b29af100181a1e23e3de3dd2859320.600x338.jpg?t=1541763629
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_b7393ce423dbd8fddf4c2db9b9970bd6d1069c5c.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_b7393ce423dbd8fddf4c2db9b9970bd6d1069c5c.600x338.jpg?t=1541763629
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_eecc0ed172fdf0570fdaa940a24cdfc741d8fc71.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_eecc0ed172fdf0570fdaa940a24cdfc741d8fc71.600x338.jpg?t=1541763629
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_aa5dbf1e74605c9ab2de0cbff7290830166d2723.1920x1080.jpg?t=1541763629
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959340/ss_aa5dbf1e74605c9ab2de0cbff7290830166d2723.600x338.jpg?t=1541763629
+    short_description: "First of all, thank you for viewing this page. This page is\
+      \ produced independently by a 14-year-old boy. This game is currently in beta\
+      \ and there may be unknown bugs that will be fixed in a future release. \_\_\
+      \_\_This game will be updated every weekend."
+    steam_appid: 959340
+    support_info:
+      email: 1370149891@qq.com
+      url: ''
+    supported_languages: Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ40Mm6hucCdarYrgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1555158106
+      num_games_owned: 27
+      num_reviews: 6
+      playtime_at_review: 5
+      playtime_forever: 10
+      playtime_last_two_weeks: 0
+      steamid: '76561198180527371'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '45793957'
+    review: "\u9996\u5148\u8BF4\u6211\u4E0D\u662F\u4E00\u4E2A\u8BC4\u6D4B\u5E08\uFF0C\
+      \u6240\u4EE5\u6CA1\u529E\u6CD5\u7ED9\u51FA\u5F88\u597D\u7684\u5EFA\u8BAE\u548C\
+      \u610F\u89C1\u3002\u53EA\u80FD\u8BF4\u73B0\u5728\u4E0D\u662FBUG\u7684\u95EE\u9898\
+      \uFF0C\u8FD8\u662F\u64CD\u4F5C\u611F\u7684\u95EE\u9898\uFF0C\u753B\u9762\u4E0D\
+      \u7B97\u5F88\u7C97\u7CD9\u5C31\u662F\u64CD\u4F5C\u754C\u9762\u4F1A\u6709\u4E00\
+      \u70B9\uFF0C\u8FD8\u6709\u5728\u6E38\u620F\u4E2D\u6CA1\u529E\u6CD5\u6253\u5F00\
+      \u4E3B\u83DC\u5355\uFF0C\u8FD9\u4E5F\u662F\u4E00\u70B9\uFF1B\u9664\u53BB\u8FD9\
+      \u4E9B\u95EE\u9898\u4EE5\u5916\u5C31\u662F\u67AA\u68B0\u7684\u4F7F\u7528\u611F\
+      \uFF0C\u521A\u5F00\u59CB\u73A9\u50F5\u5C38\u9632\u5B88\uFF0C\u56E0\u4E3A\u7B2C\
+      \u4E00\u6B21\u73A9\uFF0C\u5148\u719F\u6089\u64CD\u4F5C\uFF0C\u5B8C\u6210\u4EE5\
+      \u540E\u53D1\u73B0\u67AA\u68B0\u7684\u5F39\u9053\u4F1A\u6BD4\u8F83\u771F\u5B9E\
+      \uFF0C \u4ECE\u5934\u5230\u5C3E\u90FD\u662F\u4F7F\u7528\u624B\u67AA\uFF0C\u4F46\
+      \u662F\u4E0D\u663E\u793A\u624B\u67AA\u5B50\u5F39\u548C\u6362\u5F39\u952E\u8FD9\
+      \u91CC\u4E0D\u4EBA\u6027\u5316\uFF0C\u4E0D\u7AD9\u6869\u7784\u57FA\u672C\u90FD\
+      \u4F1A\u98D8\u3002\u8FD8\u6709\u5219\u662F\uFF0C\u8FD1\u6218\u6B66\u5668\u653B\
+      \u51FB\u52A8\u4F5C\u6709\u4E9B\u50F5\u786C\uFF0C\u51FA\u62F3\u7684\u58F0\u97F3\
+      \u548C\u51FA\u5251\u7684\u58F0\u97F3\u662F\u4E00\u6837\u7684\uFF0C\u63A8\u8350\
+      \u5236\u4F5C\u80FD\u4E0D\u80FD\u6362\u4E2A\u97F3\u6548\u3002\u521D\u6B64\u4E4B\
+      \u5916\u8FD8\u6709\u4E00\u4E2A\u63A8\u8350\uFF0C\u5236\u4F5C\u53EF\u4EE5\u5148\
+      \u4F18\u5316\u597D\u4E00\u4E2A\uFF0C\u4E13\u7CBE\u4E00\u4E2A\u6A21\u5F0F\u505A\
+      \u597D\u4E00\u4E9B\uFF0C\u8FD9\u6837\u4F53\u9A8C\u611FoK\u4E86\uFF0C\u5C31\u80FD\
+      \u7ED9\u73A9\u5BB6\u73A9\u4E0B\u53BB\u7684\u52C7\u6C14\u554A\u3002\u53CD\u6B63\
+      \u6211\u4E5F\u5C31\u662F\u666E\u901A\u73A9\u5BB6\u968F\u4FBF\u8BF4\u8BF4\u3002\
+      \u5C31\u5F53\u662F\u5C0F\u5EFA\u8BAE\u5427\u3002\u9000\u6B3E\u662F\u4E0D\u5B58\
+      \u5728\u7684\u5C31\u5F53\u559C+1\u5427\uFF0C\u5E0C\u671B\u5236\u4F5C\u80FD\u518D\
+      \u63A5\u518D\u5389\u5457\uFF0C\u52A0\u6CB9\u54AF"
+    steam_purchase: true
+    timestamp_created: 1542109941
+    timestamp_updated: 1542109941
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: true
+  success: 1

@@ -1,0 +1,206 @@
+details:
+  data:
+    about_the_game: '<strong>Your goal: Escape to the ghosts and collect bonuses to
+      destroy them!</strong><br><br><ul class="bb_ul">    <li> Choose your game mode:
+      God Mode or First-Person View<br><br>    </li><li> VR In-Game Level Editor:<br>Make
+      your customs levels, put blocs, bonuses, ghosts, textures, musics ... fly in
+      your creations in VR.<br><br>    </li><li> More than 15 official maps<br><br>    </li><li>
+      Destructible environment<br><br>    </li><li> A.I.: Ghosts can analyze changes
+      to their environment and even break walls<br><br>    </li><li> 3 attack bonuses:
+      Proximity bomb, Fireball and Wall breaker<br><br>    </li><li> 3 defense bonuses:
+      Invulnerability, Ultra Speed and Invisibility</li></ul>'
+    achievements:
+      highlighted:
+      - name: Gold Base
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/2714dc4649ecf34f8e6ec7aa9fcdb171508042ca.jpg
+      - name: Gold Cube
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/56ddc6150bdf4ede49ff253d0cc2c0ada8aaf101.jpg
+      - name: Gold House
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/7ebb708e0a3532e9d21a9431d12d898b1aa6ddc1.jpg
+      - name: Gold Start
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/6f73c24a267975b9fd691970a202b6f3f39e0c86.jpg
+      - name: Gold Jail
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/1940da9bd3860df8af83da8567f508ef3181327c.jpg
+      - name: Gold Loop
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/5fd01ab839591487fbe288bf232735f31645345c.jpg
+      - name: Gold Maze
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/795e15e6100360d3091bcde67ad4ba1056ffaf0a.jpg
+      - name: Gold above
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/7bd410418932dac54f340d5201d479075dc004d4.jpg
+      - name: Gold Pool
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/8cf87777a5b5bb877de825b74630c3cb199ba24b.jpg
+      - name: Gold Quake
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505110/1debb5a6542b0f88c130d11c20d2de4aea7fc325.jpg
+      total: 31
+    background: https://steamcdn-a.akamaihd.net/steam/apps/505110/page_bg_generated_v6b.jpg?t=1572338911
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong>Your goal: Escape to the ghosts and collect bonuses
+      to destroy them!</strong><br><br><ul class="bb_ul">    <li> Choose your game
+      mode: God Mode or First-Person View<br><br>    </li><li> VR In-Game Level Editor:<br>Make
+      your customs levels, put blocs, bonuses, ghosts, textures, musics ... fly in
+      your creations in VR.<br><br>    </li><li> More than 15 official maps<br><br>    </li><li>
+      Destructible environment<br><br>    </li><li> A.I.: Ghosts can analyze changes
+      to their environment and even break walls<br><br>    </li><li> 3 attack bonuses:
+      Proximity bomb, Fireball and Wall breaker<br><br>    </li><li> 3 defense bonuses:
+      Invulnerability, Ultra Speed and Invisibility</li></ul>'
+    developers:
+    - Raf1Dev
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/505110/header.jpg?t=1572338911
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256694281
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256694281/movie480.mp4?t=1504277875
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256694281/movie_max.mp4?t=1504277875
+      name: Ghost Pursuit VR - Trailer 2.5
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256694281/movie.293x165.jpg?t=1504277875
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256694281/movie480.webm?t=1504277875
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256694281/movie_max.webm?t=1504277875
+    name: Ghost Pursuit VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ghost Pursuit VR - $3.99
+        packageid: 116359
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Ghost Pursuit VR - Commercial License - $3.99
+        packageid: 397244
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Ghost Pursuit VR
+    packages:
+    - 116359
+    - 397244
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel I5-4590
+        / AMD FX 8350 or newer<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GTX 970 / AMD 290 or newer<br></li><li><strong>Storage:</strong> 2
+        GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Raf1Dev
+    release_date:
+      coming_soon: false
+      date: Sep 1, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_0704a1b5ff803c320fa898826c10ff7d762be046.1920x1080.jpg?t=1572338911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_0704a1b5ff803c320fa898826c10ff7d762be046.600x338.jpg?t=1572338911
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_776679840ade7a26cc5d2aa4d8b16a55a6afb33a.1920x1080.jpg?t=1572338911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_776679840ade7a26cc5d2aa4d8b16a55a6afb33a.600x338.jpg?t=1572338911
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_4df1c9886babccc087e46be5f4bb5ad2f766be45.1920x1080.jpg?t=1572338911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_4df1c9886babccc087e46be5f4bb5ad2f766be45.600x338.jpg?t=1572338911
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_9a22f3798b3c2f0b15cd328e8a60bb397a4dc3fd.1920x1080.jpg?t=1572338911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_9a22f3798b3c2f0b15cd328e8a60bb397a4dc3fd.600x338.jpg?t=1572338911
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_2c94a7695c07bac2ecacf40f69fa8f40ae310c71.1920x1080.jpg?t=1572338911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/505110/ss_2c94a7695c07bac2ecacf40f69fa8f40ae310c71.600x338.jpg?t=1572338911
+    short_description: 'Your goal: Escape to the ghosts and collect bonuses to destroy
+      them! Be strategic and use the destructible environment to your advantage.'
+    steam_appid: 505110
+    support_info:
+      email: ghost.pursuit.vr@gmail.com
+      url: http://www.ghostpursuitvr.com
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>,
+      Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.ghostpursuitvr.com
+  success: true
+reviews:
+  cursor: AoJw19iOyOcCdcbptAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1544312280
+      num_games_owned: 5249
+      num_reviews: 185
+      playtime_at_review: 271
+      playtime_forever: 271
+      playtime_last_two_weeks: 0
+      steamid: '76561198026048770'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '47402085'
+    review: "This is fantastic value for your time/entertainment, even at the already\
+      \ low full price. It's essentially an action strategy game, with more emphasis\
+      \ on the strategy component than the action arcade games that inspired it, eg\
+      \ Pac-Man.\n\nYou can play in either God (top-down view) Mode or First-Person\
+      \ mode and each presents a fun and challenging take on the game. Levels consist\
+      \ of an arena filled with ghosts; you explore and subsequently re-murder the\
+      \ ghosts in order to win. Simple concept and solid execution. \n\nIcing on the\
+      \ cake is that it comes with a level editor. All told, this is a cheap and fun\
+      \ addition to your VR collection. Even if you're not personally into it, it\
+      \ helps round out your VR collection for when you have friends who wanna try\
+      \ different things."
+    steam_purchase: true
+    timestamp_created: 1544313030
+    timestamp_updated: 1544313030
+    voted_up: true
+    votes_funny: 0
+    votes_up: 3
+    weighted_vote_score: '0.550000011920928955'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,110 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/334810/page_bg_generated_v6b.jpg?t=1450426528
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Co-op
+      id: 9
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Workshop
+      id: 30
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Great War Team
+    fullgame:
+      appid: '316430'
+      name: 'Battle of Empires : 1914-1918'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/334810/header.jpg?t=1450426528
+    is_free: false
+    legal_notice: "\xA9 2014 Best Way Soft. Developed by Great War Team. All rights\
+      \ reserved. Published and distributed by Best Way Soft. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Battle of Empires : 1914-1918 - Editor'
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows Vista SP1 and higher<br></li><li><strong>Processor:</strong> 2 GHz\
+        \ Intel Dual Core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ 3D Hardware Accelerator Card Required \u2013 100% DirectX 9.0c compatible\
+        \ 128 MB Video Memory. ATI\xAE Radeon\xAE 9600 or Nvidia\xAE GeForce\xAE 5900<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound\
+        \ Card:</strong> OpenAL Compatible Sound Card</li></ul>"
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or Windows 8<br></li><li><strong>Processor:</strong> 3 GHz Intel
+        Quad Core processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 560 or AMD Radeon HD 7750 with 1 GB VRAM or better<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound
+        Card:</strong> OpenAL Compatible Sound Card</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Best Way Soft
+    release_date:
+      coming_soon: false
+      date: Dec 10, 2014
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/334810/ss_bf94e42a94c27a3a2f1bfe41533f9674aeb0549c.1920x1080.jpg?t=1450426528
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/334810/ss_bf94e42a94c27a3a2f1bfe41533f9674aeb0549c.600x338.jpg?t=1450426528
+    short_description: ''
+    steam_appid: 334810
+    support_info:
+      email: boe_support@bestway.com.ua
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://battle-of-empires.com/
+  success: true
+reviews:
+  cursor: AoJw47ng3PQCd7C/owI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 3
+    total_positive: 14
+    total_reviews: 17
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 101
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198023743487'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '76413703'
+    review: Can anyone show me how to open the Editor? I have bought all of the DLCs.
+      I've tried to use the Editor.exe file inside the game folder. However, I was
+      brought straight to the main game every time I tried to open the Editor.exe
+      file. Thanks.
+    steam_purchase: true
+    timestamp_created: 1600840126
+    timestamp_updated: 1600840126
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

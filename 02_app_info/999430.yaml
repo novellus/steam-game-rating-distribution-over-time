@@ -1,0 +1,196 @@
+details:
+  data:
+    about_the_game: "The best way to track Santa on Steam! <br />\r\n<br />\r\nRead\
+      \ Santa's very own blog as he prepares for the big day and receive exclusive\
+      \ news stories from the North Pole.<br />\r\n<br />\r\nUse the Advent Calendar\
+      \ to find out where Santa has been spotted during the run up to Christmas. Is\
+      \ he working in the toy factory? Going for a ride? or just having a cup of Tea?<br\
+      \ />\r\n<br />\r\nOn Christmas Eve he will travel the world delivering in every\
+      \ time zone from New Zealand to San Francisco just after the kids have fallen\
+      \ asleep.<br />\r\n<br />\r\nFeatures<br />\r\n<br />\r\n- Santa Tracker Globe<br\
+      \ />\r\n<br />\r\n- Christmas Countdown<br />\r\n<br />\r\n- Santa\u2019s Blog<br\
+      \ />\r\n<br />\r\n- News and Letters<br />\r\n<br />\r\n- Sightings of Santa"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/999430/page_bg_generated_v6b.jpg?t=1574438985
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The best way to track Santa on Steam! <br />\r\n<br />\r\
+      \nRead Santa's very own blog as he prepares for the big day and receive exclusive\
+      \ news stories from the North Pole.<br />\r\n<br />\r\nUse the Advent Calendar\
+      \ to find out where Santa has been spotted during the run up to Christmas. Is\
+      \ he working in the toy factory? Going for a ride? or just having a cup of Tea?<br\
+      \ />\r\n<br />\r\nOn Christmas Eve he will travel the world delivering in every\
+      \ time zone from New Zealand to San Francisco just after the kids have fallen\
+      \ asleep.<br />\r\n<br />\r\nFeatures<br />\r\n<br />\r\n- Santa Tracker Globe<br\
+      \ />\r\n<br />\r\n- Christmas Countdown<br />\r\n<br />\r\n- Santa\u2019s Blog<br\
+      \ />\r\n<br />\r\n- News and Letters<br />\r\n<br />\r\n- Sightings of Santa"
+    developers:
+    - Onteca Ltd
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/999430/header.jpg?t=1574438985
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Any recent<br></li><li><strong>Processor:</strong>
+        OS 10.15<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> OS 10.15<br></li><li><strong>Processor:</strong>
+        CPU: SSE2<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Graphics:</strong>
+        3d Graphics<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>'
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256738069
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256738069/movie480.mp4?t=1573281815
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256738069/movie_max.mp4?t=1573281815
+      name: Santa Tracker Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256738069/movie.293x165.jpg?t=1573281815
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256738069/movie480.webm?t=1573281815
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256738069/movie_max.webm?t=1573281815
+    name: Santa Tracker
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Santa Tracker - $2.99
+        packageid: 330166
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Santa Tracker - Commercial License - $2.99
+        packageid: 415023
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Santa Tracker
+    packages:
+    - 330166
+    - 415023
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1+<br></li><li><strong>Processor:</strong> CPU: SSE2<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> CPU: SSE2 with DX10<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>'
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Onteca Ltd
+    release_date:
+      coming_soon: false
+      date: Nov 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_3894b0843ab2f3b8bfa7043526fa7653a3969e50.1920x1080.jpg?t=1574438985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_3894b0843ab2f3b8bfa7043526fa7653a3969e50.600x338.jpg?t=1574438985
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_125c12511b6cdb2a13e1f81cce621fbc90b6d8e8.1920x1080.jpg?t=1574438985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_125c12511b6cdb2a13e1f81cce621fbc90b6d8e8.600x338.jpg?t=1574438985
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_54590a31ce38ea1af71990959f237a0669ba33d1.1920x1080.jpg?t=1574438985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_54590a31ce38ea1af71990959f237a0669ba33d1.600x338.jpg?t=1574438985
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_d295d62881a6f46ec8613e36155f10f3c1393b93.1920x1080.jpg?t=1574438985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_d295d62881a6f46ec8613e36155f10f3c1393b93.600x338.jpg?t=1574438985
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_f7e7f2370ac2c2f1a9ba3c4879cfd69737a014ae.1920x1080.jpg?t=1574438985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_f7e7f2370ac2c2f1a9ba3c4879cfd69737a014ae.600x338.jpg?t=1574438985
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_51d151249ced0d249893d3b9d7dd44d8762c5ed6.1920x1080.jpg?t=1574438985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_51d151249ced0d249893d3b9d7dd44d8762c5ed6.600x338.jpg?t=1574438985
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_604366df43b1c9b9c40d51335b20be8615370e78.1920x1080.jpg?t=1574438985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/999430/ss_604366df43b1c9b9c40d51335b20be8615370e78.600x338.jpg?t=1574438985
+    short_description: The best way to track Santa on Steam! Read Santa's very own
+      blog as he prepares for the big day and receive exclusive news stories from
+      the North Pole. Use the Advent Calendar to find out where Santa has been spotted
+      during the run up to Christmas. Is he working in the toy factory or going for
+      a ride?
+    steam_appid: 999430
+    support_info:
+      email: info@onteca.com
+      url: www.onteca.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4u7X3ofQCfsn0ngI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1608843968
+      num_games_owned: 22
+      num_reviews: 23
+      playtime_at_review: 6
+      playtime_forever: 15
+      playtime_last_two_weeks: 0
+      steamid: '76561198313323539'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75211934'
+    review: "I love this Santa Tracker. Always liked the one from NORAD, so this one\
+      \ was a must-buy for me, especially since it's not expensive. \n\nBut unlike\
+      \ the NORAD tracker, which tells you to come back on 1. December, this one is\
+      \ active all through the year. Just click on \"Where is Santa\", and you can\
+      \ see him flying around the world, looking for items and good children, and\
+      \ then flies back home to read some letters, and then goes off again. \n\nIt's\
+      \ so much more fun to be able to see something all year round, especially for\
+      \ someone, like me, who loves everything Christmas, and loves it all year round.\
+      \ :)"
+    steam_purchase: true
+    timestamp_created: 1598866435
+    timestamp_updated: 1598866435
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

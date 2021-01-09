@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: "The soundtrack of Combat Arena X by Jonah Senzel.<br />\r\n<br\
+      \ />\r\nCover illustration by Nadia Ramlan."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/962921/page_bg_generated_v6b.jpg?t=1581627102
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The soundtrack of Combat Arena X by Jonah Senzel.<br />\r\
+      \n<br />\r\nCover illustration by Nadia Ramlan."
+    developers:
+    - Jonah Senzel
+    - Daniel Mullins Games
+    fullgame:
+      appid: '510420'
+      name: The Hex
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/962921/header.jpg?t=1581627102
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Hex - "Combat Arena X" Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Combat Arena X - Original Soundtrack - $0.99
+        packageid: 315039
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy The Hex - "Combat Arena X" Original Soundtrack
+    packages:
+    - 315039
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Daniel Mullins Games
+    release_date:
+      coming_soon: false
+      date: Oct 22, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/962921/ss_c5ad522f9f62315c040ec801a951cb370f970790.1920x1080.jpg?t=1581627102
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/962921/ss_c5ad522f9f62315c040ec801a951cb370f970790.600x338.jpg?t=1581627102
+    short_description: The soundtrack of Combat Arena X by Jonah Senzel.
+    steam_appid: 962921
+    support_info:
+      email: danielmullinsgames@gmail.com
+      url: https://www.facebook.com/thehexgame/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://www.the-hex.com/
+  success: true
+reviews:
+  cursor: AoJ4iLquuOcCcL6mtAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 257
+      num_reviews: 9
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197970386956'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '47264736'
+    review: My most favorite track is Sado's Theme!
+    steam_purchase: true
+    timestamp_created: 1543784485
+    timestamp_updated: 1543784485
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.550561785697937012'
+    written_during_early_access: false
+  success: 1

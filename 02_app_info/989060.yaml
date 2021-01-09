@@ -1,0 +1,316 @@
+details:
+  data:
+    about_the_game: "Virtual Home Theater (VHT) is a media player and desktop mirroring\
+      \ software that simulate the perceived audio and video of a real cinema or home\
+      \ theater system in virtual space, delivering true 3D spatial audio in VR, replacing\
+      \ the old &quot;head-locked&quot; stereo audio technology.<br><br><br>The demo\
+      \ version has all the features of the purchased version, except that the utilization\
+      \ duration for each media file playback and desktop mirroring is limited to\
+      \ few minutes.<br><br><br><strong>With Virtual Home Theater you can:</strong><br>\t\
+      - watch 2D or 3D movies (up to 8K (7680x7680)@60fps, 4K@120fps, 10-bit, YUV\
+      \ 4:2:0) on a virtual big screen with virtual audio speakers (mono, stereo,\
+      \ 5.1, 7.1, etc.) and subtitle<br>\t- listening to stereo, 5.1 and 7.1 surround\
+      \ channels music as on a real audio home theater system<br>\t- listening to\
+      \ ambisonics audio<br>\t- watch 180/360 VR videos<br>\t- play non-VR games with\
+      \ virtual 5.1 surround audio (also in stereo Side-by-Side mode if the game support\
+      \ it), browsing or watching a media stream on a virtual desktop big screen with\
+      \ your default Windows audio device mirrored as virtual audio speakers inside\
+      \ of VHT<br><br><br>It is recommended to use a quality flat-response studio/monitor\
+      \ headphones for a good audio soundstage.<br><br><br><strong>Some of the main\
+      \ features are:</strong><br>\t- HRTF-based 6 DoF real time binaural sound scene\
+      \ rendering for multiple sound sources and listener's head orientation (roll,\
+      \ pitch, yaw) and position (x, y, z)<br>\t- multiple audio and video formats\
+      \ support<br>\t- multiple 3D video formats<br>\t- support hardware video decoding\
+      \ playback up to 8K (7680x7680)@60fps, 4K@120fps, 10-bit, YUV 4:2:0<br>\t- support\
+      \ software video decoding up to 8K(7680x7680), 10-bit, YUV 4:4:4<br>\t- support\
+      \ BT.601, BT.709 (sRGB), BT.2020 and DCI-P3 color space (auto selection or manual\
+      \ override)<br>\t- gamut mapping to BT.709, DCI-P3 or to the HMD's color gamut<br>\t\
+      - display video's native frame rate up to the HMD's frame rate<br>\t- up-sampling\
+      \ the video's native frame rate to the HMD's refresh rate by using frame interpolation<br>\t\
+      - smooth-playback capability to reduce flicker, judder and stutter for videos\
+      \ with different fps than the VR headset's fps<br>\t- video image filters (sharpen,\
+      \ etc.) and color correction<br>\t- support first-, second- and third-order\
+      \ ambisonics in the AmbiX and FuMa formats<br>\t- ambisonics + head-locked stereo\
+      \ audio format playback<br>\t- multiple HRTFs selections to match your head\
+      \ auditory characteristics<br>\t- 32 audio channel masks (simulated as virtual\
+      \ speakers, mirroring the audio output channels from played media's audio track)<br>\t\
+      - 27 audio channel layouts for non-ambisonics audio: mono, stereo, 2.1, surround,\
+      \ 5.1, 6.0, 7.1, Hexadecagonal (16 audio channels), etc...<br>\t- use a lower\
+      \ or higher order ambisonics fields (virtual speakers layouts) to play an ambisonics\
+      \ audio<br>\t- playback support for recorded binaural audio track<br>\t- change\
+      \ the virtual speakers position<br>\t- use your preferred headphones by selecting\
+      \ a different audio output device<br>\t- subtitles: internal (bitmap, text)\
+      \ and external (.srt, .idx)<br>\t- track selection for audio, video and subtitle<br>\t\
+      - Unicode font support for non-Latin character used for subtitle and for media\
+      \ folder/file name<br>\t- support access to network shared folders from a NAS\
+      \ (Network Attached Storage) system<br>\t- azimuth, zoom level and objects apparent\
+      \ size change for 180 and 360-degree videos<br>\t- change the audio offset azimuth\
+      \ from video image for 360-degree videos<br>\t- 180-degree front dome, 360-degree\
+      \ sphere Equirectangular (EQR) and 360-degree Equiangular cubemap (EAC) video\
+      \ mapping/projection<br>\t- play a Network Stream from a direct URL to media<br>\t\
+      - have a 'sneak peek' of your PC desktop (e.g. for internet browsing) when you\
+      \ watch a movie or listening to music within VHT<br>\t- desktop mirroring will\
+      \ mirror (show inside of VHT) your PC desktops screens (limited to the number\
+      \ of physical displays connected to your main GPU)<br>\t- desktop mirroring\
+      \ will mirror (simulate inside of VHT) your Windows default audio device channels\
+      \ output (no need to have real speakers connected to your PC) as virtual speakers<br>\t\
+      - play a non-VR 3D game in stereoscopic mode (Side-by-Side or interlaced) if\
+      \ the game support it<br>\t- virtual speakers layout and video screen re-position\
+      \ for a more comfortable experience in any sited position (e.g. lying on bed)<br>\t\
+      - show in real time a 3D surface or volumetric graph representation of sound\
+      \ waves pressure amplitude propagation from each virtual speaker<br>\t- designed\
+      \ to render the media's video original encoded picture quality and format without\
+      \ degradation (original resolution, picture details, colors and frame rate)<br>\t\
+      - designed to render the media's audio track original encoded sound quality\
+      \ and layout without degradation or enhancements, as intended by media creator<br>\t\
+      - optimized code for speed and low installation folder size (40 MB)<br><br><br><strong>Benefits\
+      \ of Virtual Home Theater over the real home theater system:</strong><br>\t\
+      - is less expensive<br>\t- you don't need to build it<br>\t- you can change\
+      \ position, size and shape of the screen<br>\t- you can change position of the\
+      \ virtual audio speakers<br>\t- no need to do a real mic calibration for your\
+      \ audio system<br>\t- high contrast and wide color gamut due to OLED technology\
+      \ used for some HMD displays<br>\t- no disturbed neighbors<br>\t- no heavy equipment\
+      \ to carry with you if you change your home location<br>\t- environment friendly\
+      \ due to less energy consumption than a complex audio/video system equipment<br>\t\
+      - other family members can enjoy their normal activity in the same room (no\
+      \ need to turn off the lights or lower the audio volume)<br>\t- no sound attenuation\
+      \ by obstructions<br>\t- no sound denaturation by walls reflections<br>\t- you\
+      \ can experience ambisonics audio"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/989060/page_bg_generated_v6b.jpg?t=1606498785
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1107280
+      description: Virtual Home Theater Demo
+    detailed_description: "Virtual Home Theater (VHT) is a media player and desktop\
+      \ mirroring software that simulate the perceived audio and video of a real cinema\
+      \ or home theater system in virtual space, delivering true 3D spatial audio\
+      \ in VR, replacing the old &quot;head-locked&quot; stereo audio technology.<br><br><br>The\
+      \ demo version has all the features of the purchased version, except that the\
+      \ utilization duration for each media file playback and desktop mirroring is\
+      \ limited to few minutes.<br><br><br><strong>With Virtual Home Theater you can:</strong><br>\t\
+      - watch 2D or 3D movies (up to 8K (7680x7680)@60fps, 4K@120fps, 10-bit, YUV\
+      \ 4:2:0) on a virtual big screen with virtual audio speakers (mono, stereo,\
+      \ 5.1, 7.1, etc.) and subtitle<br>\t- listening to stereo, 5.1 and 7.1 surround\
+      \ channels music as on a real audio home theater system<br>\t- listening to\
+      \ ambisonics audio<br>\t- watch 180/360 VR videos<br>\t- play non-VR games with\
+      \ virtual 5.1 surround audio (also in stereo Side-by-Side mode if the game support\
+      \ it), browsing or watching a media stream on a virtual desktop big screen with\
+      \ your default Windows audio device mirrored as virtual audio speakers inside\
+      \ of VHT<br><br><br>It is recommended to use a quality flat-response studio/monitor\
+      \ headphones for a good audio soundstage.<br><br><br><strong>Some of the main\
+      \ features are:</strong><br>\t- HRTF-based 6 DoF real time binaural sound scene\
+      \ rendering for multiple sound sources and listener's head orientation (roll,\
+      \ pitch, yaw) and position (x, y, z)<br>\t- multiple audio and video formats\
+      \ support<br>\t- multiple 3D video formats<br>\t- support hardware video decoding\
+      \ playback up to 8K (7680x7680)@60fps, 4K@120fps, 10-bit, YUV 4:2:0<br>\t- support\
+      \ software video decoding up to 8K(7680x7680), 10-bit, YUV 4:4:4<br>\t- support\
+      \ BT.601, BT.709 (sRGB), BT.2020 and DCI-P3 color space (auto selection or manual\
+      \ override)<br>\t- gamut mapping to BT.709, DCI-P3 or to the HMD's color gamut<br>\t\
+      - display video's native frame rate up to the HMD's frame rate<br>\t- up-sampling\
+      \ the video's native frame rate to the HMD's refresh rate by using frame interpolation<br>\t\
+      - smooth-playback capability to reduce flicker, judder and stutter for videos\
+      \ with different fps than the VR headset's fps<br>\t- video image filters (sharpen,\
+      \ etc.) and color correction<br>\t- support first-, second- and third-order\
+      \ ambisonics in the AmbiX and FuMa formats<br>\t- ambisonics + head-locked stereo\
+      \ audio format playback<br>\t- multiple HRTFs selections to match your head\
+      \ auditory characteristics<br>\t- 32 audio channel masks (simulated as virtual\
+      \ speakers, mirroring the audio output channels from played media's audio track)<br>\t\
+      - 27 audio channel layouts for non-ambisonics audio: mono, stereo, 2.1, surround,\
+      \ 5.1, 6.0, 7.1, Hexadecagonal (16 audio channels), etc...<br>\t- use a lower\
+      \ or higher order ambisonics fields (virtual speakers layouts) to play an ambisonics\
+      \ audio<br>\t- playback support for recorded binaural audio track<br>\t- change\
+      \ the virtual speakers position<br>\t- use your preferred headphones by selecting\
+      \ a different audio output device<br>\t- subtitles: internal (bitmap, text)\
+      \ and external (.srt, .idx)<br>\t- track selection for audio, video and subtitle<br>\t\
+      - Unicode font support for non-Latin character used for subtitle and for media\
+      \ folder/file name<br>\t- support access to network shared folders from a NAS\
+      \ (Network Attached Storage) system<br>\t- azimuth, zoom level and objects apparent\
+      \ size change for 180 and 360-degree videos<br>\t- change the audio offset azimuth\
+      \ from video image for 360-degree videos<br>\t- 180-degree front dome, 360-degree\
+      \ sphere Equirectangular (EQR) and 360-degree Equiangular cubemap (EAC) video\
+      \ mapping/projection<br>\t- play a Network Stream from a direct URL to media<br>\t\
+      - have a 'sneak peek' of your PC desktop (e.g. for internet browsing) when you\
+      \ watch a movie or listening to music within VHT<br>\t- desktop mirroring will\
+      \ mirror (show inside of VHT) your PC desktops screens (limited to the number\
+      \ of physical displays connected to your main GPU)<br>\t- desktop mirroring\
+      \ will mirror (simulate inside of VHT) your Windows default audio device channels\
+      \ output (no need to have real speakers connected to your PC) as virtual speakers<br>\t\
+      - play a non-VR 3D game in stereoscopic mode (Side-by-Side or interlaced) if\
+      \ the game support it<br>\t- virtual speakers layout and video screen re-position\
+      \ for a more comfortable experience in any sited position (e.g. lying on bed)<br>\t\
+      - show in real time a 3D surface or volumetric graph representation of sound\
+      \ waves pressure amplitude propagation from each virtual speaker<br>\t- designed\
+      \ to render the media's video original encoded picture quality and format without\
+      \ degradation (original resolution, picture details, colors and frame rate)<br>\t\
+      - designed to render the media's audio track original encoded sound quality\
+      \ and layout without degradation or enhancements, as intended by media creator<br>\t\
+      - optimized code for speed and low installation folder size (40 MB)<br><br><br><strong>Benefits\
+      \ of Virtual Home Theater over the real home theater system:</strong><br>\t\
+      - is less expensive<br>\t- you don't need to build it<br>\t- you can change\
+      \ position, size and shape of the screen<br>\t- you can change position of the\
+      \ virtual audio speakers<br>\t- no need to do a real mic calibration for your\
+      \ audio system<br>\t- high contrast and wide color gamut due to OLED technology\
+      \ used for some HMD displays<br>\t- no disturbed neighbors<br>\t- no heavy equipment\
+      \ to carry with you if you change your home location<br>\t- environment friendly\
+      \ due to less energy consumption than a complex audio/video system equipment<br>\t\
+      - other family members can enjoy their normal activity in the same room (no\
+      \ need to turn off the lights or lower the audio volume)<br>\t- no sound attenuation\
+      \ by obstructions<br>\t- no sound denaturation by walls reflections<br>\t- you\
+      \ can experience ambisonics audio"
+    developers:
+    - Aurel Constantinescu
+    genres:
+    - description: Audio Production
+      id: '52'
+    - description: Utilities
+      id: '57'
+    - description: Video Production
+      id: '58'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/989060/header.jpg?t=1606498785
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256757133
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757133/movie480.mp4?t=1565754218
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757133/movie_max.mp4?t=1565754218
+      name: VHT_trailer_v3
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256757133/movie.293x165.jpg?t=1565754218
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757133/movie480.webm?t=1565754218
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757133/movie_max.webm?t=1565754218
+    name: Virtual Home Theater
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Virtual Home Theater - $29.99
+        packageid: 325800
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy Virtual Home Theater
+    packages:
+    - 325800
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10
+        64-bit<br></li><li><strong>Processor:</strong> Intel i5-4590 / AMD FX 8350
+        or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GTX 1050 Ti / AMD Radeon RX 470 or better<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 40 MB available space<br></li><li><strong>Sound
+        Card:</strong> HMD''s built-in or equivalent<br></li><li><strong>Additional
+        Notes:</strong> Sound Card #2: virtual or PC hardware 16-bit 44.1 kHz stereo
+        output</li></ul>'
+      recommended: '<strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7-8700 / AMD
+        Ryzen 5 3600X or better<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA RTX 2060 / AMD Radeon RX 5700 or better<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 40 MB available space<br></li><li><strong>Sound
+        Card:</strong> external usb DAC/AMP combo (32-bit 48 kHz stereo output)<br></li><li><strong>Additional
+        Notes:</strong> Sound Card #2: virtual or PC hardware 32-bit 48 kHz 7.1-channels
+        output</li></ul>'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 2999
+      final_formatted: $29.99
+      initial: 2999
+      initial_formatted: ''
+    publishers:
+    - Aurel Constantinescu
+    release_date:
+      coming_soon: false
+      date: Aug 27, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_dc71c3f99db093038c453422c5ed6dd9af3156a9.1920x1080.jpg?t=1606498785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_dc71c3f99db093038c453422c5ed6dd9af3156a9.600x338.jpg?t=1606498785
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_2ea6b13f83197d67f0eb6b23ebeb46347612a986.1920x1080.jpg?t=1606498785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_2ea6b13f83197d67f0eb6b23ebeb46347612a986.600x338.jpg?t=1606498785
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_bbfd44b4a96176ff78290aaad3d61a8f728680ed.1920x1080.jpg?t=1606498785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_bbfd44b4a96176ff78290aaad3d61a8f728680ed.600x338.jpg?t=1606498785
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_0514ff6871a93a171469c0a57eda59374dc74f29.1920x1080.jpg?t=1606498785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_0514ff6871a93a171469c0a57eda59374dc74f29.600x338.jpg?t=1606498785
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_d1fed5b687c3dfd69b637e751fd887a345b3363f.1920x1080.jpg?t=1606498785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_d1fed5b687c3dfd69b637e751fd887a345b3363f.600x338.jpg?t=1606498785
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_f69e616952f981d098ff8167175d193ee49e1df2.1920x1080.jpg?t=1606498785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_f69e616952f981d098ff8167175d193ee49e1df2.600x338.jpg?t=1606498785
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_6d2f833fbda175500ab4f3ef0b76beebc95c9887.1920x1080.jpg?t=1606498785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989060/ss_6d2f833fbda175500ab4f3ef0b76beebc95c9887.600x338.jpg?t=1606498785
+    short_description: Virtual Home Theater (VHT) is a media player and desktop mirroring
+      software that simulate the perceived audio and video of a real cinema or home
+      theater system in virtual space, delivering true 3D spatial audio in VR, replacing
+      the old &quot;head-locked&quot; stereo audio technology.
+    steam_appid: 989060
+    support_info:
+      email: support@virtualhometheater.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: https://www.virtualhometheater.com
+  success: true
+reviews:
+  cursor: AoJwxrbT5fYCdeqiwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 11
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 1609915642
+      num_games_owned: 83
+      num_reviews: 1
+      playtime_at_review: 36
+      playtime_forever: 76
+      playtime_last_two_weeks: 76
+      steamid: '76561197966807124'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83957413'
+    review: This is the only player I've found that could play 6k and 8k videos without
+      stuttering on my system.
+    steam_purchase: true
+    timestamp_created: 1609728587
+    timestamp_updated: 1609728636
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

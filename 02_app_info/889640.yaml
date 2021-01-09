@@ -1,0 +1,142 @@
+details:
+  data:
+    about_the_game: 'The Art of A Light in the Dark is a mini artbook containing materials
+      from A Light in the Dark.<br><br><strong>PLEASE NOTE</strong>: This artbook
+      contains spoilers to A Light in the Dark. It is recommended that you finish
+      the game before reading through it.<br><br>The artbook is 28 pages long and
+      contains artwork, concept designs, background artwork, and interviews with the
+      staff behind the game.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/889640/page_bg_generated_v6b.jpg?t=1580430356
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: null
+    detailed_description: 'The Art of A Light in the Dark is a mini artbook containing
+      materials from A Light in the Dark.<br><br><strong>PLEASE NOTE</strong>: This
+      artbook contains spoilers to A Light in the Dark. It is recommended that you
+      finish the game before reading through it.<br><br>The artbook is 28 pages long
+      and contains artwork, concept designs, background artwork, and interviews with
+      the staff behind the game.'
+    developers:
+    - CreSpirit
+    - Storia
+    - Narrator
+    fullgame:
+      appid: '766280'
+      name: A Light in the Dark
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/889640/header.jpg?t=1580430356
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+    name: The Art of A Light in the Dark
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Art of A Light in the Dark - $7.99
+        packageid: 283574
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy The Art of A Light in the Dark
+    packages:
+    - 283574
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889640/ss_50ca8aa1b1577f7182fd7f1097093699e45b1510.1920x1080.jpg?t=1580430356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889640/ss_50ca8aa1b1577f7182fd7f1097093699e45b1510.600x338.jpg?t=1580430356
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889640/ss_25cb13b9b9980668e422db793bc42ddc67ab4e33.1920x1080.jpg?t=1580430356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889640/ss_25cb13b9b9980668e422db793bc42ddc67ab4e33.600x338.jpg?t=1580430356
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/889640/ss_ef770ce01f3edd676eb4569a96db5cd02dc2af4d.1920x1080.jpg?t=1580430356
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/889640/ss_ef770ce01f3edd676eb4569a96db5cd02dc2af4d.600x338.jpg?t=1580430356
+    short_description: The Art of A Light in the Dark is a mini artbook containing
+      materials from A Light in the Dark. The artbook is 28 pages long and contains
+      artwork, concept designs, background artwork, and interviews with the staff
+      behind the game.
+    steam_appid: 889640
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ41IO/jfMCfazmkgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 9 user reviews
+    total_negative: 0
+    total_positive: 9
+    total_reviews: 9
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 32
+      num_reviews: 30
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198452245161'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '72037069'
+    review: It's a nice story
+    steam_purchase: true
+    timestamp_created: 1593885597
+    timestamp_updated: 1593885597
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

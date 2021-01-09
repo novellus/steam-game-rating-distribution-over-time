@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: "This is a collection of BGM tracks from The Fruit of Grisaia.<br\
+      \ />\r\nThe tracks are available in both MP3 and WAV (high-quality) format.<br\
+      \ />\r\n<br />\r\nBGM Production:<br />\r\nTrack 1,4,8,9,13,16,20,22,28,29 Junpei\
+      \ Fujita(Elements Garden)<br />\r\nTrack 2,5,6,7,11,17,19,21,27 Hitoshi Fujima(Elements\
+      \ Garden)<br />\r\nTrack 3,10,12,14,15,18,23,24,25,30 Haruki Mori(Elements Garden)<br\
+      \ />\r\nTrack 26 Hajime Kikuchi(eufonius)<br />\r\n<br />\r\n<br />\r\nMP3:192kbps<br\
+      \ />\r\nWAV:44.1kHz 16bit"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1105380/page_bg_generated_v6b.jpg?t=1581627667
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is a collection of BGM tracks from The Fruit of Grisaia.<br\
+      \ />\r\nThe tracks are available in both MP3 and WAV (high-quality) format.<br\
+      \ />\r\n<br />\r\nBGM Production:<br />\r\nTrack 1,4,8,9,13,16,20,22,28,29 Junpei\
+      \ Fujita(Elements Garden)<br />\r\nTrack 2,5,6,7,11,17,19,21,27 Hitoshi Fujima(Elements\
+      \ Garden)<br />\r\nTrack 3,10,12,14,15,18,23,24,25,30 Haruki Mori(Elements Garden)<br\
+      \ />\r\nTrack 26 Hajime Kikuchi(eufonius)<br />\r\n<br />\r\n<br />\r\nMP3:192kbps<br\
+      \ />\r\nWAV:44.1kHz 16bit"
+    developers:
+    - Frontwing
+    fullgame:
+      appid: '345610'
+      name: The Fruit of Grisaia
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1105380/header.jpg?t=1581627667
+    is_free: false
+    legal_notice: "Copyright \xA9 2013 Frontwing Co., Ltd. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: The Fruit of Grisaia Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Fruit of Grisaia Original Soundtrack - $14.99
+        packageid: 373380
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy The Fruit of Grisaia Original Soundtrack
+    packages:
+    - 373380
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        73 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 544 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - Frontwing USA
+    release_date:
+      coming_soon: false
+      date: Jun 20, 2019
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1105380/ss_ccd7eccc51cb2f5e487c9ba7f23862f7c3082ad9.1920x1080.jpg?t=1581627667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1105380/ss_ccd7eccc51cb2f5e487c9ba7f23862f7c3082ad9.600x338.jpg?t=1581627667
+    short_description: This is a collection of BGM tracks from The Fruit of Grisaia.
+    steam_appid: 1105380
+    support_info:
+      email: ask@frontwing.co.jp
+      url: ''
+    type: music
+    website: http://en.frontwing.jp/games/the-fruit-of-grisaia.html
+  success: true
+reviews:
+  cursor: AoJ45d/F5vMCcaCSmgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 129
+      num_reviews: 3
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198258527239'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '73961985'
+    review: 'I absolutely love the soundtrack and the sheer nostalgia it gives me,
+      but be warned: this is not the full OST, and ONLY contains the BGM for the game.
+      The main theme/ "opening" song, and the various ending songs are NOT included
+      in this. At $15 it''s still worth it for me personally, but just barely.'
+    steam_purchase: true
+    timestamp_created: 1596873703
+    timestamp_updated: 1596873703
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

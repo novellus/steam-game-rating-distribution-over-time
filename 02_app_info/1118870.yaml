@@ -1,0 +1,191 @@
+details:
+  data:
+    about_the_game: "Sort monsters.  Then battle them in the order you chose. Open\
+      \ chests for upgrades.  Finish the dungeon to gain powerful new swords, chestplates,\
+      \ and amulets.<br />\r\n<br />\r\nFind more maps to tougher dungeons.  Upgrade\
+      \ your character, combine old items to forge new ones, and finally defeat the\
+      \ Vampire Queen.<br />\r\n<br />\r\nThat's it.  Sort Battle: Dungeon is simple\
+      \ and fun, the kind of game that you will play late into the night.<br />\r\n\
+      <br />\r\nHi, I'm Thom Robertson, and I made Sort Battle: Dungeon because I\
+      \ thought that sorting was inherently fun, and I wanted to explore that fun\
+      \ within the context of<br />\r\na videogame.  Putting things in bins; sorting\
+      \ the cups in the cupboard; eating all the red jellybeans first.  These are\
+      \ sorting behaviors we all do, generally speaking.<br />\r\nI wanted to see\
+      \ if it was &quot;videogame&quot; fun, and I had a vision in my head of an array\
+      \ of monsters that the player could drag and sort.  So I built a prototype,\
+      \ and<br />\r\nmy first few testers were very pleased, so I proceeded to make\
+      \ this game."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1118870/page_bg_generated_v6b.jpg?t=1565371306
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>Mod support</h1><p>Sort Battle Dungeon is ripe for\
+      \ modding!  All game data is easily edit-able in text configuration files, PNG\
+      \ images, WAV and OGG sound files.  Plus, the battle logic is all inside an\
+      \ editable PYTHON script.  The game itself is set up to easily accept and switch\
+      \ between mod packages.  So mod this game!</p><br><h1>About the Game</h1>Sort\
+      \ monsters.  Then battle them in the order you chose. Open chests for upgrades.\
+      \  Finish the dungeon to gain powerful new swords, chestplates, and amulets.\r\
+      \n\r\nFind more maps to tougher dungeons.  Upgrade your character, combine old\
+      \ items to forge new ones, and finally defeat the Vampire Queen.\r\n\r\nThat's\
+      \ it.  Sort Battle: Dungeon is simple and fun, the kind of game that you will\
+      \ play late into the night.\r\n\r\nHi, I'm Thom Robertson, and I made Sort Battle:\
+      \ Dungeon because I thought that sorting was inherently fun, and I wanted to\
+      \ explore that fun within the context of\r\na videogame.  Putting things in\
+      \ bins; sorting the cups in the cupboard; eating all the red jellybeans first.\
+      \  These are sorting behaviors we all do, generally speaking.\r\nI wanted to\
+      \ see if it was &quot;videogame&quot; fun, and I had a vision in my head of\
+      \ an array of monsters that the player could drag and sort.  So I built a prototype,\
+      \ and\r\nmy first few testers were very pleased, so I proceeded to make this\
+      \ game."
+    developers:
+    - Incandescent Workshop LLC
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1118870/header.jpg?t=1565371306
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256755349
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256755349/movie480.mp4?t=1562901186
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256755349/movie_max.mp4?t=1562901186
+      name: long trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256755349/movie.293x165.jpg?t=1562901186
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256755349/movie480.webm?t=1562901186
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256755349/movie_max.webm?t=1562901186
+    - highlight: true
+      id: 256755347
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256755347/movie480.mp4?t=1562901193
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256755347/movie_max.mp4?t=1562901193
+      name: short trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256755347/movie.293x165.jpg?t=1562901193
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256755347/movie480.webm?t=1562901193
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256755347/movie_max.webm?t=1562901193
+    name: 'Sort Battle: Dungeon'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Sort Battle: Dungeon - $9.99'
+        packageid: 379016
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: 'Buy Sort Battle: Dungeon'
+    packages:
+    - 379016
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8.1 64-bit<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong>
+        2 MB RAM<br></li><li><strong>Graphics:</strong> 512MB dedicated VRAM<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional
+        Notes:</strong> These system requirements may change due to user feedback.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 64-bit<br></li><li><strong>Processor:</strong> 2.0 GHz Processor<br></li><li><strong>Memory:</strong>
+        4 MB RAM<br></li><li><strong>Graphics:</strong> 512MB dedicated VRAM<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional
+        Notes:</strong> These system requirements may change due to user feedback.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Incandescent Workshop LLC
+    release_date:
+      coming_soon: false
+      date: Jul 25, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_629bd45b83e763039a50fbb50b40fb663ab2a326.1920x1080.jpg?t=1565371306
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_629bd45b83e763039a50fbb50b40fb663ab2a326.600x338.jpg?t=1565371306
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_bac14ea96fa4bca375808cd122fd504aec4d5494.1920x1080.jpg?t=1565371306
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_bac14ea96fa4bca375808cd122fd504aec4d5494.600x338.jpg?t=1565371306
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_5f958f29d18184b162f490e9310dfd2bf3bde2df.1920x1080.jpg?t=1565371306
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_5f958f29d18184b162f490e9310dfd2bf3bde2df.600x338.jpg?t=1565371306
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_992fd8d56151e04a47ee34eddc6eee8840569ddf.1920x1080.jpg?t=1565371306
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_992fd8d56151e04a47ee34eddc6eee8840569ddf.600x338.jpg?t=1565371306
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_47413bdedee83b70d4d75cc790cbde5f242443ec.1920x1080.jpg?t=1565371306
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_47413bdedee83b70d4d75cc790cbde5f242443ec.600x338.jpg?t=1565371306
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_3f2a0914d1154755c5df6c65afcfd6f32acf06b1.1920x1080.jpg?t=1565371306
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1118870/ss_3f2a0914d1154755c5df6c65afcfd6f32acf06b1.600x338.jpg?t=1565371306
+    short_description: Sort monsters. Then battle them in the order you chose. Open
+      chests for upgrades. Finish the dungeon to gain powerful new swords, chestplates,
+      and amulets. Find more maps to tougher dungeons. Upgrade your character, combine
+      old items to forge new ones, and finally defeat the Vampire Queen. That's it.
+    steam_appid: 1118870
+    support_info:
+      email: ''
+      url: http://incandescentworkshop.com/contact-me
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwwYDZs/QCev6poAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1585099277
+      num_games_owned: 3822
+      num_reviews: 25
+      playtime_at_review: 60
+      playtime_forever: 60
+      playtime_last_two_weeks: 0
+      steamid: '76561197970812870'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75583466'
+    review: The gameplay was already thin for the price, but the idea was interesting
+      enough to give it a try.  Unfortunately I ran into a game breaking bug early
+      on.  I posted about it on the forum, but the developer never responded and there
+      have been no updates.  Sadly I have to recommend avoiding this one.
+    steam_purchase: true
+    timestamp_created: 1599462442
+    timestamp_updated: 1599462442
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.522058844566345215'
+    written_during_early_access: false
+  success: 1

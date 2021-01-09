@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: 'The official soundtrack for SCHAR: Blue Shield Alliance.<br><br><ul
+      class="bb_ul"><li>The Impending Battle</li><li>Fight for the Alilance</li><li>Saving
+      Humanity</li><li>Ambience</li><li>Upgrade</li><li>We Can Fix It</li><li>Thats
+      Not A...</li><li>Three Galaxies</li><li>SCHAR Theme</li><li>SCHAR Alternate
+      Theme</li><li>BONUS - MOF Theme</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/349660/page_bg_generated_v6b.jpg?t=1447368958
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: 'The official soundtrack for SCHAR: Blue Shield Alliance.<br><br><ul
+      class="bb_ul"><li>The Impending Battle</li><li>Fight for the Alilance</li><li>Saving
+      Humanity</li><li>Ambience</li><li>Upgrade</li><li>We Can Fix It</li><li>Thats
+      Not A...</li><li>Three Galaxies</li><li>SCHAR Theme</li><li>SCHAR Alternate
+      Theme</li><li>BONUS - MOF Theme</li></ul>'
+    developers:
+    - Brainshape Games
+    fullgame:
+      appid: '342240'
+      name: 'SCHAR: Blue Shield Alliance'
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/349660/header.jpg?t=1447368958
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        35 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional
+        Notes:</strong> MP3 Player</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX<br></li><li><strong>Processor:</strong> Intel Processor<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        35 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional
+        Notes:</strong> MP3 Player</li></ul>
+    name: 'SCHAR: Blue Shield Alliance Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'SCHAR: Blue Shield Alliance Soundtrack - $0.99'
+        packageid: 60524
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy SCHAR: Blue Shield Alliance Soundtrack'
+    packages:
+    - 60524
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or Higher<br></li><li><strong>Processor:</strong> 2.0 Ghz Intel
+        Pentium 4 or AMD Athlon processor equivelent<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        35 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional
+        Notes:</strong> MP3 Player</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - BA Productions LLC
+    release_date:
+      coming_soon: false
+      date: Mar 3, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/349660/ss_ee6b02edc9d04cddfa271fec36e11112085db2d6.1920x1080.jpg?t=1447368958
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/349660/ss_ee6b02edc9d04cddfa271fec36e11112085db2d6.600x338.jpg?t=1447368958
+    short_description: 'The official soundtrack for SCHAR: Blue Shield Alliance.'
+    steam_appid: 349660
+    support_info:
+      email: support@blueshieldalliance.com
+      url: www.blueshieldalliance.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: www.blueshieldalliance.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

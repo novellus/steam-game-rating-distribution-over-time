@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: Features the theme song in short, full, and instrumental versions.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/451290/page_bg_generated_v6b.jpg?t=1581996068
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: Features the theme song in short, full, and instrumental
+      versions.
+    developers:
+    - Love in Space
+    fullgame:
+      appid: '358750'
+      name: 'Sunrider: Liberation Day - Captain''s Edition'
+    genres:
+    - description: Sexual Content
+      id: '71'
+    - description: Nudity
+      id: '72'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/451290/header.jpg?t=1581996068
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Sunrider: Liberation Day - Theme Song'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Sunrider: Liberation Day - Theme Song - $4.99'
+        packageid: 97059
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: 'Buy Sunrider: Liberation Day - Theme Song'
+    packages:
+    - 97059
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Love in Space
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: Mar 4, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/451290/ss_349e667923bd03bdb0f9fd3b875d7ceccc87b8ac.1920x1080.jpg?t=1581996068
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/451290/ss_349e667923bd03bdb0f9fd3b875d7ceccc87b8ac.600x338.jpg?t=1581996068
+    short_description: Features the theme song in short, full, and instrumental versions.
+    steam_appid: 451290
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwgN6JwfQCc7uSoQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 13
+    total_reviews: 14
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 196
+      num_reviews: 130
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198966541297'
+    comment_count: 0
+    language: tchinese
+    received_for_free: false
+    recommendationid: '75797427'
+    review: "\u3010\u5DF2\u807D\u904E\u4E26\u6C38\u4E45\u522A\u9664\u3011\n\uFF08\
+      98MB\uFF0FFLAC+MP3\uFF09\n\n\u97F3\u6A02\u4E26\u4E0D\u662F\u5F88\u597D\u807D\
+      \u3002\n\n\u5B99\u306E\u9F13\u52D5\uFF08Sora no Kodou \uFF09\u5B8C\u6574\u7248\
+      \u3001OP\u77ED\u7248\u3001\u7D14\u594F\u6A02\u7248\u3002"
+    steam_purchase: true
+    timestamp_created: 1599834161
+    timestamp_updated: 1599911424
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

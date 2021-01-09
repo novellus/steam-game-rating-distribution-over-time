@@ -1,0 +1,126 @@
+details:
+  data:
+    about_the_game: Photogrammetry Toolkit is a set of preprocessing and postprocessing
+      tools designed to help professional and hobbyist photogrammetry and computer
+      vision workflows.<h2 class="bb_tag">Frame Reduction</h2>A tool for intelligently
+      processing videos and image sequences for photogrammetry purposes, removing
+      images that are of low quality or too low parallax to be useful. Also contains
+      functionality to extract videos to image sequences and to correct lens distortion.<br>Filtering
+      steps can also be run from command-line.<h2 class="bb_tag">Mesh Optimization</h2>The
+      Mesh Optimization tool contains support for importing various mesh formats,
+      mesh simplification with the optimized Vrifier algorithms and tools for orientation
+      and reference scaling.<h2 class="bb_tag">Spherical Projection Mapping</h2>A
+      tool designed for calibration of 3d mesh to spherical image correspondence.
+      (360 equirect) This can be used for recovering the approximate original photography
+      position and orientation, and for projecting the spherical image back on the
+      original world geometry.<br><br> <br><strong>Note that Teatime Photogrammetry
+      Toolkit does not feature actual functional photogrammetry image bundling or
+      mesh creation software.</strong> <br><br>This tool is a co-creation project
+      with the Department of Geosciences and Geography, University of Helsinki, Finland.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1356430/page_bg_generated_v6b.jpg?t=1594315006
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Photogrammetry Toolkit is a set of preprocessing and postprocessing
+      tools designed to help professional and hobbyist photogrammetry and computer
+      vision workflows.<h2 class="bb_tag">Frame Reduction</h2>A tool for intelligently
+      processing videos and image sequences for photogrammetry purposes, removing
+      images that are of low quality or too low parallax to be useful. Also contains
+      functionality to extract videos to image sequences and to correct lens distortion.<br>Filtering
+      steps can also be run from command-line.<h2 class="bb_tag">Mesh Optimization</h2>The
+      Mesh Optimization tool contains support for importing various mesh formats,
+      mesh simplification with the optimized Vrifier algorithms and tools for orientation
+      and reference scaling.<h2 class="bb_tag">Spherical Projection Mapping</h2>A
+      tool designed for calibration of 3d mesh to spherical image correspondence.
+      (360 equirect) This can be used for recovering the approximate original photography
+      position and orientation, and for projecting the spherical image back on the
+      original world geometry.<br><br> <br><strong>Note that Teatime Photogrammetry
+      Toolkit does not feature actual functional photogrammetry image bundling or
+      mesh creation software.</strong> <br><br>This tool is a co-creation project
+      with the Department of Geosciences and Geography, University of Helsinki, Finland.
+    developers:
+    - Teatime Research Ltd.
+    fullgame:
+      appid: '640080'
+      name: Vrifier
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1356430/header.jpg?t=1594315006
+    is_free: true
+    legal_notice: Copyright Teatime Research ltd. 2020
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Vrifier - Teatime Photogrammetry Toolkit
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        x64<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 x64<br></li><li><strong>Memory:</strong> 32 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GTX 1070 or equivalent<br></li><li><strong>DirectX:</strong> Version
+        9.0c<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Teatime Research Ltd.
+    release_date:
+      coming_soon: false
+      date: Jul 6, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_9e7131c82a2fbe6ab358f3912b1f881c4d0b4dbb.1920x1080.jpg?t=1594315006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_9e7131c82a2fbe6ab358f3912b1f881c4d0b4dbb.600x338.jpg?t=1594315006
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_ccc186d0e4b4fae74ddf3d44bd20adea731e5f79.1920x1080.jpg?t=1594315006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_ccc186d0e4b4fae74ddf3d44bd20adea731e5f79.600x338.jpg?t=1594315006
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_2889c19bccaea20f453cf5cc0b0f265f4969f287.1920x1080.jpg?t=1594315006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_2889c19bccaea20f453cf5cc0b0f265f4969f287.600x338.jpg?t=1594315006
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_c6a10d409710b70af54cad30717e0f90ecbf00ec.1920x1080.jpg?t=1594315006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_c6a10d409710b70af54cad30717e0f90ecbf00ec.600x338.jpg?t=1594315006
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_01c8ce244eb378b81b509153fb450465ec1e7dce.1920x1080.jpg?t=1594315006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_01c8ce244eb378b81b509153fb450465ec1e7dce.600x338.jpg?t=1594315006
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_b35802ba9098412cb1a5f06272c8412033df4f01.1920x1080.jpg?t=1594315006
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1356430/ss_b35802ba9098412cb1a5f06272c8412033df4f01.600x338.jpg?t=1594315006
+    short_description: Photogrammetry Toolkit is a set of tools designed to help professional
+      and hobbyist photogrammetry and computer vision workflows.
+    steam_appid: 1356430
+    support_info:
+      email: contact@teatimeresearch.com
+      url: https://teatimeresearch.com/
+    supported_languages: English
+    type: dlc
+    website: https://vrifier.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

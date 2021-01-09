@@ -1,0 +1,476 @@
+details:
+  data:
+    about_the_game: 'Yag is a shared Role Playing Game virtual table intended to be
+      played online with friends.<h2 class="bb_tag">Everything you need to know:</h2>Complete
+      info about Yag can be found on its website.<br><br>You''ll find there:<br><ul
+      class="bb_ul"><li> The detailed list of features (&quot;Features&quot; tab)<br></li><li>
+      Links to Youtube tutorial videos in english and french (&quot;Tutorials&quot;
+      tab)<br></li><li> Links to all available videos, tutorials and news (&quot;Videos&quot;
+      tab)<br></li><li> The full documentation about LUA API and modules (&quot;Documentation&quot;
+      tab)</li></ul><h2 class="bb_tag">What you can do with Yag:</h2><ul class="bb_ul"><li>
+      Create a server / connect to a friend''s server (up to 8 simultaneous players)<br></li><li>
+      Use more than 70 Go of free content (managed through free DLCs) spanning various
+      types of worlds (medieval fantastic, modern, post apocalyptic, cyberpunk, steampunk,
+      science fiction).<br></li><li> Use natural terrains (mountains, desert, earthly
+      and alien landscapes, etc.)<br></li><li> Create an intinity of procedurally
+      generated voxel terrains using lots of exposed parameters<br></li><li> Sculpt
+      and paint the voxel terrains in real time, manually or by using brushes<br></li><li>
+      Setup an infinity of parametrized procedural dungeons and their environement
+      with different visual themes<br></li><li> Hand craft any dungeon from scratch
+      or modify generated ones: Yag contains a small dungeon editor for manual modifications/creations.<br></li><li>
+      Choose your characters/creatures among hundreds of 3D animated miniatures.<br></li><li>
+      Equip your 3D characters with hundreds of weapons/spells/objects and have them
+      ride any 3D creature.<br></li><li> Attach video cameras to pawns to see/share
+      any view<br></li><li> Share pictures from the internet: use any picture available
+      through a public url as a map or a pawn.<br></li><li> Have 3D dice rolling and
+      get their results displayed in a journal (results can be public or private)<br></li><li>
+      Manage Character Sheets with automated dice rolls<br></li><li> Use character
+      sheets as a collection of lines of fields, or as a graphical asset (labels superimposed
+      on a picture of the empty CS)<br></li><li> Manage action rounds with initiative<br></li><li>
+      Use a fog of war<br></li><li> Use embedded LUA scripting to:<br>- Fully automate
+      character sheets<br>- Fully customize the dice language<br>- Modify pawns properties
+      (initiative, health points, ...)<br>- Create rulesets<br>- Generally do what
+      you want with a scripting language <br></li><li> Change day/night time and have
+      the sun move at any chosen speed for real time scenes<br></li><li> Apply a parametrized
+      fog, or change the weather conditions (leaves, rain, snow, hail, blizzard, lightning...)<br></li><li>
+      Choose various sky textures<br></li><li> Apply post processing color filters
+      to completely change the ambiance of a scene<br></li><li> Hide your pawns from
+      other players (e.g: invisibility spell) or from all players if you are the Dungeon
+      Master<br></li><li> Use 3rd or 1st person view to see through the eyes of any
+      character/creature.<br></li><li> Prepare and save your scenes (dungeons, pawns,
+      character sheets, options)<br></li><li> Modules management: Easily share and
+      distribute your scenarios/campaign in a single zip file containing everything
+      needed (saves, dungeons, pawns, character sheets, LUA rulesets, custom dice,
+      etc.)<br></li><li> Import/Export your Character Sheets in text format to prepare/edit/save
+      them in any 3rd party program.<br></li><li> If your video card is Ansel compatible,
+      use Yag as a map generator by creating high res pictures of dungeons and printing
+      them for your real table.<br></li><li> Make beautiful screenshots using in game
+      mechanism (any custom res), Steam, or Ansel (if you have an Ansel compatible
+      video card)</li></ul><br>Yag is system agnostic: it does not rely on any game
+      rule and can be used to play any game with any rules as long as it requires
+      a gameboard, pawns, and dice.<br><br>Yag offer a lot of possibilities and hence
+      is fairly complexe to fully use, but it can be used progressively:<br><ul class="bb_ul"><li>
+      first only as a shared visual setup (dungeons and pawns): Yag is designed so
+      that setting up a complexe scene should only take seconds.<br></li><li> then
+      you can use ingame dice with the journal<br></li><li> then you can learn to
+      use the ingame character sheets that will let you manage characters and automate
+      dice rolls<br></li><li> then you can use initiative, manage rounds, and use
+      the more complexe options Yag has to offer<br></li><li> finally you can learn
+      to use the API with the LUA language and do whatever you want</li></ul><br>Yag
+      is entirely silent: you''ll have to use a 3rd party audio server (Teamspeak,
+      Steam, Discord...) to talk with your friends.<br><br>Yag is not a single player
+      game, there is no AI, no goal set ingame, no villain to fight, nothing to win,
+      it is merely an online shared gaming table.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/736420/page_bg_generated_v6b.jpg?t=1605304458
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Yag is a shared Role Playing Game virtual table intended
+      to be played online with friends.<h2 class="bb_tag">Everything you need to know:</h2>Complete
+      info about Yag can be found on its website.<br><br>You''ll find there:<br><ul
+      class="bb_ul"><li> The detailed list of features (&quot;Features&quot; tab)<br></li><li>
+      Links to Youtube tutorial videos in english and french (&quot;Tutorials&quot;
+      tab)<br></li><li> Links to all available videos, tutorials and news (&quot;Videos&quot;
+      tab)<br></li><li> The full documentation about LUA API and modules (&quot;Documentation&quot;
+      tab)</li></ul><h2 class="bb_tag">What you can do with Yag:</h2><ul class="bb_ul"><li>
+      Create a server / connect to a friend''s server (up to 8 simultaneous players)<br></li><li>
+      Use more than 70 Go of free content (managed through free DLCs) spanning various
+      types of worlds (medieval fantastic, modern, post apocalyptic, cyberpunk, steampunk,
+      science fiction).<br></li><li> Use natural terrains (mountains, desert, earthly
+      and alien landscapes, etc.)<br></li><li> Create an intinity of procedurally
+      generated voxel terrains using lots of exposed parameters<br></li><li> Sculpt
+      and paint the voxel terrains in real time, manually or by using brushes<br></li><li>
+      Setup an infinity of parametrized procedural dungeons and their environement
+      with different visual themes<br></li><li> Hand craft any dungeon from scratch
+      or modify generated ones: Yag contains a small dungeon editor for manual modifications/creations.<br></li><li>
+      Choose your characters/creatures among hundreds of 3D animated miniatures.<br></li><li>
+      Equip your 3D characters with hundreds of weapons/spells/objects and have them
+      ride any 3D creature.<br></li><li> Attach video cameras to pawns to see/share
+      any view<br></li><li> Share pictures from the internet: use any picture available
+      through a public url as a map or a pawn.<br></li><li> Have 3D dice rolling and
+      get their results displayed in a journal (results can be public or private)<br></li><li>
+      Manage Character Sheets with automated dice rolls<br></li><li> Use character
+      sheets as a collection of lines of fields, or as a graphical asset (labels superimposed
+      on a picture of the empty CS)<br></li><li> Manage action rounds with initiative<br></li><li>
+      Use a fog of war<br></li><li> Use embedded LUA scripting to:<br>- Fully automate
+      character sheets<br>- Fully customize the dice language<br>- Modify pawns properties
+      (initiative, health points, ...)<br>- Create rulesets<br>- Generally do what
+      you want with a scripting language <br></li><li> Change day/night time and have
+      the sun move at any chosen speed for real time scenes<br></li><li> Apply a parametrized
+      fog, or change the weather conditions (leaves, rain, snow, hail, blizzard, lightning...)<br></li><li>
+      Choose various sky textures<br></li><li> Apply post processing color filters
+      to completely change the ambiance of a scene<br></li><li> Hide your pawns from
+      other players (e.g: invisibility spell) or from all players if you are the Dungeon
+      Master<br></li><li> Use 3rd or 1st person view to see through the eyes of any
+      character/creature.<br></li><li> Prepare and save your scenes (dungeons, pawns,
+      character sheets, options)<br></li><li> Modules management: Easily share and
+      distribute your scenarios/campaign in a single zip file containing everything
+      needed (saves, dungeons, pawns, character sheets, LUA rulesets, custom dice,
+      etc.)<br></li><li> Import/Export your Character Sheets in text format to prepare/edit/save
+      them in any 3rd party program.<br></li><li> If your video card is Ansel compatible,
+      use Yag as a map generator by creating high res pictures of dungeons and printing
+      them for your real table.<br></li><li> Make beautiful screenshots using in game
+      mechanism (any custom res), Steam, or Ansel (if you have an Ansel compatible
+      video card)</li></ul><br>Yag is system agnostic: it does not rely on any game
+      rule and can be used to play any game with any rules as long as it requires
+      a gameboard, pawns, and dice.<br><br>Yag offer a lot of possibilities and hence
+      is fairly complexe to fully use, but it can be used progressively:<br><ul class="bb_ul"><li>
+      first only as a shared visual setup (dungeons and pawns): Yag is designed so
+      that setting up a complexe scene should only take seconds.<br></li><li> then
+      you can use ingame dice with the journal<br></li><li> then you can learn to
+      use the ingame character sheets that will let you manage characters and automate
+      dice rolls<br></li><li> then you can use initiative, manage rounds, and use
+      the more complexe options Yag has to offer<br></li><li> finally you can learn
+      to use the API with the LUA language and do whatever you want</li></ul><br>Yag
+      is entirely silent: you''ll have to use a 3rd party audio server (Teamspeak,
+      Steam, Discord...) to talk with your friends.<br><br>Yag is not a single player
+      game, there is no AI, no goal set ingame, no villain to fight, nothing to win,
+      it is merely an online shared gaming table.'
+    developers:
+    - Bonjourcoco
+    dlc:
+    - 1140190
+    - 1150280
+    - 1140200
+    - 1140210
+    - 1141820
+    - 1140230
+    - 1140240
+    - 1140250
+    - 1235530
+    - 1398610
+    genres:
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/736420/header.jpg?t=1605304458
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256732846
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732846/movie480.mp4?t=1547756214
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732846/movie_max.mp4?t=1547756214
+      name: Yag trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256732846/movie.293x165.jpg?t=1547756214
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732846/movie480.webm?t=1547756214
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732846/movie_max.webm?t=1547756214
+    - highlight: true
+      id: 256731566
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256731566/movie480.mp4?t=1547756222
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256731566/movie_max.mp4?t=1547756222
+      name: Yag in 5 minutes
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256731566/movie.293x165.jpg?t=1547756222
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256731566/movie480.webm?t=1547756222
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256731566/movie_max.webm?t=1547756222
+    - highlight: true
+      id: 256732106
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732106/movie480.mp4?t=1547756230
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732106/movie_max.mp4?t=1547756230
+      name: Getting started in 6 minutes
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256732106/movie.293x165.jpg?t=1547756230
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732106/movie480.webm?t=1547756230
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732106/movie_max.webm?t=1547756230
+    - highlight: true
+      id: 256735211
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256735211/movie480.mp4?t=1547756238
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256735211/movie_max.mp4?t=1547756238
+      name: Playing Dungeon Master
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256735211/movie.293x165.jpg?t=1547756238
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256735211/movie480.webm?t=1547756238
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256735211/movie_max.webm?t=1547756238
+    - highlight: true
+      id: 256740509
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256740509/movie480.mp4?t=1547756246
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256740509/movie_max.mp4?t=1547756246
+      name: LUA
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256740509/movie.293x165.jpg?t=1547756246
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256740509/movie480.webm?t=1547756246
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256740509/movie_max.webm?t=1547756246
+    name: Yag
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: yag - $16.99
+        packageid: 215116
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1699
+      title: Buy Yag
+    packages:
+    - 215116
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows 7 or later<br></li><li><strong>Processor:</strong> 2.33 Ghz or faster
+        x86-compatible processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB
+        available space<br></li><li><strong>Sound Card:</strong> no sound<br></li><li><strong>Additional
+        Notes:</strong> Depends on the amount of assets you choose to display on screen.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1699
+      final_formatted: $16.99
+      initial: 1699
+      initial_formatted: ''
+    publishers:
+    - Bonjourcoco
+    release_date:
+      coming_soon: false
+      date: Feb 4, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ecad54ad7ed1cb66bfbfab50d56d0123645e492c.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ecad54ad7ed1cb66bfbfab50d56d0123645e492c.600x338.jpg?t=1605304458
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_d7ce89603b8ec80376eef61f4d44068bce7d5a8f.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_d7ce89603b8ec80376eef61f4d44068bce7d5a8f.600x338.jpg?t=1605304458
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_a33b6b98fb4910b9682287a25a14f52d6c7c0d55.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_a33b6b98fb4910b9682287a25a14f52d6c7c0d55.600x338.jpg?t=1605304458
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_308b9ed9639c2a71b675a749e2f7208a4c990c60.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_308b9ed9639c2a71b675a749e2f7208a4c990c60.600x338.jpg?t=1605304458
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_e5e36855ebcb671ca072098fb68f75a882eaaf6e.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_e5e36855ebcb671ca072098fb68f75a882eaaf6e.600x338.jpg?t=1605304458
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ef20854f259c690819430cdbbeaa8f891c4065c9.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ef20854f259c690819430cdbbeaa8f891c4065c9.600x338.jpg?t=1605304458
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_74129b5c2813bb3d731782e4fdec9efd0518efb7.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_74129b5c2813bb3d731782e4fdec9efd0518efb7.600x338.jpg?t=1605304458
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_79b8abafcd2865077d95efced8788d2e90760e71.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_79b8abafcd2865077d95efced8788d2e90760e71.600x338.jpg?t=1605304458
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_26c0525673f2f5620a32de216424c713e499df80.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_26c0525673f2f5620a32de216424c713e499df80.600x338.jpg?t=1605304458
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_77364c16196d3e751906bc8ae69ee686332537d5.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_77364c16196d3e751906bc8ae69ee686332537d5.600x338.jpg?t=1605304458
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_846ed18e34775f6ef127168a90d0a93ddb3ad24c.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_846ed18e34775f6ef127168a90d0a93ddb3ad24c.600x338.jpg?t=1605304458
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_03f653f10a505da6ac08f8e1b5acee124af93276.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_03f653f10a505da6ac08f8e1b5acee124af93276.600x338.jpg?t=1605304458
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_790223ae743c7ba10dc1373afc036ff80a186ad3.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_790223ae743c7ba10dc1373afc036ff80a186ad3.600x338.jpg?t=1605304458
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_726c721182c36fb54256dd739f9292c5cb4a1a35.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_726c721182c36fb54256dd739f9292c5cb4a1a35.600x338.jpg?t=1605304458
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_463798764e67ab64c3d621dc3458306a731411de.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_463798764e67ab64c3d621dc3458306a731411de.600x338.jpg?t=1605304458
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_afce810f647c98974555f2e087e2b77438650f72.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_afce810f647c98974555f2e087e2b77438650f72.600x338.jpg?t=1605304458
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_bcea34d119e418843cb4b90ddfa69fdeec216e05.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_bcea34d119e418843cb4b90ddfa69fdeec216e05.600x338.jpg?t=1605304458
+    - id: 17
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_b5f4e55d0cb48f861f5644907474ccd15da0af39.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_b5f4e55d0cb48f861f5644907474ccd15da0af39.600x338.jpg?t=1605304458
+    - id: 18
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_54ff1bf72299f8f79663af7d05b4b77d25eb7503.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_54ff1bf72299f8f79663af7d05b4b77d25eb7503.600x338.jpg?t=1605304458
+    - id: 19
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_37069f83b1063b0c7852b7adc573e3ef64e76237.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_37069f83b1063b0c7852b7adc573e3ef64e76237.600x338.jpg?t=1605304458
+    - id: 20
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ed66c4fece5b22570c5345cdbf56354b69111b42.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ed66c4fece5b22570c5345cdbf56354b69111b42.600x338.jpg?t=1605304458
+    - id: 21
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ec391e7f6f9f8cf2863d89e6f7dc103a72991b8b.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ec391e7f6f9f8cf2863d89e6f7dc103a72991b8b.600x338.jpg?t=1605304458
+    - id: 22
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_b3d54bcdec7eca8a53f805390586adcc06b97e40.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_b3d54bcdec7eca8a53f805390586adcc06b97e40.600x338.jpg?t=1605304458
+    - id: 23
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_8f9d32a8997d781dff4cf6aac56e7681e5255505.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_8f9d32a8997d781dff4cf6aac56e7681e5255505.600x338.jpg?t=1605304458
+    - id: 24
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_7021f9bd84df394d659bd633ea3632afb8441aa4.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_7021f9bd84df394d659bd633ea3632afb8441aa4.600x338.jpg?t=1605304458
+    - id: 25
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_6d6427f73d1cbc162e67a0f460c8d8884c10c6d0.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_6d6427f73d1cbc162e67a0f460c8d8884c10c6d0.600x338.jpg?t=1605304458
+    - id: 26
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_d7849ceea59883af1c0dcfcefacc83f8d68fd3ff.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_d7849ceea59883af1c0dcfcefacc83f8d68fd3ff.600x338.jpg?t=1605304458
+    - id: 27
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_0994c6217c8abe64e24b25d340b64a9fe86c6001.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_0994c6217c8abe64e24b25d340b64a9fe86c6001.600x338.jpg?t=1605304458
+    - id: 28
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_e5f8f1703b8ae92c8d08c0b601c2ab384bd67b2f.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_e5f8f1703b8ae92c8d08c0b601c2ab384bd67b2f.600x338.jpg?t=1605304458
+    - id: 29
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ce4f2e43072ab3530158776b5a7d16fdc3f8e757.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_ce4f2e43072ab3530158776b5a7d16fdc3f8e757.600x338.jpg?t=1605304458
+    - id: 30
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_fa81cdcc86b6d0872b055b9134d8652ff0cb67a0.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_fa81cdcc86b6d0872b055b9134d8652ff0cb67a0.600x338.jpg?t=1605304458
+    - id: 31
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_6efa8ad7e69deea233a8223785b79d7baf1bf330.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_6efa8ad7e69deea233a8223785b79d7baf1bf330.600x338.jpg?t=1605304458
+    - id: 32
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_77e7af727d926357a10e82fd789629d1b9ccba85.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_77e7af727d926357a10e82fd789629d1b9ccba85.600x338.jpg?t=1605304458
+    - id: 33
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_1c8eff3b14ee07bc546d7516fb06890f2e91abdc.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_1c8eff3b14ee07bc546d7516fb06890f2e91abdc.600x338.jpg?t=1605304458
+    - id: 34
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_a3851f27d2306a64350c0d8d88ceadcb400b7b2d.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_a3851f27d2306a64350c0d8d88ceadcb400b7b2d.600x338.jpg?t=1605304458
+    - id: 35
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_6e4913685cd238c64d6bb30575075c794acc7aff.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_6e4913685cd238c64d6bb30575075c794acc7aff.600x338.jpg?t=1605304458
+    - id: 36
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_e3d051d243faf467161a88ec89f4fae641458fbe.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_e3d051d243faf467161a88ec89f4fae641458fbe.600x338.jpg?t=1605304458
+    - id: 37
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_cc4bf548afde3cb584f51b294b6fbf6d2947bed5.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_cc4bf548afde3cb584f51b294b6fbf6d2947bed5.600x338.jpg?t=1605304458
+    - id: 38
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_dd5fa3eef681badc1b1b7484e44fa267d944b17d.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_dd5fa3eef681badc1b1b7484e44fa267d944b17d.600x338.jpg?t=1605304458
+    - id: 39
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_af4067dfad5fbe70f66b116e1929b90ca84dcb4a.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_af4067dfad5fbe70f66b116e1929b90ca84dcb4a.600x338.jpg?t=1605304458
+    - id: 40
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_478a49db3f8508d5f385a5187a107e4e43d09132.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_478a49db3f8508d5f385a5187a107e4e43d09132.600x338.jpg?t=1605304458
+    - id: 41
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_db49fae9c8e59f4ae48f25d957ccb6f04be17da4.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_db49fae9c8e59f4ae48f25d957ccb6f04be17da4.600x338.jpg?t=1605304458
+    - id: 42
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_c58e705ad496695a30ebf0c061148500aea3f915.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_c58e705ad496695a30ebf0c061148500aea3f915.600x338.jpg?t=1605304458
+    - id: 43
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_fcd7c9a54a156ae1ac7256aae3edd22790c1cc60.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_fcd7c9a54a156ae1ac7256aae3edd22790c1cc60.600x338.jpg?t=1605304458
+    - id: 44
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_64eb057cbd241535474ea108d856a2d3bf75bda3.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_64eb057cbd241535474ea108d856a2d3bf75bda3.600x338.jpg?t=1605304458
+    - id: 45
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_4c656ce6997ce809524ea5c4ea327129f00ddd3a.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_4c656ce6997ce809524ea5c4ea327129f00ddd3a.600x338.jpg?t=1605304458
+    - id: 46
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_60ee42893b328039440db802a2b65b08566a9048.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_60ee42893b328039440db802a2b65b08566a9048.600x338.jpg?t=1605304458
+    - id: 47
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_1a5ecea66b5d6e1a913f62d0ae4280975830353d.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_1a5ecea66b5d6e1a913f62d0ae4280975830353d.600x338.jpg?t=1605304458
+    - id: 48
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_56df27225187ec69b39d52eb7bc2ed96f0074c79.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_56df27225187ec69b39d52eb7bc2ed96f0074c79.600x338.jpg?t=1605304458
+    - id: 49
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_1fc9e690bf71e11b2b3031cb438e8eeab3fc1070.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_1fc9e690bf71e11b2b3031cb438e8eeab3fc1070.600x338.jpg?t=1605304458
+    - id: 50
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_5b39b1e9bc3d3a7b15834327d2bd14c1e20a5673.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_5b39b1e9bc3d3a7b15834327d2bd14c1e20a5673.600x338.jpg?t=1605304458
+    - id: 51
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_45b33a577448ca25e2033c9ef18a786e9b7ada66.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_45b33a577448ca25e2033c9ef18a786e9b7ada66.600x338.jpg?t=1605304458
+    - id: 52
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_95ea0ee960f52b9f79ce2bb18737ff2d206f6099.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_95ea0ee960f52b9f79ce2bb18737ff2d206f6099.600x338.jpg?t=1605304458
+    - id: 53
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_c12c7ec419de7decfadb216ce535f9041c2dbf48.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_c12c7ec419de7decfadb216ce535f9041c2dbf48.600x338.jpg?t=1605304458
+    - id: 54
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_8f16b1e964863a371c3a4e4932b33c8092c29038.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_8f16b1e964863a371c3a4e4932b33c8092c29038.600x338.jpg?t=1605304458
+    - id: 55
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_05f5b2a7bc103d8efd7b09dd34648a1e590bd729.1920x1080.jpg?t=1605304458
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/736420/ss_05f5b2a7bc103d8efd7b09dd34648a1e590bd729.600x338.jpg?t=1605304458
+    short_description: 'Yag is a Role Playing Game table. It offers what''s needed
+      to play rpgs: dungeons, miniatures, dice and character sheets, customizable
+      and automatable through embedded LUA scripting. It lets you use any public picture
+      from the net to play any game requiring a gameboard, dice, and pawns.'
+    steam_appid: 736420
+    support_info:
+      email: cedric.yagame@gmail.com
+      url: http://yagame.fr/contact/
+    supported_languages: English
+    type: game
+    website: http://yagame.fr/
+  success: true
+reviews:
+  cursor: AoJ4xpuSq/UCf4PSqQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 16
+    total_reviews: 16
+  reviews:
+  - author:
+      last_played: 1607547850
+      num_games_owned: 51
+      num_reviews: 2
+      playtime_at_review: 1755
+      playtime_forever: 3609
+      playtime_last_two_weeks: 0
+      steamid: '76561198081073399'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '78024767'
+    review: "Yag est pour ma part le must to have pour faire du Jeux de R\xF4les en\
+      \ ligne. \nLes possibilit\xE9s qu'offrent le logiciel sont immenses et offrent\
+      \ une immersion que je ne retrouve pas dans les autres TableTop propos\xE9s\
+      \ en ligne.\nSon prix aussi est un avantage, m\xEAme si les joueurs doivent\
+      \ acheter le logiciel au m\xEAme titre que le Meneur de Jeu, d\xE9bourser 15\
+      \ euros pour en avoir les MAJ gratuitement, c'est peu cher payer.\nCar en plus\
+      \ d'\xEAtre suivi, mise \xE0 jour r\xE9guli\xE8rement que ce soit  pour corriger\
+      \ les bugs ou des ajouts de contenus et fonctionnalit\xE9s, le d\xE9veloppeur\
+      \ est aussi tr\xE8s accessible. Discord du logiciel.\n\nAchetez le, faites lui\
+      \ de la pub, il m\xE9rite amplement."
+    steam_purchase: true
+    timestamp_created: 1603470417
+    timestamp_updated: 1603470417
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: true
+  success: 1

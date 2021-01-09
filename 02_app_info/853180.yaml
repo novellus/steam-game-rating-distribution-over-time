@@ -1,0 +1,164 @@
+details:
+  data:
+    about_the_game: "In &quot;Westfall Pack&quot; you will have access to a new location\
+      \ and a  plot-related series of quests.<br />\r\nHere you will meet a new character\
+      \ - the Chef, help him to create a special fish menu. You will receive various\
+      \ valuable awards, including the exclusive and most powerful light reel in their\
+      \ category!<br />\r\nBeautiful locations await you, fish species not previously\
+      \ seen and much more.<br />\r\n- two unique light rods;<br />\r\n- the new exclusive\
+      \ series of lures &quot;Bass Master&quot; *;<br />\r\n- a new baitmix &quot;Bass&quot;\
+      \ *.<br />\r\nAlso, when you purchase a DLC, you will receive a set of bait\
+      \ and attractants, a game currency and a bonus to experience.<br />\r\n* new\
+      \ lures and accessories can not be purchased in the game store, but it's  also\
+      \ possible to find them in red chests."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/853180/page_bg_generated_v6b.jpg?t=1525465164
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: In-App Purchases
+      id: 35
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "In &quot;Westfall Pack&quot; you will have access to a\
+      \ new location and a  plot-related series of quests.<br />\r\nHere you will\
+      \ meet a new character - the Chef, help him to create a special fish menu. You\
+      \ will receive various valuable awards, including the exclusive and most powerful\
+      \ light reel in their category!<br />\r\nBeautiful locations await you, fish\
+      \ species not previously seen and much more.<br />\r\n- two unique light rods;<br\
+      \ />\r\n- the new exclusive series of lures &quot;Bass Master&quot; *;<br />\r\
+      \n- a new baitmix &quot;Bass&quot; *.<br />\r\nAlso, when you purchase a DLC,\
+      \ you will receive a set of bait and attractants, a game currency and a bonus\
+      \ to experience.<br />\r\n* new lures and accessories can not be purchased in\
+      \ the game store, but it's  also possible to find them in red chests."
+    developers:
+    - Just Fishing LLC
+    fullgame:
+      appid: '703950'
+      name: Just Fishing
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/853180/header.jpg?t=1525465164
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8+<br></li><li><strong>Processor:</strong> 1.7 GHz<br></li><li><strong>Graphics:</strong>
+        Intel HD 3000 or better<br></li><li><strong>Network:</strong> Broadband Internet
+        connection<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    name: 'Just Fishing: Westfall Pack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Just Fishing: Westfall Pack - $4.99'
+        packageid: 267822
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: 'Buy Just Fishing: Westfall Pack'
+    packages:
+    - 267822
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics 4200 or better</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 4, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/853180/ss_c5347ed674c59b5b8f2880479e1458246ee7de87.1920x1080.jpg?t=1525465164
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/853180/ss_c5347ed674c59b5b8f2880479e1458246ee7de87.600x338.jpg?t=1525465164
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/853180/ss_a10a522ccec05914bba791a9fdad1d6812876e3d.1920x1080.jpg?t=1525465164
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/853180/ss_a10a522ccec05914bba791a9fdad1d6812876e3d.600x338.jpg?t=1525465164
+    short_description: In the new location called the Westfall you will meet the new
+      character - Chef and help him create a special fish menu. For helping him, you
+      will receive various valuable awards. Beautiful places await you, fish species
+      that have not been seen before, and much more.
+    steam_appid: 853180
+    support_info:
+      email: ''
+      url: http://just-fishing-game.com/
+    supported_languages: English, German, Russian
+    type: dlc
+    website: http://just-fishing-game.com/
+  success: true
+reviews:
+  cursor: AoJw08L/7+cCf9OftgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 6
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198295768269'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '47775039'
+    review: Cool... Danke,
+    steam_purchase: true
+    timestamp_created: 1545651230
+    timestamp_updated: 1545651230
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

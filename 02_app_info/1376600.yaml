@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1376600/page_bg_generated_v6b.jpg?t=1604522688
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 5
+      notes: 'Trigger warning: self-harm'
+    detailed_description: ''
+    developers:
+    - Purple Cable
+    fullgame:
+      appid: '1372570'
+      name: Domino House
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1376600/header.jpg?t=1604522688
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        800 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.12+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: Domino House Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Sound
+        Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Purple Cable
+    release_date:
+      coming_soon: false
+      date: Jul 25, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_ec2e55f728c838201d187c05529f5e4eeef0291a.1920x1080.jpg?t=1604522688
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_ec2e55f728c838201d187c05529f5e4eeef0291a.600x338.jpg?t=1604522688
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_b63479e3a9e8a999f2952e99e288ec08900400e0.1920x1080.jpg?t=1604522688
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_b63479e3a9e8a999f2952e99e288ec08900400e0.600x338.jpg?t=1604522688
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_15958ef7df291049e0b7368aea50395c8117d627.1920x1080.jpg?t=1604522688
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_15958ef7df291049e0b7368aea50395c8117d627.600x338.jpg?t=1604522688
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_d31cc778d91d3a559626e48286146887a03a8c55.1920x1080.jpg?t=1604522688
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_d31cc778d91d3a559626e48286146887a03a8c55.600x338.jpg?t=1604522688
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_1a2526bd14cdc948df5c28c537cbedbd18bc85e5.1920x1080.jpg?t=1604522688
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1376600/ss_1a2526bd14cdc948df5c28c537cbedbd18bc85e5.600x338.jpg?t=1604522688
+    short_description: ''
+    steam_appid: 1376600
+    support_info:
+      email: support@purplecable.ca
+      url: https://purplecable.ca/
+    supported_languages: English, French, German, Spanish - Spain, Dutch, Portuguese
+      - Brazil, Turkish, Russian
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

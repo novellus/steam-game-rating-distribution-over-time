@@ -1,0 +1,94 @@
+details:
+  data:
+    about_the_game: "Composed by Pawe\u0142 G\xF3rniak, the Die for Valhalla OST mastered\
+      \ for your listening pleasure.<br />\r\n<br />\r\nAvailable in WAV and MP3 formats."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1346040/page_bg_generated_v6b.jpg?t=1593109762
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Composed by Pawe\u0142 G\xF3rniak, the Die for Valhalla\
+      \ OST mastered for your listening pleasure.<br />\r\n<br />\r\nAvailable in\
+      \ WAV and MP3 formats."
+    developers:
+    - Monster Couch
+    fullgame:
+      appid: '606000'
+      name: Die for Valhalla!
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1346040/header.jpg?t=1593109762
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Die for Valhalla! Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Die for Valhalla! Soundtrack - $7.99
+        packageid: 470682
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy Die for Valhalla! Soundtrack
+    packages:
+    - 470682
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        58 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 280 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Monster Couch
+    release_date:
+      coming_soon: false
+      date: Jun 25, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1346040/ss_7529df8ec62efb6a2289abc5d61878d564865bec.1920x1080.jpg?t=1593109762
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1346040/ss_7529df8ec62efb6a2289abc5d61878d564865bec.600x338.jpg?t=1593109762
+    short_description: In the land of Vikings a monstrous portal has opened. The Great
+      Old One is plotting to take over the world. Chaos spreads far and wide... and
+      the party's just getting started! Novice Valkyries along with their new mysterious
+      friend set out to save the world. What could possibly go wrong?
+    steam_appid: 1346040
+    support_info:
+      email: support@monstercouch.com
+      url: http://dieforvalhalla.com/#contact
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

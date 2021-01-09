@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: "Enjoy the tunes of The BoX whenever you please! 23 glorious tracks\
+      \ to brighten up your day!<br />\r\n<br />\r\nTracklist:<br />\r\nBirth<br />\r\
+      \nChemical Cube<br />\r\nCitiesR4Squares<br />\r\nCubical Crypts<br />\r\nDethroned<br\
+      \ />\r\nEntry<br />\r\nError<br />\r\nFactory Theme<br />\r\nHold My Hand<br\
+      \ />\r\nHyped<br />\r\nKing's Square<br />\r\nMeltdown<br />\r\nMusic Box<br\
+      \ />\r\nParallel Harbor<br />\r\nPurplish Orchestra<br />\r\nQuadra Lux'd<br\
+      \ />\r\nRight Under<br />\r\nSkybox<br />\r\nSoaring Hearts<br />\r\nTesting.\
+      \ . . Testing. . .<br />\r\nThe Challenge<br />\r\nTiny Death<br />\r\nVerti\
+      \ Peaks"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/424800/page_bg_generated_v6b.jpg?t=1449183520
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Enjoy the tunes of The BoX whenever you please! 23 glorious\
+      \ tracks to brighten up your day!<br />\r\n<br />\r\nTracklist:<br />\r\nBirth<br\
+      \ />\r\nChemical Cube<br />\r\nCitiesR4Squares<br />\r\nCubical Crypts<br />\r\
+      \nDethroned<br />\r\nEntry<br />\r\nError<br />\r\nFactory Theme<br />\r\nHold\
+      \ My Hand<br />\r\nHyped<br />\r\nKing's Square<br />\r\nMeltdown<br />\r\n\
+      Music Box<br />\r\nParallel Harbor<br />\r\nPurplish Orchestra<br />\r\nQuadra\
+      \ Lux'd<br />\r\nRight Under<br />\r\nSkybox<br />\r\nSoaring Hearts<br />\r\
+      \nTesting. . . Testing. . .<br />\r\nThe Challenge<br />\r\nTiny Death<br />\r\
+      \nVerti Peaks"
+    developers:
+    - White Clover Worlds
+    fullgame:
+      appid: '424750'
+      name: The BoX
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/424800/header.jpg?t=1449183520
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Program for playing music is needed.</li></ul>
+    name: The BoX - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The BoX - OST - $4.99
+        packageid: 87184
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy The BoX - OST
+    packages:
+    - 87184
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP+<br></li><li><strong>Additional Notes:</strong> Program for playing music
+        is needed.</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 3, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/424800/ss_a71d5095402d7fde74ef4018e6d9c2847bf889e2.1920x1080.jpg?t=1449183520
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/424800/ss_a71d5095402d7fde74ef4018e6d9c2847bf889e2.600x338.jpg?t=1449183520
+    short_description: become the proud owner of 23 original songs created for The
+      BoX!
+    steam_appid: 424800
+    support_info:
+      email: support@whitecloverworlds.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://whitecloverworlds.com/ourprojects/the-box/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

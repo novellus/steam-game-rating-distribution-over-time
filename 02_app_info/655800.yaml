@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '653280'
+      name: Gabriel Dropout
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/653280/header.jpg?t=1553555274
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Gabriel Dropout: The Day I Knew I Could Never Go Back'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Gabriel Dropout: The Day I Knew I Could Never Go Back - $1.99'
+        packageid: 184985
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Gabriel Dropout: The Day I Knew I Could Never Go Back'
+    packages:
+    - 184985
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: Gabriel is a model angel at the top of her class in angel school.
+      After her graduation, she descends to the human world in order to learn about
+      humans firsthand and become a full-fledged angel.
+    steam_appid: 655800
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4/s3k/usCfNbCzgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1563327244
+      num_games_owned: 174
+      num_reviews: 29
+      playtime_at_review: 1
+      playtime_forever: 1
+      playtime_last_two_weeks: 0
+      steamid: '76561198027662123'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '54138220'
+    review: 'Notice: At the request of the publisher, Gabriel Dropout is no longer
+      available for sale on Steam.
+
+
+      Didn''t know I have this in my account, looks like I''m one of the few lucky
+      one.'
+    steam_purchase: true
+    timestamp_created: 1563327361
+    timestamp_updated: 1563327361
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.46951216459274292'
+    written_during_early_access: false
+  success: 1

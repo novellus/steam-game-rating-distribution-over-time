@@ -1,0 +1,207 @@
+details:
+  data:
+    about_the_game: <i>Escape Bloody Mary</i> is a short and sweet horror VR escape
+      room following the folklore behind the legend of Bloody Mary.  Turn off the
+      lights, light a few candles, say her name three times into a mirror and you
+      might see her on the other side. <i>Escape Bloody Mary</i> takes you through
+      the worst possible scenario of the childhood ritual. Prepare for an immersive
+      horror experience which transforms your typical bathroom into an unsettling
+      and stressful haunted environment with no way out. Can you find a way out before
+      Bloody Mary claims your soul?<br><br>Gameplay offers a series of puzzles under
+      pressure which are designed to force the user to balance strategy and survival.
+    achievements:
+      highlighted:
+      - name: Locked In
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/8a96a3e5f06764bb00305aa43cf0f6f26f613ad2.jpg
+      - name: 'Bibliophile '
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/aea84d4c748fb99ccb31356a6462fbfc5e317049.jpg
+      - name: Pyromaniac
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/c381853063b4508d85119dc68bac2b7f6d36de7a.jpg
+      - name: "You Shouldn\u2019t Have Done That..."
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/0f33f5492fba1a02a5f2df0669d6954a963cc0dc.jpg
+      - name: Long Distance Call
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/d6e29a3400d40eba80d5f4bba5a09e24d5070b21.jpg
+      - name: Always Wash Your Hands
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/cdd935d0f87153c375c2e6e4e9004da962248329.jpg
+      - name: Lux Aeterna
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/3447b5d5a3cb35af5f2ad006c6e043eccd716033.jpg
+      - name: Happily Mary'd
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/43f93efdba200a3496aaf824fd514278da968ada.jpg
+      - name: Warp Pipe
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/ac3f0c46910f8800961e41fd5aaff77937d10f5a.jpg
+      - name: 7 Years of Bad Luck
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/544530/3651c8fcc0ec39aebe73026dc2b7a5b5dea74e40.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/544530/page_bg_generated_v6b.jpg?t=1532051633
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <i>Escape Bloody Mary</i> is a short and sweet horror VR
+      escape room following the folklore behind the legend of Bloody Mary.  Turn off
+      the lights, light a few candles, say her name three times into a mirror and
+      you might see her on the other side. <i>Escape Bloody Mary</i> takes you through
+      the worst possible scenario of the childhood ritual. Prepare for an immersive
+      horror experience which transforms your typical bathroom into an unsettling
+      and stressful haunted environment with no way out. Can you find a way out before
+      Bloody Mary claims your soul?<br><br>Gameplay offers a series of puzzles under
+      pressure which are designed to force the user to balance strategy and survival.
+    developers:
+    - Well Told Entertainment
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/544530/header.jpg?t=1532051633
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256673039
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256673039/movie480.mp4?t=1477348724
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256673039/movie_max.mp4?t=1477348724
+      name: Teaser
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256673039/movie.293x165.jpg?t=1477348724
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256673039/movie480.webm?t=1477348724
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256673039/movie_max.webm?t=1477348724
+    name: Escape Bloody Mary
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Escape Bloody Mary - $3.99
+        packageid: 134175
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Escape Bloody Mary
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $4.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$4.99 at checkout,
+          auto-renewed every 1 month(s) at $4.99.</p>
+        option_text: $4.99 / month
+        packageid: 139150
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Escape Bloody Mary Subscription Plan
+    packages:
+    - 134175
+    - 139150
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1, Windows 8.1 or later, Windows 10<br></li><li><strong>Processor:</strong>
+        Intel i5-4590, AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970, AMD
+        Radeon R9 290 equivalent or better<br></li><li><strong>Storage:</strong> 300
+        MB available space</li></ul>
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\u2122 7 SP1, Windows\u2122 8.1 or later or Windows\u2122 10<br></li><li><strong>Processor:</strong>\
+        \ Intel\u2122 Core\u2122 i5-4590 or AMD FX\u2122 8350, equivalent or better<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA GeForce\u2122 GTX 1060 or AMD Radeon\u2122 RX 480, equivalent or\
+        \ better<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Well Told Entertainment
+    release_date:
+      coming_soon: false
+      date: Oct 25, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_8b36d20c0451525697fcd5a2962970ebf521f9e8.1920x1080.jpg?t=1532051633
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_8b36d20c0451525697fcd5a2962970ebf521f9e8.600x338.jpg?t=1532051633
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_d7a3a0d31b33dca894aa7334722ea758406337f3.1920x1080.jpg?t=1532051633
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_d7a3a0d31b33dca894aa7334722ea758406337f3.600x338.jpg?t=1532051633
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_74e1048583a499b82db4a4ebba0c174fd6380412.1920x1080.jpg?t=1532051633
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_74e1048583a499b82db4a4ebba0c174fd6380412.600x338.jpg?t=1532051633
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_6f4cc7a95e15e57fb7bbc58591e6e27d324855e9.1920x1080.jpg?t=1532051633
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_6f4cc7a95e15e57fb7bbc58591e6e27d324855e9.600x338.jpg?t=1532051633
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_54a5d2f19da28deaf2e50ba29ea6fa65eab0447f.1920x1080.jpg?t=1532051633
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/544530/ss_54a5d2f19da28deaf2e50ba29ea6fa65eab0447f.600x338.jpg?t=1532051633
+    short_description: If you summon an evil spirit, you have to be prepared to face
+      the consequences. Locked in your bathroom you must use your surroundings to
+      stop Bloody Mary from coming through your mirror and claiming your soul in this
+      thrilling VR escape.
+    steam_appid: 544530
+    support_info:
+      email: info@welltold.io
+      url: http://welltold.io
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.welltold.io
+  success: true
+reviews:
+  cursor: AoJwnYTzxPUCft3qqwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 12
+    total_positive: 38
+    total_reviews: 50
+  reviews:
+  - author:
+      last_played: 1604334563
+      num_games_owned: 287
+      num_reviews: 8
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561197993128818'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78599646'
+    review: Broken for Valve Index. Can't do anything after loading the game. Controls
+      don't work on the main screen. Tried to get a refund but Steam Support denied
+      it because I bought this back in July. Wouldn't have done that if I knew this
+      game wasn't actually supported...
+    steam_purchase: true
+    timestamp_created: 1604334658
+    timestamp_updated: 1604334658
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

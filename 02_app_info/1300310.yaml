@@ -1,0 +1,173 @@
+details:
+  data:
+    about_the_game: Move Code Lines is a puzzle game where you fix programs and make
+      them print needed output. But the only way you can achieve that is to change
+      the order of lines in those programs, and set custom input.<br><br><ul class="bb_ul"><li>
+      Find your way through a maze of code in more than 130 puzzles<br></li><li> Work
+      with arrays, conditions, loops and functions<br></li><li> Change speed, or even
+      pause execution, and watch programs working line by line<br></li><li> The most
+      difficult levels require writing your own utility programs outside the game
+      that will help you solve puzzles</li></ul>
+    achievements:
+      highlighted:
+      - name: print ("Hello, world!")
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/a9f6dcabc2966a151189e311fcdd84501f5588a6.jpg
+      - name: def f () { }
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/175451f5022e58993fe729dfde7701555b45d1a8.jpg
+      - name: return
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/1aa8a0d66bcf1c26c2f2e8f43561e5a4d1dad1cf.jpg
+      - name: get_int ()
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/6b48ec6b72b7802dcb6fd56289edfffb98040f53.jpg
+      - name: if (true) { }
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/a4f24060bd90d84a9b3fd51908fead7cd866a0e8.jpg
+      - name: while (true) { }
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/436d04cfb0f9ffba512af6ba84f489bc1c2ea6d6.jpg
+      - name: for (var i = 0; i < n; ++i) { }
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/4b742d4387353d5fb2d3383a1b666e780b9d4399.jpg
+      - name: break
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/91b7655876c981012bceea3feec5456dc1ec1718.jpg
+      - name: def f () { f () }
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/3866975a7100fdef288621a2296a7cfae987f435.jpg
+      - name: var v = [1, 2, 3]
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1300310/eae1dc4855afd688cbe94dafea53d791617b6bcf.jpg
+      total: 15
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1300310/page_bg_generated_v6b.jpg?t=1600423085
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Move Code Lines is a puzzle game where you fix programs
+      and make them print needed output. But the only way you can achieve that is
+      to change the order of lines in those programs, and set custom input.<br><br><ul
+      class="bb_ul"><li> Find your way through a maze of code in more than 130 puzzles<br></li><li>
+      Work with arrays, conditions, loops and functions<br></li><li> Change speed,
+      or even pause execution, and watch programs working line by line<br></li><li>
+      The most difficult levels require writing your own utility programs outside
+      the game that will help you solve puzzles</li></ul>
+    developers:
+    - Fewjix
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1300310/header.jpg?t=1600423085
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256801437
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256801437/movie480.mp4?t=1600423080
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256801437/movie_max.mp4?t=1600423080
+      name: Move Code Lines - Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256801437/movie.293x165.jpg?t=1600423080
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256801437/movie480_vp9.webm?t=1600423080
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256801437/movie_max_vp9.webm?t=1600423080
+    name: Move Code Lines
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Move Code Lines - $5.99
+        packageid: 453577
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Move Code Lines
+    packages:
+    - 453577
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Memory:</strong> 150 MB RAM<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Fewjix
+    release_date:
+      coming_soon: false
+      date: Aug 28, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_ecbe9e1532bd21956a6247661842652bf07e180b.1920x1080.jpg?t=1600423085
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_ecbe9e1532bd21956a6247661842652bf07e180b.600x338.jpg?t=1600423085
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_f1c06bf4aecd5d91606aa4917ab06662d5963fdc.1920x1080.jpg?t=1600423085
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_f1c06bf4aecd5d91606aa4917ab06662d5963fdc.600x338.jpg?t=1600423085
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_850d6de90c957575cf7f697ae235802d49a93dd9.1920x1080.jpg?t=1600423085
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_850d6de90c957575cf7f697ae235802d49a93dd9.600x338.jpg?t=1600423085
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_199f7fb62e9b8199ece5b511ffcb9d7bb4ae4a20.1920x1080.jpg?t=1600423085
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_199f7fb62e9b8199ece5b511ffcb9d7bb4ae4a20.600x338.jpg?t=1600423085
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_bb84ed39786ace91e2cd3e5b012af1712489d2e3.1920x1080.jpg?t=1600423085
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1300310/ss_bb84ed39786ace91e2cd3e5b012af1712489d2e3.600x338.jpg?t=1600423085
+    short_description: Move Code Lines is a game where you fix programs and make them
+      print needed output. But the only way you can achieve that is to change the
+      order of lines in those programs, and set custom input.
+    steam_appid: 1300310
+    support_info:
+      email: mikhail.arutyunyan.1994@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4tZqO3fYCd/qXvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 10
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 1609441218
+      num_games_owned: 679
+      num_reviews: 12
+      playtime_at_review: 31
+      playtime_forever: 31
+      playtime_last_two_weeks: 31
+      steamid: '76561198244227462'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83672999'
+    review: Amazing game, even if you aren't great at programming. If you enjoy logic
+      puzzles and or programming, this is a great game for you!
+    steam_purchase: true
+    timestamp_created: 1609442055
+    timestamp_updated: 1609442055
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: Test your patience!<br><br><ul class="bb_ul"><li>One little car<br></li><li>One
+      little level (1/2 is available in this demo)</li></ul><br>It looks too ordinary,
+      but - oops! - something went wrong. Be patient and try again.<br><br>Good luck.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1254800/page_bg_generated_v6b.jpg?t=1582705270
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Test your patience!<br><br><ul class="bb_ul"><li>One little
+      car<br></li><li>One little level (1/2 is available in this demo)</li></ul><br>It
+      looks too ordinary, but - oops! - something went wrong. Be patient and try again.<br><br>Good
+      luck.
+    developers:
+    - Roman Shuvalov
+    fullgame:
+      appid: '1235980'
+      name: Nice Try!
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1254800/header.jpg?t=1582705270
+    is_free: true
+    legal_notice: "Copyright \xA9 Roman Shuvalov, 2020"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Debian 10,
+        Ubuntu 18.04<br></li><li><strong>Processor:</strong> 1.8 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated with OpenGL 3.2
+        support<br></li><li><strong>Storage:</strong> 40 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Only modern Linux distributions with glibc version of 2.27
+        or newer are supported. Ubuntu12.04/SteamOS is not supported</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> macOS 10.15
+        Catalina<br></li><li><strong>Processor:</strong> 1.8 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated with OpenGL 3.2
+        support<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Nice Try! Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong>
+        1.8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Integrated with OpenGL 3.2 support<br></li><li><strong>Storage:</strong> 40
+        MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - Roman Shuvalov
+    release_date:
+      coming_soon: false
+      date: Feb 26, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_b352a649f6bd65809ede405ce66f4a1a9686bebb.1920x1080.jpg?t=1582705270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_b352a649f6bd65809ede405ce66f4a1a9686bebb.600x338.jpg?t=1582705270
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_50a0c8f50d2e02b46cdbebfbc257ed41c15320b9.1920x1080.jpg?t=1582705270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_50a0c8f50d2e02b46cdbebfbc257ed41c15320b9.600x338.jpg?t=1582705270
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_227a6edc2674e6c16166abcea511ab9721f897fd.1920x1080.jpg?t=1582705270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_227a6edc2674e6c16166abcea511ab9721f897fd.600x338.jpg?t=1582705270
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_92c7a45b918d90a2e7f312b82bb3d7beb61e0c86.1920x1080.jpg?t=1582705270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_92c7a45b918d90a2e7f312b82bb3d7beb61e0c86.600x338.jpg?t=1582705270
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_4a8feca6a4a3b388bb437a504d7cab48476c1e6a.1920x1080.jpg?t=1582705270
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1254800/ss_4a8feca6a4a3b388bb437a504d7cab48476c1e6a.600x338.jpg?t=1582705270
+    short_description: One little car, one little level. What could go wrong? Apparently,
+      everything could go wrong. Test your patience!
+    steam_appid: 1254800
+    support_info:
+      email: ''
+      url: https://www.romanshuvalov.com/nicetry
+    supported_languages: English, French, Italian, German, Spanish - Spain, Russian
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

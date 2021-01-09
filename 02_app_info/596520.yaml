@@ -1,0 +1,137 @@
+details:
+  data:
+    about_the_game: "Six music tracks from the game in high quality .wav format with\
+      \ a bonus short story in a txt file.<br />\r\n<br />\r\nTracks included:<br\
+      \ />\r\n<br />\r\n1. Wandering<br />\r\n2. Held Down<br />\r\n3. Chaser<br />\r\
+      \n4. Linger<br />\r\n5. We Shall Sleep Forever<br />\r\n6. Wandering Still"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/596520/page_bg_generated_v6b.jpg?t=1508437239
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Six music tracks from the game in high quality .wav format\
+      \ with a bonus short story in a txt file.<br />\r\n<br />\r\nTracks included:<br\
+      \ />\r\n<br />\r\n1. Wandering<br />\r\n2. Held Down<br />\r\n3. Chaser<br />\r\
+      \n4. Linger<br />\r\n5. We Shall Sleep Forever<br />\r\n6. Wandering Still"
+    developers:
+    - Mute Canary
+    - Mauvesic
+    fullgame:
+      appid: '595030'
+      name: Please
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/596520/header.jpg?t=1508437239
+    is_free: false
+    legal_notice: Copyright 2016
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Music and text files so n/a</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Music and text files so n/a</li></ul>
+    name: Please - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Please - Soundtrack - $0.99
+        packageid: 156301
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Please - Soundtrack
+    packages:
+    - 156301
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Music and text files so n/a</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 19, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/596520/ss_775beeacf48ba9b1770fd6ab958a42d9a9b7c183.1920x1080.jpg?t=1508437239
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/596520/ss_775beeacf48ba9b1770fd6ab958a42d9a9b7c183.600x338.jpg?t=1508437239
+    short_description: Six music tracks from the game in high quality .wav format
+      with a bonus short story.
+    steam_appid: 596520
+    support_info:
+      email: mutecanarygames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.MuteCanary.com
+  success: true
+reviews:
+  cursor: AoJwyri9mvQCeLamngI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2554
+      num_reviews: 758
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198048974498'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '75051880'
+    review: "Synthy, spooky, and just my kinda kooky. Maybe not everyone's cup of\
+      \ tea, unless you dig minimalistic electronic \"music\" as much as I do.\n\n\
+      \   Verdict: 8.5/10.\n\n(PS If you enjoyed this review, feel free to check out\
+      \ my two Curator pages: http://store.steampowered.com/curator/9284586-ReviewsJustfortheHELLofit/\n\
+      http://store.steampowered.com/curator/10868048-Truly-Horrible-Horror-Games/?appid=398210\n\
+      Cheers!)"
+    steam_purchase: true
+    timestamp_created: 1598616356
+    timestamp_updated: 1598616356
+    voted_up: true
+    votes_funny: 0
+    votes_up: 6
+    weighted_vote_score: '0.561169564723968506'
+    written_during_early_access: false
+  success: 1

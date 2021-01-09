@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: "If you like our game and would like to support us, you can purchase\
+      \ this add-on.<br />\r\nThis add-on adds an airship to the game that will make\
+      \ it easier for you to travel through the game world."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1252460/page_bg_generated_v6b.jpg?t=1582275977
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "If you like our game and would like to support us, you\
+      \ can purchase this add-on.<br />\r\nThis add-on adds an airship to the game\
+      \ that will make it easier for you to travel through the game world."
+    developers:
+    - Enoops
+    fullgame:
+      appid: '1225810'
+      name: FOS
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1252460/header.jpg?t=1582275977
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: FOS - Pack Airship
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: FOS - Airship - <span class="discount_original_price">$2.99</span>
+          $1.04
+        packageid: 434743
+        percent_savings: 0
+        percent_savings_text: '-65% '
+        price_in_cents_with_discount: 104
+      title: Buy FOS - Pack Airship
+    packages:
+    - 434743
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E6320
+        (2*1866) or equivalent<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong>
+        GeForce 7600 GS (512 MB) or equivalent<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 65
+      final: 104
+      final_formatted: $1.04
+      initial: 299
+      initial_formatted: $2.99
+    publishers:
+    - Enoops
+    release_date:
+      coming_soon: false
+      date: Feb 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_81839ee3c632c128d2e0dc12f0dd10b1877e5e29.1920x1080.jpg?t=1582275977
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_81839ee3c632c128d2e0dc12f0dd10b1877e5e29.600x338.jpg?t=1582275977
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_e9b5966d4e7fe2497dc22e7479a2785d493e885d.1920x1080.jpg?t=1582275977
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_e9b5966d4e7fe2497dc22e7479a2785d493e885d.600x338.jpg?t=1582275977
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_80ce7fc99631b6e51c7808bdda1e819e64a8bda4.1920x1080.jpg?t=1582275977
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_80ce7fc99631b6e51c7808bdda1e819e64a8bda4.600x338.jpg?t=1582275977
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_9b270487810de45cd063cceea1ff6b527dec5514.1920x1080.jpg?t=1582275977
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_9b270487810de45cd063cceea1ff6b527dec5514.600x338.jpg?t=1582275977
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_ea04cc35a4ababb01498461d0a4f092279200e27.1920x1080.jpg?t=1582275977
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1252460/ss_ea04cc35a4ababb01498461d0a4f092279200e27.600x338.jpg?t=1582275977
+    short_description: This add-on adds an airship to the game that will make it easier
+      for you to travel through the game world.
+    steam_appid: 1252460
+    support_info:
+      email: ENOOPSGames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://fos.my1.ru/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

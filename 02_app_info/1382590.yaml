@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: "All characters' experience gained increases by 200%.<br />\r\n\
+      Effect stacks for similar items.<br />\r\nSettings can be changed in the Option\
+      \ section of the menu."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1382590/page_bg_generated_v6b.jpg?t=1598833779
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: In-App Purchases
+      id: 35
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "All characters' experience gained increases by 200%.<br\
+      \ />\r\nEffect stacks for similar items.<br />\r\nSettings can be changed in\
+      \ the Option section of the menu."
+    developers:
+    - Exe Create Inc.
+    fullgame:
+      appid: '1350920'
+      name: Liege Dragon
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1382590/header.jpg?t=1598833779
+    is_free: false
+    legal_notice: "\xA9 2011-2020 EXE-CREATE published by KEMCO"
+    linux_requirements: []
+    mac_requirements: []
+    name: Experience x3 - Liege Dragon
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Experience x3 - Liege Dragon - $4.99
+        packageid: 485014
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Experience x3 - Liege Dragon
+    packages:
+    - 485014
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - KEMCO
+    release_date:
+      coming_soon: false
+      date: Aug 30, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1382590/ss_f76d5cb27e8bc0b0d4558ba1ed1d5b1d34d7d0f8.1920x1080.jpg?t=1598833779
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1382590/ss_f76d5cb27e8bc0b0d4558ba1ed1d5b1d34d7d0f8.600x338.jpg?t=1598833779
+    short_description: All characters' experience gained increases by 200%.
+    steam_appid: 1382590
+    support_info:
+      email: keitai-info@kemco.jp
+      url: https://www.kemco-games.com/
+    supported_languages: English, Japanese
+    type: dlc
+    website: https://www.kemco-games.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

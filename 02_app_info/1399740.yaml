@@ -1,0 +1,173 @@
+details:
+  data:
+    about_the_game: "Zball is a physics puzzle game. The goal is always the same -\
+      \ deliver the green ball to the green platform, but the ways change. Blocks\
+      \ can have different properties, some are destroyed when colliding with other\
+      \ objects or from an explosion, some are monolithic but mobile, some moves the\
+      \ green ball.<br><br>Usually there is no specific algorithm of actions, you\
+      \ should rely only on your intuition to solve the problem. Every new level is\
+      \ more difficult. Some require dexterity and reaction, some will require patience\
+      \ and caution, others will make you think about the sequence of actions. You\
+      \ can see how to interact with an object by the color of the block. For example,\
+      \ green is the main ball, and you need to deliver it to the platform of the\
+      \ corresponding color. Yellow reacts to explosions from mouse clicks. Blue objects\
+      \ are destroyed when they collide with yellow ones. Blue ones are not destructible,\
+      \ but they can be moved by yellow objects. Red breaks down from the explosion\u2026\
+      \ Gradually you will understand how the system works and will be able to pass\
+      \ all levels<br><br>Exciting gameplay will not let you get bored! To the victory!<br><br><strong>Game\
+      \ Features:</strong><br><ul class=\"bb_ul\"><li> 40 levels<br></li><li> Physics-related\
+      \ puzzles<br></li><li> Challenging levels<br></li><li> Nice casual gameplay</li></ul>"
+    achievements:
+      highlighted:
+      - name: 5!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/beac2253196cd53b3cd65180a57ad1b773ba8a28.jpg
+      - name: 10!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/e876fd1fb84e3de7b47a8167d6dca618d54f630d.jpg
+      - name: 15!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/43a0a05371d58956d3c248b3468138f9c39aa014.jpg
+      - name: 20!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/74a6baec857046c37c4ef310b1cca554e292255c.jpg
+      - name: 25!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/93775088fc1ac60e3abe93b74aac36fad7c2e001.jpg
+      - name: 30!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/f7729fd50b3eb9ceceb891ea9f03200485be83ab.jpg
+      - name: 35!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/14ad1d908aa15ac66d74e88616489d4545136ed7.jpg
+      - name: 40!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1399740/b896db1ef5f64f3fe5a91872c3ef0835d1dec0cb.jpg
+      total: 8
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1399740/page_bg_generated_v6b.jpg?t=1599129521
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Zball is a physics puzzle game. The goal is always the\
+      \ same - deliver the green ball to the green platform, but the ways change.\
+      \ Blocks can have different properties, some are destroyed when colliding with\
+      \ other objects or from an explosion, some are monolithic but mobile, some moves\
+      \ the green ball.<br><br>Usually there is no specific algorithm of actions,\
+      \ you should rely only on your intuition to solve the problem. Every new level\
+      \ is more difficult. Some require dexterity and reaction, some will require\
+      \ patience and caution, others will make you think about the sequence of actions.\
+      \ You can see how to interact with an object by the color of the block. For\
+      \ example, green is the main ball, and you need to deliver it to the platform\
+      \ of the corresponding color. Yellow reacts to explosions from mouse clicks.\
+      \ Blue objects are destroyed when they collide with yellow ones. Blue ones are\
+      \ not destructible, but they can be moved by yellow objects. Red breaks down\
+      \ from the explosion\u2026 Gradually you will understand how the system works\
+      \ and will be able to pass all levels<br><br>Exciting gameplay will not let\
+      \ you get bored! To the victory!<br><br><strong>Game Features:</strong><br><ul\
+      \ class=\"bb_ul\"><li> 40 levels<br></li><li> Physics-related puzzles<br></li><li>\
+      \ Challenging levels<br></li><li> Nice casual gameplay</li></ul>"
+    developers:
+    - 334Sgame
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1399740/header.jpg?t=1599129521
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256797310
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797310/movie480.mp4?t=1597864746
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797310/movie_max.mp4?t=1597864746
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256797310/movie.293x165.jpg?t=1597864746
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797310/movie480_vp9.webm?t=1597864746
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797310/movie_max_vp9.webm?t=1597864746
+    name: Zball
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Zball - $1.99
+        packageid: 491140
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Zball
+    packages:
+    - 491140
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> Core2Duo<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD2000<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> QuadCore<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD2000 or better<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Garage Games
+    release_date:
+      coming_soon: false
+      date: Sep 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_63a4c99b42ff32308c9b254e6be418ee0fcbc73d.1920x1080.jpg?t=1599129521
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_63a4c99b42ff32308c9b254e6be418ee0fcbc73d.600x338.jpg?t=1599129521
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_fe0f41791c9b4587b72778401f1b997daff42db8.1920x1080.jpg?t=1599129521
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_fe0f41791c9b4587b72778401f1b997daff42db8.600x338.jpg?t=1599129521
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_ce496cc924be0f2795b98c5ccb9446f6bbf100ae.1920x1080.jpg?t=1599129521
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_ce496cc924be0f2795b98c5ccb9446f6bbf100ae.600x338.jpg?t=1599129521
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_b3ede173ffa33841ccec998b68f586f95018de31.1920x1080.jpg?t=1599129521
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_b3ede173ffa33841ccec998b68f586f95018de31.600x338.jpg?t=1599129521
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_d57b2da6fe140e482d04865a3a5591b6f6443664.1920x1080.jpg?t=1599129521
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_d57b2da6fe140e482d04865a3a5591b6f6443664.600x338.jpg?t=1599129521
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_9d1ddb23fddc9d17ba3d71fc42958fec46911f16.1920x1080.jpg?t=1599129521
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1399740/ss_9d1ddb23fddc9d17ba3d71fc42958fec46911f16.600x338.jpg?t=1599129521
+    short_description: Zball is a physics puzzle game. The goal is always the same
+      - deliver the green ball to the green platform, but the ways change.
+    steam_appid: 1399740
+    support_info:
+      email: mail@garage-games.ru
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,139 @@
+details:
+  data:
+    about_the_game: "<strong>animARide Parser &amp; Editor</strong> has two tools\
+      \ to create data file for app <strong>animARide</strong> and many other apps,\
+      \ like <strong>Dashware</strong>, etc. <br>First tool extracts <strong>GPMF</strong>\
+      \ motion data from <strong>GoPro</strong> camcorders: <strong>Hero 5+, Fusion</strong>\
+      \ and <strong>MAX</strong> at 100Hz frequency  by three axes:<br><ul class=\"\
+      bb_ul\"><li>Accelerometer, m/s\xB2<br></li><li>Gyroscope, rad/s<br></li><li>Angles,\
+      \ degrees<br></li><li>Speed, m/s<br></li><li>Magnetometer, \xB5T</li></ul>Second\
+      \ tool edits data file <strong>.4DR</strong>, created by upper tool, or by our\
+      \ app for iOS <strong>&quot;animARide MVC&quot;</strong>. Following settings\
+      \ can be edited and saved:<br><ul class=\"bb_ul\"><li>Cutting out data rows,\
+      \ according Time Code value, after edition of parent video<br></li><li>Changing\
+      \ the angles, separately by each axis,  on a constant value<br></li><li>Adjusting\
+      \ Sensitivity of motion for angles re-calculation<br></li><li>Inversion of angles,\
+      \ in case wrong camera orientation </li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1367800/page_bg_generated_v6b.jpg?t=1596081547
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong>animARide Parser &amp; Editor</strong> has two\
+      \ tools to create data file for app <strong>animARide</strong> and many other\
+      \ apps, like <strong>Dashware</strong>, etc. <br>First tool extracts <strong>GPMF</strong>\
+      \ motion data from <strong>GoPro</strong> camcorders: <strong>Hero 5+, Fusion</strong>\
+      \ and <strong>MAX</strong> at 100Hz frequency  by three axes:<br><ul class=\"\
+      bb_ul\"><li>Accelerometer, m/s\xB2<br></li><li>Gyroscope, rad/s<br></li><li>Angles,\
+      \ degrees<br></li><li>Speed, m/s<br></li><li>Magnetometer, \xB5T</li></ul>Second\
+      \ tool edits data file <strong>.4DR</strong>, created by upper tool, or by our\
+      \ app for iOS <strong>&quot;animARide MVC&quot;</strong>. Following settings\
+      \ can be edited and saved:<br><ul class=\"bb_ul\"><li>Cutting out data rows,\
+      \ according Time Code value, after edition of parent video<br></li><li>Changing\
+      \ the angles, separately by each axis,  on a constant value<br></li><li>Adjusting\
+      \ Sensitivity of motion for angles re-calculation<br></li><li>Inversion of angles,\
+      \ in case wrong camera orientation </li></ul>"
+    developers:
+    - Evgeny Merzlyakov
+    - Alexey Odnorog
+    fullgame:
+      appid: '1355840'
+      name: animARide
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Utilities
+      id: '57'
+    - description: Video Production
+      id: '58'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1367800/header.jpg?t=1596081547
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: animARide Parser & Editor
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: animARide Parser & Editor - $17.99
+        packageid: 479711
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1799
+      title: Buy animARide Parser & Editor
+    packages:
+    - 479711
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP1<br></li><li><strong>Processor:</strong> Intel i3<br></li><li><strong>Memory:</strong>
+        4 MB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities.<br></li><li><strong>Network:</strong> Broadband Internet
+        connection<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 64 bit<br></li><li><strong>Processor:</strong> Intel i7<br></li><li><strong>Memory:</strong>
+        8 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 960+<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 700 MB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1799
+      final_formatted: $17.99
+      initial: 1799
+      initial_formatted: ''
+    publishers:
+    - Yasmina Surfside LLC
+    release_date:
+      coming_soon: false
+      date: Jul 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1367800/ss_549235f800409f566506ce974439344530d99e8c.1920x1080.jpg?t=1596081547
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1367800/ss_549235f800409f566506ce974439344530d99e8c.600x338.jpg?t=1596081547
+    short_description: 'App has two tools to create data file for app animARide and
+      many other apps, like Dashware. First tool extracts GPMF motion data from GoPro
+      camcorders: Hero 5+, Fusion and MAX. Second tool edits data file .4DR for the
+      best result.'
+    steam_appid: 1367800
+    support_info:
+      email: feniks.270392@yandex.ru
+      url: http://animaride.com
+    supported_languages: English
+    type: dlc
+    website: https://apps.apple.com/us/app/animaride-mvc/id1438542573
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

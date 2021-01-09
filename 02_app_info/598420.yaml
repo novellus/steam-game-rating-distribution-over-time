@@ -1,0 +1,117 @@
+details:
+  data:
+    about_the_game: The stunning theme song to Sunrider Academy! Music by Amasawa-Kobo,
+      and vocals performed by Myu! Includes instrumental version and separate .pdf
+      with lyrics.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/598420/page_bg_generated_v6b.jpg?t=1581993196
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: null
+    detailed_description: The stunning theme song to Sunrider Academy! Music by Amasawa-Kobo,
+      and vocals performed by Myu! Includes instrumental version and separate .pdf
+      with lyrics.
+    developers:
+    - Love in Space
+    fullgame:
+      appid: '340730'
+      name: Sunrider Academy
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/598420/header.jpg?t=1581993196
+    is_free: false
+    legal_notice: <i>Distributed on Steam, under license, by Sekai Project, on behalf
+      of Love in Space</i>
+    linux_requirements: []
+    mac_requirements: []
+    name: Sunrider Academy - Theme Song
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sunrider Academy - Theme Song - $2.99
+        packageid: 157075
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Sunrider Academy - Theme Song
+    packages:
+    - 157075
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 27, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598420/ss_22eed90350fd4880aca13c4450b5f3ba9280972a.1920x1080.jpg?t=1581993196
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598420/ss_22eed90350fd4880aca13c4450b5f3ba9280972a.600x338.jpg?t=1581993196
+    short_description: Sunrider Academy OP by Amasawa-Kobo feat.
+    steam_appid: 598420
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    supported_languages: English
+    type: music
+    website: http://sunrider-vn.com/sunrideracademy/
+  success: true
+reviews:
+  cursor: AoJwj/iRp/YCcYjtuAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 79
+      num_reviews: 45
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199025863772'
+    comment_count: 0
+    language: latam
+    received_for_free: false
+    recommendationid: '82012289'
+    review: "Me gusto la m\xFAsica de esta banda sonora, las mejores 8 lucas invertidas."
+    steam_purchase: true
+    timestamp_created: 1607631094
+    timestamp_updated: 1607631094
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

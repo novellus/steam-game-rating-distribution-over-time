@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: Original soundtrack for the VR game Fujii composed by Norman Bambi
+      in 2018 in Paris and Los Angeles, and produced by Funktronic Labs. Includes
+      standard-quality audio (128kpbs MP3s) and extremely high-quality uncompressed
+      tracks (2304kbps WAVs).
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1332020/page_bg_generated_v6b.jpg?t=1590786277
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Original soundtrack for the VR game Fujii composed by Norman
+      Bambi in 2018 in Paris and Los Angeles, and produced by Funktronic Labs. Includes
+      standard-quality audio (128kpbs MP3s) and extremely high-quality uncompressed
+      tracks (2304kbps WAVs).
+    developers:
+    - Funktronic Labs
+    fullgame:
+      appid: '589040'
+      name: Fujii
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1332020/header.jpg?t=1590786277
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Fujii OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Fujii Soundtrack - $9.99
+        packageid: 465446
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Fujii OST
+    packages:
+    - 465446
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        52 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 930 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Funktronic Labs
+    release_date:
+      coming_soon: false
+      date: May 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332020/ss_47a64c8b2e96ae6ac1d6d233745204c3fceda79c.1920x1080.jpg?t=1590786277
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332020/ss_47a64c8b2e96ae6ac1d6d233745204c3fceda79c.600x338.jpg?t=1590786277
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332020/ss_3d301ee6567771a9330c219916839ee83005d0e0.1920x1080.jpg?t=1590786277
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332020/ss_3d301ee6567771a9330c219916839ee83005d0e0.600x338.jpg?t=1590786277
+    short_description: Original soundtrack for the VR game Fujii composed by Norman
+      Bambi. Available in standard and hi-quality audio.
+    steam_appid: 1332020
+    support_info:
+      email: support@funktroniclabs.com
+      url: https://discord.gg/funktroniclabs
+    type: music
+    website: http://funktroniclabs.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

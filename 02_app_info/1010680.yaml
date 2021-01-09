@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: "Original soundtrack for Tactics V: &quot;Obsidian Brigade&quot;.<br\
+      \ />\r\n<br />\r\nIncludes 15 tracks.<br />\r\n<br />\r\nTotal play time: 34:52<br\
+      \ />\r\n<br />\r\n1 - Title.<br />\r\n2 - Map Overture.<br />\r\n3 - Overworld.<br\
+      \ />\r\n4 - Shop.<br />\r\n5 - Peaceful Dialogue.<br />\r\n6 - Slightly Intense\
+      \ Dialogue.<br />\r\n7 - Intense Dialogue.<br />\r\n8 - Prebattle Dialogue.<br\
+      \ />\r\n9 - Battle.<br />\r\n10 - Intense Prebattle Dialogue.<br />\r\n11 -\
+      \ Intense Battle.<br />\r\n12 - Evil Prebattle Dialogue.<br />\r\n13 - Evil\
+      \ Battle.<br />\r\n14 - Victories and Defeats.<br />\r\n15 - End."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1010680/page_bg_generated_v6b.jpg?t=1565326951
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Original soundtrack for Tactics V: &quot;Obsidian Brigade&quot;.<br\
+      \ />\r\n<br />\r\nIncludes 15 tracks.<br />\r\n<br />\r\nTotal play time: 34:52<br\
+      \ />\r\n<br />\r\n1 - Title.<br />\r\n2 - Map Overture.<br />\r\n3 - Overworld.<br\
+      \ />\r\n4 - Shop.<br />\r\n5 - Peaceful Dialogue.<br />\r\n6 - Slightly Intense\
+      \ Dialogue.<br />\r\n7 - Intense Dialogue.<br />\r\n8 - Prebattle Dialogue.<br\
+      \ />\r\n9 - Battle.<br />\r\n10 - Intense Prebattle Dialogue.<br />\r\n11 -\
+      \ Intense Battle.<br />\r\n12 - Evil Prebattle Dialogue.<br />\r\n13 - Evil\
+      \ Battle.<br />\r\n14 - Victories and Defeats.<br />\r\n15 - End."
+    developers:
+    - Benji Inniger
+    fullgame:
+      appid: '962150'
+      name: 'Tactics V: "Obsidian Brigade"'
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1010680/header.jpg?t=1565326951
+    is_free: false
+    legal_notice: "\xA9 2019 From Nothing Game Studios.<br />\r\nAll Rights Reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+<br></li><li><strong>Additional Notes:</strong> requires
+        an audio player</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.11+<br></li><li><strong>Additional Notes:</strong> requires an audio
+        player</li></ul>
+    name: 'Tactics V: "Obsidian Brigade" - Soundtrack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Tactics V: "Obsidian Brigade" - Soundtrack - $4.99'
+        packageid: 334571
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: 'Buy Tactics V: "Obsidian Brigade" - Soundtrack'
+    packages:
+    - 334571
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Additional Notes:</strong> requires an
+        audio player</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - From Nothing Game Studios
+    release_date:
+      coming_soon: false
+      date: Aug 8, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1010680/ss_69d1997a51eda010dd7a9cb8d8938bab3c7147f3.1920x1080.jpg?t=1565326951
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1010680/ss_69d1997a51eda010dd7a9cb8d8938bab3c7147f3.600x338.jpg?t=1565326951
+    short_description: 'Original soundtrack for Tactics V: &quot;Obsidian Brigade&quot;'
+    steam_appid: 1010680
+    support_info:
+      email: testing@fromnothinggamestudios.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

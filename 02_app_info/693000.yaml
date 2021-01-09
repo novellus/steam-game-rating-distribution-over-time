@@ -1,0 +1,139 @@
+details:
+  data:
+    about_the_game: '<strong>MIND MELTING CHIPTUNE SOUNDTRACK!</strong> Enjoy the
+      driving retro beats of an original soundtrack by chiptunist Shawn Daley.<br><br><strong>Track
+      List</strong><br><ul class="bb_ul"><li> Track 1 - Title Theme<br></li><li> Track
+      2 - Main Theme<br></li><li> Track 3 - Intermission<br></li><li> Track 4 - Showdown<br></li><li>
+      Track 5 - Second Wind<br></li><li> Track 6 - Second Intermission<br></li><li>
+      Track 7 - Keep Skating<br></li><li> Track 8 - Low On Time<br></li><li> Track
+      9 - Line Brawl<br></li><li> Track 10 - Goal<br></li><li> Track 11 - Victory<br></li><li>
+      Track 12 - Impending Doom<br></li><li> Track 13 - Bonus: Game Over </li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/693000/page_bg_generated_v6b.jpg?t=1581627226
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong>MIND MELTING CHIPTUNE SOUNDTRACK!</strong> Enjoy
+      the driving retro beats of an original soundtrack by chiptunist Shawn Daley.<br><br><strong>Track
+      List</strong><br><ul class="bb_ul"><li> Track 1 - Title Theme<br></li><li> Track
+      2 - Main Theme<br></li><li> Track 3 - Intermission<br></li><li> Track 4 - Showdown<br></li><li>
+      Track 5 - Second Wind<br></li><li> Track 6 - Second Intermission<br></li><li>
+      Track 7 - Keep Skating<br></li><li> Track 8 - Low On Time<br></li><li> Track
+      9 - Line Brawl<br></li><li> Track 10 - Goal<br></li><li> Track 11 - Victory<br></li><li>
+      Track 12 - Impending Doom<br></li><li> Track 13 - Bonus: Game Over </li></ul>'
+    developers:
+    - Loren Lemcke
+    fullgame:
+      appid: '532190'
+      name: Super Blood Hockey
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/693000/header.jpg?t=1581627226
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Super Blood Hockey - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Super Blood Hockey - Original Soundtrack - $0.99
+        packageid: 198704
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Super Blood Hockey - Original Soundtrack
+    packages:
+    - 198704
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 17, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/693000/ss_d3b65100fa41390bae86729376217a364cd9074e.1920x1080.jpg?t=1581627226
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/693000/ss_d3b65100fa41390bae86729376217a364cd9074e.600x338.jpg?t=1581627226
+    short_description: MIND MELTING CHIPTUNE SOUNDTRACK! Enjoy the driving retro beats
+      of an original soundtrack by chiptunist Shawn Daley.
+    steam_appid: 693000
+    support_info:
+      email: ''
+      url: https://www.reddit.com/r/SuperBloodHockey/
+    supported_languages: English
+    type: music
+    website: http://superbloodhockey.com/
+  success: true
+reviews:
+  cursor: AoJwzLT5iPUCdvz9pgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 257
+      num_reviews: 156
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198420209023'
+    comment_count: 0
+    developer_response: 'I have looked into this issue and I cannot seem to recreate
+      it. On my end it works exactly as a soundtrack should.
+
+
+      Could you please retry the soundtrack and see if the issue persists for you?
+      If so it would be greatly helpful to me if you could make a post about it in
+      the game''s discussion forum so we can zero in on the issue.
+
+
+      Thank you!
+
+
+      -Loren'
+    language: english
+    received_for_free: false
+    recommendationid: '77328326'
+    review: "Actually I do not recommend this soundtrack as it opens the game and\
+      \ doesnt play the soundtrack in the \"soundtrack player\" here on steam. This\
+      \ was the issue before too with Sparklite as well it also just opened the game\
+      \ for some reason. \nPlease update this and I will change this negative review\
+      \ about it."
+    steam_purchase: true
+    timestamp_created: 1602323064
+    timestamp_dev_responded: 1605621546
+    timestamp_updated: 1602323064
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

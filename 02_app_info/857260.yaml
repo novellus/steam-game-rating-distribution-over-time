@@ -1,0 +1,123 @@
+details:
+  data:
+    about_the_game: "Unknown Hero FreeFly <br />\r\nUnknown Hero FreeFly 2<br />\r\
+      \nUnknown Hero FreeFly 3<br />\r\nUnknown Hero FreeFly 4"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/857260/page_bg_generated_v6b.jpg?t=1589365756
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Unknown Hero FreeFly <br />\r\nUnknown Hero FreeFly 2<br\
+      \ />\r\nUnknown Hero FreeFly 3<br />\r\nUnknown Hero FreeFly 4"
+    developers:
+    - Unknown Hero
+    fullgame:
+      appid: '839730'
+      name: Planum
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/857260/header.jpg?t=1589365756
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Planum Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Planum Soundtrack - $0.99
+        packageid: 269679
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Planum Soundtrack
+    packages:
+    - 269679
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Metal Fox
+    release_date:
+      coming_soon: false
+      date: May 3, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/857260/ss_52f2828388cb1291392e53adeb289b2d497675fc.1920x1080.jpg?t=1589365756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/857260/ss_52f2828388cb1291392e53adeb289b2d497675fc.600x338.jpg?t=1589365756
+    short_description: Planum Soundtrack
+    steam_appid: 857260
+    support_info:
+      email: lommic324@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ48Jzu/OsCd8S1zgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2844
+      num_reviews: 891
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198194680793'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '54111303'
+    review: "\u0411\u0435\u0441\u0442\u043E\u043B\u043A\u043E\u0432\u043E\u0435 \u0434\
+      \u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435 \u0438\u0433\u0440\u044B\
+      \ \"Planum\" \u0432 \u0432\u0438\u0434\u0435 \u0447\u0435\u0442\u044B\u0440\u0451\
+      \u0445 \u0441\u0430\u0443\u043D\u0434\u0442\u0440\u0435\u043A\u043E\u0432, \u043A\
+      \u043E\u0442\u043E\u0440\u044B\u0435 \u0441\u043E\u0441\u0442\u043E\u044F\u0442\
+      \ \u0438\u0437 \u043E\u0434\u043D\u043E\u0439 \u0438 \u0442\u043E\u0439 \u0436\
+      \u0435 \u043C\u0435\u043B\u043E\u0434\u0438\u0438, \u0442\u043E\u043B\u044C\u043A\
+      \u043E \u0432\u0438\u0434\u043E\u0438\u0437\u043C\u0435\u043D\u0451\u043D\u043D\
+      \u043E\u0439. \u041D\u0435 \u0441\u0442\u043E\u0438\u0442 \u043E\u0431\u0440\
+      \u0430\u0449\u0430\u0442\u044C \u043D\u0430 \u043D\u0435\u0433\u043E \u0432\u043D\
+      \u0438\u043C\u0430\u043D\u0438\u044F."
+    steam_purchase: true
+    timestamp_created: 1563197641
+    timestamp_updated: 1563262773
+    voted_up: false
+    votes_funny: 0
+    votes_up: 7
+    weighted_vote_score: '0.526476562023162842'
+    written_during_early_access: false
+  success: 1

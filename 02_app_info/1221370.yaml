@@ -1,0 +1,100 @@
+details:
+  data:
+    about_the_game: <i>Composed by Mike Labelle, the StretchBot OST features 14 tracks
+      of original game music in 320kbps MP3 format.</i>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1221370/page_bg_generated_v6b.jpg?t=1581628306
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <i>Composed by Mike Labelle, the StretchBot OST features
+      14 tracks of original game music in 320kbps MP3 format.</i>
+    developers:
+    - M5 Games
+    fullgame:
+      appid: '1202610'
+      name: StretchBot
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1221370/header.jpg?t=1581628306
+    is_free: false
+    legal_notice: "\xA9 2020 M5 Games Inc. All rights Reserved."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        100 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        250 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: StretchBot - Official Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: StretchBot - Official Soundtrack - $1.99
+        packageid: 423030
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy StretchBot - Official Soundtrack
+    packages:
+    - 423030
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        100 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        75 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - M5 Games
+    release_date:
+      coming_soon: false
+      date: Feb 6, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1221370/ss_52652354245304a49a86d8fc170156e5111eeac3.1920x1080.jpg?t=1581628306
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1221370/ss_52652354245304a49a86d8fc170156e5111eeac3.600x338.jpg?t=1581628306
+    short_description: StretchBot official soundtrack
+    steam_appid: 1221370
+    support_info:
+      email: info@m5games.com
+      url: https://www.m5games.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://www.stretchbot.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

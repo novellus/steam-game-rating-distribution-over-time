@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: In this DLC you find full soundtrack from the game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1315700/page_bg_generated_v6b.jpg?t=1591087245
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: In this DLC you find full soundtrack from the game.
+    developers:
+    - IR Studio
+    fullgame:
+      appid: '1312990'
+      name: Awkward Girls
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1315700/header.jpg?t=1591087245
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Awkward Girls Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Awkward Girls Soundtrack - $1.99
+        packageid: 459312
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Awkward Girls Soundtrack
+    packages:
+    - 459312
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - IR Studio
+    release_date:
+      coming_soon: false
+      date: Jun 2, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1315700/ss_dbdd885fe8c0b63d60bbb5e4c452bd3c68aa699f.1920x1080.jpg?t=1591087245
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1315700/ss_dbdd885fe8c0b63d60bbb5e4c452bd3c68aa699f.600x338.jpg?t=1591087245
+    short_description: In this DLC you find full soundtrack from the game.
+    steam_appid: 1315700
+    support_info:
+      email: irstudio2016@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJwirXtwfICc9ehjAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 41
+      num_reviews: 8
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198035186522'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '70323571'
+    review: "\uADF8\uB0E5 \uADF8\uC800 \uADF8\uB7FC...\uC704 \uC544\uB798 \uB2E4 \uB098\
+      \uC624\uAE34 \uD558\uB294 \uB370 \uAC1C\uCA50\uB2E4 \uAC1C\uCA50\uB2E4 \uD560\
+      \ \uC815\uB3C4 \uAE4C\uC9C4 \uC544\uB2D8..."
+    steam_purchase: true
+    timestamp_created: 1591347620
+    timestamp_updated: 1591347620
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

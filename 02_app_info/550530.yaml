@@ -1,0 +1,75 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - raptor-lab
+    fullgame:
+      appid: '531270'
+      name: The Art of Fight | 4vs4 Fast-Paced FPS
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/550530/header.jpg?t=1482352394
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: The Art of Fight Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Graphics:</strong>
+        GTX 970</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> i7<br></li><li><strong>Graphics:</strong>
+        GTX 1070</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - raptor-lab
+    release_date:
+      coming_soon: false
+      date: Dec 21, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 550530
+    support_info:
+      email: team@raptor-lab.com
+      url: http://raptor-lab.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://raptor-lab.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: A unique decoration pack filled with football themed items.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1276524/page_bg_generated_v6b.jpg?t=1586514163
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: A unique decoration pack filled with football themed items.
+    developers:
+    - Ninja Kiwi
+    fullgame:
+      appid: '1252780'
+      name: Bloons Monkey City
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1276524/header.jpg?t=1586514163
+    is_free: false
+    legal_notice: "\xA92020 Ninja Kiwi Ltd."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>
+    name: Bloons Monkey City - MC Darts Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Bloons Monkey City - MC Darts Pack - $4.99
+        packageid: 444529
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Bloons Monkey City - MC Darts Pack
+    packages:
+    - 444529
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Ninja Kiwi
+    release_date:
+      coming_soon: false
+      date: Apr 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_5c1f88f4e76e5a8975b373f93843ff7017544386.1920x1080.jpg?t=1586514163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_5c1f88f4e76e5a8975b373f93843ff7017544386.600x338.jpg?t=1586514163
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_b224b741fbf799b85003949f817e2e067d19c423.1920x1080.jpg?t=1586514163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_b224b741fbf799b85003949f817e2e067d19c423.600x338.jpg?t=1586514163
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_9419b34708817dd13ce18833c83e6c02582f705b.1920x1080.jpg?t=1586514163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_9419b34708817dd13ce18833c83e6c02582f705b.600x338.jpg?t=1586514163
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_2cf51d806ec4404fd7d89bc94c7eda09f7aaa395.1920x1080.jpg?t=1586514163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_2cf51d806ec4404fd7d89bc94c7eda09f7aaa395.600x338.jpg?t=1586514163
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_cc1c6168b245f854b3a25bd4a50ca8e5a80d5b62.1920x1080.jpg?t=1586514163
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276524/ss_cc1c6168b245f854b3a25bd4a50ca8e5a80d5b62.600x338.jpg?t=1586514163
+    short_description: A unique decoration pack filled with football themed items.
+    steam_appid: 1276524
+    support_info:
+      email: support@ninjakiwi.com
+      url: http://support.ninjakiwi.com
+    supported_languages: English
+    type: dlc
+    website: http://ninjakiwi.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

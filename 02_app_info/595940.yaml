@@ -1,0 +1,151 @@
+details:
+  data:
+    about_the_game: "The Dark Mage skin for &quot;White Mage&quot; Class.<br />\r\n\
+      <br />\r\nThis skin alters the projectiles and spells with dark magic instead\
+      \ of white magic!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/595940/page_bg_generated_v6b.jpg?t=1564580509
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The Dark Mage skin for &quot;White Mage&quot; Class.<br\
+      \ />\r\n<br />\r\nThis skin alters the projectiles and spells with dark magic\
+      \ instead of white magic!"
+    developers:
+    - Elias Viglione
+    - Jussi Kukkonen
+    fullgame:
+      appid: '269210'
+      name: Hero Siege
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/595940/header.jpg?t=1564580509
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+    name: Skin - Dark Mage
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dark Mage - $4.99
+        packageid: 155958
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Skin - Dark Mage
+    packages:
+    - 155958
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as main game</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 8, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/595940/ss_46655525e3e176eee6c6f8b9c31c6375c2b7f873.1920x1080.jpg?t=1564580509
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/595940/ss_46655525e3e176eee6c6f8b9c31c6375c2b7f873.600x338.jpg?t=1564580509
+    short_description: The Dark Mage skin for &quot;White Mage&quot; Class. This skin
+      alters the projectiles and spells with dark magic instead of white magic!
+    steam_appid: 595940
+    support_info:
+      email: panicartstudios@gmail.com
+      url: http://panicartstudios.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ41dKMzfYCfsOHvQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 2
+    total_positive: 8
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 33
+      num_reviews: 12
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198405405796'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '83115070'
+    review: "De\u011Fmez"
+    steam_purchase: true
+    timestamp_created: 1608904775
+    timestamp_updated: 1608904775
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

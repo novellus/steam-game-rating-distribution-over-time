@@ -1,0 +1,244 @@
+details:
+  data:
+    about_the_game: Overture Music Visualization is a solo-dev project created in
+      Unreal Engine and released for the Windows platform.  It captures audio in realtime
+      from any source, including Youtube, Spotify, Pandora, VLC and others, and features
+      50+ customization options across several categories.  The goal of the Overture
+      project is to create a versatile, general purpose music visualization utility
+      with robust configuration options to make it suitable for personal use, video
+      creation, or streaming.<br><br><strong>Early Access Status</strong><br>Overture
+      Music Visualization is currently stable for Windows desktops and features both
+      fullscreen and windowed 1920x1080 view modes.  However, the project should be
+      considered early access as new features and scenes are already planned and a
+      new VR mode is currently under development and will be released as a free update
+      soon.<br><br><strong>Regarding System Requirements</strong><br>The project supports
+      both 3D and &quot;minimal&quot; scenes (as denoted in the scene selection menu)
+      in an attempt to provide a wider range of support.  The 3D scenes are more resource
+      intensive, and have been tested and run above 90 FPS on a machine with the following
+      specs:<br><br>8GB DDR4 SDRAM 3200<br>GeForce GTX 970 4GB Graphics Card<br>Intel
+      Core i7 6700K 4.00 GHz Processor<br>Minimal scenes are performant on machines
+      with much lower capabilities.<br><br><strong>Important Notes</strong><br><ul
+      class="bb_ul"><li>For best results, check your default audio device's bitrate
+      settings and select the matching bitrate option in the game's settings<br></li><li>Overture
+      Music Visualization is <strong>not</strong> compatible with headphones that
+      simulate surround sound.  It is compatible with stereo headphones and surround
+      sound speakers.<br></li><li>Use space bar to open the effects customization
+      panel in any scene<br></li><li>If the bars or other lighting effects are not
+      visible, check your operating system's volume and try turning it up or maximizing
+      it.  The OS volume controls can also be used as a secondary method of fine-tuning
+      effect sensitivity.</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1026380/page_bg_generated_v6b.jpg?t=1573730932
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Overture Music Visualization is a solo-dev project created
+      in Unreal Engine and released for the Windows platform.  It captures audio in
+      realtime from any source, including Youtube, Spotify, Pandora, VLC and others,
+      and features 50+ customization options across several categories.  The goal
+      of the Overture project is to create a versatile, general purpose music visualization
+      utility with robust configuration options to make it suitable for personal use,
+      video creation, or streaming.<br><br><strong>Early Access Status</strong><br>Overture
+      Music Visualization is currently stable for Windows desktops and features both
+      fullscreen and windowed 1920x1080 view modes.  However, the project should be
+      considered early access as new features and scenes are already planned and a
+      new VR mode is currently under development and will be released as a free update
+      soon.<br><br><strong>Regarding System Requirements</strong><br>The project supports
+      both 3D and &quot;minimal&quot; scenes (as denoted in the scene selection menu)
+      in an attempt to provide a wider range of support.  The 3D scenes are more resource
+      intensive, and have been tested and run above 90 FPS on a machine with the following
+      specs:<br><br>8GB DDR4 SDRAM 3200<br>GeForce GTX 970 4GB Graphics Card<br>Intel
+      Core i7 6700K 4.00 GHz Processor<br>Minimal scenes are performant on machines
+      with much lower capabilities.<br><br><strong>Important Notes</strong><br><ul
+      class="bb_ul"><li>For best results, check your default audio device's bitrate
+      settings and select the matching bitrate option in the game's settings<br></li><li>Overture
+      Music Visualization is <strong>not</strong> compatible with headphones that
+      simulate surround sound.  It is compatible with stereo headphones and surround
+      sound speakers.<br></li><li>Use space bar to open the effects customization
+      panel in any scene<br></li><li>If the bars or other lighting effects are not
+      visible, check your operating system's volume and try turning it up or maximizing
+      it.  The OS volume controls can also be used as a secondary method of fine-tuning
+      effect sensitivity.</li></ul>
+    developers:
+    - BATTLESQUATCH
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1026380/header.jpg?t=1573730932
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256742570
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256742570/movie480.mp4?t=1551607342
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256742570/movie_max.mp4?t=1551607342
+      name: Primary Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256742570/movie.293x165.jpg?t=1551607342
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256742570/movie480.webm?t=1551607342
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256742570/movie_max.webm?t=1551607342
+    - highlight: true
+      id: 256744350
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256744350/movie480.mp4?t=1551540323
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256744350/movie_max.mp4?t=1551540323
+      name: Effects Demo
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256744350/movie.293x165.jpg?t=1551540323
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256744350/movie480.webm?t=1551540323
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256744350/movie_max.webm?t=1551540323
+    name: Overture Music Visualization
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Overture Music Visualization - $9.99
+        packageid: 341008
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Overture Music Visualization
+    packages:
+    - 341008
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E8400<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 560<br></li><li><strong>Storage:</strong>
+        13 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7 2600K<br></li><li><strong>Memory:</strong>
+        16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970<br></li><li><strong>Storage:</strong>
+        13 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Retrograde Games
+    release_date:
+      coming_soon: false
+      date: Mar 1, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_5306bcfcea92284149af3b5a9b9784e3bf399cd3.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_5306bcfcea92284149af3b5a9b9784e3bf399cd3.600x338.jpg?t=1573730932
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_dad616bdd55fb1c7137a8c8edaffc2f9e9da0a30.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_dad616bdd55fb1c7137a8c8edaffc2f9e9da0a30.600x338.jpg?t=1573730932
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_79e911dbdd8f13fd64c7fccc50c679cab154984a.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_79e911dbdd8f13fd64c7fccc50c679cab154984a.600x338.jpg?t=1573730932
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_08048c580012c52096b476a3c195691de77f5d5a.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_08048c580012c52096b476a3c195691de77f5d5a.600x338.jpg?t=1573730932
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_7866088db7e3fd6d6497113853ad668fdf889701.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_7866088db7e3fd6d6497113853ad668fdf889701.600x338.jpg?t=1573730932
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_44fdde25ab490ae3aa5f4914c7174021c11db05b.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_44fdde25ab490ae3aa5f4914c7174021c11db05b.600x338.jpg?t=1573730932
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_19fd6d9ee792c1e012aad0e971b2e79f4312d061.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_19fd6d9ee792c1e012aad0e971b2e79f4312d061.600x338.jpg?t=1573730932
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_100e3174a5b436c96a3d4599f1d4daff2a0ca2b0.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_100e3174a5b436c96a3d4599f1d4daff2a0ca2b0.600x338.jpg?t=1573730932
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_05b4b70981bfa15ae3ade184ed49c8e417fc551e.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_05b4b70981bfa15ae3ade184ed49c8e417fc551e.600x338.jpg?t=1573730932
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_5fbaca48aea8aeac5f138cb84317f291e0d23a1f.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_5fbaca48aea8aeac5f138cb84317f291e0d23a1f.600x338.jpg?t=1573730932
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_80947c4a4320a1a07144fc75fe93457d0b8d32af.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_80947c4a4320a1a07144fc75fe93457d0b8d32af.600x338.jpg?t=1573730932
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_16764f3a8f902800ff17be1671f9de105f95e2ea.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_16764f3a8f902800ff17be1671f9de105f95e2ea.600x338.jpg?t=1573730932
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_415ec0f4db7aa7eea490d66ac129f83db96811cc.1920x1080.jpg?t=1573730932
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1026380/ss_415ec0f4db7aa7eea490d66ac129f83db96811cc.600x338.jpg?t=1573730932
+    short_description: Overture Music Visualization is an early-access music visualization
+      experience for Windows, capturing audio in real-time from any source and creating
+      effects that react to your music. It currently includes a stable desktop version,
+      as well as a VR demo that supports the Oculus Rift.
+    steam_appid: 1026380
+    support_info:
+      email: battlesquatch@gmail.com
+      url: https://overturevis.com
+    supported_languages: English
+    type: game
+    website: https://overturevis.com
+  success: true
+reviews:
+  cursor: AoJ4l8iNhvYCcdOBtAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 3
+    total_positive: 16
+    total_reviews: 19
+  reviews:
+  - author:
+      last_played: 1606523284
+      num_games_owned: 311
+      num_reviews: 4
+      playtime_at_review: 59
+      playtime_forever: 85
+      playtime_last_two_weeks: 0
+      steamid: '76561197995718575'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '80743729'
+    review: "Just got it and been perusing the different visualizations... holy cow....\
+      \ nice. Timer and text to show \"starting in XX:XX\" ...\n\nRecordings of the\
+      \ visualization have the potential to be used with video editing software to\
+      \ add more details to it.... overlays, screen, etc... \n\nLooking for a preset\
+      \ to set resolution to 3440x1440 or at least have a properly non-stretched 16:9\
+      \ rectangle to capture a video with OBS or other software... currently the visualization\
+      \ stretches to 3440x1440 using the Fullscreen 1080p setting...\n\nExperimental\
+      \ windowed 2560x1440 looks great! I am using a 3440x1440 monitor and when I\
+      \ do full-screen it shows with less quality... not as \"sharp\" as the windowed\
+      \ 2560x1440...\n\nWishlist: \n- Option to use smooth edged bars (have different\
+      \ bar styles)\n- Ability to have different visualizers with a green screen so\
+      \ we can blend them on video editing software... This is instead of the 3D backgrounds...\n\
+      - Ability to import SVG shapes for which the spectrum bars can come out of...\n\
+      - Better alignment of settings on the top of the window, some text overlap (at\
+      \ leas\n- Ability to allow settings to display on the \"experimental\" resolution\
+      \ \"windowed\" screen.\n- Make spectrum bars reach way higher.... I have tried\
+      \ different music genres and audio sensitivity settings, and mostly only the\
+      \ lower frequencies make the bars on the left most side go up somewhat... makes\
+      \ for a rather \"uneventful\" visualization.\n\nThis is awesome!!!!! and has\
+      \ lots of potential!!!\n\nWould recommend."
+    steam_purchase: true
+    timestamp_created: 1606518607
+    timestamp_updated: 1606522651
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

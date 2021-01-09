@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Kloonigames
+    fullgame:
+      appid: '26900'
+      name: Crayon Physics Deluxe
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/26910/header.jpg?t=1447351692
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 79
+    name: Crayon Physics Deluxe Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "                    \n\t\t\t\t\t<ul>                    \n\t\t\t\t\
+        \t<li><strong>Operating System: </strong>Microsoft\xAE Windows\xAE XP/Vista</li>\
+        \                    \n\t\t\t\t\t<li><strong>Processor: </strong>1 Ghz</li>\
+        \                    \n\t\t\t\t\t<li><strong>Memory: </strong>512 MB RAM</li>\
+        \                    \n\t\t\t\t\t<li><strong>Hard Disk Space: </strong>50\
+        \ MB Available HDD Space</li>                    \n\t\t\t\t\t<li><strong>Video\
+        \ Card: </strong>Any 3D graphics accelerator with 128 MB of texture memory</li>\
+        \                    \n\t\t\t\t\t<li><strong>Sound Card: </strong>16-bit Sound\
+        \ Card</li>                    \n\t\t\t\t\t<li><strong>DirectX\xAE Version:\
+        \ </strong>DirectX\xAE 9.0c</li>                    </ul>                \
+        \    "
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Kloonigames
+    release_date:
+      coming_soon: false
+      date: May 6, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 26910
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://www.crayonphysics.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

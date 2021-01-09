@@ -1,0 +1,181 @@
+details:
+  data:
+    about_the_game: "Snake is everything you'd expect plus a little extra ;)<h2 class=\"\
+      bb_tag\">Game Modes</h2><br><ul class=\"bb_ul\"><li> <strong>Classic</strong>:\
+      \ The classic game of Snake. Eat food and grow as long as you can without hitting\
+      \ the walls or yourself.<br></li><li> <strong>Open</strong>: This is the same\
+      \ as classic but without the walls, traveling off screen wraps you around to\
+      \ the opposite side of the screen.<br></li><li> <strong>Levels</strong>: This\
+      \ is where the &quot;extra&quot; comes in. There are 12 levels available, each\
+      \ requiring you to get a minimum score on the previous level to unlock. Levels\
+      \ consist of various obstacles that make growing your snake more challenging\
+      \ such as additional walls and portals to take you to various sections of the\
+      \ screen.</li></ul><h2 class=\"bb_tag\">Speeds</h2><br>The game includes Slow,\
+      \ Medium, and Fast speeds to accommodate to any skill level. Levels can be unlocked\
+      \ by playing on any speed, so if you are struggling with a level feel free to\
+      \ slow it down.<h2 class=\"bb_tag\">Themes</h2><br>Don't like the original green\
+      \ tint of Snake? No worries, the game includes 9 themes that change the color\
+      \ palette and design of the entire game.<h2 class=\"bb_tag\">Controls</h2><br><strong>WASD\
+      \ / \u2190\u2191\u2192\u2193</strong>: Move<br><strong>Spacebar</strong>: Pause<br><strong>ESC\
+      \ / Backspace</strong>: Exit<br><strong>F11</strong>: Toggle Fullscreen<h2 class=\"\
+      bb_tag\">Source Code</h2><a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/Romans-I-XVI/MonoGame-Snake\"\
+      \ target=\"_blank\" rel=\"noopener\"  >https://github.com/Romans-I-XVI/MonoGame-Snake</a>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1332800/page_bg_generated_v6b.jpg?t=1592917985
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Snake is everything you'd expect plus a little extra ;)<h2\
+      \ class=\"bb_tag\">Game Modes</h2><br><ul class=\"bb_ul\"><li> <strong>Classic</strong>:\
+      \ The classic game of Snake. Eat food and grow as long as you can without hitting\
+      \ the walls or yourself.<br></li><li> <strong>Open</strong>: This is the same\
+      \ as classic but without the walls, traveling off screen wraps you around to\
+      \ the opposite side of the screen.<br></li><li> <strong>Levels</strong>: This\
+      \ is where the &quot;extra&quot; comes in. There are 12 levels available, each\
+      \ requiring you to get a minimum score on the previous level to unlock. Levels\
+      \ consist of various obstacles that make growing your snake more challenging\
+      \ such as additional walls and portals to take you to various sections of the\
+      \ screen.</li></ul><h2 class=\"bb_tag\">Speeds</h2><br>The game includes Slow,\
+      \ Medium, and Fast speeds to accommodate to any skill level. Levels can be unlocked\
+      \ by playing on any speed, so if you are struggling with a level feel free to\
+      \ slow it down.<h2 class=\"bb_tag\">Themes</h2><br>Don't like the original green\
+      \ tint of Snake? No worries, the game includes 9 themes that change the color\
+      \ palette and design of the entire game.<h2 class=\"bb_tag\">Controls</h2><br><strong>WASD\
+      \ / \u2190\u2191\u2192\u2193</strong>: Move<br><strong>Spacebar</strong>: Pause<br><strong>ESC\
+      \ / Backspace</strong>: Exit<br><strong>F11</strong>: Toggle Fullscreen<h2 class=\"\
+      bb_tag\">Source Code</h2><a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/Romans-I-XVI/MonoGame-Snake\"\
+      \ target=\"_blank\" rel=\"noopener\"  >https://github.com/Romans-I-XVI/MonoGame-Snake</a>"
+    developers:
+    - Romans I XVI Gaming
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1332800/header.jpg?t=1592917985
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any 64-bit Linux OS<br></li><li><strong>Processor:</strong> 1.4GHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX version 10 or later<br></li><li><strong>Processor:</strong> 1.4GHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256787667
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787667/movie480.mp4?t=1591644129
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787667/movie_max.mp4?t=1591644129
+      name: Snake
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256787667/movie.293x165.jpg?t=1591644129
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787667/movie480_vp9.webm?t=1591644129
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787667/movie_max_vp9.webm?t=1591644129
+    name: Snake
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Snake - $1.99
+        packageid: 465712
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Snake
+    packages:
+    - 465712
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1.4GHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Romans I XVI Gaming
+    release_date:
+      coming_soon: false
+      date: Jun 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_8c35cc7b3aaf689b6628d4d18eb84ee599026636.1920x1080.jpg?t=1592917985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_8c35cc7b3aaf689b6628d4d18eb84ee599026636.600x338.jpg?t=1592917985
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_608bf635aa16448c89b4006beaad0b2d31362419.1920x1080.jpg?t=1592917985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_608bf635aa16448c89b4006beaad0b2d31362419.600x338.jpg?t=1592917985
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_02124ac3f95febf86fbd534f0be2fd164d77f131.1920x1080.jpg?t=1592917985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_02124ac3f95febf86fbd534f0be2fd164d77f131.600x338.jpg?t=1592917985
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_f5f8ded53861d818ae9ed52f6ae34b5ffc602420.1920x1080.jpg?t=1592917985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_f5f8ded53861d818ae9ed52f6ae34b5ffc602420.600x338.jpg?t=1592917985
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_3303ddf0672ce541abc2952811bda77b1e68db03.1920x1080.jpg?t=1592917985
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1332800/ss_3303ddf0672ce541abc2952811bda77b1e68db03.600x338.jpg?t=1592917985
+    short_description: Play the classic that transcends generations.
+    steam_appid: 1332800
+    support_info:
+      email: contact@romansixvigaming.com
+      url: https://romansixvigaming.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://romansixvigaming.com
+  success: true
+reviews:
+  cursor: AoJ405vIg/YCetyHswI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1603184095
+      num_games_owned: 66
+      num_reviews: 1
+      playtime_at_review: 198
+      playtime_forever: 198
+      playtime_last_two_weeks: 0
+      steamid: '76561198818063787'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '80494026'
+    review: good snek
+    steam_purchase: true
+    timestamp_created: 1606437363
+    timestamp_updated: 1606437363
+    voted_up: true
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

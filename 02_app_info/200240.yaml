@@ -1,0 +1,81 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Rocksteady Studios
+    fullgame:
+      appid: '57400'
+      name: 'Batman: Arkham City'
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/200240/header.jpg?t=1447355927
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 91
+    name: Batman Arkham City Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Warner Bros. Interactive Entertainment
+    release_date:
+      coming_soon: false
+      date: May 29, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 200240
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://community.batmanarkhamcity.com/
+  success: true
+reviews:
+  cursor: AoJ4q+rCg9oCftudcQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1486253326
+      num_games_owned: 64
+      num_reviews: 73
+      playtime_at_review: 106
+      playtime_forever: 106
+      playtime_last_two_weeks: 0
+      steamid: '76561198150948406'
+    comment_count: 0
+    language: portuguese
+    received_for_free: false
+    recommendationid: '29683134'
+    review: "Adorei o demo, mesmo sendo s\xF3 de 15 minutos. Adorei os gr\xE1ficos."
+    steam_purchase: true
+    timestamp_created: 1486176867
+    timestamp_updated: 1486176867
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

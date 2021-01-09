@@ -1,0 +1,75 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '1001630'
+      name: SUBVERSE
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1009430/header.jpg?t=1547063957
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'SUBVERSE: The Brain Hack - BONUS SHORT FILM'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: SUBVERSE - Free
+        packageid: 331009
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy SUBVERSE: The Brain Hack - BONUS SHORT FILM'
+    packages:
+    - 331009
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jan 3, 2019
+    required_age: 0
+    short_description: From the writer / director of SUBVERSE THE BRAIN HACK A multi-award-winning
+      short film about two film students who find a short-cut to induce visions of
+      God.
+    steam_appid: 1009430
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

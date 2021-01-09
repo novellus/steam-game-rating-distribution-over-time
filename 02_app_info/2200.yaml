@@ -1,0 +1,154 @@
+details:
+  data:
+    about_the_game: 'Welcome to the Arena, where high-ranking warriors are transformed
+      into spineless mush. Abandoning every ounce of common sense and any trace of
+      doubt, you lunge onto a stage of harrowing landscapes and veiled abysses. Your
+      new environment rejects you with lava pits and atmospheric hazards as legions
+      of foes surround you, testing the gut reaction that brought you here in the
+      first place. Your new mantra: Fight or be finished.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/2200/page_bg_generated_v6b.jpg?t=1579209054
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 9080
+      description: ''
+    detailed_description: 'Welcome to the Arena, where high-ranking warriors are transformed
+      into spineless mush. Abandoning every ounce of common sense and any trace of
+      doubt, you lunge onto a stage of harrowing landscapes and veiled abysses. Your
+      new environment rejects you with lava pits and atmospheric hazards as legions
+      of foes surround you, testing the gut reaction that brought you here in the
+      first place. Your new mantra: Fight or be finished.'
+    developers:
+    - id Software
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/2200/header.jpg?t=1579209054
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Quake III Arena
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: QUAKE III Arena + Team Arena - $14.99
+        packageid: 433
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: QUAKE Collection - $24.99
+        packageid: 434
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2499
+      title: Buy Quake III Arena
+    packages:
+    - 433
+    - 434
+    pc_requirements:
+      minimum: "<strong></strong>3-D Hardware Accelerator with full OpenGL\xAE support,\
+        \ Pentium\xAE 233 Mhz MMX\xAEprocessor with 8 MB Video Card or Pentium II\
+        \ 266 Mhz processor with 4 MB Video Card, or AMD\xAE 350 Mhz K6\xAE-2 processor\
+        \ with 4 MB Video Card, 64 MB RAM, a 100% Windows\xAE XP/Vista compatible\
+        \ computer system (including compatible 32-bit drivers for video card, sound\
+        \ card and input devices), 25 MB of uncompressed hard disk space for game\
+        \ files (Minimum Install), plus 45 MB for the Windows swap file, 100% DirectX\
+        \ 3.0 or higher compatible sound card, 100% Microsoft-compatible mouse and\
+        \ driver, joystick (optional)"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - id Software
+    recommendations:
+      total: 1912
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2007
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000283.1920x1080.jpg?t=1579209054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000283.600x338.jpg?t=1579209054
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000284.1920x1080.jpg?t=1579209054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000284.600x338.jpg?t=1579209054
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000285.1920x1080.jpg?t=1579209054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000285.600x338.jpg?t=1579209054
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000286.1920x1080.jpg?t=1579209054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000286.600x338.jpg?t=1579209054
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000287.1920x1080.jpg?t=1579209054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2200/0000000287.600x338.jpg?t=1579209054
+    short_description: Welcome to the Arena, where high-ranking warriors are transformed
+      into spineless mush. Abandoning every ounce of common sense and any trace of
+      doubt, you lunge onto a stage of harrowing landscapes and veiled abysses.
+    steam_appid: 2200
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw/pWV8vYCeZTVwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 9
+    review_score_desc: Overwhelmingly Positive
+    total_negative: 83
+    total_positive: 1829
+    total_reviews: 1912
+  reviews:
+  - author:
+      last_played: 1609574105
+      num_games_owned: 101
+      num_reviews: 4
+      playtime_at_review: 590
+      playtime_forever: 590
+      playtime_last_two_weeks: 590
+      steamid: '76561198405091314'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84322633'
+    review: based
+    steam_purchase: true
+    timestamp_created: 1610148524
+    timestamp_updated: 1610148524
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

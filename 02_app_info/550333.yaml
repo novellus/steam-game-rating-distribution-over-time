@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/550333/page_bg_generated_v6b.jpg?t=1481727142
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Arc System Works
+    fullgame:
+      appid: '520440'
+      name: GUILTY GEAR Xrd -REVELATOR-
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/550333/header.jpg?t=1481727142
+    is_free: false
+    legal_notice: "\xA9 ARC SYSTEM WORKS"
+    linux_requirements: []
+    mac_requirements: []
+    name: GGXrdR System Voice Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: GGXrdR System Voice Pack - $11.99
+        packageid: 136286
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1199
+      title: Buy GGXrdR System Voice Pack
+    packages:
+    - 136286
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 / 8.1 / 10 (32bit/64bit)<br></li><li><strong>Processor:</strong>
+        Intel Core i5 @ 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 560 / Radeon HD 7770<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        12 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1199
+      final_formatted: $11.99
+      initial: 1199
+      initial_formatted: ''
+    publishers:
+    - Arc System Works
+    release_date:
+      coming_soon: false
+      date: Dec 14, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550333/ss_f3b3d730005e847d69c2312491d3ce3234fdb618.1920x1080.jpg?t=1481727142
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550333/ss_f3b3d730005e847d69c2312491d3ce3234fdb618.600x338.jpg?t=1481727142
+    short_description: ''
+    steam_appid: 550333
+    support_info:
+      email: ''
+      url: http://www.arcsystemworks.jp/steam/en/contact_02.php
+    supported_languages: English, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4j+H3p/QCeKyxnwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 131
+      num_reviews: 21
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198961397432'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '75336392'
+    review: Elphelt'in seslendirmesi <3
+    steam_purchase: true
+    timestamp_created: 1599067851
+    timestamp_updated: 1599067851
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

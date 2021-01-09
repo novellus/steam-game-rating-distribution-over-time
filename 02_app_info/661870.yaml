@@ -1,0 +1,96 @@
+details:
+  data:
+    about_the_game: "It is a soundtrack that collects BGM played during the game.<br\
+      \ />\r\nA full version of 2 theme songs is recorded with 7 vocals.<br />\r\n\
+      The theme song was implemented in XBLIG version.<br />\r\n<br />\r\n01-10 BGM<br\
+      \ />\r\n11-24 Theme song"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/661870/page_bg_generated_v6b.jpg?t=1581557524
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "It is a soundtrack that collects BGM played during the\
+      \ game.<br />\r\nA full version of 2 theme songs is recorded with 7 vocals.<br\
+      \ />\r\nThe theme song was implemented in XBLIG version.<br />\r\n<br />\r\n\
+      01-10 BGM<br />\r\n11-24 Theme song"
+    developers:
+    - KoheiGallery
+    fullgame:
+      appid: '656190'
+      name: "THE HOUCHI PLAY -THE \u653E\u7F6E\u30D7\u30EC\u30A4-"
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/661870/header.jpg?t=1581557524
+    is_free: false
+    legal_notice: "\xA9 2011-2017 KoheiGallery"
+    linux_requirements: []
+    mac_requirements: []
+    name: The Houchi Play Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Houchi Play Soundtrack - $2.99
+        packageid: 187624
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy The Houchi Play Soundtrack
+    packages:
+    - 187624
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows7<br></li><li><strong>Processor:</strong> Intel Core i5 1.9GHz<br></li><li><strong>Memory:</strong>
+        100 MB RAM<br></li><li><strong>Graphics:</strong> Corresponding to OpenGL<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - KoheiGallery
+    release_date:
+      coming_soon: false
+      date: Jul 31, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/661870/ss_99d06ddae684fe010f055e8ed439fada839030bd.1920x1080.jpg?t=1581557524
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/661870/ss_99d06ddae684fe010f055e8ed439fada839030bd.600x338.jpg?t=1581557524
+    short_description: It is a soundtrack that collects BGM played during the game.
+      A full version of 2 theme songs is recorded with 7 vocals. The theme song was
+      implemented in XBLIG version.
+    steam_appid: 661870
+    support_info:
+      email: dio_stand_the_world@msn.com
+      url: http://koheigallery.jp/
+    supported_languages: Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://koheigallery.jp/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

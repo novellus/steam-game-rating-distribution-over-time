@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: "Welcome to the Forest!<br />\r\n<br />\r\nPlay all BOX IT puzzles\
+      \ in a now location - the forest!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/801930/page_bg_generated_v6b.jpg?t=1528129817
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Welcome to the Forest!<br />\r\n<br />\r\nPlay all BOX\
+      \ IT puzzles in a now location - the forest!"
+    developers:
+    - Phoenix Coalition
+    fullgame:
+      appid: '704940'
+      name: BOX IT
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/801930/header.jpg?t=1528129817
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: BOXIT Map Forest
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: BOXIT Map Forest - $1.99
+        packageid: 244070
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy BOXIT Map Forest
+    packages:
+    - 244070
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win7/8/10 64-bit<br></li><li><strong>Processor:</strong> Core 2 Duo E8200
+        2.66GHz or Phenom II X2 545<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 11 compatible graphics card with at least 1GB dedicated VRAM.<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional
+        Notes:</strong> Mobile and Integrated GPUs might work but have no official
+        support.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win7/8/10 64-bit<br></li><li><strong>Processor:</strong> Core 2 Quad Q9550
+        2.83GHz or Phenom II X4 955<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 11 compatible graphics card with at least 1GB dedicated VRAM.<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional
+        Notes:</strong> Mobile and Integrated GPUs might work but have no official
+        support.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Phoenix Coalition
+    release_date:
+      coming_soon: false
+      date: Jun 4, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_14d91d1064a5b2934389782e7f936e670f06d163.1920x1080.jpg?t=1528129817
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_14d91d1064a5b2934389782e7f936e670f06d163.600x338.jpg?t=1528129817
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_561e8813cfe396073c4f14ea32d725874b46fecd.1920x1080.jpg?t=1528129817
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_561e8813cfe396073c4f14ea32d725874b46fecd.600x338.jpg?t=1528129817
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_a1c60de546140edcdf613e533cf251ea517cd888.1920x1080.jpg?t=1528129817
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_a1c60de546140edcdf613e533cf251ea517cd888.600x338.jpg?t=1528129817
+    short_description: Welcome to the Forest!
+    steam_appid: 801930
+    support_info:
+      email: ''
+      url: https://www.facebook.com/PhoenixCoalitionDev/
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

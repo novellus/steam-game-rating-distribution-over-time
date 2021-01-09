@@ -1,0 +1,153 @@
+details:
+  data:
+    about_the_game: 'Sometimes it is ok to think inside of the box, like when trying
+      to solve the challenging puzzles of <strong>Boulders: Puzzle</strong>.<br>Test
+      your logic and spatial thinking while trying to move your cuboid to connect
+      to the goal cube. Use the environment to control the length of the cuboid to
+      be able to reach the goal cube.<h2 class="bb_tag"><strong>Features</strong></h2><ul
+      class="bb_ul"><li>Ten levels to try in the demo.<br></li><li>Play community
+      made levels. <strong>Full version only.</strong><br></li><li>[Optional] Measure
+      different attributes and compare with your friends to see who the best is.<br></li><li>Create
+      your own levels with the free included level editor. <strong>Full version only.</strong></li></ul><h2
+      class="bb_tag"><strong>How to play</strong></h2>You control a cuboid with the
+      goal of connecting to the goal cube, moving the cuboid by rotating it.<br>There
+      are multiple types of cubes that can aid you in your goal or hinders your progress.<br><ul
+      class="bb_ul"><li><strong>Player cuboid:</strong> Connect the player cuboid
+      to the goal cube to beat the level. You move the cuboid by rotating it.<br></li><li><strong>Player
+      cubes:</strong> Connect with these cubes to make the cuboid longer or break
+      it apart to make it shorter so you can get past get different areas in the level.<br></li><li><strong>Destructor
+      cube:</strong> If a player cube in the player cuboid connects to the destructor
+      cube it will be destroyed and break apart the cuboid at that point.<br></li><li><strong>Duplicator
+      cube:</strong> If a player cube in the player cuboid connects to the duplicator
+      cube it will be transformed into another duplicator cube break apart the cuboid
+      at that point.<br></li><li><strong>Ground cube:</strong> You can only move the
+      player cuboid over ground cubes, you can also use them to disconnect the player
+      cuboid making it shorter.<br></li><li><strong>Goal cube:</strong> If the player
+      cuboid connects to the goal cube you beat the level.</li></ul><br>If you want
+      to show off your skills to your friends, you can optionally measure three different
+      attributes (turn them on in the settings).<br><ul class="bb_ul"><li><strong>Moves:</strong>
+      How many times have you moved the player cuboid before you connected to the
+      goal cube.<br></li><li><strong>Steps:</strong> How many moves with each individual
+      player cube in the cuboid have you moved before connected to the goal cube.
+      If the player consists of three cubes and you make one move, that equals three
+      steps.<br></li><li><strong>Time:</strong> How long time did it take before you
+      reached the goal cube.</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1509980/page_bg_generated_v6b.jpg?t=1609743400
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Sometimes it is ok to think inside of the box, like when
+      trying to solve the challenging puzzles of <strong>Boulders: Puzzle</strong>.<br>Test
+      your logic and spatial thinking while trying to move your cuboid to connect
+      to the goal cube. Use the environment to control the length of the cuboid to
+      be able to reach the goal cube.<h2 class="bb_tag"><strong>Features</strong></h2><ul
+      class="bb_ul"><li>Ten levels to try in the demo.<br></li><li>Play community
+      made levels. <strong>Full version only.</strong><br></li><li>[Optional] Measure
+      different attributes and compare with your friends to see who the best is.<br></li><li>Create
+      your own levels with the free included level editor. <strong>Full version only.</strong></li></ul><h2
+      class="bb_tag"><strong>How to play</strong></h2>You control a cuboid with the
+      goal of connecting to the goal cube, moving the cuboid by rotating it.<br>There
+      are multiple types of cubes that can aid you in your goal or hinders your progress.<br><ul
+      class="bb_ul"><li><strong>Player cuboid:</strong> Connect the player cuboid
+      to the goal cube to beat the level. You move the cuboid by rotating it.<br></li><li><strong>Player
+      cubes:</strong> Connect with these cubes to make the cuboid longer or break
+      it apart to make it shorter so you can get past get different areas in the level.<br></li><li><strong>Destructor
+      cube:</strong> If a player cube in the player cuboid connects to the destructor
+      cube it will be destroyed and break apart the cuboid at that point.<br></li><li><strong>Duplicator
+      cube:</strong> If a player cube in the player cuboid connects to the duplicator
+      cube it will be transformed into another duplicator cube break apart the cuboid
+      at that point.<br></li><li><strong>Ground cube:</strong> You can only move the
+      player cuboid over ground cubes, you can also use them to disconnect the player
+      cuboid making it shorter.<br></li><li><strong>Goal cube:</strong> If the player
+      cuboid connects to the goal cube you beat the level.</li></ul><br>If you want
+      to show off your skills to your friends, you can optionally measure three different
+      attributes (turn them on in the settings).<br><ul class="bb_ul"><li><strong>Moves:</strong>
+      How many times have you moved the player cuboid before you connected to the
+      goal cube.<br></li><li><strong>Steps:</strong> How many moves with each individual
+      player cube in the cuboid have you moved before connected to the goal cube.
+      If the player consists of three cubes and you make one move, that equals three
+      steps.<br></li><li><strong>Time:</strong> How long time did it take before you
+      reached the goal cube.</li></ul>'
+    developers:
+    - Farewell Games
+    fullgame:
+      appid: '1492290'
+      name: 'Boulders: Puzzle'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1509980/header.jpg?t=1609743400
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: 'Boulders: Puzzle Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        SP+/8.1/10<br></li><li><strong>Processor:</strong> x86, x64 architecture with
+        SSE2 instruction set support.<br></li><li><strong>Memory:</strong> 500 MB
+        RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> Requires
+        internet connection to download additional levels.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Farewell Games
+    release_date:
+      coming_soon: true
+      date: Dec 30, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_3d3926f09e15045c4277f0f0cca20aa9c102e5c8.1920x1080.jpg?t=1609743400
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_3d3926f09e15045c4277f0f0cca20aa9c102e5c8.600x338.jpg?t=1609743400
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_d6137c2ff619b7ae71af3aa2cfc8cf6400f81c8c.1920x1080.jpg?t=1609743400
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_d6137c2ff619b7ae71af3aa2cfc8cf6400f81c8c.600x338.jpg?t=1609743400
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_1787c0c3817b0d1d235dc2f0401f7a924272f5b3.1920x1080.jpg?t=1609743400
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_1787c0c3817b0d1d235dc2f0401f7a924272f5b3.600x338.jpg?t=1609743400
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_dcb7530d159914f529e2648cca088a3df7420f5f.1920x1080.jpg?t=1609743400
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_dcb7530d159914f529e2648cca088a3df7420f5f.600x338.jpg?t=1609743400
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_6876c5c5713da6f5b582a73560d53f245e4e7cc5.1920x1080.jpg?t=1609743400
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509980/ss_6876c5c5713da6f5b582a73560d53f245e4e7cc5.600x338.jpg?t=1609743400
+    short_description: 'Boulders: Puzzle is a game that challenges your logic and
+      spatial thinking. You take control of a cuboid and must traverse the level in
+      three dimensions to reach the goal cube and use the environment to modify the
+      cuboids length to get past obstacles.'
+    steam_appid: 1509980
+    support_info:
+      email: support@farewellgames.se
+      url: ''
+    supported_languages: English, Swedish, Polish
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    - description: Steam Workshop
+      id: 30
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Nadeo
+    fullgame:
+      appid: '228760'
+      name: "TrackMania\xB2 Canyon"
+    genres:
+    - description: Racing
+      id: '9'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/264850/header.jpg?t=1529051279
+    is_free: true
+    legal_notice: "\xA9 2013 Ubisoft Entertainment. All Rights Reserved. Ubisoft,\
+      \ Ubi.com, Nadeo, the Ubisoft logo and the Nadeo logo are trademarks of Ubisoft\
+      \ Entertainment in the U.S. and/or other countries."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 81
+    name: "TrackMania\xB2 Canyon Demo"
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Ubisoft
+    release_date:
+      coming_soon: false
+      date: Nov 7, 2013
+    required_age: 0
+    short_description: ''
+    steam_appid: 264850
+    support_info:
+      email: ''
+      url: http://cs.ubi.com
+    supported_languages: English, German, French, Italian, Spanish - Spain, Simplified
+      Chinese, Russian, Japanese, Portuguese, Polish, Danish, Dutch, Finnish, Norwegian,
+      Swedish, Hungarian, Czech, Romanian, Turkish, Portuguese - Brazil
+    type: demo
+    website: https://www.maniaplanet.com/titles/TMCanyon@nadeo
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

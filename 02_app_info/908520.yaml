@@ -1,0 +1,246 @@
+details:
+  data:
+    about_the_game: "<strong>fpsVR</strong> is a utility application for SteamVR that\
+      \ show VR session's performance counters in SteamVR Overlay window inside VR.\
+      \   <br>                <br>Features include:<br><br><ul class=\"bb_ul\"><li>Display\
+      \ of the current  FPS and the average FPS for VR session<br></li><li>Display\
+      \ of the GPU &amp; CPU usage (and Max CPU/Thread Usage - the maximum instantaneous\
+      \ usage among all threads/cores in the system)<br></li><li>Display of the GPU\
+      \ MEM &amp; RAM usage<br></li><li>Display of the GPU &amp; CPU frametimes <br></li><li>Display\
+      \ of the GPU temperature and CPU temperature (Experimental feature)<br></li><li>Display\
+      \ of the Ratio of reprojected frames to presented frames, Display of the number\
+      \ of dropped frames<br></li><li>Display of the current time and duration of\
+      \ the VR session<br></li><li>Display the batteries charge of the controllers\
+      \ (and Vive trackers) in percentages.<br></li><li> Ability to set default playback\
+      \ and record devices, ability to mute/unmute the microphone using VR headset\
+      \ proximity sensor, ability to change Steam VR audio settings<br></li><li>SteamVR\
+      \ Supersampling settings &amp; Motion Smoothing settings<br></li><li>\u0421\
+      able tracking feature.<br></li><li>Display the status of the microphone, microphone\
+      \ control: mute / unmute<br></li><li>Ability to change the size and the opacity\
+      \ of the overlay window, Ability to attach the overlay window to the controllers,\
+      \ Ability to hide the overlay window<br></li><li>Center marker - displays a\
+      \ marker that represents the center of the playspace.<br></li><li>Ability to\
+      \ attach the overlay window for seated positions in seated games/apps (for auto/flight-sims)<br></li><li>Automatically\
+      \ start fpsVR when SteamVR starts (optional), Automatically minimize the window\
+      \ after start (optional)<br></li><li>Hide the window to Windows tray in minimized\
+      \ state (optional)<br></li><li>Ability to reset statistics at any time for benchmarking/testing<br></li><li>Ability\
+      \ to save the history of VR sessions and view it in the fpsVR History Viewer\
+      \ (included)<br></li><li>Timer, Alarm.</li></ul><br><a href=\"https://steamcommunity.com/app/908520/discussions/0/1735462352484917218/\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >fpsVR Q&amp;A</a>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/908520/page_bg_generated_v6b.jpg?t=1583923028
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>Supported VR headsets</h1><p>Read about supported headsets\
+      \ in <a href=\"https://steamcommunity.com/app/908520/discussions/0/1735462352484917218/\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >fpsVR Q&amp;A</a></p><br><h1>About\
+      \ the Software</h1><strong>fpsVR</strong> is a utility application for SteamVR\
+      \ that show VR session's performance counters in SteamVR Overlay window inside\
+      \ VR.   <br>                <br>Features include:<br><br><ul class=\"bb_ul\"\
+      ><li>Display of the current  FPS and the average FPS for VR session<br></li><li>Display\
+      \ of the GPU &amp; CPU usage (and Max CPU/Thread Usage - the maximum instantaneous\
+      \ usage among all threads/cores in the system)<br></li><li>Display of the GPU\
+      \ MEM &amp; RAM usage<br></li><li>Display of the GPU &amp; CPU frametimes <br></li><li>Display\
+      \ of the GPU temperature and CPU temperature (Experimental feature)<br></li><li>Display\
+      \ of the Ratio of reprojected frames to presented frames, Display of the number\
+      \ of dropped frames<br></li><li>Display of the current time and duration of\
+      \ the VR session<br></li><li>Display the batteries charge of the controllers\
+      \ (and Vive trackers) in percentages.<br></li><li> Ability to set default playback\
+      \ and record devices, ability to mute/unmute the microphone using VR headset\
+      \ proximity sensor, ability to change Steam VR audio settings<br></li><li>SteamVR\
+      \ Supersampling settings &amp; Motion Smoothing settings<br></li><li>\u0421\
+      able tracking feature.<br></li><li>Display the status of the microphone, microphone\
+      \ control: mute / unmute<br></li><li>Ability to change the size and the opacity\
+      \ of the overlay window, Ability to attach the overlay window to the controllers,\
+      \ Ability to hide the overlay window<br></li><li>Center marker - displays a\
+      \ marker that represents the center of the playspace.<br></li><li>Ability to\
+      \ attach the overlay window for seated positions in seated games/apps (for auto/flight-sims)<br></li><li>Automatically\
+      \ start fpsVR when SteamVR starts (optional), Automatically minimize the window\
+      \ after start (optional)<br></li><li>Hide the window to Windows tray in minimized\
+      \ state (optional)<br></li><li>Ability to reset statistics at any time for benchmarking/testing<br></li><li>Ability\
+      \ to save the history of VR sessions and view it in the fpsVR History Viewer\
+      \ (included)<br></li><li>Timer, Alarm.</li></ul><br><a href=\"https://steamcommunity.com/app/908520/discussions/0/1735462352484917218/\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >fpsVR Q&amp;A</a>"
+    developers:
+    - SBSoftLab
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/908520/header.jpg?t=1583923028
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: fpsVR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: fpsVR - $3.99
+        packageid: 291091
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy fpsVR
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $3.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$3.99 at checkout,
+          auto-renewed every 1 month(s) at $3.99.</p>
+        option_text: $3.99 / month
+        packageid: 356171
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy fpsVR Subscription Plan
+    packages:
+    - 291091
+    - 356171
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10
+        (64-bit version)<br></li><li><strong>Graphics:</strong> DirectX 11 Compatible
+        Video Card<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ Windows 10 (64-bit version)<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Core\u2122 i5-4590 or AMD FX\u2122 8350, equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\xAE GTX\
+        \ 1060 or AMD Radeon\u2122 RX 480, equivalent or better<br></li><li><strong>Storage:</strong>\
+        \ 100 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - SBSoftLab
+    recommendations:
+      total: 806
+    release_date:
+      coming_soon: false
+      date: Sep 11, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_ba61648bd96cf9c772190fca83460fd7e2e223eb.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_ba61648bd96cf9c772190fca83460fd7e2e223eb.600x338.jpg?t=1583923028
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_660403a71898ae2161832b3d6aa0edf248c34a4c.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_660403a71898ae2161832b3d6aa0edf248c34a4c.600x338.jpg?t=1583923028
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_7593129afb59f6c480897aecde198c1b76731b98.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_7593129afb59f6c480897aecde198c1b76731b98.600x338.jpg?t=1583923028
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_080178c152479ec3b9b3ca277f778337dd548e4b.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_080178c152479ec3b9b3ca277f778337dd548e4b.600x338.jpg?t=1583923028
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_ae0442b81ffe458a6750b5b29ec66e5c1204fef0.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_ae0442b81ffe458a6750b5b29ec66e5c1204fef0.600x338.jpg?t=1583923028
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_a01f3397d6a2312026f807e3907819670a59b32b.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_a01f3397d6a2312026f807e3907819670a59b32b.600x338.jpg?t=1583923028
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_e1a009a3ddb89fa4d4d81790c65eecff9703768a.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_e1a009a3ddb89fa4d4d81790c65eecff9703768a.600x338.jpg?t=1583923028
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_341732862391c714b87f1f82de87310b7b927f5f.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_341732862391c714b87f1f82de87310b7b927f5f.600x338.jpg?t=1583923028
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_3e20f34113392681188099a5ededa0b9ddd7c7b4.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_3e20f34113392681188099a5ededa0b9ddd7c7b4.600x338.jpg?t=1583923028
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_fb43da19a88750dd6b8cdd7e6731e51088bded9c.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_fb43da19a88750dd6b8cdd7e6731e51088bded9c.600x338.jpg?t=1583923028
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_4c8d6b326ca3a349279c6ba50803832745f4e57b.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_4c8d6b326ca3a349279c6ba50803832745f4e57b.600x338.jpg?t=1583923028
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_1edf650bcead5ae549192506d9ca41ae3fbb4ff2.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_1edf650bcead5ae549192506d9ca41ae3fbb4ff2.600x338.jpg?t=1583923028
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_ba9c2a40e8f7d6cb791d912adc080e3b1e278725.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_ba9c2a40e8f7d6cb791d912adc080e3b1e278725.600x338.jpg?t=1583923028
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_4c450a009290dbfacbc64cae9bde155f7ac46243.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_4c450a009290dbfacbc64cae9bde155f7ac46243.600x338.jpg?t=1583923028
+    - id: 14
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_c710f5d428878b57dda52cab97b5111b3a09fc68.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_c710f5d428878b57dda52cab97b5111b3a09fc68.600x338.jpg?t=1583923028
+    - id: 15
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_a22c4bf80d52e3870dd618cbea581088e3baf83c.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_a22c4bf80d52e3870dd618cbea581088e3baf83c.600x338.jpg?t=1583923028
+    - id: 16
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_affc75ad31a5863677e88f0c8f8a1482a91ef2b6.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_affc75ad31a5863677e88f0c8f8a1482a91ef2b6.600x338.jpg?t=1583923028
+    - id: 17
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_e31a320ee5a244fa2244fc87560e04abf4b71368.1920x1080.jpg?t=1583923028
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908520/ss_e31a320ee5a244fa2244fc87560e04abf4b71368.600x338.jpg?t=1583923028
+    short_description: IN-GAME utility for keeping track of FPS (Frames Per Second),
+      other performance counters, and SteamVR settings in SteamVR games and applications.
+    steam_appid: 908520
+    support_info:
+      email: fpsvr.contact@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwzozQ7/YCeaK0wQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 9
+    review_score_desc: Overwhelmingly Positive
+    total_negative: 14
+    total_positive: 791
+    total_reviews: 805
+  reviews:
+  - author:
+      last_played: 1609966388
+      num_games_owned: 40
+      num_reviews: 34
+      playtime_at_review: 3991
+      playtime_forever: 3991
+      playtime_last_two_weeks: 3991
+      steamid: '76561198274793006'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84255273'
+    review: e
+    steam_purchase: true
+    timestamp_created: 1610063308
+    timestamp_updated: 1610063308
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

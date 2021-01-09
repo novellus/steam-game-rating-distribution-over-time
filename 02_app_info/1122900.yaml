@@ -1,0 +1,108 @@
+details:
+  data:
+    about_the_game: "Defend Sine Wave City from the evil WaveLord. Control the phase\
+      \ and frequency of your sine wave shield to match the incoming lasers, and save\
+      \ your city!<br />\r\n<br />\r\nSine Wave City is an arcade game in the style\
+      \ of space invaders, where the player controls a sine wave to stop incoming\
+      \ lasers. The sine wave is only effective at the peaks of the wave, so the player\
+      \ must shift phase and frequency to stop all incoming attacks.<br />\r\n<br\
+      \ />\r\nSine wave city is only playable with a gamepad. The left knob controls\
+      \ phase, and the right knob controls frequency. Each new level brings new challenges\
+      \ and varying laser patterns, but the sinewave shield gains new abilities to\
+      \ defend against the new threats. Try for a perfect score, and don't let any\
+      \ lasers hit the city!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1122900/page_bg_generated_v6b.jpg?t=1581812705
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Defend Sine Wave City from the evil WaveLord. Control the\
+      \ phase and frequency of your sine wave shield to match the incoming lasers,\
+      \ and save your city!<br />\r\n<br />\r\nSine Wave City is an arcade game in\
+      \ the style of space invaders, where the player controls a sine wave to stop\
+      \ incoming lasers. The sine wave is only effective at the peaks of the wave,\
+      \ so the player must shift phase and frequency to stop all incoming attacks.<br\
+      \ />\r\n<br />\r\nSine wave city is only playable with a gamepad. The left knob\
+      \ controls phase, and the right knob controls frequency. Each new level brings\
+      \ new challenges and varying laser patterns, but the sinewave shield gains new\
+      \ abilities to defend against the new threats. Try for a perfect score, and\
+      \ don't let any lasers hit the city!"
+    developers:
+    - Jajmu
+    genres:
+    - description: Action
+      id: '1'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1122900/header.jpg?t=1581812705
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 256773713
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773713/movie480.mp4?t=1580529065
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773713/movie_max.mp4?t=1580529065
+      name: sinewavetrailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256773713/movie.293x165.jpg?t=1580529065
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256773713/movie480.webm?t=1580529065
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256773713/movie_max.webm?t=1580529065
+    name: Sine Wave City
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Gamepad required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Jajmu
+    release_date:
+      coming_soon: false
+      date: Feb 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_53386d3976f03ab44e999fe258a6e4e51faf0227.1920x1080.jpg?t=1581812705
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_53386d3976f03ab44e999fe258a6e4e51faf0227.600x338.jpg?t=1581812705
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_b769baa07655ca3c664a39b317be3846a35cf3a1.1920x1080.jpg?t=1581812705
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_b769baa07655ca3c664a39b317be3846a35cf3a1.600x338.jpg?t=1581812705
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_9c8abebe86c205ff5c22dd480012f6d1cb4d1ab9.1920x1080.jpg?t=1581812705
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_9c8abebe86c205ff5c22dd480012f6d1cb4d1ab9.600x338.jpg?t=1581812705
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_c449a9be81e9a629552ded8fcb323bfe2dbea747.1920x1080.jpg?t=1581812705
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_c449a9be81e9a629552ded8fcb323bfe2dbea747.600x338.jpg?t=1581812705
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_f4d9adecd5853ffa9497592435dd37db32f909fa.1920x1080.jpg?t=1581812705
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1122900/ss_f4d9adecd5853ffa9497592435dd37db32f909fa.600x338.jpg?t=1581812705
+    short_description: Arcade action -- control the phase and frequency of your sine
+      wave shield to defend the city from incoming lasers.
+    steam_appid: 1122900
+    support_info:
+      email: ''
+      url: https://github.com/johnstoecker/sinewavecity
+    supported_languages: English
+    type: game
+    website: https://sinewavecity.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

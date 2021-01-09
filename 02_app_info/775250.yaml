@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Picorinne Soft
+    fullgame:
+      appid: '771070'
+      name: Infinos Gaiden
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/775250/header.jpg?t=1514978414
+    is_free: true
+    legal_notice: Copyright Picorinne Soft.
+    linux_requirements: []
+    mac_requirements: []
+    name: Infinos Gaiden Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows10,8,7,vista,xp<br></li><li><strong>Processor:</strong> CPU 1.5GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 1024 x 768<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows10,8,7,vista,xp<br></li><li><strong>Processor:</strong> CPU 2GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 800<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Picorinne Soft
+    release_date:
+      coming_soon: false
+      date: Jan 3, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 775250
+    support_info:
+      email: picorinnesoft@gmail.com
+      url: http://picorinnesoft.web.fc2.com
+    supported_languages: English, Japanese
+    type: demo
+    website: http://picorinnesoft.web.fc2.com/infinos_gaiden.html
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

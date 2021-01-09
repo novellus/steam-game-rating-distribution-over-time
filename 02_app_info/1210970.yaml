@@ -1,0 +1,209 @@
+details:
+  data:
+    about_the_game: "Carpet Bombing is a retro-style, 2D aircraft arcade game. Fly\
+      \ a jet fighter and engage enemy at land, sea and air! Choose from different\
+      \ aircrafts - each with their own unique flying profile. Arm yourself to the\
+      \ teeth and get ready for some serious action!<br />\r\n<br />\r\nVARIED GAMEPLAY<br\
+      \ />\r\nSeveral types of enemies to combat: soldiers, tanks, helicopters, airplanes\
+      \ and more! Each enemy has their own unique AI model, ensuring varied gameplay.<br\
+      \ />\r\n<br />\r\nUPGRADES AND POWER-UPS<br />\r\nCollect power-ups to boost\
+      \ your aircraft in game. Upgrade the aircraft between each level to increase\
+      \ its awesomeness!<br />\r\n<br />\r\nENDLESS FUN<br />\r\nRandomly generated\
+      \ maps test your skill in more and more challenging levels<br />\r\n<br />\r\
+      \nDESTRUCTABLE TERRAIN<br />\r\nLike Worms and Scorched Earth. Boom!<br />\r\
+      \n<br />\r\nEXCITING BOSS FIGHTS<br />\r\nThe game gets harder as you go, which\
+      \ means the bosses gets harder. Soon your heart will be pounding from adrenaline\
+      \ as you try to get in that last hit before getting killed!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1210970/page_bg_generated_v6b.jpg?t=1578560208
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Carpet Bombing is a retro-style, 2D aircraft arcade game.\
+      \ Fly a jet fighter and engage enemy at land, sea and air! Choose from different\
+      \ aircrafts - each with their own unique flying profile. Arm yourself to the\
+      \ teeth and get ready for some serious action!<br />\r\n<br />\r\nVARIED GAMEPLAY<br\
+      \ />\r\nSeveral types of enemies to combat: soldiers, tanks, helicopters, airplanes\
+      \ and more! Each enemy has their own unique AI model, ensuring varied gameplay.<br\
+      \ />\r\n<br />\r\nUPGRADES AND POWER-UPS<br />\r\nCollect power-ups to boost\
+      \ your aircraft in game. Upgrade the aircraft between each level to increase\
+      \ its awesomeness!<br />\r\n<br />\r\nENDLESS FUN<br />\r\nRandomly generated\
+      \ maps test your skill in more and more challenging levels<br />\r\n<br />\r\
+      \nDESTRUCTABLE TERRAIN<br />\r\nLike Worms and Scorched Earth. Boom!<br />\r\
+      \n<br />\r\nEXCITING BOSS FIGHTS<br />\r\nThe game gets harder as you go, which\
+      \ means the bosses gets harder. Soon your heart will be pounding from adrenaline\
+      \ as you try to get in that last hit before getting killed!"
+    developers:
+    - Synthetic Mind AB
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1210970/header.jpg?t=1578560208
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256770090
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770090/movie480.mp4?t=1577395506
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770090/movie_max.mp4?t=1577395506
+      name: Main
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256770090/movie.293x165.jpg?t=1577395506
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770090/movie480.webm?t=1577395506
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770090/movie_max.webm?t=1577395506
+    - highlight: true
+      id: 256769981
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256769981/movie480.mp4?t=1577395514
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256769981/movie_max.mp4?t=1577395514
+      name: Second
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256769981/movie.293x165.jpg?t=1577395514
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256769981/movie480.webm?t=1577395514
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256769981/movie_max.webm?t=1577395514
+    - highlight: true
+      id: 256770105
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770105/movie480.mp4?t=1577395522
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770105/movie_max.mp4?t=1577395522
+      name: '2'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256770105/movie.293x165.jpg?t=1577395522
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256770105/movie480.webm?t=1577395522
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256770105/movie_max.webm?t=1577395522
+    name: Carpet Bombing
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Carpet Bombing - $9.99
+        packageid: 418556
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Carpet Bombing
+    packages:
+    - 418556
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 110 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Synthetic Mind AB
+    release_date:
+      coming_soon: false
+      date: Jan 9, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_f9bcdcf5783c3eb86bc2b9a1ee780dd330c8dd53.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_f9bcdcf5783c3eb86bc2b9a1ee780dd330c8dd53.600x338.jpg?t=1578560208
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_1e0fc3cd89dfcd34eb1be52c70c319762e6846b4.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_1e0fc3cd89dfcd34eb1be52c70c319762e6846b4.600x338.jpg?t=1578560208
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_0c781ef34e8196bfd210eb7b58567ed3d22f05dd.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_0c781ef34e8196bfd210eb7b58567ed3d22f05dd.600x338.jpg?t=1578560208
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_8a753769e76d541cc3aa520bcd0d362a06517cc6.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_8a753769e76d541cc3aa520bcd0d362a06517cc6.600x338.jpg?t=1578560208
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_1551c05ebe07402e888e3d30e8df2faf026fa58b.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_1551c05ebe07402e888e3d30e8df2faf026fa58b.600x338.jpg?t=1578560208
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_12556c1f16efdce8006c915a053c2ab00a7e7bc3.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_12556c1f16efdce8006c915a053c2ab00a7e7bc3.600x338.jpg?t=1578560208
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_d0c3a357db5f51cc3711bfda7c6f4123c8cf22bc.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_d0c3a357db5f51cc3711bfda7c6f4123c8cf22bc.600x338.jpg?t=1578560208
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_1e712c8b5859e43834eb65ffcee586c5088c02ce.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_1e712c8b5859e43834eb65ffcee586c5088c02ce.600x338.jpg?t=1578560208
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_b4cc04c2ba76036c846fe006252e0e661efcc534.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_b4cc04c2ba76036c846fe006252e0e661efcc534.600x338.jpg?t=1578560208
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_b1ff1dac9bd8634e72f1512bde46b5708af45fcf.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_b1ff1dac9bd8634e72f1512bde46b5708af45fcf.600x338.jpg?t=1578560208
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_c2979436c8f5f68edc086b153a77963ca001184a.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_c2979436c8f5f68edc086b153a77963ca001184a.600x338.jpg?t=1578560208
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_d6fa0293f06d102cb49e17435ff39e584731c9f9.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_d6fa0293f06d102cb49e17435ff39e584731c9f9.600x338.jpg?t=1578560208
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_715124ea9bc079e54e0662bc881187e270833877.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_715124ea9bc079e54e0662bc881187e270833877.600x338.jpg?t=1578560208
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_aa39d01401b7ec156f6f0aaa259ef57c6d4d4afa.1920x1080.jpg?t=1578560208
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210970/ss_aa39d01401b7ec156f6f0aaa259ef57c6d4d4afa.600x338.jpg?t=1578560208
+    short_description: Carpet Bombing is a retro-style, 2D aircraft arcade game. Fly
+      a jet fighter and engage enemy at land, sea and air! Choose from different aircrafts
+      - each with their own unique flying profile. Arm yourself to the teeth and get
+      ready for some serious action!
+    steam_appid: 1210970
+    support_info:
+      email: info@synthetic-mind.se
+      url: http://www.synthetic-mind.se/
+    supported_languages: English
+    type: game
+    website: http://www.synthetic-mind.se/games/carpet-bombing/
+  success: true
+reviews:
+  cursor: AoJw95vk1PQCdq/zogI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1607829926
+      num_games_owned: 1297
+      num_reviews: 119
+      playtime_at_review: 76
+      playtime_forever: 89
+      playtime_last_two_weeks: 0
+      steamid: '76561197972380586'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '76258038'
+    review: Tons of procedural fun to be had, if a bit repetitive.
+    steam_purchase: true
+    timestamp_created: 1600572678
+    timestamp_updated: 1600572678
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

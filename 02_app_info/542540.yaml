@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: This is purely for donation purposes if you enjoyed the game enough
+      to contribute to the developer. Purchasing this will NOT add anything to the
+      game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/542540/page_bg_generated_v6b.jpg?t=1476320371
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This is purely for donation purposes if you enjoyed the
+      game enough to contribute to the developer. Purchasing this will NOT add anything
+      to the game.
+    developers:
+    - batensan
+    fullgame:
+      appid: '521470'
+      name: Magical Otoge Ciel
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/542540/header.jpg?t=1476320371
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        -<br></li><li><strong>Processor:</strong> -<br></li><li><strong>Graphics:</strong>
+        -</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        -<br></li><li><strong>Processor:</strong> -<br></li><li><strong>Graphics:</strong>
+        -</li></ul>
+    name: Donation - 5
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Donation - 5 - $4.99
+        packageid: 133494
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Donation - 5
+    packages:
+    - 133494
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP+<br></li><li><strong>Processor:</strong> -<br></li><li><strong>Graphics:</strong>
+        -</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 12, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_a643a513b2c5e6a0f2b6913515a577240199fe44.1920x1080.jpg?t=1476320371
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_a643a513b2c5e6a0f2b6913515a577240199fe44.600x338.jpg?t=1476320371
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_c03a5b2f81a51b3455517fba779f67f507f2eace.1920x1080.jpg?t=1476320371
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_c03a5b2f81a51b3455517fba779f67f507f2eace.600x338.jpg?t=1476320371
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_d8b434d2eb94000178212e2b2f3cc97f80c6a49d.1920x1080.jpg?t=1476320371
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_d8b434d2eb94000178212e2b2f3cc97f80c6a49d.600x338.jpg?t=1476320371
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_820356202a5e29e0d140954f278b4fca7cf51c65.1920x1080.jpg?t=1476320371
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_820356202a5e29e0d140954f278b4fca7cf51c65.600x338.jpg?t=1476320371
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_057fee5cea2a80b49058c112afc0397bbc389a62.1920x1080.jpg?t=1476320371
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/542540/ss_057fee5cea2a80b49058c112afc0397bbc389a62.600x338.jpg?t=1476320371
+    short_description: This is purely for donation purposes if you enjoyed the game
+      enough to contribute to the developer. Purchasing this will NOT add anything
+      to the game.
+    steam_appid: 542540
+    support_info:
+      email: batensan@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: https://batensan.itch.io/magical-otoge-ciel
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,123 @@
+details:
+  data:
+    about_the_game: "This software is a support application to exchange databases\
+      \ of RPG Maker MV into Excel or<br>CSV format.<br>It can write RPG Maker MV's\
+      \ database and events into datasheets for Excel or CSV, and read<br>them. You\
+      \ can use this software for purposes such as below:<br><ul class=\"bb_ul\"><li>Parameter\
+      \ adjustment to give an overview of database<br></li><li>Edit database and events\
+      \ efficiently and with high flexibility by using formula, format and<br></li><li>Macro<br></li><li>Port\
+      \ data or events to other project</li></ul>2. Output Object Data listed below:<br>\u25CF\
+      Database:<br><ul class=\"bb_ul\"><li>Input / output existing database. The file\
+      \ name is Database.<br></li><li>Extension will be applied to fit the output\
+      \ format.<br></li><li>Tileset and common event do no apply. Independently defined\
+      \ data (referred to from the script)<br></li><li>can be input / output as well.</li></ul>\u25CF\
+      Common Event:<br><ul class=\"bb_ul\"><li>Input / output executed contents of\
+      \ common event,<br></li><li>The file name is CommonEvents.</li></ul>\u25CFMap\
+      \ Event:<br><ul class=\"bb_ul\"><li>Input / output executed contents of map\
+      \ event.<br></li><li>The file name is MapXXX.<br></li><li>Event ID and Event\
+      \ Page will be output in sheet name</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1171220/page_bg_generated_v6b.jpg?t=1604023274
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This software is a support application to exchange databases\
+      \ of RPG Maker MV into Excel or<br>CSV format.<br>It can write RPG Maker MV's\
+      \ database and events into datasheets for Excel or CSV, and read<br>them. You\
+      \ can use this software for purposes such as below:<br><ul class=\"bb_ul\"><li>Parameter\
+      \ adjustment to give an overview of database<br></li><li>Edit database and events\
+      \ efficiently and with high flexibility by using formula, format and<br></li><li>Macro<br></li><li>Port\
+      \ data or events to other project</li></ul>2. Output Object Data listed below:<br>\u25CF\
+      Database:<br><ul class=\"bb_ul\"><li>Input / output existing database. The file\
+      \ name is Database.<br></li><li>Extension will be applied to fit the output\
+      \ format.<br></li><li>Tileset and common event do no apply. Independently defined\
+      \ data (referred to from the script)<br></li><li>can be input / output as well.</li></ul>\u25CF\
+      Common Event:<br><ul class=\"bb_ul\"><li>Input / output executed contents of\
+      \ common event,<br></li><li>The file name is CommonEvents.</li></ul>\u25CFMap\
+      \ Event:<br><ul class=\"bb_ul\"><li>Input / output executed contents of map\
+      \ event.<br></li><li>The file name is MapXXX.<br></li><li>Event ID and Event\
+      \ Page will be output in sheet name</li></ul>"
+    developers:
+    - Gotcha Gotcha Games
+    - KADOKAWA
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1171220/header.jpg?t=1604023274
+    is_free: true
+    legal_notice: "\xA9Gotcha Gotcha Games Inc."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256765483
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765483/movie480.mp4?t=1572978702
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765483/movie_max.mp4?t=1572978702
+      name: Add Character
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256765483/movie.293x165.jpg?t=1572978702
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765483/movie480.webm?t=1572978702
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765483/movie_max.webm?t=1572978702
+    - highlight: true
+      id: 256765482
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765482/movie480.mp4?t=1572978713
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765482/movie_max.mp4?t=1572978713
+      name: Change Character Name
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256765482/movie.293x165.jpg?t=1572978713
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256765482/movie480.webm?t=1572978713
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256765482/movie_max.webm?t=1572978713
+    name: RPG Maker MV Tools - Database ConVerter MV
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Degica
+    release_date:
+      coming_soon: false
+      date: Nov 5, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_53a354d9360d849fde07bdb4f966d6fc7667eb2e.1920x1080.jpg?t=1604023274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_53a354d9360d849fde07bdb4f966d6fc7667eb2e.600x338.jpg?t=1604023274
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_c8623e395865053d2c5a04e84d84837745c259ca.1920x1080.jpg?t=1604023274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_c8623e395865053d2c5a04e84d84837745c259ca.600x338.jpg?t=1604023274
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_0ffe14bafd4d2bb8832833619e38a09bb0bf9150.1920x1080.jpg?t=1604023274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_0ffe14bafd4d2bb8832833619e38a09bb0bf9150.600x338.jpg?t=1604023274
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_da8fb3b7f34304ea2f0cac099c1bab91002a098a.1920x1080.jpg?t=1604023274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_da8fb3b7f34304ea2f0cac099c1bab91002a098a.600x338.jpg?t=1604023274
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_2e4c213cd31d93fe53db5354d254b84686c0ac28.1920x1080.jpg?t=1604023274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1171220/ss_2e4c213cd31d93fe53db5354d254b84686c0ac28.600x338.jpg?t=1604023274
+    short_description: RPG Maker MV Tool Database Converter MV is a support application
+      to export/import databases of RPG Maker MV into various database formats including
+      Excel and CSV.
+    steam_appid: 1171220
+    support_info:
+      email: games@degica.com
+      url: ''
+    supported_languages: English, Japanese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

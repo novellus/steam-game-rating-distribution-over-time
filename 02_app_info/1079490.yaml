@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">JAM-PACKED EDITION</h2><br>Help support our
+      development of other games and more jam-packed games in the future. Get access
+      to all of Rubble Rush's assets and make something beautiful! When you buy the
+      Jam-packed edition, you will receive 55 high-quality game assets free to use
+      in any commercial or personal use! A lot of unused tiles, not featured in the
+      game.<h2 class="bb_tag">Asset list</h2><br><strong>- 6 Player animations</strong>
+      (jump, land, mine, run, stun, throw)<br><strong>- 24 Cave tiles</strong> (ores,
+      rocks, treasure, bomb, details, powerup, background)<br><strong>- 8 Effect animations</strong>
+      (block break, break overlay, explosion, wind poofs, Score effects)<br><strong>-
+      15 Sound effects and music</strong> (score, jump, menu, hit, toss, mine, music,
+      win jingle)<br><strong>- 1 Bat enemy</strong><br><strong>- 1 Treasure chest
+      animation</strong>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1079490/page_bg_generated_v6b.jpg?t=1558983535
+    categories:
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <h2 class="bb_tag">JAM-PACKED EDITION</h2><br>Help support
+      our development of other games and more jam-packed games in the future. Get
+      access to all of Rubble Rush's assets and make something beautiful! When you
+      buy the Jam-packed edition, you will receive 55 high-quality game assets free
+      to use in any commercial or personal use! A lot of unused tiles, not featured
+      in the game.<h2 class="bb_tag">Asset list</h2><br><strong>- 6 Player animations</strong>
+      (jump, land, mine, run, stun, throw)<br><strong>- 24 Cave tiles</strong> (ores,
+      rocks, treasure, bomb, details, powerup, background)<br><strong>- 8 Effect animations</strong>
+      (block break, break overlay, explosion, wind poofs, Score effects)<br><strong>-
+      15 Sound effects and music</strong> (score, jump, menu, hit, toss, mine, music,
+      win jingle)<br><strong>- 1 Bat enemy</strong><br><strong>- 1 Treasure chest
+      animation</strong>
+    developers:
+    - 4Bit Games
+    fullgame:
+      appid: '1018750'
+      name: Rubble Rush
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1079490/header.jpg?t=1558983535
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Rubble Rush - Jam-Packed Edition
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Rubble Rush - Jam-Packed Edition - $2.99
+        packageid: 362413
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Rubble Rush - Jam-Packed Edition
+    packages:
+    - 362413
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Memory:</strong>
+        100 MB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Sound
+        Card:</strong> any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - 4Bit Games
+    release_date:
+      coming_soon: false
+      date: May 27, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1079490/ss_227d56d786e300d9b5b3246cf919f90a98f3e0b8.1920x1080.jpg?t=1558983535
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1079490/ss_227d56d786e300d9b5b3246cf919f90a98f3e0b8.600x338.jpg?t=1558983535
+    short_description: Help support our development of other games and more jam-packed
+      games in the future. Get access to all of Rubble Rush's assets and make something
+      beautiful! When you buy the Jam-packed edition, you will receive 55 high-quality
+      game assets free to use in any commercial or personal use! A lot of unused tiles,
+      not featured in the game.
+    steam_appid: 1079490
+    support_info:
+      email: info@4bitgames.com
+      url: https://www.4bitgames.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

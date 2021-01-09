@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: "Discover the worldly attractions in this small town, or build\
+      \ your own ideal version<br />\r\n<br />\r\nOver 150 pieces including:<br />\r\
+      \n<br />\r\nResidential buildings<br />\r\nBusiness buildings<br />\r\ncars\
+      \ &amp; buses<br />\r\nroad props"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/949661/page_bg_generated_v6b.jpg?t=1552461042
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Discover the worldly attractions in this small town, or\
+      \ build your own ideal version<br />\r\n<br />\r\nOver 150 pieces including:<br\
+      \ />\r\n<br />\r\nResidential buildings<br />\r\nBusiness buildings<br />\r\n\
+      cars &amp; buses<br />\r\nroad props"
+    developers:
+    - ShapeSim
+    fullgame:
+      appid: '892170'
+      name: ShapeSim - Construction Set
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Simulation
+      id: '28'
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    - description: Game Development
+      id: '60'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/949661/header.jpg?t=1552461042
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: ShapeSim - Leisure Town construction set
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ShapSim - Leisure Town construction set - $9.99
+        packageid: 309023
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy ShapeSim - Leisure Town construction set
+    packages:
+    - 309023
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10<br></li><li><strong>Processor:</strong> i7<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GTX 1050 Ti<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 26, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/949661/ss_7ae33255cf39425aff61e484083aa0a2a27c41d8.1920x1080.jpg?t=1552461042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/949661/ss_7ae33255cf39425aff61e484083aa0a2a27c41d8.600x338.jpg?t=1552461042
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/949661/ss_ec09dbbe809f28a9d12045d1d4a2fddb26d68f18.1920x1080.jpg?t=1552461042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/949661/ss_ec09dbbe809f28a9d12045d1d4a2fddb26d68f18.600x338.jpg?t=1552461042
+    short_description: 'Discover the worldly attractions in this small town, or build
+      your own ideal version Over 150 pieces including: Residential buildings Business
+      buildings cars &amp; buses road props'
+    steam_appid: 949661
+    support_info:
+      email: Please use Steam forum
+      url: http://www.ShapeSim.com
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

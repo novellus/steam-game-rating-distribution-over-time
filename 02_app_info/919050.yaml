@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: "All songs used in the game in original quality. This DLC includes\
+      \ music from the main game, as well as the music of two DLCs:<br />\r\n1. Stranger\
+      \ Sins.<br />\r\n2. Game Of Crone.<br />\r\nThere are 32 music tracks in total\
+      \ in this OST Pack."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/919050/page_bg_generated_v6b.jpg?t=1604422405
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "All songs used in the game in original quality. This DLC\
+      \ includes music from the main game, as well as the music of two DLCs:<br />\r\
+      \n1. Stranger Sins.<br />\r\n2. Game Of Crone.<br />\r\nThere are 32 music tracks\
+      \ in total in this OST Pack."
+    developers:
+    - Lazy Bear Games
+    fullgame:
+      appid: '599140'
+      name: Graveyard Keeper
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/919050/header.jpg?t=1604422405
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.10 Yosemite</li></ul>
+    name: Graveyard Keeper OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Graveyard Keeper OST - $5.99
+        packageid: 295588
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Graveyard Keeper OST
+    packages:
+    - 295588
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - tinyBuild
+    release_date:
+      coming_soon: false
+      date: Aug 15, 2018
+    required_age: 0
+    screenshots:
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/919050/ss_ea2106db0eca17e245788fa9efc6a2c4ab9da797.1920x1080.jpg?t=1604422405
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/919050/ss_ea2106db0eca17e245788fa9efc6a2c4ab9da797.600x338.jpg?t=1604422405
+    short_description: The complete soundtrack used in Graveyard Keeper.
+    steam_appid: 919050
+    support_info:
+      email: contact@tinybuild.com
+      url: http://tinybuild.com/contact
+    supported_languages: English
+    type: music
+    website: http://graveyardkeeper.com
+  success: true
+reviews:
+  cursor: AoJwqPKAjPYCeajWtQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 2
+    total_positive: 9
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 30
+      num_reviews: 9
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198060421940'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '81179273'
+    review: "BGM:Astrologer\u548Cstars\u662F\u4F24\u611F \u4F18\u7F8E\u548C\u8BA9\u4EBA\
+      \u611F\u89E6\u826F\u591A\u7684\u4F73\u66F2 \u4E3A\u5B83\u800C\u4E70\uFF01\uFF01"
+    steam_purchase: true
+    timestamp_created: 1606720656
+    timestamp_updated: 1606720656
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.525862038135528564'
+    written_during_early_access: false
+  success: 1

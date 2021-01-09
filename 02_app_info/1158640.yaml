@@ -1,0 +1,69 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Griffin Snow
+    fullgame:
+      appid: '1147280'
+      name: Column on the Sea
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1158640/header.jpg?t=1569557139
+    is_free: true
+    legal_notice: "\xA9 2019 Griffin Snow. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Column on the Sea Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/Vista/8/10<br></li><li><strong>Processor:</strong> 1x AMD Sempron
+        Processor LE-1300<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Graphics:</strong>
+        Intel HD Graphics<br></li><li><strong>Storage:</strong> 18 MB available space<br></li><li><strong>Sound
+        Card:</strong> NVIDIA High Definition Audio</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Griffin Snow
+    release_date:
+      coming_soon: false
+      date: Sep 26, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1158640
+    support_info:
+      email: grifsnow@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://www.griffinsnow.com/cots/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

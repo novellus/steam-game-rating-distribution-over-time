@@ -1,0 +1,119 @@
+details:
+  data:
+    about_the_game: Deep Sea Endurance is an arcade style shooter where you are in
+      the depths of the sea and must try to survive for as long as you can.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/989270/page_bg_generated_v6b.jpg?t=1582158440
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Deep Sea Endurance is an arcade style shooter where you
+      are in the depths of the sea and must try to survive for as long as you can.
+    developers:
+    - Luke Williams Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/989270/header.jpg?t=1582158440
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256741026
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256741026/movie480.mp4?t=1582158437
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256741026/movie_max.mp4?t=1582158437
+      name: Deep Sea Endurance Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256741026/movie.293x165.jpg?t=1582158437
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256741026/movie480.webm?t=1582158437
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256741026/movie_max.webm?t=1582158437
+    name: Deep Sea Endurance
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: DSE - $1.99
+        packageid: 325870
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Deep Sea Endurance
+    packages:
+    - 325870
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD processor,
+        2.5 GHz or faster<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher<br></li><li><strong>Storage:</strong>
+        750 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Luke Williams Games
+    release_date:
+      coming_soon: false
+      date: Feb 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_e11d61cdc3b9f0e36a82c90d66a78bb61044037f.1920x1080.jpg?t=1582158440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_e11d61cdc3b9f0e36a82c90d66a78bb61044037f.600x338.jpg?t=1582158440
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_3116cebab0449c806994a972e0d693d689ad5465.1920x1080.jpg?t=1582158440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_3116cebab0449c806994a972e0d693d689ad5465.600x338.jpg?t=1582158440
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_f6ff8f813d953e2dad541136fa12d87a63e60039.1920x1080.jpg?t=1582158440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_f6ff8f813d953e2dad541136fa12d87a63e60039.600x338.jpg?t=1582158440
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_95bdb988812c0a2f11dd8a3590b019dc77b69a05.1920x1080.jpg?t=1582158440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_95bdb988812c0a2f11dd8a3590b019dc77b69a05.600x338.jpg?t=1582158440
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_cf8f26f8e06f7bfcc327e9fd21c450ec6eee3228.1920x1080.jpg?t=1582158440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/989270/ss_cf8f26f8e06f7bfcc327e9fd21c450ec6eee3228.600x338.jpg?t=1582158440
+    short_description: How long can you survive in the deep Sea?
+    steam_appid: 989270
+    support_info:
+      email: lukewbus@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

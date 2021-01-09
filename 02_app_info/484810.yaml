@@ -1,0 +1,130 @@
+details:
+  data:
+    about_the_game: This DLC includes:<br><br><ul class="bb_ul"><li>Full game soundtrack
+      in MP3<br></li><li>Wallpapers of all the characters</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/484810/page_bg_generated_v6b.jpg?t=1472826371
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This DLC includes:<br><br><ul class="bb_ul"><li>Full game
+      soundtrack in MP3<br></li><li>Wallpapers of all the characters</li></ul>
+    developers:
+    - Winter Wolves
+    fullgame:
+      appid: '482990'
+      name: Heirs And Graces
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/484810/header.jpg?t=1472826371
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        1 Ghz</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.4 and newer<br></li><li><strong>Processor:</strong> 1Ghz</li></ul>
+    name: Heirs And Graces Mp3+Wallpapers
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Heirs And Graces Mp3+Wallpapers - $4.99
+        packageid: 108947
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Heirs And Graces Mp3+Wallpapers
+    packages:
+    - 108947
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP and newer<br></li><li><strong>Processor:</strong> 1Ghz</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Sep 2, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/484810/ss_a68b8eeed113118599c7c968de8c39f18d7dbfe4.1920x1080.jpg?t=1472826371
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/484810/ss_a68b8eeed113118599c7c968de8c39f18d7dbfe4.600x338.jpg?t=1472826371
+    short_description: This DLC includes the full game soundtrack in MP3 and wallpapers
+      of all characters
+    steam_appid: 484810
+    support_info:
+      email: info@winterwolves.com
+      url: http://www.winterwolves.com/info.php
+    supported_languages: English
+    type: dlc
+    website: http://winterwolves.com/heirsandgraces.htm
+  success: true
+reviews:
+  cursor: AoJ40anApdcCet3aYQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1308
+      num_reviews: 433
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198120348301'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '25613786'
+    review: "It\u2019s really worth to get this DLC because of the soundtrack: I loved\
+      \ all the songs, they\u2019re so good! I just wished they were a bit longer.\
+      \ Even so, the composer did a good job. :)"
+    steam_purchase: true
+    timestamp_created: 1474432159
+    timestamp_updated: 1474432159
+    voted_up: true
+    votes_funny: 1
+    votes_up: 8
+    weighted_vote_score: '0.643096327781677246'
+    written_during_early_access: false
+  success: 1

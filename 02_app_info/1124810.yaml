@@ -1,0 +1,209 @@
+details:
+  data:
+    about_the_game: "This is an action role-playing game that requires strategy.<br\
+      \ />\r\n<br />\r\nIn this game, you not only need to defeat the enemy through\
+      \ instant combat, but also need to plan routes and other strategies to deal\
+      \ with strong enemies.<br />\r\n<br />\r\nBy acquiring props and equipment,\
+      \ overcoming all the powerful enemies on the road, the target defeats the devil."
+    achievements:
+      highlighted:
+      - name: Enter the tower
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/6597a53b03a40483d711b4a5b0d4550f14332942.jpg
+      - name: Key!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/13376788d914b74018c30c72722606b0f50b62d7.jpg
+      - name: Damn I'm dizzy
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/36f1b86c760bf5c00faed1fea1e73ae45afede8b.jpg
+      - name: Blue key!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/dd3a6254dd0558276359efd226f2568ce15dd3c0.jpg
+      - name: Red key!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/f1f6375a2eb960272d3d4c572cc7ed2e1243a76d.jpg
+      - name: One step toward victory
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/a4b07fafed8611c5647f6a2ab35bddc4ed0f2117.jpg
+      - name: Defeated Kraken
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/e490ac10504589f4e925d3a3e34d5f6ac7407b8e.jpg
+      - name: Defeated Kraken II
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/e490ac10504589f4e925d3a3e34d5f6ac7407b8e.jpg
+      - name: See through things
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/1d4c40340c19eb692fb9af68626de9d6a898fb15.jpg
+      - name: One step from victory
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1124810/eab5cab605409397eed7e49c4a4bcc30cf3a3a7b.jpg
+      total: 29
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1124810/page_bg_generated_v6b.jpg?t=1565336160
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is an action role-playing game that requires strategy.<br\
+      \ />\r\n<br />\r\nIn this game, you not only need to defeat the enemy through\
+      \ instant combat, but also need to plan routes and other strategies to deal\
+      \ with strong enemies.<br />\r\n<br />\r\nBy acquiring props and equipment,\
+      \ overcoming all the powerful enemies on the road, the target defeats the devil."
+    developers:
+    - "\u516D\u96F6\u9053\u957F"
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1124810/header.jpg?t=1565336160
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256757143
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757143/movie480.mp4?t=1564109830
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757143/movie_max.mp4?t=1564109830
+      name: pp
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256757143/movie.293x165.jpg?t=1564109830
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256757143/movie480.webm?t=1564109830
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256757143/movie_max.webm?t=1564109830
+    name: Tower of the Alchemist
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Magic Tower ~ Tower of the Alchemist - $0.99
+        packageid: 381885
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tower of the Alchemist - Commercial License - $0.99
+        packageid: 388222
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Tower of the Alchemist
+    packages:
+    - 381885
+    - 388222
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1GHz up<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 625M<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - JingtuStudio
+    release_date:
+      coming_soon: false
+      date: Aug 8, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_bbfe871c25373f13667fb21e66bf5d766a9a2fc7.1920x1080.jpg?t=1565336160
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_bbfe871c25373f13667fb21e66bf5d766a9a2fc7.600x338.jpg?t=1565336160
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_ca7773a3843b820853c9abda3e21e90f86feaef7.1920x1080.jpg?t=1565336160
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_ca7773a3843b820853c9abda3e21e90f86feaef7.600x338.jpg?t=1565336160
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_f541323236d1a461a5dfe5b551054671558d4400.1920x1080.jpg?t=1565336160
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_f541323236d1a461a5dfe5b551054671558d4400.600x338.jpg?t=1565336160
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_f4b05b8a3d7a42d2309cd84047e357574e83c507.1920x1080.jpg?t=1565336160
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_f4b05b8a3d7a42d2309cd84047e357574e83c507.600x338.jpg?t=1565336160
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_2f5e070524bc7a5f0eb9532bd7e6cd9659244492.1920x1080.jpg?t=1565336160
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1124810/ss_2f5e070524bc7a5f0eb9532bd7e6cd9659244492.600x338.jpg?t=1565336160
+    short_description: This is an action role-playing game that requires strategy.
+      In this game, you not only need to defeat the enemy through instant combat,
+      but also need to plan routes and other strategies to deal with strong enemies.
+      By acquiring props and equipment, overcoming all the powerful enemies on the
+      road, the target defeats the devil.
+    steam_appid: 1124810
+    support_info:
+      email: ''
+      url: https://space.bilibili.com/661208
+    supported_languages: English, Simplified Chinese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4xObppO4Cedy42AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1602993500
+      num_games_owned: 16
+      num_reviews: 2
+      playtime_at_review: 230
+      playtime_forever: 817
+      playtime_last_two_weeks: 0
+      steamid: '76561198998771534'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '56739273'
+    review: "\u5199\u5728\u524D\u9762  \u6E38\u620F\u597D\u73A9 \u4F46\u73B0\u5728\
+      \u53EA\u63A8\u83503\u5143\u4EE5\u4E0B\u5165\u624B\n\u4F18\u70B9\uFF1A\u9B54\u5854\
+      \u597D\u73A9\uFF0C\u6539\u53D8\u6210\u52A8\u4F5C\u7C7B\u7684\u9B54\u5854\u5C31\
+      \u66F4\u6709\u610F\u601D\u4E86 \u53EA\u8981\u80FD\u7834\u9632 \u7B80\u76F4\u80FD\
+      \u5B9E\u73B0\u65E0\u4F24\u64B8\u4EFB\u4F55BOSS\u3002\u4EE5\u524D\u6253\u9B54\
+      \u5854\u9700\u8981\u8BA1\u7B97\u6BCF\u4E00\u5C42\u9700\u8981\u5269\u591A\u5C11\
+      \u8840\uFF0C\u73B0\u5728\u597D\u4E86 \u4F60\u8981\u662F\u624B\u6B8B\uFF0C\u4F60\
+      \u53EF\u80FD\u8FDE\u53F2\u83B1\u59C6\u90FD\u6253\u4E0D\u8FC7(*\uFFE3\uFE36\uFFE3\
+      )\u3002\n\u7F3A\u70B9\uFF1A1.\u96BE\u5EA6\u7565\u9AD8\uFF0C\u90A3\u6015\u662F\
+      \u7B80\u5355\u6A21\u5F0F\u3002 2.\u9053\u5177\u4F7F\u7528\u611F\u89C9\u8F83\u5DEE\
+      \uFF0C\u4FA6\u67E5\u3001\u98DE\u884C \u8FD9\u4E24\u6B3E\u7ECF\u5E38\u7528\u7684\
+      \u9053\u5177 \u6BCF\u6B21\u4F7F\u7528\u90FD\u7684\u5148\u6253\u5F00\u83DC\u5355\
+      \u300B\u8FDB\u5165\u7269\u54C1\u680F\u300B\u9009\u4E2D\u9053\u5177\u300B\u4F7F\
+      \u7528  \u5728\u4F53\u9A8C\u8FC74399\u4E0A\u7684\u9B54\u5854 \u5FEB\u6377\u952E\
+      \uFF0C\u8FD9\u7B80\u76F4\u80FD\u964D\u4F4E\u5BF9\u6E38\u620F\u7684\u611F\u89C9\
+      \u3002 3.\u7EA2\u84DD\u5B9D\u77F3\u6539\u6210\u9576\u5D4C\u7269\u54C1\u4F46\u6BCF\
+      \u79CD\u5374\u53EA\u80FD\u5E26\u4E00\u9897\uFF0C\u6BCF10\u6210\u5C5E\u6027\u53EA\
+      \u80FD\u63D0\u53475\u70B9\uFF0C\u4E0D\u6253\u901A\u66F4\u9AD810\u5C42\uFF0C\u6211\
+      \u8FDE\u6536\u96C6\u8FD9\u5C42\u5B9D\u77F3\u7684\u6B32\u671B\u90FD\u6CA1\u6709\
+      \u3002\n\u5E0C\u671B\u4F18\u5316\uFF1A1.\u9053\u5177\u5FEB\u6377\u952E(\u4E00\
+      \u76F4\u91CD\u590D\u67D0\u6837\u5355\u8C03\u7684\u4E8B\u60C5\u7B80\u76F4\u795E\
+      \u70E6)\u3002 2.\u81EA\u5B9A\u4E49\u952E\u76D8(\u4E0D\u4E60\u60EF ASDZX\u8FD9\
+      \u51E0\u4E2A\u64CD\u4F5C) 3.\u7F3A\u8840(\u4F55\u4E0D\u5728\u6BCF10\u6210\u52A0\
+      \u4E2A\u56DE\u8840\u9053\u5177(\u5B9D\u77F3)\uFF0C\u6BCF\u6325\u52A8\u4E00\u6B21\
+      \u5251\u5C31\u4F1A\u51E0\u70B9\u8840 \u540C\u65F6\u8FD8\u80FD\u63D0\u5347\u6E38\
+      \u620F\u7684\u5A31\u4E50\u65F6\u95F4)"
+    steam_purchase: true
+    timestamp_created: 1573191597
+    timestamp_updated: 1573193725
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

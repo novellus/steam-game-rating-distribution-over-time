@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: The stunning original game soundtrack featuring all the music
+      from the puzzle game Filament.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1279680/page_bg_generated_v6b.jpg?t=1588001451
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The stunning original game soundtrack featuring all the
+      music from the puzzle game Filament.
+    developers:
+    - Beard Envy
+    fullgame:
+      appid: '1137350'
+      name: Filament
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1279680/header.jpg?t=1588001451
+    is_free: false
+    legal_notice: "Kasedo Games is a division of Kalypso Media Group. Kasedo Games\
+      \ copyright \xA9 2020 Kalypso Media Group<br />\r\nAll rights reserved. All\
+      \ other logos, copyrights and trademarks are property of their respective owner."
+    linux_requirements: []
+    mac_requirements: []
+    name: Filament Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Filament Soundtrack - $2.99
+        packageid: 445742
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Filament Soundtrack
+    packages:
+    - 445742
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Kasedo Games
+    release_date:
+      coming_soon: false
+      date: Apr 27, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1279680/ss_ce81a009b3e4fba63271b4d548853e6e77b86805.1920x1080.jpg?t=1588001451
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1279680/ss_ce81a009b3e4fba63271b4d548853e6e77b86805.600x338.jpg?t=1588001451
+    short_description: The stunning original game soundtrack featuring all the music
+      from the puzzle game Filament.
+    steam_appid: 1279680
+    support_info:
+      email: support@kasedogames.com
+      url: http://www.kasedogames.com/customer-support
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4jLmXjvYCe7KZtgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 140
+      num_reviews: 32
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198036060829'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81316651'
+    review: Great soundtrack - very unique. I can't get the You're a Natural tune
+      out of my head...so peaceful and addictive!
+    steam_purchase: true
+    timestamp_created: 1606793677
+    timestamp_updated: 1606793677
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

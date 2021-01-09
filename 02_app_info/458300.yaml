@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '413850'
+      name: CS:GO Player Profiles
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/458300/header.jpg?t=1469489062
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 'CS:GO Player Profiles: fnx - Luminosity'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: CS:GO Player Profiles - Free
+        packageid: 82994
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy CS:GO Player Profiles: fnx - Luminosity'
+    packages:
+    - 82994
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 28, 2016
+    required_age: 0
+    short_description: From team Luminosity Gaming, learn more about fnx
+    steam_appid: 458300
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: ''
+  success: true
+reviews:
+  cursor: null
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews: []
+  success: 1

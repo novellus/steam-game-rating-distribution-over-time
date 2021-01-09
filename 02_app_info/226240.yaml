@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Captions available
+      id: 13
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Keen Software House
+    fullgame:
+      appid: '223430'
+      name: Miner Wars 2081
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: RPG
+      id: '3'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/226240/header.jpg?t=1447357056
+    is_free: true
+    legal_notice: "Miner Wars\u2122, Miner Wars 2081\u2122, Miner Wars MMO\u2122,\
+      \ Miner Wars Arena\u2122 are trademarks of Keen Software House a. s. "
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 52
+    name: Miner Wars 2081 Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Microsoft\
+        \ Windows XP</li>\n\t<li><strong>Processor:</strong>CPU: 2.0 GHz</li>\n\t\
+        <li><strong>Memory:</strong>1 GB RAM</li>\n\t<li><strong>Graphics:</strong>NVidia\
+        \ GeForce 6 series or better, ATI Radeon R520 (X1300-X1950) or better, Intel\
+        \ GMA X3000 or better. Requires at least Pixel-Shader 3.0. </li>\n\t<li><strong>DirectX&reg;:</strong>9.0c</li>\n\
+        \t<li><strong>Hard Drive:</strong>3 GB HD space</li>\n\t<li><strong>Sound:</strong>DirectX\
+        \ 9.0c Compatible</li>\n\t<li><strong>Other Requirements:</strong>Broadband\
+        \ Internet connection</li>\n</ul>"
+      recommended: "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Microsoft\
+        \ Windows 7</li>\n\t<li><strong>Processor:</strong>CPU: 2.5 GHz</li>\n\t<li><strong>Memory:</strong>2\
+        \ GB RAM</li>\n\t<li><strong>Graphics:</strong>NVidia GeForce GTX 460 or better</li>\n\
+        \t<li><strong>Hard Drive:</strong>3 GB HD space</li>\n\t<li><strong>Sound:</strong>DirectX\
+        \ 9.0c Compatible</li>\n\t<li><strong>Other Requirements:</strong>Broadband\
+        \ Internet connection</li>\n</ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Keen Games
+    release_date:
+      coming_soon: false
+      date: Mar 14, 2013
+    required_age: 0
+    short_description: ''
+    steam_appid: 226240
+    support_info:
+      email: support@minerwars.com
+      url: http://www.minerwars.com/Troubleshooting.aspx
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://www.minerwars.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

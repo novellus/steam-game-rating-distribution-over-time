@@ -1,0 +1,184 @@
+details:
+  data:
+    about_the_game: "Welcome to The //HEX demo.<br />\r\n<br />\r\nSo you've decided\
+      \ to ditch the straight and narrow, and try your hand at hacking?<br />\r\n\
+      Well, it just so happens that we have the perfect job for a noob like you.<br\
+      \ />\r\n<br />\r\nThe Central bank of Bech is currently busy switching over\
+      \ to a new IT service provider, which means that this is the perfect time to\
+      \ execute a cyber attack.<br />\r\nYou have a small window of opportunity, so\
+      \ you'll have to be quick, and keep your wits about you.<br />\r\n<br />\r\n\
+      This bank contains two security measurement flaws; namely the Injection and\
+      \ Force nodes, leaving 2 open vulnerabilities for you to bypass in order to\
+      \ withdraw the recommended funds to your account.<br />\r\n<br />\r\nYour role\
+      \ as //HACKER consists of the following:<br />\r\n<br />\r\n//INJECTION NODE<br\
+      \ />\r\nConnect a path from our output to the target machine's input ports in\
+      \ order for control to inject the SQL code.<br />\r\nYou will have to rotate\
+      \ pieces and inform your //CONTROL where the missing pieces are that they need\
+      \ to fill.<br />\r\nAfter which you have connected all the pipes with no visible\
+      \ 'leaks' that may cause data loss, you may inform your //CONTROL that they\
+      \ may initiate the attack.<br />\r\n<br />\r\n//FORCE NODE<br />\r\nUse your\
+      \ brute force skills to pass in possible passwords into the login's password\
+      \ input.<br />\r\nWait for further instructions from your //CONTROL whom is\
+      \ calculating the probability of each password.<br />\r\nWhen the correct password\
+      \ has been revealed you may continue with the final step.<br />\r\n<br />\r\n\
+      //TRANSFER<br />\r\nHere you should start the Revenue Transfer Protocol (RTP),\
+      \ where the available funds in the bank will be transferred to your account.<br\
+      \ />\r\nBut don't sit back and watch the cash role in just yet, as some of the\
+      \ portpipes will be traced.<br />\r\nIf a portpipe gets traced while there is\
+      \ data flowing through, it will cause the pipe to be closed and essentially\
+      \ 'break', making the pipe useless for the rest of the RTP.<br />\r\nYou'll\
+      \ have to listen to your //CONTROL to know which pipes need to be manually closed\
+      \ before the trace has begun. <br />\r\nAwait on your //CONTROL to inform you\
+      \ when the RTP needs to be stopped to not pass the detection threshold.<br />\r\
+      \n<br />\r\nYour role as //CONTROL consists of the following:<br />\r\n<br />\r\
+      \n//INJECTION NODE<br />\r\nAwait instructions from your //HACKER in which location\
+      \ they require a connection piece in order to establish a valid connection.<br\
+      \ />\r\nAfter which you have to inject the SQL commands.<br />\r\n<br />\r\n\
+      //FORCE NODE<br />\r\nEvery time your //HACKER tries to input a possible password,\
+      \ you will receive a packet containing the password along with a probability\
+      \ percentage.<br />\r\nThe packet can be calculated to retrieve a list of passwords\
+      \ containing the correct letters in reference of the packet's password.<br />\r\
+      \nOn receiving a high probability chance the list of passwords should be small\
+      \ enough for the //HACKER to Brute Force the login.<br />\r\n<br />\r\n//TRANSFER<br\
+      \ />\r\nOnce the //HACKER has initiated the RTP, you will be notified on white\
+      \ portpipes will be traced.<br />\r\nYour job is to inform the //HACKER which\
+      \ pipes they need to close to not get traced.<br />\r\nYou are as well responsible\
+      \ for informing them when to stop the RTP as it nears the threshold."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1296850/page_bg_generated_v6b.jpg?t=1592258525
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: LAN Co-op
+      id: 48
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Welcome to The //HEX demo.<br />\r\n<br />\r\nSo you've\
+      \ decided to ditch the straight and narrow, and try your hand at hacking?<br\
+      \ />\r\nWell, it just so happens that we have the perfect job for a noob like\
+      \ you.<br />\r\n<br />\r\nThe Central bank of Bech is currently busy switching\
+      \ over to a new IT service provider, which means that this is the perfect time\
+      \ to execute a cyber attack.<br />\r\nYou have a small window of opportunity,\
+      \ so you'll have to be quick, and keep your wits about you.<br />\r\n<br />\r\
+      \nThis bank contains two security measurement flaws; namely the Injection and\
+      \ Force nodes, leaving 2 open vulnerabilities for you to bypass in order to\
+      \ withdraw the recommended funds to your account.<br />\r\n<br />\r\nYour role\
+      \ as //HACKER consists of the following:<br />\r\n<br />\r\n//INJECTION NODE<br\
+      \ />\r\nConnect a path from our output to the target machine's input ports in\
+      \ order for control to inject the SQL code.<br />\r\nYou will have to rotate\
+      \ pieces and inform your //CONTROL where the missing pieces are that they need\
+      \ to fill.<br />\r\nAfter which you have connected all the pipes with no visible\
+      \ 'leaks' that may cause data loss, you may inform your //CONTROL that they\
+      \ may initiate the attack.<br />\r\n<br />\r\n//FORCE NODE<br />\r\nUse your\
+      \ brute force skills to pass in possible passwords into the login's password\
+      \ input.<br />\r\nWait for further instructions from your //CONTROL whom is\
+      \ calculating the probability of each password.<br />\r\nWhen the correct password\
+      \ has been revealed you may continue with the final step.<br />\r\n<br />\r\n\
+      //TRANSFER<br />\r\nHere you should start the Revenue Transfer Protocol (RTP),\
+      \ where the available funds in the bank will be transferred to your account.<br\
+      \ />\r\nBut don't sit back and watch the cash role in just yet, as some of the\
+      \ portpipes will be traced.<br />\r\nIf a portpipe gets traced while there is\
+      \ data flowing through, it will cause the pipe to be closed and essentially\
+      \ 'break', making the pipe useless for the rest of the RTP.<br />\r\nYou'll\
+      \ have to listen to your //CONTROL to know which pipes need to be manually closed\
+      \ before the trace has begun. <br />\r\nAwait on your //CONTROL to inform you\
+      \ when the RTP needs to be stopped to not pass the detection threshold.<br />\r\
+      \n<br />\r\nYour role as //CONTROL consists of the following:<br />\r\n<br />\r\
+      \n//INJECTION NODE<br />\r\nAwait instructions from your //HACKER in which location\
+      \ they require a connection piece in order to establish a valid connection.<br\
+      \ />\r\nAfter which you have to inject the SQL commands.<br />\r\n<br />\r\n\
+      //FORCE NODE<br />\r\nEvery time your //HACKER tries to input a possible password,\
+      \ you will receive a packet containing the password along with a probability\
+      \ percentage.<br />\r\nThe packet can be calculated to retrieve a list of passwords\
+      \ containing the correct letters in reference of the packet's password.<br />\r\
+      \nOn receiving a high probability chance the list of passwords should be small\
+      \ enough for the //HACKER to Brute Force the login.<br />\r\n<br />\r\n//TRANSFER<br\
+      \ />\r\nOnce the //HACKER has initiated the RTP, you will be notified on white\
+      \ portpipes will be traced.<br />\r\nYour job is to inform the //HACKER which\
+      \ pipes they need to close to not get traced.<br />\r\nYou are as well responsible\
+      \ for informing them when to stop the RTP as it nears the threshold."
+    developers:
+    - Solis Studios
+    fullgame:
+      appid: '1281610'
+      name: HEX Hacking Simulator
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1296850/header.jpg?t=1592258525
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: //HEX Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Solis Studios
+    release_date:
+      coming_soon: false
+      date: Jun 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_c0ae4eb1df2e8ba0468a81d308ec40169ed60e40.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_c0ae4eb1df2e8ba0468a81d308ec40169ed60e40.600x338.jpg?t=1592258525
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_93d4f97ce92142df6e2a509138c96d91dfba867c.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_93d4f97ce92142df6e2a509138c96d91dfba867c.600x338.jpg?t=1592258525
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_332249339fd397dccb7096b5a2a21849c8d720e6.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_332249339fd397dccb7096b5a2a21849c8d720e6.600x338.jpg?t=1592258525
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_e5138c8c192432a0a8828c4325a4aeabafd9881f.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_e5138c8c192432a0a8828c4325a4aeabafd9881f.600x338.jpg?t=1592258525
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_9ba26394e342ce57242039a89802281c1b160305.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_9ba26394e342ce57242039a89802281c1b160305.600x338.jpg?t=1592258525
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_796027ed03e02ba2e39513056148ca5daa2f31a9.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_796027ed03e02ba2e39513056148ca5daa2f31a9.600x338.jpg?t=1592258525
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_cdaaaab94eb3085e3332cd3e2f8b72c07840757a.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_cdaaaab94eb3085e3332cd3e2f8b72c07840757a.600x338.jpg?t=1592258525
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_169598871ccac03f150a15a7ce5d4fbd4ac7aa78.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_169598871ccac03f150a15a7ce5d4fbd4ac7aa78.600x338.jpg?t=1592258525
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_2a77b5a68964292fdb94b63fed09dd2ba3ecdf3a.1920x1080.jpg?t=1592258525
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296850/ss_2a77b5a68964292fdb94b63fed09dd2ba3ecdf3a.600x338.jpg?t=1592258525
+    short_description: Use your communication skills to bypass internet security measures,
+      and successfully hack into the most secure banks. Choose to take on the role
+      as Hacker, taking direction to disarm each protocol; or Control, and relay instructions
+      to your partner.
+    steam_appid: 1296850
+    support_info:
+      email: support@solis-studios.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

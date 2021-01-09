@@ -1,0 +1,133 @@
+details:
+  data:
+    about_the_game: "The official soundtrack from Tower Unite. All the songs from\
+      \ the Game Worlds, Plaza, and more. <br />\r\nComposed and produced by William\
+      \ Smith. As a bonus, when new Game Worlds and activities that are released in\
+      \ Tower Unite, music from those will be added to this soundtrack at no extra\
+      \ charge.<br />\r\n<br />\r\n100% of the earnings from this go straight to William\
+      \ Smith."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/461740/page_bg_generated_v6b.jpg?t=1581546335
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The official soundtrack from Tower Unite. All the songs\
+      \ from the Game Worlds, Plaza, and more. <br />\r\nComposed and produced by\
+      \ William Smith. As a bonus, when new Game Worlds and activities that are released\
+      \ in Tower Unite, music from those will be added to this soundtrack at no extra\
+      \ charge.<br />\r\n<br />\r\n100% of the earnings from this go straight to William\
+      \ Smith."
+    developers:
+    - William Smith
+    fullgame:
+      appid: '394690'
+      name: Tower Unite
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/461740/header.jpg?t=1581546335
+    is_free: false
+    legal_notice: "\xA9 2016-2020 William Smith. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Tower Unite - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Tower Unite - Soundtrack - $4.99
+        packageid: 100795
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Tower Unite - Original Soundtrack
+    packages:
+    - 100795
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        287 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 699 MB available space<br></li><li><strong>Additional Notes:</strong>
+        Requires an MP3 or FLAC player.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - PixelTail Games
+    release_date:
+      coming_soon: false
+      date: Apr 20, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461740/ss_03e66f19b27e3080ecc719e2c82dd26081a10665.1920x1080.jpg?t=1581546335
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461740/ss_03e66f19b27e3080ecc719e2c82dd26081a10665.600x338.jpg?t=1581546335
+    short_description: The official soundtrack from Tower Unite. Composed and produced
+      by William Smith.
+    steam_appid: 461740
+    support_info:
+      email: contact@pixeltailgames.com
+      url: https://forums.pixeltailgames.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: https://www.towerunite.com
+  success: true
+reviews:
+  cursor: AoJwuvet3fYCduebvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 30
+    total_reviews: 30
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 77
+      num_reviews: 42
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198215243841'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83680886'
+    review: I can't believe the Fresh Prince of Bel-Air would be such a good video
+      game musical composer! Amazing work, Will Smith!
+    steam_purchase: true
+    timestamp_created: 1609450372
+    timestamp_updated: 1609450372
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

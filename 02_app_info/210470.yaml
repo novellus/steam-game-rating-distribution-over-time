@@ -1,0 +1,75 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Rebellion
+    fullgame:
+      appid: '63380'
+      name: Sniper Elite V2
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/210470/header.jpg?t=1447355657
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 66
+    name: Sniper Elite V2 Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 18, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 210470
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: AoJ47qra+9kCcZb+cA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1483490184
+      num_games_owned: 2
+      num_reviews: 1
+      playtime_at_review: 93
+      playtime_forever: 93
+      playtime_last_two_weeks: 0
+      steamid: '76561198158907282'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '29618529'
+    review: buena
+    steam_purchase: true
+    timestamp_created: 1485914593
+    timestamp_updated: 1485914593
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

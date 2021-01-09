@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Lazy 8 Studios
+    fullgame:
+      appid: '26500'
+      name: Cogs
+    genres:
+    - description: Strategy
+      id: '2'
+    - description: Indie
+      id: '23'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/26510/header.jpg?t=1447351781
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 73
+    name: Cogs Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<ul>\n\t                    <li><strong>OS:</strong> Microsoft Windows\
+        \ XP or Vista</li>\n\t                    <li><strong>Processor:</strong>\
+        \ 1.5 GHz CPU or better</li>\n\t                    <li><strong>Memory:</strong>\
+        \ 512 MB RAM</li>\n\t                    <li><strong>Graphics:</strong> DirectX\
+        \ 9 compatible 64 MB graphics card with hardware transform and lighting (T&L)</li>\n\
+        \t                    <li><strong>DirectX\xAE:</strong> DirectX 9.0c or later</li>\n\
+        \t                    <li><strong>Hard Drive:</strong> 120 MB Free Space</li>\n\
+        \t                    <li><strong>Sound:</strong> DirectX compatible sound\
+        \ card</li>\n                    </ul>\n                    "
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 14, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 26510
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://www.cogsgame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: Tracklist:<br><ul class="bb_ul"><li>Way<br></li><li>Road<br></li><li>Opinion<br></li><li>Abandon<br></li><li>Secrets<br></li><li>Moustache<br></li><li>Soulful</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/749810/page_bg_generated_v6b.jpg?t=1513869567
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Tracklist:<br><ul class="bb_ul"><li>Way<br></li><li>Road<br></li><li>Opinion<br></li><li>Abandon<br></li><li>Secrets<br></li><li>Moustache<br></li><li>Soulful</li></ul>
+    developers:
+    - Paleno Games
+    fullgame:
+      appid: '735260'
+      name: meleng
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/749810/header.jpg?t=1513869567
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux or SteamOS<br></li><li><strong>Processor:</strong> Dual core<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Supported<br></li><li><strong>Storage:</strong>
+        20 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    mac_requirements: []
+    name: meleng OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: meleng OST - $0.99
+        packageid: 220176
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy meleng OST
+    packages:
+    - 220176
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Dual core<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Supported<br></li><li><strong>Storage:</strong>
+        20 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Paleno Games
+    release_date:
+      coming_soon: false
+      date: Dec 21, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_ec09a16a690dbad12d31ec4e760b3c4862e6f4a1.1920x1080.jpg?t=1513869567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_ec09a16a690dbad12d31ec4e760b3c4862e6f4a1.600x338.jpg?t=1513869567
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_ce5dc480e97e85094ca82c25be4cc44e562c9b44.1920x1080.jpg?t=1513869567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_ce5dc480e97e85094ca82c25be4cc44e562c9b44.600x338.jpg?t=1513869567
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_2221bd46606dd0918c3e8103f001abddfb1077fd.1920x1080.jpg?t=1513869567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_2221bd46606dd0918c3e8103f001abddfb1077fd.600x338.jpg?t=1513869567
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_6f7ff40235fa0328c4ff70340ac21ffd5600c6a7.1920x1080.jpg?t=1513869567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_6f7ff40235fa0328c4ff70340ac21ffd5600c6a7.600x338.jpg?t=1513869567
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_f900a3072f8488bdb9742d24f5a137e25f3c42aa.1920x1080.jpg?t=1513869567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/749810/ss_f900a3072f8488bdb9742d24f5a137e25f3c42aa.600x338.jpg?t=1513869567
+    short_description: meleng is a logic puzzle game played on a grid of square cells.
+      This grid also contains circles with dots which indicates how many lines must
+      crosses at that point. You must complete the grid by filling in every cell with
+      lines and linking them with or away from each other.
+    steam_appid: 749810
+    support_info:
+      email: contact@palenogames.ru
+      url: http://palenogames.ru
+    supported_languages: English, French, Italian, German, Spanish - Spain, Russian
+    type: dlc
+    website: http://palenogames.ru
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

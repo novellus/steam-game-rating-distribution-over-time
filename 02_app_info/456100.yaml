@@ -1,0 +1,61 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Minddesk Software GmbH
+    fullgame:
+      appid: '454550'
+      name: Qubicle Voxel Editor
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    - description: Design & Illustration
+      id: '53'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/456100/header.jpg?t=1461930630
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Qubicle Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Open GL 3.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Minddesk Software GmbH
+    release_date:
+      coming_soon: false
+      date: Apr 29, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 456100
+    support_info:
+      email: ''
+      url: http://www.getqubicle.com/support
+    supported_languages: English
+    type: demo
+    website: http://www.getqubicle.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

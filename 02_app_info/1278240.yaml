@@ -1,0 +1,138 @@
+details:
+  data:
+    about_the_game: This DLC is intended purely as a donation to the developers of
+      Super Bernie World. All money goes to the developers, not Bernie Sanders' campaign.
+      Purchasing this DLC will not change or add anything to the base game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1278240/page_bg_generated_v6b.jpg?t=1585550427
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: This DLC is intended purely as a donation to the developers
+      of Super Bernie World. All money goes to the developers, not Bernie Sanders'
+      campaign. Purchasing this DLC will not change or add anything to the base game.
+    developers:
+    - Gamedevs for Bernie
+    fullgame:
+      appid: '1258040'
+      name: Super Bernie World
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1278240/header.jpg?t=1585550427
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        glibc 2.17+, 64-bit only<br></li><li><strong>Processor:</strong> Dual Core
+        2.0 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.0+ support (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong>
+        1 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.9 Mavericks or newer<br></li><li><strong>Processor:</strong> Dual Core
+        2.0 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.0+ support (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong>
+        1 MB available space</li></ul>
+    name: Super Bernie World - Donate to the devs
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Super Bernie World - Donate to the devs - $1.99
+        packageid: 445114
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Super Bernie World - Donate to the devs
+    packages:
+    - 445114
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Dual Core 2.0 GHz<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0+ support (2.1
+        with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 1 MB
+        available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Kitsune Games
+    release_date:
+      coming_soon: false
+      date: Mar 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1278240/ss_4aa24fa95bf2317cea07df036511210e32bc4daf.1920x1080.jpg?t=1585550427
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1278240/ss_4aa24fa95bf2317cea07df036511210e32bc4daf.600x338.jpg?t=1585550427
+    short_description: '[Donation DLC] Join Bernie''s movement and transform the United
+      States in this free retro 2D platformer.'
+    steam_appid: 1278240
+    support_info:
+      email: support@kitsunegames.com
+      url: https://kitsunegames.com/contact
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4uq7B+fECeL6thgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 3346
+      num_reviews: 43
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198011433474'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '68774888'
+    review: I Am Once Again Asking for Your Financial Support
+    steam_purchase: true
+    timestamp_created: 1588920153
+    timestamp_updated: 1588920153
+    voted_up: true
+    votes_funny: 70
+    votes_up: 31
+    weighted_vote_score: '0.757684111595153809'
+    written_during_early_access: false
+  success: 1

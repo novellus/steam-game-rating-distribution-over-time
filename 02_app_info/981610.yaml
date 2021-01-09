@@ -1,0 +1,133 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Artwork</h2>20 paintings in the game with high
+      resolution without any filtering. The original hand painted artwork awaits you
+      if you enjoy the dark fantasy style.<h2 class="bb_tag">Music</h2>In .wav format
+      with highest quality. Enjoy the dark atmospheric instrumental music.<br><br>You
+      can find the content inside the installation folder.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/981610/page_bg_generated_v6b.jpg?t=1548543716
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">Artwork</h2>20 paintings in the game
+      with high resolution without any filtering. The original hand painted artwork
+      awaits you if you enjoy the dark fantasy style.<h2 class="bb_tag">Music</h2>In
+      .wav format with highest quality. Enjoy the dark atmospheric instrumental music.<br><br>You
+      can find the content inside the installation folder.
+    developers:
+    - NAISU
+    fullgame:
+      appid: '955320'
+      name: 'Dark Fantasy: Jigsaw Puzzle'
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/981610/header.jpg?t=1548543716
+    is_free: false
+    legal_notice: "\xA9 2018 NAISU All Rights Reserved"
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX Mountain Lion (10.8)<br></li><li><strong>Processor:</strong> 1.5 GHz Core2Duo<br></li><li><strong>Graphics:</strong>
+        OpenGL 2 or higher</li></ul>
+    name: 'Dark Fantasy: Artwork and Music'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Artwork and OST - $0.99
+        packageid: 322937
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Dark Fantasy: Artwork and Music'
+    packages:
+    - 322937
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or later<br></li><li><strong>Processor:</strong> 1.5 GHz Core2Duo<br></li><li><strong>Memory:</strong>
+        128 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2 or higher<br></li><li><strong>Storage:</strong>
+        128 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - NAISU
+    release_date:
+      coming_soon: false
+      date: Jan 3, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/981610/ss_9a711f44007f0c879e87a79fc8ce39d40a113478.1920x1080.jpg?t=1548543716
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/981610/ss_9a711f44007f0c879e87a79fc8ce39d40a113478.600x338.jpg?t=1548543716
+    short_description: Have the great artwork and music of the game!
+    steam_appid: 981610
+    support_info:
+      email: ngoksanguner@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4qP/51fQCcJ7/ogI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 3211
+      num_reviews: 1789
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198137285867'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '76282336'
+    review: 6/10
+    steam_purchase: true
+    timestamp_created: 1600611941
+    timestamp_updated: 1600611941
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,145 @@
+details:
+  data:
+    about_the_game: 'Before the 2D fighting game [GUILTY GEAR -STRIVE-] is released,
+      we will be releasing the song used in its promotional videos!<br><br>Normal
+      version: 192kbps/mp3<br>Hi-Quality version: uncompressed/FLAC'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1223860/page_bg_generated_v6b.jpg?t=1581558611
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    - description: Remote Play on Phone
+      id: 41
+    - description: Remote Play on Tablet
+      id: 42
+    - description: Remote Play on TV
+      id: 43
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: 'Before the 2D fighting game [GUILTY GEAR -STRIVE-] is released,
+      we will be releasing the song used in its promotional videos!<br><br>Normal
+      version: 192kbps/mp3<br>Hi-Quality version: uncompressed/FLAC'
+    developers:
+    - Arc System Works
+    fullgame:
+      appid: '520440'
+      name: GUILTY GEAR Xrd -REVELATOR-
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1223860/header.jpg?t=1581558611
+    is_free: false
+    legal_notice: "\xA9 ARC SYSTEM WORKS"
+    linux_requirements: []
+    mac_requirements: []
+    name: Smell of the Game (NEW GUILTY GEAR Promotion Music)
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "Smell of the Game (\u300ENEW GUILTY GEAR\u300FPromotion Music)\
+          \ - $0.99"
+        packageid: 423943
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Smell of the Game (NEW GUILTY GEAR Promotion Music)
+    packages:
+    - 423943
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        8 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Arc System Works
+    release_date:
+      coming_soon: false
+      date: Jan 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1223860/ss_1722a4fc8384ce0ac33afc7840c5973a13e1e0e9.1920x1080.jpg?t=1581558611
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1223860/ss_1722a4fc8384ce0ac33afc7840c5973a13e1e0e9.600x338.jpg?t=1581558611
+    short_description: Before the 2D fighting game [GUILTY GEAR -STRIVE-] is released,
+      we will be releasing the song used in its promotional videos!
+    steam_appid: 1223860
+    support_info:
+      email: ''
+      url: http://www.arcsystemworks.jp/steam/en/contact_02.php
+    supported_languages: English, Japanese<strong>*</strong>, Korean, Simplified Chinese,
+      Traditional Chinese<br><strong>*</strong>languages with full audio support
+    type: music
+    website: http://www.arcsystemworks.jp/steam/ggxrd-revelator/en/
+  success: true
+reviews:
+  cursor: AoJ459mH6fYCe8/UwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 3
+    total_positive: 88
+    total_reviews: 91
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 172
+      num_reviews: 30
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198391364272'
+    comment_count: 0
+    language: tchinese
+    received_for_free: false
+    recommendationid: '84059387'
+    review: "\u77F3\u6E21\u592A\u8F14\u4E00\u751F\u63A8"
+    steam_purchase: true
+    timestamp_created: 1609843003
+    timestamp_updated: 1609843003
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

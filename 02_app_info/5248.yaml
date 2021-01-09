@@ -1,0 +1,55 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - GRIN
+    fullgame:
+      appid: '21080'
+      name: Terminator Salvation
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/21080/header.jpg?t=1447351831
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Terminator Salvation HD Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Warner Bros. Interactive Entertainment
+    release_date:
+      coming_soon: false
+      date: May 11, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 5248
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

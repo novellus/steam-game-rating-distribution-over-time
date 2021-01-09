@@ -1,0 +1,133 @@
+details:
+  data:
+    about_the_game: "This DLC is the SoundTrack of Rush Rover.It will be downloaded\
+      \ to the local files.All the tracks are in MP3 format.<br />\r\n<br />\r\nTrack\
+      \ List:<br />\r\n01.Ready for raid<br />\r\n02.Low bit high<br />\r\n03.Out\
+      \ of hiding<br />\r\n04.Full raid<br />\r\n05.Rushing fearless<br />\r\n06.Nowhere\
+      \ to run<br />\r\n07.Hidden track"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/599910/page_bg_generated_v6b.jpg?t=1512012677
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC is the SoundTrack of Rush Rover.It will be downloaded\
+      \ to the local files.All the tracks are in MP3 format.<br />\r\n<br />\r\nTrack\
+      \ List:<br />\r\n01.Ready for raid<br />\r\n02.Low bit high<br />\r\n03.Out\
+      \ of hiding<br />\r\n04.Full raid<br />\r\n05.Rushing fearless<br />\r\n06.Nowhere\
+      \ to run<br />\r\n07.Hidden track"
+    developers:
+    - radio
+    fullgame:
+      appid: '438320'
+      name: Rush Rover
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/599910/header.jpg?t=1512012677
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Rush Rover - OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Rush Rover - OST - $1.99
+        packageid: 157519
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Rush Rover - OST
+    packages:
+    - 157519
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - indienova
+    release_date:
+      coming_soon: false
+      date: Nov 29, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/599910/ss_625d0da655160d67025f449d5874873643891355.1920x1080.jpg?t=1512012677
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/599910/ss_625d0da655160d67025f449d5874873643891355.600x338.jpg?t=1512012677
+    short_description: SoundTrack of Rush Rover
+    steam_appid: 599910
+    support_info:
+      email: radioair@foxmail.com
+      url: ''
+    supported_languages: English, Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwpubhpvQCcN2lnwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 2116
+      num_reviews: 1893
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198025089345'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '75312592'
+    review: "7\u9996\u590D\u53E4\u97F3\u4E50mp3+\u4E00\u4E2A\u5C01\u9762\uFF0C\u611F\
+      \u89C9\u5E76\u4E0D\u597D\u542C~\nmp3\u4E5F\u6CA1\u6709\u4EFB\u4F55\u6807\u7B7E\
+      ~emmm~"
+    steam_purchase: true
+    timestamp_created: 1599028540
+    timestamp_updated: 1599028540
+    voted_up: true
+    votes_funny: 1
+    votes_up: 19
+    weighted_vote_score: '0.708205044269561768'
+    written_during_early_access: false
+  success: 1

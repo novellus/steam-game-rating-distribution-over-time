@@ -1,0 +1,193 @@
+details:
+  data:
+    about_the_game: "\u2022\t<strong>BeatBeat</strong> is a funky rhythm-platformer\
+      \ that traps the big-arcade experience inside your home computer, complete with\
+      \ highly addictive Just-One-More-Try syndrome injected directly into every line\
+      \ of code.<br>\u2022\tUse 100% of your brain! <strong>Rhythm</strong> AND <strong>Platforming</strong>\
+      \ at the same time!<br>\u2022\tFishing minigame!<br>\u2022\tYou can pet the\
+      \ dog!<br>\u2022\tPlayable with keyboard or gamepad!<br>\u2022\t15 song soundtrack\
+      \ featuring future funk, bleep bloops, and lofi hiphop beats for you to relax/study\
+      \ to!<br>\u2022\tIntuitive level editor: Players can create their own levels,\
+      \ complete with platforms and beatmaps.<br>\u2022\tNEW!: Steam Workshop Integration\
+      \ to let players upload their own custom levels and download other players\u2019\
+      \ levels.<h2 class=\"bb_tag\">Available Now In Early Access</h2><img src=\"\
+      https://steamcdn-a.akamaihd.net/steam/apps/1225840/extras/beatbeatgameplaygif2.gif?t=1599883351\"\
+      \ />"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1225840/page_bg_generated_v6b.jpg?t=1599883351
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u2022\t<strong>BeatBeat</strong> is a funky rhythm-platformer\
+      \ that traps the big-arcade experience inside your home computer, complete with\
+      \ highly addictive Just-One-More-Try syndrome injected directly into every line\
+      \ of code.<br>\u2022\tUse 100% of your brain! <strong>Rhythm</strong> AND <strong>Platforming</strong>\
+      \ at the same time!<br>\u2022\tFishing minigame!<br>\u2022\tYou can pet the\
+      \ dog!<br>\u2022\tPlayable with keyboard or gamepad!<br>\u2022\t15 song soundtrack\
+      \ featuring future funk, bleep bloops, and lofi hiphop beats for you to relax/study\
+      \ to!<br>\u2022\tIntuitive level editor: Players can create their own levels,\
+      \ complete with platforms and beatmaps.<br>\u2022\tNEW!: Steam Workshop Integration\
+      \ to let players upload their own custom levels and download other players\u2019\
+      \ levels.<h2 class=\"bb_tag\">Available Now In Early Access</h2><img src=\"\
+      https://steamcdn-a.akamaihd.net/steam/apps/1225840/extras/beatbeatgameplaygif2.gif?t=1599883351\"\
+      \ />"
+    developers:
+    - Janarik Games LLC
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1225840/header.jpg?t=1599883351
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Yes<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.12+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Yes<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256798022
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256798022/movie480.mp4?t=1598249545
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256798022/movie_max.mp4?t=1598249545
+      name: Early Access Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256798022/movie.293x165.jpg?t=1598249545
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256798022/movie480_vp9.webm?t=1598249545
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256798022/movie_max_vp9.webm?t=1598249545
+    - highlight: true
+      id: 256772626
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256772626/movie480.mp4?t=1592288991
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256772626/movie_max.mp4?t=1592288991
+      name: Reveal Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256772626/movie.293x165.jpg?t=1592288991
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256772626/movie480.webm?t=1592288991
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256772626/movie_max.webm?t=1592288991
+    - highlight: true
+      id: 256783268
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256783268/movie480.mp4?t=1592288999
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256783268/movie_max.mp4?t=1592288999
+      name: Gameplay Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256783268/movie.293x165.jpg?t=1592288999
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256783268/movie480_vp9.webm?t=1592288999
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256783268/movie_max_vp9.webm?t=1592288999
+    name: BeatBeat
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: BeatBeat - $12.99
+        packageid: 424863
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1299
+      title: Buy BeatBeat
+    packages:
+    - 424863
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+<br></li><li><strong>Processor:</strong> A couple<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Yes<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional
+        Notes:</strong> It's a pretty non-intensive game. I mean, it can run on a
+        MAC...</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1299
+      final_formatted: $12.99
+      initial: 1299
+      initial_formatted: ''
+    publishers:
+    - Janarik Games LLC
+    release_date:
+      coming_soon: false
+      date: Aug 24, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_af7a84c0346e98b610eb1b60e426e04304a1ca1a.1920x1080.jpg?t=1599883351
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_af7a84c0346e98b610eb1b60e426e04304a1ca1a.600x338.jpg?t=1599883351
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_4038df56d17b058eefb2fbd26e2b75c1e1f136e8.1920x1080.jpg?t=1599883351
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_4038df56d17b058eefb2fbd26e2b75c1e1f136e8.600x338.jpg?t=1599883351
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_7e489cf78f07643567dc155c64700a17da4af4cf.1920x1080.jpg?t=1599883351
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_7e489cf78f07643567dc155c64700a17da4af4cf.600x338.jpg?t=1599883351
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_e8dbef90e7c4213162f14fff88e20934542f59a3.1920x1080.jpg?t=1599883351
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_e8dbef90e7c4213162f14fff88e20934542f59a3.600x338.jpg?t=1599883351
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_65b146591d49b0978b881fbb2affd4b2a30edd98.1920x1080.jpg?t=1599883351
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_65b146591d49b0978b881fbb2affd4b2a30edd98.600x338.jpg?t=1599883351
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_5b593a2d89f9b3d670a11404fc14bf649d341875.1920x1080.jpg?t=1599883351
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1225840/ss_5b593a2d89f9b3d670a11404fc14bf649d341875.600x338.jpg?t=1599883351
+    short_description: BeatBeat is a rhythm platformer with vaporwave aesthetics and
+      future-funky beats. Groove your way through arcade-style levels that bring home
+      the feel of those big arcades you always see in the movies. Beat(Beat) the game.
+    steam_appid: 1225840
+    support_info:
+      email: janarikgames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://beatbeatgame.com
+  success: true
+reviews:
+  cursor: AoJwjLOXl/QCcOSGngI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1598505671
+      num_games_owned: 96
+      num_reviews: 11
+      playtime_at_review: 15
+      playtime_forever: 15
+      playtime_last_two_weeks: 0
+      steamid: '76561198263342776'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '74987072'
+    review: Really interesting and new type of rhythm game! Interesting! Thanks for
+      the ad because this could be a really fun game
+    steam_purchase: true
+    timestamp_created: 1598505720
+    timestamp_updated: 1598505720
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: true
+  success: 1

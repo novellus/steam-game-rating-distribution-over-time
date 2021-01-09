@@ -1,0 +1,124 @@
+details:
+  data:
+    about_the_game: All tracks written and produced by Mike Keogh. Vocals in Lullaby
+      by Erin Keogh. With many thanks to the rest of the Breakfall team! Album cover
+      art made from Marvin's Mittens game assets.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/335520/page_bg_generated_v6b.jpg?t=1447365503
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: All tracks written and produced by Mike Keogh. Vocals in
+      Lullaby by Erin Keogh. With many thanks to the rest of the Breakfall team! Album
+      cover art made from Marvin's Mittens game assets.
+    developers:
+    - Mike Keogh
+    fullgame:
+      appid: '333260'
+      name: Marvin's Mittens
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/335520/header.jpg?t=1447365503
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Additional Notes:</strong> MP3 Player</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Additional Notes:</strong> MP3 Player</li></ul>
+    name: Marvin's Mittens Official Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Marvin's Mittens Official Soundtrack - $4.99
+        packageid: 55462
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Marvin's Mittens Official Soundtrack
+    packages:
+    - 55462
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Additional Notes:</strong> MP3 Player</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 17, 2014
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/335520/ss_879b338b03faaae0d9f0befe0684cdd9f6a5ba62.1920x1080.jpg?t=1447365503
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/335520/ss_879b338b03faaae0d9f0befe0684cdd9f6a5ba62.600x338.jpg?t=1447365503
+    short_description: The original game soundtrack for Breakfall's game Marvin's
+      Mittens.
+    steam_appid: 335520
+    support_info:
+      email: contact@breakfall.ca
+      url: http://breakfall.ca/Contact
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://marvinsmittens.com
+  success: true
+reviews:
+  cursor: AoJ49tGr4dkCesuWcA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 413
+      num_reviews: 376
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198108456087'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '29406394'
+    review: "\u041F\u0440\u043E\u0441\u0442\u043E \u0432\u043E\u043B\u0448\u0435\u0431\
+      \u043D\u044B\u0439."
+    steam_purchase: true
+    timestamp_created: 1485029937
+    timestamp_updated: 1485029937
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

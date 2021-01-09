@@ -1,0 +1,166 @@
+details:
+  data:
+    about_the_game: "<strong><i>Let's play ONETEAM SOCCER.<br>All players move together\
+      \ since they're &quot;ONETEAM&quot;.</i></strong><h2 class=\"bb_tag\">\u3010\
+      MODE\u3011</h2>\u30FB<i>online battle MODE</i><br>     You can play with the\
+      \ players around the world.<br>     Be the best of &quot;ONETEAM&quot;!!!<br><br>\u30FB\
+      <i>VS CPU MODE</i><br>     You can play even if you're in offline.<br>     Select\
+      \ the CPU level (beginner, professional, G O D)<h2 class=\"bb_tag\">\u3010OPERATION\u3011\
+      </h2>\u3000W : Run<br><br>\u3000A : Turn\uFF08L)<br>\u3000S : Back<br>\u3000\
+      D : Turn\uFF08R\uFF09<br>\u3000R : Hold<br>\u3000T : Kick<br>\u203BYou can see\
+      \ them in [Show Config] in the game.<br><br><strong><u><h2 class=\"bb_tag\"\
+      >What is &quot;ONETEAM&quot;?</h2></u></strong><br><i>It means &quot;becoming\
+      \ one team&quot;.<br>When a group accomplishes one thing, the word is used for\
+      \ uniting everyone's strengths as one.<br>Therefore, it is used as a slogan\
+      \ to improve the unity of the team.</i>"
+    achievements:
+      highlighted:
+      - name: Beginner
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1320030/f8d6e5f554feda7160bb108995ff5f19769fa46c.jpg
+      - name: Professional
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1320030/51d3747c5efd5f7822ec4bd9586100f44ccc2210.jpg
+      - name: G O D
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1320030/38697200e4972af59bac5ef75e832f7a40e043ec.jpg
+      - name: Peaceful World
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1320030/c3d705ced9565a1b6659a9fe5c77f930fdc0e222.jpg
+      - name: HAT TRICK
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1320030/e6ab38d9764eef3d7a647a98f67efafe35fa8dec.jpg
+      - name: VICTORY !
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1320030/a36ef2d330e1c5891843518c4b3d4651f6eada5f.jpg
+      - name: 100 GOOOOAL !!!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1320030/1da8632ebc14bdd27033197cb02e316ffe7bf185.jpg
+      total: 7
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1320030/page_bg_generated_v6b.jpg?t=1595509234
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong><i>Let's play ONETEAM SOCCER.<br>All players move\
+      \ together since they're &quot;ONETEAM&quot;.</i></strong><h2 class=\"bb_tag\"\
+      >\u3010MODE\u3011</h2>\u30FB<i>online battle MODE</i><br>     You can play with\
+      \ the players around the world.<br>     Be the best of &quot;ONETEAM&quot;!!!<br><br>\u30FB\
+      <i>VS CPU MODE</i><br>     You can play even if you're in offline.<br>     Select\
+      \ the CPU level (beginner, professional, G O D)<h2 class=\"bb_tag\">\u3010OPERATION\u3011\
+      </h2>\u3000W : Run<br><br>\u3000A : Turn\uFF08L)<br>\u3000S : Back<br>\u3000\
+      D : Turn\uFF08R\uFF09<br>\u3000R : Hold<br>\u3000T : Kick<br>\u203BYou can see\
+      \ them in [Show Config] in the game.<br><br><strong><u><h2 class=\"bb_tag\"\
+      >What is &quot;ONETEAM&quot;?</h2></u></strong><br><i>It means &quot;becoming\
+      \ one team&quot;.<br>When a group accomplishes one thing, the word is used for\
+      \ uniting everyone's strengths as one.<br>Therefore, it is used as a slogan\
+      \ to improve the unity of the team.</i>"
+    developers:
+    - Yamauchi_games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1320030/header.jpg?t=1595509234
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256784928
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784928/movie480.mp4?t=1589884718
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784928/movie_max.mp4?t=1589884718
+      name: OneteamSoccer_OP
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256784928/movie.293x165.jpg?t=1589884718
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256784928/movie480_vp9.webm?t=1589884718
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256784928/movie_max_vp9.webm?t=1589884718
+    name: Oneteam Soccer
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Oneteam Soccer - $0.99
+        packageid: 460905
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Oneteam Soccer
+    packages:
+    - 460905
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows7, 8, 10<br></li><li><strong>Processor:</strong> SSE2 (Pentium 4 Or
+        later)<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Yamauchi_games
+    release_date:
+      coming_soon: false
+      date: Jul 23, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_bae15f4147756d92abde93749b59db5af88f1940.1920x1080.jpg?t=1595509234
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_bae15f4147756d92abde93749b59db5af88f1940.600x338.jpg?t=1595509234
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_c477dc82431c97bc8e6ce694c7985d01def8c429.1920x1080.jpg?t=1595509234
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_c477dc82431c97bc8e6ce694c7985d01def8c429.600x338.jpg?t=1595509234
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_7ff546b77c0fa612a8325237cdc13a503edd4b36.1920x1080.jpg?t=1595509234
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_7ff546b77c0fa612a8325237cdc13a503edd4b36.600x338.jpg?t=1595509234
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_9c52f75a476b8cbb45e8b3c420b99705d7cf5d75.1920x1080.jpg?t=1595509234
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_9c52f75a476b8cbb45e8b3c420b99705d7cf5d75.600x338.jpg?t=1595509234
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_addeb19e07f533a9de5e8f7646ba7689555cbde9.1920x1080.jpg?t=1595509234
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1320030/ss_addeb19e07f533a9de5e8f7646ba7689555cbde9.600x338.jpg?t=1595509234
+    short_description: Let's play ONETEAM SOCCER. All players move together since
+      they're &quot;ONETEAM&quot;.
+    steam_appid: 1320030
+    support_info:
+      email: kaiko1229@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

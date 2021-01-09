@@ -1,0 +1,71 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Flying Wild Hog
+    fullgame:
+      appid: '98400'
+      name: Hard Reset Extended Edition
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/200030/header.jpg?t=1505118824
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 73
+    name: Hard Reset Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Good Shepherd Entertainment
+    release_date:
+      coming_soon: false
+      date: Sep 7, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 200030
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

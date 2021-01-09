@@ -1,0 +1,79 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 5
+      notes: null
+    detailed_description: ''
+    developers:
+    - 2K Czech
+    fullgame:
+      appid: '50130'
+      name: Mafia II (Classic)
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/50280/header.jpg?t=1447353434
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 77
+    name: Mafia II Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - 2K Games
+    release_date:
+      coming_soon: false
+      date: Aug 10, 2010
+    required_age: '18'
+    short_description: ''
+    steam_appid: 50280
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: AoJw5ffrp9oCcdu4cg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1487349776
+      num_games_owned: 35
+      num_reviews: 1
+      playtime_at_review: 30
+      playtime_forever: 30
+      playtime_last_two_weeks: 0
+      steamid: '76561198363973309'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '30000561'
+    review: Amazing game! One of my most favorite games of all time.
+    steam_purchase: true
+    timestamp_created: 1487395602
+    timestamp_updated: 1487395602
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

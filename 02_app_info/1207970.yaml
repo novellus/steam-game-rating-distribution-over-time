@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: "&quot;    \u6982\u8FF0\uFF1A<br />\r\n        \u300A\u96F6\u754C\
+      \u6218\u7EBF\u300B\u72EC\u6709\u7684\u4E94\u7EA7\u5B9D\u77F3\u5305<br />\r\n\
+      \    \u2666 \u8D44\u6E90\u5408\u96C6\u5185\u5BB9\u63CF\u8FF0\uFF1A<br />\r\n\
+      \        5\u7EA7\u751F\u547D\u5B9D\u77F3\t\t12<br />\r\n        5\u7EA7\u653B\
+      \u51FB\u5B9D\u77F3\t\t12<br />\r\n        5\u7EA7\u7269\u9632\u5B9D\u77F3\t\t\
+      12<br />\r\n        5\u7EA7\u9B54\u9632\u5B9D\u77F3\t\t12<br />\r\n        5\u7EA7\
+      \u653B\u901F\u5B9D\u77F3\t\t12<br />\r\n        5\u7EA7\u66B4\u51FB\u5B9D\u77F3\
+      \t\t12"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1207970/page_bg_generated_v6b.jpg?t=1577069490
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "&quot;    \u6982\u8FF0\uFF1A<br />\r\n        \u300A\u96F6\
+      \u754C\u6218\u7EBF\u300B\u72EC\u6709\u7684\u4E94\u7EA7\u5B9D\u77F3\u5305<br\
+      \ />\r\n    \u2666 \u8D44\u6E90\u5408\u96C6\u5185\u5BB9\u63CF\u8FF0\uFF1A<br\
+      \ />\r\n        5\u7EA7\u751F\u547D\u5B9D\u77F3\t\t12<br />\r\n        5\u7EA7\
+      \u653B\u51FB\u5B9D\u77F3\t\t12<br />\r\n        5\u7EA7\u7269\u9632\u5B9D\u77F3\
+      \t\t12<br />\r\n        5\u7EA7\u9B54\u9632\u5B9D\u77F3\t\t12<br />\r\n    \
+      \    5\u7EA7\u653B\u901F\u5B9D\u77F3\t\t12<br />\r\n        5\u7EA7\u66B4\u51FB\
+      \u5B9D\u77F3\t\t12"
+    developers:
+    - Elementman Technology
+    fullgame:
+      appid: '1195870'
+      name: "\u96F6\u754C\u6218\u7EBF"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1207970/header.jpg?t=1577069490
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "\u96F6\u754C\u6218\u7EBF-\u4E94\u7EA7\u5B9D\u77F3\u5305"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u4E94\u7EA7\u5B9D\u77F3\u5305 - $34.99"
+        packageid: 417343
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3499
+      title: "Buy \u96F6\u754C\u6218\u7EBF-\u4E94\u7EA7\u5B9D\u77F3\u5305"
+    packages:
+    - 417343
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Microsoft Windows 7 SP1, Windows 8, Windows 10<br></li><li><strong>Processor:</strong>
+        1,7GHz dual core</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 3499
+      final_formatted: $34.99
+      initial: 3499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Dec 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1207970/ss_f0d3bf69e41236c2f1470388efec819c90b9355b.1920x1080.jpg?t=1577069490
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1207970/ss_f0d3bf69e41236c2f1470388efec819c90b9355b.600x338.jpg?t=1577069490
+    short_description: "\u8BE5\u5185\u5BB9\u9700\u8981\u5728 Steam \u62E5\u6709\u57FA\
+      \u7840\u6E38\u620F \u96F6\u754C\u6218\u7EBF \u624D\u80FD\u8FD0\u884C\u3002"
+    steam_appid: 1207970
+    support_info:
+      email: ''
+      url: http://zszd.ligugame.com/
+    supported_languages: Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

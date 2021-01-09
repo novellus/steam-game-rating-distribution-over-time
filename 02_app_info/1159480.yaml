@@ -1,0 +1,194 @@
+details:
+  data:
+    about_the_game: "BOW MAN is a Japanese style classic VR bow game! Your mission\
+      \ is to shoot enemies and targets as accurate and quickly as possible.<br />\r\
+      \n<br />\r\nIn SOLO MODE, use your archery skills to shoot targets and enemies.\
+      \ You can either guard with your gauntlet or dodge enemy attacks.<br />\r\n\
+      There are 54 levels to accomplish!<br />\r\n<br />\r\nIn VERSUS MODE, enjoy\
+      \ a random online match among players all around the world.<br />\r\nTake turns\
+      \ and shoot your opponent 60 meters away before they shoot you!<br />\r\n<br\
+      \ />\r\nBOW MAN also supports custom avatars!<br />\r\nPrepare your VRM avatar\
+      \ file to load your favorite skin.<br />\r\n<br />\r\nBe the most honorable\
+      \ warrior!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1159480/page_bg_generated_v6b.jpg?t=1574787182
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    content_descriptors:
+      ids:
+      - 5
+      notes: There is blood effect when player gets hit.
+    detailed_description: "BOW MAN is a Japanese style classic VR bow game! Your mission\
+      \ is to shoot enemies and targets as accurate and quickly as possible.<br />\r\
+      \n<br />\r\nIn SOLO MODE, use your archery skills to shoot targets and enemies.\
+      \ You can either guard with your gauntlet or dodge enemy attacks.<br />\r\n\
+      There are 54 levels to accomplish!<br />\r\n<br />\r\nIn VERSUS MODE, enjoy\
+      \ a random online match among players all around the world.<br />\r\nTake turns\
+      \ and shoot your opponent 60 meters away before they shoot you!<br />\r\n<br\
+      \ />\r\nBOW MAN also supports custom avatars!<br />\r\nPrepare your VRM avatar\
+      \ file to load your favorite skin.<br />\r\n<br />\r\nBe the most honorable\
+      \ warrior!"
+    developers:
+    - DMM VR lab
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1159480/header.jpg?t=1574787182
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256762334
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256762334/movie480.mp4?t=1571206381
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256762334/movie_max.mp4?t=1571206381
+      name: PV
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256762334/movie.293x165.jpg?t=1571206381
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256762334/movie480.webm?t=1571206381
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256762334/movie_max.webm?t=1571206381
+    - highlight: true
+      id: 256764668
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764668/movie480.mp4?t=1571206392
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764668/movie_max.mp4?t=1571206392
+      name: How to use custom avatars in BOW MAN
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256764668/movie.293x165.jpg?t=1571206392
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256764668/movie480.webm?t=1571206392
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256764668/movie_max.webm?t=1571206392
+    name: BOW MAN
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: BOW MAN - $14.99
+        packageid: 395566
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy BOW MAN
+    packages:
+    - 395566
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong>
+        Intel Core i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 1060<br></li><li><strong>Storage:</strong> 600 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong>
+        Intel Core i7-6700<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 1080<br></li><li><strong>Storage:</strong> 1 GB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - DMM.com LLC
+    release_date:
+      coming_soon: false
+      date: Oct 6, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_241dfefcfcaf3058782d687ee348443dee517308.1920x1080.jpg?t=1574787182
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_241dfefcfcaf3058782d687ee348443dee517308.600x338.jpg?t=1574787182
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_a4cd75f5a45017796c2bd1e4b0b46972a063ef9b.1920x1080.jpg?t=1574787182
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_a4cd75f5a45017796c2bd1e4b0b46972a063ef9b.600x338.jpg?t=1574787182
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_fe412a14a4af8cefbaa7c057cc538674e1e1e886.1920x1080.jpg?t=1574787182
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_fe412a14a4af8cefbaa7c057cc538674e1e1e886.600x338.jpg?t=1574787182
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_5cdb48781c06ad4ceec9bdbe69c492bbe7b387ca.1920x1080.jpg?t=1574787182
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_5cdb48781c06ad4ceec9bdbe69c492bbe7b387ca.600x338.jpg?t=1574787182
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_31ba52a9df3ce0247baf416df16b7cddae6397bb.1920x1080.jpg?t=1574787182
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1159480/ss_31ba52a9df3ce0247baf416df16b7cddae6397bb.600x338.jpg?t=1574787182
+    short_description: BOW MAN is a Japanese style classic VR bow game! Your mission
+      is to shoot enemies and targets as accurate and quickly as possible. In SOLO
+      MODE, use your archery skills to shoot targets and enemies. You can either guard
+      with your gauntlet or dodge enemy attacks. There are 54 levels to accomplish!
+    steam_appid: 1159480
+    support_info:
+      email: ''
+      url: https://docs.google.com/forms/d/e/1FAIpQLSf39yt0hQ1r1ZNqOujgnPyTJKT-XoeYzBsTKVFjriJ42hinqQ/viewform
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://bowman.vrlab.dmm.com/
+  success: true
+reviews:
+  cursor: AoJwhrCEn+8Ccqj25gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 1
+    total_positive: 4
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 1579280472
+      num_games_owned: 12
+      num_reviews: 1
+      playtime_at_review: 17
+      playtime_forever: 53
+      playtime_last_two_weeks: 0
+      steamid: '76561198832806502'
+    comment_count: 0
+    language: japanese
+    received_for_free: false
+    recommendationid: '60535426'
+    review: "\u81EA\u5206\u81EA\u5206\u306E\u30A2\u30D0\u30BF\u30FC\u3092\u4F7F\u3063\
+      \u3066\u3067\u304D\u308B\u306E\u3082\u9B45\u529B\u3067\u3059\u304C\u3001\u5143\
+      \u5F13\u9053\u90E8\u306E\u81EA\u5206\u3068\u3057\u3066\u306F\u3064\u304C\u3048\
+      \u305F\u6642\u306E\u77E2\u306E\u4F4D\u7F6E\u304C\u5F13\u306E\u5DE6\u5074\u3060\
+      \u3068\u3044\u3046\u3053\u3068\u306B\u4F55\u3088\u308A\u9B45\u529B\u3092\u611F\
+      \u3058\u307E\u3057\u305F\u3002\u304B\u306A\u308A\u9762\u767D\u3044\u30B2\u30FC\
+      \u30E0\u306A\u306E\u3067\u307F\u3093\u306A\u3082\u904A\u3093\u3067\u307B\u3057\
+      \u3044\u3002"
+    steam_purchase: true
+    timestamp_created: 1577294332
+    timestamp_updated: 1577294332
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.454545468091964722'
+    written_during_early_access: false
+  success: 1

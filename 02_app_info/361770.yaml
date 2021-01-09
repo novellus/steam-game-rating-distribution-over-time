@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - NetherRealm Studios
+    - Warner Bros. Interactive Entertainment
+    fullgame:
+      appid: '361700'
+      name: 'Mortal Kombat: Legacy'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/361770/header.jpg?t=1466800891
+    is_free: true
+    legal_notice: "Mortal Kombat: Legacy \xA9 2011 Warner Bros. Entertainment Inc.\
+      \ Mortal Kombat, the dragon logo and all related characters and elements are\
+      \ trademarks of and \xA9 Warner Bros. Entertainment Inc. WB SHIELD: \u2122 &\
+      \ \xA9 Warner Bros. Entertainment Inc. (s11). All rights reserved.<br />\r\n\
+      <br />\r\nThis motion picture \xA9 2011 Warner Bros. Entertainment Inc.<br />\r\
+      \nStory and Screenplay \xA9 2011 Warner Bros. Entertainment Inc.<br />\r\nOriginal\
+      \ Score \xA9 Warner-Barham Music, LLC."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: true
+        option_description: ''
+        option_text: 'Mortal Kombat: Legacy - Free'
+        packageid: 64820
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 0
+      title: 'Buy Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2)'
+    packages:
+    - 64820
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 24, 2016
+    required_age: '17'
+    short_description: Jubei watches as his mother is held captive by Sub Zero's men,
+      contemplating attacking them with one of his father's kunai.
+    steam_appid: 361770
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: http://www.mortalkombat.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

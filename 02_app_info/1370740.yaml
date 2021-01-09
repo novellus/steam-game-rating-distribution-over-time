@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: Original game soundtrack by Gordey Eremin.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1370740/page_bg_generated_v6b.jpg?t=1595869238
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Original game soundtrack by Gordey Eremin.
+    developers:
+    - CreaTeam
+    fullgame:
+      appid: '1360620'
+      name: 20,000 Miles Under the Sea
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1370740/header.jpg?t=1595869238
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 20,000 Miles Under the Sea Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 20,000 Miles Under the Sea Soundtrack - $2.99
+        packageid: 480728
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy 20,000 Miles Under the Sea Soundtrack
+    packages:
+    - 480728
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        86 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 109 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - CreaTeam
+    release_date:
+      coming_soon: false
+      date: Jul 27, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1370740/ss_b7d9f39580d7db70239807d73182344b6491e138.1920x1080.jpg?t=1595869238
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1370740/ss_b7d9f39580d7db70239807d73182344b6491e138.600x338.jpg?t=1595869238
+    short_description: Original game soundtrack by Gordey Eremin.
+    steam_appid: 1370740
+    support_info:
+      email: createam4@gmail.com
+      url: ''
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

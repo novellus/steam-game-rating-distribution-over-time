@@ -1,0 +1,96 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/522333/page_bg_generated_v6b.jpg?t=1581440829
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Workshop
+      id: 30
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Flying Wild Hog
+    fullgame:
+      appid: '324800'
+      name: Shadow Warrior 2
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/522333/header.jpg?t=1581440829
+    is_free: false
+    legal_notice: Copyright 2016 Flying Wild Hog. All Rights Reserved.
+    linux_requirements: []
+    mac_requirements: []
+    name: Shadow Warrior 2 - Soundtrack
+    package_groups: []
+    packages:
+    - 124028
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Devolver Digital
+    release_date:
+      coming_soon: false
+      date: Oct 13, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522333/ss_4409733e950775bb8471df52f1d6d65109a354c4.1920x1080.jpg?t=1581440829
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522333/ss_4409733e950775bb8471df52f1d6d65109a354c4.600x338.jpg?t=1581440829
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522333/ss_660f3d77a967d29dd84bb72eac2eaa73159ca85f.1920x1080.jpg?t=1581440829
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522333/ss_660f3d77a967d29dd84bb72eac2eaa73159ca85f.600x338.jpg?t=1581440829
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/522333/ss_b172c8201c6946dd81d184d0d9fd839b08f22477.1920x1080.jpg?t=1581440829
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/522333/ss_b172c8201c6946dd81d184d0d9fd839b08f22477.600x338.jpg?t=1581440829
+    short_description: ''
+    steam_appid: 522333
+    support_info:
+      email: ''
+      url: www.flyingwildhog.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: http://www.shadowwarrior.com
+  success: true
+reviews:
+  cursor: AoJwsbG1pvMCdOGZlQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 6
+    total_positive: 11
+    total_reviews: 17
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 37
+      num_reviews: 60
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198823831781'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '72666644'
+    review: Cool Soundtrack)
+    steam_purchase: true
+    timestamp_created: 1594721930
+    timestamp_updated: 1594721930
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.527972042560577393'
+    written_during_early_access: false
+  success: 1

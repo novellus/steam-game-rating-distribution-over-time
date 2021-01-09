@@ -1,0 +1,117 @@
+details:
+  data:
+    about_the_game: "Gives a toggle to turn all characters into their original skins\
+      \ from the original version of the game, back when it was on Steam Greenlight.<br\
+      \ />\r\n<br />\r\nTo perform this magical feat:<br />\r\n<br />\r\n- Complete\
+      \ the game with the REBOOT option.<br />\r\n<br />\r\n- When you start up a\
+      \ new game, choose REBOOT MODE.<br />\r\n<br />\r\n- Click on FIRST DRAFT."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/842670/page_bg_generated_v6b.jpg?t=1528324693
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Gives a toggle to turn all characters into their original\
+      \ skins from the original version of the game, back when it was on Steam Greenlight.<br\
+      \ />\r\n<br />\r\nTo perform this magical feat:<br />\r\n<br />\r\n- Complete\
+      \ the game with the REBOOT option.<br />\r\n<br />\r\n- When you start up a\
+      \ new game, choose REBOOT MODE.<br />\r\n<br />\r\n- Click on FIRST DRAFT."
+    developers:
+    - Stegalosaurus Game Development
+    fullgame:
+      appid: '702940'
+      name: 'Paper Shakespeare: To Date Or Not To Date?'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/842670/header.jpg?t=1528324693
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        18 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        18 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        18 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        18 MB available space</li></ul>
+    name: 'Paper Shakespeare, Outfit Pack: Steam Greenlight'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Paper Shakespeare, Outfit Pack: Steam Greenlight - $0.99'
+        packageid: 263233
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Paper Shakespeare, Outfit Pack: Steam Greenlight'
+    packages:
+    - 263233
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        18 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        18 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Apr 9, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/842670/ss_1a7c3ee0e01fa18361571aa5a5320464f0d6034e.1920x1080.jpg?t=1528324693
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/842670/ss_1a7c3ee0e01fa18361571aa5a5320464f0d6034e.600x338.jpg?t=1528324693
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/842670/ss_84e3a2892e71bfb8cbf49536cc55b024df62393a.1920x1080.jpg?t=1528324693
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/842670/ss_84e3a2892e71bfb8cbf49536cc55b024df62393a.600x338.jpg?t=1528324693
+    short_description: Get this outfit pack and turn all your Shakespeare characters
+      into their original versions from the 2000-something version of the game.
+    steam_appid: 842670
+    support_info:
+      email: bryymiller@stegalosaurus.org
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://stegalosaurus.org
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

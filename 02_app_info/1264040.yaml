@@ -1,0 +1,137 @@
+details:
+  data:
+    about_the_game: 'The DLC Barro-Supporters is completely optional for you, but,
+      you can buy it if you want to support the game and help us keep the leaderboard
+      alive.<br><br><strong>Bonus race tracks:</strong><br><ul class="bb_ul"><li>
+      [Rain]Track #15<br></li><li> [Night]Track #16<br></li><li> [Fog]Track #20</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1264040/page_bg_generated_v6b.jpg?t=1594969188
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'The DLC Barro-Supporters is completely optional for you,
+      but, you can buy it if you want to support the game and help us keep the leaderboard
+      alive.<br><br><strong>Bonus race tracks:</strong><br><ul class="bb_ul"><li>
+      [Rain]Track #15<br></li><li> [Night]Track #16<br></li><li> [Fog]Track #20</li></ul>'
+    developers:
+    - SC Jogos
+    fullgame:
+      appid: '618140'
+      name: Barro
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1264040/header.jpg?t=1594969188
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Barro - Supporters
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Barro - Supporters - $0.99
+        packageid: 439523
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Barro - Supporters
+    packages:
+    - 439523
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Same as the base game</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - SC Jogos
+    release_date:
+      coming_soon: false
+      date: Mar 8, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1264040/ss_0565aad8b29077c276864edad536918e76aa2c2d.1920x1080.jpg?t=1594969188
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1264040/ss_0565aad8b29077c276864edad536918e76aa2c2d.600x338.jpg?t=1594969188
+    short_description: Barro Supporters
+    steam_appid: 1264040
+    support_info:
+      email: ''
+      url: https://steamcommunity.com/app/618140/discussions/
+    supported_languages: English
+    type: dlc
+    website: https://store.steampowered.com/publisher/scjogos
+  success: true
+reviews:
+  cursor: AoJwpLXVl/YCeOmptwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 1
+    total_positive: 4
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 5491
+      num_reviews: 17
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198048454251'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '81612440'
+    review: "bu dlc paketinde hem oyunun yap\u0131mc\u0131s\u0131na destek oluyorsunuz\
+      \ hemde 3 tane pist geliyor, oyunun oynama zaman\u0131n\u0131 art\u0131rmak\
+      \ i\xE7in daha fazla pist eklenebilirdi diye d\xFC\u015F\xFCn\xFCyorum."
+    steam_purchase: true
+    timestamp_created: 1607111912
+    timestamp_updated: 1607111912
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

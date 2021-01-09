@@ -1,0 +1,87 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1261810/page_bg_generated_v6b.jpg?t=1584597731
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Vixen's Ludum
+    fullgame:
+      appid: '1244300'
+      name: The Astro Parcel Service
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1261810/header.jpg?t=1584597731
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS Mojave<br></li><li><strong>Processor:</strong> 2.9 GHz Intel Core i7<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 1536
+        MB<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    name: The Astro Parcel Service Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 32-bit<br></li><li><strong>Processor:</strong> AMD FX-6300 Six-Core
+        Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 970<br></li><li><strong>Storage:</strong> 1 GB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        4 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Vixen's Ludum
+    release_date:
+      coming_soon: false
+      date: Mar 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_10f67af6f83d9d10b43f9b9d90a7c29f0cbba57c.1920x1080.jpg?t=1584597731
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_10f67af6f83d9d10b43f9b9d90a7c29f0cbba57c.600x338.jpg?t=1584597731
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_3fd8e261118baea65cc58cad949373d41c8acb5a.1920x1080.jpg?t=1584597731
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_3fd8e261118baea65cc58cad949373d41c8acb5a.600x338.jpg?t=1584597731
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_132ef4a67e07af2b380e1c5ef00744a5bf16561f.1920x1080.jpg?t=1584597731
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_132ef4a67e07af2b380e1c5ef00744a5bf16561f.600x338.jpg?t=1584597731
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_473ef6c828b014f8e9ee9c59bc667c3093aaf42d.1920x1080.jpg?t=1584597731
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_473ef6c828b014f8e9ee9c59bc667c3093aaf42d.600x338.jpg?t=1584597731
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_7e9b00a74d4420b06d0b45912ee53c9f8bedce5f.1920x1080.jpg?t=1584597731
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1261810/ss_7e9b00a74d4420b06d0b45912ee53c9f8bedce5f.600x338.jpg?t=1584597731
+    short_description: ''
+    steam_appid: 1261810
+    support_info:
+      email: ''
+      url: https://twitter.com/AstroParcel
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: Featuring all the vocal songs used in Shining Song Starnova.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/910821/page_bg_generated_v6b.jpg?t=1581992042
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Featuring all the vocal songs used in Shining Song Starnova.
+    developers:
+    - Love in Space
+    fullgame:
+      appid: '675240'
+      name: Shining Song Starnova
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/910821/header.jpg?t=1581992042
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Shining Song Starnova - Vocal Collection
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Shining Song Starnova - Vocal Collection - $9.99
+        packageid: 292053
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Shining Song Starnova - Vocal Collection
+    packages:
+    - 292053
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Sekai Project
+    release_date:
+      coming_soon: false
+      date: Sep 13, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/910821/ss_81e65acbfbc40dc515d774ae66a0bb278ee69d46.1920x1080.jpg?t=1581992042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/910821/ss_81e65acbfbc40dc515d774ae66a0bb278ee69d46.600x338.jpg?t=1581992042
+    short_description: Featuring all the vocal songs used in Shining Song Starnova.
+    steam_appid: 910821
+    support_info:
+      email: ''
+      url: https://sekaiproject.com/contact/
+    type: music
+    website: https://sekaiproject.com
+  success: true
+reviews:
+  cursor: AoJw6vDWlu0Cc9WX0gE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 346
+      num_reviews: 285
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198202221586'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '55098707'
+    review: 'Really, this is the first review? It''s really good!
+
+      It''s not listed, but it also includes ''Stars for Stars (inst)''.
+
+
+      Artists: Starnova, Quasar
+
+      Format: WAV
+
+      Bitrate: 4608 kbps
+
+      Total size on disk: 1.37 GB'
+    steam_purchase: true
+    timestamp_created: 1568424036
+    timestamp_updated: 1568424036
+    voted_up: true
+    votes_funny: 1
+    votes_up: 10
+    weighted_vote_score: '0.649415791034698486'
+    written_during_early_access: false
+  success: 1

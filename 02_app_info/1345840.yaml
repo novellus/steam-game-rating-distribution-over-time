@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: Original soundtrack of My Hidden Thing performed by the musical
+      collective &quot;I - Human&quot;. Relaxing tunes. Pianos and strings are used.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1345840/page_bg_generated_v6b.jpg?t=1592513089
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Original soundtrack of My Hidden Thing performed by the
+      musical collective &quot;I - Human&quot;. Relaxing tunes. Pianos and strings
+      are used.
+    developers:
+    - Six Dots
+    - I-Human
+    fullgame:
+      appid: '1304910'
+      name: My Hidden Things
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1345840/header.jpg?t=1592513089
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: My hidden things Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: My hidden things Soundtrack - $2.99
+        packageid: 470615
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy My hidden things Soundtrack
+    packages:
+    - 470615
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        80 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Six Dots
+    release_date:
+      coming_soon: false
+      date: Jun 18, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1345840/ss_a3b648b4d2656ed2a0ef936fa0ae16e46aa8c8fb.1920x1080.jpg?t=1592513089
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1345840/ss_a3b648b4d2656ed2a0ef936fa0ae16e46aa8c8fb.600x338.jpg?t=1592513089
+    short_description: Original soundtrack, relaxing tunes. Pianos and strings are
+      used.
+    steam_appid: 1345840
+    support_info:
+      email: sixdotsstudio@gmail.com
+      url: ''
+    type: music
+    website: https://soundcloud.com/ihuman0
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

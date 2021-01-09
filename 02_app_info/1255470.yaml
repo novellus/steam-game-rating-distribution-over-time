@@ -1,0 +1,101 @@
+details:
+  data:
+    about_the_game: "Original soundtrack by talented composer Anton Orsher.<br />\r\
+      \nAmazing electronic soundtrack composed with love and inspiration includes\
+      \ 18 tracks \u2013 all together one hour of great music.<br />\r\n<br />\r\n\
+      Immerse yourself into the songs of the stars and let you carry away meet travel!\
+      \ Stunning atmospheric Star Souls soundtrack will remind you of deep space and\
+      \ interstellar travel."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1255470/page_bg_generated_v6b.jpg?t=1583251636
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Original soundtrack by talented composer Anton Orsher.<br\
+      \ />\r\nAmazing electronic soundtrack composed with love and inspiration includes\
+      \ 18 tracks \u2013 all together one hour of great music.<br />\r\n<br />\r\n\
+      Immerse yourself into the songs of the stars and let you carry away meet travel!\
+      \ Stunning atmospheric Star Souls soundtrack will remind you of deep space and\
+      \ interstellar travel."
+    developers:
+    - DrankiKets
+    fullgame:
+      appid: '819520'
+      name: Star Souls
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1255470/header.jpg?t=1583251636
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256776152
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776152/movie480.mp4?t=1582656087
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776152/movie_max.mp4?t=1582656087
+      name: Star Souls Release Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256776152/movie.293x165.jpg?t=1582656087
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256776152/movie480.webm?t=1582656087
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256776152/movie_max.webm?t=1582656087
+    name: Star Souls Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Star Souls Soundtrack - $2.99
+        packageid: 435989
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Star Souls Soundtrack
+    packages:
+    - 435989
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - DrankiKets
+    release_date:
+      coming_soon: false
+      date: Mar 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255470/ss_eb837b044a69b6fd5d44cb301a96c5e5e97392dc.1920x1080.jpg?t=1583251636
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255470/ss_eb837b044a69b6fd5d44cb301a96c5e5e97392dc.600x338.jpg?t=1583251636
+    short_description: Star Souls original soundtrack.
+    steam_appid: 1255470
+    support_info:
+      email: starsoulskarolina@gmail.com
+      url: http://starsoulsgame.com/community/
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

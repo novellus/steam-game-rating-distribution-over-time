@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: Bikini costume.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1286253/page_bg_generated_v6b.jpg?t=1599498378
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: Install this DLC into the game
+    controller_support: full
+    detailed_description: Bikini costume.
+    developers:
+    - Corecell Technology
+    fullgame:
+      appid: '1234120'
+      name: AeternoBlade
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1286253/header.jpg?t=1599498378
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: AeternoBlade - Bikini Costume
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: AeternoBlade - Bikini Costume - $0.99
+        packageid: 448377
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy AeternoBlade - Bikini Costume
+    packages:
+    - 448377
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ WINDOWS\xAE 7, 8.1, 10<br></li><li><strong>Processor:</strong> intel Core\
+        \ i3<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\xAE GTX 460\
+        \ or better<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Corecell Technology Co.,Ltd
+    release_date:
+      coming_soon: false
+      date: Sep 7, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1286253/ss_3fbe6f8f6937c26a51d7b446170a47beb0622550.1920x1080.jpg?t=1599498378
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1286253/ss_3fbe6f8f6937c26a51d7b446170a47beb0622550.600x338.jpg?t=1599498378
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1286253/ss_46952156d6d35fc1d13a80840a63f52daa975029.1920x1080.jpg?t=1599498378
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1286253/ss_46952156d6d35fc1d13a80840a63f52daa975029.600x338.jpg?t=1599498378
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1286253/ss_c364400b6f78ef236a1d8abab2d2d4d8109fefca.1920x1080.jpg?t=1599498378
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1286253/ss_c364400b6f78ef236a1d8abab2d2d4d8109fefca.600x338.jpg?t=1599498378
+    short_description: Bikini costume.
+    steam_appid: 1286253
+    support_info:
+      email: ''
+      url: https://www.facebook.com/Corecellgame
+    supported_languages: English, Japanese, Thai
+    type: dlc
+    website: https://www.aeternoblade.com/ab1/index.html#story
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

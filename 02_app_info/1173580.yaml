@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: "The Flower on Christmas Eve collection of background CG<br />\r\
+      \n67 background graphics&amp;63 CG (including different time condition)"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1173580/page_bg_generated_v6b.jpg?t=1572610692
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: null
+    detailed_description: "The Flower on Christmas Eve collection of background CG<br\
+      \ />\r\n67 background graphics&amp;63 CG (including different time condition)"
+    developers:
+    - Luyin Studio
+    fullgame:
+      appid: '1127140'
+      name: "\u521D\u5F00\u5728\u5E73\u5B89\u591C\u4E4B\u82B1 -The Flower on Christmas\
+        \ Eve-"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1173580/header.jpg?t=1572610692
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Flower on Christmas Eve collection of background CG
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Flower on Christmas Eve collection of background CG - $1.99
+        packageid: 401872
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy The Flower on Christmas Eve collection of background CG
+    packages:
+    - 401872
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Win 7/8/10<br></li><li><strong>Processor:</strong> Intel Core2DUO 2GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 650<br></li><li><strong>Storage:</strong>
+        1000 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Luyin Studio
+    release_date:
+      coming_soon: false
+      date: Nov 1, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1173580/ss_39d1de013400f40bab28d53c6973a9b1dad1f232.1920x1080.jpg?t=1572610692
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1173580/ss_39d1de013400f40bab28d53c6973a9b1dad1f232.600x338.jpg?t=1572610692
+    short_description: "To play the music, you need to have the game \u201CThe Flower\
+      \ on Christmas Eve\u201D on Steam first."
+    steam_appid: 1173580
+    support_info:
+      email: ''
+      url: https://weibo.com/u/2778393163
+    supported_languages: Simplified Chinese
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

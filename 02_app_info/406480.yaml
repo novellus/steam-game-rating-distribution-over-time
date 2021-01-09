@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: "This is the XIIZeal Original Soundtrack.  Infused with high-flying\
+      \ energy and driving rhythms, the XIIZeal soundtrack completes the experience\
+      \ of playing the game.  <br />\r\n<br />\r\nIncludes 12 audio tracks in both\
+      \ lossless and mp3 formats.  Tracks will be downloaded to your XIIZeal Steam\
+      \ folder."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/406480/page_bg_generated_v6b.jpg?t=1586420785
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This is the XIIZeal Original Soundtrack.  Infused with\
+      \ high-flying energy and driving rhythms, the XIIZeal soundtrack completes the\
+      \ experience of playing the game.  <br />\r\n<br />\r\nIncludes 12 audio tracks\
+      \ in both lossless and mp3 formats.  Tracks will be downloaded to your XIIZeal\
+      \ Steam folder."
+    developers:
+    - TRIANGLE SERVICE
+    fullgame:
+      appid: '364250'
+      name: XIIZEAL
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/406480/header.jpg?t=1586420785
+    is_free: false
+    legal_notice: "\xA9TRIANGLE SERVICE"
+    linux_requirements: []
+    mac_requirements: []
+    name: XIIZEAL Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: XIIZEAL Soundtrack - $4.99
+        packageid: 80065
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Shooting Love Anniversary Edition XIIZEAL & DELTAZEAL - $19.99
+        packageid: 80975
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1999
+      title: Buy XIIZEAL Original Soundtrack
+    packages:
+    - 80065
+    - 80975
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 153 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Degica
+    release_date:
+      coming_soon: false
+      date: Oct 16, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_7f7c342db3fc9ae5eb2c653082db700197103649.1920x1080.jpg?t=1586420785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_7f7c342db3fc9ae5eb2c653082db700197103649.600x338.jpg?t=1586420785
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_e244281628efc2f127dc07d0e5d7f3ef026ad19b.1920x1080.jpg?t=1586420785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_e244281628efc2f127dc07d0e5d7f3ef026ad19b.600x338.jpg?t=1586420785
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_261b9066324bcd2a0674c477d39c6161f0e72384.1920x1080.jpg?t=1586420785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_261b9066324bcd2a0674c477d39c6161f0e72384.600x338.jpg?t=1586420785
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_960ad32a2a827526c25626fa583870af9beb0a46.1920x1080.jpg?t=1586420785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_960ad32a2a827526c25626fa583870af9beb0a46.600x338.jpg?t=1586420785
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_1ff67d71d2ff45f3cbb1d195ee162c76ddb4cf47.1920x1080.jpg?t=1586420785
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/406480/ss_1ff67d71d2ff45f3cbb1d195ee162c76ddb4cf47.600x338.jpg?t=1586420785
+    short_description: Enjoy the high-flying energy and driving rhythms of the XIIZeal
+      original soundtrack.
+    steam_appid: 406480
+    support_info:
+      email: games@degica.com
+      url: ''
+    supported_languages: English, Japanese, Simplified Chinese, Traditional Chinese
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

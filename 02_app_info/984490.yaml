@@ -1,0 +1,81 @@
+details:
+  data:
+    about_the_game: First 15 levels of the full game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/984490/page_bg_generated_v6b.jpg?t=1554233072
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: First 15 levels of the full game.
+    developers:
+    - Joe Hitchens
+    - Zach Foutz
+    fullgame:
+      appid: '984360'
+      name: Pocoman
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/984490/header.jpg?t=1554233072
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Pocoman Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Sleepless Software Inc.
+    release_date:
+      coming_soon: false
+      date: Apr 2, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_58e4a0c555285b9504ee495013a98c75466a276b.1920x1080.jpg?t=1554233072
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_58e4a0c555285b9504ee495013a98c75466a276b.600x338.jpg?t=1554233072
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_e87d670a24a79d9544942fc44b2dc382975869f9.1920x1080.jpg?t=1554233072
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_e87d670a24a79d9544942fc44b2dc382975869f9.600x338.jpg?t=1554233072
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_0822cde42cf037b7f228cd20a8286ab81b141eb2.1920x1080.jpg?t=1554233072
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_0822cde42cf037b7f228cd20a8286ab81b141eb2.600x338.jpg?t=1554233072
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_015879392d9a51c52079d0f06e01204845d258fb.1920x1080.jpg?t=1554233072
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_015879392d9a51c52079d0f06e01204845d258fb.600x338.jpg?t=1554233072
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_ebb00cf5e6adbc31bd6243134b13bc4765e27d9d.1920x1080.jpg?t=1554233072
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_ebb00cf5e6adbc31bd6243134b13bc4765e27d9d.600x338.jpg?t=1554233072
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_b77e6c1bdd902999584cd58e57f497968b3a0fe1.1920x1080.jpg?t=1554233072
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/984490/ss_b77e6c1bdd902999584cd58e57f497968b3a0fe1.600x338.jpg?t=1554233072
+    short_description: First 15 levels of the full game
+    steam_appid: 984490
+    support_info:
+      email: pocomansteamsupport@sleepless.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

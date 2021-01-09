@@ -1,0 +1,161 @@
+details:
+  data:
+    about_the_game: "Snake: Road to Apple snake is a nice classic game. Eating apples,\
+      \ earn points. Earn a maximum of points!<br />\r\n<br />\r\nSimple and addictive\
+      \ gameplay<br />\r\nUse arrow keys to move"
+    achievements:
+      highlighted:
+      - name: NEW_ACHIEVEMENT_NAME_1_0
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/101a8c0002e02b0c2946b51fffa55a4ad4f1c231.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/5888182d5faf01f6b65d3ba2dcfd6755fc88c9b8.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/821a8d1a77b8f7b3168cdbea5e287a084038a52f.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/c8720c8812a8fc2b603182f6c806b526f4269e7a.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/ca70baecba508f4997725474d6cfd5269e09e7c2.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/c093d7d7211b7216faca2f25dd373c136b2408c5.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/58fb428b45deb26205c6bf95377c93c915e83473.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/089491b87519d32ae327348426e2de50537f2e2c.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/20f3747d70536eb83762e8b2051949407715a702.jpg
+      - name: NEW_ACHIEVEMENT_NAME_1_9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/731230/639f50823d028ed49de257cbd8ec9ffbf7805649.jpg
+      total: 3000
+    background: https://steamcdn-a.akamaihd.net/steam/apps/731230/page_bg_generated_v6b.jpg?t=1511512471
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Snake: Road to Apple snake is a nice classic game. Eating\
+      \ apples, earn points. Earn a maximum of points!<br />\r\n<br />\r\nSimple and\
+      \ addictive gameplay<br />\r\nUse arrow keys to move"
+    developers:
+    - ANV Team
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/731230/header.jpg?t=1511512471
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256699005
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699005/movie480.mp4?t=1509004520
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699005/movie_max.mp4?t=1509004520
+      name: 'Snake: Road to apple'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256699005/movie.293x165.jpg?t=1509004520
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256699005/movie480.webm?t=1509004520
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256699005/movie_max.webm?t=1509004520
+    name: 'Snake: Road to apple'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Snake: Road to apple - $0.99'
+        packageid: 213314
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Snake: Road to apple'
+    packages:
+    - 213314
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Window 7 and higher<br></li><li><strong>Processor:</strong> 2.4 GHz Intel\xAE\
+        \ Core\u21222 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA GeForce 450 or higher with 1GB Memory<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ANV Team
+    release_date:
+      coming_soon: false
+      date: Nov 24, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_2ab0a0a2166b068f781220a8a591fc15af9fb2b2.1920x1080.jpg?t=1511512471
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_2ab0a0a2166b068f781220a8a591fc15af9fb2b2.600x338.jpg?t=1511512471
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_82d3469261f6d1810d8919e0c9108ff549c965a1.1920x1080.jpg?t=1511512471
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_82d3469261f6d1810d8919e0c9108ff549c965a1.600x338.jpg?t=1511512471
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_52ebc12fd364d7fa6ecf0189ed97b16172b43887.1920x1080.jpg?t=1511512471
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_52ebc12fd364d7fa6ecf0189ed97b16172b43887.600x338.jpg?t=1511512471
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_a12aa0c3fe6f83907ee4a68a12816eaef12a45ca.1920x1080.jpg?t=1511512471
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_a12aa0c3fe6f83907ee4a68a12816eaef12a45ca.600x338.jpg?t=1511512471
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_50f671363773e7de79a0907513adc4d93ba2304f.1920x1080.jpg?t=1511512471
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/731230/ss_50f671363773e7de79a0907513adc4d93ba2304f.600x338.jpg?t=1511512471
+    short_description: 'Snake: Road to Apple snake is a nice classic game. Eating
+      apples, earn points. Earn a maximum of points!'
+    steam_appid: 731230
+    support_info:
+      email: anv.team17@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw6suRpPYCeOi1uAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 10
+    total_positive: 22
+    total_reviews: 32
+  reviews:
+  - author:
+      last_played: 1587510557
+      num_games_owned: 33
+      num_reviews: 8
+      playtime_at_review: 31
+      playtime_forever: 31
+      playtime_last_two_weeks: 0
+      steamid: '76561198299194576'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81899144'
+    review: best game
+    steam_purchase: true
+    timestamp_created: 1607530340
+    timestamp_updated: 1607530340
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

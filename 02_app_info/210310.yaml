@@ -1,0 +1,54 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Devil's Details
+    fullgame:
+      appid: '203750'
+      name: Binary Domain
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/210310/header.jpg?t=1447355639
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 68
+    name: Binary Domain Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - SEGA
+    release_date:
+      coming_soon: false
+      date: Apr 27, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 210310
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

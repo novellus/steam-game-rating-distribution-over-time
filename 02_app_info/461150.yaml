@@ -1,0 +1,110 @@
+details:
+  data:
+    about_the_game: The soundtrack to Fallout 3.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/461150/page_bg_generated_v6b.jpg?t=1581547711
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The soundtrack to Fallout 3.
+    developers:
+    - Bethesda Game Studios
+    fullgame:
+      appid: '22300'
+      name: Fallout 3
+    genres:
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/461150/header.jpg?t=1581547711
+    is_free: false
+    legal_notice: "Fallout\xAE 3\xA9 2008 Bethesda Softworks LLC, a ZeniMax Media\
+      \ company. Bethesda Softworks, Bethesda Game Studios, ZeniMax and related logos\
+      \ are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S.\
+      \ and/or other countries. Fallout, Prepare for the Future and related logos\
+      \ are trademarks or registered trademarks of Bethesda Softworks LLC in the U.S.\
+      \ and/or other countries."
+    linux_requirements: []
+    mac_requirements: []
+    name: Fallout 3 - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Fallout 3 - Soundtrack - $11.99
+        packageid: 100569
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1199
+      title: Buy Fallout 3 - Soundtrack
+    packages:
+    - 100569
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        196 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1199
+      final_formatted: $11.99
+      initial: 1199
+      initial_formatted: ''
+    publishers:
+    - Bethesda Softworks
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2018
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461150/ss_b4e4f4c31a0a540aabee29b08d273cc2d45c5597.1920x1080.jpg?t=1581547711
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461150/ss_b4e4f4c31a0a540aabee29b08d273cc2d45c5597.600x338.jpg?t=1581547711
+    short_description: The soundtrack to Fallout 3.
+    steam_appid: 461150
+    support_info:
+      email: ''
+      url: http://support.bethsoft.com
+    supported_languages: English, French, Italian, German, Spanish - Spain
+    type: music
+    website: http://fallout.bethsoft.com
+  success: true
+reviews:
+  cursor: AoJw/+PN2/MCceafmQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 842
+      num_reviews: 85
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198000858828'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '73727585'
+    review: '[h1] [b] Fajne post apokaliptyczne nuty Polecam!'
+    steam_purchase: true
+    timestamp_created: 1596506710
+    timestamp_updated: 1596506710
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.497942358255386353'
+    written_during_early_access: false
+  success: 1

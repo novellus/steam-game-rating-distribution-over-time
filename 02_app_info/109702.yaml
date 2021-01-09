@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: '<p>Includes the Achron Original Soundtrack in MP3 format.</p>
+
+      <p><strong>Songs will be placed in your Achron folder in the Steam Directory:
+      ..."Steam\steamapps\common\Achron\music"</strong></p>
+
+      '
+    background: https://steamcdn-a.akamaihd.net/steam/apps/109702/page_bg_generated_v6b.jpg?t=1447354638
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<p>Includes the Achron Original Soundtrack in MP3 format.</p>
+
+      <p><strong>Songs will be placed in your Achron folder in the Steam Directory:
+      ..."Steam\steamapps\common\Achron\music"</strong></p>
+
+      '
+    developers:
+    - Hazardous Software Inc.
+    fullgame:
+      appid: '109700'
+      name: Achron
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/109702/header.jpg?t=1447354638
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Achron Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Achron Soundtrack - $4.99
+        packageid: 11364
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Achron + Soundtrack - $24.98
+        packageid: 11362
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2498
+      title: Buy Achron Soundtrack
+    packages:
+    - 11364
+    - 11362
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Hazardous Software Inc.
+    release_date:
+      coming_soon: false
+      date: Aug 29, 2011
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_0c2e083e9633f65d032ddae081804527d1fdde7f.1920x1080.jpg?t=1447354638
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_0c2e083e9633f65d032ddae081804527d1fdde7f.600x338.jpg?t=1447354638
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_4a3653aefd7597853b156e1432369ddc1c5f97fc.1920x1080.jpg?t=1447354638
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_4a3653aefd7597853b156e1432369ddc1c5f97fc.600x338.jpg?t=1447354638
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_980d8d8c8d58d9131f96713927f9b0d4c700d1cc.1920x1080.jpg?t=1447354638
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_980d8d8c8d58d9131f96713927f9b0d4c700d1cc.600x338.jpg?t=1447354638
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_7d736d3b79f5d25ce8c7a03ab1e2ca051bc30f00.1920x1080.jpg?t=1447354638
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_7d736d3b79f5d25ce8c7a03ab1e2ca051bc30f00.600x338.jpg?t=1447354638
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_9dfd4dacd6b20430d2ac5c3d82bf4ec47a3780f8.1920x1080.jpg?t=1447354638
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_9dfd4dacd6b20430d2ac5c3d82bf4ec47a3780f8.600x338.jpg?t=1447354638
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_ef3f33d3ffacfbca64ddd7f43189ceb00b6eb180.1920x1080.jpg?t=1447354638
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/109702/ss_ef3f33d3ffacfbca64ddd7f43189ceb00b6eb180.600x338.jpg?t=1447354638
+    short_description: 'Includes the Achron Original Soundtrack in MP3 format. Songs
+      will be placed in your Achron folder in the Steam Directory: ...'
+    steam_appid: 109702
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

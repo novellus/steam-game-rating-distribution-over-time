@@ -1,0 +1,68 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Luc Bernard & SilverSphereStudios
+    fullgame:
+      appid: '19500'
+      name: Eternity's Child
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/19510/header.jpg?t=1447351416
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Eternity's Child Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>                        \n\t\t\t\t\
+        \t<ul>                        \n\t\t\t\t\t<li><strong>Supported OS: </strong>Windows\
+        \ XP/ Windows Vista</li>                        \n\t\t\t\t\t<li><strong>Processor:\
+        \ </strong>2.0 ghz Intel Celeron (2.0ghz Pentium 4 suggested)</li>       \
+        \                 \n\t\t\t\t\t<li><strong>Memory: </strong>256mb (512mb suggested)</li>\
+        \                        \n\t\t\t\t\t<li><strong>Graphics: </strong>OpenGL\
+        \ 2.0 compatible video card (128mb video ram suggested)</li>             \
+        \           \n\t\t\t\t\t<li><strong>Sound: </strong>DirectX 9.0 compliant\
+        \ sound device </li>                        \n\t\t\t\t\t<li><strong>Hard Drive:\
+        \ </strong>50 MB </li>                        </ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Silver Sphere Studios
+    release_date:
+      coming_soon: false
+      date: Aug 15, 2008
+    required_age: 0
+    short_description: ''
+    steam_appid: 19510
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: "Black Ice, by V-Axys features over an hour of music created exclusively\
+      \ for the game. This includes high quality MP3s at 320kbps.<br />\r\n<br />\r\
+      \nNow includes an additional 20 minutes of music, new in 2020!"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/316680/page_bg_generated_v6b.jpg?t=1589771833
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Black Ice, by V-Axys features over an hour of music created\
+      \ exclusively for the game. This includes high quality MP3s at 320kbps.<br />\r\
+      \n<br />\r\nNow includes an additional 20 minutes of music, new in 2020!"
+    developers:
+    - V-Axys
+    fullgame:
+      appid: '311800'
+      name: Black Ice
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/316680/header.jpg?t=1589771833
+    is_free: false
+    legal_notice: All other trademarks are the property of their respective owners.  This
+      game uses procedurally generated content to create many things, including corporation
+      names. Any similarities to any real entities are unintended.
+    linux_requirements: []
+    mac_requirements: []
+    name: Black Ice Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Black Ice Original Soundtrack - Level One - $7.99
+        packageid: 48503
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy Black Ice Original Soundtrack
+    packages:
+    - 48503
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Super Duper Game Company
+    release_date:
+      coming_soon: false
+      date: Jul 29, 2014
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/316680/ss_24c80e39c98aa1e4c8dd90a6e98592b332d93294.1920x1080.jpg?t=1589771833
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/316680/ss_24c80e39c98aa1e4c8dd90a6e98592b332d93294.600x338.jpg?t=1589771833
+    short_description: Black Ice - Level One, by V-Axys features over an hour of music
+      created exclusively for the game. This includes high quality MP3s at 320kbps.
+    steam_appid: 316680
+    support_info:
+      email: support@blackicegame.com
+      url: http://www.superdupergc.com
+    supported_languages: English
+    type: music
+    website: http://v-axys.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

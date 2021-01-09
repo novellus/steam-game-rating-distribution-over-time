@@ -1,0 +1,84 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Hyper Hippo Games
+    genres:
+    - description: Action
+      id: '1'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/371070/header.jpg?t=1447374584
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.6+<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2+
+        GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        150 MB available space<br></li><li><strong>Additional Notes:</strong> Requires
+        at least one external controller. Xbox and Playstation controllers recommended.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Intel i5 2.8+ GHz<br></li><li><strong>Processor:</strong> Intel i5 2.8+ GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Requires at least one external controllers.</li></ul>
+    name: Janky Tanks Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2+
+        GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Requires at least one external controller. Xbox and Playstation
+        controllers recommended.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> Intel i5 2.8+ GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        150 MB available space<br></li><li><strong>Additional Notes:</strong> Requires
+        at least one external controllers.</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Hyper Hippo Games
+    release_date:
+      coming_soon: false
+      date: May 22, 2015
+    required_age: 0
+    short_description: ''
+    steam_appid: 371070
+    support_info:
+      email: info@hyperhippo.ca
+      url: http://www.hyperhippo.ca
+    supported_languages: English
+    type: demo
+    website: http://www.hyperhippo.ca
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

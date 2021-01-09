@@ -1,0 +1,72 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Peter Simmons
+    fullgame:
+      appid: '928350'
+      name: Steven the Sperm
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/932060/header.jpg?t=1592941671
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS High Sierra 10.13<br></li><li><strong>Additional Notes:</strong> If
+        your Mac can run macOS 10.13, it can run Steven the Sperm.</li></ul>
+    name: Steven the Sperm Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 (SP1)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Additional
+        Notes:</strong> STS should function properly on any computer that can run
+        other steam games comfortably.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        16 GB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Perfect Acorn
+    release_date:
+      coming_soon: false
+      date: Aug 29, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 932060
+    support_info:
+      email: perfectacorn@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

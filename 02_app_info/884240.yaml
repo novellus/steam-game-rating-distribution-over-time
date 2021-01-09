@@ -1,0 +1,110 @@
+details:
+  data:
+    about_the_game: "Control the ball by arrow controls Or A,S,D,W buttons..<br />\r\
+      \nControl the camera by The space button.<br />\r\nyou are able to move the\
+      \ camera in 4 direction in &quot;horizontal&quot;...<br />\r\nThe aim of the\
+      \ game is to balance the ball &amp; avoid the ball from falling down..<br />\r\
+      \nYou will see some traps on your way...<br />\r\nThis game has 8 levels...<br\
+      \ />\r\n<br />\r\nThe Quality Of The Game Graphic Could Be Different From Device\
+      \ To Device"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/884240/page_bg_generated_v6b.jpg?t=1605159567
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Control the ball by arrow controls Or A,S,D,W buttons..<br\
+      \ />\r\nControl the camera by The space button.<br />\r\nyou are able to move\
+      \ the camera in 4 direction in &quot;horizontal&quot;...<br />\r\nThe aim of\
+      \ the game is to balance the ball &amp; avoid the ball from falling down..<br\
+      \ />\r\nYou will see some traps on your way...<br />\r\nThis game has 8 levels...<br\
+      \ />\r\n<br />\r\nThe Quality Of The Game Graphic Could Be Different From Device\
+      \ To Device"
+    developers:
+    - UNDER WATER
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/884240/header.jpg?t=1605159567
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+    name: The Edge Ball
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Edge Ball - $0.99
+        packageid: 281008
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy The Edge Ball
+    packages:
+    - 281008
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - UNDER WATER
+    release_date:
+      coming_soon: false
+      date: Jul 3, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/884240/ss_9960053788d3b202951f8ff87932f105804b26c0.1920x1080.jpg?t=1605159567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/884240/ss_9960053788d3b202951f8ff87932f105804b26c0.600x338.jpg?t=1605159567
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/884240/ss_40ed0a4a40cf50a55b1e15b1e317ebe06ca190e6.1920x1080.jpg?t=1605159567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/884240/ss_40ed0a4a40cf50a55b1e15b1e317ebe06ca190e6.600x338.jpg?t=1605159567
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/884240/ss_a0d54809d7df214ebab5148c166439f36bffbb38.1920x1080.jpg?t=1605159567
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/884240/ss_a0d54809d7df214ebab5148c166439f36bffbb38.600x338.jpg?t=1605159567
+    short_description: Balance The Ball.
+    steam_appid: 884240
+    support_info:
+      email: gamesk621@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

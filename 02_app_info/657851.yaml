@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '653340'
+      name: Minami Kamakura High School Girls Cycling Club
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/653340/header.jpg?t=1553552050
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Minami Kamakura High School Girls Cycling Club: The Road Keeps Going'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Minami Kamakura High School Girls Cycling Club: The Road Keeps
+          Going - $1.99'
+        packageid: 185853
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Minami Kamakura High School Girls Cycling Club: The Road Keeps Going'
+    packages:
+    - 185853
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: The cycling club submits a report on their ride around Miura
+      Peninsula to school principal Ryuko and demand she recognize them as an official
+      club. However, after reading the report, Ryuko informs them she can't.
+    steam_appid: 657851
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

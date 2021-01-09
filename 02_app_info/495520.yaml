@@ -1,0 +1,183 @@
+details:
+  data:
+    about_the_game: PING PONG LEAGUE is a VR table tennis game where you can enjoy
+      a real match experience.<br>You can enjoy the feeling of an actual table tennis
+      by tossing and serving the ball, and hitting back to a different direction by
+      adjusting the angle of the racket.<br>You also can walk freely in the stadium
+      and enjoy playing basketball free throw and more(while the menu window is off).<h2
+      class="bb_tag">Multi-player</h2><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/495520/extras/match2_600_188.png?t=1488776265"
+      /><br>Compete with other players from all around the world, interact with voice
+      chat and hand gesture. You also can enjoy competing for weekly ranking.<h2 class="bb_tag">Single-player</h2><img
+      src="https://cdn.cloudflare.steamstatic.com/steam/apps/495520/extras/aimatch5_600_188.png?t=1488776265"
+      /><br>Have quick fun with arcade mode in Easy, Normal, and Hard modes. You also
+      can enjoy competing for high score.<h2 class="bb_tag">Invite Friend</h2>With
+      Steam friends, compete for table tennis.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/495520/page_bg_generated_v6b.jpg?t=1488776265
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: PING PONG LEAGUE is a VR table tennis game where you can
+      enjoy a real match experience.<br>You can enjoy the feeling of an actual table
+      tennis by tossing and serving the ball, and hitting back to a different direction
+      by adjusting the angle of the racket.<br>You also can walk freely in the stadium
+      and enjoy playing basketball free throw and more(while the menu window is off).<h2
+      class="bb_tag">Multi-player</h2><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/495520/extras/match2_600_188.png?t=1488776265"
+      /><br>Compete with other players from all around the world, interact with voice
+      chat and hand gesture. You also can enjoy competing for weekly ranking.<h2 class="bb_tag">Single-player</h2><img
+      src="https://cdn.cloudflare.steamstatic.com/steam/apps/495520/extras/aimatch5_600_188.png?t=1488776265"
+      /><br>Have quick fun with arcade mode in Easy, Normal, and Hard modes. You also
+      can enjoy competing for high score.<h2 class="bb_tag">Invite Friend</h2>With
+      Steam friends, compete for table tennis.
+    developers:
+    - Cover Corp.
+    genres:
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/495520/header.jpg?t=1488776265
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256679097
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679097/movie480.mp4?t=1488248762
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679097/movie_max.mp4?t=1488248762
+      name: Multi
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256679097/movie.293x165.jpg?t=1488248762
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679097/movie480.webm?t=1488248762
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679097/movie_max.webm?t=1488248762
+    - highlight: true
+      id: 256679093
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679093/movie480.mp4?t=1488248774
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679093/movie_max.mp4?t=1488248774
+      name: single
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256679093/movie.293x165.jpg?t=1488248774
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679093/movie480.webm?t=1488248774
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679093/movie_max.webm?t=1488248774
+    - highlight: true
+      id: 256680799
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256680799/movie480.mp4?t=1488776257
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256680799/movie_max.mp4?t=1488776257
+      name: Switch
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256680799/movie.293x165.jpg?t=1488776257
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256680799/movie480.webm?t=1488776257
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256680799/movie_max.webm?t=1488776257
+    - highlight: true
+      id: 256679100
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679100/movie480.mp4?t=1488248788
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679100/movie_max.mp4?t=1488248788
+      name: Basketball
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256679100/movie.293x165.jpg?t=1488248788
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256679100/movie480.webm?t=1488248788
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256679100/movie_max.webm?t=1488248788
+    name: Ping Pong League
+    package_groups:
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$8.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $8.99 for a month, then $9.99 / month
+        packageid: 158880
+        percent_savings: 0
+        percent_savings_text: ' Intro Offer'
+        price_in_cents_with_discount: 899
+      title: Buy Ping Pong League Subscription Plan
+    packages:
+    - 158880
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel i5-4590\
+        \ / AMD FX 8350<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA GeForce\xAE GTX 970 / AMD Radeon\u2122 R9 290 equivalent or greater</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Cover Corp.
+    release_date:
+      coming_soon: false
+      date: Feb 27, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_34f9e60a27818bfd26977decf7c29f0c6e54eef0.1920x1080.jpg?t=1488776265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_34f9e60a27818bfd26977decf7c29f0c6e54eef0.600x338.jpg?t=1488776265
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_15b04782a7477bb79b05e26c95e938fbe60c0f84.1920x1080.jpg?t=1488776265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_15b04782a7477bb79b05e26c95e938fbe60c0f84.600x338.jpg?t=1488776265
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_4155030aa3b823e5875661b52f7fd755c66b0932.1920x1080.jpg?t=1488776265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_4155030aa3b823e5875661b52f7fd755c66b0932.600x338.jpg?t=1488776265
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_b72b09429f95a9591bc1389a448d80ccb81baeca.1920x1080.jpg?t=1488776265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_b72b09429f95a9591bc1389a448d80ccb81baeca.600x338.jpg?t=1488776265
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_a702295f110b9abd3c3de7f73a6d3f3b242e99d3.1920x1080.jpg?t=1488776265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/495520/ss_a702295f110b9abd3c3de7f73a6d3f3b242e99d3.600x338.jpg?t=1488776265
+    short_description: PING PONG LEAGUE is a VR table tennis game where you can enjoy
+      a real match experience. You can enjoy AI match and multi-player match, and
+      walk freely in the stadium and enjoy playing basketball free throw!
+    steam_appid: 495520
+    support_info:
+      email: info@cover-corp.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4wJbvwtoCf9yvcw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1501188106
+      num_games_owned: 262
+      num_reviews: 31
+      playtime_at_review: 33
+      playtime_forever: 73
+      playtime_last_two_weeks: 0
+      steamid: '76561198117525308'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '30244303'
+    review: "Cooles Game :) Das macht echt Laune und wenn man bissl ge\xFCbt hat,\
+      \ dem echten schon sehr nahe. Das ganze Kostenlos, absolut Top!!! Danke\n\n\
+      Was fehlt, das wenn der Ball den Schl\xE4ger trifft, das dieser entspechend\
+      \ Vibriert :)\n\n\n"
+    steam_purchase: true
+    timestamp_created: 1488302421
+    timestamp_updated: 1488302421
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.502487540245056152'
+    written_during_early_access: false
+  success: 1

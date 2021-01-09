@@ -1,0 +1,145 @@
+details:
+  data:
+    about_the_game: Prism is a 2D puzzle game where you attempt to light up a set
+      of colored targets with appropriately colored lasers. Use mirrors to reflect
+      lasers, beam splitters to duplicate them, and splitfusors to combine primary
+      colors into secondary, or split secondary colors into primaries.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/787960/page_bg_generated_v6b.jpg?t=1518051989
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Prism is a 2D puzzle game where you attempt to light up
+      a set of colored targets with appropriately colored lasers. Use mirrors to reflect
+      lasers, beam splitters to duplicate them, and splitfusors to combine primary
+      colors into secondary, or split secondary colors into primaries.
+    developers:
+    - Lightray Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/787960/header.jpg?t=1518051989
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256706110
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256706110/movie480.mp4?t=1516850211
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256706110/movie_max.mp4?t=1516850211
+      name: PrismTrailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256706110/movie.293x165.jpg?t=1516850211
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256706110/movie480.webm?t=1516850211
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256706110/movie_max.webm?t=1516850211
+    name: Prism
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Prism - $0.99
+        packageid: 238093
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Prism
+    packages:
+    - 238093
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP/7/10<br></li><li><strong>Processor:</strong> 2 Ghz Dual Core<br></li><li><strong>Memory:</strong>
+        200 MB RAM<br></li><li><strong>Graphics:</strong> Graphics card supporting
+        DirectX 9.0c<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Lightray Games
+    release_date:
+      coming_soon: false
+      date: Feb 7, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_3fb091943216032ab1e06368132fe7f578c7cfa7.1920x1080.jpg?t=1518051989
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_3fb091943216032ab1e06368132fe7f578c7cfa7.600x338.jpg?t=1518051989
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_1689e682b46abd71a24a28bda2f0aee3a7330c8c.1920x1080.jpg?t=1518051989
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_1689e682b46abd71a24a28bda2f0aee3a7330c8c.600x338.jpg?t=1518051989
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_8cf9c1f9eadee4e0a75c027712f9ab07ee246f78.1920x1080.jpg?t=1518051989
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_8cf9c1f9eadee4e0a75c027712f9ab07ee246f78.600x338.jpg?t=1518051989
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_62f35161a7964e10da246780bc8398f4bbe20470.1920x1080.jpg?t=1518051989
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_62f35161a7964e10da246780bc8398f4bbe20470.600x338.jpg?t=1518051989
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_8363c983cba73b7ce6df483c2fb4882206746f4a.1920x1080.jpg?t=1518051989
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_8363c983cba73b7ce6df483c2fb4882206746f4a.600x338.jpg?t=1518051989
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_53ccc8a5a1a0a615a1454d9ee887153d3289531d.1920x1080.jpg?t=1518051989
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/787960/ss_53ccc8a5a1a0a615a1454d9ee887153d3289531d.600x338.jpg?t=1518051989
+    short_description: Reflect, split, and combine colored lasers to light up sets
+      of colored targets.
+    steam_appid: 787960
+    support_info:
+      email: lightraygames@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ43b3Cm/UCe/a2qAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1602641566
+      num_games_owned: 392
+      num_reviews: 2
+      playtime_at_review: 4674
+      playtime_forever: 4674
+      playtime_last_two_weeks: 0
+      steamid: '76561198016228219'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77707115'
+    review: Good thinking man's(or woman's) game.  Takes a bit of imagination to determine
+      how to place the mirrors and prisms to get the light the right color and to
+      steer the colors into the proper destinations.
+    steam_purchase: true
+    timestamp_created: 1602946199
+    timestamp_updated: 1602946199
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

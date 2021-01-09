@@ -1,0 +1,146 @@
+details:
+  data:
+    about_the_game: 'Desktop+ is a powerful, yet lightweight tool for SteamVR bringing
+      your desktops and windows into the VR world. No matter if you just need a more
+      reliable desktop view in your dashboard or a complex context-aware multi-overlay
+      setup with custom shortcuts, Desktop+ offers a wide array of tweakable settings
+      to make the overlays fit <i>your</i> needs.<h2 class="bb_tag">Features</h2><ul
+      class="bb_ul"><li> User interface with real-time adjustments accessible in VR
+      or on desktop<br></li><li> Smooth, low-latency mirroring of desktops and windows<br></li><li>
+      Low memory footprint and performance impact<br></li><li> Support for creating
+      as many overlays as SteamVR allows at once<br></li><li> Customizable overlay
+      settings (width, position, curvature, opacity, cropping), with switchable profiles<br></li><li>
+      3D support (SBS, HSBS, OU, HOU)<br></li><li> Overlay visibility and origin settings:
+      Display a desktop/window during gameplay or attach it to a different origin
+      (play space, dashboard, HMD, controllers, tracker)<br></li><li> Actions: User-definable
+      functions (input simulation, running applications) which can be bound to controller
+      or UI buttons<br></li><li> Keyboard Extension, enabling use of modifier, arrow
+      and function keys from the SteamVR keyboard<br></li><li> Elevated access toggle,
+      making it possible to deal with UAC prompts and other UIP-restricted UI in VR
+      without using full admin-access at all times<br></li><li> Gaze Fade: Fade-out
+      overlay when not looking at it<br></li><li> Window Management: Change window
+      focus depending on overlay/dashboard state or drag overlays when dragging the
+      title bar of a mirrored window</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1494460/page_bg_generated_v6b.jpg?t=1609519475
+    categories:
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'Desktop+ is a powerful, yet lightweight tool for SteamVR
+      bringing your desktops and windows into the VR world. No matter if you just
+      need a more reliable desktop view in your dashboard or a complex context-aware
+      multi-overlay setup with custom shortcuts, Desktop+ offers a wide array of tweakable
+      settings to make the overlays fit <i>your</i> needs.<h2 class="bb_tag">Features</h2><ul
+      class="bb_ul"><li> User interface with real-time adjustments accessible in VR
+      or on desktop<br></li><li> Smooth, low-latency mirroring of desktops and windows<br></li><li>
+      Low memory footprint and performance impact<br></li><li> Support for creating
+      as many overlays as SteamVR allows at once<br></li><li> Customizable overlay
+      settings (width, position, curvature, opacity, cropping), with switchable profiles<br></li><li>
+      3D support (SBS, HSBS, OU, HOU)<br></li><li> Overlay visibility and origin settings:
+      Display a desktop/window during gameplay or attach it to a different origin
+      (play space, dashboard, HMD, controllers, tracker)<br></li><li> Actions: User-definable
+      functions (input simulation, running applications) which can be bound to controller
+      or UI buttons<br></li><li> Keyboard Extension, enabling use of modifier, arrow
+      and function keys from the SteamVR keyboard<br></li><li> Elevated access toggle,
+      making it possible to deal with UAC prompts and other UIP-restricted UI in VR
+      without using full admin-access at all times<br></li><li> Gaze Fade: Fade-out
+      overlay when not looking at it<br></li><li> Window Management: Change window
+      focus depending on overlay/dashboard state or drag overlays when dragging the
+      title bar of a mirrored window</li></ul>'
+    developers:
+    - elvissteinjr
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1494460/header.jpg?t=1609519475
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256812626
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256812626/movie480.mp4?t=1609519463
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256812626/movie_max.mp4?t=1609519463
+      name: Introducing Desktop+
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256812626/movie.293x165.jpg?t=1609519463
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256812626/movie480_vp9.webm?t=1609519463
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256812626/movie_max_vp9.webm?t=1609519463
+    name: Desktop+
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 8
+        or newer<br></li><li><strong>Processor:</strong> Intel Core i5-4590/AMD FX
+        8350 equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 4 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Window capture requires Windows 10 version 1803 or newer</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 version 2004 or newer</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - elvissteinjr
+    release_date:
+      coming_soon: false
+      date: Jan 1, 2021
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_3418197891a8ca9f9fb141570a668ca2445c53a4.1920x1080.jpg?t=1609519475
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_3418197891a8ca9f9fb141570a668ca2445c53a4.600x338.jpg?t=1609519475
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_45e711c4effeb0b9af43df3688f82930257da1b8.1920x1080.jpg?t=1609519475
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_45e711c4effeb0b9af43df3688f82930257da1b8.600x338.jpg?t=1609519475
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_29b2d19d39705c4d832878c743a010c634571fe4.1920x1080.jpg?t=1609519475
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_29b2d19d39705c4d832878c743a010c634571fe4.600x338.jpg?t=1609519475
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_024e8c64f6fdfc727519ef999a9318e1cce357e7.1920x1080.jpg?t=1609519475
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_024e8c64f6fdfc727519ef999a9318e1cce357e7.600x338.jpg?t=1609519475
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_e03f2b5cf7db5a336198b3f44183d0a95a39cb28.1920x1080.jpg?t=1609519475
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_e03f2b5cf7db5a336198b3f44183d0a95a39cb28.600x338.jpg?t=1609519475
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_ad8210d1a0a78d1134845fd9d77e932fa9af4235.1920x1080.jpg?t=1609519475
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_ad8210d1a0a78d1134845fd9d77e932fa9af4235.600x338.jpg?t=1609519475
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_c12d225b55052eea8a98f5ea615f7fd95edcefd1.1920x1080.jpg?t=1609519475
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494460/ss_c12d225b55052eea8a98f5ea615f7fd95edcefd1.600x338.jpg?t=1609519475
+    short_description: Desktop+ is a utility application for SteamVR enabling you
+      advanced access to your desktops and windows from within VR. Pull your screen
+      into the VR world, attach windows to your controllers, view 3D content and more.
+    steam_appid: 1494460
+    support_info:
+      email: desktopplus@elvissteinjr.net
+      url: ''
+    supported_languages: English
+    type: game
+    website: https://github.com/elvissteinjr/DesktopPlus
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

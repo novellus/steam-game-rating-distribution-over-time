@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: This demo includes the first 12 levels of the game. Since the
+      game is still under development, everything you see in the demo is subject to
+      change.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1327910/page_bg_generated_v6b.jpg?t=1592327479
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids:
+      - 5
+      notes: The game includes cartoon violence and excessive amounts of blood.
+    controller_support: full
+    detailed_description: This demo includes the first 12 levels of the game. Since
+      the game is still under development, everything you see in the demo is subject
+      to change.
+    developers:
+    - Mors Games
+    - Spectral Escape Team
+    fullgame:
+      appid: '1033190'
+      name: Spectral Escape
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1327910/header.jpg?t=1592327479
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Spectral Escape Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Mors Games
+    release_date:
+      coming_soon: false
+      date: Jun 16, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_22fbf9a6e13a45d22648b477de6f0b9a621bb444.1920x1080.jpg?t=1592327479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_22fbf9a6e13a45d22648b477de6f0b9a621bb444.600x338.jpg?t=1592327479
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_fbeb7b6475373c87574cf5e0b3d37483e14cc96a.1920x1080.jpg?t=1592327479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_fbeb7b6475373c87574cf5e0b3d37483e14cc96a.600x338.jpg?t=1592327479
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_70998abbd2c835f97a8d2a66c73f56e8dc9e82e6.1920x1080.jpg?t=1592327479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_70998abbd2c835f97a8d2a66c73f56e8dc9e82e6.600x338.jpg?t=1592327479
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_513e15ed84fa96d2c5133aa7fb3f346777c492e9.1920x1080.jpg?t=1592327479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_513e15ed84fa96d2c5133aa7fb3f346777c492e9.600x338.jpg?t=1592327479
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_ce291f653564af88caa7d69b339068b9f81e86bb.1920x1080.jpg?t=1592327479
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1327910/ss_ce291f653564af88caa7d69b339068b9f81e86bb.600x338.jpg?t=1592327479
+    short_description: This demo includes the first 12 levels of the game.
+    steam_appid: 1327910
+    support_info:
+      email: morsgames8@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://spectral.mors-games.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,79 @@
+details:
+  data:
+    about_the_game: Hi
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Hi
+    developers:
+    - Moback
+    fullgame:
+      appid: '983900'
+      name: 'Mojack - Quest of Jackal : Puzzle game'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/983950/header.jpg?t=1544434606
+    is_free: true
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.0<br></li><li><strong>Processor:</strong> Intel pentium<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics Card<br></li><li><strong>Storage:</strong>
+        900 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS 10.0+<br></li><li><strong>Processor:</strong> Intel i3,i5<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Dedicated Graphics Card<br></li><li><strong>Storage:</strong>
+        900 MB available space</li></ul>
+    name: 'Mojack - Quest of Jackal : Puzzle game Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows xp,7,810<br></li><li><strong>Processor:</strong> Intel pentium<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics Card<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 900 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel i3,i5<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Dedicated Graphics Card<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 900 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Moback
+    release_date:
+      coming_soon: false
+      date: Dec 10, 2018
+    required_age: 0
+    short_description: Hi
+    steam_appid: 983950
+    support_info:
+      email: idcinfo@moback.com
+      url: https://mojack.in/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: https://mojack.in/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

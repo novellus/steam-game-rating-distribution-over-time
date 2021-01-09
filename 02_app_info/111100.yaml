@@ -1,0 +1,199 @@
+details:
+  data:
+    about_the_game: Welcome to <strong>Snuggle Truck</strong>, the award winning over-the-top
+      physics-based indie driving game. Save your cargo of crazy animals by delivering
+      them to the zoo unscathed in the least amount of time. Tilt your truck, catch
+      the fuzzies, drive over armadillos, and rocket your way through hills, caverns,
+      and deserts. Perform backflips and navigate loops, harsh terrain, and unexpected
+      obstacles all while attempting not to crush the poor animals.<h2 class="bb_tag">Key
+      Features:</h2><ul class="bb_ul"><li><strong>Exciting 'One More Time' Gameplay</strong>
+      Easy-to-learn physics gameplay that's hard to master. Collect medals for successful
+      runs and gather rewards for different play styles.<br></li><li><strong>Beautifully
+      Rendered Cartoon Art</strong> Hand-painted by none other than famed LucasArts
+      artist Bill Tiller, known for his work on Curse of Monkey Island.<br></li><li><strong>Leaderboards
+      and Achievements</strong> A smattering of silly achievements and multiple leaderboards
+      to compare your best times against friends.</li></ul>
+    achievements:
+      highlighted:
+      - name: 10 Fuzzy Catcher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/a01b01a71da514cc52b99a6d537685d8359b26e3.jpg
+      - name: 50 Fuzzy Catcher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/3e3f1d40c1ca76cf35a51ed67582ac2eed44b614.jpg
+      - name: 200 Fuzzy Catcher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/14d643bbaddd06d937d32aef19fa69fe8ea6935a.jpg
+      - name: Truck Flip
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/c864620f72e96b9660038a9aa240516f85f03396.jpg
+      - name: Wheelie Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/555ce75bac45bb9284908191098d4ae91cc8538d.jpg
+      - name: High Flier
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/abf08155a7a9728520315d8e22e67642bf9fd225.jpg
+      - name: Horrible Driver
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/c5a238a91358d82e20adecb23f3d76401ff9dd32.jpg
+      - name: Fuzzy Run
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/0e785ea9f4a17357db5c3bbfe8768bf14c42c92d.jpg
+      - name: 50 Medals
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/298cbcaae74fe1cdb6f4dbee77ca84ac9c9c7566.jpg
+      - name: 100 Medals
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/111100/dade849a88db3fbf8e805c4141c87f68a09ec1be.jpg
+      total: 11
+    background: https://steamcdn-a.akamaihd.net/steam/apps/111100/page_bg_generated_v6b.jpg?t=1513875027
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Leaderboards
+      id: 25
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Welcome to <strong>Snuggle Truck</strong>, the award winning
+      over-the-top physics-based indie driving game. Save your cargo of crazy animals
+      by delivering them to the zoo unscathed in the least amount of time. Tilt your
+      truck, catch the fuzzies, drive over armadillos, and rocket your way through
+      hills, caverns, and deserts. Perform backflips and navigate loops, harsh terrain,
+      and unexpected obstacles all while attempting not to crush the poor animals.<h2
+      class="bb_tag">Key Features:</h2><ul class="bb_ul"><li><strong>Exciting 'One
+      More Time' Gameplay</strong> Easy-to-learn physics gameplay that's hard to master.
+      Collect medals for successful runs and gather rewards for different play styles.<br></li><li><strong>Beautifully
+      Rendered Cartoon Art</strong> Hand-painted by none other than famed LucasArts
+      artist Bill Tiller, known for his work on Curse of Monkey Island.<br></li><li><strong>Leaderboards
+      and Achievements</strong> A smattering of silly achievements and multiple leaderboards
+      to compare your best times against friends.</li></ul>
+    developers:
+    - Owlchemy Labs
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/111100/header.jpg?t=1513875027
+    is_free: false
+    linux_requirements:
+      minimum: <ul class="bb_ul"><li><strong>OS:</strong> Ubuntu 12.04 or later<br></li><li><strong>Processor:</strong>
+        1 GHz CPU<br></li><li><strong>Memory:</strong> 512mb<br></li><li><strong>Hard
+        Disk Space:</strong> 100mb<br></li><li><strong>Video Card:</strong> Video
+        card with 64mb of memory<br></li><li></li></ul>
+    mac_requirements:
+      minimum: <ul class="bb_ul"><li><strong>OS:</strong> OS X version Leopard 10.5.8,
+        Snow Leopard 10.6.3, or later.<br></li><li><strong>Processor:</strong> Intel
+        Mac<br></li><li><strong>Memory:</strong> 512mb<br></li><li><strong>Hard Disk
+        Space:</strong> 100mb<br></li><li><strong>Video Card:</strong> Video card
+        with 64mb of memory<br></li><li></li></ul>
+    name: Snuggle Truck
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Snuggle Truck - $4.99
+        packageid: 13389
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Snuggle Truck
+    packages:
+    - 13389
+    pc_requirements:
+      minimum: "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2 or later<br></li><li><strong>Processor:</strong>\
+        \ 1 GHz CPU<br></li><li><strong>Memory:</strong> 512mb (1gb for Windows Vista\
+        \ or Windows 7)<br></li><li><strong>Hard Disk Space:</strong> 100mb<br></li><li><strong>Video\
+        \ Card:</strong> Video card with 64mb of memory<br></li><li><strong>DirectX\xAE\
+        :</strong> 9.0c<br></li><li><strong>Sound:</strong> DirectX 9.0c-compliant\
+        \ sound card</li></ul>"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Owlchemy Labs
+    recommendations:
+      total: 166
+    release_date:
+      coming_soon: false
+      date: Feb 3, 2012
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_5d93c3178abbad02dfb25a6163f59691ad3bd257.1920x1080.jpg?t=1513875027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_5d93c3178abbad02dfb25a6163f59691ad3bd257.600x338.jpg?t=1513875027
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_e16151c05b95cd87d6c5e911ea1463435bcb4288.1920x1080.jpg?t=1513875027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_e16151c05b95cd87d6c5e911ea1463435bcb4288.600x338.jpg?t=1513875027
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_5da9a2e4a7b3aba92590b72134cf48318a8a0991.1920x1080.jpg?t=1513875027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_5da9a2e4a7b3aba92590b72134cf48318a8a0991.600x338.jpg?t=1513875027
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_ff0b79e3a6c0c9afe87e3a6f5fd9027347ddd174.1920x1080.jpg?t=1513875027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_ff0b79e3a6c0c9afe87e3a6f5fd9027347ddd174.600x338.jpg?t=1513875027
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_433fda8325ff4f5d11bd012ea158239996b529b5.1920x1080.jpg?t=1513875027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_433fda8325ff4f5d11bd012ea158239996b529b5.600x338.jpg?t=1513875027
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_9d8a309025b5c6ef5ce8abda3782039955a51baa.1920x1080.jpg?t=1513875027
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/111100/ss_9d8a309025b5c6ef5ce8abda3782039955a51baa.600x338.jpg?t=1513875027
+    short_description: Welcome to Snuggle Truck, the award winning over-the-top physics-based
+      indie driving game. Save your cargo of crazy animals by delivering them to the
+      zoo unscathed in the least amount of time. Tilt your truck, catch the fuzzies,
+      drive over armadillos, and rocket your way through hills, caverns, and deserts.
+    steam_appid: 111100
+    support_info:
+      email: owlchemysupport@google.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: http://snuggletruck.com
+  success: true
+reviews:
+  cursor: AoJwr5614PYCftvKvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 14
+    total_positive: 152
+    total_reviews: 166
+  reviews:
+  - author:
+      last_played: 1454704525
+      num_games_owned: 125
+      num_reviews: 2
+      playtime_at_review: 27
+      playtime_forever: 27
+      playtime_last_two_weeks: 0
+      steamid: '76561198081383380'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83776958'
+    review: My favourite shooter 2021!!!
+    steam_purchase: true
+    timestamp_created: 1609552950
+    timestamp_updated: 1609552950
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

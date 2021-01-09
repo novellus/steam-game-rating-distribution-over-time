@@ -1,0 +1,94 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Number None
+    fullgame:
+      appid: '26800'
+      name: Braid
+    genres:
+    - description: Strategy
+      id: '2'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/26810/header.jpg?t=1447351780
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 90
+    name: Braid Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "                    \n\t\t\t\t\t<ul>                    \n\t\t\t\t\
+        \t<li><strong>Operating System: </strong>Microsoft\xAE Windows\xAE XP / Vista\
+        \ / 7</li>                  \n\t\t\t\t\t<li><strong>Processor: </strong>1.4GHz\
+        \ or faster</li>                    \n\t\t\t\t\t<li><strong>Memory: </strong>768\
+        \ MB or more</li>                    \n\t\t\t\t\t<li><strong>Hard Disk Space:\
+        \ </strong>200 MB or more</li>                    \n\t\t\t\t\t<li><strong>Video\
+        \ Card: </strong>Pixel Shader 2.0</li>                    \n\t\t\t\t\t<li><strong>DirectX\xAE\
+        \ Version: </strong>DirectX\xAE 9.0c</li>                    \n\t\t\t\t\t\
+        <li><strong>Controller Support: </strong>Microsoft Xbox 360 Controller for\
+        \ Windows</li>                    </ul>                    "
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    publishers:
+    - Number None
+    release_date:
+      coming_soon: false
+      date: Apr 11, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 26810
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, Italian, Portuguese, German, Spanish - Spain,
+      Japanese, Korean, Traditional Chinese
+    type: demo
+    website: http://braid-game.com
+  success: true
+reviews:
+  cursor: AoJ45Y2FjdoCc5bHcQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1486496006
+      num_games_owned: 64
+      num_reviews: 73
+      playtime_at_review: 62
+      playtime_forever: 62
+      playtime_last_two_weeks: 0
+      steamid: '76561198150948406'
+    comment_count: 0
+    language: portuguese
+    received_for_free: false
+    recommendationid: '29768035'
+    review: "O jogo \xE9 muito giro.\nParabens."
+    steam_purchase: true
+    timestamp_created: 1486496231
+    timestamp_updated: 1486496231
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

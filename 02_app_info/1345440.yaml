@@ -1,0 +1,106 @@
+details:
+  data:
+    about_the_game: A Physics based Competitive Tank game. Jump, Dash, Roll, and Shoot
+      your way to victory against a variety of enemies and hostile level terrain.
+      Each victory has the potential to unlock new tanks, gamemodes, and maps for
+      you and your friends to master.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1345440/page_bg_generated_v6b.jpg?t=1600572720
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: A Physics based Competitive Tank game. Jump, Dash, Roll,
+      and Shoot your way to victory against a variety of enemies and hostile level
+      terrain. Each victory has the potential to unlock new tanks, gamemodes, and
+      maps for you and your friends to master.
+    developers:
+    - Rodney Luck
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1345440/header.jpg?t=1600572720
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256801245
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256801245/movie480.mp4?t=1600293532
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256801245/movie_max.mp4?t=1600293532
+      name: Toy Tanks Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256801245/movie.293x165.jpg?t=1600293532
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256801245/movie480_vp9.webm?t=1600293532
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256801245/movie_max_vp9.webm?t=1600293532
+    name: Toy Tanks
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8<br></li><li><strong>Processor:</strong> 1.75 GHz<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> 12 CUs (914MHz) 1.23 TF GPU</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Rodney Luck
+    release_date:
+      coming_soon: true
+      date: Aug 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_17441d3871a6397e03ff5396bf0b77d2fb73a322.1920x1080.jpg?t=1600572720
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_17441d3871a6397e03ff5396bf0b77d2fb73a322.600x338.jpg?t=1600572720
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_fc44aa828c933a1cbb838dfb023355d245d68ee0.1920x1080.jpg?t=1600572720
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_fc44aa828c933a1cbb838dfb023355d245d68ee0.600x338.jpg?t=1600572720
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_13aa78d27d0570baf72833859813652662e81c93.1920x1080.jpg?t=1600572720
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_13aa78d27d0570baf72833859813652662e81c93.600x338.jpg?t=1600572720
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_0e36a5951cd11b75ce2e688ce4c0ecbe56a797b9.1920x1080.jpg?t=1600572720
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_0e36a5951cd11b75ce2e688ce4c0ecbe56a797b9.600x338.jpg?t=1600572720
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_ea1700c2bae9769dce8d2cf66c92a20c4b59ed12.1920x1080.jpg?t=1600572720
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1345440/ss_ea1700c2bae9769dce8d2cf66c92a20c4b59ed12.600x338.jpg?t=1600572720
+    short_description: Physics based competitive tank game.
+    steam_appid: 1345440
+    support_info:
+      email: Rodenyluckhurst@gmail.com
+      url: https://rodney-luck.itch.io/toy-tank-demo
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

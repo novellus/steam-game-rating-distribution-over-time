@@ -1,0 +1,109 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Muddy Desert
+    fullgame:
+      appid: '907190'
+      name: GRITS Racing
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/938060/header.jpg?t=1579660682
+    is_free: true
+    legal_notice: "Copyright \xA9 2018-2019 Muddy Desert, LLC.  All rights reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 18.04 (12.04 theoretical)<br></li><li><strong>Processor:</strong> Core
+        2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia drivers, OpenGL 3.2, 2x Anti-aliasing<br></li><li><strong>Sound Card:</strong>
+        sudo apt install libsdl2-2.0-0<br></li><li><strong>Additional Notes:</strong>
+        Keyboard defaults to a 2-player setup but can be changed under Options.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 18.04<br></li><li><strong>Processor:</strong> Core i5<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia drivers, OpenGL 3.2,
+        8x AA, 1920x1080 (HD), very large display<br></li><li><strong>Sound Card:</strong>
+        sudo apt install libsdl2-2.0-0<br></li><li><strong>Additional Notes:</strong>
+        Multiple dual-analog gamepads STRONGLY recommended!</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS<br></li><li><strong>Processor:</strong> Core i5<br></li><li><strong>Graphics:</strong>
+        2xAA<br></li><li><strong>Additional Notes:</strong> Keyboard defaults to a
+        2-player setup but can be changed under Options.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS<br></li><li><strong>Processor:</strong> Core i7<br></li><li><strong>Graphics:</strong>
+        8xAA, 1920x1080 (HD), very large display<br></li><li><strong>Additional Notes:</strong>
+        Multiple dual-analog gamepads STRONGLY recommended!</li></ul>
+    name: GRITS Racing Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Core i5<br></li><li><strong>Graphics:</strong>
+        2xAA<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Additional
+        Notes:</strong> Keyboard defaults to a 2-player setup but can be changed under
+        Options.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Core i7<br></li><li><strong>Graphics:</strong>
+        8x AA, 1920x1080 (HD), very large display<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Additional Notes:</strong> Multiple dual-analog
+        gamepads STRONGLY recommended!</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Muddy Desert
+    release_date:
+      coming_soon: false
+      date: Jan 29, 2019
+    required_age: 0
+    short_description: Lug-nut-challenged, crazy couch game that happens to also be
+      the most realistic TD/2D racer to date. Stop driving tiny cars that just pivot
+      on center. Drive tiny cars that steer and crash like 2D cars should.
+    steam_appid: 938060
+    support_info:
+      email: ''
+      url: http://gritsracing.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://gritsracing.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

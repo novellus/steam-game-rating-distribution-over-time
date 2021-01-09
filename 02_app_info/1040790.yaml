@@ -1,0 +1,80 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Ncube Inc.
+    fullgame:
+      appid: '1040710'
+      name: Uninitialized
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1040790/header.jpg?t=1552301161
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: R2R Preseason Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> WINDOW 10<br></li><li><strong>Processor:</strong>
+        I 3<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 1050<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOW
+        10<br></li><li><strong>Processor:</strong> i5 or higher<br></li><li><strong>Graphics:</strong>
+        GTX 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        4 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Ncube Inc.
+    release_date:
+      coming_soon: false
+      date: Mar 11, 2019
+    required_age: 0
+    short_description: ''
+    steam_appid: 1040790
+    support_info:
+      email: contact@ncubeworld.com
+      url: https://www.ncubeworld.net/
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

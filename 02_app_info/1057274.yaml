@@ -1,0 +1,141 @@
+details:
+  data:
+    about_the_game: "Support gear that acts as detection and rescue gear.<br />\r\n\
+      It gathers up items in a wide radius and heals allied soldiers with them.<br\
+      \ />\r\nItem acquisition radius: +150%<br />\r\nAlly heal potency on item pickup:\
+      \ +10%"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1057274/page_bg_generated_v6b.jpg?t=1562829060
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Support gear that acts as detection and rescue gear.<br\
+      \ />\r\nIt gathers up items in a wide radius and heals allied soldiers with\
+      \ them.<br />\r\nItem acquisition radius: +150%<br />\r\nAlly heal potency on\
+      \ item pickup: +10%"
+    developers:
+    - SANDLOT
+    fullgame:
+      appid: '1007040'
+      name: EARTH DEFENSE FORCE 5
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1057274/header.jpg?t=1562829060
+    is_free: false
+    legal_notice: "\xA92019 SANDLOT  \xA92019 D3 PUBLISHER"
+    linux_requirements: []
+    mac_requirements: []
+    name: EARTH DEFENSE FORCE 5 - Ranger Support Device Detector S-Type
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: EARTH DEFENSE FORCE 5 - Ranger Support Device Detector S-Type
+          - $2.99
+        packageid: 353145
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy EARTH DEFENSE FORCE 5 - Ranger Support Device Detector S-Type
+    packages:
+    - 353145
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Requires a 64-bit processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> Requires a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - D3 PUBLISHER
+    release_date:
+      coming_soon: false
+      date: Jul 11, 2019
+    required_age: '17'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1057274/ss_d7b717db3c6c02acebdb2eb1284545f08b3ad357.1920x1080.jpg?t=1562829060
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1057274/ss_d7b717db3c6c02acebdb2eb1284545f08b3ad357.600x338.jpg?t=1562829060
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1057274/ss_d99a8d0f65034e08f8a60aabcb2c44db2f6c4ab1.1920x1080.jpg?t=1562829060
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1057274/ss_d99a8d0f65034e08f8a60aabcb2c44db2f6c4ab1.600x338.jpg?t=1562829060
+    short_description: Support gear that acts as detection and rescue gear.
+    steam_appid: 1057274
+    support_info:
+      email: steam_support@d3p.co.jp
+      url: ''
+    supported_languages: English<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      Japanese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://www.d3p.co.jp/edf5/
+  success: true
+reviews:
+  cursor: AoJwzPuotfECf6GCgAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 135
+      num_reviews: 37
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198075760343'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '67113503'
+    review: "\uC774\uAC78 \uB3C8 \uBC1B\uACE0 \uD310\uB2E4\uACE0?\n\uC544\uC774\uD15C\
+      \ \uD68D\uB4DD \uBC94\uC704 100%\uC640 \uD68C\uBCF5 \uD6A8\uC728 10%. \uAF34\
+      \uB791 \uC774 \uC635\uC158\uC744???"
+    steam_purchase: true
+    timestamp_created: 1586632056
+    timestamp_updated: 1586632056
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

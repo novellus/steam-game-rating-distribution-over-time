@@ -1,0 +1,146 @@
+details:
+  data:
+    about_the_game: 'A package of goods for those who wish to go the extra mile to
+      support the developers of Deadside.<h2 class="bb_tag">Includes:</h2><ul class="bb_ul"><li>
+      18 additional SafeZone storage slots<br></li><li> Advanced skins for starter
+      items: knife &amp; lighter.<br></li><li> Camo skin for starter t-shirt</li></ul><br>This
+      list will expand with the ongoing develompent of the Deadside, stay tuned for
+      more.<br><br>And thank you very much for your support!'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1248380/page_bg_generated_v6b.jpg?t=1589988619
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'A package of goods for those who wish to go the extra mile
+      to support the developers of Deadside.<h2 class="bb_tag">Includes:</h2><ul class="bb_ul"><li>
+      18 additional SafeZone storage slots<br></li><li> Advanced skins for starter
+      items: knife &amp; lighter.<br></li><li> Camo skin for starter t-shirt</li></ul><br>This
+      list will expand with the ongoing develompent of the Deadside, stay tuned for
+      more.<br><br>And thank you very much for your support!'
+    developers:
+    - Bad Pixel
+    fullgame:
+      appid: '895400'
+      name: Deadside
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1248380/header.jpg?t=1589988619
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Deadside Supporter Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Deadside Supporter Pack - $9.99
+        packageid: 433209
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Deadside Supporter Pack
+    packages:
+    - 433209
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong>
+        Core i3 / AMD FX<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 1030 / RX 550<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB
+        available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong>
+        Core i5 / AMD Ryzen 5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 1060 / RX 580<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Bad Pixel
+    recommendations:
+      total: 190
+    release_date:
+      coming_soon: false
+      date: Apr 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1248380/ss_9fa04f6eafdb1f9abfc47ac1c98d0c3b91ae5fe4.1920x1080.jpg?t=1589988619
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1248380/ss_9fa04f6eafdb1f9abfc47ac1c98d0c3b91ae5fe4.600x338.jpg?t=1589988619
+    short_description: A package of goods for those who wish to go the extra mile
+      to support the developers of Deadside.
+    steam_appid: 1248380
+    support_info:
+      email: deadsidesurvivalgame@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: dlc
+    website: http://deadsidegame.com
+  success: true
+reviews:
+  cursor: AoJ4j+2G7/YCe6yrwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 22
+    total_positive: 168
+    total_reviews: 190
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 364
+      num_reviews: 22
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198009493153'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84237003'
+    review: Too expensive for what it offers.
+    steam_purchase: true
+    timestamp_created: 1610044107
+    timestamp_updated: 1610044107
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

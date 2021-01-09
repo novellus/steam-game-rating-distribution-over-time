@@ -1,0 +1,181 @@
+details:
+  data:
+    about_the_game: "GraFi 4 - casual, colorful,minimalist, physical puzzle with traps\
+      \ and changing gravity.<br />\r\nPlayer goal is to relocate purple coin, using\
+      \ only the change of gravity, on the purple rock and keep for some time to pass\
+      \ the level.<br />\r\n<br />\r\nIn GraFi 4:<br />\r\n<br />\r\n- Traps<br />\r\
+      \n- Changing gravity<br />\r\n- Cool Soundtrack<br />\r\n- Achievements<br />\r\
+      \n- Colorful art<br />\r\n- Treadmills<br />\r\n- 50 levels"
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/662039de36d1abf58d20f7f0a48853f578d6e1fe.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/8807a22062aca3c554513803208d1a3032630b8e.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/21bb6ae7a0a29967491a1f9d40557e6abddc2592.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/6846106ec24c5092f8fcff75151097bd71de0957.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/db65627fa463cbeb35241c7473aa94a65d465c98.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/3684dcd7f9fcacc250a07686c5e4b54724948603.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/52ea42489c734176c4f0957b7a8a14ae864f9357.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/3c24e3cd4603072cee352b5e2174cdfab4199360.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/ebe4ca9cda270cf3e09388cb5f52b0ed397fe58f.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1150790/5928703e21e99ba8459dda4cda2918371f81d0f5.jpg
+      total: 100
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1150790/page_bg_generated_v6b.jpg?t=1582043645
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "GraFi 4 - casual, colorful,minimalist, physical puzzle\
+      \ with traps and changing gravity.<br />\r\nPlayer goal is to relocate purple\
+      \ coin, using only the change of gravity, on the purple rock and keep for some\
+      \ time to pass the level.<br />\r\n<br />\r\nIn GraFi 4:<br />\r\n<br />\r\n\
+      - Traps<br />\r\n- Changing gravity<br />\r\n- Cool Soundtrack<br />\r\n- Achievements<br\
+      \ />\r\n- Colorful art<br />\r\n- Treadmills<br />\r\n- 50 levels"
+    developers:
+    - Blender Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1150790/header.jpg?t=1582043645
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256760399
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256760399/movie480.mp4?t=1567257461
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256760399/movie_max.mp4?t=1567257461
+      name: GraFi 4
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256760399/movie.293x165.jpg?t=1567257461
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256760399/movie480.webm?t=1567257461
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256760399/movie_max.webm?t=1567257461
+    name: GraFi 4
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: GraFi 4 - $1.99
+        packageid: 392202
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy GraFi 4
+    packages:
+    - 392202
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8.1, 10<br></li><li><strong>Processor:</strong> Intel or AMD 2
+        GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Any</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Blender Games
+    release_date:
+      coming_soon: false
+      date: Sep 14, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_bcb299fe8fd353eade9a91bc6f5a7a15f0e28728.1920x1080.jpg?t=1582043645
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_bcb299fe8fd353eade9a91bc6f5a7a15f0e28728.600x338.jpg?t=1582043645
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_3b24368efdd943d552dc2a0eb26f5312f601ab9b.1920x1080.jpg?t=1582043645
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_3b24368efdd943d552dc2a0eb26f5312f601ab9b.600x338.jpg?t=1582043645
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_f46d0712e04f206c51b0c8fb64b3028d39698bd2.1920x1080.jpg?t=1582043645
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_f46d0712e04f206c51b0c8fb64b3028d39698bd2.600x338.jpg?t=1582043645
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_7960e5a284733d35f6ff0ae04227f4624e345421.1920x1080.jpg?t=1582043645
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_7960e5a284733d35f6ff0ae04227f4624e345421.600x338.jpg?t=1582043645
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_c90d2ff60d95ef60031d8b62cc7ec7330eb15e80.1920x1080.jpg?t=1582043645
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1150790/ss_c90d2ff60d95ef60031d8b62cc7ec7330eb15e80.600x338.jpg?t=1582043645
+    short_description: GraFi 4 - casual, colorful,minimalist, physical puzzle with
+      traps and changing gravity.
+    steam_appid: 1150790
+    support_info:
+      email: blendergamez@gmail.com
+      url: https://store.steampowered.com/app/1150790
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>,
+      Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>,
+      Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>,
+      Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>,
+      Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>,
+      Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>,
+      Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>,
+      Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwmr/bi/YCevrPtQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 1
+    total_positive: 6
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 1606710628
+      num_games_owned: 294
+      num_reviews: 5
+      playtime_at_review: 80
+      playtime_forever: 80
+      playtime_last_two_weeks: 0
+      steamid: '76561198045385834'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81166250'
+    review: I can't believe I just played through all 50 of these painstaking levels.
+      I want to die. :)))
+    steam_purchase: true
+    timestamp_created: 1606710852
+    timestamp_updated: 1606710852
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

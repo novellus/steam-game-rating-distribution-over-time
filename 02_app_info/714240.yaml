@@ -1,0 +1,182 @@
+details:
+  data:
+    about_the_game: "SWARMRIDER OMEGA is an &quot;endless runner&quot;+&quot;twin\
+      \ stick shooter&quot; ARCADE mashup.<br />\r\n<br />\r\nBased on SWARMRIDERS(2016),\
+      \ OMEGA is a darker and faster version, featuring the Saint from UBERMOSH Vol.5.<br\
+      \ />\r\nA low-tunned and remastered version of the classic soundtrack meets\
+      \ new powers, achievements, class mods and a denser Swarm.<br />\r\nThe gameplay\
+      \ is shaped by over a year of feedback, making a short but intense arcade experience."
+    achievements:
+      highlighted:
+      - name: MARAUDER
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/714240/ab1e8906d6e61ebb008b130f4e2b089b28f70935.jpg
+      - name: SWARMCARVER
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/714240/ab1e8906d6e61ebb008b130f4e2b089b28f70935.jpg
+      - name: STRIKER
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/714240/ab1e8906d6e61ebb008b130f4e2b089b28f70935.jpg
+      - name: BURNER
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/714240/ab1e8906d6e61ebb008b130f4e2b089b28f70935.jpg
+      - name: RANK S
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/714240/ab1e8906d6e61ebb008b130f4e2b089b28f70935.jpg
+      - name: RANK SSS
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/714240/ab1e8906d6e61ebb008b130f4e2b089b28f70935.jpg
+      - name: OMEGA
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/714240/ab1e8906d6e61ebb008b130f4e2b089b28f70935.jpg
+      total: 7
+    background: https://steamcdn-a.akamaihd.net/steam/apps/714240/page_bg_generated_v6b.jpg?t=1568734714
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "SWARMRIDER OMEGA is an &quot;endless runner&quot;+&quot;twin\
+      \ stick shooter&quot; ARCADE mashup.<br />\r\n<br />\r\nBased on SWARMRIDERS(2016),\
+      \ OMEGA is a darker and faster version, featuring the Saint from UBERMOSH Vol.5.<br\
+      \ />\r\nA low-tunned and remastered version of the classic soundtrack meets\
+      \ new powers, achievements, class mods and a denser Swarm.<br />\r\nThe gameplay\
+      \ is shaped by over a year of feedback, making a short but intense arcade experience."
+    developers:
+    - Walter Machado
+    dlc:
+    - 749610
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/714240/header.jpg?t=1568734714
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04 LTS or compatible<br></li><li><strong>Processor:</strong> 3.2
+        Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256695452
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256695452/movie480.mp4?t=1505433006
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256695452/movie_max.mp4?t=1505433006
+      name: SWARMRIDER OMEGA
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256695452/movie.293x165.jpg?t=1505433006
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256695452/movie480.webm?t=1505433006
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256695452/movie_max.webm?t=1505433006
+    name: SWARMRIDER OMEGA
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SWARMRIDER OMEGA - $0.99
+        packageid: 206719
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SWARMRIDER OMEGA - Commercial License - $0.99
+        packageid: 239759
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy SWARMRIDER OMEGA
+    packages:
+    - 206719
+    - 239759
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 3.2 Ghz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Walter Machado
+    release_date:
+      coming_soon: false
+      date: Sep 19, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_d62f98f58ea96c5edc9e916604bb8c46677e885b.1920x1080.jpg?t=1568734714
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_d62f98f58ea96c5edc9e916604bb8c46677e885b.600x338.jpg?t=1568734714
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_7961cb9e7a6ca65410f30da770c64b0ac70f2832.1920x1080.jpg?t=1568734714
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_7961cb9e7a6ca65410f30da770c64b0ac70f2832.600x338.jpg?t=1568734714
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_381d885961a288bf447bd8a201da4cea88b9f7ab.1920x1080.jpg?t=1568734714
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_381d885961a288bf447bd8a201da4cea88b9f7ab.600x338.jpg?t=1568734714
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_4947c064eae753292e8f68e8aceee04053b98bab.1920x1080.jpg?t=1568734714
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_4947c064eae753292e8f68e8aceee04053b98bab.600x338.jpg?t=1568734714
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_47d4351c21f0f86518c27bb5bba838ce6f1ed2ba.1920x1080.jpg?t=1568734714
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/714240/ss_47d4351c21f0f86518c27bb5bba838ce6f1ed2ba.600x338.jpg?t=1568734714
+    short_description: SWARMRIDER OMEGA is an &quot;endless runner&quot;+&quot;twin
+      stick shooter&quot; ARCADE mashup. Based on SWARMRIDERS(2016), OMEGA is a darker
+      and faster version, featuring the Saint from UBERMOSH Vol.5.
+    steam_appid: 714240
+    support_info:
+      email: ''
+      url: https://www.facebook.com/waltermachadodev
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw54H6s/YCeNTCugI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 7
+    total_positive: 51
+    total_reviews: 58
+  reviews:
+  - author:
+      last_played: 1607327895
+      num_games_owned: 103
+      num_reviews: 3
+      playtime_at_review: 1431
+      playtime_forever: 1431
+      playtime_last_two_weeks: 0
+      steamid: '76561199066671368'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '82449736'
+    review: '1'
+    steam_purchase: true
+    timestamp_created: 1608061030
+    timestamp_updated: 1608061030
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

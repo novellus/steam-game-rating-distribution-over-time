@@ -1,0 +1,97 @@
+details:
+  data:
+    about_the_game: A digital copy of the NightCry Artbook (~15 pages), featuring
+      artwork from Kiyoshi Arai and Masahiro Ito.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/455561/page_bg_generated_v6b.jpg?t=1566800626
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: A digital copy of the NightCry Artbook (~15 pages), featuring
+      artwork from Kiyoshi Arai and Masahiro Ito.
+    developers:
+    - Nude Maker
+    fullgame:
+      appid: '427660'
+      name: NightCry
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/455561/header.jpg?t=1566800626
+    is_free: false
+    legal_notice: "\xA9BCH/LPEI<br />\r\n\u201CNightCry\u201D is a trademark of Body\
+      \ Count Holdings, LLC"
+    linux_requirements: []
+    mac_requirements: []
+    name: NightCry Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: NightCry Artbook - $12.99
+        packageid: 98558
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1299
+      title: Buy NightCry Artbook
+    packages:
+    - 98558
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        3 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1299
+      final_formatted: $12.99
+      initial: 1299
+      initial_formatted: ''
+    publishers:
+    - PLAYISM
+    release_date:
+      coming_soon: false
+      date: Mar 28, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.1920x1080.jpg?t=1566800626
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.600x338.jpg?t=1566800626
+    short_description: A digital copy of the NightCry Artbook (~15 pages), featuring
+      artwork from Kiyoshi Arai and Masahiro Ito.
+    steam_appid: 455561
+    support_info:
+      email: support@playism.jp
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.night-cry.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

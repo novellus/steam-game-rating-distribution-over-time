@@ -1,0 +1,209 @@
+details:
+  data:
+    about_the_game: "Have you ever thought about the speed with which flies a stone\
+      \ launched from a slingshot? In this game a stone - You! You have to go through\
+      \ tremendous stresses on your body and get positive emotions!<br />\r\n<br />\r\
+      \nIf you have never tried to ride on a real ride &quot;The Slingshot&quot;,\
+      \ you can do it in virtual reality! The sensations that you will experience\
+      \ in truth is not transmitted!<br />\r\n<br />\r\nThis game is one of the most\
+      \ popular attractions in virtual reality!<br />\r\n<br />\r\nPress &quot;Spacebar&quot;\
+      \ (Keyboard) or &quot;Start&quot; (GamePad) to start the ride<br />\r\n<br />\r\
+      \nPress &quot;R&quot;(Keyboard) or &quot;A&quot; (GamePad) for centering the\
+      \ position of the helmet"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/496950/page_bg_generated_v6b.jpg?t=1572321292
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Have you ever thought about the speed with which flies\
+      \ a stone launched from a slingshot? In this game a stone - You! You have to\
+      \ go through tremendous stresses on your body and get positive emotions!<br\
+      \ />\r\n<br />\r\nIf you have never tried to ride on a real ride &quot;The Slingshot&quot;,\
+      \ you can do it in virtual reality! The sensations that you will experience\
+      \ in truth is not transmitted!<br />\r\n<br />\r\nThis game is one of the most\
+      \ popular attractions in virtual reality!<br />\r\n<br />\r\nPress &quot;Spacebar&quot;\
+      \ (Keyboard) or &quot;Start&quot; (GamePad) to start the ride<br />\r\n<br />\r\
+      \nPress &quot;R&quot;(Keyboard) or &quot;A&quot; (GamePad) for centering the\
+      \ position of the helmet"
+    developers:
+    - Funny Twins
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/496950/header.jpg?t=1572321292
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256666485
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256666485/movie480.mp4?t=1467781909
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256666485/movie_max.mp4?t=1467781909
+      name: The SlingShot VR
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256666485/movie.293x165.jpg?t=1467781909
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256666485/movie480.webm?t=1467781909
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256666485/movie_max.webm?t=1467781909
+    name: The Slingshot VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Slingshot VR - $1.99
+        packageid: 113445
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy The Slingshot VR
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $9.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$9.99 at checkout,
+          auto-renewed every 1 month(s) at $9.99.</p>
+        option_text: $9.99 / month
+        packageid: 146379
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy The Slingshot VR Subscription Plan
+    packages:
+    - 113445
+    - 146379
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7 SP1, Windows\xAE 8.1 or later, Windows\xAE 10<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE Core\u2122 i5-4590/AMD FX\u2122 8350 equivalent or better<br></li><li><strong>Memory:</strong>\
+        \ 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\u2122\
+        \ GTX 970, AMD Radeon\u2122 R9 290 equivalent or better<br></li><li><strong>DirectX:</strong>\
+        \ Version 11<br></li><li><strong>Storage:</strong> 780.4 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows\xAE 7 SP1, Windows\xAE 8.1 or later, Windows\xAE 10<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE Core\u2122 i7-4790<br></li><li><strong>Memory:</strong> 16 GB\
+        \ RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GeForce\u2122 GTX\
+        \ 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>\
+        \ 780.4 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Funny Twins
+    release_date:
+      coming_soon: false
+      date: Jul 6, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_2965dc0fc2aee1f9b846b5642c5678c69e4a4a09.1920x1080.jpg?t=1572321292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_2965dc0fc2aee1f9b846b5642c5678c69e4a4a09.600x338.jpg?t=1572321292
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_bfed60fde1d4e292fc6e0798ed4df8e0e10d4bc0.1920x1080.jpg?t=1572321292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_bfed60fde1d4e292fc6e0798ed4df8e0e10d4bc0.600x338.jpg?t=1572321292
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_3266a770afe1991002a01ccd3451397adf2a7a40.1920x1080.jpg?t=1572321292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_3266a770afe1991002a01ccd3451397adf2a7a40.600x338.jpg?t=1572321292
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_c53e515a96c680eaee2044bce90e27d86c9c25e2.1920x1080.jpg?t=1572321292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_c53e515a96c680eaee2044bce90e27d86c9c25e2.600x338.jpg?t=1572321292
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_b10ff2898d2071444ad0b808e02e1ccbc7fdf7c1.1920x1080.jpg?t=1572321292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_b10ff2898d2071444ad0b808e02e1ccbc7fdf7c1.600x338.jpg?t=1572321292
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_6732b51529a5388b639f5949a2442d61574f9281.1920x1080.jpg?t=1572321292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_6732b51529a5388b639f5949a2442d61574f9281.600x338.jpg?t=1572321292
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_e3e47dc3be4771ee4e60e1708e7ef8f3ac2dd020.1920x1080.jpg?t=1572321292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496950/ss_e3e47dc3be4771ee4e60e1708e7ef8f3ac2dd020.600x338.jpg?t=1572321292
+    short_description: Have you ever thought about the speed with which flies a stone
+      launched from a slingshot? In this game a stone - You! You have to go through
+      tremendous stresses on your body and get positive emotions!
+    steam_appid: 496950
+    support_info:
+      email: support@funnytwins.ru
+      url: ''
+    supported_languages: English, Russian
+    type: game
+    website: http://funnytwins.ru/
+  success: true
+reviews:
+  cursor: AoJ4ipfL6/YCc9z6wAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 12
+    total_positive: 8
+    total_reviews: 20
+  reviews:
+  - author:
+      last_played: 1608907248
+      num_games_owned: 1038
+      num_reviews: 167
+      playtime_at_review: 6
+      playtime_forever: 6
+      playtime_last_two_weeks: 0
+      steamid: '76561198034928324'
+    comment_count: 0
+    language: italian
+    received_for_free: false
+    recommendationid: '84137411'
+    review: "Non fatevi ingannare dalle poco tempo di gioco sul mio account, basta\
+      \ e avanza per dare un giudizio effettivo sul \"gioco\".\nSlingshot VR non \xE8\
+      \ per\xF2 un gioco ma rientra in quelle che vengono definite \"Esperienze VR\"\
+      , ossia quella categoria di software che servono per ricreare una particolare\
+      \ situazione o esperienza in realt\xE0 virtuale.\nSpecificato questo, Slingshot\
+      \ VR fa il suo, sali su di un accrocchio che ti sbalza in alto e in basso come\
+      \ la famosa Fionda del luna park, il problema infatti non \xE8 l'esperienza\
+      \ in se, ma la realizzazione, sembra infatti che sia stato fatto in pochi minuti\
+      \ in fretta e furia per avere qualcosa da monetizzare con la realt\xE0 virtuale.\n\
+      Una volta avviato ci troveremo seduti sul sedile dello slingshot senza alcuna\
+      \ indicazione, dovremo quindi allungare le mani verso la tastiera, con il visore\
+      \ addosso e cercare di capire quale tasto fa cosa.\nUna capito come avviare\
+      \ il tutto, otterremo come premio una bella nausea, infatti i movimenti essendo\
+      \ totalmente scriptati non restituiscono un feeling reale ma molto macchinoso\
+      \ rendendo l'esperienza virtuale ancor pi\xF9 finta.\nInutile dilungarsi troppo,\
+      \ il giro dura pochi secondi e poi si ricomincia, niente di pi\xF9 niente di\
+      \ meno.\nSconsigliato per la grezzissima realizzazione, questo sarebbe stato\
+      \ un buon prodotto solo se fosse stato free to play, ma forse nemmeno in quel\
+      \ caso."
+    steam_purchase: true
+    timestamp_created: 1609927801
+    timestamp_updated: 1609927801
+    voted_up: false
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.515151500701904297'
+    written_during_early_access: false
+  success: 1

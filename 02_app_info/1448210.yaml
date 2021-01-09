@@ -1,0 +1,73 @@
+details:
+  data:
+    about_the_game: "These demos were made specially for Halloween and Christmas and\
+      \ do not represent the final product.<br />\r\n<br />\r\nThe demo is built using\
+      \ the latest alpha build of the game. If you encounter any bugs or have any\
+      \ feedback regarding gameplay/mechanics, please let us know on the game's Steam\
+      \ community page.<br />\r\n<br />\r\nEnjoy playing and have a Merry Christmas!"
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Contain cartoon violence and gore
+    controller_support: full
+    detailed_description: "These demos were made specially for Halloween and Christmas\
+      \ and do not represent the final product.<br />\r\n<br />\r\nThe demo is built\
+      \ using the latest alpha build of the game. If you encounter any bugs or have\
+      \ any feedback regarding gameplay/mechanics, please let us know on the game's\
+      \ Steam community page.<br />\r\n<br />\r\nEnjoy playing and have a Merry Christmas!"
+    developers:
+    - Headbang Games
+    - Oray Studios
+    fullgame:
+      appid: '1367050'
+      name: Down Below
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1448210/header.jpg?t=1608244805
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Down Below Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Headbang Games
+    release_date:
+      coming_soon: false
+      date: Oct 29, 2020
+    required_age: 0
+    short_description: These demos were made specially for Halloween and Christmas
+      and do not represent the final product. The demo is built using the latest alpha
+      build of the game. If you encounter any bugs or have any feedback regarding
+      gameplay/mechanics, please let us know on the game's Steam community page. Enjoy
+      playing and have a Merry Christmas!
+    steam_appid: 1448210
+    support_info:
+      email: avishaymizrav@gmail.com
+      url: http://www.headbangames.com
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

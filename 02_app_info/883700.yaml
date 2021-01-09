@@ -1,0 +1,90 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: null
+    detailed_description: ''
+    developers:
+    - VRillAR
+    fullgame:
+      appid: '825500'
+      name: Dead Ground:Arena
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Gore
+      id: '74'
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/883700/header.jpg?t=1529290413
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Dead Ground:Arena Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Window 7 64bit<br></li><li><strong>Processor:</strong>
+        Intel i-5 4590 equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Window
+        10 64bit<br></li><li><strong>Processor:</strong> Intel i-7 4790 equivalent
+        or greater<br></li><li><strong>Memory:</strong> 32 GB RAM<br></li><li><strong>Graphics:</strong>
+        GTX 1070<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available
+        space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - VRillAR
+    release_date:
+      coming_soon: false
+      date: Jun 17, 2018
+    required_age: 0
+    short_description: ''
+    steam_appid: 883700
+    support_info:
+      email: info@vrillar.com
+      url: https://www.facebook.com/Deadgroundz/
+    supported_languages: English<strong>*</strong>, Korean<br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: https://www.facebook.com/Deadgroundz/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

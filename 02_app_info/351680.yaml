@@ -1,0 +1,118 @@
+details:
+  data:
+    about_the_game: The full soundtrack for Lumino City, by Ed GAPS of Brighton duo
+      GAPS.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/351680/page_bg_generated_v6b.jpg?t=1447369520
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The full soundtrack for Lumino City, by Ed GAPS of Brighton
+      duo GAPS.
+    developers:
+    - State of Play Games
+    fullgame:
+      appid: '205020'
+      name: Lumino City
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/351680/header.jpg?t=1447369520
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Sound Card:</strong>
+        Yes</li></ul>
+    name: Lumino City - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lumino City - Soundtrack - $5.99
+        packageid: 61207
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Lumino City - Soundtrack
+    packages:
+    - 61207
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Sound Card:</strong>
+        Yes</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 27, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/351680/ss_efda4542bee23b46c798b34e79aa588c870d87ff.1920x1080.jpg?t=1447369520
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/351680/ss_efda4542bee23b46c798b34e79aa588c870d87ff.600x338.jpg?t=1447369520
+    short_description: The full soundtrack for Lumino City, by Ed GAPS of Brighton
+      duo GAPS.
+    steam_appid: 351680
+    support_info:
+      email: mail@stateofplaygames.com
+      url: http://www.stateofplaygames.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.luminocitygame.com
+  success: true
+reviews:
+  cursor: AoJ4ldqlg9sCdpGedQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 188
+      num_reviews: 54
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198000728057'
+    comment_count: 1
+    language: english
+    received_for_free: false
+    recommendationid: '30732566'
+    review: This OST along with the game itself is a sheer blessing. It's a humongous
+      shame that it's missed by many.
+    steam_purchase: true
+    timestamp_created: 1490464199
+    timestamp_updated: 1490464199
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

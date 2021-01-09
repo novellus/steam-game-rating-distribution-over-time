@@ -1,0 +1,118 @@
+details:
+  data:
+    about_the_game: "This is the Demo of a work-in-progress game. Please report any\
+      \ bugs you find. Full version is scheduled for release on Windows, Mac and Linux\
+      \ early 2021. Pricing is not confirmed yet.<br />\r\n<br />\r\nIn It Together\
+      \ is a game about working together to solve problems. The main hook is the two\
+      \ player co-op mode where you and a friend can play through 50 levels designed\
+      \ around co-operation. Additionally there is a single player mode with another\
+      \ set of 50 levels designed to be played alone. If you're more than two players,\
+      \ the full version will also have a battle mode where up to four players can\
+      \ duke it out in competitive matches."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1440650/page_bg_generated_v6b.jpg?t=1602112276
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids:
+      - 5
+      notes: The game has very mild cartoon violence, and a few gross scenes involving
+        unrealistic aliens losing body parts. There is no blood. There is also a guy
+        smoking a cigar.
+    controller_support: full
+    detailed_description: "This is the Demo of a work-in-progress game. Please report\
+      \ any bugs you find. Full version is scheduled for release on Windows, Mac and\
+      \ Linux early 2021. Pricing is not confirmed yet.<br />\r\n<br />\r\nIn It Together\
+      \ is a game about working together to solve problems. The main hook is the two\
+      \ player co-op mode where you and a friend can play through 50 levels designed\
+      \ around co-operation. Additionally there is a single player mode with another\
+      \ set of 50 levels designed to be played alone. If you're more than two players,\
+      \ the full version will also have a battle mode where up to four players can\
+      \ duke it out in competitive matches."
+    developers:
+    - Armarti
+    fullgame:
+      appid: '1440330'
+      name: In It Together
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1440650/header.jpg?t=1602112276
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: In It Together Demo
+    package_groups: []
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel or AMD Dual Core CPU<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> (Integrated): Intel HD Graphics
+        or AMD (formerly ATI) Radeon HD Graphics (Discrete): Nvidia GeForce 9600 GT
+        or AMD Radeon HD 2400<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        80 MB available space</li></ul>'
+      recommended: '<strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel i7<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> (Integrated): Intel HD Graphics
+        or AMD (formerly ATI) Radeon HD Graphics (Discrete): Nvidia GeForce GTX 760
+        (or greater) or AMD Radeon HD 7600 (or greater)<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 80 MB available space</li></ul>'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Armarti
+    release_date:
+      coming_soon: false
+      date: Oct 7, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_25f8886149f1bf043a437dafc0386ba3cb8d3e3b.1920x1080.jpg?t=1602112276
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_25f8886149f1bf043a437dafc0386ba3cb8d3e3b.600x338.jpg?t=1602112276
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_eadd27ea0e2dbba7c8780e27eba56f019b344a44.1920x1080.jpg?t=1602112276
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_eadd27ea0e2dbba7c8780e27eba56f019b344a44.600x338.jpg?t=1602112276
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_4e2cd10f84ebfd11caf10541c0f9bfacfb401e41.1920x1080.jpg?t=1602112276
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_4e2cd10f84ebfd11caf10541c0f9bfacfb401e41.600x338.jpg?t=1602112276
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_bdcd0933e6f67a58b2688d01c2576acc5be78a35.1920x1080.jpg?t=1602112276
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_bdcd0933e6f67a58b2688d01c2576acc5be78a35.600x338.jpg?t=1602112276
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_10b7f08ba938e834c4b3500c71547ceea1c8707f.1920x1080.jpg?t=1602112276
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440650/ss_10b7f08ba938e834c4b3500c71547ceea1c8707f.600x338.jpg?t=1602112276
+    short_description: This is a game about working together to solve problems, with
+      a two player co-op mode where you and a friend can play through 50 levels designed
+      for co-op, and a single player mode. The full game will also have a 4 player
+      versus mode.
+    steam_appid: 1440650
+    support_info:
+      email: armarti94@outlook.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

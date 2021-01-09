@@ -1,0 +1,170 @@
+details:
+  data:
+    about_the_game: "\u672C\u5E8F\u865F\u50C5\u7528\u4EE5\u958B\u555FSteam\u5E73\u53F0\
+      \u7684\u300A\u5E7B\u60F3\u4E09\u570B\u5FD7 5\u300B\u96B1\u85CF\u7248\u89D2\u8272\
+      \uFF0C\u4E0D\u9069\u7528\u65BC\u5176\u4ED6\u5E73\u53F0\u3002<br />\r\n<br />\r\
+      \n\u96B1\u85CF\u89D2\u8272\u300A\u5E7B\u60F3\u4E09\u570B\u5FD7 1\u300B\u59EC\
+      \u971C\u3001\u300A\u5E7B\u60F3\u4E09\u570B\u5FD7 2\u300B\u695A\u6B4C\u3001\u300A\
+      \u5E7B\u60F3\u4E09\u570B\u5FD7 3\u300B\u8D99\u96F2\u3001\u300A\u5E7B\u60F3\u4E09\
+      \u570B\u5FD7 4\u300B\u8607\u8896\u3002"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/899070/page_bg_generated_v6b.jpg?t=1534473311
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "\u672C\u5E8F\u865F\u50C5\u7528\u4EE5\u958B\u555FSteam\u5E73\
+      \u53F0\u7684\u300A\u5E7B\u60F3\u4E09\u570B\u5FD7 5\u300B\u96B1\u85CF\u7248\u89D2\
+      \u8272\uFF0C\u4E0D\u9069\u7528\u65BC\u5176\u4ED6\u5E73\u53F0\u3002<br />\r\n\
+      <br />\r\n\u96B1\u85CF\u89D2\u8272\u300A\u5E7B\u60F3\u4E09\u570B\u5FD7 1\u300B\
+      \u59EC\u971C\u3001\u300A\u5E7B\u60F3\u4E09\u570B\u5FD7 2\u300B\u695A\u6B4C\u3001\
+      \u300A\u5E7B\u60F3\u4E09\u570B\u5FD7 3\u300B\u8D99\u96F2\u3001\u300A\u5E7B\u60F3\
+      \u4E09\u570B\u5FD7 4\u300B\u8607\u8896\u3002"
+    developers:
+    - "\u5B87\u5CFB\u5967\u6C40\u79D1\u6280\u80A1\u4EFD\u6709\u9650\u516C\u53F8"
+    fullgame:
+      appid: '859150'
+      name: "\u5E7B\u60F3\u4E09\u570B\u8A8C5/Fantasia Sango 5"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/899070/header.jpg?t=1534473311
+    is_free: false
+    legal_notice: "\xA9USERJOY Technology Co., Ltd. All Rights Reserved."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256724098
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256724098/movie480.mp4?t=1533173721
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256724098/movie_max.mp4?t=1533173721
+      name: "\u5E7B\u60F3\u4E09\u570B\u8A8C\u5BA3\u50B3\u5F71\u7247"
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256724098/movie.293x165.jpg?t=1533173721
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256724098/movie480.webm?t=1533173721
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256724098/movie_max.webm?t=1533173721
+    name: "\u5E7B\u60F3\u4E09\u570B\u8A8C5 - \u984D\u5916\u82F1\u5091\u53EC\u559A\u5305\
+      /Fantasia Sango 5 - Extra Heroes Pack"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u5E7B\u60F3\u4E09\u570B\u8A8C5 - \u984D\u5916\u82F1\u5091\u53EC\
+          \u559A\u5305 - $1.99"
+        packageid: 287604
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: "Buy \u5E7B\u60F3\u4E09\u570B\u8A8C5 - \u984D\u5916\u82F1\u5091\u53EC\
+        \u559A\u5305/Fantasia Sango 5 - Extra Heroes Pack"
+    packages:
+    - 287604
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 duo e8400\
+        \ \u6216 \u540C\u7B49\u7D1A AMD CPU<br></li><li><strong>Memory:</strong> 2\
+        \ GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 7300GT \u6216\
+        \ AMD HD S145 \u540C\u7B49\u7D1A\u53CA\u4EE5\u4E0A\u7684\u986F\u5361<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 6 GB available space<br></li><li><strong>Sound Card:</strong> Direct Sound\
+        \ \u76F8\u5BB9\u97F3\u6548\u5361</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ win 7/win 8/win 10(\u63A8\u85A664\u4F4D\u5143\u7CFB\u7D71)<br></li><li><strong>Processor:</strong>\
+        \ Intel Core 2 i5 2.8GHz \u4EE5\u4E0ACPU \u6216 \u540C\u7B49\u7D1A AMD CPU<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 670 \u6216\
+        \ AMD Redeon HD 7975 \u540C\u7B49\u7D1A\u4EE5\u4E0A\u986F\u5361<br></li><li><strong>DirectX:</strong>\
+        \ Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 8 GB available space<br></li><li><strong>Sound Card:</strong> Direct Sound\
+        \ \u76F8\u5BB9\u97F3\u6548\u5361</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 14, 2018
+    required_age: 0
+    reviews: "\u201C\u5F69\u86CB\u7206\u70B8\uFF1F\u6DF1\u5EA6\u89E3\u6790\u300A\u5E7B\
+      \u60F3\u4E09\u56FD\u5FD75\u300B\u4E2D\u7684\u9690\u85CF\u7EBF\u7D22\u201D<br><a\
+      \ href=\"https://steamcommunity.com/linkfilter/?url=http://www.yxdown.com/news/201801/383884.html\"\
+      \ target=\"_blank\" rel=\"noopener\"  >\u6E38\u8FC5\u7F51</a><br><br>\u201C\u5E7B\
+      \u60F3\u4E09\u56FD\u5FD75\u9690\u85CF\u89D2\u8272\u6709\u4EC0\u4E48\u7528 \u8054\
+      \u52A8\u9690\u85CF\u4EBA\u7269\u4F5C\u7528\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.chinaz.com/tribe/2018/0425/878684.shtml\"\
+      \ target=\"_blank\" rel=\"noopener\"  >\u7AD9\u9577\u4E4B\u5BB6</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/899070/ss_d121d082123aa6335f4e8ff14a986d5b660312a8.1920x1080.jpg?t=1534473311
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/899070/ss_d121d082123aa6335f4e8ff14a986d5b660312a8.600x338.jpg?t=1534473311
+    short_description: "\u672C\u5E8F\u865F\u50C5\u7528\u4EE5\u958B\u555F\u300A\u5E7B\
+      \u60F3\u4E09\u570B\u5FD75\u300B\u96B1\u85CF\u7248\u89D2\u8272\uFF0C\u6BCF\u4E00\
+      \u4F4D\u96B1\u85CF\u89D2\u8272\u90FD\u662F\u300A\u5E7B\u60F3\u4E09\u570B\u5FD7\
+      \u300B\u7CFB\u5217\u4F5C\u4E2D\u7684\u4E3B\u89D2\u4EBA\u7269\u3002"
+    steam_appid: 899070
+    support_info:
+      email: customer@uj.com.tw
+      url: https://www.uj.com.tw/uj/servce/return_question.aspx
+    supported_languages: Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: https://fs5.uj.com.tw/
+  success: true
+reviews:
+  cursor: AoJwgaPuuvUCeZnzqgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 178
+      num_reviews: 406
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198746302688'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '78354841'
+    review: "4\u4E2A\u524D\u4EE3\u7684\u4EBA\u6C14\u652F\u63F4\u4EBA\u7269~"
+    steam_purchase: true
+    timestamp_created: 1603997866
+    timestamp_updated: 1603997866
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

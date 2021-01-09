@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: "Explore the mechanics of the main game.<br />\r\nMove around\
+      \ using your propellers. Shoot off your won propellers. <br />\r\nBut, by doing\
+      \ so, you lose the ability to move to the direction you shot at."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1372440/page_bg_generated_v6b.jpg?t=1595148848
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Explore the mechanics of the main game.<br />\r\nMove around\
+      \ using your propellers. Shoot off your won propellers. <br />\r\nBut, by doing\
+      \ so, you lose the ability to move to the direction you shot at."
+    developers:
+    - Eyal Hazor (Wormius51)
+    fullgame:
+      appid: '1354800'
+      name: Really Bad Flying Machine
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1372440/header.jpg?t=1595148848
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 16.04
+        and Ubuntu 18.04<br></li><li><strong>Processor:</strong> x64 architecture
+        with SSE2 instruction set support.<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2+, Vulkan capable.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Sierra 10.12+<br></li><li><strong>Processor:</strong>
+        x64 architecture with SSE2.<br></li><li><strong>Graphics:</strong> Metal capable
+        Intel and AMD GPUs</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Really Bad Flying Machine Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> windows 7,
+        windows 10<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Graphics:</strong>
+        DX10 (shader model 4.0) capabilities</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Eyal Hazor (Wormius51)
+    release_date:
+      coming_soon: false
+      date: Jul 19, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_3775f422b6491aca9fbf271af7d3696981d1d878.1920x1080.jpg?t=1595148848
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_3775f422b6491aca9fbf271af7d3696981d1d878.600x338.jpg?t=1595148848
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_c6a5fcabf74e0f244f0abf422708433d9fedc0a2.1920x1080.jpg?t=1595148848
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_c6a5fcabf74e0f244f0abf422708433d9fedc0a2.600x338.jpg?t=1595148848
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_e6b75c893339bf4a39ac56e6c5146c4257c21937.1920x1080.jpg?t=1595148848
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_e6b75c893339bf4a39ac56e6c5146c4257c21937.600x338.jpg?t=1595148848
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_c15dff9c872f0c4185f307e90e605422b472025d.1920x1080.jpg?t=1595148848
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_c15dff9c872f0c4185f307e90e605422b472025d.600x338.jpg?t=1595148848
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_fac82a62506aa3bd4906cd74ed6eb3e53bb4b50e.1920x1080.jpg?t=1595148848
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1372440/ss_fac82a62506aa3bd4906cd74ed6eb3e53bb4b50e.600x338.jpg?t=1595148848
+    short_description: Move around using your propellers. Shoot off your won propellers.
+      But, by doing so, you lose the ability to move to the direction you shot at.
+    steam_appid: 1372440
+    support_info:
+      email: ''
+      url: https://wormius.herokuapp.com/
+    supported_languages: English
+    type: demo
+    website: https://wormius.herokuapp.com/games/really-bad-flying-machine
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,226 @@
+details:
+  data:
+    about_the_game: "Slash It 2 is a 2D colorful arcade game. The goal is to press\
+      \ letters, numbers and type words in the right time and direction. <br />\r\n\
+      <br />\r\n6 Game modes, Hiscores &amp; Steam Leaderboards<br />\r\n300+ Achievements<br\
+      \ />\r\nTrading Cards"
+    achievements:
+      highlighted:
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/528627d866337bec0985efe662d37800011c2b34.jpg
+      - name: A!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/9946d120da8388d216cc2d744e33bd8bb7955375.jpg
+      - name: '*A*'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/0ed5d478e96e24bc109ae39daed668002a7bd7a7.jpg
+      - name: AA
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/494fceb4e13f52394bda7f3d6b93a031fa5faa00.jpg
+      - name: AA!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/f51b246f5ef1040ccb0af527af3b91b6c25ede6f.jpg
+      - name: '*AA*'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/b79b76ae7d1c4bd100512c6c91288577bd064ac7.jpg
+      - name: AAA
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/54f90b859b3be0dcf7b952e4e717a2cb18b507e5.jpg
+      - name: A Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/847372e57dc5c98a75d9ace188d1d88b507a91e2.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/9cba99700c07323f7f5f84580d6a29e8032c9dd3.jpg
+      - name: 0!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583760/f054e35b408d3193a14c8b7859f3bc5f6b51249b.jpg
+      total: 303
+    background: https://steamcdn-a.akamaihd.net/steam/apps/583760/page_bg_generated_v6b.jpg?t=1588756856
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Slash It 2 is a 2D colorful arcade game. The goal is to\
+      \ press letters, numbers and type words in the right time and direction. <br\
+      \ />\r\n<br />\r\n6 Game modes, Hiscores &amp; Steam Leaderboards<br />\r\n\
+      300+ Achievements<br />\r\nTrading Cards"
+    developers:
+    - EGAMER
+    dlc:
+    - 586490
+    - 588790
+    - 588830
+    - 588840
+    - 590470
+    - 590480
+    - 590490
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/583760/header.jpg?t=1588756856
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12<br></li><li><strong>Processor:</strong> 1.5GHZ +<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB or Higher<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX 10.8+<br></li><li><strong>Processor:</strong> 1.5GHZ +<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB or Higher<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256678423
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256678423/movie480.mp4?t=1485284524
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256678423/movie_max.mp4?t=1485284524
+      name: slash it 2
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256678423/movie.293x165.jpg?t=1485284524
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256678423/movie480.webm?t=1485284524
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256678423/movie_max.webm?t=1485284524
+    name: Slash It 2
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Slash It 2 - $10.99
+        packageid: 150116
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1099
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Slash It 2 - Commercial License - $10.99
+        packageid: 264220
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1099
+      title: Buy Slash It 2
+    packages:
+    - 150116
+    - 264220
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP or Later<br></li><li><strong>Processor:</strong> 1.5GHZ +<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB or Higher<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1099
+      final_formatted: $10.99
+      initial: 1099
+      initial_formatted: ''
+    publishers:
+    - EGAMER
+    recommendations:
+      total: 793
+    release_date:
+      coming_soon: false
+      date: Jan 24, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_46337d6f06591013ef08c9fc5abf83643ed71604.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_46337d6f06591013ef08c9fc5abf83643ed71604.600x338.jpg?t=1588756856
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_44fac69786fc7cf2c1b10d3b4624d1a7eeb0271d.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_44fac69786fc7cf2c1b10d3b4624d1a7eeb0271d.600x338.jpg?t=1588756856
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_913ad07fb7cc5f8d45cb50e19d6cf3039b0a1ad9.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_913ad07fb7cc5f8d45cb50e19d6cf3039b0a1ad9.600x338.jpg?t=1588756856
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_a1e9e413965eeb7f319591d93c144e77b3f92f71.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_a1e9e413965eeb7f319591d93c144e77b3f92f71.600x338.jpg?t=1588756856
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_9664bf03e2e162f517581330de97d56ec70af836.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_9664bf03e2e162f517581330de97d56ec70af836.600x338.jpg?t=1588756856
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_01689cb64387f40687c1de97a3fa0cf97071cd8a.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_01689cb64387f40687c1de97a3fa0cf97071cd8a.600x338.jpg?t=1588756856
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_35e22be4fe0efba315fb1d013aea43a14a2cc860.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_35e22be4fe0efba315fb1d013aea43a14a2cc860.600x338.jpg?t=1588756856
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_96622f0acd83a0258fdac240a3ef30e2b3a5958b.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_96622f0acd83a0258fdac240a3ef30e2b3a5958b.600x338.jpg?t=1588756856
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_4874c5ddf3c5065823805b3d8f357e036a3d3dab.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_4874c5ddf3c5065823805b3d8f357e036a3d3dab.600x338.jpg?t=1588756856
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_10eba6895fc115a047db6853a2e242a0f7e4ab14.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_10eba6895fc115a047db6853a2e242a0f7e4ab14.600x338.jpg?t=1588756856
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_104b7491405e256963cba5b3088879ea2f94c4d8.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_104b7491405e256963cba5b3088879ea2f94c4d8.600x338.jpg?t=1588756856
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_97ed0b76b2bc7039edd61d52c34feb83c32559b7.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_97ed0b76b2bc7039edd61d52c34feb83c32559b7.600x338.jpg?t=1588756856
+    - id: 12
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_b1f57a884e1b06101e20be1677320e3b745928bc.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_b1f57a884e1b06101e20be1677320e3b745928bc.600x338.jpg?t=1588756856
+    - id: 13
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_aa937be41545548d234de797fb3391341bdfead7.1920x1080.jpg?t=1588756856
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/583760/ss_aa937be41545548d234de797fb3391341bdfead7.600x338.jpg?t=1588756856
+    short_description: Slash It 2 is a 2D colorful arcade game. The goal is to press
+      letters, numbers and type words in the right time and direction.
+    steam_appid: 583760
+    support_info:
+      email: just1337developer@gmail.com
+      url: https://egamer.com/games/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://egamer.com/games/
+  success: true
+reviews:
+  cursor: AoJ4nN2m4fYCfKHXvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 67
+    total_positive: 726
+    total_reviews: 793
+  reviews:
+  - author:
+      last_played: 1609582495
+      num_games_owned: 917
+      num_reviews: 34
+      playtime_at_review: 365
+      playtime_forever: 365
+      playtime_last_two_weeks: 150
+      steamid: '76561198097871363'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83802652'
+    review: fun typing game but I wouldn't choose it over something like typing of
+      the dead or whatever
+    steam_purchase: true
+    timestamp_created: 1609582701
+    timestamp_updated: 1609582701
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

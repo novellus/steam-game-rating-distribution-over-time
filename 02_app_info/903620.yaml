@@ -1,0 +1,204 @@
+details:
+  data:
+    about_the_game: "Everyday Baseball VR is a VR baseball game which is based in\
+      \ real baseball play.<br />\r\n<br />\r\nWe've been continuously mulling over\
+      \ how to improve user convenience without losing realism so that people can\
+      \ easily play our game whether they are familiar with baseball or not<br />\r\
+      \n<br />\r\nWe provide several options for ensure player's personalities and\
+      \ conveniences. Player can enjoy the game with their own comfortable condition\
+      \ by adjusting game options such as graphic level, length of bat, location of\
+      \ batter's box etc..<br />\r\n<br />\r\nNow, play a real baseball game in your\
+      \ home!<br />\r\n<br />\r\nGame Mode<br />\r\n*Home run Derby Mode<br />\r\n\
+      <br />\r\nPlayer Convenience<br />\r\n*Swing analysis: Timing, Angle, Driving\
+      \ distance etc.<br />\r\n*Graphic level option<br />\r\n*Length of bat option\
+      \ (*Require use of VIVE or OCULUS Tracker)<br />\r\n*Location of batter's box\
+      \ option"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/903620/page_bg_generated_v6b.jpg?t=1539852667
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Everyday Baseball VR is a VR baseball game which is based\
+      \ in real baseball play.<br />\r\n<br />\r\nWe've been continuously mulling\
+      \ over how to improve user convenience without losing realism so that people\
+      \ can easily play our game whether they are familiar with baseball or not<br\
+      \ />\r\n<br />\r\nWe provide several options for ensure player's personalities\
+      \ and conveniences. Player can enjoy the game with their own comfortable condition\
+      \ by adjusting game options such as graphic level, length of bat, location of\
+      \ batter's box etc..<br />\r\n<br />\r\nNow, play a real baseball game in your\
+      \ home!<br />\r\n<br />\r\nGame Mode<br />\r\n*Home run Derby Mode<br />\r\n\
+      <br />\r\nPlayer Convenience<br />\r\n*Swing analysis: Timing, Angle, Driving\
+      \ distance etc.<br />\r\n*Graphic level option<br />\r\n*Length of bat option\
+      \ (*Require use of VIVE or OCULUS Tracker)<br />\r\n*Location of batter's box\
+      \ option"
+    developers:
+    - WISECAT
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/903620/header.jpg?t=1539852667
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256726920
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256726920/movie480.mp4?t=1535588056
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256726920/movie_max.mp4?t=1535588056
+      name: Everyday Baseball VR Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256726920/movie.293x165.jpg?t=1535588056
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256726920/movie480.webm?t=1535588056
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256726920/movie_max.webm?t=1535588056
+    name: Everyday Baseball VR
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Everyday Baseball VR - $14.99
+        packageid: 289077
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Everyday Baseball VR
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $29.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$29.99 at checkout,
+          auto-renewed every 1 month(s) at $29.99.</p>
+        option_text: $29.99 / month
+        packageid: 329955
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy Everyday Baseball VR Subscription Plan
+    packages:
+    - 289077
+    - 329955
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Intel\
+        \ i5-4590 / AMD FX 8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA GeForce\xAE GTX 970 / AMD Radeon\u2122 R9 290<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB\
+        \ available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Intel\
+        \ i5-4590 / AMD FX 8350 equivalent or greater<br></li><li><strong>Memory:</strong>\
+        \ 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX\
+        \ 980 / AMD Radeon\u2122 R9 380 equivalent or greater<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB\
+        \ available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - WISECAT
+    release_date:
+      coming_soon: false
+      date: Sep 12, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_25170baec80f1685f525f95113a838b3646b3928.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_25170baec80f1685f525f95113a838b3646b3928.600x338.jpg?t=1539852667
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_2970e5502a4fb85e0fd40479ce9c0126b6e5d19e.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_2970e5502a4fb85e0fd40479ce9c0126b6e5d19e.600x338.jpg?t=1539852667
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_0eda5eeef9fee8d67c951aef930216376731d07c.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_0eda5eeef9fee8d67c951aef930216376731d07c.600x338.jpg?t=1539852667
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_9c6cab2dd47f487e950ddc53943e75708b39f87b.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_9c6cab2dd47f487e950ddc53943e75708b39f87b.600x338.jpg?t=1539852667
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_978f66c26938aac37f90087bac989fef3cb48c48.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_978f66c26938aac37f90087bac989fef3cb48c48.600x338.jpg?t=1539852667
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_0cd246113dd2498aae74b6945642416565de6f8f.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_0cd246113dd2498aae74b6945642416565de6f8f.600x338.jpg?t=1539852667
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_10652cf913f793993f62ca88468e9b76aeb59ae2.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_10652cf913f793993f62ca88468e9b76aeb59ae2.600x338.jpg?t=1539852667
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_3d4d9c1e7b6273d6b009eabece24ddc5949d374b.1920x1080.jpg?t=1539852667
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/903620/ss_3d4d9c1e7b6273d6b009eabece24ddc5949d374b.600x338.jpg?t=1539852667
+    short_description: Everyday Baseball VR is a VR baseball game which is based in
+      real baseball. We've been continuously mulling over how to improve convenience
+      without losing realism so that people can easily play our game whether they
+      are familiar with baseball or not.
+    steam_appid: 903620
+    support_info:
+      email: wisecat@wisecat.co.kr
+      url: http://www.wisecat.co/Home
+    supported_languages: English<strong>*</strong>, Korean<br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.wisecat.co/Home
+  success: true
+reviews:
+  cursor: AoJwkciUq/MCe/fMlQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 9 user reviews
+    total_negative: 4
+    total_positive: 5
+    total_reviews: 9
+  reviews:
+  - author:
+      last_played: 1596708208
+      num_games_owned: 22
+      num_reviews: 8
+      playtime_at_review: 14
+      playtime_forever: 27
+      playtime_last_two_weeks: 0
+      steamid: '76561197989040057'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '72771451'
+    review: So I thought it's a full baseball game. Only to realise it's just batting
+      practice homerun derby in nice stadium. Good graphics but batting is about all
+      you get with this game.
+    steam_purchase: true
+    timestamp_created: 1594881098
+    timestamp_updated: 1594881098
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.476190477609634399'
+    written_during_early_access: false
+  success: 1

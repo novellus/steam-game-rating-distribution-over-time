@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: Infinity Jukebox provides you a growing set of high quality game
+      music across many genres.  You can access Infinity Jukebox from it's full game
+      inside My Neighborhood Arcade, or via the F6 popup during any game.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1423250/page_bg_generated_v6b.jpg?t=1609501737
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Infinity Jukebox provides you a growing set of high quality
+      game music across many genres.  You can access Infinity Jukebox from it's full
+      game inside My Neighborhood Arcade, or via the F6 popup during any game.
+    developers:
+    - Layer Arcade
+    fullgame:
+      appid: '1400980'
+      name: My Neighborhood Arcade
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1423250/header.jpg?t=1609501737
+    is_free: true
+    legal_notice: Copyright Simulated Entertainment 2020
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256802363
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256802363/movie480.mp4?t=1601148223
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256802363/movie_max.mp4?t=1601148223
+      name: Infinity Jukebox
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256802363/movie.293x165.jpg?t=1601148223
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256802363/movie480_vp9.webm?t=1601148223
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256802363/movie_max_vp9.webm?t=1601148223
+    name: 'My Neighborhood Arcade: Infinity Jukebox Unit'
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> I5-5200U<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Intell HD Graphics 5500</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> AMD Phenom II x4 965<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 650Ti or AMD R7
+        260</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Simulated Entertainment
+    release_date:
+      coming_soon: false
+      date: Sep 26, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_f2c4259db2b6304ce98049ddf139a770f3010860.1920x1080.jpg?t=1609501737
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_f2c4259db2b6304ce98049ddf139a770f3010860.600x338.jpg?t=1609501737
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_2937fff71802dcdc1671375ff68b054b943ee7d3.1920x1080.jpg?t=1609501737
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_2937fff71802dcdc1671375ff68b054b943ee7d3.600x338.jpg?t=1609501737
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_b7f78859485a5ab4b79f7ec8818fd866a4783d61.1920x1080.jpg?t=1609501737
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_b7f78859485a5ab4b79f7ec8818fd866a4783d61.600x338.jpg?t=1609501737
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_536ef0bee6e5288f3749ad05e8f227d2963aa776.1920x1080.jpg?t=1609501737
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_536ef0bee6e5288f3749ad05e8f227d2963aa776.600x338.jpg?t=1609501737
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_20b750d01a374cf3b799389ab4c4b57afabbfa64.1920x1080.jpg?t=1609501737
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1423250/ss_20b750d01a374cf3b799389ab4c4b57afabbfa64.600x338.jpg?t=1609501737
+    short_description: Infinity Jukebox provides you a growing set of high quality
+      game music across many genres. You can access Infinity Jukebox from it's full
+      game inside My Neighborhood Arcade, or via the F6 popup during any game.
+    steam_appid: 1423250
+    support_info:
+      email: support@MyNeighborhoodArcade.com
+      url: https://discord.gg/SnEdBw
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

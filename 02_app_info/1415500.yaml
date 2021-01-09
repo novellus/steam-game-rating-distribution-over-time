@@ -1,0 +1,189 @@
+details:
+  data:
+    about_the_game: "SUDOKU TIME is a classic logical puzzle with combinatorics of\
+      \ numbers. The goal of the puzzle is to fill in the empty cells with numbers\
+      \ from 1 to 9 so that in each row, in each column, and in each small square\
+      \ (region) 3 \xD7 3, each digit occurs only once. Each puzzle has only one solution!<br><br>The\
+      \ blue cells are empty, green means you're on the right way to the solution,\
+      \ red color signals about an error, grey cells are initial cells and they cannot\
+      \ be replaced. Hints will let you know whether you are acting correctly or not.<br><br><strong>Game\
+      \ Features:</strong><br><ul class=\"bb_ul\"><li> 40 new levels<br></li><li>\
+      \ Increasing difficulty<br></li><li> Nice graphics<br></li><li> Pleasant music</li></ul>"
+    achievements:
+      highlighted:
+      - name: 5!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/c4f94714e30d8641d8269d615be9c6595f35aa49.jpg
+      - name: 10!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/0ed6f4e05640ccca30a0a2f92e2b823003b80e6d.jpg
+      - name: 15!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/ef6ef87c8c523fd6e73c52031c321fbec9cba2e3.jpg
+      - name: 20!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/f67f06a255802123619d6025f7802609547d726d.jpg
+      - name: 25!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/f57bd142b6c84d12d720e9f3c865618814a3389a.jpg
+      - name: 30!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/df56afedbce0f2a302290e68a259ac3779c90676.jpg
+      - name: 35!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/ea5acc3b27c688a435e5a889416c44e0f0b9897d.jpg
+      - name: 40!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1415500/740f47758f96396f14a33c65490b376e258c1d4c.jpg
+      total: 8
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1415500/page_bg_generated_v6b.jpg?t=1600769947
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "SUDOKU TIME is a classic logical puzzle with combinatorics\
+      \ of numbers. The goal of the puzzle is to fill in the empty cells with numbers\
+      \ from 1 to 9 so that in each row, in each column, and in each small square\
+      \ (region) 3 \xD7 3, each digit occurs only once. Each puzzle has only one solution!<br><br>The\
+      \ blue cells are empty, green means you're on the right way to the solution,\
+      \ red color signals about an error, grey cells are initial cells and they cannot\
+      \ be replaced. Hints will let you know whether you are acting correctly or not.<br><br><strong>Game\
+      \ Features:</strong><br><ul class=\"bb_ul\"><li> 40 new levels<br></li><li>\
+      \ Increasing difficulty<br></li><li> Nice graphics<br></li><li> Pleasant music</li></ul>"
+    developers:
+    - Garage Games
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1415500/header.jpg?t=1600769947
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256799789
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799789/movie480.mp4?t=1599593204
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799789/movie_max.mp4?t=1599593204
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256799789/movie.293x165.jpg?t=1599593204
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799789/movie480_vp9.webm?t=1599593204
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799789/movie_max_vp9.webm?t=1599593204
+    name: SUDOKU TIME
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SUDOKU TIME - $1.99
+        packageid: 496790
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy SUDOKU TIME
+    packages:
+    - 496790
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> Core2Duo<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD2000<br></li><li><strong>Storage:</strong>
+        350 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> QuadCore<br></li><li><strong>Memory:</strong>
+        1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD2000 or better<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Garage Games
+    release_date:
+      coming_soon: false
+      date: Sep 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_798e03bd7743d008c373692094f0c028b5696b8a.1920x1080.jpg?t=1600769947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_798e03bd7743d008c373692094f0c028b5696b8a.600x338.jpg?t=1600769947
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_3565b304dafd10bc24b6bbf94ca7af34da8b866c.1920x1080.jpg?t=1600769947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_3565b304dafd10bc24b6bbf94ca7af34da8b866c.600x338.jpg?t=1600769947
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_c64ecbcbd9f983f7590a7b6f979e4b99c9976eb1.1920x1080.jpg?t=1600769947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_c64ecbcbd9f983f7590a7b6f979e4b99c9976eb1.600x338.jpg?t=1600769947
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_8f562b3bae10fc22fdb4d5500a4ca0577ec2047a.1920x1080.jpg?t=1600769947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_8f562b3bae10fc22fdb4d5500a4ca0577ec2047a.600x338.jpg?t=1600769947
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_a8965b17c6c2aaf635c46683b0f57f3c02101c67.1920x1080.jpg?t=1600769947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_a8965b17c6c2aaf635c46683b0f57f3c02101c67.600x338.jpg?t=1600769947
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_e22a201a66310cd4006b7443aeb698f5a0fa3342.1920x1080.jpg?t=1600769947
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1415500/ss_e22a201a66310cd4006b7443aeb698f5a0fa3342.600x338.jpg?t=1600769947
+    short_description: "SUDOKU TIME is a classic logical puzzle with combinatorics\
+      \ of numbers. The goal of the puzzle is to fill in the empty cells with numbers\
+      \ from 1 to 9 so that in each row, in each column, and in each small square\
+      \ (region) 3 \xD7 3, each digit occurs only once. Each puzzle has only one solution!"
+    steam_appid: 1415500
+    support_info:
+      email: mail@garage-games.ru
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJw9ajVzfYCcpOSvQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 1
+    total_positive: 2
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1608922607
+      num_games_owned: 730
+      num_reviews: 44
+      playtime_at_review: 20
+      playtime_forever: 20
+      playtime_last_two_weeks: 20
+      steamid: '76561198028202581'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83136818'
+    review: 'I didn''t know you could make Sudoku bad? The screen is fuzzy, the colors
+      run together making most of the difficulty of the puzzle trying to discern if
+      you are looking at a 7, 8 or a 9. You can''t pencil in options, so once you
+      have figured out what numbers are there you are just gonna have to remember.
+
+
+      Also if you click on an empty space it automatically puts a 1 there. Clicking
+      brings the number up, Right clicking down. Bonus, sometimes when you click off
+      to a different square the old square Also goes up a number. Congrats on teaching
+      me that nothing is sacred in this world, and you can in fact screw up something
+      as simple as Sudoku.'
+    steam_purchase: true
+    timestamp_created: 1608923826
+    timestamp_updated: 1608923826
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

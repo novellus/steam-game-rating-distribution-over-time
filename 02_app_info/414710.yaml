@@ -1,0 +1,103 @@
+details:
+  data:
+    about_the_game: "The Original Soundtrack of Wait -Extended.<br />\r\nComposed\
+      \ and produced by Daniel Szodruch<br />\r\n&quot;The universe is something that\
+      \ happens&quot; performed and written by Nihiling. <br />\r\n<br />\r\nThe soundtrack\
+      \ consists of 23 tracks and is slighty altered in length and composition to\
+      \ allow comfortable listening."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/414710/page_bg_generated_v6b.jpg?t=1530033024
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Original Soundtrack of Wait -Extended.<br />\r\nComposed\
+      \ and produced by Daniel Szodruch<br />\r\n&quot;The universe is something that\
+      \ happens&quot; performed and written by Nihiling. <br />\r\n<br />\r\nThe soundtrack\
+      \ consists of 23 tracks and is slighty altered in length and composition to\
+      \ allow comfortable listening."
+    developers:
+    - rest.less Games
+    fullgame:
+      appid: '347730'
+      name: Wait - Extended
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/414710/header.jpg?t=1530033024
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Wait - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wait - Original Soundtrack - $3.99
+        packageid: 83315
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Wait - Original Soundtrack
+    packages:
+    - 83315
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Microsoft Windows XP/Vista/7/8<br></li><li><strong>Processor:</strong> Intel
+        Pentium 4 2.0 GHz or faster<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        76 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 29, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/414710/ss_14e8a24f34fa4f6efb91d48888e1c5d807ef2ffa.1920x1080.jpg?t=1530033024
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/414710/ss_14e8a24f34fa4f6efb91d48888e1c5d807ef2ffa.600x338.jpg?t=1530033024
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/414710/ss_e7e97dcbf3a9f8884fc212407f0bff328a6b2664.1920x1080.jpg?t=1530033024
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/414710/ss_e7e97dcbf3a9f8884fc212407f0bff328a6b2664.600x338.jpg?t=1530033024
+    short_description: The Original Soundtrack of Wait - Extended.
+    steam_appid: 414710
+    support_info:
+      email: info@thinkrestless.com
+      url: http://thinkrestless.com/
+    type: dlc
+    website: http://thinkrestless.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

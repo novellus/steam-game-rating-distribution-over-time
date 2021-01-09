@@ -1,0 +1,110 @@
+details:
+  data:
+    about_the_game: "This pack brings you bonus content used to create game.<br />\r\
+      \n<br />\r\nFeatures.<br />\r\n<br />\r\n-Some game map levels.<br />\r\n<br\
+      \ />\r\n-Free game  media like audio and images."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/887350/page_bg_generated_v6b.jpg?t=1584366516
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This pack brings you bonus content used to create game.<br\
+      \ />\r\n<br />\r\nFeatures.<br />\r\n<br />\r\n-Some game map levels.<br />\r\
+      \n<br />\r\n-Free game  media like audio and images."
+    developers:
+    - RPG Adventures Team
+    fullgame:
+      appid: '850310'
+      name: Deadly Station
+    genres:
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/887350/header.jpg?t=1584366516
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Deadly Station - Supporter Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Supporter Pack - $0.99
+        packageid: 282305
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Deadly Station - Supporter Pack
+    packages:
+    - 282305
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP (SP3) or higher<br></li><li><strong>Processor:</strong> 3.0 GHz
+        P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)<br></li><li><strong>Memory:</strong>
+        128 MB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics Media Accelerator
+        950 or equivalent<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Sound
+        Card:</strong> Dolby Surround 5.1</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or higher<br></li><li><strong>Processor:</strong> 3.0 GHz P4, Dual
+        Core 2.0 (or higher) or AMD64X2 (or higher)<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X800 / NVIDIA
+        GeForce 7600 / Intel HD Graphics 2000 or higher<br></li><li><strong>Storage:</strong>
+        20 MB available space<br></li><li><strong>Sound Card:</strong> Dolby Surround
+        5.1</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 13, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/887350/ss_b15e85898ba0142ec13a05f8b890bd6bee3989cb.1920x1080.jpg?t=1584366516
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/887350/ss_b15e85898ba0142ec13a05f8b890bd6bee3989cb.600x338.jpg?t=1584366516
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/887350/ss_16f7a3e56f8a710c852a4f40718f842aa9527981.1920x1080.jpg?t=1584366516
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/887350/ss_16f7a3e56f8a710c852a4f40718f842aa9527981.600x338.jpg?t=1584366516
+    short_description: Bonus content used to create game.
+    steam_appid: 887350
+    support_info:
+      email: francotf514@gmail.com
+      url: rpgadventures.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

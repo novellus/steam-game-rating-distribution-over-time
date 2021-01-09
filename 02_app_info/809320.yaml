@@ -1,0 +1,200 @@
+details:
+  data:
+    about_the_game: "Meet a new minimalistic puzzle in which you have to hit the balls\
+      \ in the basket and complete the level. You can draw tracks to help the balls\
+      \ and also erase them. There are several obstacles and very vulnerable birds,\
+      \ wind gusts and waterfalls, black holes and teleports.<br />\r\n<br />\r\n\
+      - Minimalistic<br />\r\n- Cute (maybe not)<br />\r\n- 18 levels"
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/94de65df3781d6317f2cea814a787d2ad197b646.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/4edb8aa6911a6900a3cfa20d9028bfb716ad7b82.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/3aa7b3b02387dc758b4624e6730d9073236fba97.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/cff680d0a66892f87b452b0a80a03c13f9de7684.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/c82a6f299722393c37b78962e09f2b51e7fb5213.jpg
+      - name: Level6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/b4c1af0246c545363f19fd565616a1496302a27e.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/bd92c5d2314327bf1a1cf7e17a1633438e80749a.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/97e05573e812e0fb90ce143c1d44e4c1d6b3d25c.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/14015a5d4f2043db3e010e540f165425b897bdf2.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/809320/93579cdfaa119106cbba89fe141e71e87de12523.jpg
+      total: 20
+    background: https://steamcdn-a.akamaihd.net/steam/apps/809320/page_bg_generated_v6b.jpg?t=1525214744
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Meet a new minimalistic puzzle in which you have to hit\
+      \ the balls in the basket and complete the level. You can draw tracks to help\
+      \ the balls and also erase them. There are several obstacles and very vulnerable\
+      \ birds, wind gusts and waterfalls, black holes and teleports.<br />\r\n<br\
+      \ />\r\n- Minimalistic<br />\r\n- Cute (maybe not)<br />\r\n- 18 levels"
+    developers:
+    - EasyGames
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/809320/header.jpg?t=1525214744
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04 &amp; Steam OS<br></li><li><strong>Processor:</strong> Dual Core
+        CPU<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        256mb<br></li><li><strong>Storage:</strong> 85 MB available space<br></li><li><strong>Additional
+        Notes:</strong> Game currently only works in windowed mode on Linux operating
+        systems.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.6.x (Snow Leopard)<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 256mb<br></li><li><strong>Storage:</strong>
+        80 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256710562
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256710562/movie480.mp4?t=1520268658
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256710562/movie_max.mp4?t=1520268658
+      name: '1'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256710562/movie.293x165.jpg?t=1520268658
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256710562/movie480.webm?t=1520268658
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256710562/movie_max.webm?t=1520268658
+    name: Silent Tweets
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Silent Tweets - $1.99
+        packageid: 246948
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Silent Tweets
+    packages:
+    - 246948
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 128mb<br></li><li><strong>Storage:</strong>
+        35 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - EasyGames
+    release_date:
+      coming_soon: false
+      date: Mar 5, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_a3ecfa3a504995e70851f4ec4ca985e9873d47a7.1920x1080.jpg?t=1525214744
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_a3ecfa3a504995e70851f4ec4ca985e9873d47a7.600x338.jpg?t=1525214744
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_ccaf6f3568a9582b2f31de4fe16b8f7631af9105.1920x1080.jpg?t=1525214744
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_ccaf6f3568a9582b2f31de4fe16b8f7631af9105.600x338.jpg?t=1525214744
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_f62b20f560905d51dde728cf8171b3c1f48dfdc0.1920x1080.jpg?t=1525214744
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_f62b20f560905d51dde728cf8171b3c1f48dfdc0.600x338.jpg?t=1525214744
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_d59b5ce18d0944c5c63f760db7aca266dd2e0249.1920x1080.jpg?t=1525214744
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_d59b5ce18d0944c5c63f760db7aca266dd2e0249.600x338.jpg?t=1525214744
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_2d5b4b72fb545ce2e4914cbe45b55bdd9df1030c.1920x1080.jpg?t=1525214744
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/809320/ss_2d5b4b72fb545ce2e4914cbe45b55bdd9df1030c.600x338.jpg?t=1525214744
+    short_description: Meet a new minimalistic puzzle in which you have to hit the
+      balls in the basket and complete the level.
+    steam_appid: 809320
+    support_info:
+      email: hali.lool.love@gmail.com
+      url: https://www.facebook.com/easygamesop/
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwrsWpkfYCff3atgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 3
+    total_positive: 8
+    total_reviews: 11
+  reviews:
+  - author:
+      last_played: 1606898837
+      num_games_owned: 1115
+      num_reviews: 143
+      playtime_at_review: 31
+      playtime_forever: 31
+      playtime_last_two_weeks: 0
+      steamid: '76561198033180312'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '81450973'
+    review: "[table]\n[tr]\n[th]\uD3C9\uAC00\uC694\uC18C[/th]\n[th]\uD3C9\uAC00(5\uC810\
+      \ \uB9CC\uC810)[/th]\n[/tr]\n[tr]\n[th]\uC7AC\uBBF8[/th]\n[th]\u2605\u2605\u2605\
+      [/th]\n[/tr]\n[tr]\n[th]\uBC18\uBCF5\uD574\uB3C4 \uC9C0\uB8E8\uD558\uC9C0 \uC54A\
+      \uC74C[/th]\n[th]\u2605\u2605[/th]\n[/tr]\n[tr]\n[th]\uADF8\uB798\uD53D/\uD3B8\
+      \uC758\uC131[/th]\n[th]\u2605\u2605\u2605[/th]\n[/tr]\n[tr]\n[th]\uB09C\uC774\
+      \uB3C4/\uC131\uCDE8\uAC10/\uCEE8\uD150\uCE20\uB7C9 \uC801\uC815\uB3C4[/th]\n\
+      [th]\u2605\u2605[/th]\n[/tr]\n[/table]\n===============\uCD1D\uD3C9===============\n\
+      [h1] \uACF5\uC9D1\uC5B4\uB123\uAE30 \uD37C\uC990\uAC8C\uC784. \uB09C\uC774\uB3C4\
+      \uAC00 \uB108\uBB34 \uC27D\uACE0 \uCEE8\uD150\uCE20 \uBD80\uC871. [/h1]\n\n\uAD49\
+      \uC7A5\uD788 \uC2EC\uD50C\uD569\uB2C8\uB2E4.\n\uC120\uC744 \uADF8\uC5B4\uC11C\
+      \ \uACF5\uC758 \uBC29\uD5A5\uC744 \uC870\uC815\uD55C \uD6C4 \uBAA9\uC801\uC9C0\
+      \uC5D0 \uC57D 10\uAC1C\uC758 \uACF5\uC744 \uB123\uC73C\uBA74 \uB418\uB294 \uAC8C\
+      \uC784\uC785\uB2C8\uB2E4.\n\uD2B9\uC218\uBE14\uB85D\uC73C\uB85C\uB294 \uAC80\
+      \uC740\uBE14\uB85D(\uB9DE\uCD94\uBA74 \uC548\uB428) / \uD654\uC0B4\uD45C (\uAC00\
+      \uC18D) / \uD3EC\uD0C8(\uC21C\uAC04\uC774\uB3D9) / \uC0C8 (\uB9DE\uCD94\uBA74\
+      \ \uC548\uB428) \uC815\uB3C4\uAC00 \uC788\uC2B5\uB2C8\uB2E4.\n\n\uC5EC\uAE30\
+      \uC11C \uC870\uAE08 \uB354 \uC544\uC774\uB514\uC5B4\uB97C \uB123\uC790\uBA74\
+      \n\uD55C \uC2A4\uD14C\uC774\uC9C0\uB2F9 \uC4F8 \uC218 \uC788\uB294 \uC120\uC758\
+      \ \uAC2F\uC218\uB97C \uC81C\uD55C\uD55C\uB2E4\uB4E0\uC9C0\n\uC815\uAD50\uD55C\
+      \ \uB9F5\uC744 \uB9CC\uB4E4\uC5B4 \uBC18\uB4DC\uC2DC \uD574\uB2F9 \uB85C\uC9C1\
+      \uC73C\uB85C\uB9CC \uD574\uACB0\uD558\uAC8C \uD55C\uB2E4\uB4E0\uC9C0\n\uC870\
+      \uAE08 \uB354 \uB2E4\uC591\uD55C \uCEE8\uD150\uCE20\uB97C \uB123\uC5C8\uC73C\
+      \uBA74 \uADF8\uB798\uB3C4 \uD560\uB9CC\uD55C \uAC8C\uC784\uC774\uC9C0 \uC54A\
+      \uC558\uC744\uAE4C \uC2F6\uC2B5\uB2C8\uB2E4.\n\n\uCEE8\uD150\uCE20\uBD80\uC871\
+      \uC73C\uB85C \uBE44\uCD94\uCC9C\uB4DC\uB9BD\uB2C8\uB2E4."
+    steam_purchase: true
+    timestamp_created: 1606899084
+    timestamp_updated: 1606899084
+    voted_up: false
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.569983124732971191'
+    written_during_early_access: false
+  success: 1

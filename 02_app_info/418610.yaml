@@ -1,0 +1,197 @@
+details:
+  data:
+    about_the_game: Swiftly is a very challenging platformer game. It has simple graphics
+      and easy to understand rules, but you are going to have a hard time completing
+      the levels.<br><br><ul class="bb_ul"><li>Blue platforms are just your average
+      platform with no special traits.<br></li><li>Green platforms has a bounciness
+      of 120%<br></li><li>Red platforms have zero friction.</li></ul><br>Throughout
+      the level, there are gears which come in all sizes, looking to kill the cube.
+      <br>The player's objective is to lead the cube to the winning point. There are
+      also checkpoints scattered throughout the levels.
+    achievements:
+      highlighted:
+      - name: Level 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/c26ec22b485b1f223356996a11ba06f7a539e8e0.jpg
+      - name: Level 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/1cf84b65907a8ee812a4b20342255cbdbcc53090.jpg
+      - name: Level 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/22148a248757002e5d6c3df77a2f07e29bc1caf0.jpg
+      - name: Level 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/fa86fd89345279496fd0a2185a1eaedf9f33c721.jpg
+      - name: Level 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/12c7fbf165bca41f3dca5e8aebbb8ecc121acd09.jpg
+      - name: Level 6
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/ca54c44f42783df8005b387928d04230b0f892bb.jpg
+      - name: Level 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/7ed630b5c51e1b95146420af6960d17e27440b9b.jpg
+      - name: Level 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/1624d4c7bdd942f0837ff726ba8db412016a5b9f.jpg
+      - name: Level 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/d5e68807d3aad8571890af318600c90a43fdc967.jpg
+      - name: Level 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418610/1ab3018419309f70ce8df292a174b660142312c5.jpg
+      total: 24
+    background: https://steamcdn-a.akamaihd.net/steam/apps/418610/page_bg_generated_v6b.jpg?t=1478260550
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Swiftly is a very challenging platformer game. It has simple
+      graphics and easy to understand rules, but you are going to have a hard time
+      completing the levels.<br><br><ul class="bb_ul"><li>Blue platforms are just
+      your average platform with no special traits.<br></li><li>Green platforms has
+      a bounciness of 120%<br></li><li>Red platforms have zero friction.</li></ul><br>Throughout
+      the level, there are gears which come in all sizes, looking to kill the cube.
+      <br>The player's objective is to lead the cube to the winning point. There are
+      also checkpoints scattered throughout the levels.
+    developers:
+    - Cleverweek
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/418610/header.jpg?t=1478260550
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04, Any SteamOS<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or later, Any SteamOS<br></li><li><strong>Memory:</strong> 256
+        MB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.7 Lion<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8 Mountain Lion or later<br></li><li><strong>Memory:</strong> 256 MB
+        RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256659874
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659874/movie480.mp4?t=1453342090
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659874/movie_max.mp4?t=1453342090
+      name: Swiftly Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256659874/movie.293x165.jpg?t=1453342090
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659874/movie480.webm?t=1453342090
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659874/movie_max.webm?t=1453342090
+    name: Swiftly
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Swiftly - $0.99
+        packageid: 84755
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Swiftly
+    packages:
+    - 84755
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong>
+        128 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later<br></li><li><strong>Processor:</strong> Intel Pentium 4
+        (Prescott) or later<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Cleverweek
+    release_date:
+      coming_soon: false
+      date: Jan 26, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_8395f3df263cdb6be8cee1ec937a1d50bf868351.1920x1080.jpg?t=1478260550
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_8395f3df263cdb6be8cee1ec937a1d50bf868351.600x338.jpg?t=1478260550
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_70b621d93cbbbbe0ce8585d0f4781070f5746ea2.1920x1080.jpg?t=1478260550
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_70b621d93cbbbbe0ce8585d0f4781070f5746ea2.600x338.jpg?t=1478260550
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_2475bd14bb5bb3de398c85e30b26492f2bc1f799.1920x1080.jpg?t=1478260550
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_2475bd14bb5bb3de398c85e30b26492f2bc1f799.600x338.jpg?t=1478260550
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_577e73bdd96502315a3a71472da9cfcc9463e70b.1920x1080.jpg?t=1478260550
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_577e73bdd96502315a3a71472da9cfcc9463e70b.600x338.jpg?t=1478260550
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_fecea81b068d9af286942dc74761c282589d4a47.1920x1080.jpg?t=1478260550
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_fecea81b068d9af286942dc74761c282589d4a47.600x338.jpg?t=1478260550
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_3663eb0c85c6115465741daaea662d0d68f49491.1920x1080.jpg?t=1478260550
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/418610/ss_3663eb0c85c6115465741daaea662d0d68f49491.600x338.jpg?t=1478260550
+    short_description: Swiftly is a very challenging platformer game. It has simple
+      graphics and easy to understand rules, but you are going to have a hard time
+      completing the levels.
+    steam_appid: 418610
+    support_info:
+      email: support@cleverweek.com
+      url: http://www.cleverweek.com
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://www.cleverweek.com
+  success: true
+reviews:
+  cursor: AoJwk/S6lfYCf4GOtwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 30
+    total_positive: 35
+    total_reviews: 65
+  reviews:
+  - author:
+      last_played: 1607037605
+      num_games_owned: 813
+      num_reviews: 90
+      playtime_at_review: 9
+      playtime_forever: 9
+      playtime_last_two_weeks: 0
+      steamid: '76561198054690449'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '81555487'
+    review: Avoid this game at all costs!  It's like playing Super Meat Boy with NES
+      Castlevania controls.  Speaking of controls, you'll have to likely revamp them
+      from the ground up if you're using a controller.
+    steam_purchase: true
+    timestamp_created: 1607037665
+    timestamp_updated: 1607037854
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

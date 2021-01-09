@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '640570'
+      name: Miss Kobayashi's Dragon Maid
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/640570/header.jpg?t=1553557395
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Miss Kobayashi''s Dragon Maid: Summer''s Staples! (The Fanservice Episode,
+      Frankly)'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Miss Kobayashi''s Dragon Maid: Summer''s Staples! (The Fanservice
+          Episode, Frankly) - $1.99'
+        packageid: 177956
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Miss Kobayashi''s Dragon Maid: Summer''s Staples! (The Fanservice
+        Episode, Frankly)'
+    packages:
+    - 177956
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: Miss Kobayashi and the others go to the beach. But Lucoa's
+      immediately dragged off by one of the lifeguards for her overly skimpy swimsuit.
+      After regrouping, they put sunscreen on each other, split a watermelon, go swimming
+      together, and enjoy summer to the fullest. After the beach, it's comiket!
+    steam_appid: 641396
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4rOjlo+8CdNy45wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1593606150
+      num_games_owned: 187
+      num_reviews: 30
+      playtime_at_review: 27
+      playtime_forever: 6320
+      playtime_last_two_weeks: 0
+      steamid: '76561198808694538'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '60671428'
+    review: Have you heard of a girl called Tohru? She's pretty hot...
+    steam_purchase: true
+    timestamp_created: 1577454093
+    timestamp_updated: 1577454093
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.545454561710357666'
+    written_during_early_access: false
+  success: 1

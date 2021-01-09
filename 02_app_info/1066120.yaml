@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: '<h2 class="bb_tag">ABOUT THIS CONTENT</h2>All the tracks from
+      Deck of Ashes written by Mark Braga. All songs available with covers, credits
+      and full meta tags.<h2 class="bb_tag">TRACK LIST</h2>01 Ash Curse<br>02 Camp
+      Theme<br>03 Lurking Danger<br>04 Battle Theme #1<br>05 Battle Theme #2<br>06
+      Battle Theme #3<br>07 Battle Theme #4<br>08 Battle Theme #5<br>09 Battle Theme
+      #6<br>10 Battle Theme #7<br>11 No Mercy!<h2 class="bb_tag">CREDITS</h2>Music
+      composed by Mark Braga.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1066120/page_bg_generated_v6b.jpg?t=1591888517
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h2 class="bb_tag">ABOUT THIS CONTENT</h2>All the tracks
+      from Deck of Ashes written by Mark Braga. All songs available with covers, credits
+      and full meta tags.<h2 class="bb_tag">TRACK LIST</h2>01 Ash Curse<br>02 Camp
+      Theme<br>03 Lurking Danger<br>04 Battle Theme #1<br>05 Battle Theme #2<br>06
+      Battle Theme #3<br>07 Battle Theme #4<br>08 Battle Theme #5<br>09 Battle Theme
+      #6<br>10 Battle Theme #7<br>11 No Mercy!<h2 class="bb_tag">CREDITS</h2>Music
+      composed by Mark Braga.'
+    developers:
+    - AYGames
+    fullgame:
+      appid: '1016730'
+      name: Deck of Ashes
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1066120/header.jpg?t=1591888517
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Deck of Ashes - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Deck of Ashes - Original Soundtrack - $6.99
+        packageid: 356810
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy Deck of Ashes - Original Soundtrack
+    packages:
+    - 356810
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 512 Mb capable of OpenGL 2.0+
+        support<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX9 Compatible</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Buka Entertainment
+    - WhisperGames
+    release_date:
+      coming_soon: false
+      date: Apr 15, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1066120/ss_a39e436623f5a42d99b9580b943839b9390c0f50.1920x1080.jpg?t=1591888517
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1066120/ss_a39e436623f5a42d99b9580b943839b9390c0f50.600x338.jpg?t=1591888517
+    short_description: "Deck of Ashes\u2014Original Soundtrack"
+    steam_appid: 1066120
+    support_info:
+      email: help@buka.ru
+      url: https://aygamesco.com/
+    supported_languages: English, Russian, Simplified Chinese, French, German, Japanese
+    type: dlc
+    website: http://deckofashes.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

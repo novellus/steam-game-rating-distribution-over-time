@@ -1,0 +1,188 @@
+details:
+  data:
+    about_the_game: 'Pretty simple game combination between 2048 and match-3 settings
+      with awesome monster cakes. Put your monster cake in the good hole and combine
+      them together to get higher monster cake. Combine them as high as you can and
+      be on the top of the leaderboard!<br><br>Contact e-mail: <u>contact@palenogames.ru</u>'
+    achievements:
+      highlighted:
+      - name: Play
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/5f7851e73d3bd17e4328db24c8fdc2acf1c8a9cf.jpg
+      - name: A
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/cee19dc2d0dfe2feab2062c5907e5b98b8f70556.jpg
+      - name: B
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/b002d207f67d69439c66ea380e1d2ef1b088d682.jpg
+      - name: C
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/6e28df46ad5bcb6ddc9cdd0e10938e92dcd82e6c.jpg
+      - name: D
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/a473f260ed2a11899aaa64058a3ebcc2ce35e480.jpg
+      - name: E
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/d6d081f2ea45511e69404701b0cfd1872841253a.jpg
+      - name: F
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/271753af392ea74922022a045bd9ff99d43ab870.jpg
+      - name: G
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/ac63a685a986f583162b564d8c08b0c5c1f95759.jpg
+      - name: H
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/62f272265e5b7c68cbb4b33a122c7464b7e49d61.jpg
+      - name: I
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/614910/06e2e467d2392d5e2a53042cd74f75f7d1edcce1.jpg
+      total: 118
+    background: https://steamcdn-a.akamaihd.net/steam/apps/614910/page_bg_generated_v6b.jpg?t=1571851168
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Workshop
+      id: 30
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h1>Steam Inventory</h1><p>Play game and receive sticker
+      packs. Open packs and get stickers. Use stickers on the game board, trade, sell
+      or use them in your showcases!</p><br><h1>About the Game</h1>Pretty simple game
+      combination between 2048 and match-3 settings with awesome monster cakes. Put
+      your monster cake in the good hole and combine them together to get higher monster
+      cake. Combine them as high as you can and be on the top of the leaderboard!<br><br>Contact
+      e-mail: <u>contact@palenogames.ru</u>'
+    developers:
+    - Paleno Games
+    dlc:
+    - 635780
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/614910/header.jpg?t=1571851168
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux or SteamOS<br></li><li><strong>Processor:</strong> Dual core<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Supported<br></li><li><strong>Storage:</strong>
+        98 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256682648
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256682648/movie480.mp4?t=1491362937
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256682648/movie_max.mp4?t=1491362937
+      name: monstercakes
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256682648/movie.293x165.jpg?t=1491362937
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256682648/movie480.webm?t=1491362937
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256682648/movie_max.webm?t=1491362937
+    name: '#monstercakes'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: '#monstercakes - $0.99'
+        packageid: 164808
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy #monstercakes'
+    packages:
+    - 164808
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Dual core<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> Supported<br></li><li><strong>Storage:</strong>
+        98 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Paleno Games
+    recommendations:
+      total: 514
+    release_date:
+      coming_soon: false
+      date: May 5, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_b3dddcb51a0d08260c0a837b400db4cd7c63f91b.1920x1080.jpg?t=1571851168
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_b3dddcb51a0d08260c0a837b400db4cd7c63f91b.600x338.jpg?t=1571851168
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_b3dddcb51a0d08260c0a837b400db4cd7c63f91b.1920x1080.jpg?t=1571851168
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_b3dddcb51a0d08260c0a837b400db4cd7c63f91b.600x338.jpg?t=1571851168
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_73938e362c618733df30f17458b82649238d1a57.1920x1080.jpg?t=1571851168
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_73938e362c618733df30f17458b82649238d1a57.600x338.jpg?t=1571851168
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_14fcff9b869f90a8a48ff0ec5810adee1c10f88c.1920x1080.jpg?t=1571851168
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_14fcff9b869f90a8a48ff0ec5810adee1c10f88c.600x338.jpg?t=1571851168
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_fa1f864b7e7d1f8fd27db81b292f7248fbd77dc7.1920x1080.jpg?t=1571851168
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/614910/ss_fa1f864b7e7d1f8fd27db81b292f7248fbd77dc7.600x338.jpg?t=1571851168
+    short_description: Pretty simple game combination between 2048 and match-3 settings
+      with awesome monster cakes. Put your monster cake in the good hole and combine
+      them together to get higher monster cake. Combine them as high as you can and
+      be on the top of the leaderboard!
+    steam_appid: 614910
+    support_info:
+      email: contact@palenogames.ru
+      url: http://palenogames.ru
+    supported_languages: English, French, Italian, German, Spanish - Spain, Russian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwnLOO8PYCc/25wQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 61
+    total_positive: 452
+    total_reviews: 513
+  reviews:
+  - author:
+      last_played: 1606394390
+      num_games_owned: 2466
+      num_reviews: 2821
+      playtime_at_review: 6951
+      playtime_forever: 6951
+      playtime_last_two_weeks: 0
+      steamid: '76561198043049777'
+    comment_count: 0
+    language: brazilian
+    received_for_free: false
+    recommendationid: '84266963'
+    review: "O jogo \xE9 ruim mas eu s\xF3 n\xE3o vou negativar porque as conquistas\
+      \ ca\xEDram rapidinho."
+    steam_purchase: true
+    timestamp_created: 1610079640
+    timestamp_updated: 1610079640
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

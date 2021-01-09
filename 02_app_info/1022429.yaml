@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: "\u53EF\u4E8E\u6E38\u620F\u4E2D\u88C5\u5907\u4E0E\u4F7F\u7528\u68B5\
+      \u6069\u7684\u6B66\u5668\u201C\u767D\u91D1\u5251\u201D\u3002<br />\r\n<br />\r\
+      \n\u203B\u82E5\u8981\u4F7F\u7528\u672C\u8FFD\u52A0\u5185\u5BB9\uFF0C\u987B\u5148\
+      \u4E0B\u8F7D\u300ADISSIDIA FINAL FANTASY NT Free Edition\u300B\u3001\u300ADISSIDIA\
+      \ FINAL FANTASY NT Standard Edition\u300B\u6216\u300ADISSIDIA FINAL FANTASY\
+      \ NT Deluxe Edition\u300B\uFF08\u53EF\u5355\u72EC\u8D2D\u4E70\uFF09<br />\r\n\
+      \u203B\u82E5\u8981\u4F7F\u7528\u672C\u8FFD\u52A0\u5185\u5BB9\uFF0C\u987B\u5148\
+      \u8D2D\u4E70\u89D2\u8272\u65B0\u624B\u5305\u3002"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1022429/page_bg_generated_v6b.jpg?t=1553277826
+    categories:
+    - description: "\u591A\u4EBA"
+      id: 1
+    - description: "\u7EBF\u4E0A\u73A9\u5BB6\u5BF9\u6218"
+      id: 36
+    - description: "\u5408\u4F5C"
+      id: 9
+    - description: "\u5728\u7EBF\u5408\u4F5C"
+      id: 38
+    - description: DLC
+      id: 21
+    - description: "Steam \u6210\u5C31"
+      id: 22
+    - description: "\u5B8C\u5168\u652F\u6301\u63A7\u5236\u5668"
+      id: 28
+    - description: "Steam \u96C6\u6362\u5F0F\u5361\u724C"
+      id: 29
+    - description: "Steam \u4E91"
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "\u53EF\u4E8E\u6E38\u620F\u4E2D\u88C5\u5907\u4E0E\u4F7F\u7528\
+      \u68B5\u6069\u7684\u6B66\u5668\u201C\u767D\u91D1\u5251\u201D\u3002<br />\r\n\
+      <br />\r\n\u203B\u82E5\u8981\u4F7F\u7528\u672C\u8FFD\u52A0\u5185\u5BB9\uFF0C\
+      \u987B\u5148\u4E0B\u8F7D\u300ADISSIDIA FINAL FANTASY NT Free Edition\u300B\u3001\
+      \u300ADISSIDIA FINAL FANTASY NT Standard Edition\u300B\u6216\u300ADISSIDIA FINAL\
+      \ FANTASY NT Deluxe Edition\u300B\uFF08\u53EF\u5355\u72EC\u8D2D\u4E70\uFF09\
+      <br />\r\n\u203B\u82E5\u8981\u4F7F\u7528\u672C\u8FFD\u52A0\u5185\u5BB9\uFF0C\
+      \u987B\u5148\u8D2D\u4E70\u89D2\u8272\u65B0\u624B\u5305\u3002"
+    developers:
+    - Square Enix
+    - KOEI TECMO GAMES CO., LTD.
+    fullgame:
+      appid: '921590'
+      name: DISSIDIA FINAL FANTASY NT Free Edition
+    genres:
+    - description: "\u52A8\u4F5C"
+      id: '1'
+    - description: "\u514D\u8D39\u6E38\u73A9"
+      id: '37'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1022429/header.jpg?t=1553277826
+    is_free: false
+    legal_notice: "\xA9 2018, 2019 KOEI TECMO GAMES/SQUARE ENIX CO., LTD. All Rights\
+      \ Reserved.\u3000CHARACTER DESIGN: TETSUYA NOMURA<br />\r\nLOGO ILLUSTRATION:\xA9\
+      2017 YOSHITAKA AMANO"
+    linux_requirements: []
+    mac_requirements: []
+    name: 'DFF NT: Platinum Sword, Vaan''s 4th Weapon'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: "\u9009\u62E9\u4E00\u4E2A\u8D2D\u4E70\u9009\u9879"
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'DFF NT: Platinum Sword, Vaan''s 4th Weapon - HK$ 8.00'
+        packageid: 339309
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 800
+      title: "\u8D2D\u4E70 DFF NT: Platinum Sword, Vaan's 4th Weapon"
+    packages:
+    - 339309
+    pc_requirements:
+      minimum: "<strong>\u6700\u4F4E\u914D\u7F6E:</strong><br><ul class=\"bb_ul\"\
+        ><li><strong>\u64CD\u4F5C\u7CFB\u7EDF:</strong> Windows\xAE 10 64-bit<br></li><li><strong>\u5904\
+        \u7406\u5668:</strong> Intel\xAE Core\u2122 i5-2550 or AMD FX-6300<br></li><li><strong>\u5185\
+        \u5B58:</strong> 8 GB RAM<br></li><li><strong>\u663E\u5361:</strong> Radeon\u2122\
+        \ RX 460 or NVIDIA\xAE GeForce\xAE GTX 1050<br></li><li><strong>DirectX \u7248\
+        \u672C:</strong> 11<br></li><li><strong>\u7F51\u7EDC:</strong> \u5BBD\u5E26\
+        \u4E92\u8054\u7F51\u8FDE\u63A5<br></li><li><strong>\u5B58\u50A8\u7A7A\u95F4\
+        :</strong> \u9700\u8981 35 GB \u53EF\u7528\u7A7A\u95F4<br></li><li><strong>\u9644\
+        \u6CE8\u4E8B\u9879:</strong> 60 FPS at 1280x720 Low settings</li></ul>"
+      recommended: "<strong>\u63A8\u8350\u914D\u7F6E:</strong><br><ul class=\"bb_ul\"\
+        ><li><strong>\u64CD\u4F5C\u7CFB\u7EDF:</strong> Windows\xAE 10 64-bit<br></li><li><strong>\u5904\
+        \u7406\u5668:</strong> Intel\xAE Core\u2122 i7-6700K or AMD Ryzen\u2122 5\
+        \ 1400<br></li><li><strong>\u5185\u5B58:</strong> 8 GB RAM<br></li><li><strong>\u663E\
+        \u5361:</strong> Radeon\u2122 RX 470 or NVIDIA\xAE GeForce\xAE GTX 1060<br></li><li><strong>DirectX\
+        \ \u7248\u672C:</strong> 11<br></li><li><strong>\u7F51\u7EDC:</strong> \u5BBD\
+        \u5E26\u4E92\u8054\u7F51\u8FDE\u63A5<br></li><li><strong>\u5B58\u50A8\u7A7A\
+        \u95F4:</strong> \u9700\u8981 35 GB \u53EF\u7528\u7A7A\u95F4<br></li><li><strong>\u9644\
+        \u6CE8\u4E8B\u9879:</strong> 60 FPS at 1920x1080 High settings</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: HKD
+      discount_percent: 0
+      final: 800
+      final_formatted: HK$ 8.00
+      initial: 800
+      initial_formatted: ''
+    publishers:
+    - Square Enix
+    release_date:
+      coming_soon: false
+      date: "2019\u5E743\u670812\u65E5"
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1022429/ss_35a9f0b7d4e1fef255ac126969a702f160626b11.1920x1080.jpg?t=1553277826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1022429/ss_35a9f0b7d4e1fef255ac126969a702f160626b11.600x338.jpg?t=1553277826
+    short_description: "\u68B5\u60694th\u6B66\u5668\u201C\u767D\u91D1\u5251\u201D"
+    steam_appid: 1022429
+    support_info:
+      email: ''
+      url: https://sqex.to/steamsupport
+    supported_languages: "\u82F1\u8BED<strong>*</strong>, \u6CD5\u8BED, \u610F\u5927\
+      \u5229\u8BED, \u5FB7\u8BED, \u897F\u73ED\u7259\u8BED - \u897F\u73ED\u7259, \u65E5\
+      \u8BED<strong>*</strong>, \u97E9\u8BED, \u7E41\u4F53\u4E2D\u6587<br><strong>*</strong>\u5177\
+      \u6709\u5B8C\u5168\u97F3\u9891\u652F\u6301\u7684\u8BED\u8A00"
+    type: dlc
+    website: https://dissidiafinalfantasynt.square-enix-games.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

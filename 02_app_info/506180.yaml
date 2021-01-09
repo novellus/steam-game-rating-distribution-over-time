@@ -1,0 +1,69 @@
+details:
+  data:
+    about_the_game: "VR Fractals is a 3D Fractal Viewer for the Oculus Rift and the\
+      \ HTC Vive. To use this you must have one of those headsets.<br />\r\n<br />\r\
+      \nThe full version is an experience similar to Oculus Dreamdeck, so expect about\
+      \ 5-20 minutes of gameplay in the full version for the price of a large candy\
+      \ bar. This is a demo that is available for free, and contains one fractal and\
+      \ no editor that should give you a pretty good jist of what to expect."
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "VR Fractals is a 3D Fractal Viewer for the Oculus Rift\
+      \ and the HTC Vive. To use this you must have one of those headsets.<br />\r\
+      \n<br />\r\nThe full version is an experience similar to Oculus Dreamdeck, so\
+      \ expect about 5-20 minutes of gameplay in the full version for the price of\
+      \ a large candy bar. This is a demo that is available for free, and contains\
+      \ one fractal and no editor that should give you a pretty good jist of what\
+      \ to expect."
+    developers:
+    - Phylliida
+    fullgame:
+      appid: '506160'
+      name: VR Fractals
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/506180/header.jpg?t=1470508764
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: VR Fractals Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows<br></li><li><strong>Processor:</strong> AMD 290, Intel i5-4590<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 970<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Phylliida
+    release_date:
+      coming_soon: false
+      date: Aug 2, 2016
+    required_age: 0
+    short_description: A free demo of a 3D Fractal Viewer in VR.
+    steam_appid: 506180
+    support_info:
+      email: VRFractals@gmail.com
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

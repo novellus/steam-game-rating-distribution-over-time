@@ -1,0 +1,180 @@
+details:
+  data:
+    about_the_game: "Will you be able to fully explore each maze always bigger and\
+      \ find the key that will get you out?<br />\r\nCollect as many gold coins as\
+      \ you can to buy aids in the store that will help you defeat the stronger Slimes\
+      \ at each level.<br />\r\n<br />\r\nWill you become the best Lost In Maze player?<br\
+      \ />\r\n<br />\r\n- 20 mazes on 3 levels of difficulty, 60 mazes in total.<br\
+      \ />\r\n<br />\r\n- Each maze is procedurally generated and of increasing size\
+      \ depending on the level (starting with a 5x5 size)<br />\r\n<br />\r\n- 5 Slimes\
+      \ types with 3 levels of difficulty (15 various Slimes !)<br />\r\n<br />\r\n\
+      - Steam Achievements<br />\r\n<br />\r\n- Steam Cloud"
+    achievements:
+      highlighted:
+      - name: First chest
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/4030af46ceda2d53aa4e00d300ecdec67a931b32.jpg
+      - name: First Slime
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/45f423957c0160f4865c89e2d3af0fb08bf8576b.jpg
+      - name: First Exit
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/e29d16a9ed5863d196043b8d337b761cba580f0b.jpg
+      - name: Ice time
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/8584176b7e7ca154b10316322b9faf1c9ed71539.jpg
+      - name: No Rest
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/2b084ee9048c26709273b9e92fcc38d8f855ed1a.jpg
+      - name: Easy Gold
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/adc494a6feb3da97d15ee2ebb23d8aae1b9712ba.jpg
+      - name: All Gold is mine !
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/1db6cc9a7e8ba4720ab5fc73bab4429b1c833f6c.jpg
+      - name: Gold Gold Gold !
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/98ca2b5a27254af920e8e60ed887f3952280fa8f.jpg
+      - name: Too Easy !
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/11a473c2d81337ca4de2688fabc19399b2987210.jpg
+      - name: Winner !
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/763010/248fdbbd7fe0837654a1ac87c56050a6951c61d7.jpg
+      total: 30
+    background: https://steamcdn-a.akamaihd.net/steam/apps/763010/page_bg_generated_v6b.jpg?t=1516957612
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Will you be able to fully explore each maze always bigger\
+      \ and find the key that will get you out?<br />\r\nCollect as many gold coins\
+      \ as you can to buy aids in the store that will help you defeat the stronger\
+      \ Slimes at each level.<br />\r\n<br />\r\nWill you become the best Lost In\
+      \ Maze player?<br />\r\n<br />\r\n- 20 mazes on 3 levels of difficulty, 60 mazes\
+      \ in total.<br />\r\n<br />\r\n- Each maze is procedurally generated and of\
+      \ increasing size depending on the level (starting with a 5x5 size)<br />\r\n\
+      <br />\r\n- 5 Slimes types with 3 levels of difficulty (15 various Slimes !)<br\
+      \ />\r\n<br />\r\n- Steam Achievements<br />\r\n<br />\r\n- Steam Cloud"
+    developers:
+    - Vertexity Studio
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/763010/header.jpg?t=1516957612
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Lost In Maze
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Lost In Maze - $0.99
+        packageid: 225496
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Lost In Maze
+    packages:
+    - 225496
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> Intel or AMD with
+        SSE2 support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Any with DirectX 9 (minimum 512MB RAM)<br></li><li><strong>DirectX:</strong>
+        Version 8.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Vertexity Studio
+    release_date:
+      coming_soon: false
+      date: Dec 26, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_f701160a5bd96228a5ba154efda95da6e5bae997.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_f701160a5bd96228a5ba154efda95da6e5bae997.600x338.jpg?t=1516957612
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_2d51245bfb01b7fc2a3c95da3ac79d5cf185f884.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_2d51245bfb01b7fc2a3c95da3ac79d5cf185f884.600x338.jpg?t=1516957612
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_5fef1b99f253c455fc50416d0e5aefa48c5e8f62.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_5fef1b99f253c455fc50416d0e5aefa48c5e8f62.600x338.jpg?t=1516957612
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_91c8e25b180abeaf6fc39b4736d30e782f1f70b7.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_91c8e25b180abeaf6fc39b4736d30e782f1f70b7.600x338.jpg?t=1516957612
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_3c681d96de0c9237abf8f72739843117b8042adc.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_3c681d96de0c9237abf8f72739843117b8042adc.600x338.jpg?t=1516957612
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_e7fa85c426b13c12ae11aab43ca7440644da1915.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_e7fa85c426b13c12ae11aab43ca7440644da1915.600x338.jpg?t=1516957612
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_7a143df6d806312bcdf41fbfe6e107b253a1ed1d.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_7a143df6d806312bcdf41fbfe6e107b253a1ed1d.600x338.jpg?t=1516957612
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_4238917483db7ca81b52756e1d02dea2126b576e.1920x1080.jpg?t=1516957612
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/763010/ss_4238917483db7ca81b52756e1d02dea2126b576e.600x338.jpg?t=1516957612
+    short_description: Will you be able to fully explore each labyrinth and find the
+      key that will get you out? Collect as many gold coins as you can to buy aids
+      in the store that will help you defeat the stronger Slimes at each level.
+    steam_appid: 763010
+    support_info:
+      email: ''
+      url: http://www.vertexitystudio.com
+    supported_languages: English, French, Italian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJws/P20PQCeIHLogI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 1
+    total_positive: 6
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 1600443294
+      num_games_owned: 9
+      num_reviews: 7
+      playtime_at_review: 205
+      playtime_forever: 205
+      playtime_last_two_weeks: 0
+      steamid: '76561198354695122'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '76175384'
+    review: It is a pretty good game to play if your bored, I would only suggest this
+      game if you really love challenging things. This made me pretty happy because
+      I like facing new challenges.
+    steam_purchase: true
+    timestamp_created: 1600443358
+    timestamp_updated: 1600443358
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

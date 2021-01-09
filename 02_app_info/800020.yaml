@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: A pack of Electro music used in <a href="https://store.steampowered.com/app/745400/Kebab_it_Up/"
+      target="_blank" rel="noreferrer"  >Kebab it Up!</a>, available in WAV format.<br>While
+      listening to these tasty tracks, your lust for kebab will increase tremendously!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/800020/page_bg_generated_v6b.jpg?t=1581557529
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: A pack of Electro music used in <a href="https://store.steampowered.com/app/745400/Kebab_it_Up/"
+      target="_blank" rel="noreferrer"  >Kebab it Up!</a>, available in WAV format.<br>While
+      listening to these tasty tracks, your lust for kebab will increase tremendously!
+    developers:
+    - Bidoniera Games
+    fullgame:
+      appid: '745400'
+      name: Kebab it Up!
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/800020/header.jpg?t=1581557529
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Kebab it Up! - Official Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Kebab it Up! - Official Soundtrack - $0.99
+        packageid: 243251
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Kebab it Up! - Official Soundtrack
+    packages:
+    - 243251
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        50 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 8, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_62f65456ea440ef8e2903f3599589c5610d14c70.1920x1080.jpg?t=1581557529
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_62f65456ea440ef8e2903f3599589c5610d14c70.600x338.jpg?t=1581557529
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_19b8a2f186cc4c51ca4fa0aebfc6f1dedee47672.1920x1080.jpg?t=1581557529
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_19b8a2f186cc4c51ca4fa0aebfc6f1dedee47672.600x338.jpg?t=1581557529
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_7740335aad75055f652aa35c05fc9639caa739ff.1920x1080.jpg?t=1581557529
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_7740335aad75055f652aa35c05fc9639caa739ff.600x338.jpg?t=1581557529
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_d5546ff26398d12e880a2d89ce3333e4d9876fa3.1920x1080.jpg?t=1581557529
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_d5546ff26398d12e880a2d89ce3333e4d9876fa3.600x338.jpg?t=1581557529
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_db894deb004c7485964187111a29f362cb5b280e.1920x1080.jpg?t=1581557529
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800020/ss_db894deb004c7485964187111a29f362cb5b280e.600x338.jpg?t=1581557529
+    short_description: A pack of your favorite songs from Kebab it Up!, composed by
+      Razvan Humulescu. Feel the taste of the kebab through music!
+    steam_appid: 800020
+    support_info:
+      email: bidonieragames@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJw/pDc9+gCeNf1ugE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 99
+      num_reviews: 4
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198853602808'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48999800'
+    review: I love it more than God loves the church
+    steam_purchase: true
+    timestamp_created: 1550205356
+    timestamp_updated: 1550205356
+    voted_up: true
+    votes_funny: 2
+    votes_up: 1
+    weighted_vote_score: '0.5'
+    written_during_early_access: false
+  success: 1

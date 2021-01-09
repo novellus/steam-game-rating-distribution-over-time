@@ -1,0 +1,140 @@
+details:
+  data:
+    about_the_game: <ul class="bb_ul"><li> They're kinda cute, I guess?<br></li><li>
+      Okay, I have no idea what they are.<br></li><li> Includes the Bedcrab and Squiq!
+      (Only one pet can be equipped at a time)<br></li><li> Support Among Us servers
+      and Innersloth!</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/971924/page_bg_generated_v6b.jpg?t=1559935844
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <ul class="bb_ul"><li> They're kinda cute, I guess?<br></li><li>
+      Okay, I have no idea what they are.<br></li><li> Includes the Bedcrab and Squiq!
+      (Only one pet can be equipped at a time)<br></li><li> Support Among Us servers
+      and Innersloth!</li></ul>
+    developers:
+    - Innersloth
+    fullgame:
+      appid: '945360'
+      name: Among Us
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/971924/header.jpg?t=1559935844
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Among Us - Bedcrab Pet Bundle
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Among Us - Bedcrab Pet Bundle - $2.99
+        packageid: 318626
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Among Us - Bedcrab Pet Bundle
+    packages:
+    - 318626
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    recommendations:
+      total: 120
+    release_date:
+      coming_soon: false
+      date: Jun 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_120b2148090dbc34fe8144b2d08c609a1aed1a4f.1920x1080.jpg?t=1559935844
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_120b2148090dbc34fe8144b2d08c609a1aed1a4f.600x338.jpg?t=1559935844
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_ce7e4d378767c9d17cbdec8f76a4b07b372f3c73.1920x1080.jpg?t=1559935844
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_ce7e4d378767c9d17cbdec8f76a4b07b372f3c73.600x338.jpg?t=1559935844
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_c61969b8d31264cb947ed07468ebdb5c03733be3.1920x1080.jpg?t=1559935844
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_c61969b8d31264cb947ed07468ebdb5c03733be3.600x338.jpg?t=1559935844
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_12b652072d93faf11449ba0b86f2c54d51b3f962.1920x1080.jpg?t=1559935844
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/971924/ss_12b652072d93faf11449ba0b86f2c54d51b3f962.600x338.jpg?t=1559935844
+    short_description: A bundle of the Bedcrab and Squig pets.
+    steam_appid: 971924
+    support_info:
+      email: us@innersloth.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://innersloth.com/gameAmongUs.php
+  success: true
+reviews:
+  cursor: AoJ4nLK37vYCdtGhwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 8
+    total_positive: 112
+    total_reviews: 120
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 3
+      num_reviews: 4
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561199115756857'
+    comment_count: 0
+    language: russian
+    received_for_free: true
+    recommendationid: '84217110'
+    review: "\u0434\u0430\u043F"
+    steam_purchase: true
+    timestamp_created: 1610023277
+    timestamp_updated: 1610023277
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

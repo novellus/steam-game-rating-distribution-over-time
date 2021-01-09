@@ -1,0 +1,122 @@
+details:
+  data:
+    about_the_game: "\u25A0Package configuration<br><ul class=\"bb_ul\"><li>100 Gold<br></li><li>10,000\
+      \ Ghem<br></li><li>5\u2605 Emma Card x1<br></li><li>Affection Medal \u2605 x1<br></li><li>Bomb\
+      \ x10<br></li><li>Stamina x3</li></ul>*You can check in Gift Box"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/446882/page_bg_generated_v6b.jpg?t=1458703541
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u25A0Package configuration<br><ul class=\"bb_ul\"><li>100\
+      \ Gold<br></li><li>10,000 Ghem<br></li><li>5\u2605 Emma Card x1<br></li><li>Affection\
+      \ Medal \u2605 x1<br></li><li>Bomb x10<br></li><li>Stamina x3</li></ul>*You\
+      \ can check in Gift Box"
+    developers:
+    - GameUS Inc
+    fullgame:
+      appid: '440810'
+      name: 1943 Megami Strike
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/446882/header.jpg?t=1458703541
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "MS - 5\u2605 Emma Package"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "MS - 5\u2605 Emma Package - $9.99"
+        packageid: 95464
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: "Buy MS - 5\u2605 Emma Package"
+    packages:
+    - 95464
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong>
+        1300 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 22, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_4f0a5d07103e5f44b404ea3e88a8f949e466ace1.1920x1080.jpg?t=1458703541
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_4f0a5d07103e5f44b404ea3e88a8f949e466ace1.600x338.jpg?t=1458703541
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_e1fada024760837beba5fd5368c10ce12516d134.1920x1080.jpg?t=1458703541
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_e1fada024760837beba5fd5368c10ce12516d134.600x338.jpg?t=1458703541
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_5e1edc45d359bbcabda45938bc225d08d38ddef5.1920x1080.jpg?t=1458703541
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_5e1edc45d359bbcabda45938bc225d08d38ddef5.600x338.jpg?t=1458703541
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_ce20da845d4ad249b802b1dddd5cfd7c5828b9cd.1920x1080.jpg?t=1458703541
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_ce20da845d4ad249b802b1dddd5cfd7c5828b9cd.600x338.jpg?t=1458703541
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_77049f25d7baa84b2e8c93e289a988aa50b43670.1920x1080.jpg?t=1458703541
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_77049f25d7baa84b2e8c93e289a988aa50b43670.600x338.jpg?t=1458703541
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_1b73bdbe843911d2707c69b557233fab5f0701ea.1920x1080.jpg?t=1458703541
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/446882/ss_1b73bdbe843911d2707c69b557233fab5f0701ea.600x338.jpg?t=1458703541
+    short_description: "\u25A0Package configuration100 Gold10,000 Ghem5\u2605 Emma\
+      \ Card x1Affection Medal \u2605 x1Bomb x10Stamina x3*You can check in Gift Box"
+    steam_appid: 446882
+    support_info:
+      email: service@gameus.co.kr
+      url: www.facebook.com/1943AirStrike
+    supported_languages: English, Japanese<strong>*</strong>, Korean<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.gameus.co.kr
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

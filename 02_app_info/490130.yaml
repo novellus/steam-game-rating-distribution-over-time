@@ -1,0 +1,213 @@
+details:
+  data:
+    about_the_game: "After Steven Spielberg's classic film was released almost 35\
+      \ years ago, three 11-year-old boys from Mississippi set out on what would become\
+      \ a 7-year-long labor of love and tribute to their favorite film: a faithful,\
+      \ shot-for-shot adaptation of the action adventure film. They finished every\
+      \ scene...except one; the film's explosive airplane set piece. Over two decades\
+      \ later, the trio reunited with the original cast members from their childhood\
+      \ in order to complete their masterpiece. Featuring interviews with John Rhys\
+      \ Davies, Eli Roth and more, RAIDERS! is the story of the project\u2019s culmination,\
+      \ chronicling the friends' dedication to their artistic vision\u2014mixed in\
+      \ with some movie magic\u2014to create the greatest fan film ever made."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/490130/page_bg_generated_v6b.jpg?t=1483728245
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Commentary available
+      id: 14
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "<h1>Steam Video</h1><p>This content is only available in\
+      \ an online streaming format. More information about streaming videos can be\
+      \ found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\"\
+      >Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>After Steven\
+      \ Spielberg's classic film was released almost 35 years ago, three 11-year-old\
+      \ boys from Mississippi set out on what would become a 7-year-long labor of\
+      \ love and tribute to their favorite film: a faithful, shot-for-shot adaptation\
+      \ of the action adventure film. They finished every scene...except one; the\
+      \ film's explosive airplane set piece. Over two decades later, the trio reunited\
+      \ with the original cast members from their childhood in order to complete their\
+      \ masterpiece. Featuring interviews with John Rhys Davies, Eli Roth and more,\
+      \ RAIDERS! is the story of the project\u2019s culmination, chronicling the friends'\
+      \ dedication to their artistic vision\u2014mixed in with some movie magic\u2014\
+      to create the greatest fan film ever made."
+    developers:
+    - Jeremy Coon Productions
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/490130/header.jpg?t=1483728245
+    is_free: false
+    legal_notice: "\xA9 Jeremy Coon Productions 2016"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong>
+        Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB
+        available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth
+        of 5Mbps for 540p, 3Mbps for 360p.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong>
+        Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD
+        equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>
+    movies:
+    - highlight: true
+      id: 256665407
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256665407/movie480.mp4?t=1466181431
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256665407/movie_max.mp4?t=1466181431
+      name: 'Raiders! : The Story of the Greatest Fan Film Ever Made - Trailer'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256665407/movie.293x165.jpg?t=1466181431
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256665407/movie480.webm?t=1466181431
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256665407/movie_max.webm?t=1466181431
+    name: 'Raiders! : The Story of the Greatest Fan Film Ever Made'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Raiders! : The Story of the Greatest Fan Film Ever Made - $6.99'
+        packageid: 110870
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Raiders! : The Story of the Greatest Fan Film Ever Made - $9.99'
+        packageid: 110869
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: 'Buy Raiders! : The Story of the Greatest Fan Film Ever Made'
+    packages:
+    - 110870
+    - 110869
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent
+        recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB
+        RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Drafthouse Films
+    - FilmBuff
+    release_date:
+      coming_soon: false
+      date: Jun 17, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_65e89d414ef51561204a8f1f1b3b3b1ec8209a47.1920x1080.jpg?t=1483728245
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_65e89d414ef51561204a8f1f1b3b3b1ec8209a47.600x338.jpg?t=1483728245
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_e0efa2798cb43613330f8bbe6c3d9671cb3385dd.1920x1080.jpg?t=1483728245
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_e0efa2798cb43613330f8bbe6c3d9671cb3385dd.600x338.jpg?t=1483728245
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_000d01f9536fe0f325bc797695a1e86c50fcff12.1920x1080.jpg?t=1483728245
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_000d01f9536fe0f325bc797695a1e86c50fcff12.600x338.jpg?t=1483728245
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_859fa1ee5d196666b6ff706b5813ab705e7507df.1920x1080.jpg?t=1483728245
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_859fa1ee5d196666b6ff706b5813ab705e7507df.600x338.jpg?t=1483728245
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_a61c8dab0c76077c7ce32cdbe02c1cee7cde7c4c.1920x1080.jpg?t=1483728245
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/490130/ss_a61c8dab0c76077c7ce32cdbe02c1cee7cde7c4c.600x338.jpg?t=1483728245
+    short_description: "After seeing \u2018Raiders of the Lost Ark\u2019 almost 35\
+      \ years ago, three 11-year-old boys from Mississippi spent 7 years on a faithful,\
+      \ shot-for-shot adaptation of the classic action adventure film. They finished\
+      \ every scene, except one; the film's explosive airplane set piece."
+    steam_appid: 490130
+    support_info:
+      email: stephen@filmbuff.com
+      url: ''
+    supported_languages: English
+    type: video
+    website: http://drafthousefilms.com/film/raiders-the-story-of-the-greatest-fan-film-ever-made
+  success: true
+reviews:
+  cursor: AoJwoKqg5dYCdf7jWg==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1466874076
+      num_games_owned: 287
+      num_reviews: 40
+      playtime_at_review: 16
+      playtime_forever: 402
+      playtime_last_two_weeks: 0
+      steamid: '76561198095479421'
+    comment_count: 5
+    language: english
+    received_for_free: false
+    recommendationid: '23797733'
+    review: "Ok, here is my legit first review. I will pretty much explain what happens\
+      \ in this \"movie\", which it hardly is, really, it is just a super long documentary\
+      \ of some old guys desperately trying to get funding to complete the airplane\
+      \ scene for their decades old recreation of RoTLA. They get into arguments and\
+      \ find out new problems about shooting the scene for minutes on end, and then\
+      \ you see clips of the film, just short clips, not the whole thing. Yeah, maybe\
+      \ they should retitle it to \"Raiders! : Just Another Documentary...\" and if\
+      \ some of you are thinking that this is the full film, it is not. I mean, criticism\
+      \ all aside, I guess it is fun to watch a bunch of old people speak about their\
+      \ crazy past and where they are now, and if you have time to rent it, I guess\
+      \ I would recommend it, even though it's not worth the 10 dollars I paid, or\
+      \ the 7 dollars to rent it. You have to be a hardcore fan of Indiana Jones to\
+      \ really appreciate this movie.\n\nEDIT: AUGUST 27TH 2016 \n\nNow, the movie\
+      \ is going to be on Netflix by September 15th. What a waste of money this movie\
+      \ truely was. I paid 11 dollars for this movie, which is the same damn price\
+      \ for a month of HD Netflix!!!"
+    steam_purchase: true
+    timestamp_created: 1466874059
+    timestamp_updated: 1472276288
+    voted_up: true
+    votes_funny: 5
+    votes_up: 20
+    weighted_vote_score: '0.709102928638458252'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: Original soundtrack by Anatoliy Loginovskikh.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/528290/page_bg_generated_v6b.jpg?t=1475085067
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Original soundtrack by Anatoliy Loginovskikh.
+    developers:
+    - Anatoliy Loginovskikh
+    fullgame:
+      appid: '527760'
+      name: Just Hero
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/528290/header.jpg?t=1475085067
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Just Hero Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Just Hero Soundtrack - $0.99
+        packageid: 126815
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Just Hero Soundtrack
+    packages:
+    - 126815
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP\Vista\7\8\10</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP\Vista\7\8\10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Sometimes You
+    release_date:
+      coming_soon: false
+      date: Sep 28, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/528290/ss_070af7beecc1a42a194b32632ff3dbf909a08b6b.1920x1080.jpg?t=1475085067
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/528290/ss_070af7beecc1a42a194b32632ff3dbf909a08b6b.600x338.jpg?t=1475085067
+    short_description: Original soundtrack by Anatoliy Loginovskikh.
+    steam_appid: 528290
+    support_info:
+      email: 3.14nkerator@gmail.com
+      url: http://www.SometimesYou.com/
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwrf3h+e0CdYvF1AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 92
+      num_reviews: 6
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198299807491'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '55716021'
+    review: Unlike the game itself, this soundtrack it's actually pretty nice.
+    steam_purchase: true
+    timestamp_created: 1571748768
+    timestamp_updated: 1571748834
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

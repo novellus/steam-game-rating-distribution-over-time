@@ -1,0 +1,207 @@
+details:
+  data:
+    about_the_game: "Perso is an atmospheric puzzle game. Collecting relics within\
+      \ each level will slowly reveal what and where you are. You will be in control\
+      \ of at least five cubes, each with different abilities. Use them all to find\
+      \ your way.<br />\r\n<br />\r\nYou will need to approach each level in different\
+      \ ways to solve the puzzle. Changing your direction will change the layout of\
+      \ the world, opening up pathways or letting you fall. Take control and use all\
+      \ of your abilities to find new ways of staying alive. Collecting the relics\
+      \ in each level is your goal. These relics will ultimately lead you to a decision."
+    achievements:
+      highlighted:
+      - name: Are these yours?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/8d36a5ba298f90036f22b889962ffa636c47be3c.jpg
+      - name: Don't fall off.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/90495297b8add62ccec330956d204bcaf83c0dcb.jpg
+      - name: Follow the path.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/9f788d432d2611bd45f9ebc175819cd0a57867cd.jpg
+      - name: Wanderer.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/36da27899f508c663ece70a043125d468b7b1fc5.jpg
+      - name: Don't stop.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/2684d8aa0f0f52493aa632a33184e01a51984753.jpg
+      - name: You already have these.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/64c0e71fb3e47567cef0706952a80e840501abbd.jpg
+      - name: It's just a scratch.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/d88198ac88231f9c8b2d758c31c4658295d489f6.jpg
+      - name: You forgot something.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/abc44768eac41917c4acc35f341566be578d7a92.jpg
+      - name: Really?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/1c8e798435402e639f6beb86745b76616eac1eee.jpg
+      - name: It's all in your head!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/543940/610cb143102dcbc0f27d6a5cfe5cd39d3ded7ad8.jpg
+      total: 12
+    background: https://steamcdn-a.akamaihd.net/steam/apps/543940/page_bg_generated_v6b.jpg?t=1492728634
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Perso is an atmospheric puzzle game. Collecting relics\
+      \ within each level will slowly reveal what and where you are. You will be in\
+      \ control of at least five cubes, each with different abilities. Use them all\
+      \ to find your way.<br />\r\n<br />\r\nYou will need to approach each level\
+      \ in different ways to solve the puzzle. Changing your direction will change\
+      \ the layout of the world, opening up pathways or letting you fall. Take control\
+      \ and use all of your abilities to find new ways of staying alive. Collecting\
+      \ the relics in each level is your goal. These relics will ultimately lead you\
+      \ to a decision."
+    developers:
+    - Crepe Studios
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/543940/header.jpg?t=1492728634
+    is_free: false
+    legal_notice: "\xA9 2016 Crepe Studios"
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        12.04<br></li><li><strong>Processor:</strong> 2.4GHz 64bit<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256681613
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256681613/movie480.mp4?t=1490055025
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256681613/movie_max.mp4?t=1490055025
+      name: Perso Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256681613/movie.293x165.jpg?t=1490055025
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256681613/movie480.webm?t=1490055025
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256681613/movie_max.webm?t=1490055025
+    name: Perso
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Perso - $4.99
+        packageid: 133999
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Perso
+    packages:
+    - 133999
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> 2.4GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Crepe Studios
+    release_date:
+      coming_soon: false
+      date: Apr 20, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_22063af135b53cb820d183bce6fcaa1c96c67644.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_22063af135b53cb820d183bce6fcaa1c96c67644.600x338.jpg?t=1492728634
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_cc0fd08fc64fea2651a8a11573fc524b8565b4c3.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_cc0fd08fc64fea2651a8a11573fc524b8565b4c3.600x338.jpg?t=1492728634
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_4821064c44f4b6c071d024def1c4671b3b5f762e.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_4821064c44f4b6c071d024def1c4671b3b5f762e.600x338.jpg?t=1492728634
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_ff188b0f511ef8623e0f20c9a53c24e20a96a99e.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_ff188b0f511ef8623e0f20c9a53c24e20a96a99e.600x338.jpg?t=1492728634
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_d9bf6e6890ef8cd6c05b50f87a40fa5d1441fdfc.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_d9bf6e6890ef8cd6c05b50f87a40fa5d1441fdfc.600x338.jpg?t=1492728634
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_102bb8c495c1154931accda5a392166b5a0a34ed.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_102bb8c495c1154931accda5a392166b5a0a34ed.600x338.jpg?t=1492728634
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_c7e7111f0abdf17607e082067a647dfce1fc39ce.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_c7e7111f0abdf17607e082067a647dfce1fc39ce.600x338.jpg?t=1492728634
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_e870567df31bd3d41952260859c68040ed0f9f55.1920x1080.jpg?t=1492728634
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/543940/ss_e870567df31bd3d41952260859c68040ed0f9f55.600x338.jpg?t=1492728634
+    short_description: Perso is an atmospheric puzzle game. Collecting relics within
+      each level will slowly reveal what and where you are. You will be in control
+      of at least five cubes, each with different abilities. Use them all to find
+      your way.
+    steam_appid: 543940
+    support_info:
+      email: support@crepestudios.com
+      url: http://crepestudios.com/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://crepestudios.com/
+  success: true
+reviews:
+  cursor: AoJ4yKGBpOgCd7mkuAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1547461035
+      num_games_owned: 79
+      num_reviews: 21
+      playtime_at_review: 76
+      playtime_forever: 76
+      playtime_last_two_weeks: 0
+      steamid: '76561198294217218'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '48309143'
+    review: "\u041B\u0443\u0447\u0448\u0430\u044F \u0438\u0433\u0440\u0430! \u0412\
+      \u044B\u043F\u0430\u043B\u0430 \u043A\u0430\u0440\u0442\u043E\u0447\u043A\u0430\
+      \ \u0437\u0430 30000 \u0440\u0443\u0431\u043B\u0435\u0439. \u0418\u0433\u0440\
+      \u0430\u0442\u044C \u0432 \u0438\u0433\u0440\u0443 \u044F \u043A\u043E\u043D\
+      \u0435\u0447\u043D\u043E \u0436\u0435 \u043D\u0435 \u0431\u0443\u0434\u0443\
+      , \u0434\u0430 \u0438 \u043A\u0430\u0440\u0442\u0443 \u043F\u0440\u043E\u0434\
+      \u0430\u0442\u044C \u043D\u0435 \u0441\u043C\u043E\u0433\u0443, \u043D\u043E\
+      \ \u043F\u043E\u0432\u044B\u043F\u0435\u043D\u0434\u0440\u0438\u0432\u0430\u0442\
+      \u044C\u0441\u044F \u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u0451\u043C\
+      \ \u0442\u0435\u043F\u0435\u0440\u044C \u043C\u043E\u0433\u0443. \u0412 \u0447\
+      \u0435\u0441\u0442\u044C \u0442\u0430\u043A\u043E\u0439 \u0432\u043E\u0437\u043C\
+      \u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u043F\u0440\u043E\u0441\u0442\u043E\
+      \ \u043E\u0441\u0442\u0430\u0432\u043B\u044E \u0445\u043E\u0440\u043E\u0448\u0438\
+      \u0439 \u043E\u0442\u0437\u044B\u0432 \u0438\u0433\u0440\u0435."
+    steam_purchase: true
+    timestamp_created: 1547396517
+    timestamp_updated: 1547396517
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.519999980926513672'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,65 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Bugbear Entertainment
+    fullgame:
+      appid: '6220'
+      name: FlatOut
+    genres:
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/6230/header.jpg?t=1447350968
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 72
+    name: FlatOut Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum: </strong>1.5 GHz Pentium 4 or AMD Equivalent,\
+        \ 256 MB RAM, 64 MB Graphics Card,DirectX Compatible Sound Card, 1.1 GB of\
+        \ free Hard Drive Space, Win 98/ME/2000/XP, DirectX9.0c</p>\n\t\t\t\t\t<p><strong>Recommended:\
+        \ </strong>2.0 GHz Pentium 4 or AMD 2000+, 512 MB RAM, 128 MB GraphicsCard,\
+        \ DirectX Compatible Sound Card, Gamepad or Steering Wheel, Windows XP SP2</p>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Strategy First
+    release_date:
+      coming_soon: false
+      date: Feb 2, 2007
+    required_age: 0
+    short_description: ''
+    steam_appid: 6230
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, Italian, Spanish - Spain
+    type: demo
+    website: http://flatout.vugames.com/site.html
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

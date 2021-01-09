@@ -1,0 +1,150 @@
+details:
+  data:
+    about_the_game: "A shoot\u2019em up game with bite-size levels about diving into\
+      \ the hole inside a giant meteor and stops it from crashing to the earth.<br><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1354460/extras/ministrike_level_1_2_2.gif?t=1604226545\"\
+      \ /><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> Battle through\
+      \ many different areas with unique enemies<br></li><li> Boss fight.<br></li><li>\
+      \ Weird and unique graphics with retro vibes.<br></li><li> Play solo or couch\
+      \ co-op with your friend.<br></li><li> Power by PICO-8.<br></li><li> Support\
+      \ joysticks.<br></li><li> Music from Pico-8 Tune by <a href=\"https://twitter.com/gruber_music\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >@gruber_music\u200B</a><br></li><li>\
+      \ Come with the raspberry pi build.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1354460/page_bg_generated_v6b.jpg?t=1604226545
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Partial Controller Support
+      id: 18
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A shoot\u2019em up game with bite-size levels about diving\
+      \ into the hole inside a giant meteor and stops it from crashing to the earth.<br><br><img\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1354460/extras/ministrike_level_1_2_2.gif?t=1604226545\"\
+      \ /><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> Battle through\
+      \ many different areas with unique enemies<br></li><li> Boss fight.<br></li><li>\
+      \ Weird and unique graphics with retro vibes.<br></li><li> Play solo or couch\
+      \ co-op with your friend.<br></li><li> Power by PICO-8.<br></li><li> Support\
+      \ joysticks.<br></li><li> Music from Pico-8 Tune by <a href=\"https://twitter.com/gruber_music\"\
+      \ target=\"_blank\" rel=\"noreferrer\"  >@gruber_music\u200B</a><br></li><li>\
+      \ Come with the raspberry pi build.</li></ul>"
+    developers:
+    - Pollapee Sroysuwan
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1354460/header.jpg?t=1604226545
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        700 Mhz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> This
+        game can run on raspberry pi. The old machine should be able to run this game.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        700 Mhz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> This
+        game can run on raspberry pi. The old mac should be able to run this game.</li></ul>
+    movies:
+    - highlight: true
+      id: 256805599
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256805599/movie480.mp4?t=1603598012
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256805599/movie_max.mp4?t=1603598012
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256805599/movie.293x165.jpg?t=1603598012
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256805599/movie480_vp9.webm?t=1603598012
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256805599/movie_max_vp9.webm?t=1603598012
+    name: miniStrike
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: miniStrike - $1.99
+        packageid: 474552
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy miniStrike
+    packages:
+    - 474552
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        700 Mhz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> This
+        game can run on raspberry pi. The old PC/ netbook/ microcomputer should be
+        able to run this game.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Pollapee Sroysuwan
+    release_date:
+      coming_soon: false
+      date: Nov 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_78b850495784f487be45e2ed5471c3411ae00b9e.1920x1080.jpg?t=1604226545
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_78b850495784f487be45e2ed5471c3411ae00b9e.600x338.jpg?t=1604226545
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_4cbca0fe7657b60c60adb15b0e3c61b58c159f90.1920x1080.jpg?t=1604226545
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_4cbca0fe7657b60c60adb15b0e3c61b58c159f90.600x338.jpg?t=1604226545
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_547bcb2b9f338f57f46a3526ab20786b05602fee.1920x1080.jpg?t=1604226545
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_547bcb2b9f338f57f46a3526ab20786b05602fee.600x338.jpg?t=1604226545
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_bf96a81d20ed5fbe5e8e7151411c33f97ca8aee8.1920x1080.jpg?t=1604226545
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_bf96a81d20ed5fbe5e8e7151411c33f97ca8aee8.600x338.jpg?t=1604226545
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_944e3466b01fdae158f71f58f48347c82644eced.1920x1080.jpg?t=1604226545
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1354460/ss_944e3466b01fdae158f71f58f48347c82644eced.600x338.jpg?t=1604226545
+    short_description: "A shoot\u2019em up game with bite-size levels."
+    steam_appid: 1354460
+    support_info:
+      email: pollapee@oab.in.th
+      url: http://oab.in.th/ministrike/
+    supported_languages: English
+    type: game
+    website: http://oab.in.th/ministrike/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

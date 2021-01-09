@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: The SOULS Soundtrack is a collection of 10 different tracks.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/700180/page_bg_generated_v6b.jpg?t=1581627719
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The SOULS Soundtrack is a collection of 10 different tracks.
+    developers:
+    - Team Fork
+    fullgame:
+      appid: '677790'
+      name: SOULS
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/700180/header.jpg?t=1581627719
+    is_free: false
+    legal_notice: The content of the game was owned by Team Fork and under the protection
+      of global intellectual property rights and any reproduction and modification
+      was prohibited.
+    linux_requirements: []
+    mac_requirements: []
+    name: SOULS - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: SOULS - Soundtrack - $1.99
+        packageid: 201696
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy SOULS - Soundtrack
+    packages:
+    - 201696
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        40 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Team Fork
+    release_date:
+      coming_soon: false
+      date: Aug 24, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/700180/ss_bd0094dfcd8dce71717e880bb3fb30e450dfe913.1920x1080.jpg?t=1581627719
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/700180/ss_bd0094dfcd8dce71717e880bb3fb30e450dfe913.600x338.jpg?t=1581627719
+    short_description: The SOULS Soundtrack is a collection of 10 different tracks.
+    steam_appid: 700180
+    support_info:
+      email: gameboy9000hk@gmail.com
+      url: https://www.facebook.com/TeamFork/
+    supported_languages: English<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full
+      audio support
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: AoJw/tTS7OECffilmgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1649
+      num_reviews: 19
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198381473977'
+    comment_count: 2
+    language: schinese
+    received_for_free: false
+    recommendationid: '40447885'
+    review: "Songs will be placed in your SOULS folder in the Steam Directory: Steam\\\
+      steamapps\\common\\SOULS\\SOULS OST\n\n\u4E0D\u8981\u50CF\u6211\u4E00\u4E2A\u50BB\
+      \u50BB\u7684\u5728steam\u97F3\u4E50\u91CC\u627E\u534A\u5929 ..."
+    steam_purchase: true
+    timestamp_created: 1519769004
+    timestamp_updated: 1519769004
+    voted_up: true
+    votes_funny: 1
+    votes_up: 6
+    weighted_vote_score: '0.549322783946990967'
+    written_during_early_access: false
+  success: 1

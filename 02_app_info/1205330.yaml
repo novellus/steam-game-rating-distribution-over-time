@@ -1,0 +1,136 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1205330/extras/mesen2.png?t=1592944181"
+      /><br><br>Mesen is a highly accurate and feature-filled emulator with support
+      for tons of cartridge mappers (even ones used for weird, unauthorized carts),
+      custom color palettes and HD asset packs. As a libretro core, Mesen supports
+      many advanced features, like softpatching and achievements (through the RetroAchievements
+      service).
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1205330/page_bg_generated_v6b.jpg?t=1592944181
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: LAN PvP
+      id: 47
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: LAN Co-op
+      id: 48
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: Remote Play on TV
+      id: 43
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1205330/extras/mesen2.png?t=1592944181"
+      /><br><br>Mesen is a highly accurate and feature-filled emulator with support
+      for tons of cartridge mappers (even ones used for weird, unauthorized carts),
+      custom color palettes and HD asset packs. As a libretro core, Mesen supports
+      many advanced features, like softpatching and achievements (through the RetroAchievements
+      service).
+    developers:
+    - Sour
+    - Libretro
+    fullgame:
+      appid: '1118310'
+      name: RetroArch
+    genres:
+    - description: Free to Play
+      id: '37'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1205330/header.jpg?t=1592944181
+    is_free: true
+    legal_notice: "RetroArch is free/open source software, available under the GNU\
+      \ GPL 3.0 license.<br />\r\n<br />\r\nMesen is free/open source software, available\
+      \ under the GNU GPL 3.0 license.<br />\r\n<br />\r\nIt does not contain any\
+      \ copyrighted material by third parties. RetroArch, libretro and any associated\
+      \ projects do not promote, facilitate or condone copyright infringement/piracy\
+      \ in any way, shape or form."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256789064
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256789064/movie480.mp4?t=1592249832
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256789064/movie_max.mp4?t=1592249832
+      name: Mesen
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256789064/movie.293x165.jpg?t=1592249832
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256789064/movie480_vp9.webm?t=1592249832
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256789064/movie_max_vp9.webm?t=1592249832
+    name: RetroArch - Mesen
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 or better<br></li><li><strong>Graphics:</strong>
+        Any GPU and driver that supports OpenGL v2.0 or higher</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Libretro
+    release_date:
+      coming_soon: false
+      date: Jun 15, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_8c0f276c174580d107a69b5afaf29ce993c9d200.1920x1080.jpg?t=1592944181
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_8c0f276c174580d107a69b5afaf29ce993c9d200.600x338.jpg?t=1592944181
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_4eaa89443972fac9e3c4555a2e3fb9d50efbf9b8.1920x1080.jpg?t=1592944181
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_4eaa89443972fac9e3c4555a2e3fb9d50efbf9b8.600x338.jpg?t=1592944181
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_96cb1aa5a226919c4d08e5d16819d8738cf622a8.1920x1080.jpg?t=1592944181
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_96cb1aa5a226919c4d08e5d16819d8738cf622a8.600x338.jpg?t=1592944181
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_255f5b8ca14321a1702bfa24fb668875216759f9.1920x1080.jpg?t=1592944181
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_255f5b8ca14321a1702bfa24fb668875216759f9.600x338.jpg?t=1592944181
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_2b49971e07048436cfa63a5e9e3d9c54765775e1.1920x1080.jpg?t=1592944181
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1205330/ss_2b49971e07048436cfa63a5e9e3d9c54765775e1.600x338.jpg?t=1592944181
+    short_description: A libretro implementation of the Mesen emulation engine for
+      use with the RetroArch gaming and multimedia interface. Users must supply their
+      own games, demos and homebrew.
+    steam_appid: 1205330
+    support_info:
+      email: libretro@gmail.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Dutch,
+      Greek, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil,
+      Russian, Spanish - Latin America, Swedish, Turkish, Vietnamese
+    type: dlc
+    website: https://www.retroarch.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

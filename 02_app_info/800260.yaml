@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: "Join Sencil the heavenly scribe with 9 tracks of melodious music\
+      \ from the heavens!<br />\r\n<br />\r\n1. Main Menu Theme<br />\r\n2. Celestia<br\
+      \ />\r\n3. Family 1<br />\r\n4. Family 2<br />\r\n5. Grief<br />\r\n6. Interest<br\
+      \ />\r\n7. Intimacy<br />\r\n8. Memento Mori<br />\r\n9. Town Life"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/800260/page_bg_generated_v6b.jpg?t=1518099398
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Join Sencil the heavenly scribe with 9 tracks of melodious\
+      \ music from the heavens!<br />\r\n<br />\r\n1. Main Menu Theme<br />\r\n2.\
+      \ Celestia<br />\r\n3. Family 1<br />\r\n4. Family 2<br />\r\n5. Grief<br />\r\
+      \n6. Interest<br />\r\n7. Intimacy<br />\r\n8. Memento Mori<br />\r\n9. Town\
+      \ Life"
+    developers:
+    - Afterthought Studios
+    fullgame:
+      appid: '662260'
+      name: On Earth As It Is In Heaven - A Kinetic Novel
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/800260/header.jpg?t=1518099398
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        50 MB RAM</li></ul>
+    name: On Earth As It Is In Heaven OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: On Earth As It Is In Heaven OST - $5.99
+        packageid: 243351
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy On Earth As It Is In Heaven OST
+    packages:
+    - 243351
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        50 MB RAM</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Feb 8, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800260/ss_f6a4c61aecc28b60b5d861b683f261ac4d195d56.1920x1080.jpg?t=1518099398
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800260/ss_f6a4c61aecc28b60b5d861b683f261ac4d195d56.600x338.jpg?t=1518099398
+    short_description: Join Sencil the heavenly scribe with 9 tracks of melodious
+      music from the heavens!
+    steam_appid: 800260
+    support_info:
+      email: ''
+      url: http://afterthoughtstudios.org/
+    supported_languages: English
+    type: dlc
+    website: http://afterthoughtstudios.org
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

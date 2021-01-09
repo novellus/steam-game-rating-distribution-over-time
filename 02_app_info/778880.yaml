@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: 'This is a pack of content designed to help you with your game.
+      You''ll get: <br><ul class="bb_ul"><li>1 permanent worker so you can always
+      harvest one more tile.<br></li><li>+10 blueprints for 5 of your resource autorun
+      buildings! That''s the Sawmill, Farm, Hunting Lodge, Mine, and Fishery. Earn
+      more resources automatically. <br></li><li>5 skillpoints to spend as you want!<br></li><li>500
+      bonus gems! <br></li><li>Our love and gratitude!</li></ul>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/778880/page_bg_generated_v6b.jpg?t=1588967713
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'This is a pack of content designed to help you with your
+      game. You''ll get: <br><ul class="bb_ul"><li>1 permanent worker so you can always
+      harvest one more tile.<br></li><li>+10 blueprints for 5 of your resource autorun
+      buildings! That''s the Sawmill, Farm, Hunting Lodge, Mine, and Fishery. Earn
+      more resources automatically. <br></li><li>5 skillpoints to spend as you want!<br></li><li>500
+      bonus gems! <br></li><li>Our love and gratitude!</li></ul>'
+    developers:
+    - Samobee Games
+    fullgame:
+      appid: '772070'
+      name: Harvest Seasons
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/778880/header.jpg?t=1588967713
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Harvest Seasons - Harvest Bundle
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Harvest Seasons - Harvest Bundle - $7.99
+        packageid: 234362
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy Harvest Seasons - Harvest Bundle
+    packages:
+    - 234362
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7 or later<br></li><li><strong>Processor:</strong> 64bit
+        Intel compatible Dual Core CPU<br></li><li><strong>Memory:</strong> 32 MB
+        RAM<br></li><li><strong>Graphics:</strong> VIDEO CARD: DX9 compliant graphics
+        card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - Samobee Games
+    release_date:
+      coming_soon: false
+      date: Feb 23, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/778880/ss_978947788661ee8ef335361b4abfad6e7ee441bb.1920x1080.jpg?t=1588967713
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/778880/ss_978947788661ee8ef335361b4abfad6e7ee441bb.600x338.jpg?t=1588967713
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/778880/ss_9960ac270b62cc5baf14cd1ad802a8270dfc956e.1920x1080.jpg?t=1588967713
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/778880/ss_9960ac270b62cc5baf14cd1ad802a8270dfc956e.600x338.jpg?t=1588967713
+    short_description: Get a bunch of items to help your resource output. +10 blueprints
+      for all your resource autorun buildings, a permanent worker, some skillpoints,
+      and some bonus gems.
+    steam_appid: 778880
+    support_info:
+      email: contact@beardedbunnies.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

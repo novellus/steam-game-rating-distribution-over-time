@@ -1,0 +1,208 @@
+details:
+  data:
+    about_the_game: "In this two part tutorial series I will go through my entire\
+      \ process from blockout to rendered highpoly of this scifi vehicle in Modo,\
+      \ to the finished textured lowpoly in Marmoset toolsbag/unreal 4.<br />\r\n\
+      <br />\r\nIn the first part, I go through the blockout stages, assembling a\
+      \ kitbashing set, modelling the entire highpoly vehicle aswell as creating decals,\
+      \ materials and rendering in Modo. <br />\r\n<br />\r\nIn the second part, I\
+      \ create a lowpoly, unwrap it, bake it out from Modo and texture it in photoshop\
+      \ using the shaders that were created in part one, before putting it in Unreal\
+      \ 4/Marmoset toolbag.<br />\r\n<br />\r\nThis tutorial is for intermediate users\
+      \ of modo, it does assume that you have some knowledge of how to find your way\
+      \ around modo and its tools, as I do not go into detail on all the tools, but\
+      \ focus more on specifik tips and tricks. With the tutorials you will get all\
+      \ sourcefiles and textures used in these tutorials."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/404300/page_bg_generated_v6b.jpg?t=1447378154
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "<h1>Steam Video</h1><p>This content is only available in\
+      \ an online streaming format. More information about streaming videos can be\
+      \ found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\"\
+      >Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this two\
+      \ part tutorial series I will go through my entire process from blockout to\
+      \ rendered highpoly of this scifi vehicle in Modo, to the finished textured\
+      \ lowpoly in Marmoset toolsbag/unreal 4.\r\n\r\nIn the first part, I go through\
+      \ the blockout stages, assembling a kitbashing set, modelling the entire highpoly\
+      \ vehicle aswell as creating decals, materials and rendering in Modo. \r\n\r\
+      \nIn the second part, I create a lowpoly, unwrap it, bake it out from Modo and\
+      \ texture it in photoshop using the shaders that were created in part one, before\
+      \ putting it in Unreal 4/Marmoset toolbag.\r\n\r\nThis tutorial is for intermediate\
+      \ users of modo, it does assume that you have some knowledge of how to find\
+      \ your way around modo and its tools, as I do not go into detail on all the\
+      \ tools, but focus more on specifik tips and tricks. With the tutorials you\
+      \ will get all sourcefiles and textures used in these tutorials."
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/404300/header.jpg?t=1447378154
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong>
+        Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB
+        available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth
+        of 5Mbps for 540p, 3Mbps for 360p.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong>
+        Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD
+        equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>
+    movies:
+    - highlight: true
+      id: 256656844
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256656844/movie480.mp4?t=1447378279
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256656844/movie_max.mp4?t=1447378279
+      name: Summary
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256656844/movie.293x165.jpg?t=1447378279
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256656844/movie480.webm?t=1447378279
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256656844/movie_max.webm?t=1447378279
+    name: Modeling a Transport Vehicle in Modo
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Modeling a Transport Vehicle in Modo - Part 1 - $14.99
+        packageid: 79287
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Modeling a Transport Vehicle in Modo - Part 1 and 2 - $24.99
+        packageid: 82109
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Modeling a Transport Vehicle in Modo - Part 2 - $14.99
+        packageid: 79294
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Modeling a Transport Vehicle in Modo
+    packages:
+    - 79287
+    - 82109
+    - 79294
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        200 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent
+        recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB
+        RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Additional Notes:</strong> Network
+        Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 21, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_eb1025a233122a9c0c0928e08cccc3ac325541a1.1920x1080.jpg?t=1447378154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_eb1025a233122a9c0c0928e08cccc3ac325541a1.600x338.jpg?t=1447378154
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_61b1f2db4e8342b7255b27ceca3fb24b7bb612a4.1920x1080.jpg?t=1447378154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_61b1f2db4e8342b7255b27ceca3fb24b7bb612a4.600x338.jpg?t=1447378154
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_38eec148aa9f916e3d692a22da3d2d95abb1c740.1920x1080.jpg?t=1447378154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_38eec148aa9f916e3d692a22da3d2d95abb1c740.600x338.jpg?t=1447378154
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_74ffa78839eeeccccdc054fb685b51ecb2cc069b.1920x1080.jpg?t=1447378154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_74ffa78839eeeccccdc054fb685b51ecb2cc069b.600x338.jpg?t=1447378154
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_d605362db86a3be544c95d768189e56fde3f0444.1920x1080.jpg?t=1447378154
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/404300/ss_d605362db86a3be544c95d768189e56fde3f0444.600x338.jpg?t=1447378154
+    short_description: In this tutorial series I go through the creation of this scifi
+      vehicle in Modo from blockout and design, all the way to the final highpoly
+      renders, and final textured lowpoly inside Unreal4/Marmoset toolbag.
+    steam_appid: 404300
+    support_info:
+      email: contact@torfrick.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: video
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4q4XGiNcCedOCYQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 1
+    total_positive: 3
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1525884020
+      num_games_owned: 212
+      num_reviews: 13
+      playtime_at_review: 6
+      playtime_forever: 2580
+      playtime_last_two_weeks: 0
+      steamid: '76561197965161918'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '25433401'
+    review: He doesn't waste to your time explaining the fundamentals of modeling.
+      This is a tutorial for people who want to get better, or want to understand
+      the flow of modeling in modo who already know how to model.
+    steam_purchase: true
+    timestamp_created: 1473460579
+    timestamp_updated: 1473460579
+    voted_up: true
+    votes_funny: 0
+    votes_up: 4
+    weighted_vote_score: '0.571264028549194336'
+    written_during_early_access: false
+  success: 1

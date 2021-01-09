@@ -1,0 +1,204 @@
+details:
+  data:
+    about_the_game: The Shadow Hawk Pack includes an alternate skin for the formidable
+      Shadow Hawk 'Mech, a multi-role BattleMech developed in the Golden Age.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/799751/page_bg_generated_v6b.jpg?t=1589814740
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Shadow Hawk Pack includes an alternate skin for the
+      formidable Shadow Hawk 'Mech, a multi-role BattleMech developed in the Golden
+      Age.
+    developers:
+    - Harebrained Schemes
+    fullgame:
+      appid: '637090'
+      name: BATTLETECH
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/799751/header.jpg?t=1589814740
+    is_free: false
+    legal_notice: "Copyright\xA9 2018 Harebrained Holdings, Inc. All Rights Reserved.<br\
+      \ />\r\nMechWarrior and BATTLETECH\xAE are registered trademarks of Microsoft\
+      \ Corporation in Europe, the U.S., and other countries, and are used under license.<br\
+      \ />\r\nPublished by Paradox Interactive AB. All other trademarks, logos and\
+      \ copyrights are property of their respective owners."
+    linux_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> 64-bit Ubuntu\
+        \ 18.04 LTS and higher or SteamOS<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE Core\u2122 i3-3240 CPU<br></li><li><strong>Memory:</strong> 8\
+        \ GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\xAE GeForce\u2122 GTX\
+        \ 560<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 35 GB available space<br></li><li><strong>Additional Notes:</strong> Multiplayer\
+        \ is compatible between Windows, Mac and Linux versions.</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ 64-bit Ubuntu 18.04 LTS and higher or SteamOS<br></li><li><strong>Processor:</strong>\
+        \ Intel\xAE Core\u2122 i5-4460 or AMD\xAE FX-4300<br></li><li><strong>Memory:</strong>\
+        \ 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\xAE GeForce\u2122\
+        \ GTX 670 or AMD\xAE Radeon\u2122 R9 285 (2 GB VRAM)<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 35 GB\
+        \ available space<br></li><li><strong>Additional Notes:</strong> Multiplayer\
+        \ is compatible between Windows, Mac and Linux versions.</li></ul>"
+    mac_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> macOS High\
+        \ Sierra 10.13.3<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i5-4670<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 35 MB\
+        \ available space<br></li><li><strong>Additional Notes:</strong> Multiplayer\
+        \ is compatible between Windows, Mac and Linux versions.</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ macOS High Sierra 10.13.3<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Core\u2122 i7-7700K<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ AMD\xAE Radeon\u2122 Pro 580 (8 GB VRAM)<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 35 GB\
+        \ available space<br></li><li><strong>Additional Notes:</strong> Multiplayer\
+        \ is compatible between Windows, Mac and Linux versions.</li></ul>"
+    name: BATTLETECH Shadow Hawk Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: BATTLETECH Shadow Hawk Pack - $3.99
+        packageid: 243157
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy BATTLETECH Shadow Hawk Pack
+    packages:
+    - 243157
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows\
+        \ 7 or Higher<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i3-2105 or AMD\xAE Phenom\u2122 II X3 720<br></li><li><strong>Memory:</strong>\
+        \ 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\xAE GeForce\u2122\
+        \ GTX 560 Ti or AMD\xAE ATI Radeon\u2122 HD 5870 (1 GB VRAM)<br></li><li><strong>DirectX:</strong>\
+        \ Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 35 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9\
+        \ sound device<br></li><li><strong>Additional Notes:</strong> Multiplayer\
+        \ is compatible between Windows, Mac and Linux versions.</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ 64-bit Windows 7 or Higher<br></li><li><strong>Processor:</strong> Intel\xAE\
+        \ Core\u2122 i5-4460 or AMD\xAE FX-4300<br></li><li><strong>Memory:</strong>\
+        \ 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia\xAE GeForce\u2122\
+        \ GTX 670 or AMD\xAE Radeon\u2122 R9 285 (2 GB VRAM)<br></li><li><strong>DirectX:</strong>\
+        \ Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>\
+        \ 35 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9\
+        \ sound device<br></li><li><strong>Additional Notes:</strong> Multiplayer\
+        \ is compatible between Windows, Mac and Linux versions.</li></ul>"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Paradox Interactive
+    release_date:
+      coming_soon: false
+      date: Mar 19, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_7598d72a93d0dd0ac0770f5eaa7f25d537611f2e.1920x1080.jpg?t=1589814740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_7598d72a93d0dd0ac0770f5eaa7f25d537611f2e.600x338.jpg?t=1589814740
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_3952880ac456ccf9c089976890ed085cbf354669.1920x1080.jpg?t=1589814740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_3952880ac456ccf9c089976890ed085cbf354669.600x338.jpg?t=1589814740
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_5854abd12f2186d95340ef9d9a3431474333a905.1920x1080.jpg?t=1589814740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_5854abd12f2186d95340ef9d9a3431474333a905.600x338.jpg?t=1589814740
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_46c4ec3734baa97e52b93e36110670673e591be2.1920x1080.jpg?t=1589814740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_46c4ec3734baa97e52b93e36110670673e591be2.600x338.jpg?t=1589814740
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_689109d4cf598343c947797458defb2a6c098c5b.1920x1080.jpg?t=1589814740
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/799751/ss_689109d4cf598343c947797458defb2a6c098c5b.600x338.jpg?t=1589814740
+    short_description: The Shadowhawk Pack includes an alternate skin for the formidable
+      Shadow Hawk 'Mech, a multi-role BattleMech developed in the Golden Age.
+    steam_appid: 799751
+    support_info:
+      email: ''
+      url: https://paradox.zendesk.com/home
+    supported_languages: English<strong>*</strong>, French, German, Russian<br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://battletechgame.com/
+  success: true
+reviews:
+  cursor: AoJ4krrxw/YCd8qHvAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 22
+    total_positive: 15
+    total_reviews: 37
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 38
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198994426788'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82853031'
+    review: It's just one skin for Shadow Hawk mech. That said, I think it is very
+      good. It really makes Shadow Hawk look badass. It's not just a paint job, it
+      gives Shadow Hawk much beefier look, like it's gone Super Saiyan.  Shadow Hawk
+      is the best medium class 'fast charging' mech (if you know what to do with it
+      of course) and I'm very happy with the new look. Worth the price, especially
+      if it's on special.
+    steam_purchase: true
+    timestamp_created: 1608595657
+    timestamp_updated: 1608595657
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

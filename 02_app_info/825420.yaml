@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: "The original mp3 soundtrack of the game Forestation, produced\
+      \ by WonderBox Music.<br />\r\n<br />\r\nTrack list:<br />\r\n1 - Menu<br />\r\
+      \n2 - Forest<br />\r\n3 - Forestation<br />\r\n4 - Swamp<br />\r\n5 - Desert<br\
+      \ />\r\n6 - Jazz theme"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/825420/page_bg_generated_v6b.jpg?t=1593664668
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The original mp3 soundtrack of the game Forestation, produced\
+      \ by WonderBox Music.<br />\r\n<br />\r\nTrack list:<br />\r\n1 - Menu<br />\r\
+      \n2 - Forest<br />\r\n3 - Forestation<br />\r\n4 - Swamp<br />\r\n5 - Desert<br\
+      \ />\r\n6 - Jazz theme"
+    developers:
+    - Gamenesis
+    fullgame:
+      appid: '752300'
+      name: Forestation
+    genres:
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/825420/header.jpg?t=1593664668
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        1000 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        30 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+    name: Forestation Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Forestation Soundtrack - $0.99
+        packageid: 253458
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Forestation Soundtrack
+    packages:
+    - 253458
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong>
+        1000 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong>
+        30 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Gamenesis
+    release_date:
+      coming_soon: false
+      date: Mar 14, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/825420/ss_dd8cd40fb9adf6d1f766223a77caff0f05cae39c.1920x1080.jpg?t=1593664668
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/825420/ss_dd8cd40fb9adf6d1f766223a77caff0f05cae39c.600x338.jpg?t=1593664668
+    short_description: The original mp3 soundtrack of the game Forestation, produced
+      by WonderBox Music.
+    steam_appid: 825420
+    support_info:
+      email: steam.support@gamenesis.com
+      url: https://steam.gamenesis.com
+    supported_languages: English, German, Simplified Chinese, Russian, Portuguese
+    type: dlc
+    website: https://steam.gamenesis.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

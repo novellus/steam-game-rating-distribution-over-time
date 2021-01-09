@@ -1,0 +1,184 @@
+details:
+  data:
+    about_the_game: "The Worms\u2122 Reloaded &quot;Puzzle Pack&quot; features 20\
+      \ mind-boggling single-player puzzle missions, designed to test even the most\
+      \ cunning Worms\u2122 players. The &quot;Puzzle Pack&quot; also includes 3 new\
+      \ hats, 3 new speech banks, 3 new gravestones, a new &quot;puzzle&quot; landscape\
+      \ theme and 12 new Achievements.<br>\t\t\t\t\t\t <h2 class=\"bb_tag\">Key Features</h2>\t\
+      \t\t\t\t\t <ul class=\"bb_ul\"><li>20 new single-player puzzles.<br>\t\t\t\t\
+      \t\t\t </li><li>1 new &quot;Puzzle&quot; landscape theme.<br>\t\t\t\t\t\t\t\
+      \ </li><li>3 new hats.<br>\t\t\t\t\t\t\t </li><li>3 new speech banks.<br>\t\t\
+      \t\t\t\t\t </li><li>3 new gravestones.<br>\t\t\t\t\t\t\t </li><li>12 new Achievements.<br>\t\
+      \t\t\t\t\t </li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/22631/page_bg_generated_v6b.jpg?t=1448452202
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Downloadable Content
+      id: 21
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The Worms\u2122 Reloaded &quot;Puzzle Pack&quot; features\
+      \ 20 mind-boggling single-player puzzle missions, designed to test even the\
+      \ most cunning Worms\u2122 players. The &quot;Puzzle Pack&quot; also includes\
+      \ 3 new hats, 3 new speech banks, 3 new gravestones, a new &quot;puzzle&quot;\
+      \ landscape theme and 12 new Achievements.<br>\t\t\t\t\t\t <h2 class=\"bb_tag\"\
+      >Key Features</h2>\t\t\t\t\t\t <ul class=\"bb_ul\"><li>20 new single-player\
+      \ puzzles.<br>\t\t\t\t\t\t\t </li><li>1 new &quot;Puzzle&quot; landscape theme.<br>\t\
+      \t\t\t\t\t\t </li><li>3 new hats.<br>\t\t\t\t\t\t\t </li><li>3 new speech banks.<br>\t\
+      \t\t\t\t\t\t </li><li>3 new gravestones.<br>\t\t\t\t\t\t\t </li><li>12 new Achievements.<br>\t\
+      \t\t\t\t\t </li></ul>"
+    developers:
+    - Team17 Digital Ltd
+    fullgame:
+      appid: '22600'
+      name: Worms Reloaded
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/22631/header.jpg?t=1448452202
+    is_free: false
+    legal_notice: "Worms\u2122 Reloaded Developed and Published by Team17 Software\
+      \ \xA9 2010 Team17 Software and Worms Reloaded are Trademarks or Registered\
+      \ trademarks of Team17 Software limited. Original concept Andy Davidson. All\
+      \ rights reserved. All other trademarks, copyrights and logos are property of\
+      \ their respective owners."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Worms Reloaded: Puzzle Pack'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Worms Reloaded: Puzzle Pack - $4.99'
+        packageid: 8595
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Worms Reloaded: Game of the Year Upgrade Pack - $7.99'
+        packageid: 13771
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Worms Reloaded: Game of the Year Edition - $24.99'
+        packageid: 13770
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2499
+      title: 'Buy Worms Reloaded: Puzzle Pack'
+    packages:
+    - 8595
+    - 13771
+    - 13770
+    pc_requirements:
+      minimum: "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7<br>\t\
+        \t\t\t\t\t\t\t\t\t</li><li><strong>Processor:</strong> 1.25GHz AMD Athlon\
+        \ or Intel equivalent <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Memory:</strong>\
+        \ 1GB <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Graphics:</strong> 128MB Video\
+        \ Card (GeForce4 or equivalent card)<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>DirectX\xAE\
+        :</strong> DirectX\xAE 9 or above<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Hard\
+        \ Drive:</strong> 2063MB<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Sound:</strong>\
+        \ DirectX\xAE 9.0c-compliant sound card<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Other\
+        \ Requirements:</strong> Internet connection required<br>\t\t\t\t\t\t\t\t\
+        \ </li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Team17 Digital Ltd
+    release_date:
+      coming_soon: false
+      date: Jun 30, 2011
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_2e93e331eaae686b19ce8dbc5059963ba4937367.1920x1080.jpg?t=1448452202
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_2e93e331eaae686b19ce8dbc5059963ba4937367.600x338.jpg?t=1448452202
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_beaae339639ad009980529151cb1fa99c8841a4d.1920x1080.jpg?t=1448452202
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_beaae339639ad009980529151cb1fa99c8841a4d.600x338.jpg?t=1448452202
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_e30247cf3ff204bb58513838245e52314ccd0358.1920x1080.jpg?t=1448452202
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_e30247cf3ff204bb58513838245e52314ccd0358.600x338.jpg?t=1448452202
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_3801ce3bbec30d71d56b589344baba81fc4f4e46.1920x1080.jpg?t=1448452202
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_3801ce3bbec30d71d56b589344baba81fc4f4e46.600x338.jpg?t=1448452202
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_9e3441cd7611aa7c05fd62f4aee2aa702d936f4d.1920x1080.jpg?t=1448452202
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_9e3441cd7611aa7c05fd62f4aee2aa702d936f4d.600x338.jpg?t=1448452202
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_ca34d80fb717e73b5aeee73aec5585b4ae65c472.1920x1080.jpg?t=1448452202
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_ca34d80fb717e73b5aeee73aec5585b4ae65c472.600x338.jpg?t=1448452202
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_333fad3772110e6dea125ed8f31a1e5c63e31141.1920x1080.jpg?t=1448452202
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/22631/ss_333fad3772110e6dea125ed8f31a1e5c63e31141.600x338.jpg?t=1448452202
+    short_description: "The Worms\u2122 Reloaded &quot;Puzzle Pack&quot; features\
+      \ 20 mind-boggling single-player puzzle missions, designed to test even the\
+      \ most cunning Worms\u2122 players. The &quot;Puzzle Pack&quot; also includes\
+      \ 3 new hats, 3 new speech banks, 3 new gravestones, a new &quot;puzzle&quot;\
+      \ landscape theme and 12 new Achievements."
+    steam_appid: 22631
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, French, German, Italian, Spanish - Spain
+    type: dlc
+    website: http://www.team17.com
+  success: true
+reviews:
+  cursor: AoJ4ydiA3OkCfNnqvQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 4
+    total_positive: 6
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 825
+      num_reviews: 140
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198264396612'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '49763740'
+    review: "\u2605 \u2605 \u2605 \u2605 \u2605\n"
+    steam_purchase: true
+    timestamp_created: 1553570383
+    timestamp_updated: 1553570383
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.493601441383361816'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,168 @@
+details:
+  data:
+    about_the_game: Naev is a game about space exploration, trade and combat. Players
+      travel the galaxy and earn money by trading, fighting and performing missions.<br><br>Main
+      features:<br><ul class="bb_ul">    <li>A large galaxy with hundreds of planets
+      and moons to explore.<br>    </li><li>Real-time, semi-Newtonian gameplay reminiscent
+      of the Escape Velocity games.<br>    </li><li>Many different ships to buy and
+      pilot, and many ways to customize each of them.<br>    </li><li>Multiple factions,
+      each with unique ship designs and personalities.<br>    </li><li>Open-source,
+      meaning ultimate freedom of modding.</li></ul>Currently Naev is a playable game,
+      but it is far from being a complete one. To further mature the game, we, the
+      developers, need you. Yes, <i>you</i>. All it takes is the motivation to be
+      creative in some way! Probably the easiest way to help, as well as one of the
+      most valuable ones, is by coming up with new stories for the game, and by shaping
+      those stories into playable missions. Other ways to help include making art
+      or sounds, improving gameplay via balancing work, or (if you have the ability)
+      even a bit of coding on the main program.<br><br>A few things to keep in mind:<br><ul
+      class="bb_ul">    <li>This game is a hobby project, not an indie development
+      project. There is no final plan, no time frame for the &quot;finished game&quot;.<br>    </li><li>The
+      dev team does not accept monetary donations, only direct contributions to the
+      game itself.<br>    </li><li>The game engine is written in C. Missions are written
+      in Lua.<br>    </li><li>No, there is no multiplayer, and there probably won't
+      be. Unless <i>you</i> add it!</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/598530/page_bg_generated_v6b.jpg?t=1599708321
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Naev is a game about space exploration, trade and combat.
+      Players travel the galaxy and earn money by trading, fighting and performing
+      missions.<br><br>Main features:<br><ul class="bb_ul">    <li>A large galaxy
+      with hundreds of planets and moons to explore.<br>    </li><li>Real-time, semi-Newtonian
+      gameplay reminiscent of the Escape Velocity games.<br>    </li><li>Many different
+      ships to buy and pilot, and many ways to customize each of them.<br>    </li><li>Multiple
+      factions, each with unique ship designs and personalities.<br>    </li><li>Open-source,
+      meaning ultimate freedom of modding.</li></ul>Currently Naev is a playable game,
+      but it is far from being a complete one. To further mature the game, we, the
+      developers, need you. Yes, <i>you</i>. All it takes is the motivation to be
+      creative in some way! Probably the easiest way to help, as well as one of the
+      most valuable ones, is by coming up with new stories for the game, and by shaping
+      those stories into playable missions. Other ways to help include making art
+      or sounds, improving gameplay via balancing work, or (if you have the ability)
+      even a bit of coding on the main program.<br><br>A few things to keep in mind:<br><ul
+      class="bb_ul">    <li>This game is a hobby project, not an indie development
+      project. There is no final plan, no time frame for the &quot;finished game&quot;.<br>    </li><li>The
+      dev team does not accept monetary donations, only direct contributions to the
+      game itself.<br>    </li><li>The game engine is written in C. Missions are written
+      in Lua.<br>    </li><li>No, there is no multiplayer, and there probably won't
+      be. Unless <i>you</i> add it!</li></ul>
+    developers:
+    - Naev Team
+    dlc:
+    - 1411430
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/598530/header.jpg?t=1599708321
+    is_free: true
+    legal_notice: This game is compliant with the Debian Free Software Guidelines.
+      We ask that all contributions be licensed accordingly.
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Linux XP or
+        newer<br></li><li><strong>Processor:</strong> Pentium III class processor
+        or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2 or later compatible video card<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Sound Card:</strong> None or better<br></li><li><strong>Additional
+        Notes:</strong> Refer to the wiki for required dependencies</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Linux
+        XP or newer<br></li><li><strong>Processor:</strong> Pentium IV class processor
+        or equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        ATI r3xx or equivalent<br></li><li><strong>Storage:</strong> 400 MB available
+        space<br></li><li><strong>Sound Card:</strong> None or better<br></li><li><strong>Additional
+        Notes:</strong> Refer to the wiki for required dependencies</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256689160
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256689160/movie480.mp4?t=1499987038
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256689160/movie_max.mp4?t=1499987038
+      name: Naev 0.7.0
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256689160/movie.293x165.jpg?t=1499987038
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256689160/movie480.webm?t=1499987038
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256689160/movie_max.webm?t=1499987038
+    name: Naev
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows XP
+        or newer<br></li><li><strong>Processor:</strong> Pentium III class processor
+        or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2 or later compatible video card<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Sound Card:</strong> None or better</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        XP or newer<br></li><li><strong>Processor:</strong> Pentium IV class processor
+        or equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        ATI r3xx or equivalent<br></li><li><strong>Storage:</strong> 400 MB available
+        space<br></li><li><strong>Sound Card:</strong> None or better</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - Naev Team
+    release_date:
+      coming_soon: false
+      date: Jul 17, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_a63190944436d19d8ea2e619acf1fe099788224f.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_a63190944436d19d8ea2e619acf1fe099788224f.600x338.jpg?t=1599708321
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_f958198fbf226c3dc86c9d0c7bf5abe6f0dab606.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_f958198fbf226c3dc86c9d0c7bf5abe6f0dab606.600x338.jpg?t=1599708321
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_f936714108c32aaaeda929096a64ba0ce1c86d07.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_f936714108c32aaaeda929096a64ba0ce1c86d07.600x338.jpg?t=1599708321
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_362743b912f35c648f4de458ad996360c3b70f69.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_362743b912f35c648f4de458ad996360c3b70f69.600x338.jpg?t=1599708321
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_b74c66333e5c58ff3f6f84d9254c867d3e914a89.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_b74c66333e5c58ff3f6f84d9254c867d3e914a89.600x338.jpg?t=1599708321
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_3606c7d23bfd7b63cda809923048607d3ea2fe75.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_3606c7d23bfd7b63cda809923048607d3ea2fe75.600x338.jpg?t=1599708321
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_c1a42f4aa9a196177dc742a1260eb567aa89d0f8.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_c1a42f4aa9a196177dc742a1260eb567aa89d0f8.600x338.jpg?t=1599708321
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_73cb9cc9adb461bb1d13b6de9ac1dfc3891c6a44.1920x1080.jpg?t=1599708321
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/598530/ss_73cb9cc9adb461bb1d13b6de9ac1dfc3891c6a44.600x338.jpg?t=1599708321
+    short_description: Naev is a game about space exploration, trade and combat. Players
+      travel the galaxy and earn money by trading, fighting and performing missions.
+    steam_appid: 598530
+    support_info:
+      email: ''
+      url: https://github.com/naev/naev/issues
+    supported_languages: English
+    type: game
+    website: https://naev.org/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

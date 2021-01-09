@@ -1,0 +1,203 @@
+details:
+  data:
+    about_the_game: "Hyper Storm is an arcade, thrilling shooter with backview.<br\
+      \ />\r\nDefeat your enemies and compete for the best scores by controlling futuristic\
+      \ fighters that rush towards your enemies on a stage from ground to space.<br\
+      \ />\r\n<br />\r\nVR is supported and feedback motion data according to the\
+      \ fighter's movement or combat situation for the simulator is output to the\
+      \ UDP network.<br />\r\nSupport for SimTools plugins."
+    achievements:
+      highlighted:
+      - name: Stage 1 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/cbf57481d4036322b6cc35369a89a856616178c0.jpg
+      - name: Stage 2 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/35eaa252ab33e10131a9c21bcd47a151cc8698ff.jpg
+      - name: Stage 3 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/61a8ef5e6c14559085410485182e56af5575ad88.jpg
+      - name: Stage 4 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/3a17cac104327137bd67da30dbf682218e5f592a.jpg
+      - name: Stage 5 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/ba3c30fb5ce2093494eb73710166e9204caeee70.jpg
+      - name: Stage 6 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/7afb895c920898e7d67871f55b103769a92f2edc.jpg
+      - name: Stage 7 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/69dc33e64529d2533f0a0df19e39d77c2c7b28a2.jpg
+      - name: Stage 8 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/776ca37c60839e161fee678a2078cf7b39c8e73a.jpg
+      - name: Stage 9 Conquer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1147840/e17ecc3b6e234704812ea6447803c77b0d3b7dc2.jpg
+      total: 9
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1147840/page_bg_generated_v6b.jpg?t=1571343912
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<h1>Update Notes</h1><p>Version 1.21 Update Contents\r\n\
+      \r\nThe difficulty of the game has been adjusted.\r\nMaintained Hard difficulty\
+      \ and lowered Easy and Normal difficulty.\r\nThis is to make the stage progression\
+      \ of the game more smooth.\r\n\r\n-Player aircraft shield durability has been\
+      \ adjusted as follows:\r\nIncreased from Easy 150% to 300%.\r\nNormal increased\
+      \ from 120% to 200%\r\nIncreased from Hard 80% to 100%.\r\n\r\n-The amount of\
+      \ points for each difficulty has been changed.\r\nEasy 100% Points Retained\r\
+      \nChanged from Norml 150% Points to 200% Points.\r\nChanged from Hard 200% to\
+      \ 300%.\r\n\r\n-Compensation is maintained in Hyper mode, so you can maintain\
+      \ high comparability by using Hyper Mode strategically.\r\nThis allows Hyper\
+      \ Mode not only to defend against attacks but also to be used strategically\
+      \ for high scores.\r\n\r\n-Fixed a bug where missiles on the existing ground\
+      \ stage were out of sync with the background scroll.\r\n\r\n-I have attached\
+      \ the game image in the game contents folder.\r\n\r\n-Fixed some typos in the\
+      \ game\r\n\r\n-SimTools plug-in work has been made to smoothly integrate the\
+      \ Motion Simulator. I've attached the SimTools plugin to the game content folder.</p><br><h1>About\
+      \ the Game</h1>Hyper Storm is an arcade, thrilling shooter with backview.\r\n\
+      Defeat your enemies and compete for the best scores by controlling futuristic\
+      \ fighters that rush towards your enemies on a stage from ground to space.\r\
+      \n\r\nVR is supported and feedback motion data according to the fighter's movement\
+      \ or combat situation for the simulator is output to the UDP network.\r\nSupport\
+      \ for SimTools plugins."
+    developers:
+    - MotionHouse
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1147840/header.jpg?t=1571343912
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256761972
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256761972/movie480.mp4?t=1569047877
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256761972/movie_max.mp4?t=1569047877
+      name: Hyper Storm
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256761972/movie.293x165.jpg?t=1569047877
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256761972/movie480.webm?t=1569047877
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256761972/movie_max.webm?t=1569047877
+    name: Hyper Storm
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: HyperStorm - $4.99
+        packageid: 391048
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Hyper Storm
+    packages:
+    - 391048
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8.1/10<br></li><li><strong>Processor:</strong> Intel Core i3-4160
+        @ 3.60GHz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GeForce GTX 660 2GB, GTX 750Ti 2GB, or equivalent<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX compatible soundcard or onboard chipset<br></li><li><strong>Additional
+        Notes:</strong> Non VR specification</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8.1/10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core
+        i5-6600K or AMD Ryzen 5 1400 or better<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970 / AMD
+        RX 480 8GB or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        5 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible
+        soundcard or onboard chipset<br></li><li><strong>Additional Notes:</strong>
+        VR Specification</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - MotionHouse
+    release_date:
+      coming_soon: false
+      date: Oct 3, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_70b869f4f60af586755de83d0f344bf8798b73f8.1920x1080.jpg?t=1571343912
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_70b869f4f60af586755de83d0f344bf8798b73f8.600x338.jpg?t=1571343912
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_4496ddbae794be08b0ae7794417fe2cd7fd897a5.1920x1080.jpg?t=1571343912
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_4496ddbae794be08b0ae7794417fe2cd7fd897a5.600x338.jpg?t=1571343912
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_932deab081f547b03d5bd634acf0f0385997f6f3.1920x1080.jpg?t=1571343912
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_932deab081f547b03d5bd634acf0f0385997f6f3.600x338.jpg?t=1571343912
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_cc586e935b0e562db7c6bf102723d4c48aceda54.1920x1080.jpg?t=1571343912
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_cc586e935b0e562db7c6bf102723d4c48aceda54.600x338.jpg?t=1571343912
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_f7138a94ecdec2b4cd076a142ef5417abdb2a75f.1920x1080.jpg?t=1571343912
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_f7138a94ecdec2b4cd076a142ef5417abdb2a75f.600x338.jpg?t=1571343912
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_c9b81f593bef7412c5c14bbe87d609c15853a83f.1920x1080.jpg?t=1571343912
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1147840/ss_c9b81f593bef7412c5c14bbe87d609c15853a83f.600x338.jpg?t=1571343912
+    short_description: Hyper Storm is an arcade, thrilling shooter with backview.
+      Defeat your enemies and compete for the best scores by controlling futuristic
+      fighters that rush towards your enemies on a stage from ground to space.
+    steam_appid: 1147840
+    support_info:
+      email: ''
+      url: http://motionhouse.co.kr/
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwtMr7/O4Ccpji4wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 0
+    total_positive: 5
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 1578997946
+      num_games_owned: 16
+      num_reviews: 3
+      playtime_at_review: 10
+      playtime_forever: 25
+      playtime_last_two_weeks: 0
+      steamid: '76561198280209564'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '59707778'
+    review: "\u8BF4\u5B9E\u8BDD   \u5E0C\u671B\u80FD\u653E\u51FAbgm\u4E0B\u8F7D\u5C31\
+      \u597D\u4E86   \u6E38\u620F\u6709\u70B9\u96BE\u5EA6   \u4E0D\u8FC7\u97F3\u4E50\
+      \u771F\u7684\u5F88\u68D2\uFF01\u63A8\u8350\uFF01"
+    steam_purchase: true
+    timestamp_created: 1576151176
+    timestamp_updated: 1576151176
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.512820541858673096'
+    written_during_early_access: false
+  success: 1

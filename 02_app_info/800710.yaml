@@ -1,0 +1,648 @@
+details:
+  data:
+    about_the_game: "This game is a top-down tps game where players must shoot zombies\
+      \ everywhere in this city. This game is designed to allow players to relax and\
+      \ destroy the most zombies.<br />\r\n<br />\r\nhow to play:<br />\r\nPress the\
+      \ W A D S button for moving. Press left mouse to shoot. And use the mouse cursor\
+      \ to set direction.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u9019\u500B\u904A\u6232\u662F\u4E00\u500B\u81EA\u4E0A\u800C\u4E0B\u7684\
+      tps\u904A\u6232\uFF0C\u73A9\u5BB6\u5FC5\u9808\u5728\u9019\u500B\u57CE\u5E02\u7684\
+      \u4EFB\u4F55\u5730\u65B9\u90FD\u53EF\u4EE5\u5C04\u6BBA\u6BAD\u5C4D\u3002\u9019\
+      \u500B\u904A\u6232\u65E8\u5728\u8B93\u73A9\u5BB6\u653E\u9B06\u548C\u6467\u6BC0\
+      \u5927\u591A\u6578\u6BAD\u5C4D\u3002<br />\r\n<br />\r\n\u600E\u9EBC\u73A9\uFF1A\
+      <br />\r\n\u6309W A D S\u6309\u9215\u79FB\u52D5\u3002\u6309\u4E0B\u9F20\u6A19\
+      \u5DE6\u9375\u62CD\u651D\u3002\u4E26\u4F7F\u7528\u9F20\u6A19\u5149\u6A19\u8A2D\
+      \u7F6E\u65B9\u5411\u3002<br />\r\n................................................................................................................................<br\
+      \ />\r\nQuesto gioco \xE8 un gioco tps top-down in cui i giocatori devono sparare\
+      \ zombi ovunque in questa citt\xE0. Questo gioco \xE8 progettato per consentire\
+      \ ai giocatori di rilassarsi e distruggere il maggior numero di zombi.<br />\r\
+      \n<br />\r\ncome giocare:<br />\r\nPremere il tasto W A D S per spostarsi. Premi\
+      \ il tasto sinistro del mouse per sparare. E usa il cursore del mouse per impostare\
+      \ la direzione.<br />\r\n................................................................................................................................<br\
+      \ />\r\nEste juego es un juego de arriba hacia abajo donde los jugadores deben\
+      \ disparar a los zombies en todas partes en esta ciudad. Este juego est\xE1\
+      \ dise\xF1ado para permitir a los jugadores relajarse y destruir a la mayor\xED\
+      a de los zombis.<br />\r\n<br />\r\nc\xF3mo jugar:<br />\r\nPresione el bot\xF3\
+      n W A D S para moverse. Presione el bot\xF3n izquierdo del mouse para disparar.\
+      \ Y usa el cursor del mouse para establecer la direcci\xF3n.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u3053\u306E\u30B2\u30FC\u30E0\u306F\u30C8\u30C3\u30D7\u30C0\u30A6\u30F3\
+      \u306Etps\u30B2\u30FC\u30E0\u3067\u3001\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u3053\
+      \u306E\u90FD\u5E02\u306E\u3069\u3053\u306B\u3044\u3066\u3082\u30BE\u30F3\u30D3\
+      \u3092\u6483\u3064\u5FC5\u8981\u304C\u3042\u308A\u307E\u3059\u3002\u3053\u306E\
+      \u30B2\u30FC\u30E0\u306F\u3001\u30D7\u30EC\u30A4\u30E4\u30FC\u304C\u307B\u3068\
+      \u3093\u3069\u306E\u30BE\u30F3\u30D3\u3092\u30EA\u30E9\u30C3\u30AF\u30B9\u3057\
+      \u3066\u7834\u58CA\u3067\u304D\u308B\u3088\u3046\u306B\u8A2D\u8A08\u3055\u308C\
+      \u3066\u3044\u307E\u3059\u3002<br />\r\n<br />\r\n\u904A\u3073\u65B9\uFF1A<br\
+      \ />\r\n\u79FB\u52D5\u3059\u308B\u306B\u306F\u3001W A D S\u30DC\u30BF\u30F3\u3092\
+      \u62BC\u3057\u307E\u3059\u3002\u30DE\u30A6\u30B9\u306E\u5DE6\u30DC\u30BF\u30F3\
+      \u3092\u62BC\u3057\u3066\u64AE\u5F71\u3057\u307E\u3059\u3002\u307E\u305F\u3001\
+      \u30DE\u30A6\u30B9\u30AB\u30FC\u30BD\u30EB\u3092\u4F7F\u7528\u3057\u3066\u65B9\
+      \u5411\u3092\u8A2D\u5B9A\u3057\u307E\u3059\u3002<br />\r\n................................................................................................................................<br\
+      \ />\r\nCe jeu est un jeu de tps top-down o\xF9 les joueurs doivent tirer des\
+      \ zombies partout dans cette ville. Ce jeu est con\xE7u pour permettre aux joueurs\
+      \ de se d\xE9tendre et de d\xE9truire le plus de zombies.<br />\r\n<br />\r\n\
+      comment jouer:<br />\r\nAppuyez sur le bouton W A D S pour vous d\xE9placer.\
+      \ Appuyez sur la gauche du bouton pour tirer. Et utilisez le curseur de la souris\
+      \ pour d\xE9finir la direction.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u042D\u0442\u0430 \u0438\u0433\u0440\u0430 - \u0438\u0433\u0440\u0430\
+      \ \u0441\u0432\u0435\u0440\u0445\u0443 \u0432\u043D\u0438\u0437, \u0433\u0434\
+      \u0435 \u0438\u0433\u0440\u043E\u043A\u0438 \u0434\u043E\u043B\u0436\u043D\u044B\
+      \ \u0441\u0442\u0440\u0435\u043B\u044F\u0442\u044C \u0432 \u0437\u043E\u043C\
+      \u0431\u0438 \u0432 \u044D\u0442\u043E\u043C \u0433\u043E\u0440\u043E\u0434\u0435\
+      . \u042D\u0442\u0430 \u0438\u0433\u0440\u0430 \u043F\u0440\u0438\u0437\u0432\
+      \u0430\u043D\u0430 \u043F\u043E\u0437\u0432\u043E\u043B\u0438\u0442\u044C \u0438\
+      \u0433\u0440\u043E\u043A\u0430\u043C \u0440\u0430\u0441\u0441\u043B\u0430\u0431\
+      \u0438\u0442\u044C\u0441\u044F \u0438 \u0443\u043D\u0438\u0447\u0442\u043E\u0436\
+      \u0438\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\
+      \u043E \u0437\u043E\u043C\u0431\u0438.<br />\r\n<br />\r\n\u043A\u0430\u043A\
+      \ \u0438\u0433\u0440\u0430\u0442\u044C:<br />\r\n\u041D\u0430\u0436\u043C\u0438\
+      \u0442\u0435 \u043A\u043D\u043E\u043F\u043A\u0443 W A D S \u0434\u043B\u044F\
+      \ \u043F\u0435\u0440\u0435\u043C\u0435\u0449\u0435\u043D\u0438\u044F. \u041D\
+      \u0430\u0436\u043C\u0438\u0442\u0435 \u043B\u0435\u0432\u0443\u044E \u043A\u043D\
+      \u043E\u043F\u043A\u0443 \u043C\u044B\u0448\u0438, \u0447\u0442\u043E\u0431\u044B\
+      \ \u0441\u0442\u0440\u0435\u043B\u044F\u0442\u044C. \u0418 \u0438\u0441\u043F\
+      \u043E\u043B\u044C\u0437\u0443\u0439\u0442\u0435 \u0443\u043A\u0430\u0437\u0430\
+      \u0442\u0435\u043B\u044C \u043C\u044B\u0448\u0438 \u0434\u043B\u044F \u0443\u0441\
+      \u0442\u0430\u043D\u043E\u0432\u043A\u0438 \u043D\u0430\u043F\u0440\u0430\u0432\
+      \u043B\u0435\u043D\u0438\u044F.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDieses Spiel ist ein Top-Down-TPS-Spiel, in dem Spieler Zombies \xFC\
+      berall in dieser Stadt erschie\xDFen m\xFCssen. Dieses Spiel ist so konzipiert,\
+      \ dass Spieler sich entspannen und die meisten Zombies zerst\xF6ren k\xF6nnen.<br\
+      \ />\r\n<br />\r\nSpielanleitung:<br />\r\nDr\xFCcken Sie zum Bewegen die Taste\
+      \ W A D S. Dr\xFCcken Sie die linke Maustaste, um zu schie\xDFen. Und verwenden\
+      \ Sie den Mauszeiger, um die Richtung festzulegen.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03C0\u03B1\u03B9\u03C7\u03BD\
+      \u03AF\u03B4\u03B9 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03AD\u03BD\u03B1 top-down\
+      \ tps \u03C0\u03B1\u03B9\u03C7\u03BD\u03AF\u03B4\u03B9 \u03CC\u03C0\u03BF\u03C5\
+      \ \u03BF\u03B9 \u03C0\u03B1\u03AF\u03BA\u03C4\u03B5\u03C2 \u03C0\u03C1\u03AD\
+      \u03C0\u03B5\u03B9 \u03BD\u03B1 \u03C0\u03C5\u03C1\u03BF\u03B2\u03BF\u03BB\u03BF\
+      \u03CD\u03BD \u03B6\u03CC\u03BC\u03C0\u03B9 \u03C0\u03B1\u03BD\u03C4\u03BF\u03CD\
+      \ \u03C3\u03B5 \u03B1\u03C5\u03C4\u03AE \u03C4\u03B7\u03BD \u03C0\u03CC\u03BB\
+      \u03B7. \u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03C0\u03B1\u03B9\u03C7\u03BD\
+      \u03AF\u03B4\u03B9 \u03AD\u03C7\u03B5\u03B9 \u03C3\u03C7\u03B5\u03B4\u03B9\u03B1\
+      \u03C3\u03C4\u03B5\u03AF \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03B5\u03C0\u03B9\u03C4\
+      \u03C1\u03AD\u03C0\u03B5\u03B9 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C0\u03B1\u03AF\
+      \u03BA\u03C4\u03B5\u03C2 \u03BD\u03B1 \u03C7\u03B1\u03BB\u03B1\u03C1\u03CE\u03C3\
+      \u03BF\u03C5\u03BD \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03BA\u03B1\u03C4\u03B1\u03C3\
+      \u03C4\u03C1\u03AD\u03C8\u03BF\u03C5\u03BD \u03C4\u03B1 \u03C0\u03B5\u03C1\u03B9\
+      \u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03B6\u03CC\u03BC\u03C0\u03B9.<br\
+      \ />\r\n<br />\r\n\u03C0\u03CE\u03C2 \u03BD\u03B1 \u03C0\u03B1\u03AF\u03BE\u03B5\
+      \u03B9\u03C2:<br />\r\n\u03A0\u03B1\u03C4\u03AE\u03C3\u03C4\u03B5 \u03C4\u03BF\
+      \ \u03BA\u03BF\u03C5\u03BC\u03C0\u03AF W A D S \u03B3\u03B9\u03B1 \u03BC\u03B5\
+      \u03C4\u03B1\u03BA\u03AF\u03BD\u03B7\u03C3\u03B7. \u03A0\u03B1\u03C4\u03AE\u03C3\
+      \u03C4\u03B5 \u03B1\u03C1\u03B9\u03C3\u03C4\u03B5\u03C1\u03CC \u03C0\u03BF\u03BD\
+      \u03C4\u03AF\u03BA\u03B9 \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03C0\u03C5\u03C1\u03BF\
+      \u03B2\u03BF\u03BB\u03AE\u03C3\u03B5\u03C4\u03B5 \u039A\u03B1\u03B9 \u03C7\u03C1\
+      \u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03C4\u03B5 \u03C4\
+      \u03BF \u03B4\u03C1\u03BF\u03BC\u03AD\u03B1 \u03C4\u03BF\u03C5 \u03C0\u03BF\u03BD\
+      \u03C4\u03B9\u03BA\u03B9\u03BF\u03CD \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03BA\u03B1\
+      \u03B8\u03BF\u03C1\u03AF\u03C3\u03B5\u03C4\u03B5 \u03C4\u03B7\u03BD \u03BA\u03B1\
+      \u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7.<br />\r\n................................................................................................................................<br\
+      \ />\r\nBu oyun, oyuncular\u0131n bu \u015Fehirde her yerde zombi \xE7ekmesi\
+      \ gereken yukar\u0131dan a\u015Fa\u011F\u0131ya do\u011Fru bir tps oyunu. Bu\
+      \ oyun, oyuncular\u0131n en zombi rahatlamak ve yok etmek i\xE7in tasarlanm\u0131\
+      \u015Ft\u0131r.<br />\r\n<br />\r\nnas\u0131l oynan\u0131r:<br />\r\nTa\u015F\
+      \u0131mak i\xE7in W A D S d\xFC\u011Fmesine bas\u0131n. Vurmak i\xE7in sol fare\
+      \ tu\u015Funa bas\u0131n. Y\xF6n\xFC ayarlamak i\xE7in fare imlecini kullan\u0131\
+      n.<br />\r\n................................................................................................................................<br\
+      \ />\r\nEste jogo \xE9 um jogo top-down tps onde os jogadores devem atirar zumbis\
+      \ em toda a cidade. Este jogo \xE9 projetado para permitir que os jogadores\
+      \ relaxem e destroem a maioria dos zumbis.<br />\r\n<br />\r\ncomo jogar:<br\
+      \ />\r\nPressione o bot\xE3o W A D S para mover. Pressione o mouse esquerdo\
+      \ para atirar. E use o cursor do mouse para definir a dire\xE7\xE3o.<br />\r\
+      \n................................................................................................................................<br\
+      \ />\r\n\uC774 \uAC8C\uC784\uC740 \uD50C\uB808\uC774\uC5B4\uAC00\uC774 \uB3C4\
+      \uC2DC\uC758 \uBAA8\uB4E0 \uACF3\uC5D0\uC11C \uC880\uBE44\uB97C \uC3D8\uC544\
+      \ \uC57C\uD558\uB294 \uD558\uD5A5\uC2DD tps \uAC8C\uC784\uC785\uB2C8\uB2E4.\
+      \ \uC774 \uAC8C\uC784\uC740 \uD50C\uB808\uC774\uC5B4\uAC00 \uB300\uBD80\uBD84\
+      \uC758 \uC880\uBE44\uB97C \uAE34\uC7A5\uC2DC\uD0A4\uACE0 \uD30C\uAD34 \uD560\
+      \ \uC218 \uC788\uB3C4\uB85D \uC124\uACC4\uB418\uC5C8\uC2B5\uB2C8\uB2E4.<br />\r\
+      \n<br />\r\n\uAC8C\uC784 \uBC29\uBC95:<br />\r\n\uC774\uB3D9\uD558\uB824\uBA74\
+      \ W A D S \uBC84\uD2BC\uC744 \uB204\uB974\uC2ED\uC2DC\uC624. \uC67C\uCABD \uB9C8\
+      \uC6B0\uC2A4\uB97C \uB20C\uB7EC \uCD2C\uC601\uD558\uC2ED\uC2DC\uC624. \uADF8\
+      \uB9AC\uACE0 \uB9C8\uC6B0\uC2A4 \uCEE4\uC11C\uB97C \uC0AC\uC6A9\uD558\uC5EC\
+      \ \uBC29\uD5A5\uC744 \uC124\uC815\uD558\uC2ED\uC2DC\uC624.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDetta spel \xE4r ett topp-down-tps-spel d\xE4r spelarna m\xE5ste skjuta\
+      \ zombies \xF6verallt i denna stad. Detta spel \xE4r utformat s\xE5 att spelarna\
+      \ kan slappna av och f\xF6rst\xF6ra de flesta zombies.<br />\r\n<br />\r\nhur\
+      \ man spelar:<br />\r\nTryck p\xE5 W A D S-knappen f\xF6r att flytta. Tryck\
+      \ p\xE5 v\xE4nster mus f\xF6r att skjuta. Och anv\xE4nd muspekaren f\xF6r att\
+      \ st\xE4lla in riktning.<br />\r\n................................................................................................................................<br\
+      \ />\r\nTato hra je top-down tps hra, kde hr\xE1\u010Di mus\xED st\u0159\xED\
+      let zombie v\u0161ude v tomto m\u011Bst\u011B. Tato hra je navr\u017Eena tak,\
+      \ aby hr\xE1\u010Di mohli relaxovat a zni\u010Dit v\u011Bt\u0161inu zombie.<br\
+      \ />\r\n<br />\r\njak hr\xE1t:<br />\r\nStiskn\u011Bte tla\u010D\xEDtko WA D\
+      \ S pro pohyb. Stisknut\xEDm lev\xE9ho tla\u010D\xEDtka my\u0161i fotografujte.\
+      \ Pou\u017Eijte kurzor my\u0161i pro nastaven\xED sm\u011Bru.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDette spillet er et topp-down tps spill hvor spillerne m\xE5 skyte zombier\
+      \ overalt i denne byen. Dette spillet er laget for \xE5 tillate spillere \xE5\
+      \ slappe av og \xF8delegge de mest zombier.<br />\r\n<br />\r\nhvordan spille:<br\
+      \ />\r\nTrykk p\xE5 W A D S-knappen for \xE5 flytte. Trykk p\xE5 venstre mus\
+      \ for \xE5 skyte. Og bruk musepekeren til \xE5 angi retning.<br />\r\n................................................................................................................................<br\
+      \ />\r\nT\xE4m\xE4 peli on ylh\xE4\xE4lt\xE4 alas tps-peli, jossa pelaajan t\xE4\
+      ytyy ampua zombeja kaikkialla t\xE4ss\xE4 kaupungissa. T\xE4m\xE4 peli on suunniteltu\
+      \ siten, ett\xE4 pelaajat voivat rentoutua ja tuhota eniten zombeja.<br />\r\
+      \n<br />\r\nkuinka pelata:<br />\r\nPaina W A D S -painiketta siirty\xE4ksesi.\
+      \ Paina vasenta hiirt\xE4 ampua. K\xE4yt\xE4 hiiren kohdistinta asettaaksesi\
+      \ suuntaan.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDeze game is een top-down tps-game waarbij spelers overal in deze stad\
+      \ op zombies moeten schieten. Deze game is ontworpen om spelers te laten ontspannen\
+      \ en de meeste zombies te vernietigen.<br />\r\n<br />\r\nhoe te spelen:<br\
+      \ />\r\nDruk op de W A D S-knop om te verplaatsen. Druk op de linkermuisknop\
+      \ om te schieten. En gebruik de muiscursor om de richting in te stellen.<br\
+      \ />\r\n................................................................................................................................<br\
+      \ />\r\n\u0647\u0630\u0647 \u0627\u0644\u0644\u0639\u0628\u0629 \u0647\u064A\
+      \ \u0644\u0639\u0628\u0629 \u0645\u0646 \u0623\u0639\u0644\u0649 \u0625\u0644\
+      \u0649 \u0623\u0633\u0641\u0644 \u062A\u0628\u0633 \u062D\u064A\u062B \u064A\
+      \u062C\u0628 \u0639\u0644\u0649 \u0627\u0644\u0644\u0627\u0639\u0628\u064A\u0646\
+      \ \u0627\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0639\u0644\
+      \u0649 \u0627\u0644\u0643\u0633\u0627\u0644\u0649 \u0641\u064A \u0643\u0644\
+      \ \u0645\u0643\u0627\u0646 \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0645\
+      \u062F\u064A\u0646\u0629. \u062A\u0645 \u062A\u0635\u0645\u064A\u0645 \u0647\
+      \u0630\u0647 \u0627\u0644\u0644\u0639\u0628\u0629 \u0644\u0644\u0633\u0645\u0627\
+      \u062D \u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0644\u0644\u0627\u0633\u062A\
+      \u0631\u062E\u0627\u0621 \u0648\u062A\u062F\u0645\u064A\u0631 \u0645\u0639\u0638\
+      \u0645 \u0627\u0644\u0643\u0633\u0627\u0644\u0649.<br />\r\n<br />\r\n\u0643\
+      \u064A\u0641 \u0623\u0644\u0639\u0628:<br />\r\n\u0627\u0636\u063A\u0637 \u0639\
+      \u0644\u0649 \u0627\u0644\u0632\u0631 W A D S \u0644\u0644\u062A\u062D\u0631\
+      \u0643. \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0627\u0648\u0633 \u0627\
+      \u0644\u0623\u064A\u0633\u0631 \u0644\u0627\u0637\u0644\u0627\u0642 \u0627\u0644\
+      \u0646\u0627\u0631. \u0648\u0627\u0633\u062A\u062E\u062F\u0645 \u0645\u0624\u0634\
+      \u0631 \u0627\u0644\u0645\u0627\u0648\u0633 \u0644\u062A\u0639\u064A\u064A\u0646\
+      \ \u0627\u0644\u0627\u062A\u062C\u0627\u0647.<br />\r\n................................................................................................................................<br\
+      \ />\r\nEz a j\xE1t\xE9k egy top-down tps j\xE1t\xE9k, ahol a j\xE1t\xE9kosoknak\
+      \ mindenhol zombokat kell l\u0151ni\xFCk ebben a v\xE1rosban. Ez a j\xE1t\xE9\
+      k c\xE9lja, hogy a j\xE1t\xE9kosok laz\xEDtsanak \xE9s elpuszt\xEDts\xE1k a\
+      \ legt\xF6bb zombit.<br />\r\n<br />\r\nhogyan kell j\xE1tszani:<br />\r\nNyomja\
+      \ meg a W A D S gombot a mozg\xE1shoz. Nyomja meg a bal eg\xE9rgombot l\u0151\
+      ni. Haszn\xE1lja az eg\xE9r kurzort az ir\xE1ny be\xE1ll\xEDt\xE1s\xE1hoz.<br\
+      \ />\r\n................................................................................................................................<br\
+      \ />\r\n\u0422\u0430\u0437\u0438 \u0438\u0433\u0440\u0430 \u0435 \u043E\u0442\
+      \u0433\u043E\u0440\u0435-\u043D\u0430\u0434\u043E\u043B\u0443 tps \u0438\u0433\
+      \u0440\u0430, \u043A\u044A\u0434\u0435\u0442\u043E \u0438\u0433\u0440\u0430\u0447\
+      \u0438\u0442\u0435 \u0442\u0440\u044F\u0431\u0432\u0430 \u0434\u0430 \u0441\u0442\
+      \u0440\u0435\u043B\u044F \u0437\u043E\u043C\u0431\u0438\u0442\u0430 \u043D\u0430\
+      \u0432\u0441\u044F\u043A\u044A\u0434\u0435 \u0432 \u0442\u043E\u0437\u0438 \u0433\
+      \u0440\u0430\u0434. \u0422\u0430\u0437\u0438 \u0438\u0433\u0440\u0430 \u0435\
+      \ \u0441\u044A\u0437\u0434\u0430\u0434\u0435\u043D\u0430, \u0437\u0430 \u0434\
+      \u0430 \u043F\u043E\u0437\u0432\u043E\u043B\u0438 \u043D\u0430 \u0438\u0433\u0440\
+      \u0430\u0447\u0438\u0442\u0435 \u0434\u0430 \u0441\u0435 \u043E\u0442\u043F\u0443\
+      \u0441\u043D\u0430\u0442 \u0438 \u0434\u0430 \u0443\u043D\u0438\u0449\u043E\u0436\
+      \u0430\u0442 \u043D\u0430\u0439-\u043C\u043D\u043E\u0433\u043E \u0437\u043E\u043C\
+      \u0431\u0438\u0442\u0430.<br />\r\n<br />\r\n\u043A\u0430\u043A \u0434\u0430\
+      \ \u0438\u0433\u0440\u0430\u044F:<br />\r\n\u041D\u0430\u0442\u0438\u0441\u043D\
+      \u0435\u0442\u0435 \u0431\u0443\u0442\u043E\u043D\u0430 WA D S \u0437\u0430\
+      \ \u043F\u0440\u0435\u043C\u0435\u0441\u0442\u0432\u0430\u043D\u0435. \u041D\
+      \u0430\u0442\u0438\u0441\u043D\u0435\u0442\u0435 \u043B\u044F\u0432\u0430\u0442\
+      \u0430 \u043C\u0438\u0448\u043A\u0430, \u0437\u0430 \u0434\u0430 \u0441\u0442\
+      \u0440\u0435\u043B\u044F\u0442\u0435. \u0418 \u0438\u0437\u043F\u043E\u043B\u0437\
+      \u0432\u0430\u0439\u0442\u0435 \u043A\u0443\u0440\u0441\u043E\u0440\u0430 \u043D\
+      \u0430 \u043C\u0438\u0448\u043A\u0430\u0442\u0430, \u0437\u0430 \u0434\u0430\
+      \ \u043D\u0430\u0441\u0442\u0440\u043E\u0438\u0442\u0435 \u043F\u043E\u0441\u043E\
+      \u043A\u0430\u0442\u0430.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u0426\u044F \u0433\u0440\u0430 \u044F\u0432\u043B\u044F\u0454 \u0441\
+      \u043E\u0431\u043E\u044E \u0437\u0432\u0435\u0440\u0445\u0443 \u0432\u043D\u0438\
+      \u0437 TPS \u0433\u0440\u0430, \u0434\u0435 \u0433\u0440\u0430\u0432\u0446\u0456\
+      \ \u043F\u043E\u0432\u0438\u043D\u043D\u0456 \u0441\u0442\u0440\u0456\u043B\u044F\
+      \u0442\u0438 \u0437\u043E\u043C\u0431\u0456 \u0441\u043A\u0440\u0456\u0437\u044C\
+      \ \u0432 \u0446\u044C\u043E\u043C\u0443 \u043C\u0456\u0441\u0442\u0456. \u0426\
+      \u044F \u0433\u0440\u0430 \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\
+      \u0430 \u0434\u043B\u044F \u0442\u043E\u0433\u043E, \u0449\u043E\u0431 \u0433\
+      \u0440\u0430\u0432\u0446\u0456 \u043C\u043E\u0433\u043B\u0438 \u0432\u0456\u0434\
+      \u043F\u043E\u0447\u0438\u0442\u0438 \u0456 \u0437\u043D\u0438\u0449\u0438\u0442\
+      \u0438 \u0431\u0456\u043B\u044C\u0448\u0456\u0441\u0442\u044C \u0437\u043E\u043C\
+      \u0431\u0456.<br />\r\n<br />\r\n\u044F\u043A \u0433\u0440\u0430\u0442\u0438\
+      :<br />\r\n\u041D\u0430\u0442\u0438\u0441\u043D\u0456\u0442\u044C \u043A\u043D\
+      \u043E\u043F\u043A\u0443 W A D S \u0434\u043B\u044F \u043F\u0435\u0440\u0435\
+      \u043C\u0456\u0449\u0435\u043D\u043D\u044F. \u041D\u0430\u0442\u0438\u0441\u043D\
+      \u0456\u0442\u044C \u043B\u0456\u0432\u043E\u044E \u043A\u043D\u043E\u043F\u043A\
+      \u043E\u044E \u043C\u0438\u0448\u0456, \u0449\u043E\u0431 \u0441\u0442\u0440\
+      \u0456\u043B\u044F\u0442\u0438. \u0406 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\
+      \u0442\u043E\u0432\u0443\u0439\u0442\u0435 \u043A\u0443\u0440\u0441\u043E\u0440\
+      \ \u043C\u0438\u0448\u0456, \u0449\u043E\u0431 \u0432\u0441\u0442\u0430\u043D\
+      \u043E\u0432\u0438\u0442\u0438 \u043D\u0430\u043F\u0440\u044F\u043C\u043E\u043A\
+      .<br />\r\n................................................................................................................................<br\
+      \ />\r\nDette spil er et top-down tps spil, hvor spillere skal skyde zombier\
+      \ overalt i denne by. Dette spil er designet til at give spillerne mulighed\
+      \ for at slappe af og \xF8del\xE6gge de mest zombier.<br />\r\n<br />\r\nhvordan\
+      \ man spiller:<br />\r\nTryk p\xE5 knappen W A D S for at flytte. Tryk venstre\
+      \ mus for at skyde. Og brug musemark\xF8ren til at indstille retning.<br />\r\
+      \n................................................................................................................................<br\
+      \ />\r\n<br />\r\nAcest joc este un joc de sus \xEEn jos tps unde juc\u0103\
+      torii trebuie s\u0103 trag\u0103 zombi peste tot \xEEn acest ora\u0219. Acest\
+      \ joc este conceput pentru a permite juc\u0103torilor s\u0103 se relaxeze \u0219\
+      i s\u0103 distrug\u0103 cele mai multe zombi.<br />\r\n<br />\r\ncum se joac\u0103\
+      :<br />\r\nAp\u0103sa\u021Bi butonul W A D S pentru a v\u0103 deplasa. Ap\u0103\
+      sa\u021Bi mouse-ul st\xE2nga pentru a filma. Utiliza\u021Bi cursorul mouse-ului\
+      \ pentru a seta direc\u021Bia.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E01\
+      \u0E21 top-down tps \u0E17\u0E35\u0E48\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\
+      \u0E15\u0E49\u0E2D\u0E07\u0E22\u0E34\u0E07 zombies \u0E17\u0E38\u0E01\u0E17\u0E35\
+      \u0E48\u0E43\u0E19\u0E40\u0E21\u0E37\u0E2D\u0E07\u0E19\u0E35\u0E49 \u0E40\u0E01\
+      \u0E21\u0E19\u0E35\u0E49\u0E16\u0E39\u0E01\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\
+      \u0E21\u0E32\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E2B\u0E49\u0E1C\u0E39\u0E49\
+      \u0E40\u0E25\u0E48\u0E19\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E1C\u0E48\u0E2D\
+      \u0E19\u0E04\u0E25\u0E32\u0E22\u0E41\u0E25\u0E30\u0E17\u0E33\u0E25\u0E32\u0E22\
+      \u0E0B\u0E2D\u0E21\u0E1A\u0E35\u0E49\u0E44\u0E14\u0E49\u0E21\u0E32\u0E01\u0E17\
+      \u0E35\u0E48\u0E2A\u0E38\u0E14<br />\r\n<br />\r\n\u0E27\u0E34\u0E18\u0E35\u0E01\
+      \u0E32\u0E23\u0E40\u0E25\u0E48\u0E19:<br />\r\n\u0E01\u0E14\u0E1B\u0E38\u0E48\
+      \u0E21 W A D S \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E04\u0E25\u0E37\u0E48\u0E2D\
+      \u0E19\u0E17\u0E35\u0E48 \u0E01\u0E14\u0E40\u0E21\u0E32\u0E2A\u0E4C\u0E0B\u0E49\
+      \u0E32\u0E22\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E22\u0E34\u0E07 \u0E41\u0E25\u0E30\
+      \u0E43\u0E0A\u0E49\u0E40\u0E04\u0E2D\u0E23\u0E4C\u0E40\u0E0B\u0E2D\u0E23\u0E4C\
+      \u0E40\u0E21\u0E32\u0E2A\u0E4C\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E01\u0E33\u0E2B\
+      \u0E19\u0E14\u0E17\u0E34\u0E28\u0E17\u0E32\u0E07<br />\r\n\u0E02\u0E2D\u0E1A\
+      \u0E1E\u0E23\u0E30\u0E04\u0E38\u0E13\u0E04\u0E23\u0E31\u0E1A<br />\r\n................................................................................................................................<br\
+      \ />\r\nThank you very much.<br />\r\nOranCG"
+    achievements:
+      total: 0
+    background: https://steamcdn-a.akamaihd.net/steam/apps/800710/page_bg_generated_v6b.jpg?t=1519467923
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This game is a top-down tps game where players must shoot\
+      \ zombies everywhere in this city. This game is designed to allow players to\
+      \ relax and destroy the most zombies.<br />\r\n<br />\r\nhow to play:<br />\r\
+      \nPress the W A D S button for moving. Press left mouse to shoot. And use the\
+      \ mouse cursor to set direction.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u9019\u500B\u904A\u6232\u662F\u4E00\u500B\u81EA\u4E0A\u800C\u4E0B\u7684\
+      tps\u904A\u6232\uFF0C\u73A9\u5BB6\u5FC5\u9808\u5728\u9019\u500B\u57CE\u5E02\u7684\
+      \u4EFB\u4F55\u5730\u65B9\u90FD\u53EF\u4EE5\u5C04\u6BBA\u6BAD\u5C4D\u3002\u9019\
+      \u500B\u904A\u6232\u65E8\u5728\u8B93\u73A9\u5BB6\u653E\u9B06\u548C\u6467\u6BC0\
+      \u5927\u591A\u6578\u6BAD\u5C4D\u3002<br />\r\n<br />\r\n\u600E\u9EBC\u73A9\uFF1A\
+      <br />\r\n\u6309W A D S\u6309\u9215\u79FB\u52D5\u3002\u6309\u4E0B\u9F20\u6A19\
+      \u5DE6\u9375\u62CD\u651D\u3002\u4E26\u4F7F\u7528\u9F20\u6A19\u5149\u6A19\u8A2D\
+      \u7F6E\u65B9\u5411\u3002<br />\r\n................................................................................................................................<br\
+      \ />\r\nQuesto gioco \xE8 un gioco tps top-down in cui i giocatori devono sparare\
+      \ zombi ovunque in questa citt\xE0. Questo gioco \xE8 progettato per consentire\
+      \ ai giocatori di rilassarsi e distruggere il maggior numero di zombi.<br />\r\
+      \n<br />\r\ncome giocare:<br />\r\nPremere il tasto W A D S per spostarsi. Premi\
+      \ il tasto sinistro del mouse per sparare. E usa il cursore del mouse per impostare\
+      \ la direzione.<br />\r\n................................................................................................................................<br\
+      \ />\r\nEste juego es un juego de arriba hacia abajo donde los jugadores deben\
+      \ disparar a los zombies en todas partes en esta ciudad. Este juego est\xE1\
+      \ dise\xF1ado para permitir a los jugadores relajarse y destruir a la mayor\xED\
+      a de los zombis.<br />\r\n<br />\r\nc\xF3mo jugar:<br />\r\nPresione el bot\xF3\
+      n W A D S para moverse. Presione el bot\xF3n izquierdo del mouse para disparar.\
+      \ Y usa el cursor del mouse para establecer la direcci\xF3n.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u3053\u306E\u30B2\u30FC\u30E0\u306F\u30C8\u30C3\u30D7\u30C0\u30A6\u30F3\
+      \u306Etps\u30B2\u30FC\u30E0\u3067\u3001\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u3053\
+      \u306E\u90FD\u5E02\u306E\u3069\u3053\u306B\u3044\u3066\u3082\u30BE\u30F3\u30D3\
+      \u3092\u6483\u3064\u5FC5\u8981\u304C\u3042\u308A\u307E\u3059\u3002\u3053\u306E\
+      \u30B2\u30FC\u30E0\u306F\u3001\u30D7\u30EC\u30A4\u30E4\u30FC\u304C\u307B\u3068\
+      \u3093\u3069\u306E\u30BE\u30F3\u30D3\u3092\u30EA\u30E9\u30C3\u30AF\u30B9\u3057\
+      \u3066\u7834\u58CA\u3067\u304D\u308B\u3088\u3046\u306B\u8A2D\u8A08\u3055\u308C\
+      \u3066\u3044\u307E\u3059\u3002<br />\r\n<br />\r\n\u904A\u3073\u65B9\uFF1A<br\
+      \ />\r\n\u79FB\u52D5\u3059\u308B\u306B\u306F\u3001W A D S\u30DC\u30BF\u30F3\u3092\
+      \u62BC\u3057\u307E\u3059\u3002\u30DE\u30A6\u30B9\u306E\u5DE6\u30DC\u30BF\u30F3\
+      \u3092\u62BC\u3057\u3066\u64AE\u5F71\u3057\u307E\u3059\u3002\u307E\u305F\u3001\
+      \u30DE\u30A6\u30B9\u30AB\u30FC\u30BD\u30EB\u3092\u4F7F\u7528\u3057\u3066\u65B9\
+      \u5411\u3092\u8A2D\u5B9A\u3057\u307E\u3059\u3002<br />\r\n................................................................................................................................<br\
+      \ />\r\nCe jeu est un jeu de tps top-down o\xF9 les joueurs doivent tirer des\
+      \ zombies partout dans cette ville. Ce jeu est con\xE7u pour permettre aux joueurs\
+      \ de se d\xE9tendre et de d\xE9truire le plus de zombies.<br />\r\n<br />\r\n\
+      comment jouer:<br />\r\nAppuyez sur le bouton W A D S pour vous d\xE9placer.\
+      \ Appuyez sur la gauche du bouton pour tirer. Et utilisez le curseur de la souris\
+      \ pour d\xE9finir la direction.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u042D\u0442\u0430 \u0438\u0433\u0440\u0430 - \u0438\u0433\u0440\u0430\
+      \ \u0441\u0432\u0435\u0440\u0445\u0443 \u0432\u043D\u0438\u0437, \u0433\u0434\
+      \u0435 \u0438\u0433\u0440\u043E\u043A\u0438 \u0434\u043E\u043B\u0436\u043D\u044B\
+      \ \u0441\u0442\u0440\u0435\u043B\u044F\u0442\u044C \u0432 \u0437\u043E\u043C\
+      \u0431\u0438 \u0432 \u044D\u0442\u043E\u043C \u0433\u043E\u0440\u043E\u0434\u0435\
+      . \u042D\u0442\u0430 \u0438\u0433\u0440\u0430 \u043F\u0440\u0438\u0437\u0432\
+      \u0430\u043D\u0430 \u043F\u043E\u0437\u0432\u043E\u043B\u0438\u0442\u044C \u0438\
+      \u0433\u0440\u043E\u043A\u0430\u043C \u0440\u0430\u0441\u0441\u043B\u0430\u0431\
+      \u0438\u0442\u044C\u0441\u044F \u0438 \u0443\u043D\u0438\u0447\u0442\u043E\u0436\
+      \u0438\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u0438\u043D\u0441\u0442\u0432\
+      \u043E \u0437\u043E\u043C\u0431\u0438.<br />\r\n<br />\r\n\u043A\u0430\u043A\
+      \ \u0438\u0433\u0440\u0430\u0442\u044C:<br />\r\n\u041D\u0430\u0436\u043C\u0438\
+      \u0442\u0435 \u043A\u043D\u043E\u043F\u043A\u0443 W A D S \u0434\u043B\u044F\
+      \ \u043F\u0435\u0440\u0435\u043C\u0435\u0449\u0435\u043D\u0438\u044F. \u041D\
+      \u0430\u0436\u043C\u0438\u0442\u0435 \u043B\u0435\u0432\u0443\u044E \u043A\u043D\
+      \u043E\u043F\u043A\u0443 \u043C\u044B\u0448\u0438, \u0447\u0442\u043E\u0431\u044B\
+      \ \u0441\u0442\u0440\u0435\u043B\u044F\u0442\u044C. \u0418 \u0438\u0441\u043F\
+      \u043E\u043B\u044C\u0437\u0443\u0439\u0442\u0435 \u0443\u043A\u0430\u0437\u0430\
+      \u0442\u0435\u043B\u044C \u043C\u044B\u0448\u0438 \u0434\u043B\u044F \u0443\u0441\
+      \u0442\u0430\u043D\u043E\u0432\u043A\u0438 \u043D\u0430\u043F\u0440\u0430\u0432\
+      \u043B\u0435\u043D\u0438\u044F.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDieses Spiel ist ein Top-Down-TPS-Spiel, in dem Spieler Zombies \xFC\
+      berall in dieser Stadt erschie\xDFen m\xFCssen. Dieses Spiel ist so konzipiert,\
+      \ dass Spieler sich entspannen und die meisten Zombies zerst\xF6ren k\xF6nnen.<br\
+      \ />\r\n<br />\r\nSpielanleitung:<br />\r\nDr\xFCcken Sie zum Bewegen die Taste\
+      \ W A D S. Dr\xFCcken Sie die linke Maustaste, um zu schie\xDFen. Und verwenden\
+      \ Sie den Mauszeiger, um die Richtung festzulegen.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03C0\u03B1\u03B9\u03C7\u03BD\
+      \u03AF\u03B4\u03B9 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03AD\u03BD\u03B1 top-down\
+      \ tps \u03C0\u03B1\u03B9\u03C7\u03BD\u03AF\u03B4\u03B9 \u03CC\u03C0\u03BF\u03C5\
+      \ \u03BF\u03B9 \u03C0\u03B1\u03AF\u03BA\u03C4\u03B5\u03C2 \u03C0\u03C1\u03AD\
+      \u03C0\u03B5\u03B9 \u03BD\u03B1 \u03C0\u03C5\u03C1\u03BF\u03B2\u03BF\u03BB\u03BF\
+      \u03CD\u03BD \u03B6\u03CC\u03BC\u03C0\u03B9 \u03C0\u03B1\u03BD\u03C4\u03BF\u03CD\
+      \ \u03C3\u03B5 \u03B1\u03C5\u03C4\u03AE \u03C4\u03B7\u03BD \u03C0\u03CC\u03BB\
+      \u03B7. \u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03C0\u03B1\u03B9\u03C7\u03BD\
+      \u03AF\u03B4\u03B9 \u03AD\u03C7\u03B5\u03B9 \u03C3\u03C7\u03B5\u03B4\u03B9\u03B1\
+      \u03C3\u03C4\u03B5\u03AF \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03B5\u03C0\u03B9\u03C4\
+      \u03C1\u03AD\u03C0\u03B5\u03B9 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C0\u03B1\u03AF\
+      \u03BA\u03C4\u03B5\u03C2 \u03BD\u03B1 \u03C7\u03B1\u03BB\u03B1\u03C1\u03CE\u03C3\
+      \u03BF\u03C5\u03BD \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03BA\u03B1\u03C4\u03B1\u03C3\
+      \u03C4\u03C1\u03AD\u03C8\u03BF\u03C5\u03BD \u03C4\u03B1 \u03C0\u03B5\u03C1\u03B9\
+      \u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B1 \u03B6\u03CC\u03BC\u03C0\u03B9.<br\
+      \ />\r\n<br />\r\n\u03C0\u03CE\u03C2 \u03BD\u03B1 \u03C0\u03B1\u03AF\u03BE\u03B5\
+      \u03B9\u03C2:<br />\r\n\u03A0\u03B1\u03C4\u03AE\u03C3\u03C4\u03B5 \u03C4\u03BF\
+      \ \u03BA\u03BF\u03C5\u03BC\u03C0\u03AF W A D S \u03B3\u03B9\u03B1 \u03BC\u03B5\
+      \u03C4\u03B1\u03BA\u03AF\u03BD\u03B7\u03C3\u03B7. \u03A0\u03B1\u03C4\u03AE\u03C3\
+      \u03C4\u03B5 \u03B1\u03C1\u03B9\u03C3\u03C4\u03B5\u03C1\u03CC \u03C0\u03BF\u03BD\
+      \u03C4\u03AF\u03BA\u03B9 \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03C0\u03C5\u03C1\u03BF\
+      \u03B2\u03BF\u03BB\u03AE\u03C3\u03B5\u03C4\u03B5 \u039A\u03B1\u03B9 \u03C7\u03C1\
+      \u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03C4\u03B5 \u03C4\
+      \u03BF \u03B4\u03C1\u03BF\u03BC\u03AD\u03B1 \u03C4\u03BF\u03C5 \u03C0\u03BF\u03BD\
+      \u03C4\u03B9\u03BA\u03B9\u03BF\u03CD \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03BA\u03B1\
+      \u03B8\u03BF\u03C1\u03AF\u03C3\u03B5\u03C4\u03B5 \u03C4\u03B7\u03BD \u03BA\u03B1\
+      \u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7.<br />\r\n................................................................................................................................<br\
+      \ />\r\nBu oyun, oyuncular\u0131n bu \u015Fehirde her yerde zombi \xE7ekmesi\
+      \ gereken yukar\u0131dan a\u015Fa\u011F\u0131ya do\u011Fru bir tps oyunu. Bu\
+      \ oyun, oyuncular\u0131n en zombi rahatlamak ve yok etmek i\xE7in tasarlanm\u0131\
+      \u015Ft\u0131r.<br />\r\n<br />\r\nnas\u0131l oynan\u0131r:<br />\r\nTa\u015F\
+      \u0131mak i\xE7in W A D S d\xFC\u011Fmesine bas\u0131n. Vurmak i\xE7in sol fare\
+      \ tu\u015Funa bas\u0131n. Y\xF6n\xFC ayarlamak i\xE7in fare imlecini kullan\u0131\
+      n.<br />\r\n................................................................................................................................<br\
+      \ />\r\nEste jogo \xE9 um jogo top-down tps onde os jogadores devem atirar zumbis\
+      \ em toda a cidade. Este jogo \xE9 projetado para permitir que os jogadores\
+      \ relaxem e destroem a maioria dos zumbis.<br />\r\n<br />\r\ncomo jogar:<br\
+      \ />\r\nPressione o bot\xE3o W A D S para mover. Pressione o mouse esquerdo\
+      \ para atirar. E use o cursor do mouse para definir a dire\xE7\xE3o.<br />\r\
+      \n................................................................................................................................<br\
+      \ />\r\n\uC774 \uAC8C\uC784\uC740 \uD50C\uB808\uC774\uC5B4\uAC00\uC774 \uB3C4\
+      \uC2DC\uC758 \uBAA8\uB4E0 \uACF3\uC5D0\uC11C \uC880\uBE44\uB97C \uC3D8\uC544\
+      \ \uC57C\uD558\uB294 \uD558\uD5A5\uC2DD tps \uAC8C\uC784\uC785\uB2C8\uB2E4.\
+      \ \uC774 \uAC8C\uC784\uC740 \uD50C\uB808\uC774\uC5B4\uAC00 \uB300\uBD80\uBD84\
+      \uC758 \uC880\uBE44\uB97C \uAE34\uC7A5\uC2DC\uD0A4\uACE0 \uD30C\uAD34 \uD560\
+      \ \uC218 \uC788\uB3C4\uB85D \uC124\uACC4\uB418\uC5C8\uC2B5\uB2C8\uB2E4.<br />\r\
+      \n<br />\r\n\uAC8C\uC784 \uBC29\uBC95:<br />\r\n\uC774\uB3D9\uD558\uB824\uBA74\
+      \ W A D S \uBC84\uD2BC\uC744 \uB204\uB974\uC2ED\uC2DC\uC624. \uC67C\uCABD \uB9C8\
+      \uC6B0\uC2A4\uB97C \uB20C\uB7EC \uCD2C\uC601\uD558\uC2ED\uC2DC\uC624. \uADF8\
+      \uB9AC\uACE0 \uB9C8\uC6B0\uC2A4 \uCEE4\uC11C\uB97C \uC0AC\uC6A9\uD558\uC5EC\
+      \ \uBC29\uD5A5\uC744 \uC124\uC815\uD558\uC2ED\uC2DC\uC624.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDetta spel \xE4r ett topp-down-tps-spel d\xE4r spelarna m\xE5ste skjuta\
+      \ zombies \xF6verallt i denna stad. Detta spel \xE4r utformat s\xE5 att spelarna\
+      \ kan slappna av och f\xF6rst\xF6ra de flesta zombies.<br />\r\n<br />\r\nhur\
+      \ man spelar:<br />\r\nTryck p\xE5 W A D S-knappen f\xF6r att flytta. Tryck\
+      \ p\xE5 v\xE4nster mus f\xF6r att skjuta. Och anv\xE4nd muspekaren f\xF6r att\
+      \ st\xE4lla in riktning.<br />\r\n................................................................................................................................<br\
+      \ />\r\nTato hra je top-down tps hra, kde hr\xE1\u010Di mus\xED st\u0159\xED\
+      let zombie v\u0161ude v tomto m\u011Bst\u011B. Tato hra je navr\u017Eena tak,\
+      \ aby hr\xE1\u010Di mohli relaxovat a zni\u010Dit v\u011Bt\u0161inu zombie.<br\
+      \ />\r\n<br />\r\njak hr\xE1t:<br />\r\nStiskn\u011Bte tla\u010D\xEDtko WA D\
+      \ S pro pohyb. Stisknut\xEDm lev\xE9ho tla\u010D\xEDtka my\u0161i fotografujte.\
+      \ Pou\u017Eijte kurzor my\u0161i pro nastaven\xED sm\u011Bru.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDette spillet er et topp-down tps spill hvor spillerne m\xE5 skyte zombier\
+      \ overalt i denne byen. Dette spillet er laget for \xE5 tillate spillere \xE5\
+      \ slappe av og \xF8delegge de mest zombier.<br />\r\n<br />\r\nhvordan spille:<br\
+      \ />\r\nTrykk p\xE5 W A D S-knappen for \xE5 flytte. Trykk p\xE5 venstre mus\
+      \ for \xE5 skyte. Og bruk musepekeren til \xE5 angi retning.<br />\r\n................................................................................................................................<br\
+      \ />\r\nT\xE4m\xE4 peli on ylh\xE4\xE4lt\xE4 alas tps-peli, jossa pelaajan t\xE4\
+      ytyy ampua zombeja kaikkialla t\xE4ss\xE4 kaupungissa. T\xE4m\xE4 peli on suunniteltu\
+      \ siten, ett\xE4 pelaajat voivat rentoutua ja tuhota eniten zombeja.<br />\r\
+      \n<br />\r\nkuinka pelata:<br />\r\nPaina W A D S -painiketta siirty\xE4ksesi.\
+      \ Paina vasenta hiirt\xE4 ampua. K\xE4yt\xE4 hiiren kohdistinta asettaaksesi\
+      \ suuntaan.<br />\r\n................................................................................................................................<br\
+      \ />\r\nDeze game is een top-down tps-game waarbij spelers overal in deze stad\
+      \ op zombies moeten schieten. Deze game is ontworpen om spelers te laten ontspannen\
+      \ en de meeste zombies te vernietigen.<br />\r\n<br />\r\nhoe te spelen:<br\
+      \ />\r\nDruk op de W A D S-knop om te verplaatsen. Druk op de linkermuisknop\
+      \ om te schieten. En gebruik de muiscursor om de richting in te stellen.<br\
+      \ />\r\n................................................................................................................................<br\
+      \ />\r\n\u0647\u0630\u0647 \u0627\u0644\u0644\u0639\u0628\u0629 \u0647\u064A\
+      \ \u0644\u0639\u0628\u0629 \u0645\u0646 \u0623\u0639\u0644\u0649 \u0625\u0644\
+      \u0649 \u0623\u0633\u0641\u0644 \u062A\u0628\u0633 \u062D\u064A\u062B \u064A\
+      \u062C\u0628 \u0639\u0644\u0649 \u0627\u0644\u0644\u0627\u0639\u0628\u064A\u0646\
+      \ \u0627\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0639\u0644\
+      \u0649 \u0627\u0644\u0643\u0633\u0627\u0644\u0649 \u0641\u064A \u0643\u0644\
+      \ \u0645\u0643\u0627\u0646 \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0645\
+      \u062F\u064A\u0646\u0629. \u062A\u0645 \u062A\u0635\u0645\u064A\u0645 \u0647\
+      \u0630\u0647 \u0627\u0644\u0644\u0639\u0628\u0629 \u0644\u0644\u0633\u0645\u0627\
+      \u062D \u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0644\u0644\u0627\u0633\u062A\
+      \u0631\u062E\u0627\u0621 \u0648\u062A\u062F\u0645\u064A\u0631 \u0645\u0639\u0638\
+      \u0645 \u0627\u0644\u0643\u0633\u0627\u0644\u0649.<br />\r\n<br />\r\n\u0643\
+      \u064A\u0641 \u0623\u0644\u0639\u0628:<br />\r\n\u0627\u0636\u063A\u0637 \u0639\
+      \u0644\u0649 \u0627\u0644\u0632\u0631 W A D S \u0644\u0644\u062A\u062D\u0631\
+      \u0643. \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0627\u0648\u0633 \u0627\
+      \u0644\u0623\u064A\u0633\u0631 \u0644\u0627\u0637\u0644\u0627\u0642 \u0627\u0644\
+      \u0646\u0627\u0631. \u0648\u0627\u0633\u062A\u062E\u062F\u0645 \u0645\u0624\u0634\
+      \u0631 \u0627\u0644\u0645\u0627\u0648\u0633 \u0644\u062A\u0639\u064A\u064A\u0646\
+      \ \u0627\u0644\u0627\u062A\u062C\u0627\u0647.<br />\r\n................................................................................................................................<br\
+      \ />\r\nEz a j\xE1t\xE9k egy top-down tps j\xE1t\xE9k, ahol a j\xE1t\xE9kosoknak\
+      \ mindenhol zombokat kell l\u0151ni\xFCk ebben a v\xE1rosban. Ez a j\xE1t\xE9\
+      k c\xE9lja, hogy a j\xE1t\xE9kosok laz\xEDtsanak \xE9s elpuszt\xEDts\xE1k a\
+      \ legt\xF6bb zombit.<br />\r\n<br />\r\nhogyan kell j\xE1tszani:<br />\r\nNyomja\
+      \ meg a W A D S gombot a mozg\xE1shoz. Nyomja meg a bal eg\xE9rgombot l\u0151\
+      ni. Haszn\xE1lja az eg\xE9r kurzort az ir\xE1ny be\xE1ll\xEDt\xE1s\xE1hoz.<br\
+      \ />\r\n................................................................................................................................<br\
+      \ />\r\n\u0422\u0430\u0437\u0438 \u0438\u0433\u0440\u0430 \u0435 \u043E\u0442\
+      \u0433\u043E\u0440\u0435-\u043D\u0430\u0434\u043E\u043B\u0443 tps \u0438\u0433\
+      \u0440\u0430, \u043A\u044A\u0434\u0435\u0442\u043E \u0438\u0433\u0440\u0430\u0447\
+      \u0438\u0442\u0435 \u0442\u0440\u044F\u0431\u0432\u0430 \u0434\u0430 \u0441\u0442\
+      \u0440\u0435\u043B\u044F \u0437\u043E\u043C\u0431\u0438\u0442\u0430 \u043D\u0430\
+      \u0432\u0441\u044F\u043A\u044A\u0434\u0435 \u0432 \u0442\u043E\u0437\u0438 \u0433\
+      \u0440\u0430\u0434. \u0422\u0430\u0437\u0438 \u0438\u0433\u0440\u0430 \u0435\
+      \ \u0441\u044A\u0437\u0434\u0430\u0434\u0435\u043D\u0430, \u0437\u0430 \u0434\
+      \u0430 \u043F\u043E\u0437\u0432\u043E\u043B\u0438 \u043D\u0430 \u0438\u0433\u0440\
+      \u0430\u0447\u0438\u0442\u0435 \u0434\u0430 \u0441\u0435 \u043E\u0442\u043F\u0443\
+      \u0441\u043D\u0430\u0442 \u0438 \u0434\u0430 \u0443\u043D\u0438\u0449\u043E\u0436\
+      \u0430\u0442 \u043D\u0430\u0439-\u043C\u043D\u043E\u0433\u043E \u0437\u043E\u043C\
+      \u0431\u0438\u0442\u0430.<br />\r\n<br />\r\n\u043A\u0430\u043A \u0434\u0430\
+      \ \u0438\u0433\u0440\u0430\u044F:<br />\r\n\u041D\u0430\u0442\u0438\u0441\u043D\
+      \u0435\u0442\u0435 \u0431\u0443\u0442\u043E\u043D\u0430 WA D S \u0437\u0430\
+      \ \u043F\u0440\u0435\u043C\u0435\u0441\u0442\u0432\u0430\u043D\u0435. \u041D\
+      \u0430\u0442\u0438\u0441\u043D\u0435\u0442\u0435 \u043B\u044F\u0432\u0430\u0442\
+      \u0430 \u043C\u0438\u0448\u043A\u0430, \u0437\u0430 \u0434\u0430 \u0441\u0442\
+      \u0440\u0435\u043B\u044F\u0442\u0435. \u0418 \u0438\u0437\u043F\u043E\u043B\u0437\
+      \u0432\u0430\u0439\u0442\u0435 \u043A\u0443\u0440\u0441\u043E\u0440\u0430 \u043D\
+      \u0430 \u043C\u0438\u0448\u043A\u0430\u0442\u0430, \u0437\u0430 \u0434\u0430\
+      \ \u043D\u0430\u0441\u0442\u0440\u043E\u0438\u0442\u0435 \u043F\u043E\u0441\u043E\
+      \u043A\u0430\u0442\u0430.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u0426\u044F \u0433\u0440\u0430 \u044F\u0432\u043B\u044F\u0454 \u0441\
+      \u043E\u0431\u043E\u044E \u0437\u0432\u0435\u0440\u0445\u0443 \u0432\u043D\u0438\
+      \u0437 TPS \u0433\u0440\u0430, \u0434\u0435 \u0433\u0440\u0430\u0432\u0446\u0456\
+      \ \u043F\u043E\u0432\u0438\u043D\u043D\u0456 \u0441\u0442\u0440\u0456\u043B\u044F\
+      \u0442\u0438 \u0437\u043E\u043C\u0431\u0456 \u0441\u043A\u0440\u0456\u0437\u044C\
+      \ \u0432 \u0446\u044C\u043E\u043C\u0443 \u043C\u0456\u0441\u0442\u0456. \u0426\
+      \u044F \u0433\u0440\u0430 \u043F\u0440\u0438\u0437\u043D\u0430\u0447\u0435\u043D\
+      \u0430 \u0434\u043B\u044F \u0442\u043E\u0433\u043E, \u0449\u043E\u0431 \u0433\
+      \u0440\u0430\u0432\u0446\u0456 \u043C\u043E\u0433\u043B\u0438 \u0432\u0456\u0434\
+      \u043F\u043E\u0447\u0438\u0442\u0438 \u0456 \u0437\u043D\u0438\u0449\u0438\u0442\
+      \u0438 \u0431\u0456\u043B\u044C\u0448\u0456\u0441\u0442\u044C \u0437\u043E\u043C\
+      \u0431\u0456.<br />\r\n<br />\r\n\u044F\u043A \u0433\u0440\u0430\u0442\u0438\
+      :<br />\r\n\u041D\u0430\u0442\u0438\u0441\u043D\u0456\u0442\u044C \u043A\u043D\
+      \u043E\u043F\u043A\u0443 W A D S \u0434\u043B\u044F \u043F\u0435\u0440\u0435\
+      \u043C\u0456\u0449\u0435\u043D\u043D\u044F. \u041D\u0430\u0442\u0438\u0441\u043D\
+      \u0456\u0442\u044C \u043B\u0456\u0432\u043E\u044E \u043A\u043D\u043E\u043F\u043A\
+      \u043E\u044E \u043C\u0438\u0448\u0456, \u0449\u043E\u0431 \u0441\u0442\u0440\
+      \u0456\u043B\u044F\u0442\u0438. \u0406 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\
+      \u0442\u043E\u0432\u0443\u0439\u0442\u0435 \u043A\u0443\u0440\u0441\u043E\u0440\
+      \ \u043C\u0438\u0448\u0456, \u0449\u043E\u0431 \u0432\u0441\u0442\u0430\u043D\
+      \u043E\u0432\u0438\u0442\u0438 \u043D\u0430\u043F\u0440\u044F\u043C\u043E\u043A\
+      .<br />\r\n................................................................................................................................<br\
+      \ />\r\nDette spil er et top-down tps spil, hvor spillere skal skyde zombier\
+      \ overalt i denne by. Dette spil er designet til at give spillerne mulighed\
+      \ for at slappe af og \xF8del\xE6gge de mest zombier.<br />\r\n<br />\r\nhvordan\
+      \ man spiller:<br />\r\nTryk p\xE5 knappen W A D S for at flytte. Tryk venstre\
+      \ mus for at skyde. Og brug musemark\xF8ren til at indstille retning.<br />\r\
+      \n................................................................................................................................<br\
+      \ />\r\n<br />\r\nAcest joc este un joc de sus \xEEn jos tps unde juc\u0103\
+      torii trebuie s\u0103 trag\u0103 zombi peste tot \xEEn acest ora\u0219. Acest\
+      \ joc este conceput pentru a permite juc\u0103torilor s\u0103 se relaxeze \u0219\
+      i s\u0103 distrug\u0103 cele mai multe zombi.<br />\r\n<br />\r\ncum se joac\u0103\
+      :<br />\r\nAp\u0103sa\u021Bi butonul W A D S pentru a v\u0103 deplasa. Ap\u0103\
+      sa\u021Bi mouse-ul st\xE2nga pentru a filma. Utiliza\u021Bi cursorul mouse-ului\
+      \ pentru a seta direc\u021Bia.<br />\r\n................................................................................................................................<br\
+      \ />\r\n\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E01\
+      \u0E21 top-down tps \u0E17\u0E35\u0E48\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\
+      \u0E15\u0E49\u0E2D\u0E07\u0E22\u0E34\u0E07 zombies \u0E17\u0E38\u0E01\u0E17\u0E35\
+      \u0E48\u0E43\u0E19\u0E40\u0E21\u0E37\u0E2D\u0E07\u0E19\u0E35\u0E49 \u0E40\u0E01\
+      \u0E21\u0E19\u0E35\u0E49\u0E16\u0E39\u0E01\u0E2D\u0E2D\u0E01\u0E41\u0E1A\u0E1A\
+      \u0E21\u0E32\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E2B\u0E49\u0E1C\u0E39\u0E49\
+      \u0E40\u0E25\u0E48\u0E19\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E1C\u0E48\u0E2D\
+      \u0E19\u0E04\u0E25\u0E32\u0E22\u0E41\u0E25\u0E30\u0E17\u0E33\u0E25\u0E32\u0E22\
+      \u0E0B\u0E2D\u0E21\u0E1A\u0E35\u0E49\u0E44\u0E14\u0E49\u0E21\u0E32\u0E01\u0E17\
+      \u0E35\u0E48\u0E2A\u0E38\u0E14<br />\r\n<br />\r\n\u0E27\u0E34\u0E18\u0E35\u0E01\
+      \u0E32\u0E23\u0E40\u0E25\u0E48\u0E19:<br />\r\n\u0E01\u0E14\u0E1B\u0E38\u0E48\
+      \u0E21 W A D S \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E04\u0E25\u0E37\u0E48\u0E2D\
+      \u0E19\u0E17\u0E35\u0E48 \u0E01\u0E14\u0E40\u0E21\u0E32\u0E2A\u0E4C\u0E0B\u0E49\
+      \u0E32\u0E22\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E22\u0E34\u0E07 \u0E41\u0E25\u0E30\
+      \u0E43\u0E0A\u0E49\u0E40\u0E04\u0E2D\u0E23\u0E4C\u0E40\u0E0B\u0E2D\u0E23\u0E4C\
+      \u0E40\u0E21\u0E32\u0E2A\u0E4C\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E01\u0E33\u0E2B\
+      \u0E19\u0E14\u0E17\u0E34\u0E28\u0E17\u0E32\u0E07<br />\r\n\u0E02\u0E2D\u0E1A\
+      \u0E1E\u0E23\u0E30\u0E04\u0E38\u0E13\u0E04\u0E23\u0E31\u0E1A<br />\r\n................................................................................................................................<br\
+      \ />\r\nThank you very much.<br />\r\nOranCG"
+    developers:
+    - OranCG
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/800710/header.jpg?t=1519467923
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Mac Pro</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Mac
+        Pro</li></ul>
+    movies:
+    - highlight: true
+      id: 256707820
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256707820/movie480.mp4?t=1517868650
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256707820/movie_max.mp4?t=1517868650
+      name: Mad Zombie Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256707820/movie.293x165.jpg?t=1517868650
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256707820/movie480.webm?t=1517868650
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256707820/movie_max.webm?t=1517868650
+    name: Mad Zombie
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Mad Zombie - $9.99
+        packageid: 243524
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Mad Zombie
+    packages:
+    - 243524
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
+        \ processor and operating system<br></li><li><strong>OS:</strong> Windows\
+        \ 7, 10<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122 i7-2600K<br></li><li><strong>Memory:</strong>\
+        \ 2 GB RAM<br></li><li><strong>Graphics:</strong> 1 Ghz or faster processor<br></li><li><strong>DirectX:</strong>\
+        \ Version 7.0<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires\
+        \ a 64-bit processor and operating system<br></li><li><strong>OS:</strong>\
+        \ Windows 7, 10<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        \ i7-2600K<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ 1 Ghz or faster processor<br></li><li><strong>DirectX:</strong> Version\
+        \ 7.0<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - OranCG
+    release_date:
+      coming_soon: false
+      date: Feb 24, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_39981174dd750753f24b1285b89a434fc7e17a9d.1920x1080.jpg?t=1519467923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_39981174dd750753f24b1285b89a434fc7e17a9d.600x338.jpg?t=1519467923
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_4ca6fdf1ab90dc8e7f706c9a16daab4861eeb054.1920x1080.jpg?t=1519467923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_4ca6fdf1ab90dc8e7f706c9a16daab4861eeb054.600x338.jpg?t=1519467923
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_96a3664a318488ee95964fabeaf0a6795ce1ee41.1920x1080.jpg?t=1519467923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_96a3664a318488ee95964fabeaf0a6795ce1ee41.600x338.jpg?t=1519467923
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_95a50403acd7fbe374e5e7d6924e700c91dbc922.1920x1080.jpg?t=1519467923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_95a50403acd7fbe374e5e7d6924e700c91dbc922.600x338.jpg?t=1519467923
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_5a86861e8174925276a6276ebdc86110c5a23efe.1920x1080.jpg?t=1519467923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_5a86861e8174925276a6276ebdc86110c5a23efe.600x338.jpg?t=1519467923
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_b77c702f708df59421f07468a2e5f67808e9c29b.1920x1080.jpg?t=1519467923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_b77c702f708df59421f07468a2e5f67808e9c29b.600x338.jpg?t=1519467923
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_45e87f74d8e8d07651be0a7bc0bc9ab0cd3bfade.1920x1080.jpg?t=1519467923
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/800710/ss_45e87f74d8e8d07651be0a7bc0bc9ab0cd3bfade.600x338.jpg?t=1519467923
+    short_description: 'This game is a top-down tps game where players must shoot
+      zombies everywhere in this city. This game is designed to allow players to relax
+      and destroy the most zombies. how to play: Press the W A D S button for moving.
+      Press left mouse to shoot. And use the mouse cursor to set direction.'
+    steam_appid: 800710
+    support_info:
+      email: oran@tni.ac.th
+      url: ''
+    supported_languages: English, Thai
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

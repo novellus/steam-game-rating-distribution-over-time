@@ -1,0 +1,211 @@
+details:
+  data:
+    about_the_game: "<strong>Hexlide</strong> is a chilled and relaxing minimalist\
+      \ puzzle game with beautiful music. Slide rows of hexagons to match a pattern,\
+      \ very much like a 2D hexagonal magic cube. <br><br>If you enjoy games such\
+      \ as Rubik's Cube \xAE you'll love Hexlide, which provides a simpler, more intuitive\
+      \ interface, alongside a great soundtrack for <strong>TOTAL</strong> relaxation.<br><br>The\
+      \ game offers <strong>36 levels</strong> to enjoy as well as built-in support\
+      \ for <strong>Steam Leaderboards</strong>, which should provide a few hours\
+      \ of entertainment!"
+    achievements:
+      highlighted:
+      - name: FIRST STEP
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/684170/e82b8fc0cd1c8d1138952b3cc7adc43f54c893b5.jpg
+      - name: COMPLETIONIST
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/684170/17076187001156fc8619c74092a9ac2d01227613.jpg
+      total: 2
+    background: https://steamcdn-a.akamaihd.net/steam/apps/684170/page_bg_generated_v6b.jpg?t=1578147394
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "<strong>Hexlide</strong> is a chilled and relaxing minimalist\
+      \ puzzle game with beautiful music. Slide rows of hexagons to match a pattern,\
+      \ very much like a 2D hexagonal magic cube. <br><br>If you enjoy games such\
+      \ as Rubik's Cube \xAE you'll love Hexlide, which provides a simpler, more intuitive\
+      \ interface, alongside a great soundtrack for <strong>TOTAL</strong> relaxation.<br><br>The\
+      \ game offers <strong>36 levels</strong> to enjoy as well as built-in support\
+      \ for <strong>Steam Leaderboards</strong>, which should provide a few hours\
+      \ of entertainment!"
+    developers:
+    - Tooth Decay Entertainment
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/684170/header.jpg?t=1578147394
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 64bit<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> integrated<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 64bit<br></li><li><strong>Processor:</strong> 2GHz, 2 cores<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 32MB<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256697599
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256697599/movie480.mp4?t=1507577586
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256697599/movie_max.mp4?t=1507577586
+      name: Hexlide - official trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256697599/movie.293x165.jpg?t=1507577586
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256697599/movie480.webm?t=1507577586
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256697599/movie_max.webm?t=1507577586
+    name: Hexlide
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hexlide - $4.99
+        packageid: 195669
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Hexlide
+    - description: To be billed on a recurring basis.
+      display_type: 0
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: ''
+      selection_text: Starting at $4.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$4.99 at checkout,
+          auto-renewed every 1 month(s) at $4.99.</p>
+        option_text: $4.99 / month
+        packageid: 231219
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Hexlide Subscription Plan
+    packages:
+    - 195669
+    - 231219
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista<br></li><li><strong>Processor:</strong> 2GHz, 1 core<br></li><li><strong>Memory:</strong>
+        256 MB RAM<br></li><li><strong>Graphics:</strong> integrated<br></li><li><strong>Storage:</strong>
+        150 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2GHz, 2 cores<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>Storage:</strong>
+        300 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Tooth Decay Entertainment
+    release_date:
+      coming_soon: false
+      date: Sep 29, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_b2f1ce0f1976e484c892983b755f1db67d1a93a9.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_b2f1ce0f1976e484c892983b755f1db67d1a93a9.600x338.jpg?t=1578147394
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_2ea160234196da9fbb1c9897a0312efd82ca84d2.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_2ea160234196da9fbb1c9897a0312efd82ca84d2.600x338.jpg?t=1578147394
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_4ea8c06af7ba9336472c56bbe0015e08a9a2cda5.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_4ea8c06af7ba9336472c56bbe0015e08a9a2cda5.600x338.jpg?t=1578147394
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_8c958ef65def112685f04bb1da95e8d216cdfd82.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_8c958ef65def112685f04bb1da95e8d216cdfd82.600x338.jpg?t=1578147394
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_8fc5f0471d2d8caff9c638f41c0c0aca53d0fa42.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_8fc5f0471d2d8caff9c638f41c0c0aca53d0fa42.600x338.jpg?t=1578147394
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_2b17731b4862b328dcbc5c1859f8866422c54c6c.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_2b17731b4862b328dcbc5c1859f8866422c54c6c.600x338.jpg?t=1578147394
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_0a12dfbee1b054bb24a8e24fe283243f2bae6c15.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_0a12dfbee1b054bb24a8e24fe283243f2bae6c15.600x338.jpg?t=1578147394
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_2c00ae41243dd205d49cac2affa0030fb14fc347.1920x1080.jpg?t=1578147394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/684170/ss_2c00ae41243dd205d49cac2affa0030fb14fc347.600x338.jpg?t=1578147394
+    short_description: A minimalist, relaxing puzzle game with beautiful music. Complete
+      patterns by sliding hexagonal cells, use as few moves as possible!
+    steam_appid: 684170
+    support_info:
+      email: ''
+      url: http://steamcommunity.com/app/684170/discussions/
+    supported_languages: English<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>,
+      French<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>,
+      Korean<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: http://hexlide.com
+  success: true
+reviews:
+  cursor: AoJ44fXJ3vYCdN3wvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 2
+    total_positive: 4
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 1609358350
+      num_games_owned: 234
+      num_reviews: 20
+      playtime_at_review: 107
+      playtime_forever: 107
+      playtime_last_two_weeks: 107
+      steamid: '76561198080006893'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83592660'
+    review: 'Short (under 2 hrs) relaxing sliding puzzle game. You can take as many
+      moves as you like to make a pattern, with the goal of making the least moves
+      possible. Clearly not many people are on the score board to date as I was able
+      to get in the top 10 first try for most levels. Not a game to really challenge
+      you, just quietly slide pieces around until you get the pattern. If you like
+      the old sliding puzzle games this should be fun enough!
+
+
+      I got this on special - you would definitely not want to pay full price for
+      this game, but for a couple of dollars is certainly worth it.'
+    steam_purchase: true
+    timestamp_created: 1609358574
+    timestamp_updated: 1609491263
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

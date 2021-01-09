@@ -1,0 +1,135 @@
+details:
+  data:
+    about_the_game: "Defunct - The Official Soundtrack<br />\r\nBy - Joel Forssell<br\
+      \ />\r\n<br />\r\nTrack List:<br />\r\n01: Home <br />\r\n02: Lost and Found<br\
+      \ />\r\n03: Into The Woods<br />\r\n04: Downhill<br />\r\n05: Pause<br />\r\n\
+      06: Rock Bottom<br />\r\n07: Doing Better Now<br />\r\n08: The Crash Site<br\
+      \ />\r\n09: Mother(ship) Dear<br />\r\n10: Damn Floaty Robots (The Race)<br\
+      \ />\r\n11: Miniature Games<br />\r\n12: Miniature Games (Trailer Version)"
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Defunct - The Official Soundtrack<br />\r\nBy - Joel Forssell<br\
+      \ />\r\n<br />\r\nTrack List:<br />\r\n01: Home <br />\r\n02: Lost and Found<br\
+      \ />\r\n03: Into The Woods<br />\r\n04: Downhill<br />\r\n05: Pause<br />\r\n\
+      06: Rock Bottom<br />\r\n07: Doing Better Now<br />\r\n08: The Crash Site<br\
+      \ />\r\n09: Mother(ship) Dear<br />\r\n10: Damn Floaty Robots (The Race)<br\
+      \ />\r\n11: Miniature Games<br />\r\n12: Miniature Games (Trailer Version)"
+    developers:
+    - Freshly Squeezed
+    - Joel Forssell
+    fullgame:
+      appid: '359350'
+      name: Defunct
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/439680/header.jpg?t=1590133585
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Defunct Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Defunct Soundtrack - $5.99
+        packageid: 92818
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Defunct Soundtrack
+    packages:
+    - 92818
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - SOEDESCO
+    release_date:
+      coming_soon: false
+      date: Feb 1, 2016
+    required_age: 0
+    short_description: Defunct - The Official Soundtrack By - Joel Forssell
+    steam_appid: 439680
+    support_info:
+      email: support@soedesco.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Portuguese - Brazil<br><strong>*</strong>languages with full audio
+      support
+    type: dlc
+    website: https://soundcloud.com/joelforssell
+  success: true
+reviews:
+  cursor: AoJ4iqTf2/QCePq2owI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 94
+      num_reviews: 125
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198235546988'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '76396456'
+    review: "Est\xE1 en formato MP3 320 kbps.\n\nRuta a la banda sonora:\n-Click derecho\
+      \ en el juego\n-Propiedades\n-Archivos locales\n-Ver archivos locales\n-Defunct\
+      \ - The Official Soundtrack"
+    steam_purchase: true
+    timestamp_created: 1600806265
+    timestamp_updated: 1600806265
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

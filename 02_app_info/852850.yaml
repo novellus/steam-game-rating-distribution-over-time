@@ -1,0 +1,97 @@
+details:
+  data:
+    about_the_game: <strong>TRACKING LIST</strong><br>Adventures 02:37<br>Dance of
+      little Chickens 02:03<br>Magical day 02:03<br>Morning 02:44<br>Starry sky 02:44<br>Summer
+      day 01:22<br>Underwater world 01:49<br>Wonderful world 01:01
+    background: https://steamcdn-a.akamaihd.net/steam/apps/852850/page_bg_generated_v6b.jpg?t=1525245727
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <strong>TRACKING LIST</strong><br>Adventures 02:37<br>Dance
+      of little Chickens 02:03<br>Magical day 02:03<br>Morning 02:44<br>Starry sky
+      02:44<br>Summer day 01:22<br>Underwater world 01:49<br>Wonderful world 01:01
+    developers:
+    - Reew Games
+    fullgame:
+      appid: '841010'
+      name: 'Jack and Sara: Educational game'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/852850/header.jpg?t=1525245727
+    is_free: false
+    legal_notice: "\xA9 2018 REEW GAMES LLC. ALL RIGHTS RESERVED."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Jack and Sara: Original soundtracks'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Jack and Sara: Original soundtracks - $0.99'
+        packageid: 267672
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Jack and Sara: Original soundtracks'
+    packages:
+    - 267672
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows<br></li><li><strong>Processor:</strong> Intel/Amd<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Storage:</strong> 27 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Reew Games
+    release_date:
+      coming_soon: false
+      date: May 2, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/852850/ss_16f8887599863e59367e1a6163fd14ed9a0993a3.1920x1080.jpg?t=1525245727
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/852850/ss_16f8887599863e59367e1a6163fd14ed9a0993a3.600x338.jpg?t=1525245727
+    short_description: Original soundtracks
+    steam_appid: 852850
+    support_info:
+      email: support@reew.ru
+      url: http://reew.ru/home/jack-and-sarah.html
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,190 @@
+details:
+  data:
+    about_the_game: "Embark on an escape game adventure alone or with up to 3 friends.<br\
+      \ />\r\nSet in a medieval fantasy world, communication &amp; observation will\
+      \ be your key tools to succeed and free yourself.<br />\r\nAs in any escape\
+      \ game, your goal is to get out by inspecting your surroundings and solving\
+      \ puzzles in order  to find the exit.<br />\r\nThe game currently contain one\
+      \ room, designed to take around 1 hour to escape. This time can vary depending\
+      \ on how sharp you and your friends are :)<br />\r\n<br />\r\nWe hope you enjoy\
+      \ our puzzles and art style, if we see this getting enough people interested\
+      \ we hope we can add more &quot;rooms&quot; for you in the coming months."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1363770/page_bg_generated_v6b.jpg?t=1601480324
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Embark on an escape game adventure alone or with up to\
+      \ 3 friends.<br />\r\nSet in a medieval fantasy world, communication &amp; observation\
+      \ will be your key tools to succeed and free yourself.<br />\r\nAs in any escape\
+      \ game, your goal is to get out by inspecting your surroundings and solving\
+      \ puzzles in order  to find the exit.<br />\r\nThe game currently contain one\
+      \ room, designed to take around 1 hour to escape. This time can vary depending\
+      \ on how sharp you and your friends are :)<br />\r\n<br />\r\nWe hope you enjoy\
+      \ our puzzles and art style, if we see this getting enough people interested\
+      \ we hope we can add more &quot;rooms&quot; for you in the coming months."
+    developers:
+    - Lumiere Studios
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1363770/header.jpg?t=1601480324
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256799119
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799119/movie480.mp4?t=1598783717
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799119/movie_max.mp4?t=1598783717
+      name: mini-trailer-v2
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256799119/movie.293x165.jpg?t=1598783717
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256799119/movie480_vp9.webm?t=1598783717
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256799119/movie_max_vp9.webm?t=1598783717
+    - highlight: false
+      id: 256797959
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797959/movie480.mp4?t=1598211372
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797959/movie_max.mp4?t=1598211372
+      name: mini-trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256797959/movie.293x165.jpg?t=1598211372
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256797959/movie480_vp9.webm?t=1598211372
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256797959/movie_max_vp9.webm?t=1598211372
+    name: Escape Quest
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Escape Quest - $2.99
+        packageid: 478256
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Escape Quest
+    packages:
+    - 478256
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 10
+        (64 bits)<br></li><li><strong>Processor:</strong> Intel Core i3 4000 series<br></li><li><strong>Memory:</strong>
+        6 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750 (Intel HD Graphics
+        NOT SUPPORTED)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        10 (64 bits)<br></li><li><strong>Processor:</strong> Intel Core i5 4000<br></li><li><strong>Memory:</strong>
+        16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970 (Intel HD
+        Graphics NOT SUPPORTED)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Lumiere Studios
+    release_date:
+      coming_soon: false
+      date: Sep 29, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_a54e2849726c992a4d6dde45c1a723aa49f4a9af.1920x1080.jpg?t=1601480324
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_a54e2849726c992a4d6dde45c1a723aa49f4a9af.600x338.jpg?t=1601480324
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_93f4149aec79c5bd265ef6d08783cad0806369e9.1920x1080.jpg?t=1601480324
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_93f4149aec79c5bd265ef6d08783cad0806369e9.600x338.jpg?t=1601480324
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_d2bfc83b0a99bace0fc189495c0910c3e6cde3d3.1920x1080.jpg?t=1601480324
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_d2bfc83b0a99bace0fc189495c0910c3e6cde3d3.600x338.jpg?t=1601480324
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_71f38f8f51086cf3937b19f6db8bc81009a4f821.1920x1080.jpg?t=1601480324
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_71f38f8f51086cf3937b19f6db8bc81009a4f821.600x338.jpg?t=1601480324
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_e66ded24cb87d06dc5d535a80849b27f170168b5.1920x1080.jpg?t=1601480324
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_e66ded24cb87d06dc5d535a80849b27f170168b5.600x338.jpg?t=1601480324
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_093bb6cbf25b555c777965f50bb5758494bdbe55.1920x1080.jpg?t=1601480324
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_093bb6cbf25b555c777965f50bb5758494bdbe55.600x338.jpg?t=1601480324
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_5c6288a9cb332bee931d6fca2413e749006bee55.1920x1080.jpg?t=1601480324
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1363770/ss_5c6288a9cb332bee931d6fca2413e749006bee55.600x338.jpg?t=1601480324
+    short_description: Embark on an escape game adventure alone or with up to 3 friends.
+      Set in a medieval fantasy world, communication &amp; observation will be your
+      key tools to succeed and free yourself.
+    steam_appid: 1363770
+    support_info:
+      email: studiolumiere.contact@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: https://twitter.com/EscapeQuestGame
+  success: true
+reviews:
+  cursor: AoJwgpfC7PYCdIeKwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 24
+    total_positive: 76
+    total_reviews: 100
+  reviews:
+  - author:
+      last_played: 1602447167
+      num_games_owned: 211
+      num_reviews: 17
+      playtime_at_review: 173
+      playtime_forever: 173
+      playtime_last_two_weeks: 0
+      steamid: '76561198140902325'
+    comment_count: 0
+    language: turkish
+    received_for_free: false
+    recommendationid: '84168820'
+    review: "Hayat\u0131mda g\xF6rd\xFC\u011F\xFCm en basit escape oyunuydu. Allah\
+      \ belas\u0131n\u0131 versin b\xF6yle oyunun. \u0130lk d\xFC\u015F\xFCnd\xFC\u011F\
+      \xFCm\xFC en son yapt\u0131m ve 2 saat bo\u015Funa oynad\u0131m. Oysa ki ilk\
+      \ d\xFC\u015F\xFCnd\xFC\u011F\xFCn\xFCz\xFC yapsan\u0131z falan kesin 10-15\
+      \ dakikada oyun biter, o kadar k\u0131sa s\xFCr\xFCyor."
+    steam_purchase: true
+    timestamp_created: 1609958996
+    timestamp_updated: 1609958996
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.454545468091964722'
+    written_during_early_access: false
+  success: 1

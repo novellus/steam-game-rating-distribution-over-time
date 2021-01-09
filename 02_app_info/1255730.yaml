@@ -1,0 +1,223 @@
+details:
+  data:
+    about_the_game: '<strong>RunPuzzle</strong> is a puzzle with colorful graphics
+      and various levels. Test your attentiveness and reaction speed in this exciting
+      adventure.<br><br>This is an experimental puzzle where the player selects the
+      right figures that match the holes in the platforms of the ground together.
+      Numerous levels with colorful graphics and pleasant music from Andrew Clam make
+      you feel good and enjoy the gameplay. In RunPuzzle you can complete levels,
+      achieve high scores or compete with friends while playing together on the same
+      computer.<br><br>-Test your strength in three game modes: &quot;Adventure&quot;,
+      &quot;2 Players&quot;, &quot;High score&quot;<br>-Finish all 25 levels in the
+      &quot;Adventure&quot; mode: desert, city, forest, space, in daytime, nighttime,
+      rain and snowstorm.<br>-Find all 29 types of figures and feel like the fastest
+      one in the game world RunPuzzle<br>-Colourful graphics with beautiful visual
+      effects.<br>-Author''s music from Andrew Clam.'
+    achievements:
+      highlighted:
+      - name: Figure 1
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/78290c4e4c54b4eddcd5aeb3549f061acc32f76b.jpg
+      - name: Figure 2
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/65f54cbf3d32e8e72f166d19078142c2a31a3fed.jpg
+      - name: Figure 3
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/4c966fab66150f71d9eac829601959556dfbb103.jpg
+      - name: Figure 4
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/51400a1446aa9b306280703310ba47bee22bd1fe.jpg
+      - name: Figure 5
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/fbc02a1e8c69e8d2a18c38701772348a9a7e1d17.jpg
+      - name: ' Figure 6'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/6ef2d1278250a93bd4dfac2337146612f8cc319c.jpg
+      - name: Figure 7
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/3f67a7bcd68d865b9a5304099a4ece6f67df3c1e.jpg
+      - name: Figure 8
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/a2b6ca2b60c355fc5867d863fd9e7f494eeba9d2.jpg
+      - name: Figure 9
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/c4e9dfe301a6375c8ed4629ef4b6189d1ce754fe.jpg
+      - name: Figure 10
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1255730/a9c559c076d8cccb4fe32d9dc21e46353eb23253.jpg
+      total: 25
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1255730/page_bg_generated_v6b.jpg?t=1585648292
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<strong>RunPuzzle</strong> is a puzzle with colorful graphics
+      and various levels. Test your attentiveness and reaction speed in this exciting
+      adventure.<br><br>This is an experimental puzzle where the player selects the
+      right figures that match the holes in the platforms of the ground together.
+      Numerous levels with colorful graphics and pleasant music from Andrew Clam make
+      you feel good and enjoy the gameplay. In RunPuzzle you can complete levels,
+      achieve high scores or compete with friends while playing together on the same
+      computer.<br><br>-Test your strength in three game modes: &quot;Adventure&quot;,
+      &quot;2 Players&quot;, &quot;High score&quot;<br>-Finish all 25 levels in the
+      &quot;Adventure&quot; mode: desert, city, forest, space, in daytime, nighttime,
+      rain and snowstorm.<br>-Find all 29 types of figures and feel like the fastest
+      one in the game world RunPuzzle<br>-Colourful graphics with beautiful visual
+      effects.<br>-Author''s music from Andrew Clam.'
+    developers:
+    - Blazes
+    dlc:
+    - 1278680
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1255730/header.jpg?t=1585648292
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256779279
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779279/movie480.mp4?t=1585648289
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779279/movie_max.mp4?t=1585648289
+      name: RUNPUZZLE
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256779279/movie.293x165.jpg?t=1585648289
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256779279/movie480.webm?t=1585648289
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256779279/movie_max.webm?t=1585648289
+    name: RUNPUZZLE
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: RUNPUZZLE - Commercial License - <span class="discount_original_price">$1.99</span>
+          $0.89
+        packageid: 487097
+        percent_savings: 0
+        percent_savings_text: '-55% '
+        price_in_cents_with_discount: 89
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: RUNPUZZLE - $1.99
+        packageid: 436078
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy RUNPUZZLE
+    packages:
+    - 487097
+    - 436078
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, Windows 8, 8.1, Windows 10<br></li><li><strong>Processor:</strong>
+        Intel core i3<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong>
+        1GB Video RAM<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Blazes
+    release_date:
+      coming_soon: false
+      date: Mar 31, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_77672d864235fb66963a5a2ebdc951fd1398e668.1920x1080.jpg?t=1585648292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_77672d864235fb66963a5a2ebdc951fd1398e668.600x338.jpg?t=1585648292
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_27842d832b2c363eaba7fe17fe4c7750ddd1ddda.1920x1080.jpg?t=1585648292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_27842d832b2c363eaba7fe17fe4c7750ddd1ddda.600x338.jpg?t=1585648292
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_a97bff0640f4323d3fc40981672afcac08192e2d.1920x1080.jpg?t=1585648292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_a97bff0640f4323d3fc40981672afcac08192e2d.600x338.jpg?t=1585648292
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_acd7a9b9614de4d4e6480f7378631cdfcbe00a39.1920x1080.jpg?t=1585648292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_acd7a9b9614de4d4e6480f7378631cdfcbe00a39.600x338.jpg?t=1585648292
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_fb01dcbf02681af40c24711442cbfacb9eb36dbc.1920x1080.jpg?t=1585648292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_fb01dcbf02681af40c24711442cbfacb9eb36dbc.600x338.jpg?t=1585648292
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_ea6e69f5d927f595178ec1eedd608a9ab3224f7c.1920x1080.jpg?t=1585648292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_ea6e69f5d927f595178ec1eedd608a9ab3224f7c.600x338.jpg?t=1585648292
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_9d309b34915901d20ce8c013598eac6071906e99.1920x1080.jpg?t=1585648292
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1255730/ss_9d309b34915901d20ce8c013598eac6071906e99.600x338.jpg?t=1585648292
+    short_description: RunPuzzle is a puzzle with colorful graphics and various levels.
+      Test your attentiveness and reaction speed in this exciting adventure.
+    steam_appid: 1255730
+    support_info:
+      email: nikolay_lazarev_88@mail.ru
+      url: https://blazesgames.ru/
+    supported_languages: English, French, Italian, German, Spanish - Spain, Simplified
+      Chinese, Polish, Russian, Japanese
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4mbyznvUCdoXXqAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1603042895
+      num_games_owned: 1381
+      num_reviews: 120
+      playtime_at_review: 52
+      playtime_forever: 52
+      playtime_last_two_weeks: 0
+      steamid: '76561198068102627'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77772886'
+    review: 'The trailer shows everything there is.
+
+      You walk along with different backgrounds and music thats best described as
+      ambient noise.
+
+      Starts pretty easy but once you have 18 forms, 4 options to pick and they move
+      around it gets frustratingly hard.
+
+      One wrong or late click is game over so there is no real gameflow. Interesting
+      as one-man-project but needs QoL-Updates to be enjoyable such as checkpoints,
+      longer-lasting runs or forms connected to buttons because once the L-shape is
+      on spot 1, and with the next hole the cube is on spot 1 and the L is gone until
+      it appears again.'
+    steam_purchase: true
+    timestamp_created: 1603042809
+    timestamp_updated: 1603042927
+    voted_up: false
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

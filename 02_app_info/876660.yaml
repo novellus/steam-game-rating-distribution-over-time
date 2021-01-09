@@ -1,0 +1,99 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/876660/page_bg_generated_v6b.jpg?t=1572302041
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Fancy Fish Games
+    fullgame:
+      appid: '876650'
+      name: Aground
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/876660/header.jpg?t=1572302041
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 with ARB or EXT
+        Framebuffer Objects<br></li><li><strong>Storage:</strong> 120 MB available
+        space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.9 Mavericks<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 with ARB or EXT
+        Framebuffer Objects<br></li><li><strong>Storage:</strong> 120 MB available
+        space</li></ul>
+    name: Aground Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 with ARB or EXT
+        Framebuffer Objects<br></li><li><strong>Storage:</strong> 120 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - Fancy Fish Games
+    release_date:
+      coming_soon: false
+      date: Jun 14, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_156750976d8e2df9e5d690ccea93c3736c812c75.1920x1080.jpg?t=1572302041
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_156750976d8e2df9e5d690ccea93c3736c812c75.600x338.jpg?t=1572302041
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_c42aa728bdc2972d04c7d1fd21a890519ca76a05.1920x1080.jpg?t=1572302041
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_c42aa728bdc2972d04c7d1fd21a890519ca76a05.600x338.jpg?t=1572302041
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_687322d296279277198b2077c523e8e517e7583d.1920x1080.jpg?t=1572302041
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_687322d296279277198b2077c523e8e517e7583d.600x338.jpg?t=1572302041
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_e430061f29e41325d0eaa46a3b8ca32a607acfb7.1920x1080.jpg?t=1572302041
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_e430061f29e41325d0eaa46a3b8ca32a607acfb7.600x338.jpg?t=1572302041
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_d572d4d9f631a35661da34601bd1bcdaa65eba01.1920x1080.jpg?t=1572302041
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/876660/ss_d572d4d9f631a35661da34601bd1bcdaa65eba01.600x338.jpg?t=1572302041
+    short_description: The demo contains the first 3 islands of Aground, and several
+      hours of content!
+    steam_appid: 876660
+    support_info:
+      email: david.m@fancyfishgames.com
+      url: https://www.reddit.com/r/aground
+    supported_languages: English
+    type: demo
+    website: http://fancyfishgames.com/Aground/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,200 @@
+details:
+  data:
+    about_the_game: "Dis Pontibus is a single-player puzzle game set in a procedurally-generated\
+      \ archipelago.<br><br>Guide a young explorer on a mission of discovery and enlightenment,\
+      \ and collect the wisdom of a long-lost civilization!<br><br>Each game will\
+      \ be a unique experience, with simple mechanics and very challenging gameplay.<br><br>Trailer\
+      \ Music: <a href=\"https://steamcommunity.com/linkfilter/?url=http://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738\"\
+      \ target=\"_blank\" rel=\"noopener\"  >L'etoile Danse (pt. 1) By Meyd\xE4n</a>\
+      \ <a href=\"https://steamcommunity.com/linkfilter/?url=https://creativecommons.org/licenses/by/4.0/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >(license)</a>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/996980/page_bg_generated_v6b.jpg?t=1585361821
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Dis Pontibus is a single-player puzzle game set in a procedurally-generated\
+      \ archipelago.<br><br>Guide a young explorer on a mission of discovery and enlightenment,\
+      \ and collect the wisdom of a long-lost civilization!<br><br>Each game will\
+      \ be a unique experience, with simple mechanics and very challenging gameplay.<br><br>Trailer\
+      \ Music: <a href=\"https://steamcommunity.com/linkfilter/?url=http://freemusicarchive.org/music/Meydan/Havor/6-_LEtoile_danse_Pt_1_1738\"\
+      \ target=\"_blank\" rel=\"noopener\"  >L'etoile Danse (pt. 1) By Meyd\xE4n</a>\
+      \ <a href=\"https://steamcommunity.com/linkfilter/?url=https://creativecommons.org/licenses/by/4.0/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >(license)</a>"
+    developers:
+    - Marcos Donnantuoni
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/996980/header.jpg?t=1585361821
+    is_free: false
+    linux_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04<br></li><li><strong>Processor:</strong> 1.8GHz CPU: SSE2 instruction
+        set support.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+      recommended: '<strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04<br></li><li><strong>Processor:</strong> 1.8GHz CPU: SSE2 instruction
+        set support.<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8+<br></li><li><strong>Processor:</strong> 1.8 Ghz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> SM2-compatible card<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OSX 10.8+<br></li><li><strong>Processor:</strong> 1.8 Ghz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> SM2-compatible card<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256738392
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256738392/movie480.mp4?t=1544804803
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256738392/movie_max.mp4?t=1544804803
+      name: fw
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256738392/movie.293x165.jpg?t=1544804803
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256738392/movie480.webm?t=1544804803
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256738392/movie_max.webm?t=1544804803
+    name: Dis Pontibus
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Dis Pontibus - $4.99
+        packageid: 328973
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Dis Pontibus
+    packages:
+    - 328973
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7 SP1+<br></li><li><strong>Processor:</strong> 1.8GHz CPU: SSE2 instruction
+        set support.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+      recommended: '<strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        7 SP1+<br></li><li><strong>Processor:</strong> 1.8GHz CPU: SSE2 instruction
+        set support.<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>'
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Marcos Donnantuoni
+    release_date:
+      coming_soon: false
+      date: Jan 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_2374fcd9768ce4dc7399cfb29514bad7564e2ff2.1920x1080.jpg?t=1585361821
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_2374fcd9768ce4dc7399cfb29514bad7564e2ff2.600x338.jpg?t=1585361821
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_b3fa8ed035f92974d9a507cd20794d89655ba91a.1920x1080.jpg?t=1585361821
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_b3fa8ed035f92974d9a507cd20794d89655ba91a.600x338.jpg?t=1585361821
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_940aa8497125e0bb5252fd0a02ce94d0baad5f6f.1920x1080.jpg?t=1585361821
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_940aa8497125e0bb5252fd0a02ce94d0baad5f6f.600x338.jpg?t=1585361821
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_3df8eb3879949fd79abc71d954eb574062301779.1920x1080.jpg?t=1585361821
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_3df8eb3879949fd79abc71d954eb574062301779.600x338.jpg?t=1585361821
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_f06e18689de611b4b160ebc861180a925e8736e6.1920x1080.jpg?t=1585361821
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_f06e18689de611b4b160ebc861180a925e8736e6.600x338.jpg?t=1585361821
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_c4b8eea76d77d05492612b86573bf648f773f91b.1920x1080.jpg?t=1585361821
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_c4b8eea76d77d05492612b86573bf648f773f91b.600x338.jpg?t=1585361821
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_28562513a89033cc13468b9ac15161af153f35f7.1920x1080.jpg?t=1585361821
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/996980/ss_28562513a89033cc13468b9ac15161af153f35f7.600x338.jpg?t=1585361821
+    short_description: A single-player game set in a archipelago full of puzzles.
+    steam_appid: 996980
+    support_info:
+      email: marcosd@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ44+eDufUCevrgqgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 1
+    total_positive: 15
+    total_reviews: 16
+  reviews:
+  - author:
+      last_played: 1604024237
+      num_games_owned: 167
+      num_reviews: 20
+      playtime_at_review: 1041
+      playtime_forever: 1088
+      playtime_last_two_weeks: 0
+      steamid: '76561198165995672'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '78317482'
+    review: '7/10, I can''t in good faith thumb this game down but it can get really
+      annoying
+
+
+      It''s the kind of game that''s great to play while watching tv, in the vein
+      of 2048, but can get really frustrating at times. Since it''s all randomly generated,
+      it''s impossible for anyone to create a hint guide-- with other hard puzzle
+      games, like Stephen''s Sausage Roll or Baba Is You or Snakebird, I usually google
+      the level number and peek at someone else''s solution if a level has me completely
+      stumped, but that''s just completely impossible here. (I know that some people
+      consider walkthroughs cheating, and that''s fair, but when I''m playing hard
+      puzzles I tend to get fixated on an incorrect solution for hours and looking
+      up a hint is the only way out). This is especially frustrating considering the
+      fact that, unlike those games, this game only has ONE critical path through
+      the world, no alternate routes, so I''ll end up bottlenecked on a puzzle, which
+      makes me pray to god for a walkthrough, whereas in the games where walkthroughs
+      ARE available the maps are non-linear so I can put off the hard levels
+
+
+      If steam had a sideways thumb option, I would give it to this game, but I''ve
+      played it too much to give it the thumbs down in good faith'
+    steam_purchase: true
+    timestamp_created: 1603936403
+    timestamp_updated: 1603936403
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

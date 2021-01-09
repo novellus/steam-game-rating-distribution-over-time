@@ -1,0 +1,143 @@
+details:
+  data:
+    about_the_game: Maybe it was the fact that people got to blow away Nazis. Maybe
+      it was the sheer challenge of it all. For whatever reason, Wolfenstein 3D and
+      Spear of Destiny, pioneered the first-person shooter genre and brought its legendary
+      creators, id Software, worldwide notoriety and numerous awards. In fact, The
+      Computer Gaming World Hall of Fame recognized Wolfenstein 3D as helping to shape
+      the overall direction of the computer gaming industry.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/2270/page_bg_generated_v6b.jpg?t=1573831648
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Maybe it was the fact that people got to blow away Nazis.
+      Maybe it was the sheer challenge of it all. For whatever reason, Wolfenstein
+      3D and Spear of Destiny, pioneered the first-person shooter genre and brought
+      its legendary creators, id Software, worldwide notoriety and numerous awards.
+      In fact, The Computer Gaming World Hall of Fame recognized Wolfenstein 3D as
+      helping to shape the overall direction of the computer gaming industry.
+    developers:
+    - id Software
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/2270/header.jpg?t=1573831648
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Wolfenstein 3D
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wolfenstein 3D - $4.99
+        packageid: 416
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wolf Pack - $9.99
+        packageid: 418
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Wolfenstein 3D
+    packages:
+    - 416
+    - 418
+    pc_requirements:
+      minimum: '<strong>Minimum: </strong>A 100% Windows XP/Vista-compatible computer
+        system'
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Bethesda-Softworks
+    recommendations:
+      total: 2081
+    release_date:
+      coming_soon: false
+      date: Aug 3, 2007
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002413.1920x1080.jpg?t=1573831648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002413.600x338.jpg?t=1573831648
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002414.1920x1080.jpg?t=1573831648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002414.600x338.jpg?t=1573831648
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002415.1920x1080.jpg?t=1573831648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002415.600x338.jpg?t=1573831648
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002416.1920x1080.jpg?t=1573831648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002416.600x338.jpg?t=1573831648
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002417.1920x1080.jpg?t=1573831648
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/2270/0000002417.600x338.jpg?t=1573831648
+    short_description: Maybe it was the fact that people got to blow away Nazis. Maybe
+      it was the sheer challenge of it all. For whatever reason, Wolfenstein 3D and
+      Spear of Destiny, pioneered the first-person shooter genre and brought its legendary
+      creators, id Software, worldwide notoriety and numerous awards.
+    steam_appid: 2270
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ47s7k8PYCfu+4vQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 115
+    total_positive: 1965
+    total_reviews: 2080
+  reviews:
+  - author:
+      last_played: 1608922205
+      num_games_owned: 66
+      num_reviews: 50
+      playtime_at_review: 33
+      playtime_forever: 33
+      playtime_last_two_weeks: 1
+      steamid: '76561198325246309'
+    comment_count: 0
+    language: polish
+    received_for_free: false
+    recommendationid: '83216126'
+    review: "Tego si\u0119 nie ocenia, w to si\u0119 gra. To jest Wolfenstein 3D."
+    steam_purchase: true
+    timestamp_created: 1609001916
+    timestamp_updated: 1610102241
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

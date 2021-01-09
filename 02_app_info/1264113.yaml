@@ -1,0 +1,318 @@
+details:
+  data:
+    about_the_game: "Basic Window Management includes basic functions for managing\
+      \ window size, position, depth, focus, transparency, and more.  Convert windows\
+      \ to transparent click-through overlays.  Instantly kill the focused window\
+      \ with a single click or hotkey press such as [Control]+[Alt]+[F4].<br>This\
+      \ product is available natively in English, but it has automated translations\
+      \ for most major languages.<br>Contents: Always on Top Toggle (\U0001F5D4\u234F\
+      ), Close Window (\U0001F5D4\u274C), Super Close Window (\U0001F5D4\u274C!),\
+      \ Maximize (\U0001F5D6), Minimize (\U0001F5D5), Move Window (\u21F3\u2B04),\
+      \ Click Through Overlay (\U0001F47B\U0001F5D4\u234F), Increase Transparency\
+      \ (\U0001F5D4\U0001F47B+), Decrease Transparency (\U0001F5D4\U0001F47B-), Ghost\
+      \ Window (\U0001F5D4\U0001F47B\u261E), Unghost All Windows (\u274C\U0001F47B\
+      ), Default Window Menu (\u231C), Disable Focus (\U0001F5D4 NO ACTIVATE), Fake\
+      \ Focus (\U0001F5D4Fake Focus), Lock Window Minimum Size (\u2BD0), Raw Window\
+      \ Details (\U0001F6E0)<h2 class=\"bb_tag\">Always on Top Toggle (\U0001F5D4\u234F\
+      )</h2>Toggles always on top mode for the active window.<h2 class=\"bb_tag\"\
+      >Close Window (\U0001F5D4\u274C)</h2>Asks the active window to close normally.<br><ul\
+      \ class=\"bb_ul\"><li>If you recently switched windows, the first request is\
+      \ ignored as a safety precaution.  The safety precaution turns off temporarily\
+      \ after activation, allowing you to go on a window closing spree if you want.</li></ul><h2\
+      \ class=\"bb_tag\">Super Close Window (\U0001F5D4\u274C!)</h2>Attempts to forcibly\
+      \ terminate the foreground process (window).<br><ul class=\"bb_ul\"><li>Sometimes\
+      \ a program refuses to close and prevents usage of the task manager.  For these\
+      \ times, there is Super Close.<br></li><li>WARNING: May cause instability. \
+      \ However, when a program refuses to close, you might consider it already unstable,\
+      \ right?<br></li><li>You should take care to remember the hotkey so you can\
+      \ use it when a program has you trapped.<br></li><li>For unresponsive applications\
+      \ which cannot take foreground focus, you can use this feature through secondary\
+      \ targeting by holding left click on the Super Close Window button and then\
+      \ right clicking on the unresponsive window.<br></li><li>If this does not work\
+      \ for some reason, consider trying the logout hotkey.<br></li><li>If recently\
+      \ switched windows, the first attempt is ignored as a safety precaution.  The\
+      \ safety precaution turns off temporarily after activation, allowing you to\
+      \ go on a window destroying spree if you want.</li></ul><h2 class=\"bb_tag\"\
+      >Maximize (\U0001F5D6)</h2>Maximizes the window with its group.<br><ul class=\"\
+      bb_ul\"><li>You can also use the standard window maximize button.</li></ul><h2\
+      \ class=\"bb_tag\">Minimize (\U0001F5D5)</h2>Minimizes the window's group.<br><ul\
+      \ class=\"bb_ul\"><li>You can also use the standard window minimize button.\
+      \  The [Shift]+[\u2756Windows]+[Down] hotkey is built into the operating system.</li></ul><h2\
+      \ class=\"bb_tag\">Move Window (\u21F3\u2B04)</h2>Move the window.<br><ul class=\"\
+      bb_ul\"><li>Not compatible with either Multi Touch Window Resize or Mouse Right\
+      \ Button Chord Resize features.  These features must be initiated using the\
+      \ window title bar dragging.</li></ul><h2 class=\"bb_tag\">Click Through Overlay\
+      \ (\U0001F47B\U0001F5D4\u234F)</h2>Converts a window into a click through overlay\
+      \ window.<br><ul class=\"bb_ul\"><li>Click through overlay windows are partially\
+      \ transparent, sit on top of other windows, and do not respond to mouse clicks.<br></li><li>You\
+      \ can also achieve the same results using a combination of other Simplode Suite\
+      \ features, but this feature conveniently manages all aspects in one action.<br></li><li>This\
+      \ feature has a sliding secondary action for controlling the amount of transparency\
+      \ of the window.<br></li><li>Sliding secondary actions can be triggered in two\
+      \ ways.  Secondary actions are available when you click and hold your primary\
+      \ mouse button on an action button.  You can then move your mouse to your target\
+      \ and then also click and hold the secondary mouse button, where moving your\
+      \ mouse left, right, up and down will make adjustments based on the action.\
+      \  On multi-touch capable touch screens, you can trigger a sliding secondary\
+      \ action by holding one finger on the action button and then sliding another\
+      \ finger on your target.</li></ul>Settings:<ul class=\"bb_ul\"><li>Click Through\
+      \ Overlay Default Opacity (Default: 0.6)<br>This option adjusts how transparent\
+      \ a click through overlay window will be.  A value of 0 will be entirely invisible,\
+      \ and a value of 1 will be fully opaque.</li></ul><h2 class=\"bb_tag\">Increase\
+      \ Transparency (\U0001F5D4\U0001F47B+)</h2>Makes the window more see-through.<br><ul\
+      \ class=\"bb_ul\"><li>Some windows cannot have their transparency externally\
+      \ adjusted because they manage their own transparency</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Glass Apps Transparency Adjustment Step Size (Default:\
+      \ 0.05)<br>This option adjusts the amount that transparency changes when you\
+      \ tell the tool to increase or decrease transparency once.</li></ul><h2 class=\"\
+      bb_tag\">Decrease Transparency (\U0001F5D4\U0001F47B-)</h2>Makes the window\
+      \ less see-through.<br><ul class=\"bb_ul\"><li>Some windows cannot have their\
+      \ transparency externally adjusted because they manage their own transparency</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Glass Apps Min Opacity (Default: 0.05)<br>This option\
+      \ sets the minimum amount of opacity (the maximum amount of transparency) that\
+      \ the tool will set for any app.  This prevents you from accidently making a\
+      \ window entirely invisible which can be tricky to restore.<br></li><li>Glass\
+      \ Apps Transparency Adjustment Step Size (Default: 0.05)<br>This option adjusts\
+      \ the amount that transparency changes when you tell the tool to increase or\
+      \ decrease transparency once.</li></ul><h2 class=\"bb_tag\">Ghost Window (\U0001F5D4\
+      \U0001F47B\u261E)</h2>Toggles window click-through.<br><ul class=\"bb_ul\"><li>Click-through\
+      \ windows allow clicks and touches to pass through them.<br></li><li>Toggling\
+      \ this off is a bit tricky.  To make it easier you can use the Unghost All Windows\
+      \ (\u274C\U0001F47B) feature.  There are a couple ways you could do this for\
+      \ a specific window.  Clicking the button will impact the active window, so\
+      \ you could activate the window first using the task ring or the task bar. \
+      \ Alternatively, click the button and hold the click as if you are dragging\
+      \ the button.  While you keep the left mouse button pressed, you can right click\
+      \ on any window to perform the action on it.  This works with most window targeted\
+      \ actions.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ghost Window Control Key\
+      \ Target Toggle (Default: True)<br>When enabled, holding the control key while\
+      \ performing a secondary action can select ghost windows.  The ghost window\
+      \ action itself will be affected in reverse, as it can select ghost windows\
+      \ by default.  For reference, a secondary action is performed by holding a click\
+      \ on an action button and then using the other mouse button to click on a window.</li></ul><h2\
+      \ class=\"bb_tag\">Unghost All Windows (\u274C\U0001F47B)</h2>Reset all ghost\
+      \ windows to default states.<h2 class=\"bb_tag\">Default Window Menu (\u231C\
+      )</h2>Opens the default window corner menu.<br><ul class=\"bb_ul\"><li>Simply\
+      \ sends [Alt]+[Space], which is the standard hotkey for opening the classic\
+      \ corner menu.</li></ul><h2 class=\"bb_tag\">Disable Focus (\U0001F5D4 NO ACTIVATE)</h2>Disables\
+      \ focus for the target/active window.<h2 class=\"bb_tag\">Fake Focus (\U0001F5D4\
+      Fake Focus)</h2>Sends the window a fake focus message and attempts to bind the\
+      \ keyboard to it until you press escape.<br><ul class=\"bb_ul\"><li>You might\
+      \ need to get creative to find a use case for this.  Some apps stop working\
+      \ when they lose focus, so you might want to use this to access another app\
+      \ while avoiding this.<br></li><li>Internet browsers and some other complicated\
+      \ programs seem to be incompatible with this feature at this time.</li></ul><h2\
+      \ class=\"bb_tag\">Lock Window Minimum Size (\u2BD0)</h2>Locks in the current\
+      \ dimensions of the window as its minimum dimensions.<br><ul class=\"bb_ul\"\
+      ><li>The minimum dimension lock is only effective in joined window groups where\
+      \ it prevents windows from getting squished during automatic adjustments.</li></ul><h2\
+      \ class=\"bb_tag\">Raw Window Details (\U0001F6E0)</h2>View and edit raw details\
+      \ of the active window.<br><ul class=\"bb_ul\"><li>It is easy to break running\
+      \ programs by changing these settings.  You probably don't really want to change\
+      \ these.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1264113/page_bg_generated_v6b.jpg?t=1606274760
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Basic Window Management includes basic functions for managing\
+      \ window size, position, depth, focus, transparency, and more.  Convert windows\
+      \ to transparent click-through overlays.  Instantly kill the focused window\
+      \ with a single click or hotkey press such as [Control]+[Alt]+[F4].<br>This\
+      \ product is available natively in English, but it has automated translations\
+      \ for most major languages.<br>Contents: Always on Top Toggle (\U0001F5D4\u234F\
+      ), Close Window (\U0001F5D4\u274C), Super Close Window (\U0001F5D4\u274C!),\
+      \ Maximize (\U0001F5D6), Minimize (\U0001F5D5), Move Window (\u21F3\u2B04),\
+      \ Click Through Overlay (\U0001F47B\U0001F5D4\u234F), Increase Transparency\
+      \ (\U0001F5D4\U0001F47B+), Decrease Transparency (\U0001F5D4\U0001F47B-), Ghost\
+      \ Window (\U0001F5D4\U0001F47B\u261E), Unghost All Windows (\u274C\U0001F47B\
+      ), Default Window Menu (\u231C), Disable Focus (\U0001F5D4 NO ACTIVATE), Fake\
+      \ Focus (\U0001F5D4Fake Focus), Lock Window Minimum Size (\u2BD0), Raw Window\
+      \ Details (\U0001F6E0)<h2 class=\"bb_tag\">Always on Top Toggle (\U0001F5D4\u234F\
+      )</h2>Toggles always on top mode for the active window.<h2 class=\"bb_tag\"\
+      >Close Window (\U0001F5D4\u274C)</h2>Asks the active window to close normally.<br><ul\
+      \ class=\"bb_ul\"><li>If you recently switched windows, the first request is\
+      \ ignored as a safety precaution.  The safety precaution turns off temporarily\
+      \ after activation, allowing you to go on a window closing spree if you want.</li></ul><h2\
+      \ class=\"bb_tag\">Super Close Window (\U0001F5D4\u274C!)</h2>Attempts to forcibly\
+      \ terminate the foreground process (window).<br><ul class=\"bb_ul\"><li>Sometimes\
+      \ a program refuses to close and prevents usage of the task manager.  For these\
+      \ times, there is Super Close.<br></li><li>WARNING: May cause instability. \
+      \ However, when a program refuses to close, you might consider it already unstable,\
+      \ right?<br></li><li>You should take care to remember the hotkey so you can\
+      \ use it when a program has you trapped.<br></li><li>For unresponsive applications\
+      \ which cannot take foreground focus, you can use this feature through secondary\
+      \ targeting by holding left click on the Super Close Window button and then\
+      \ right clicking on the unresponsive window.<br></li><li>If this does not work\
+      \ for some reason, consider trying the logout hotkey.<br></li><li>If recently\
+      \ switched windows, the first attempt is ignored as a safety precaution.  The\
+      \ safety precaution turns off temporarily after activation, allowing you to\
+      \ go on a window destroying spree if you want.</li></ul><h2 class=\"bb_tag\"\
+      >Maximize (\U0001F5D6)</h2>Maximizes the window with its group.<br><ul class=\"\
+      bb_ul\"><li>You can also use the standard window maximize button.</li></ul><h2\
+      \ class=\"bb_tag\">Minimize (\U0001F5D5)</h2>Minimizes the window's group.<br><ul\
+      \ class=\"bb_ul\"><li>You can also use the standard window minimize button.\
+      \  The [Shift]+[\u2756Windows]+[Down] hotkey is built into the operating system.</li></ul><h2\
+      \ class=\"bb_tag\">Move Window (\u21F3\u2B04)</h2>Move the window.<br><ul class=\"\
+      bb_ul\"><li>Not compatible with either Multi Touch Window Resize or Mouse Right\
+      \ Button Chord Resize features.  These features must be initiated using the\
+      \ window title bar dragging.</li></ul><h2 class=\"bb_tag\">Click Through Overlay\
+      \ (\U0001F47B\U0001F5D4\u234F)</h2>Converts a window into a click through overlay\
+      \ window.<br><ul class=\"bb_ul\"><li>Click through overlay windows are partially\
+      \ transparent, sit on top of other windows, and do not respond to mouse clicks.<br></li><li>You\
+      \ can also achieve the same results using a combination of other Simplode Suite\
+      \ features, but this feature conveniently manages all aspects in one action.<br></li><li>This\
+      \ feature has a sliding secondary action for controlling the amount of transparency\
+      \ of the window.<br></li><li>Sliding secondary actions can be triggered in two\
+      \ ways.  Secondary actions are available when you click and hold your primary\
+      \ mouse button on an action button.  You can then move your mouse to your target\
+      \ and then also click and hold the secondary mouse button, where moving your\
+      \ mouse left, right, up and down will make adjustments based on the action.\
+      \  On multi-touch capable touch screens, you can trigger a sliding secondary\
+      \ action by holding one finger on the action button and then sliding another\
+      \ finger on your target.</li></ul>Settings:<ul class=\"bb_ul\"><li>Click Through\
+      \ Overlay Default Opacity (Default: 0.6)<br>This option adjusts how transparent\
+      \ a click through overlay window will be.  A value of 0 will be entirely invisible,\
+      \ and a value of 1 will be fully opaque.</li></ul><h2 class=\"bb_tag\">Increase\
+      \ Transparency (\U0001F5D4\U0001F47B+)</h2>Makes the window more see-through.<br><ul\
+      \ class=\"bb_ul\"><li>Some windows cannot have their transparency externally\
+      \ adjusted because they manage their own transparency</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Glass Apps Transparency Adjustment Step Size (Default:\
+      \ 0.05)<br>This option adjusts the amount that transparency changes when you\
+      \ tell the tool to increase or decrease transparency once.</li></ul><h2 class=\"\
+      bb_tag\">Decrease Transparency (\U0001F5D4\U0001F47B-)</h2>Makes the window\
+      \ less see-through.<br><ul class=\"bb_ul\"><li>Some windows cannot have their\
+      \ transparency externally adjusted because they manage their own transparency</li></ul>Settings:<ul\
+      \ class=\"bb_ul\"><li>Glass Apps Min Opacity (Default: 0.05)<br>This option\
+      \ sets the minimum amount of opacity (the maximum amount of transparency) that\
+      \ the tool will set for any app.  This prevents you from accidently making a\
+      \ window entirely invisible which can be tricky to restore.<br></li><li>Glass\
+      \ Apps Transparency Adjustment Step Size (Default: 0.05)<br>This option adjusts\
+      \ the amount that transparency changes when you tell the tool to increase or\
+      \ decrease transparency once.</li></ul><h2 class=\"bb_tag\">Ghost Window (\U0001F5D4\
+      \U0001F47B\u261E)</h2>Toggles window click-through.<br><ul class=\"bb_ul\"><li>Click-through\
+      \ windows allow clicks and touches to pass through them.<br></li><li>Toggling\
+      \ this off is a bit tricky.  To make it easier you can use the Unghost All Windows\
+      \ (\u274C\U0001F47B) feature.  There are a couple ways you could do this for\
+      \ a specific window.  Clicking the button will impact the active window, so\
+      \ you could activate the window first using the task ring or the task bar. \
+      \ Alternatively, click the button and hold the click as if you are dragging\
+      \ the button.  While you keep the left mouse button pressed, you can right click\
+      \ on any window to perform the action on it.  This works with most window targeted\
+      \ actions.</li></ul>Settings:<ul class=\"bb_ul\"><li>Ghost Window Control Key\
+      \ Target Toggle (Default: True)<br>When enabled, holding the control key while\
+      \ performing a secondary action can select ghost windows.  The ghost window\
+      \ action itself will be affected in reverse, as it can select ghost windows\
+      \ by default.  For reference, a secondary action is performed by holding a click\
+      \ on an action button and then using the other mouse button to click on a window.</li></ul><h2\
+      \ class=\"bb_tag\">Unghost All Windows (\u274C\U0001F47B)</h2>Reset all ghost\
+      \ windows to default states.<h2 class=\"bb_tag\">Default Window Menu (\u231C\
+      )</h2>Opens the default window corner menu.<br><ul class=\"bb_ul\"><li>Simply\
+      \ sends [Alt]+[Space], which is the standard hotkey for opening the classic\
+      \ corner menu.</li></ul><h2 class=\"bb_tag\">Disable Focus (\U0001F5D4 NO ACTIVATE)</h2>Disables\
+      \ focus for the target/active window.<h2 class=\"bb_tag\">Fake Focus (\U0001F5D4\
+      Fake Focus)</h2>Sends the window a fake focus message and attempts to bind the\
+      \ keyboard to it until you press escape.<br><ul class=\"bb_ul\"><li>You might\
+      \ need to get creative to find a use case for this.  Some apps stop working\
+      \ when they lose focus, so you might want to use this to access another app\
+      \ while avoiding this.<br></li><li>Internet browsers and some other complicated\
+      \ programs seem to be incompatible with this feature at this time.</li></ul><h2\
+      \ class=\"bb_tag\">Lock Window Minimum Size (\u2BD0)</h2>Locks in the current\
+      \ dimensions of the window as its minimum dimensions.<br><ul class=\"bb_ul\"\
+      ><li>The minimum dimension lock is only effective in joined window groups where\
+      \ it prevents windows from getting squished during automatic adjustments.</li></ul><h2\
+      \ class=\"bb_tag\">Raw Window Details (\U0001F6E0)</h2>View and edit raw details\
+      \ of the active window.<br><ul class=\"bb_ul\"><li>It is easy to break running\
+      \ programs by changing these settings.  You probably don't really want to change\
+      \ these.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1264113/header.jpg?t=1606274760
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Basic Window Management
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Basic Window Management - $4.99
+        packageid: 439577
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Simplode Suite - Basic Window Management
+    packages:
+    - 439577
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1264113/ss_b78ff781227aee06794696f6c48bc6344430cf3b.1920x1080.jpg?t=1606274760
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1264113/ss_b78ff781227aee06794696f6c48bc6344430cf3b.600x338.jpg?t=1606274760
+    short_description: Basic Window Management includes basic functions for managing
+      window size, position, depth, focus, transparency, and more. Convert windows
+      to transparent click-through overlays. Instantly kill the focused window with
+      a single click or hotkey press such as [Control]+[Alt]+[F4].
+    steam_appid: 1264113
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-basic-window-management
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

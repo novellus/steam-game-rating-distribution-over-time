@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - SGS Team
+    fullgame:
+      appid: '372490'
+      name: GROOVY
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/476910/header.jpg?t=1464105399
+    is_free: true
+    legal_notice: (c) 2016 SGS Team
+    linux_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Ubuntu 14.04 LTS<br></li><li><strong>Processor:</strong> Dual Core 3.0 Ghz<br></li><li><strong>Memory:</strong>\
+        \ 4 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\xAE GTX 660 / AMD\xAE\
+        \ HD 7850<br></li><li><strong>Storage:</strong> 4200 MB available space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong>\
+        \ NVIDIA\xAE GTX 960 / AMD\xAE R9 280</li></ul>"
+    mac_requirements: []
+    name: GROOVY Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ 7 SP2, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Dual Core 2.6\
+        \ Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA\xAE GTX 550 Ti / AMD\xAE HD 5770<br></li><li><strong>DirectX:</strong>\
+        \ Version 11<br></li><li><strong>Storage:</strong> 3200 MB available space<br></li><li><strong>Sound\
+        \ Card:</strong> DirectX 9.0c compatible<br></li><li><strong>Additional Notes:</strong>\
+        \ Full supports, Xbox 360 Controller for Windows</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong>\
+        \ NVIDIA\xAE GTX 960 / AMD\xAE R9 280</li></ul>"
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - SGS Team
+    release_date:
+      coming_soon: false
+      date: May 20, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 476910
+    support_info:
+      email: indiestormgs@gmail.com
+      url: http://stormgs.com/groovy/
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Hungarian, Simplified Chinese, Polish, Portuguese - Brazil, Russian,
+      Turkish, Ukrainian<br><strong>*</strong>languages with full audio support
+    type: demo
+    website: http://stormgs.com/groovy/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

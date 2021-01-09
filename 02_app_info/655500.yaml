@@ -1,0 +1,197 @@
+details:
+  data:
+    about_the_game: MX Bikes is a realistic motocross simulator, based on a scratch
+      built physics engine that accurately simulates motorcycle dynamics and setup
+      options.<br><br>MX Bikes also allows to host and join online races. During events
+      data is collected, to provide statistics for riders' comparison.<br><br><u>Please
+      note that there are neither AI nor a career mode.</u><br><br>More features:<br><ul
+      class="bb_ul"><li>automotive industry-standard tyre model<br></li><li>chassis
+      flex simulation<br></li><li>dynamic terrain deformation<br></li><li>wet terrain
+      simulation and wet weather<br></li><li>user-selectable rider gestures<br></li><li>a
+      plugins interface allows external programs to receive realtime data from the
+      simulated bike<br></li><li>LAN and online racing. Dedicated server available<br></li><li>possibility
+      to paint bike, helmet, kit, boots and gloves<br></li><li>tools and documentation
+      are provided to allow advanced users to build and integrate new tracks, bikes,
+      helmets, protections and more<br></li><li>Native Oculus Rift and SteamVR ( HTC
+      Vive, Valve Index ) support<br></li><li>FreeTrack support<br></li><li>EDTracker
+      support</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/655500/page_bg_generated_v6b.jpg?t=1594312115
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: LAN PvP
+      id: 47
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: MX Bikes is a realistic motocross simulator, based on a
+      scratch built physics engine that accurately simulates motorcycle dynamics and
+      setup options.<br><br>MX Bikes also allows to host and join online races. During
+      events data is collected, to provide statistics for riders' comparison.<br><br><u>Please
+      note that there are neither AI nor a career mode.</u><br><br>More features:<br><ul
+      class="bb_ul"><li>automotive industry-standard tyre model<br></li><li>chassis
+      flex simulation<br></li><li>dynamic terrain deformation<br></li><li>wet terrain
+      simulation and wet weather<br></li><li>user-selectable rider gestures<br></li><li>a
+      plugins interface allows external programs to receive realtime data from the
+      simulated bike<br></li><li>LAN and online racing. Dedicated server available<br></li><li>possibility
+      to paint bike, helmet, kit, boots and gloves<br></li><li>tools and documentation
+      are provided to allow advanced users to build and integrate new tracks, bikes,
+      helmets, protections and more<br></li><li>Native Oculus Rift and SteamVR ( HTC
+      Vive, Valve Index ) support<br></li><li>FreeTrack support<br></li><li>EDTracker
+      support</li></ul>
+    developers:
+    - PiBoSo
+    genres:
+    - description: Racing
+      id: '9'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/655500/header.jpg?t=1594312115
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256763962
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256763962/movie480.mp4?t=1570478434
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256763962/movie_max.mp4?t=1570478434
+      name: MXB Early Access Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256763962/movie.293x165.jpg?t=1570478434
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256763962/movie480.webm?t=1570478434
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256763962/movie_max.webm?t=1570478434
+    name: MX Bikes
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: MX Bikes - $34.99
+        packageid: 184832
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3499
+      title: Buy MX Bikes
+    packages:
+    - 184832
+    pc_requirements:
+      minimum: '<strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong>
+        2 Ghz CPU. VR: Intel Core i5-4590 (AMD FX 8350) or better<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.2.1 compatible GPU
+        with 512 MB of video RAM. VR: GeForce GTX 970 (AMD Radeon R9 290) or better<br></li><li><strong>DirectX:</strong>
+        Version 8.1<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>'
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 3499
+      final_formatted: $34.99
+      initial: 3499
+      initial_formatted: ''
+    publishers:
+    - PiBoSo
+    recommendations:
+      total: 873
+    release_date:
+      coming_soon: false
+      date: Oct 7, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_b50c36100d75987bdaf0ccd6e90e4e479e8432b2.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_b50c36100d75987bdaf0ccd6e90e4e479e8432b2.600x338.jpg?t=1594312115
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_61f7254e62706174752f52e216fbcfbaca454e19.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_61f7254e62706174752f52e216fbcfbaca454e19.600x338.jpg?t=1594312115
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_432574456bb832e702335fc195d5a7bded6c1eef.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_432574456bb832e702335fc195d5a7bded6c1eef.600x338.jpg?t=1594312115
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_c1c36013f456534abe62f15af14287699a6237f1.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_c1c36013f456534abe62f15af14287699a6237f1.600x338.jpg?t=1594312115
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_8d709f538b7cd76d5a60be6d12583cbd26b97945.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_8d709f538b7cd76d5a60be6d12583cbd26b97945.600x338.jpg?t=1594312115
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_eb64d757a1de0f3b2f58a8bb137284468b1034ba.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_eb64d757a1de0f3b2f58a8bb137284468b1034ba.600x338.jpg?t=1594312115
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_cc1c4dc5c32ebed061d90499c67a10e2abd10181.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_cc1c4dc5c32ebed061d90499c67a10e2abd10181.600x338.jpg?t=1594312115
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_8a5d106c85091d463f1e1eb45a2a1289f5e245ea.1920x1080.jpg?t=1594312115
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/655500/ss_8a5d106c85091d463f1e1eb45a2a1289f5e245ea.600x338.jpg?t=1594312115
+    short_description: MX Bikes is a realistic motocross simulator, based on a scratch
+      built physics engine that accurately simulates motorcycle dynamics and setup
+      options.
+    steam_appid: 655500
+    support_info:
+      email: support@mx-bikes.com
+      url: http://www.mx-bikes.com/?page=support
+    supported_languages: English
+    type: game
+    website: http://www.mx-bikes.com
+  success: true
+reviews:
+  cursor: AoJwoPHi8vYCfaXcwQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 8
+    review_score_desc: Very Positive
+    total_negative: 62
+    total_positive: 809
+    total_reviews: 871
+  reviews:
+  - author:
+      last_played: 1610172735
+      num_games_owned: 9
+      num_reviews: 1
+      playtime_at_review: 903
+      playtime_forever: 965
+      playtime_last_two_weeks: 671
+      steamid: '76561199073368552'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84337245'
+    review: its a fu game once you get the hang of it
+    steam_purchase: true
+    timestamp_created: 1610168896
+    timestamp_updated: 1610168896
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

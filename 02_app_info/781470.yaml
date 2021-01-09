@@ -1,0 +1,80 @@
+details:
+  data:
+    about_the_game: Game Demo made by Awakening
+    background: https://steamcdn-a.akamaihd.net/steam/apps/781470/page_bg_generated_v6b.jpg?t=1515727506
+    categories:
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Game Demo made by Awakening
+    developers:
+    - AwingSoft
+    fullgame:
+      appid: '707340'
+      name: Awakening
+    genres:
+    - description: Animation & Modeling
+      id: '51'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/781470/header.jpg?t=1515727506
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Awakening Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        80 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>DirectX:</strong> Version 9.0c</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - AwingSoft
+    release_date:
+      coming_soon: false
+      date: Jan 11, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_5a3151a6260e579bfb2eaf890cd6de1db1017dcd.1920x1080.jpg?t=1515727506
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_5a3151a6260e579bfb2eaf890cd6de1db1017dcd.600x338.jpg?t=1515727506
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_23e83d0170056bbab4be18ca7bc5e7824e5e4f7f.1920x1080.jpg?t=1515727506
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_23e83d0170056bbab4be18ca7bc5e7824e5e4f7f.600x338.jpg?t=1515727506
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_dd3fcee23929395791ac6e558644b18ef3a2859a.1920x1080.jpg?t=1515727506
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_dd3fcee23929395791ac6e558644b18ef3a2859a.600x338.jpg?t=1515727506
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_a3c98e870cae3b87d7dc75339e01fcc799f276df.1920x1080.jpg?t=1515727506
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_a3c98e870cae3b87d7dc75339e01fcc799f276df.600x338.jpg?t=1515727506
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_0fbd3728b84d8c0e25eea30784183456fc068a0e.1920x1080.jpg?t=1515727506
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/781470/ss_0fbd3728b84d8c0e25eea30784183456fc068a0e.600x338.jpg?t=1515727506
+    short_description: Game Demo made by Awakening
+    steam_appid: 781470
+    support_info:
+      email: techsupport@awingsoft.com
+      url: http://awingsoft.com/
+    supported_languages: English, Simplified Chinese
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

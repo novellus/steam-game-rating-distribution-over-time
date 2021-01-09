@@ -1,0 +1,163 @@
+details:
+  data:
+    about_the_game: "Don\u2019t just get the game. Get more from your game with EA\
+      \ Play. Members get more rewards, more exclusive content, and unlimited access\
+      \ to more top titles.<br><br><ul class=\"bb_ul\"><li>Get more from the games\
+      \ you love with members-only challenges and in-game rewards. Take your favorite\
+      \ titles to the next level with content that lets you stand out from the competition.<br></li><li>Get\
+      \ instant access to a collection of EA\u2019s best-loved games on Steam. Plus,\
+      \ try select new-release games \u2014 not betas or demos \u2014 and your progress\
+      \ carries over if you decide to buy.<br></li><li>Members receive a 10% discount\
+      \ on EA digital purchases on Steam, including full games, Season Passes, DLC,\
+      \ and more.</li></ul>Ready to play the best of EA? Sign up now. Cancel anytime."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1289670/page_bg_generated_v6b.jpg?t=1608918852
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Don\u2019t just get the game. Get more from your game with\
+      \ EA Play. Members get more rewards, more exclusive content, and unlimited access\
+      \ to more top titles.<br><br><ul class=\"bb_ul\"><li>Get more from the games\
+      \ you love with members-only challenges and in-game rewards. Take your favorite\
+      \ titles to the next level with content that lets you stand out from the competition.<br></li><li>Get\
+      \ instant access to a collection of EA\u2019s best-loved games on Steam. Plus,\
+      \ try select new-release games \u2014 not betas or demos \u2014 and your progress\
+      \ carries over if you decide to buy.<br></li><li>Members receive a 10% discount\
+      \ on EA digital purchases on Steam, including full games, Season Passes, DLC,\
+      \ and more.</li></ul>Ready to play the best of EA? Sign up now. Cancel anytime."
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1289670/header.jpg?t=1608918852
+    is_free: false
+    legal_notice: CONDITIONS, LIMITATIONS AND EXCLUSIONS APPLY. SEE https://tos.ea.com/legalapp/eaplay/US/en/PC/
+      FOR DETAILS.
+    linux_requirements: []
+    mac_requirements: []
+    name: EA Play
+    package_groups:
+    - description: To be billed on a recurring basis.
+      display_type: '1'
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: Save up to 50%
+      selection_text: Starting at $4.99 / month
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$4.99 at checkout,
+          auto-renewed every 1 month(s) at $4.99.</p>
+        option_text: $4.99 / month
+        packageid: 474127
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$29.99 at checkout,
+          auto-renewed every 12 month(s) at $29.99.</p>
+        option_text: $29.99 / 12 months
+        packageid: 474129
+        percent_savings: 50
+        percent_savings_text: '-50% '
+        price_in_cents_with_discount: 2999
+      title: Buy EA Play Subscription Plan
+    packages:
+    - 474127
+    - 474129
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+      recurring_sub: 474128
+      recurring_sub_desc: $4.99 at checkout, auto-renewed every 1 month(s) at $4.99.
+    publishers:
+    - Electronic Arts
+    release_date:
+      coming_soon: false
+      date: Aug 31, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_5d9553323a7240f1ba2841bf92c743a544abcb55.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_5d9553323a7240f1ba2841bf92c743a544abcb55.600x338.jpg?t=1608918852
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_7f2cb04e49d058424e975bdbad6f2ec1b90dc29a.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_7f2cb04e49d058424e975bdbad6f2ec1b90dc29a.600x338.jpg?t=1608918852
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_fb65139fdc0f587cb416c3c341c11d21e4345aaf.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_fb65139fdc0f587cb416c3c341c11d21e4345aaf.600x338.jpg?t=1608918852
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_8e16cf4e7f5e893fcfae34ad9cdd46055f6cd219.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_8e16cf4e7f5e893fcfae34ad9cdd46055f6cd219.600x338.jpg?t=1608918852
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_d6b622b24300bd495fbfbcf9da8edab9c9fefbc0.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_d6b622b24300bd495fbfbcf9da8edab9c9fefbc0.600x338.jpg?t=1608918852
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_44339aad117058846a5a4a2698c4d2bf7af880dd.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_44339aad117058846a5a4a2698c4d2bf7af880dd.600x338.jpg?t=1608918852
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_5b0a40ad65219dc9fd55fce553b8fab2165b792e.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_5b0a40ad65219dc9fd55fce553b8fab2165b792e.600x338.jpg?t=1608918852
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_0860122288d78487132e7f355262d0b73f933bf4.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_0860122288d78487132e7f355262d0b73f933bf4.600x338.jpg?t=1608918852
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_c967b95d42148d94f5bc2a4c05a2ec36ae9e74df.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_c967b95d42148d94f5bc2a4c05a2ec36ae9e74df.600x338.jpg?t=1608918852
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_f2362df489c157040bc2ee057df87d3132aa53ba.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_f2362df489c157040bc2ee057df87d3132aa53ba.600x338.jpg?t=1608918852
+    - id: 10
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_b136474217aba9054664bde008c112f7b309124b.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_b136474217aba9054664bde008c112f7b309124b.600x338.jpg?t=1608918852
+    - id: 11
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_f0930c182aa8c152d1e957692ffb69597671d2b4.1920x1080.jpg?t=1608918852
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1289670/ss_f0930c182aa8c152d1e957692ffb69597671d2b4.600x338.jpg?t=1608918852
+    short_description: "EA Video Game Membership - Don\u2019t just get the game. Get\
+      \ more from your game with EA Play. Members get more rewards, more exclusive\
+      \ content, and unlimited access to more top EA titles on Steam."
+    steam_appid: 1289670
+    support_info:
+      email: ''
+      url: ''
+    type: game
+    website: https://www.ea.com/ea-play
+  success: true
+reviews:
+  cursor: AoJ4z4Dd5fYCeuujwAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 2
+    total_positive: 3
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 1610113396
+      num_games_owned: 1190
+      num_reviews: 38
+      playtime_at_review: 10648
+      playtime_forever: 13354
+      playtime_last_two_weeks: 9913
+      steamid: '76561198971189108'
+    comment_count: 7
+    language: brazilian
+    received_for_free: false
+    recommendationid: '83959482'
+    review: "Pagar 200 reais em jogo merda pra depois ter que pagar o dobro em DLC,\
+      \ t\xEDpico EA."
+    steam_purchase: true
+    timestamp_created: 1609731147
+    timestamp_updated: 1609731147
+    voted_up: false
+    votes_funny: 5
+    votes_up: 17
+    weighted_vote_score: '0.67596733570098877'
+    written_during_early_access: false
+  success: 1

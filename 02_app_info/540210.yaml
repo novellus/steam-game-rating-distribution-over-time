@@ -1,0 +1,93 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - "R\xFCckert Broductions"
+    fullgame:
+      appid: '536990'
+      name: Redie
+    genres:
+    - description: Violent
+      id: '73'
+    - description: Gore
+      id: '74'
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/540210/header.jpg?t=1480590361
+    is_free: true
+    legal_notice: "Copyright 2016 R\xFCckert Broductions GbR (Darius R\xFCckert, Fabian\
+      \ R\xFCckert)<br />\r\nAll rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 79
+    name: Redie Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - "R\xFCckert Broductions"
+    release_date:
+      coming_soon: false
+      date: Dec 1, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 540210
+    support_info:
+      email: hello@rueckert-broductions.com
+      url: ''
+    supported_languages: English, German, Russian
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: AoJwu4rfj9oCesDRcQ==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1485443932
+      num_games_owned: 850
+      num_reviews: 115
+      playtime_at_review: 24
+      playtime_forever: 24
+      playtime_last_two_weeks: 0
+      steamid: '76561198103448176'
+    comment_count: 0
+    language: german
+    received_for_free: false
+    recommendationid: '29789194'
+    review: 'Zu wenig Paprika.
+
+      0/10 Pepperknights.'
+    steam_purchase: true
+    timestamp_created: 1486586926
+    timestamp_updated: 1486586926
+    voted_up: true
+    votes_funny: 1
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

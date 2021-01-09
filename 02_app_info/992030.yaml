@@ -1,0 +1,93 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/992030/page_bg_generated_v6b.jpg?t=1544783498
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: 'This Game may contain content not appropriate for all ages, or may not
+        be appropriate for viewing at work: Frequent Violence, Strong Language.'
+    detailed_description: ''
+    developers:
+    - Solare Games
+    fullgame:
+      appid: '979620'
+      name: Atrocity
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/992030/header.jpg?t=1544783498
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: Atrocity Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/Windows 8/Windows 10<br></li><li><strong>Processor:</strong> 2+
+        Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX compatible card<br></li><li><strong>Storage:</strong> 500 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - Solare Games
+    release_date:
+      coming_soon: false
+      date: Dec 6, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_0e7f65463e02095ba0ba4bcf1ad22bf3cb1a2e15.1920x1080.jpg?t=1544783498
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_0e7f65463e02095ba0ba4bcf1ad22bf3cb1a2e15.600x338.jpg?t=1544783498
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_704c99763b933a6c339c89bfd22e3587dc640bff.1920x1080.jpg?t=1544783498
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_704c99763b933a6c339c89bfd22e3587dc640bff.600x338.jpg?t=1544783498
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_5c86fe4c322a588b92fd1f7ee97963ee5b0f09b8.1920x1080.jpg?t=1544783498
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_5c86fe4c322a588b92fd1f7ee97963ee5b0f09b8.600x338.jpg?t=1544783498
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_82cb3386e353622a1f4051ddd6a8715aa52dae5f.1920x1080.jpg?t=1544783498
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_82cb3386e353622a1f4051ddd6a8715aa52dae5f.600x338.jpg?t=1544783498
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_b2744c501ae5ec9f3f88c2a4ea9d11a6449e9156.1920x1080.jpg?t=1544783498
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_b2744c501ae5ec9f3f88c2a4ea9d11a6449e9156.600x338.jpg?t=1544783498
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_788aeabd8540b82d9598432c23c23af9a3ab752f.1920x1080.jpg?t=1544783498
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/992030/ss_788aeabd8540b82d9598432c23c23af9a3ab752f.600x338.jpg?t=1544783498
+    short_description: ''
+    steam_appid: 992030
+    support_info:
+      email: ''
+      url: solaregames.com
+    supported_languages: English, Russian
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

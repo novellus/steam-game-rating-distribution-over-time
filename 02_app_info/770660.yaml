@@ -1,0 +1,271 @@
+details:
+  data:
+    about_the_game: <strong>Thetaball</strong> is an authentic digital sport with
+      challenging, physics-based gameplay and lifelike AI. Each of the game's 256
+      robotic players is a distinct individual, created by a process of simulated
+      evolution; because the bots have co-evolved within a complex physical environment
+      -- both cooperating with and competing against one another -- their behaviors
+      are diverse, robust, and lifelike. The end result is a game with all the challenge
+      and re-playability of a real-world sport.<br><br>In the single-player game,
+      your task is to field a team of robotic athletes in order to advance through
+      a series of progressively more challenging leagues, earning as many coins as
+      you can along the way. You can remotely control any of the bots on your team,
+      or let them play on their own.<br><br>In the local-multiplayer game, 2-8 players
+      choose up sides, with AI-controlled bots filling in the empty slots.<h2 class="bb_tag">About
+      the Engine</h2><strong>Generator</strong> is a specialized 2D game engine based
+      on Evolutionary Robotics, a technique for the automated creation of simulated
+      robots. The engine provides a C++ framework for generating populations of such
+      robots and deploying them in a completed game. It also includes a heavily optimized,
+      glitch-free physics module for simulating the environments in which the robots
+      interact and evolve. Thetaball is the first game built on the Generator engine;
+      more are planned.<h2 class="bb_tag">Some Thetaball Features</h2><ul class="bb_ul"><li>A
+      true physical (not statistical) simulation -- outcomes are determined not by
+      &quot;rolling dice&quot; but by the actual physical interactions between players.<br></li><li>Lifelike
+      AI -- every bot is a distinct individual with its own unique style of play.<br></li><li>Extensive
+      single-player game -- earn coins, develop your team, and advance through the
+      leagues.<br></li><li>Exciting couch multiplayer with up to 8 players -- a great
+      party game!<br></li><li>Play with a gamepad or mouse.<br></li><li>Bet on individual
+      matches or buy in to a tournament.<br></li><li>Slow motion replays.<br></li><li>Ultra-smooth
+      animation.<br></li><li>Monitor your coins with a variety of financial reports.<br></li><li>Dozens
+      of practice drills.<br></li><li>Physics-based procedural sound.</li></ul>
+    achievements:
+      highlighted:
+      - name: Welcome to Thetaball
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/72ca52da60cd0cb15e77ce67a601a9619ee78160.jpg
+      - name: Wax the Car
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/17463f3b23037cf7f69dbcb389a0737778f941d8.jpg
+      - name: Sand the Floor
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/5de6f18772dd8f702febbf71af5b9563dea07ceb.jpg
+      - name: Paint the Fence
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/c5796cef5d8ebc481145fcf2e4c5e59657f274b7.jpg
+      - name: 25K
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/87e497791ccd63ab6bdf0e677813eb5085844c83.jpg
+      - name: 50K
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/b27c78a63e267d7de478e172cdbbfa09f557ce5f.jpg
+      - name: 150K
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/acaa3454cea301587a9cde38656cbd7c5daf1cca.jpg
+      - name: 500K
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/22a675e346099b9537fa91d8149e79008519ee2e.jpg
+      - name: Millionaire
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/c3659c6757f3f2dfd90001543af7f4d1117a139f.jpg
+      - name: Score a Goal
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/770660/38d39c62b3a7746931eb4283158ea6ee89aaa9f2.jpg
+      total: 50
+    background: https://steamcdn-a.akamaihd.net/steam/apps/770660/page_bg_generated_v6b.jpg?t=1536951566
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <strong>Thetaball</strong> is an authentic digital sport
+      with challenging, physics-based gameplay and lifelike AI. Each of the game's
+      256 robotic players is a distinct individual, created by a process of simulated
+      evolution; because the bots have co-evolved within a complex physical environment
+      -- both cooperating with and competing against one another -- their behaviors
+      are diverse, robust, and lifelike. The end result is a game with all the challenge
+      and re-playability of a real-world sport.<br><br>In the single-player game,
+      your task is to field a team of robotic athletes in order to advance through
+      a series of progressively more challenging leagues, earning as many coins as
+      you can along the way. You can remotely control any of the bots on your team,
+      or let them play on their own.<br><br>In the local-multiplayer game, 2-8 players
+      choose up sides, with AI-controlled bots filling in the empty slots.<h2 class="bb_tag">About
+      the Engine</h2><strong>Generator</strong> is a specialized 2D game engine based
+      on Evolutionary Robotics, a technique for the automated creation of simulated
+      robots. The engine provides a C++ framework for generating populations of such
+      robots and deploying them in a completed game. It also includes a heavily optimized,
+      glitch-free physics module for simulating the environments in which the robots
+      interact and evolve. Thetaball is the first game built on the Generator engine;
+      more are planned.<h2 class="bb_tag">Some Thetaball Features</h2><ul class="bb_ul"><li>A
+      true physical (not statistical) simulation -- outcomes are determined not by
+      &quot;rolling dice&quot; but by the actual physical interactions between players.<br></li><li>Lifelike
+      AI -- every bot is a distinct individual with its own unique style of play.<br></li><li>Extensive
+      single-player game -- earn coins, develop your team, and advance through the
+      leagues.<br></li><li>Exciting couch multiplayer with up to 8 players -- a great
+      party game!<br></li><li>Play with a gamepad or mouse.<br></li><li>Bet on individual
+      matches or buy in to a tournament.<br></li><li>Slow motion replays.<br></li><li>Ultra-smooth
+      animation.<br></li><li>Monitor your coins with a variety of financial reports.<br></li><li>Dozens
+      of practice drills.<br></li><li>Physics-based procedural sound.</li></ul>
+    developers:
+    - Tim Sheehan
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/770660/header.jpg?t=1536951566
+    is_free: false
+    legal_notice: "\xA92018 Tim Sheehan"
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256703516
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256703516/movie480.mp4?t=1513384053
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256703516/movie_max.mp4?t=1513384053
+      name: Gameplay Sample One
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256703516/movie.293x165.jpg?t=1513384053
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256703516/movie480.webm?t=1513384053
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256703516/movie_max.webm?t=1513384053
+    - highlight: true
+      id: 256703517
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256703517/movie480.mp4?t=1513384066
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256703517/movie_max.mp4?t=1513384066
+      name: Gameplay Sample Two
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256703517/movie.293x165.jpg?t=1513384066
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256703517/movie480.webm?t=1513384066
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256703517/movie_max.webm?t=1513384066
+    name: Thetaball
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Thetaball - $9.99
+        packageid: 229984
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Thetaball
+    packages:
+    - 229984
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Storage:</strong> 48 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Tim Sheehan
+    release_date:
+      coming_soon: false
+      date: Jul 31, 2018
+    required_age: 0
+    reviews: "\u201CThetaball is an incredibly addicting game and it features some\
+      \ excellent AI.\u201D<br>9.1 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.endworldgaming.com/sports/thetaball-review\"\
+      \ target=\"_blank\" rel=\"noopener\"  >End World Gaming</a><br><br>\u201C...a\
+      \ big step forward in game AI.\u201D<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.indiehangover.com/reviewinterview-tim-sheehans-thetaball/\"\
+      \ target=\"_blank\" rel=\"noopener\"  >IndieHangover</a><br>"
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_022a9acf6547bf62e1e9e4ffff7fcbd20aa3bc0c.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_022a9acf6547bf62e1e9e4ffff7fcbd20aa3bc0c.600x338.jpg?t=1536951566
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_9998cba62ccd26532ddcee7b31011ffa0513a2c5.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_9998cba62ccd26532ddcee7b31011ffa0513a2c5.600x338.jpg?t=1536951566
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_ccbb7ff8c8fa133d69d134776ba22236e9899513.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_ccbb7ff8c8fa133d69d134776ba22236e9899513.600x338.jpg?t=1536951566
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_23b33225476baaad03ef5f3f4f0aea12059486b6.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_23b33225476baaad03ef5f3f4f0aea12059486b6.600x338.jpg?t=1536951566
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_0ea7e51306ace7d633fa7665c2bcc72d46f437a3.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_0ea7e51306ace7d633fa7665c2bcc72d46f437a3.600x338.jpg?t=1536951566
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_3b8a4bf1905683be2a667b768a86ca055c913164.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_3b8a4bf1905683be2a667b768a86ca055c913164.600x338.jpg?t=1536951566
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_51d0aa31a44597606301951f7b720001603227ac.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_51d0aa31a44597606301951f7b720001603227ac.600x338.jpg?t=1536951566
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_0b04348d920aa761d10faa33467c6fc503063d97.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_0b04348d920aa761d10faa33467c6fc503063d97.600x338.jpg?t=1536951566
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_99e132f77cda9ac10818312be675f2d370bde252.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_99e132f77cda9ac10818312be675f2d370bde252.600x338.jpg?t=1536951566
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_94f77c71c3f36e361262f02934068bdf7b5bfc2a.1920x1080.jpg?t=1536951566
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_94f77c71c3f36e361262f02934068bdf7b5bfc2a.600x338.jpg?t=1536951566
+    short_description: Thetaball is an authentic digital sport with challenging, physics-based
+      gameplay and lifelike AI.
+    steam_appid: 770660
+    support_info:
+      email: ''
+      url: https://www.thetaball.net
+    supported_languages: English
+    type: game
+    website: https://www.thetaball.net
+  success: true
+reviews:
+  cursor: AoJw0t/At+oCeuujwAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 4 user reviews
+    total_negative: 0
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1588395008
+      num_games_owned: 27
+      num_reviews: 1
+      playtime_at_review: 1914
+      playtime_forever: 13309
+      playtime_last_two_weeks: 0
+      steamid: '76561198171328219'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '50405050'
+    review: 'you cant even imagine how much you can learn to hate a f***king bot
+
+
+      i cant stop playing because i want them to suffer'
+    steam_purchase: true
+    timestamp_created: 1556640628
+    timestamp_updated: 1556640628
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

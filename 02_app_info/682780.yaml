@@ -1,0 +1,241 @@
+details:
+  data:
+    about_the_game: "As many of you are wondering how the game works, here's a brief\
+      \ explanation.<br />\r\n<br />\r\nYou have four views of the puzzle so that\
+      \ you can see the totality of available blocks to match. You can swap one block\
+      \ vertically or rotate an entire horizontal row of blocks so that you can make\
+      \ several matches at once if available.<br />\r\n<br />\r\nYou can also shuffle\
+      \ blocks which may result in several matches at once and help you to reach the\
+      \ goal faster.<br />\r\n<br />\r\nThe smallest number of blocks you can match\
+      \ is 3 which will give you 1 atom and for each additional matched block you\
+      \ get twice more atoms (e.g. 4 block matches gives you 2 atoms, 5 block matches\
+      \ gives you 4 atoms and so on).<br />\r\n<br />\r\nYou can see those atoms in\
+      \ the counter on your screen. You can match any number of blocks in any shape\
+      \ (with a minimum of 3 blocks, as stated previously).<br />\r\n<br />\r\nTo\
+      \ advance in the game you must reach the goal indicated on your screen. For\
+      \ example to make water (H\u2082O), you need either two 3 block matches or one\
+      \ 4 block match of H (hydrogen) to get 2 atoms of H (hydrogen) and also one\
+      \ 3 block match of O (oxygen) to get 1 atom of O (oxygen).<br />\r\n<br />\r\
+      \nOn the top of the screen you have total score, last match/combo score and\
+      \ the best match/combo score. It's more advantageous to make combos as the total\
+      \ score is the sum of all atoms multiplied by the match count. Let's say you've\
+      \ got 5 matches at once with the score of 1, 1, 2, 4, 4, then the total score\
+      \ would translate like this: (1 + 1 + 2 + 4 + 4) \xD7 5 = 60.<br />\r\n<br />\r\
+      \nWhen the goal is achieved, a new goal will be set and the elements will be\
+      \ replaced accordingly. For example, all carbon blocks will be replaced with\
+      \ uranium, all sulfur blocks replaced with potassium and so on, so that you\
+      \ don't lose any previously available match/combo."
+    achievements:
+      highlighted:
+      - name: It's time to cook, Jesse!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/966b6665fd8e7a421c5f57e83d006393d34de0bd.jpg
+      - name: Jesus Christ Marie! They're minerals!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/4c16ab21c4ebc5d9f5c90f32507081537273cbdf.jpg
+      - name: We had two bags of grass...
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/ca45ba93cdc27e9c911e0c49e9c8eb0a7c66d712.jpg
+      - name: I am Cornholio!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/1b221fc2f898ee69a7aa945c0a5c4fec22a2d50a.jpg
+      - name: It was at this moment that he knew...
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/8e2cfdac739fed6de47899341059bcc96fa23b9d.jpg
+      - name: Look in the dog
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/6126c0a182195410155ae69a549c0bac7b554251.jpg
+      - name: I said "glass of juice"!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/2850c9c7855597b08ee39893a64db40068ac9b30.jpg
+      - name: I used to be schizophrenic but we're okay now
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/0f21882a8b0e7066aacd254d39745ff4937d21b8.jpg
+      - name: DHMO
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/02de1abda90af19eb50457970950c5710a411a10.jpg
+      - name: I drink and I know things
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/682780/11beb13d0c3b9c8dcf047ded359a34e7b4bc5970.jpg
+      total: 94
+    background: https://steamcdn-a.akamaihd.net/steam/apps/682780/page_bg_generated_v6b.jpg?t=1606963921
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "As many of you are wondering how the game works, here's\
+      \ a brief explanation.<br />\r\n<br />\r\nYou have four views of the puzzle\
+      \ so that you can see the totality of available blocks to match. You can swap\
+      \ one block vertically or rotate an entire horizontal row of blocks so that\
+      \ you can make several matches at once if available.<br />\r\n<br />\r\nYou\
+      \ can also shuffle blocks which may result in several matches at once and help\
+      \ you to reach the goal faster.<br />\r\n<br />\r\nThe smallest number of blocks\
+      \ you can match is 3 which will give you 1 atom and for each additional matched\
+      \ block you get twice more atoms (e.g. 4 block matches gives you 2 atoms, 5\
+      \ block matches gives you 4 atoms and so on).<br />\r\n<br />\r\nYou can see\
+      \ those atoms in the counter on your screen. You can match any number of blocks\
+      \ in any shape (with a minimum of 3 blocks, as stated previously).<br />\r\n\
+      <br />\r\nTo advance in the game you must reach the goal indicated on your screen.\
+      \ For example to make water (H\u2082O), you need either two 3 block matches\
+      \ or one 4 block match of H (hydrogen) to get 2 atoms of H (hydrogen) and also\
+      \ one 3 block match of O (oxygen) to get 1 atom of O (oxygen).<br />\r\n<br\
+      \ />\r\nOn the top of the screen you have total score, last match/combo score\
+      \ and the best match/combo score. It's more advantageous to make combos as the\
+      \ total score is the sum of all atoms multiplied by the match count. Let's say\
+      \ you've got 5 matches at once with the score of 1, 1, 2, 4, 4, then the total\
+      \ score would translate like this: (1 + 1 + 2 + 4 + 4) \xD7 5 = 60.<br />\r\n\
+      <br />\r\nWhen the goal is achieved, a new goal will be set and the elements\
+      \ will be replaced accordingly. For example, all carbon blocks will be replaced\
+      \ with uranium, all sulfur blocks replaced with potassium and so on, so that\
+      \ you don't lose any previously available match/combo."
+    developers:
+    - SeekSick6
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/682780/header.jpg?t=1606963921
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+<br></li><li><strong>Processor:</strong> SSE2 instruction
+        set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+<br></li><li><strong>Processor:</strong> SSE2 instruction set
+        support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        1 GB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256691273
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256691273/movie480.mp4?t=1501116198
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256691273/movie_max.mp4?t=1501116198
+      name: Breaking Good
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256691273/movie.293x165.jpg?t=1501116198
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256691273/movie480.webm?t=1501116198
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256691273/movie_max.webm?t=1501116198
+    name: Breaking Good
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Breaking Good - $1.99
+        packageid: 195088
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Breaking Good (Commercial License) - $1.99
+        packageid: 332657
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Breaking Good
+    packages:
+    - 195088
+    - 332657
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction
+        set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>DirectX:</strong>
+        Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - SeekSick6
+    release_date:
+      coming_soon: false
+      date: Aug 4, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_f91b7a23b8462392dbef1f089dba7113761e1c9d.1920x1080.jpg?t=1606963921
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_f91b7a23b8462392dbef1f089dba7113761e1c9d.600x338.jpg?t=1606963921
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_4a9698e06c819520b2ee243934d4d8cce9ed82a0.1920x1080.jpg?t=1606963921
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_4a9698e06c819520b2ee243934d4d8cce9ed82a0.600x338.jpg?t=1606963921
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8fe15c9dd70197567049e42c938a16ccca81bfb8.1920x1080.jpg?t=1606963921
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8fe15c9dd70197567049e42c938a16ccca81bfb8.600x338.jpg?t=1606963921
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_7367bc9ce48d452d864d11ada7b79790a4b8e07f.1920x1080.jpg?t=1606963921
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_7367bc9ce48d452d864d11ada7b79790a4b8e07f.600x338.jpg?t=1606963921
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_964861a0d1b95aed2b7c44d77e5c4d89a1087067.1920x1080.jpg?t=1606963921
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_964861a0d1b95aed2b7c44d77e5c4d89a1087067.600x338.jpg?t=1606963921
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_adace24d4c0bae056f5ce825d4169a456fa92e69.1920x1080.jpg?t=1606963921
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_adace24d4c0bae056f5ce825d4169a456fa92e69.600x338.jpg?t=1606963921
+    short_description: 1 puzzle, 4 views. Grab your test tubes and enter the lab to
+      solve a unique puzzle game based on chemical compounds. Match the chemical elements
+      to get more than 900 different compounds and see how far you can go. Do you
+      have what it takes?
+    steam_appid: 682780
+    support_info:
+      email: necronomicron8@gmail.com
+      url: ''
+    supported_languages: English, French, Spanish - Spain, Portuguese, Russian, Ukrainian,
+      German, Portuguese - Brazil, Korean, Polish, Czech, Arabic, Traditional Chinese,
+      Simplified Chinese, Italian, Turkish, Thai, Japanese, Greek, Danish, Dutch,
+      Romanian, Finnish, Swedish, Bulgarian, Hungarian, Norwegian
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4ybLf3/YCe8a/vwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 4
+    total_positive: 24
+    total_reviews: 28
+  reviews:
+  - author:
+      last_played: 1609884166
+      num_games_owned: 157
+      num_reviews: 48
+      playtime_at_review: 18
+      playtime_forever: 19
+      playtime_last_two_weeks: 18
+      steamid: '76561199044299702'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '83754091'
+    review: "Tr\xE9s bon jeux de d\xE9tente \nFranchement si vous avez l'occation\
+      \ de l'acheter \nAchet\xE9 le ;}"
+    steam_purchase: true
+    timestamp_created: 1609530447
+    timestamp_updated: 1609530447
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: Upgrade to the full version and unlock nine new campaign missions,
+      local multiplayer, and perhaps most excitingly, a robust online multiplayer
+      mode!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/438150/page_bg_generated_v6b.jpg?t=1587233162
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Upgrade to the full version and unlock nine new campaign
+      missions, local multiplayer, and perhaps most excitingly, a robust online multiplayer
+      mode!
+    fullgame:
+      appid: '438140'
+      name: Star Realms
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/438150/header.jpg?t=1587233162
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8+<br></li><li><strong>Graphics:</strong> DX9 (shader model 2.0)
+        capabilities; generally everything made since 2004 should work.</li></ul>
+    name: Star Realms - Full Version
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Star Realms - Full Version - $4.99
+        packageid: 92306
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Star Realms - Full Version
+    packages:
+    - 92306
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Graphics:</strong> DX9 (shader model 2.0)
+        capabilities; generally everything made since 2004 should work.</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Mar 8, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/438150/ss_2c624c6ca08c192b9c65eeacccdb0cef70d6234f.1920x1080.jpg?t=1587233162
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/438150/ss_2c624c6ca08c192b9c65eeacccdb0cef70d6234f.600x338.jpg?t=1587233162
+    short_description: Upgrade to the full version and unlock nine new campaign missions,
+      local multiplayer, and perhaps most excitingly, a robust online multiplayer
+      mode!
+    steam_appid: 438150
+    support_info:
+      email: support@starrealms.com
+      url: http://www.starrealms.com/contact-us/
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJwxbyxofYCeuCYuAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 16
+    total_positive: 28
+    total_reviews: 44
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 19
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198142130270'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '81839626'
+    review: "Bonjour! \nContrairement \xE0 ce qui a \xE9t\xE9 dit dans une pr\xE9\
+      c\xE9dente \xE9valuation, il s'agit bien du jeu de base fid\xE8le au jeu de\
+      \ carte du m\xEAme nom, La version (demo) gratuite propose uniquement le d\xE9\
+      but de la campagne IA, tandis que ce jeu de base (crossplatform, actuellement\
+      \ 5euros) permet l'acc\xE8s au mode en ligne et au mode Ar\xE8ne, donc toute\
+      \ l'interaction PVP est disponible.\nTout comme le jeu de soci\xE9t\xE9 (identique),\
+      \ les nombreuses (et qualitatives!) extensions sont disponibles sur steam. \n\
+      Ce jeu de base permet tout de m\xEAme une dur\xE9e de vie tr\xE8s longue, j'ai\
+      \ du d\xE9j\xE0 faire environ 200 parties (20 \xE0 30 minutes/p). Et je ne suis\
+      \ m\xEAme pas pay\xE9 pour \xE9crire tout \xE7a!\n\nTr\xE8s bon jeu! \nHF"
+    steam_purchase: true
+    timestamp_created: 1607438034
+    timestamp_updated: 1607438034
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

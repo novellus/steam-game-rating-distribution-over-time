@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: "\u7B80\u4ECB<br />\r\n\u5927\u8611\u83C7RPG\u662F\u4E00\u6B3E\
+      \u57FA\u4E8EUnity\u6E38\u620F\u5F15\u64CE\u76842d\u89D2\u8272\u626E\u6F14\u6E38\
+      \u620F\u53EF\u89C6\u5316\u5236\u4F5C\u5DE5\u5177<br />\r\n<br />\r\n#0\u4EE3\
+      \u7801\u53EF\u89C6\u5316\u7F16\u8F91<br />\r\nPRG\u5267\u60C5\u7CFB\u7EDF<br\
+      \ />\r\n\u4EBA\u7269\u7CFB\u7EDF<br />\r\n\u7269\u54C1\u7CFB\u7EDF<br />\r\n\
+      \u6218\u6597\u7CFB\u7EDF<br />\r\n<br />\r\n#\u5185\u7F6E\u5B58\u6863\u7CFB\u7EDF\
+      <br />\r\n\u65E0\u9700\u624B\u52A8\u8BBE\u7F6E\u5B58\u6863\u70B9\u7B49\u4EFB\
+      \u4F55\u64CD\u4F5C\uFF0C\u5927\u8611\u83C7RPG\u81EA\u5E26\u5B58\u6863\u7CFB\u7EDF\
+      <br />\r\n\u8DDF\u968F\u5267\u60C5\u81EA\u52A8\u4FDD\u5B58\u8FDB\u5EA6<br />\r\
+      \n\u6E38\u620F\u4E2D\u4E5F\u53EF\u624B\u52A8\u5907\u4EFD\u5F53\u524D\u8FDB\u5EA6"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1433520/page_bg_generated_v6b.jpg?t=1607307034
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u7B80\u4ECB<br />\r\n\u5927\u8611\u83C7RPG\u662F\u4E00\
+      \u6B3E\u57FA\u4E8EUnity\u6E38\u620F\u5F15\u64CE\u76842d\u89D2\u8272\u626E\u6F14\
+      \u6E38\u620F\u53EF\u89C6\u5316\u5236\u4F5C\u5DE5\u5177<br />\r\n<br />\r\n#0\u4EE3\
+      \u7801\u53EF\u89C6\u5316\u7F16\u8F91<br />\r\nPRG\u5267\u60C5\u7CFB\u7EDF<br\
+      \ />\r\n\u4EBA\u7269\u7CFB\u7EDF<br />\r\n\u7269\u54C1\u7CFB\u7EDF<br />\r\n\
+      \u6218\u6597\u7CFB\u7EDF<br />\r\n<br />\r\n#\u5185\u7F6E\u5B58\u6863\u7CFB\u7EDF\
+      <br />\r\n\u65E0\u9700\u624B\u52A8\u8BBE\u7F6E\u5B58\u6863\u70B9\u7B49\u4EFB\
+      \u4F55\u64CD\u4F5C\uFF0C\u5927\u8611\u83C7RPG\u81EA\u5E26\u5B58\u6863\u7CFB\u7EDF\
+      <br />\r\n\u8DDF\u968F\u5267\u60C5\u81EA\u52A8\u4FDD\u5B58\u8FDB\u5EA6<br />\r\
+      \n\u6E38\u620F\u4E2D\u4E5F\u53EF\u624B\u52A8\u5907\u4EFD\u5F53\u524D\u8FDB\u5EA6"
+    developers:
+    - TheRealBigMushroom
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1433520/header.jpg?t=1607307034
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256803324
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256803324/movie480.mp4?t=1604540813
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256803324/movie_max.mp4?t=1604540813
+      name: trailer1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256803324/movie.293x165.jpg?t=1604540813
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256803324/movie480_vp9.webm?t=1604540813
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256803324/movie_max_vp9.webm?t=1604540813
+    name: Big Mushroom RPG
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u5927\u8611\u83C7RPG - $17.99"
+        packageid: 503684
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1799
+      title: Buy Big Mushroom RPG
+    packages:
+    - 503684
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        500 MB RAM<br></li><li><strong>Storage:</strong> 240 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1799
+      final_formatted: $17.99
+      initial: 1799
+      initial_formatted: ''
+    publishers:
+    - TheRealBigMushroom
+    release_date:
+      coming_soon: false
+      date: Nov 26, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_c44cd8462961e5241d463bd4482f035fad6bec27.1920x1080.jpg?t=1607307034
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_c44cd8462961e5241d463bd4482f035fad6bec27.600x338.jpg?t=1607307034
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_f553abbc532734794463cb6d309c862e0d31b528.1920x1080.jpg?t=1607307034
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_f553abbc532734794463cb6d309c862e0d31b528.600x338.jpg?t=1607307034
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_8972269acb28765e6c9ab56e63b4944ec09dc347.1920x1080.jpg?t=1607307034
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_8972269acb28765e6c9ab56e63b4944ec09dc347.600x338.jpg?t=1607307034
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_a4e6fab33f94db64370cdca7b1e0478c3d339a65.1920x1080.jpg?t=1607307034
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_a4e6fab33f94db64370cdca7b1e0478c3d339a65.600x338.jpg?t=1607307034
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_5a0934e3300cf6e50d9452a5fb434ab2815b5674.1920x1080.jpg?t=1607307034
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1433520/ss_5a0934e3300cf6e50d9452a5fb434ab2815b5674.600x338.jpg?t=1607307034
+    short_description: "\u6781\u7B80\u5316\u89D2\u8272\u626E\u6F14\u6E38\u620F\u5236\
+      \u4F5C\u5DE5\u5177\uFF0C0\u4EE3\u7801\u53EF\u89C6\u5316\u7F16\u8F91"
+    steam_appid: 1433520
+    support_info:
+      email: therealbigmushroom@126.com
+      url: ''
+    supported_languages: Simplified Chinese
+    type: game
+    website: http://docs.bigmushroomrpg.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

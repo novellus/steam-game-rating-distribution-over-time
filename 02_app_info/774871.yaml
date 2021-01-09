@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: This soundtrack is an original composition by Dynamedion for the
+      game The Lion's Song.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/774871/page_bg_generated_v6b.jpg?t=1581550198
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This soundtrack is an original composition by Dynamedion
+      for the game The Lion's Song.
+    developers:
+    - Mi'pu'mi Games GmbH
+    fullgame:
+      appid: '437160'
+      name: 'The Lion''s Song: Episode 1 - Silence'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/774871/header.jpg?t=1581550198
+    is_free: false
+    legal_notice: "\xA9 2016-2020 Mipumi Games based on the game \u201EThe Lion's\
+      \ Song\" created by leafthief. All rights reserved. Mipumi Games is a registered\
+      \ trademark by Mi'pu'mi Games GmbH."
+    linux_requirements: []
+    mac_requirements: []
+    name: The Lion's Song - Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Lion's Song - Soundtrack - $2.99
+        packageid: 232512
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy The Lion's Song - Soundtrack
+    packages:
+    - 232512
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Mi'pu'mi Games GmbH
+    release_date:
+      coming_soon: false
+      date: Jul 24, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/774871/ss_6f396bc1581dd3f96bf494188675ec4f11c9a30a.1920x1080.jpg?t=1581550198
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/774871/ss_6f396bc1581dd3f96bf494188675ec4f11c9a30a.600x338.jpg?t=1581550198
+    short_description: This soundtrack is an original composition by Dynamedion for
+      the game The Lion's Song.
+    steam_appid: 774871
+    support_info:
+      email: support@lionssonggame.com
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Russian
+    type: music
+    website: http://www.lionssonggame.com
+  success: true
+reviews:
+  cursor: AoJ4pZu0lvQCcaP7nQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 0
+    total_positive: 7
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1009
+      num_reviews: 47
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198052059300'
+    comment_count: 0
+    language: french
+    received_for_free: false
+    recommendationid: '74963505'
+    review: "Toute l'essence du jeu se retrouve dans cette bande son. A acqu\xE9rir\
+      \ les yeux ferm\xE9s."
+    steam_purchase: true
+    timestamp_created: 1598479719
+    timestamp_updated: 1598479719
+    voted_up: true
+    votes_funny: 0
+    votes_up: 6
+    weighted_vote_score: '0.618391573429107666'
+    written_during_early_access: false
+  success: 1

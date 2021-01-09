@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: Your exciting adventure continues!<br><br>The Adventurer's Journey
+      II Music Pack features 20 orchestrated tracks from D. C. Kairi Sawler that will
+      surely give your games some new ambiance! Everything from Egypt to Japan and
+      back again!<br><br><strong>This pack contains:</strong><br><ul class="bb_ul"><li>20
+      Orchestrated Tracks<br></li><li>Looped OGG, M4A Vorbis files <br></li><li>The
+      MP3 version of the tracks are also included<br></li><li>Royalty free music to
+      use in your commercial and non-commercial RPG Maker projects</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/957537/page_bg_generated_v6b.jpg?t=1589435089
+    categories:
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Trading Cards
+      id: 29
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Your exciting adventure continues!<br><br>The Adventurer's
+      Journey II Music Pack features 20 orchestrated tracks from D. C. Kairi Sawler
+      that will surely give your games some new ambiance! Everything from Egypt to
+      Japan and back again!<br><br><strong>This pack contains:</strong><br><ul class="bb_ul"><li>20
+      Orchestrated Tracks<br></li><li>Looped OGG, M4A Vorbis files <br></li><li>The
+      MP3 version of the tracks are also included<br></li><li>Royalty free music to
+      use in your commercial and non-commercial RPG Maker projects</li></ul>
+    developers:
+    - Kairi Sawler
+    fullgame:
+      appid: '363890'
+      name: RPG Maker MV
+    genres:
+    - description: Design & Illustration
+      id: '53'
+    - description: Web Publishing
+      id: '59'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/957537/header.jpg?t=1589435089
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> System supporting RPG Maker MV</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> System supporting RPG Maker MV</li></ul>
+    name: "RPG Maker MV - The Adventurer\u2019s Journey II"
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "RPG Maker MV - The Adventurer\u2019s Journey II - $4.99"
+        packageid: 312691
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: "Buy RPG Maker MV - The Adventurer\u2019s Journey II"
+    packages:
+    - 312691
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Additional
+        Notes:</strong> System supporting RPG Maker MV</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Degica
+    release_date:
+      coming_soon: false
+      date: Oct 25, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/957537/ss_b48a07283c9f034658d2a5db8c8f271cc25db1e5.1920x1080.jpg?t=1589435089
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/957537/ss_b48a07283c9f034658d2a5db8c8f271cc25db1e5.600x338.jpg?t=1589435089
+    short_description: The Adventurer's Journey II Music Pack features 20 orchestrated
+      tracks from D. C. Kairi Sawler that will surely give your games some new ambiance!
+      Everything from Egypt to Japan and back again!
+    steam_appid: 957537
+    support_info:
+      email: ''
+      url: http://www.rpgmakerweb.com/support
+    supported_languages: English, Japanese
+    type: dlc
+    website: http://www.rpgmakerweb.com/
+  success: true
+reviews:
+  cursor: AoJwvcSTou4Ceb2Y2AE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 19
+      num_reviews: 5
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198303600001'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '56673241'
+    review: "\u4E0D\u662F\u5F88\u597D\u542C\u3002\u5E76\u4E14OGG\u6587\u4EF6\u5E76\
+      \u6CA1\u6709\u8BBE\u7F6E\u5FAA\u73AFloop\u6807\u7B7E\uFF0C\u8FD9\u8BA9\u5B83\
+      \u5728\u6211\u8FD9\u91CC\u51E0\u4E4E\u65E0\u6CD5\u4F7F\u7528\u3002"
+    steam_purchase: true
+    timestamp_created: 1573104002
+    timestamp_updated: 1573104002
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

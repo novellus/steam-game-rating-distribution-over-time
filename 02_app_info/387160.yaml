@@ -1,0 +1,121 @@
+details:
+  data:
+    about_the_game: Includes the Mute Crimson+ Soundtrack by Thomas Smith (Mute Crimson+)
+      and Nathaniel Edwards (Mute Crimson Classic) in FLAC and MP3 featuring 41 tracks.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/387160/page_bg_generated_v6b.jpg?t=1581600100
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Additional High-Quality Audio
+      id: 50
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Includes the Mute Crimson+ Soundtrack by Thomas Smith (Mute
+      Crimson+) and Nathaniel Edwards (Mute Crimson Classic) in FLAC and MP3 featuring
+      41 tracks.
+    developers:
+    - Iced Lizard Games
+    fullgame:
+      appid: '384280'
+      name: Mute Crimson+
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/387160/header.jpg?t=1581600100
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 or later<br></li><li><strong>Processor:</strong> 1.5GHz Intel/AMD
+        CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.0 compliant video card<br></li><li><strong>Storage:</strong> 350
+        MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.7.3 or later<br></li><li><strong>Processor:</strong> 1.5GHz Intel/AMD
+        CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.0 compliant video card<br></li><li><strong>Storage:</strong> 350
+        MB available space</li></ul>
+    name: Mute Crimson+ Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Mute Crimson+ Soundtrack - $2.99
+        packageid: 73167
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Mute Crimson+ Soundtrack
+    packages:
+    - 73167
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 1.5GHz
+        Intel/AMD CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 2.0 compliant video card<br></li><li><strong>Storage:</strong> 150
+        MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 250 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - Iced Lizard Games
+    release_date:
+      coming_soon: false
+      date: Aug 20, 2015
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/387160/ss_2cdca8db94ea837918bbf4758218caa89fc0570e.1920x1080.jpg?t=1581600100
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/387160/ss_2cdca8db94ea837918bbf4758218caa89fc0570e.600x338.jpg?t=1581600100
+    short_description: Includes the Mute Crimson+ Soundtrack by Thomas Smith (Mute
+      Crimson+) and Nathaniel Edwards (Mute Crimson Classic) in FLAC and MP3 featuring
+      41 tracks.
+    steam_appid: 387160
+    support_info:
+      email: icedlizardgameshelp@gmail.com
+      url: ''
+    supported_languages: English
+    type: music
+    website: http://icedlizardgames.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

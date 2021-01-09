@@ -1,0 +1,208 @@
+details:
+  data:
+    about_the_game: Evil Cult is a turn-based strategy game about various sinister
+      cults all vying for world domination. Whether through completing the Final Ritual
+      or eliminating all opponents, the victory will not be easy. Managing a cult
+      is a tricky job, you see. Pesky investigators, multiple offspring sects, bloodthirsty
+      opponent cults, these are all threats that have to be dealt with or successfully
+      evaded. And all that has to be done below the radar of the human society.<br><br>This
+      version of the game was upgraded with a modern UI look and interface. However,
+      the classic minimalistic black design is fully supported, too. Various long-standing
+      bugs in the classic version were fixed and all gameplay features were backported
+      to coincide with the 10th anniversary of the release of the first public version.<br><br>Features
+      include:<br><br><ul class="bb_ul"><li><strong>Artifacts of the Arcane Expansion</strong>
+      - Use mysterious occult artifacts to enhance the base game.<br></li><li><strong>Multiplayer</strong>
+      - Shared screen multiplayer is available. Join your friends or play against
+      them.<br></li><li><strong>Custom Game</strong> - Tired of playing the base game?
+      Start a fully custom one. Each of the gameplay variables is open for tweaking
+      around in this mode.<br></li><li><strong>Four hours of music</strong> - An incredible
+      electronica soundtrack by Jeremy Rice of <i>Curious Inversions</i> and <i>Introspective</i>
+      fame, known by the fans of the original game.<br></li><li><strong>Classic Mode</strong>
+      - Full classic mode graphics and UI included. Relive the nostalgia.<br></li><li><strong>Investigators</strong>
+      - These irritating investigators never cease to vex the cults, bringing the
+      additional challenge.<br></li><li><strong>Sects Management</strong> - Using
+      manual micromanagement or an AI advisor, these, erm, devoted groups of unsuspecting
+      people will help you reach your nefarious goals.</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1237260/page_bg_generated_v6b.jpg?t=1601057054
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    content_descriptors:
+      ids: []
+      notes: null
+    demos:
+    - appid: 1431090
+      description: ''
+    detailed_description: Evil Cult is a turn-based strategy game about various sinister
+      cults all vying for world domination. Whether through completing the Final Ritual
+      or eliminating all opponents, the victory will not be easy. Managing a cult
+      is a tricky job, you see. Pesky investigators, multiple offspring sects, bloodthirsty
+      opponent cults, these are all threats that have to be dealt with or successfully
+      evaded. And all that has to be done below the radar of the human society.<br><br>This
+      version of the game was upgraded with a modern UI look and interface. However,
+      the classic minimalistic black design is fully supported, too. Various long-standing
+      bugs in the classic version were fixed and all gameplay features were backported
+      to coincide with the 10th anniversary of the release of the first public version.<br><br>Features
+      include:<br><br><ul class="bb_ul"><li><strong>Artifacts of the Arcane Expansion</strong>
+      - Use mysterious occult artifacts to enhance the base game.<br></li><li><strong>Multiplayer</strong>
+      - Shared screen multiplayer is available. Join your friends or play against
+      them.<br></li><li><strong>Custom Game</strong> - Tired of playing the base game?
+      Start a fully custom one. Each of the gameplay variables is open for tweaking
+      around in this mode.<br></li><li><strong>Four hours of music</strong> - An incredible
+      electronica soundtrack by Jeremy Rice of <i>Curious Inversions</i> and <i>Introspective</i>
+      fame, known by the fans of the original game.<br></li><li><strong>Classic Mode</strong>
+      - Full classic mode graphics and UI included. Relive the nostalgia.<br></li><li><strong>Investigators</strong>
+      - These irritating investigators never cease to vex the cults, bringing the
+      additional challenge.<br></li><li><strong>Sects Management</strong> - Using
+      manual micromanagement or an AI advisor, these, erm, devoted groups of unsuspecting
+      people will help you reach your nefarious goals.</li></ul>
+    developers:
+    - StarInfidel
+    dlc:
+    - 1311820
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1237260/header.jpg?t=1601057054
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any Ubuntu 14+/SteamOS distribution<br></li><li><strong>Processor:</strong>
+        2.0Ghz or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        DX9 compatible GPU<br></li><li><strong>Storage:</strong> 620 MB available
+        space<br></li><li><strong>Additional Notes:</strong> 64-bit only</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256783144
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256783144/movie480.mp4?t=1588099553
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256783144/movie_max.mp4?t=1588099553
+      name: Gameplay VIdeo
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256783144/movie.293x165.jpg?t=1588099553
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256783144/movie480_vp9.webm?t=1588099553
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256783144/movie_max_vp9.webm?t=1588099553
+    name: Evil Cult
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Evil Cult - $8.99
+        packageid: 429162
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 899
+      title: Buy Evil Cult
+    packages:
+    - 429162
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 2.0Ghz or higher<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> DX9 compatible GPU<br></li><li><strong>Storage:</strong>
+        620 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 899
+      final_formatted: $8.99
+      initial: 899
+      initial_formatted: ''
+    publishers:
+    - StarInfidel
+    release_date:
+      coming_soon: false
+      date: May 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_c1f731af62b33c2e3747f0074f9bc2abef710b70.1920x1080.jpg?t=1601057054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_c1f731af62b33c2e3747f0074f9bc2abef710b70.600x338.jpg?t=1601057054
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_1f96b71272ec657726e3e6b9110517f87641d25e.1920x1080.jpg?t=1601057054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_1f96b71272ec657726e3e6b9110517f87641d25e.600x338.jpg?t=1601057054
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_089c8bc40648b86f6779efe4fbc0b1d6735eb605.1920x1080.jpg?t=1601057054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_089c8bc40648b86f6779efe4fbc0b1d6735eb605.600x338.jpg?t=1601057054
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_0a4ac7bb5f8b366b1272a59555dc332c8a72eedd.1920x1080.jpg?t=1601057054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_0a4ac7bb5f8b366b1272a59555dc332c8a72eedd.600x338.jpg?t=1601057054
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_5a1b66287a1b2605d4248123ffe9f7439d9cfb50.1920x1080.jpg?t=1601057054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_5a1b66287a1b2605d4248123ffe9f7439d9cfb50.600x338.jpg?t=1601057054
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_fbde63d38774036e1b5aa9bf68628736d75dd187.1920x1080.jpg?t=1601057054
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1237260/ss_fbde63d38774036e1b5aa9bf68628736d75dd187.600x338.jpg?t=1601057054
+    short_description: This is a strategy board game of Lovecraftian macabre. Summon
+      the Elder God you worship as the leader of one of four cults or eliminate the
+      competition in an invisible war.
+    steam_appid: 1237260
+    support_info:
+      email: support@in-fi-del.net
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwjJXA2vYCe6LuvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 9 user reviews
+    total_negative: 2
+    total_positive: 7
+    total_reviews: 9
+  reviews:
+  - author:
+      last_played: 1609357616
+      num_games_owned: 47
+      num_reviews: 4
+      playtime_at_review: 93
+      playtime_forever: 141
+      playtime_last_two_weeks: 141
+      steamid: '76561198839961803'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83587627'
+    review: Evil Cult is a relatively simple, but decently *enthralling* game about
+      several cults fighting to be the first to enact their eldritch endgame, be it
+      exerting control over the minds of all humans through the media, or bringing
+      the force of a cthulhu-like entity to bear against the world, while avoiding
+      the notice of investigators who will devote themselves to the destruction of
+      your cult
+    steam_purchase: true
+    timestamp_created: 1609354488
+    timestamp_updated: 1609354488
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

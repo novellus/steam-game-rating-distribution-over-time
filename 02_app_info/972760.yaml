@@ -1,0 +1,190 @@
+details:
+  data:
+    about_the_game: "Find the Xamadeon Stone and bring back our colors! Secret Saga\
+      \ is an adventure which includes various puzzles on a planet like our own. Planet's\
+      \ colors were stolen from us by a community that comes from another galaxy.\
+      \ Two explorers named Joe and Brad have to bring back the colors and you must\
+      \ help them!<br />\r\n<br />\r\nTo reach Xamadeon Stone, you have a long way\
+      \ to go. You must find some objects to complete this mission. You are given\
+      \ the hints to find these objects.<br />\r\n<br />\r\nSecret Saga Xamadeon Stone\
+      \ is still in development. You may encounter some crashes and bugs. Please let\
+      \ us know if you encounter errors!"
+    achievements:
+      highlighted:
+      - name: Home Completed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/b1f7a785fab01be9346e1be888c51ec870ede495.jpg
+      - name: Bazaar Completed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/56420f4e85ab41fa19577328c6937f65471af8c5.jpg
+      - name: Circus Completed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/76c2783298694e0f5bdfa7334b7e4e3d9db8a861.jpg
+      - name: Airport Completed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/0e6f2696d1e44df90d1688443a11577e3a7abe83.jpg
+      - name: Beach Completed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/e45e4d282b9b0f47c3dae22b78b7f6bd859d7079.jpg
+      - name: Legends
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/e3acf2a2a9c1e54f5257475a3996d48796c33015.jpg
+      - name: Legends
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/9d25d7d14afa6a782b8cb30745e725b979ec4f6b.jpg
+      - name: Legends
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/b4b55bcad75d7d609359f29a3fb44847701c77a9.jpg
+      - name: Legends
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/e5a00f8886f1c2fac8bd0ecc54192418ee359bd4.jpg
+      - name: Legends
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972760/d1a88f1dd1b5af1b6231360a345d031ee0ec88a3.jpg
+      total: 13
+    background: https://steamcdn-a.akamaihd.net/steam/apps/972760/page_bg_generated_v6b.jpg?t=1587276047
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Find the Xamadeon Stone and bring back our colors! Secret\
+      \ Saga is an adventure which includes various puzzles on a planet like our own.\
+      \ Planet's colors were stolen from us by a community that comes from another\
+      \ galaxy. Two explorers named Joe and Brad have to bring back the colors and\
+      \ you must help them!<br />\r\n<br />\r\nTo reach Xamadeon Stone, you have a\
+      \ long way to go. You must find some objects to complete this mission. You are\
+      \ given the hints to find these objects.<br />\r\n<br />\r\nSecret Saga Xamadeon\
+      \ Stone is still in development. You may encounter some crashes and bugs. Please\
+      \ let us know if you encounter errors!"
+    developers:
+    - "Halit B\xFCy\xFCky\u0131lmaz"
+    - "Kaan Kurtulu\u015F"
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/972760/header.jpg?t=1587276047
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 14.04+ (64-bit)<br></li><li><strong>Processor:</strong> SSE2 instruction
+        set support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.9+ (64 bit)<br></li><li><strong>Processor:</strong> SSE2 instruction
+        set support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256780880
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256780880/movie480.mp4?t=1586294522
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256780880/movie_max.mp4?t=1586294522
+      name: fragman_ss
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256780880/movie.293x165.jpg?t=1586294522
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256780880/movie480.webm?t=1586294522
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256780880/movie_max.webm?t=1586294522
+    name: 'Secret Saga: Xamadeon Stone'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hidden Saga - $6.99
+        packageid: 319049
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: 'Buy Secret Saga: Xamadeon Stone'
+    packages:
+    - 319049
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - "Halit B\xFCy\xFCky\u0131lmaz"
+    release_date:
+      coming_soon: false
+      date: Feb 28, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_b7b97f1c12678dd7227e45c7e3e9b0ef69af43ce.1920x1080.jpg?t=1587276047
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_b7b97f1c12678dd7227e45c7e3e9b0ef69af43ce.600x338.jpg?t=1587276047
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_1ce5eeba8dfc180b44de2d92a887b99d2da78f80.1920x1080.jpg?t=1587276047
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_1ce5eeba8dfc180b44de2d92a887b99d2da78f80.600x338.jpg?t=1587276047
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_b18bdbd818e15be09dfb9a834aae27ccc22e88ab.1920x1080.jpg?t=1587276047
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_b18bdbd818e15be09dfb9a834aae27ccc22e88ab.600x338.jpg?t=1587276047
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_43126475a30f63793e9c954ab6e6a4170ea3a4c9.1920x1080.jpg?t=1587276047
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_43126475a30f63793e9c954ab6e6a4170ea3a4c9.600x338.jpg?t=1587276047
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_13e4fe371f9578be92f4f1616ee86e472e3e3262.1920x1080.jpg?t=1587276047
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/972760/ss_13e4fe371f9578be92f4f1616ee86e472e3e3262.600x338.jpg?t=1587276047
+    short_description: Are you good at finding things and enjoy interactive levels?
+      You are at the right place! You need to dig for artifacts, look inside a lion's
+      mouth, beep-boop the cars and much more in Secret Saga!
+    steam_appid: 972760
+    support_info:
+      email: secretsagaxs@gmail.com
+      url: ''
+    supported_languages: English, Turkish, German, Polish, French, Italian, Simplified
+      Chinese, Portuguese - Brazil, Japanese, Russian, Vietnamese, Czech, Spanish
+      - Spain, Dutch, Spanish - Latin America, Arabic, Traditional Chinese, Hungarian,
+      Portuguese, Romanian, Thai, Ukrainian, Korean
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwhYjT2vYCeJ3xvgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 13
+    total_positive: 36
+    total_reviews: 49
+  reviews:
+  - author:
+      last_played: 1609359403
+      num_games_owned: 1154
+      num_reviews: 201
+      playtime_at_review: 158
+      playtime_forever: 158
+      playtime_last_two_weeks: 158
+      steamid: '76561198135495695'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '83593688'
+    review: "\u180C \u180C \u180C \u180C"
+    steam_purchase: true
+    timestamp_created: 1609359442
+    timestamp_updated: 1609359442
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

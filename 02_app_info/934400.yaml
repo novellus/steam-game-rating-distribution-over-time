@@ -1,0 +1,96 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/934400/page_bg_generated_v6b.jpg?t=1540870358
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    - description: Captions available
+      id: 13
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '889110'
+      name: The Sentinel Chronicles
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/934400/header.jpg?t=1540870358
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'The Sentinel Chronicles: Impossibility of Reason'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'The Sentinel Chronicles: Impossibility of Reason - $0.99'
+        packageid: 303114
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy The Sentinel Chronicles: Impossibility of Reason'
+    packages:
+    - 303114
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 29, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_d8e4a75821d112b40d3858970f05bb9a8c8d6968.1920x1080.jpg?t=1540870358
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_d8e4a75821d112b40d3858970f05bb9a8c8d6968.600x338.jpg?t=1540870358
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_bd364ab4da880450692aaef23860d8f5fd082212.1920x1080.jpg?t=1540870358
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_bd364ab4da880450692aaef23860d8f5fd082212.600x338.jpg?t=1540870358
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_87ad73da6136224d0b97df805a30a93dc510928a.1920x1080.jpg?t=1540870358
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_87ad73da6136224d0b97df805a30a93dc510928a.600x338.jpg?t=1540870358
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_c9f2ecf8126cc871a6a25c00f0c7453d18ba5586.1920x1080.jpg?t=1540870358
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/934400/ss_c9f2ecf8126cc871a6a25c00f0c7453d18ba5586.600x338.jpg?t=1540870358
+    short_description: The first vignette of The Sentinel Chronicles! The year is
+      2026, the Battle of the Seven Cities rages on.
+    steam_appid: 934400
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

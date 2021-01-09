@@ -1,0 +1,134 @@
+details:
+  data:
+    about_the_game: ''
+    background: https://steamcdn-a.akamaihd.net/steam/apps/550334/page_bg_generated_v6b.jpg?t=1481727197
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Arc System Works
+    fullgame:
+      appid: '520440'
+      name: GUILTY GEAR Xrd -REVELATOR-
+    genres:
+    - description: Action
+      id: '1'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/550334/header.jpg?t=1481727197
+    is_free: false
+    legal_notice: "\xA9 ARC SYSTEM WORKS"
+    linux_requirements: []
+    mac_requirements: []
+    name: GGXrdR Character Colors Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: GGXrdR Character Colors Pack - $11.99
+        packageid: 136289
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1199
+      title: Buy GGXrdR Character Colors Pack
+    packages:
+    - 136289
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 / 8.1 / 10 (32bit/64bit)<br></li><li><strong>Processor:</strong>
+        Intel Core i5 @ 2.0 GHz<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong>
+        Nvidia GeForce GTX 560 / Radeon HD 7770<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 12 GB
+        available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1199
+      final_formatted: $11.99
+      initial: 1199
+      initial_formatted: ''
+    publishers:
+    - Arc System Works
+    release_date:
+      coming_soon: false
+      date: Dec 14, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550334/ss_2d45660e12d91a52a6a898d0625c3679f2569a1b.1920x1080.jpg?t=1481727197
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550334/ss_2d45660e12d91a52a6a898d0625c3679f2569a1b.600x338.jpg?t=1481727197
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550334/ss_72b509358607404e8b7287e14c8cca701084f6ba.1920x1080.jpg?t=1481727197
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550334/ss_72b509358607404e8b7287e14c8cca701084f6ba.600x338.jpg?t=1481727197
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550334/ss_82149ad122791ba7a948e0e41b860385e69e3dde.1920x1080.jpg?t=1481727197
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550334/ss_82149ad122791ba7a948e0e41b860385e69e3dde.600x338.jpg?t=1481727197
+    short_description: ''
+    steam_appid: 550334
+    support_info:
+      email: ''
+      url: http://www.arcsystemworks.jp/steam/en/contact_02.php
+    supported_languages: English, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4psbw9OICcaPengE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 6 user reviews
+    total_negative: 3
+    total_positive: 3
+    total_reviews: 6
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 13
+      num_reviews: 1
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198384476274'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '41611825'
+    review: Sorry but these are my least favorite colors
+    steam_purchase: true
+    timestamp_created: 1524340241
+    timestamp_updated: 1524340241
+    voted_up: true
+    votes_funny: 4
+    votes_up: 1
+    weighted_vote_score: '0.429078012704849243'
+    written_during_early_access: false
+  success: 1

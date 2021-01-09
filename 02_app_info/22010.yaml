@@ -1,0 +1,67 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - '2D BOY '
+    fullgame:
+      appid: '22000'
+      name: World of Goo
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/22010/header.jpg?t=1447351524
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 90
+    name: World of Goo Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<p><strong>Minimum:</strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported\
+        \ OS: </strong>Windows&reg; XP or Vista</li>\n\t\t\t\t\t<li><strong>Processor:\
+        \ </strong>1GHz or faster</li>\n\t\t\t\t\t<li><strong>Memory: </strong>512+MB\
+        \ RAM</li>\n\t\t\t\t\t<li><strong>Video: </strong>Any 3D graphics accelerator\
+        \ less than 5 years old</li>\n\t\t\t\t\t<li><strong>DirectX&reg; Version:\
+        \ </strong>9.0c</li>                    \n\t\t\t\t\t<li><strong>Hard Drive:\
+        \ </strong>100MB </li>                    </ul>"
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - '2D BOY '
+    release_date:
+      coming_soon: false
+      date: Oct 16, 2008
+    required_age: 0
+    short_description: ''
+    steam_appid: 22010
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: http://2dboy.com/games.php
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

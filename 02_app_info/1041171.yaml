@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: If you appreciate the type of games that Gamers for Good makes
+      and want to support our efforts to help Gamers Give Back then send $1 our way.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1041171/page_bg_generated_v6b.jpg?t=1551858294
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: If you appreciate the type of games that Gamers for Good
+      makes and want to support our efforts to help Gamers Give Back then send $1
+      our way.
+    developers:
+    - Gamers for Good
+    fullgame:
+      appid: '760510'
+      name: 'Cat Burglar: A Tail of Purrsuit'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1041171/header.jpg?t=1551858294
+    is_free: false
+    legal_notice: Copyright/Trade Mark Gamers for Good 2018
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Cat Burglar: A Tail of Purrsuit -  $1 support for Gamers for Good'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Cat Burglar: A Tail of Purrsuit -  $1 Developer Donation - $0.99'
+        packageid: 346794
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Cat Burglar: A Tail of Purrsuit -  $1 support for Gamers for Good'
+    packages:
+    - 346794
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        Yes<br></li><li><strong>Graphics:</strong> Yes</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Gamers for Good
+    release_date:
+      coming_soon: false
+      date: Mar 4, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1041171/ss_07c78a9bae735ab90b554606d9ba868b6e03abf8.1920x1080.jpg?t=1551858294
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1041171/ss_07c78a9bae735ab90b554606d9ba868b6e03abf8.600x338.jpg?t=1551858294
+    short_description: If you appreciate the type of games that Gamers for Good makes
+      and want to support our efforts to help Gamers Give Back then send $1 our way.
+    steam_appid: 1041171
+    support_info:
+      email: liz@gamersforgood.com
+      url: Liz Cooper
+    supported_languages: English
+    type: dlc
+    website: http://www.catburglargame.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

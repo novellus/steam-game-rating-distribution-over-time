@@ -1,0 +1,104 @@
+details:
+  data:
+    about_the_game: In this DLC you can find 10 additional hi-resolution bicycles
+      pictures for main puzzle game. There are beautiful views of the bicycles on
+      the country side roads and on the highways. Please enjoy.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1387690/page_bg_generated_v6b.jpg?t=1596725384
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: In this DLC you can find 10 additional hi-resolution bicycles
+      pictures for main puzzle game. There are beautiful views of the bicycles on
+      the country side roads and on the highways. Please enjoy.
+    developers:
+    - Alcatalyst-Hamza Mustafa
+    fullgame:
+      appid: '1260110'
+      name: Crazy Puzzle
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1387690/header.jpg?t=1596725384
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Bicycles
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Bicycles - $13.99
+        packageid: 486995
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1399
+      title: Buy Bicycles
+    packages:
+    - 486995
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7,8,10<br></li><li><strong>Processor:</strong> Intel\xAE Core\u2122\
+        2 Duo Processor E7500 or AMD Athlon II X2 240<br></li><li><strong>Memory:</strong>\
+        \ 2 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 7850 2 GB\
+        \ or nVidia Geforce GTX 550ti 2 GB<br></li><li><strong>DirectX:</strong> Version\
+        \ 9.0<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1399
+      final_formatted: $13.99
+      initial: 1399
+      initial_formatted: ''
+    publishers:
+    - ' Aurora borealis'
+    release_date:
+      coming_soon: false
+      date: Aug 6, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1387690/ss_e39e311dc6ac1808000d3cb7c138ac10f588e6ce.1920x1080.jpg?t=1596725384
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1387690/ss_e39e311dc6ac1808000d3cb7c138ac10f588e6ce.600x338.jpg?t=1596725384
+    short_description: In this DLC you can find 10 additional hi-resolution bicycles
+      pictures for main puzzle game.
+    steam_appid: 1387690
+    support_info:
+      email: support@auroraborealis.tech
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

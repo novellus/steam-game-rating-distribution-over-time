@@ -1,0 +1,124 @@
+details:
+  data:
+    about_the_game: "Optional content pack for dressing up female characters.<br />\r\
+      \n<br />\r\nAdds 18 new pre-rendered scenes to the existing game with new gameplay\
+      \ consisting of removing the clothing from mannequins and putting the clothes\
+      \ on female characters. Content is unlocked progressively from levels 3 to 8."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1194070/page_bg_generated_v6b.jpg?t=1574392092
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 3
+      - 5
+      notes: "All characters in this content pack are adult (21+) female humans or\
+        \ mannequins.\r\nCharacters sometimes appear partially nude in their underwear\
+        \ or fully nude.\r\nGameplay involves removing clothing from mannequins to\
+        \ dress the human characters.\r\n"
+    detailed_description: "Optional content pack for dressing up female characters.<br\
+      \ />\r\n<br />\r\nAdds 18 new pre-rendered scenes to the existing game with\
+      \ new gameplay consisting of removing the clothing from mannequins and putting\
+      \ the clothes on female characters. Content is unlocked progressively from levels\
+      \ 3 to 8."
+    developers:
+    - SunshineOvercast
+    fullgame:
+      appid: '1167650'
+      name: Context
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1194070/header.jpg?t=1574392092
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Context - Dress Up Content Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Context - Dress Up Content Pack - $0.99
+        packageid: 411198
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Context - Dress Up Content Pack
+    packages:
+    - 411198
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.5 GHz<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720 fullscreen or any
+        resolution windowed<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        128 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - SunshineOvercast
+    release_date:
+      coming_soon: false
+      date: Nov 21, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_ac67250015ed44314f21f7720c31d6d138227964.1920x1080.jpg?t=1574392092
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_ac67250015ed44314f21f7720c31d6d138227964.600x338.jpg?t=1574392092
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_52c3edfb5528d833374db59f9db80282b73a5d27.1920x1080.jpg?t=1574392092
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_52c3edfb5528d833374db59f9db80282b73a5d27.600x338.jpg?t=1574392092
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_5c9db280e6a8e2a4aa186fb6b8f3244e14a84d5d.1920x1080.jpg?t=1574392092
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_5c9db280e6a8e2a4aa186fb6b8f3244e14a84d5d.600x338.jpg?t=1574392092
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_abd9bf062a1a1541baf8a5eeb622240aecd15f9a.1920x1080.jpg?t=1574392092
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_abd9bf062a1a1541baf8a5eeb622240aecd15f9a.600x338.jpg?t=1574392092
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_92fff9c02ff4444e2a71b05c584c12ab8e3b7ea0.1920x1080.jpg?t=1574392092
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_92fff9c02ff4444e2a71b05c584c12ab8e3b7ea0.600x338.jpg?t=1574392092
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_dc8cd4f166fc55350c2f64165b8da3f53445c80c.1920x1080.jpg?t=1574392092
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1194070/ss_dc8cd4f166fc55350c2f64165b8da3f53445c80c.600x338.jpg?t=1574392092
+    short_description: Optional content pack for dressing up female characters.
+    steam_appid: 1194070
+    support_info:
+      email: ''
+      url: https://twitter.com/SunOvercast
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

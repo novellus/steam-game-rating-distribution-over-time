@@ -1,0 +1,102 @@
+details:
+  data:
+    about_the_game: "A Hero stands on the horizon. The music swells as they arrive\
+      \ to save the day!<br />\r\n<br />\r\nThis collection of hero theme songs was\
+      \ a stretch goal on the Sentinels Season 2 Kickstarter and features brand new\
+      \ theme songs for the heroes of the Multiverse! All 21 heroes from the base\
+      \ game and Season 1 are included."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1430000/page_bg_generated_v6b.jpg?t=1605897860
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "A Hero stands on the horizon. The music swells as they\
+      \ arrive to save the day!<br />\r\n<br />\r\nThis collection of hero theme songs\
+      \ was a stretch goal on the Sentinels Season 2 Kickstarter and features brand\
+      \ new theme songs for the heroes of the Multiverse! All 21 heroes from the base\
+      \ game and Season 1 are included."
+    developers:
+    - Handelabra Games Inc.
+    fullgame:
+      appid: '337150'
+      name: Sentinels of the Multiverse
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1430000/header.jpg?t=1605897860
+    is_free: false
+    legal_notice: "Copyright \xA9 2014-2020 Handelabra Games Inc.<br />\r\n<br />\r\
+      \nSentinels of The Multiverse: The Video Game is an officially licensed product\
+      \ of \u201CSentinels of the Multiverse\xAE\u201D from Greater Than Games LLC."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256810360
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256810360/movie480.mp4?t=1605897856
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256810360/movie_max.mp4?t=1605897856
+      name: guise
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256810360/movie.293x165.jpg?t=1605897856
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256810360/movie480_vp9.webm?t=1605897856
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256810360/movie_max_vp9.webm?t=1605897856
+    name: 'Heroes of the Multiverse: Season One'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sentinels of the Multiverse Soundtrack - $9.99
+        packageid: 502225
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: 'Buy Heroes of the Multiverse: Season One'
+    packages:
+    - 502225
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        135 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Handelabra Games Inc.
+    release_date:
+      coming_soon: false
+      date: Oct 14, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1430000/ss_f618e65295b479d68ac3bdb11e89447cbb72a42c.1920x1080.jpg?t=1605897860
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1430000/ss_f618e65295b479d68ac3bdb11e89447cbb72a42c.600x338.jpg?t=1605897860
+    short_description: Heroic theme music from Season 1 of Sentinels of the Multiverse.
+    steam_appid: 1430000
+    support_info:
+      email: support@handelabra.com
+      url: http://handelabra.com/contact
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

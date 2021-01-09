@@ -1,0 +1,185 @@
+details:
+  data:
+    about_the_game: Adds the Siege game mode to the Extra Content menu of Resident
+      Evil 6! Protect the innocent civilians from the creatures until the rescue effort
+      arrives. Players can choose to be an agent helping the civilians, or a creature
+      hunting them down in this multiplayer mode that supports up to 6 players!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/232570/page_bg_generated_v6b.jpg?t=1592791086
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: Adds the Siege game mode to the Extra Content menu of Resident
+      Evil 6! Protect the innocent civilians from the creatures until the rescue effort
+      arrives. Players can choose to be an agent helping the civilians, or a creature
+      hunting them down in this multiplayer mode that supports up to 6 players!
+    developers:
+    - Capcom
+    fullgame:
+      appid: '221040'
+      name: Resident Evil 6
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/232570/header.jpg?t=1592791086
+    is_free: false
+    legal_notice: "\xAECAPCOM CO., LTD. 2012, 2013 ALL RIGHTS RESERVED."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Resident Evil 6: Siege Mode'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'RE6/BH6:  Siege Mode - $3.99'
+        packageid: 27295
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Resident Evil 6 Complete - $39.99
+        packageid: 50980
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 3999
+      title: 'Buy Resident Evil 6: Siege Mode'
+    packages:
+    - 27295
+    - 50980
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows\
+        \ Vista\xAE/XP, Windows 7, Windows 8<br>\t</li><li><strong>Processor:</strong>:\
+        \ Intel\xAE CoreTM2 Duo 2.4 Ghz or better, AMD AthlonTM X2 2.8 Ghz or better\t\
+        \t<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA\xAE\
+        \ GeForce\xAE 8800GTS or better\t\t<br>\t</li><li><strong>DirectX\xAE:</strong>9.0c<br>\t\
+        </li><li><strong>Hard Drive:</strong>16 GB HD space<br>\t</li><li><strong>Sound:</strong>Standard\
+        \ audio device<br>\t</li><li><strong>Other Requirements:</strong>Broadband\
+        \ Internet connection</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows\
+        \ Vista\xAE/XP, Windows 7, Windows 8<br>\t</li><li><strong>Processor:</strong>Intel\xAE\
+        \ CoreTM2 Quad 2.7 Ghz or better, AMD PhenomTM II X4 3 Ghz or better<br>\t\
+        </li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA\xAE\
+        \ GeForce\xAE GTX 560 or better\t\t<br>\t</li><li><strong>DirectX\xAE:</strong>9.0c<br>\t\
+        </li><li><strong>Hard Drive:</strong>16 GB HD space<br>\t</li><li><strong>Sound:</strong>Standard\
+        \ audio device</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Capcom
+    release_date:
+      coming_soon: false
+      date: Apr 25, 2013
+    required_age: '16'
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_2c07fb279adca438bb30f9d844c3b4a6748100e5.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_2c07fb279adca438bb30f9d844c3b4a6748100e5.600x338.jpg?t=1592791086
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_3f7734f41a032e8a1e464b31dde7e4e39fd8c766.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_3f7734f41a032e8a1e464b31dde7e4e39fd8c766.600x338.jpg?t=1592791086
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_d1e43e8fc3044466215ccd5900e07cad6653802b.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_d1e43e8fc3044466215ccd5900e07cad6653802b.600x338.jpg?t=1592791086
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_15ad0a86ad575952ea1d7008662eb97b052d903d.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_15ad0a86ad575952ea1d7008662eb97b052d903d.600x338.jpg?t=1592791086
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_ddbf72db9d54689591a68b808e77f878467da18a.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_ddbf72db9d54689591a68b808e77f878467da18a.600x338.jpg?t=1592791086
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_b72a96090d30a8e002b888358da360834c44e624.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_b72a96090d30a8e002b888358da360834c44e624.600x338.jpg?t=1592791086
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_47d8584ecbade40d0bc516b100782d336f1cf450.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_47d8584ecbade40d0bc516b100782d336f1cf450.600x338.jpg?t=1592791086
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_d022a7fcc1c3070520db536efc3aa6bac6c42e80.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_d022a7fcc1c3070520db536efc3aa6bac6c42e80.600x338.jpg?t=1592791086
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_15b0776268f7eb7335f59965dc64a5467d562aa3.1920x1080.jpg?t=1592791086
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_15b0776268f7eb7335f59965dc64a5467d562aa3.600x338.jpg?t=1592791086
+    short_description: Adds the Siege game mode to the Extra Content menu of Resident
+      Evil 6! Protect the innocent civilians from the creatures until the rescue effort
+      arrives. Players can choose to be an agent helping the civilians, or a creature
+      hunting them down in this multiplayer mode that supports up to 6 players!
+    steam_appid: 232570
+    support_info:
+      email: ''
+      url: http://shop.capcom.com/store/capcomus/html/pbPage.capcom-support
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>,
+      Italian<strong>*</strong>, Polish, Portuguese - Brazil, Spanish - Spain<strong>*</strong>,
+      Russian<br><strong>*</strong>languages with full audio support
+    type: dlc
+    website: http://www.residentevil.com/6/
+  success: true
+reviews:
+  cursor: AoJwteCKy/YCcIvtvAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 6
+    review_score_desc: Mostly Positive
+    total_negative: 13
+    total_positive: 41
+    total_reviews: 54
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 82
+      num_reviews: 125
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198372326129'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '83060912'
+    review: This is like Left 4 Dead multiplayer. You can be a monster and wreak havoc
+      or play as a survivor and help civilians.
+    steam_purchase: true
+    timestamp_created: 1608837170
+    timestamp_updated: 1608837170
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

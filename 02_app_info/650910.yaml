@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: "\u300EThe Crusade of Baroque\u300F is coming !<br />\r\nThis\
+      \ DLC includes 12 new equip, 10000 Magical Amethyst and 2 Equip Bag."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/650910/page_bg_generated_v6b.jpg?t=1502897956
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Online PvP
+      id: 36
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "\u300EThe Crusade of Baroque\u300F is coming !<br />\r\n\
+      This DLC includes 12 new equip, 10000 Magical Amethyst and 2 Equip Bag."
+    developers:
+    - Dragon Wing Studio
+    fullgame:
+      appid: '613670'
+      name: The Chronicles of Dragon Wing - Reborn
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/650910/header.jpg?t=1502897956
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Chronicles of Dragon Wing - The Crusade of Baroque
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Chronicles of Dragon Wing - The Crusade of Baroque - $6.99
+        packageid: 183384
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: Buy The Chronicles of Dragon Wing - The Crusade of Baroque
+    packages:
+    - 183384
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7,10\uFF0832or64bit\uFF09<br></li><li><strong>Processor:</strong>\
+        \ Intel Core I3-7100<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>\
+        \ NVIDIA\xAE GeForce\xAE GTX 480, Intel\xAE HD Graphics 4400, ATI Radeon\u2122\
+        \ HD 5000<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB\
+        \ available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Dragon Wing Studio
+    release_date:
+      coming_soon: false
+      date: Aug 15, 2017
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/650910/ss_44d326fce0ce7ed7c7aa9f35023112bb614dc15c.1920x1080.jpg?t=1502897956
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/650910/ss_44d326fce0ce7ed7c7aa9f35023112bb614dc15c.600x338.jpg?t=1502897956
+    short_description: "\u300EThe Crusade of Baroque\u300F is coming !"
+    steam_appid: 650910
+    support_info:
+      email: melody_hcy@163.com
+      url: ''
+    supported_languages: Simplified Chinese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJw3ZCE/90CfZKMgwE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 6
+      num_reviews: 2
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198201997222'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '34365741'
+    review: buhaowan guolai gansiwo
+    steam_purchase: true
+    timestamp_created: 1503206082
+    timestamp_updated: 1503206082
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.479651182889938354'
+    written_during_early_access: false
+  success: 1
