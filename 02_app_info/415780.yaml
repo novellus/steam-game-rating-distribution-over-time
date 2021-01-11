@@ -1,15 +1,38 @@
 details:
   data:
-    about_the_game: The pigs have gone mad! They are roaming around the countryside,
-      driven by external forces and destroying everything they can lay their eyes
-      on. You thought you were safe.. But no... they're right there.. hundreds.. thousands..
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/415780/extras/BRPromoGif3.gif?t=1610129377"
+      /><br>The pigs have gone mad! They are roaming around the countryside, driven
+      by external forces and destroying everything they can lay their eyes on. You
+      thought you were safe.. But no... they're right there.. hundreds.. thousands..
       There is no hiding. You can only fight! It's up to you to stop this Bacon Rebellion
       and save yourself!<br>Use your weapons, gain perks and powerups to stop this
-      rebellion! Save the world from the rebellious pigs in endless gameplay in Survival
-      Mode!<br><br><strong>Features - </strong><br>Survival Mode<br>1HP Mode<br>Steam
-      Leaderboards<br>Steam Achievements<br>15 weapons<br>35+ perks<br>10+ power ups.<br>25
-      unlockable hats
-    background: https://steamcdn-a.akamaihd.net/steam/apps/415780/page_bg_generated_v6b.jpg?t=1608587136
+      rebellion! Save the world from the rebellious pigs!<br><br><strong>Features
+      - </strong><br>Normal Mode<br>1HP Mode<br>Steam Leaderboards<br>Steam Achievements<br>15
+      weapons<br>35+ perks<br>10+ power ups.<br>25 unlockable hats
+    achievements:
+      highlighted:
+      - name: Variety
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/cf25fd1f9fae3da3e1e455c1870d83dc049f78db.jpg
+      - name: 100 Enemies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/a9b2b100e38e6bdd079dde4ab09c65049a06f47d.jpg
+      - name: 5000 Enemies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/a10e4282ad0f6850710c46009d97290865c22f0e.jpg
+      - name: 1000 Enemies
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/6d6439d79a16f858203f99cc0d31f530ce0bb335.jpg
+      - name: I Like New Things
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/3fb7f7d74443cfd57484309fccfe53a6852b8a4c.jpg
+      - name: Open Playing Field
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/d16679d741862122bb86553466f5edd2b7f74ad4.jpg
+      - name: Accident?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/8a0606f50b35286d0ef2d4ec2b4c2b5a1f16239f.jpg
+      - name: Farm Fashion
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/d38bc6ec93ffde90c88d2552759f0d20135ee7da.jpg
+      - name: Combo Master
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/ab2b3318fb0931809d6ef0d5a931fa61950235a1.jpg
+      - name: Top Dog
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/415780/198a3baf0258f0548e4bfe05a98726ef9dfc1dfe.jpg
+      total: 18
+    background: https://steamcdn-a.akamaihd.net/steam/apps/415780/page_bg_generated_v6b.jpg?t=1610129377
     categories:
     - description: Single-player
       id: 2
@@ -26,15 +49,15 @@ details:
       - 2
       - 5
       notes: Cartoony violence and blood.
-    detailed_description: The pigs have gone mad! They are roaming around the countryside,
-      driven by external forces and destroying everything they can lay their eyes
-      on. You thought you were safe.. But no... they're right there.. hundreds.. thousands..
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/415780/extras/BRPromoGif3.gif?t=1610129377"
+      /><br>The pigs have gone mad! They are roaming around the countryside, driven
+      by external forces and destroying everything they can lay their eyes on. You
+      thought you were safe.. But no... they're right there.. hundreds.. thousands..
       There is no hiding. You can only fight! It's up to you to stop this Bacon Rebellion
       and save yourself!<br>Use your weapons, gain perks and powerups to stop this
-      rebellion! Save the world from the rebellious pigs in endless gameplay in Survival
-      Mode!<br><br><strong>Features - </strong><br>Survival Mode<br>1HP Mode<br>Steam
-      Leaderboards<br>Steam Achievements<br>15 weapons<br>35+ perks<br>10+ power ups.<br>25
-      unlockable hats
+      rebellion! Save the world from the rebellious pigs!<br><br><strong>Features
+      - </strong><br>Normal Mode<br>1HP Mode<br>Steam Leaderboards<br>Steam Achievements<br>15
+      weapons<br>35+ perks<br>10+ power ups.<br>25 unlockable hats
     developers:
     - Nauris Amatnieks
     genres:
@@ -44,7 +67,7 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/415780/header.jpg?t=1608587136
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/415780/header.jpg?t=1610129377
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -60,7 +83,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256813133/movie480_vp9.webm?t=1607599386
         max: http://steamcdn-a.akamaihd.net/steam/apps/256813133/movie_max_vp9.webm?t=1607599386
     name: Bacon Rebellion
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Bacon Rebellion - <span class="discount_original_price">$3.99</span>
+          $2.79
+        packageid: 83736
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 279
+      title: Buy Bacon Rebellion
+    packages:
+    - 83736
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7<br></li><li><strong>Processor:</strong> Intel Pentium 2ghz<br></li><li><strong>Memory:</strong>
@@ -70,37 +112,44 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 279
+      final_formatted: $2.79
+      initial: 399
+      initial_formatted: $3.99
     publishers:
     - Nauris Amatnieks
     release_date:
-      coming_soon: true
-      date: ''
+      coming_soon: false
+      date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_85ec326955b26fff308e19a388ead96cb96c951a.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_85ec326955b26fff308e19a388ead96cb96c951a.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_85ec326955b26fff308e19a388ead96cb96c951a.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_85ec326955b26fff308e19a388ead96cb96c951a.600x338.jpg?t=1610129377
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_986bacfa6cf485afafa7ae2cd0754bc60ab66f9d.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_986bacfa6cf485afafa7ae2cd0754bc60ab66f9d.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_986bacfa6cf485afafa7ae2cd0754bc60ab66f9d.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_986bacfa6cf485afafa7ae2cd0754bc60ab66f9d.600x338.jpg?t=1610129377
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d210606de704eab21ccd58d1f4903c8cbfd60b64.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d210606de704eab21ccd58d1f4903c8cbfd60b64.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d210606de704eab21ccd58d1f4903c8cbfd60b64.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d210606de704eab21ccd58d1f4903c8cbfd60b64.600x338.jpg?t=1610129377
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_53715ac9feb383c4e6940e5565c35eb6bbfe2a5c.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_53715ac9feb383c4e6940e5565c35eb6bbfe2a5c.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_53715ac9feb383c4e6940e5565c35eb6bbfe2a5c.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_53715ac9feb383c4e6940e5565c35eb6bbfe2a5c.600x338.jpg?t=1610129377
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3bcf97ad694f5aefdf6f92cdd75cb1f459cfc720.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3bcf97ad694f5aefdf6f92cdd75cb1f459cfc720.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3bcf97ad694f5aefdf6f92cdd75cb1f459cfc720.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3bcf97ad694f5aefdf6f92cdd75cb1f459cfc720.600x338.jpg?t=1610129377
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d766cf42df770772b91995a8fac2a3fe816f5709.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d766cf42df770772b91995a8fac2a3fe816f5709.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d766cf42df770772b91995a8fac2a3fe816f5709.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_d766cf42df770772b91995a8fac2a3fe816f5709.600x338.jpg?t=1610129377
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_1e7ac67997bf00c1343206529512e8cd06fe6d0a.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_1e7ac67997bf00c1343206529512e8cd06fe6d0a.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_1e7ac67997bf00c1343206529512e8cd06fe6d0a.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_1e7ac67997bf00c1343206529512e8cd06fe6d0a.600x338.jpg?t=1610129377
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3273e0dd8561eae95faebf9737dc05e6623fd3eb.1920x1080.jpg?t=1608587136
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3273e0dd8561eae95faebf9737dc05e6623fd3eb.600x338.jpg?t=1608587136
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3273e0dd8561eae95faebf9737dc05e6623fd3eb.1920x1080.jpg?t=1610129377
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/415780/ss_3273e0dd8561eae95faebf9737dc05e6623fd3eb.600x338.jpg?t=1610129377
     short_description: Do you ever want to just relax and slaughter something? Well,
       lucky for you, the pigs have gone mad! They are destroying everything! So grab
       your trusty double-barreled friend and put an end to this Bacon Rebellion!
@@ -113,13 +162,72 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJ4upqD8/YCcYjfwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 4 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_positive: 4
+    total_reviews: 4
+  reviews:
+  - author:
+      last_played: 1610175788
+      num_games_owned: 1148
+      num_reviews: 760
+      playtime_at_review: 103
+      playtime_forever: 103
+      playtime_last_two_weeks: 103
+      steamid: '76561198042023224'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '84342913'
+    review: "\uBB34\uD55C\uD788 \uBAB0\uB824\uC624\uB294 \uB3FC\uC9C0 \uB5BC\uC758\
+      \ \uB09C\uB3D9\uC744 \uC9C4\uC555\uD558\uB77C!\n\n\uAC15\uB825\uD55C \uD654\uB825\
+      \uC758 \uBB34\uAE30\uB97C \uD65C\uC6A9\uD574 \uBB34\uB9AC \uC9C0\uC5B4 \uBAB0\
+      \uB824\uC624\uB294 \uB3FC\uC9C0 \uB5BC\uB97C \uB3C4\uC0B4\uD574\uC57C \uD558\
+      \uB294 \uD0D1\uB2E4\uC6B4 \uC2DC\uC810\uC758 \uD2B8\uC708 \uC2A4\uD2F1 \uC288\
+      \uD305 \uAC8C\uC784. \uBB34\uC791\uC704\uB85C \uB4F1\uC7A5\uD558\uB294 \uBB34\
+      \uAE30\uB97C \uC9D1\uC5B4 \uB3FC\uC9C0\uB97C \uCC98\uCE58\uD558\uB294 \uC0C1\
+      \uB2F9\uD788 \uB2E8\uC21C\uD55C \uBC29\uC2DD\uC758 \uC288\uD305 \uAC8C\uC784\
+      \uC774\uACE0, \uB85C\uADF8\uB77C\uC774\uD06C\uB77C\uAE30\uBCF4\uB2E8 \uB2E8\uC21C\
+      \ \uC544\uCF00\uC774\uB4DC\uC5D0 \uB354 \uAC00\uAE4C\uC6B4 \uAC8C\uC784\uC774\
+      \uB2E4. \uD2B9\uC720\uC758 \uD53D\uC140 \uADF8\uB798\uD53D\uACFC \uBC30\uACBD\
+      \uC74C\uC545\uC740 \uBB34\uB09C\uD55C \uAC00\uC6B4\uB370, \uB3FC\uC9C0 \uBB34\
+      \uB9AC\uB294 \uD55C \uBC88\uC5D0 \uD130\uD2B8\uB9AC\uB294 \uCF8C\uAC10 \uD558\
+      \uB098\uB9CC\uD07C\uC740 \uC77C\uD488\uC774\uB2E4. \uC77C\uBC18 \uAC8C\uC784\
+      \ \uBAA8\uB4DC\uC640 \uB354\uBD88\uC5B4 \uC77C\uC885\uC758 \uD558\uB4DC\uCF54\
+      \uC5B4 \uBAA8\uB4DC\uC778 1 HP \uBAA8\uB4DC\uAC00 \uC900\uBE44\uB3FC\uC788\uAE34\
+      \ \uD558\uC9C0\uB9CC, \uD55C \uBC88 \uB9DE\uC73C\uBA74 \uC8FD\uB294\uB2E4\uB294\
+      \ \uC810 \uBE7C\uACE4 \uB531\uD788 \uCC28\uBCC4\uD654\uB418\uB294 \uC810\uC740\
+      \ \uC5C6\uB2E4.\n\n\uB79C\uB364\uD558\uAC8C \uB098\uC624\uB294 \uBB34\uAE30\uB97C\
+      \ \uC7A1\uC544 \uB3FC\uC9C0 \uB5BC\uB97C \uCC98\uCE58\uD558\uACE0 \uB808\uBCA8\
+      \uC744 \uC62C\uB9B4 \uB54C\uB9C8\uB2E4 \uB4F1\uC7A5\uD558\uB294 \uD37D\uC744\
+      \ \uACE8\uB77C \uC2A4\uD0EF\uC744 \uC62C\uB9AC\uB294 \uAC8C\uC784\uD50C\uB808\
+      \uC774\uB294 \uBB34\uB09C\uD788 \uC7AC\uBC0C\uB2E4. \uC774\uB530\uAE08\uC529\
+      \ \uBAA8\uC790\uB97C \uC4F0\uACE0 \uB098\uC624\uB294 \uB3FC\uC9C0\uB97C \uCC98\
+      \uCE58\uD558\uBA74 \uBAA8\uC790\uB97C \uC218\uC9D1\uD560 \uC218 \uC788\uACE0\
+      , \uC218\uC9D1\uD55C \uBAA8\uC790\uB294 \uB2E4\uC74C \uAC8C\uC784\uC5D0 \uCC29\
+      \uC6A9\uD560 \uC218 \uC788\uC5B4 \uC218\uC9D1\uC758 \uC7AC\uBBF8\uB3C4 \uC18C\
+      \uC18C\uD558\uAC8C\uB098\uB9C8 \uAC16\uCDC4\uB2E4. \uB2E4\uB9CC \uAC8C\uC784\
+      \uD50C\uB808\uC774 \uC790\uCCB4\uAC00 \uC9C0\uADF9\uD788 \uB2E8\uC21C\uD55C\uB370\
+      \uB2E4\uAC00 \uCEE8\uD150\uCE20\uB3C4 \uD55C\uC815\uC801\uC774\uACE0 \uBB34\uAE30\
+      \uC758 \uBC38\uB7F0\uC2A4\uAC00 \uC601 \uC88B\uC9C0 \uC54A\uC544 (\uBC14\uC8FC\
+      \uCE74\uD3EC\uAC00 \uC555\uB3C4\uC801\uC73C\uB85C \uC88B\uB2E4.) \uD55C\uACC4\
+      \uAC00 \uBA85\uD655\uD558\uB2E4. \n\n\uCEE8\uD150\uCE20\uB098 \uC644\uC131\uB3C4\
+      \uC5D0 \uBE44\uD574 \uAC00\uACA9\uC774 \uC870\uAE08 \uB192\uC740 \uAC10\uC740\
+      \ \uC788\uC9C0\uB9CC, \uC5B4\uCA0C\uB4E0 \uC2DC\uAC04 \uC8FD\uC774\uAE30 \uC6A9\
+      \uB3C4\uB85C \uAC00\uBCCD\uAC8C \uC990\uAE30\uAE30\uB85C\uB294 \uADF8\uB7ED\uC800\
+      \uB7ED \uD560 \uB9CC\uD55C \uAC8C\uC784\uC774\uB2E4. \uB3C4\uC804\uACFC\uC81C\
+      \uB3C4 \uB9E4\uC6B0 \uC26C\uC6B4 \uD3B8\uC774\uB2C8 \uC774 \uCABD\uC744 \uB178\
+      \uB824\uBD10\uB3C4 \uC88B\uB2E4."
+    steam_purchase: true
+    timestamp_created: 1610177369
+    timestamp_updated: 1610177369
+    voted_up: true
+    votes_funny: 2
+    votes_up: 6
+    weighted_vote_score: '0.610259830951690674'
+    written_during_early_access: false
   success: 1

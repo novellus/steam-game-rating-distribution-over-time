@@ -14,7 +14,7 @@ details:
       Use shovel for different tasks<br>     - Create a candle to explore dark dungeons<br>     -
       And many more...<br>- Discover hidden items<br>- Fight monsters and the final
       boss<br>- Explore and solve puzzles'
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1480050/page_bg_generated_v6b.jpg?t=1609420649
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1480050/page_bg_generated_v6b.jpg?t=1610250342
     categories:
     - description: Single-player
       id: 2
@@ -46,7 +46,7 @@ details:
       id: '23'
     - description: RPG
       id: '3'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1480050/header.jpg?t=1609420649
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1480050/header.jpg?t=1610250342
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -62,7 +62,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816569/movie480_vp9.webm?t=1609032836
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816569/movie_max_vp9.webm?t=1609032836
     name: 'Survival RPG: The Lost Treasure'
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Survival RPG: The lost treasure - $2.99'
+        packageid: 521376
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: 'Buy Survival RPG: The Lost Treasure'
+    packages:
+    - 521376
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
@@ -70,40 +88,47 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
     publishers:
     - Bew Games
     release_date:
-      coming_soon: true
-      date: January 2021
+      coming_soon: false
+      date: Jan 9, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_71c3927427b36454390d5f5ad2fb58629259acd1.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_71c3927427b36454390d5f5ad2fb58629259acd1.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_71c3927427b36454390d5f5ad2fb58629259acd1.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_71c3927427b36454390d5f5ad2fb58629259acd1.600x338.jpg?t=1610250342
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_a7671d1a3395cc5966373e0778c8182a97836418.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_a7671d1a3395cc5966373e0778c8182a97836418.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_a7671d1a3395cc5966373e0778c8182a97836418.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_a7671d1a3395cc5966373e0778c8182a97836418.600x338.jpg?t=1610250342
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_643148be426f8ea2886951ed2f9b1c0b7ef2a388.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_643148be426f8ea2886951ed2f9b1c0b7ef2a388.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_643148be426f8ea2886951ed2f9b1c0b7ef2a388.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_643148be426f8ea2886951ed2f9b1c0b7ef2a388.600x338.jpg?t=1610250342
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_dcdcc30f1b3484117e108e89d36ccb622df7aca3.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_dcdcc30f1b3484117e108e89d36ccb622df7aca3.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_dcdcc30f1b3484117e108e89d36ccb622df7aca3.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_dcdcc30f1b3484117e108e89d36ccb622df7aca3.600x338.jpg?t=1610250342
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_1d2002edbc29bf5fcac34a0e571b572e87fd01c9.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_1d2002edbc29bf5fcac34a0e571b572e87fd01c9.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_1d2002edbc29bf5fcac34a0e571b572e87fd01c9.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_1d2002edbc29bf5fcac34a0e571b572e87fd01c9.600x338.jpg?t=1610250342
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_fc9a9fd243e04aeeebf3e5995c49afd38a9bb132.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_fc9a9fd243e04aeeebf3e5995c49afd38a9bb132.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_fc9a9fd243e04aeeebf3e5995c49afd38a9bb132.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_fc9a9fd243e04aeeebf3e5995c49afd38a9bb132.600x338.jpg?t=1610250342
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_06da64938567ba97345060c0b1e71fec1aa67b62.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_06da64938567ba97345060c0b1e71fec1aa67b62.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_06da64938567ba97345060c0b1e71fec1aa67b62.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_06da64938567ba97345060c0b1e71fec1aa67b62.600x338.jpg?t=1610250342
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_f4fc939ad8fc7ad3c1f5b661d923ce7de5c5c0e9.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_f4fc939ad8fc7ad3c1f5b661d923ce7de5c5c0e9.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_f4fc939ad8fc7ad3c1f5b661d923ce7de5c5c0e9.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_f4fc939ad8fc7ad3c1f5b661d923ce7de5c5c0e9.600x338.jpg?t=1610250342
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_b5624db6bde5d1edbda4fabb50e8e3004b79036a.1920x1080.jpg?t=1609420649
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_b5624db6bde5d1edbda4fabb50e8e3004b79036a.600x338.jpg?t=1609420649
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_b5624db6bde5d1edbda4fabb50e8e3004b79036a.1920x1080.jpg?t=1610250342
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1480050/ss_b5624db6bde5d1edbda4fabb50e8e3004b79036a.600x338.jpg?t=1610250342
     short_description: 'Survival RPG: The lost treasure is a retro rpg game with a
       survival twist. It combines adventure, exploration, RPG and survival in a 2D
       pixel art universe.'

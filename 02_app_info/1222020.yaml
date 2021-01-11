@@ -1,0 +1,199 @@
+details:
+  data:
+    about_the_game: "BustaShip is an action rhythm arcade game in which you fly a\
+      \ ship through a tunnel whilst trying to avoid all of the obstacles in your\
+      \ way, backed by some wicked beats and stylish visuals!<br />\r\nFly through\
+      \ a series of challenging and difficult levels, but if you touch anything, game\
+      \ over man!<br />\r\nDo you have what it takes to overcome all of the musical\
+      \ tracks, or claim the high score in the ever evolving infinite mode!?<br />\r\
+      \nCompare high scores with friends to see who is the ultimate rhythm pilot"
+    achievements:
+      highlighted:
+      - name: First Steps
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222020/29dd1478d5798ed61c4d759ada9866344fe7599b.jpg
+      - name: Getting there!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222020/a91754e871ec8df8268562c630635b0f5f424d7b.jpg
+      - name: Survive one
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222020/d69977bbb073fa1a834079b35b46bd449c07080e.jpg
+      - name: Survive two
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222020/4ecdff4bad926be17e49d478d9ae20a386a61000.jpg
+      - name: Survive four
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222020/73b9c66f9dfbd801c13242be49b5d7fa21a0eb01.jpg
+      - name: Survive five
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222020/5ffad1b256a31a3dd520d6ab7e333882da622e42.jpg
+      total: 6
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1222020/page_bg_generated_v6b.jpg?t=1592886030
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "BustaShip is an action rhythm arcade game in which you\
+      \ fly a ship through a tunnel whilst trying to avoid all of the obstacles in\
+      \ your way, backed by some wicked beats and stylish visuals!<br />\r\nFly through\
+      \ a series of challenging and difficult levels, but if you touch anything, game\
+      \ over man!<br />\r\nDo you have what it takes to overcome all of the musical\
+      \ tracks, or claim the high score in the ever evolving infinite mode!?<br />\r\
+      \nCompare high scores with friends to see who is the ultimate rhythm pilot"
+    developers:
+    - robbiesla
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1222020/header.jpg?t=1592886030
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    movies:
+    - highlight: true
+      id: 256789840
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256789840/movie480.mp4?t=1592462977
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256789840/movie_max.mp4?t=1592462977
+      name: Early access trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256789840/movie.293x165.jpg?t=1592462977
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256789840/movie480_vp9.webm?t=1592462977
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256789840/movie_max_vp9.webm?t=1592462977
+    name: BustaShip
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: BustaShip - $7.99
+        packageid: 423290
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 799
+      title: Buy BustaShip
+    packages:
+    - 423290
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        or higher<br></li><li><strong>Processor:</strong> Dual-core 3ghz or higher<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 960 /Radeon 280<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional
+        Notes:</strong> Bustaship is an early access title, The minimum specifications
+        may change during development</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 799
+      final_formatted: $7.99
+      initial: 799
+      initial_formatted: ''
+    publishers:
+    - robbiesla
+    release_date:
+      coming_soon: false
+      date: Jun 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_afb64b1c667ceafeb9c7b969b659dd8bb4e8c6a6.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_afb64b1c667ceafeb9c7b969b659dd8bb4e8c6a6.600x338.jpg?t=1592886030
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_c1fb0d98e061466516b4dc33a70692f65890b27e.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_c1fb0d98e061466516b4dc33a70692f65890b27e.600x338.jpg?t=1592886030
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_eb1ef866775bd2ef988fd21f4273b8731fed743e.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_eb1ef866775bd2ef988fd21f4273b8731fed743e.600x338.jpg?t=1592886030
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_6e9c02fcbfdc6da5538aa63d5c24e0c033d46d01.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_6e9c02fcbfdc6da5538aa63d5c24e0c033d46d01.600x338.jpg?t=1592886030
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_7af4b198eecb9c634cbb019aa7d88751d61c008a.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_7af4b198eecb9c634cbb019aa7d88751d61c008a.600x338.jpg?t=1592886030
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_721a3ef88ff3a1186f3c4ee61cc201853ba24552.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_721a3ef88ff3a1186f3c4ee61cc201853ba24552.600x338.jpg?t=1592886030
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_99db743fa76d9e175533e1dd22c27dde7fbcd73d.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_99db743fa76d9e175533e1dd22c27dde7fbcd73d.600x338.jpg?t=1592886030
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_1f324ebb3276da52790d0b2fcd86e575068c9815.1920x1080.jpg?t=1592886030
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1222020/ss_1f324ebb3276da52790d0b2fcd86e575068c9815.600x338.jpg?t=1592886030
+    short_description: BustaShip is an action rhythm arcade game in which you fly
+      a ship through a tunnel whilst trying to avoid all of the obstacles in your
+      way, backed by some wicked beats and stylish visuals! Do you have what it takes
+      to overcome all of the challenging musical tracks available?
+    steam_appid: 1222020
+    support_info:
+      email: robbiesla@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4+YH0svYCdbCyugI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 17
+    total_reviews: 17
+  reviews:
+  - author:
+      last_played: 1598998786
+      num_games_owned: 319
+      num_reviews: 3
+      playtime_at_review: 203
+      playtime_forever: 203
+      playtime_last_two_weeks: 0
+      steamid: '76561197973742248'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '82416389'
+    review: "This game is certified LIT.\n\nNot often does a game and ESPECIALLY a\
+      \ Single-player game catch me right in the ecstatic pleasure center - you heard\
+      \ it here... THIS GAME GIVES ME ECSTASY. HIGH OCTANE SHIP BASED DEATH AVOIDANCE\
+      \ GAMEPLAY makes for a GRIPPING and ADRENALINE PUMPING experience! \n\nNow if\
+      \ you're into drugs or just plain old unadulterated human feels YOU WILL ENJOY\
+      \ THIS GAME.\n\nIt's challenging, aurally pleasurable, visually stunning and\
+      \ for true adrenaline seekers.\n\nScreenshots or trailers won't do this game\
+      \ justice - this game is a MUST TRY!\n\n10/10"
+    steam_purchase: true
+    timestamp_created: 1608025903
+    timestamp_updated: 1608025903
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
+  success: 1

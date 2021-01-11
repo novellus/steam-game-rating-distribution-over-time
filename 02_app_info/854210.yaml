@@ -13,7 +13,30 @@ details:
       - Special sub-modes to mix up the game formula<br />\r\n- Leaderboards to compete\
       \ with fellow blackbelts<br />\r\n- Dying<br />\r\n- Expert mode for extended\
       \ dying"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/854210/page_bg_generated_v6b.jpg?t=1608661938
+    achievements:
+      highlighted:
+      - name: RIP
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/0aeb503647bb381572a36f39d264503766fe4b7b.jpg
+      - name: The First Steps
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/b4964932108e82cd56e9aaf9517b05054c176532.jpg
+      - name: Getting The Hang Of It
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/b7a99efb2cf04138e5f7c2d3a7af76bbf6be98ff.jpg
+      - name: The Belt Is Always Greener
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/2944cc5aa19d7a6ecf5ccaef40077530f6136c26.jpg
+      - name: The Midway Point
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/73577fba034f5600d3595917809b476e8babdf17.jpg
+      - name: Gateway To Heaven
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/19fce1b562c4bb440a7018172c47c1c89caf5977.jpg
+      - name: Blood Stained
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/bfc9d42544d4f449c3541b41dcc29617d1457ea8.jpg
+      - name: Not Bad I Guess
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/b21cc5a2406089773cf03f6473dd9223332d8f6b.jpg
+      - name: Ice Demon
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/3956da651bb1fab7ca468614d9bef2e04f478bac.jpg
+      - name: Snow World
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/854210/f68af8e1314ee92c5b0323c29d44618a58e2300d.jpg
+      total: 23
+    background: https://steamcdn-a.akamaihd.net/steam/apps/854210/page_bg_generated_v6b.jpg?t=1610138849
     categories:
     - description: Single-player
       id: 2
@@ -46,7 +69,7 @@ details:
       id: '37'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/854210/header.jpg?t=1608661938
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/854210/header.jpg?t=1610138849
     is_free: true
     linux_requirements: []
     mac_requirements: []
@@ -88,37 +111,37 @@ details:
     publishers:
     - Suits & Sandals
     release_date:
-      coming_soon: true
-      date: ''
+      coming_soon: false
+      date: Jan 7, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_ef8665f507b640f0147355b6240bf1b84b6f6eba.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_ef8665f507b640f0147355b6240bf1b84b6f6eba.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_ef8665f507b640f0147355b6240bf1b84b6f6eba.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_ef8665f507b640f0147355b6240bf1b84b6f6eba.600x338.jpg?t=1610138849
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_08ad94cfdc91e47c44ac945760cc5274c4f154a4.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_08ad94cfdc91e47c44ac945760cc5274c4f154a4.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_08ad94cfdc91e47c44ac945760cc5274c4f154a4.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_08ad94cfdc91e47c44ac945760cc5274c4f154a4.600x338.jpg?t=1610138849
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5e71af4fc6c4bd74c2eba3361a9b0dc424658359.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5e71af4fc6c4bd74c2eba3361a9b0dc424658359.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5e71af4fc6c4bd74c2eba3361a9b0dc424658359.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5e71af4fc6c4bd74c2eba3361a9b0dc424658359.600x338.jpg?t=1610138849
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_414cfa5709bb4d3db42d844be5dd13525ae6c6eb.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_414cfa5709bb4d3db42d844be5dd13525ae6c6eb.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_414cfa5709bb4d3db42d844be5dd13525ae6c6eb.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_414cfa5709bb4d3db42d844be5dd13525ae6c6eb.600x338.jpg?t=1610138849
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_f59b7adfb812443450a7fead199cc57b1038d4c5.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_f59b7adfb812443450a7fead199cc57b1038d4c5.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_f59b7adfb812443450a7fead199cc57b1038d4c5.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_f59b7adfb812443450a7fead199cc57b1038d4c5.600x338.jpg?t=1610138849
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_827e29230c89dcb49d523db249ec8cbbd8081cd0.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_827e29230c89dcb49d523db249ec8cbbd8081cd0.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_827e29230c89dcb49d523db249ec8cbbd8081cd0.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_827e29230c89dcb49d523db249ec8cbbd8081cd0.600x338.jpg?t=1610138849
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_195949bd219ad90c3b7cfee3efac42914fd7a391.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_195949bd219ad90c3b7cfee3efac42914fd7a391.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_195949bd219ad90c3b7cfee3efac42914fd7a391.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_195949bd219ad90c3b7cfee3efac42914fd7a391.600x338.jpg?t=1610138849
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_6a70172f80ac340105c9dced2f3f7f81f2e56dc9.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_6a70172f80ac340105c9dced2f3f7f81f2e56dc9.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_6a70172f80ac340105c9dced2f3f7f81f2e56dc9.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_6a70172f80ac340105c9dced2f3f7f81f2e56dc9.600x338.jpg?t=1610138849
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5c51680e016890721e88a09f0bd0235e3e01107f.1920x1080.jpg?t=1608661938
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5c51680e016890721e88a09f0bd0235e3e01107f.600x338.jpg?t=1608661938
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5c51680e016890721e88a09f0bd0235e3e01107f.1920x1080.jpg?t=1610138849
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/854210/ss_5c51680e016890721e88a09f0bd0235e3e01107f.600x338.jpg?t=1610138849
     short_description: How long can you survive? In this arcade-style game, employ
       hand to hand combat and freeze your enemies to get as many kills as possible
       before you are defeated.

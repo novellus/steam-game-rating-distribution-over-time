@@ -11,7 +11,30 @@ details:
       A solution is always easy to verify, but may be hard to find.<br>If you make
       a mistake, the penguin will be stuck forever or die.<br>Once you think you have
       a correct configuration, press the button &quot;Try&quot; to see the result.'
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1504220/page_bg_generated_v6b.jpg?t=1609345571
+    achievements:
+      highlighted:
+      - name: The floor is lava
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Twisted hallway
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Trigger I
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Trigger II
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Trigger III
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Trigger IV
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Trigger V
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Spin I
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Spin II
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      - name: Pressure I
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504220/239e00ffd15673540893d49c04e2d7b51aeed836.jpg
+      total: 38
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1504220/page_bg_generated_v6b.jpg?t=1609911814
     categories:
     - description: Single-player
       id: 2
@@ -42,7 +65,7 @@ details:
       id: '23'
     - description: Strategy
       id: '2'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1504220/header.jpg?t=1609345571
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1504220/header.jpg?t=1609911814
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
@@ -65,8 +88,27 @@ details:
       webm:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256814674/movie480_vp9.webm?t=1608665893
         max: http://steamcdn-a.akamaihd.net/steam/apps/256814674/movie_max_vp9.webm?t=1608665893
-    name: The Penguin IQ Test - Series 1
-    package_groups: []
+    name: The Penguin IQ Test
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Penguin IQ Test - <span class="discount_original_price">$11.99</span>
+          $7.19
+        packageid: 530375
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 719
+      title: Buy The Penguin IQ Test
+    packages:
+    - 530375
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
         processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong>
@@ -78,28 +120,35 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 719
+      final_formatted: $7.19
+      initial: 1199
+      initial_formatted: $11.99
     publishers:
     - Paul Demanze
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 5, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_311220b6e659db3753641853f91d2ee9a291518d.1920x1080.jpg?t=1609345571
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_311220b6e659db3753641853f91d2ee9a291518d.600x338.jpg?t=1609345571
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_311220b6e659db3753641853f91d2ee9a291518d.1920x1080.jpg?t=1609911814
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_311220b6e659db3753641853f91d2ee9a291518d.600x338.jpg?t=1609911814
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_40533b79d28614273207552bf1ab9fa0f4e7da75.1920x1080.jpg?t=1609345571
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_40533b79d28614273207552bf1ab9fa0f4e7da75.600x338.jpg?t=1609345571
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_40533b79d28614273207552bf1ab9fa0f4e7da75.1920x1080.jpg?t=1609911814
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_40533b79d28614273207552bf1ab9fa0f4e7da75.600x338.jpg?t=1609911814
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_29da6c2c027fc15c844738e6654462f826b767aa.1920x1080.jpg?t=1609345571
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_29da6c2c027fc15c844738e6654462f826b767aa.600x338.jpg?t=1609345571
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_29da6c2c027fc15c844738e6654462f826b767aa.1920x1080.jpg?t=1609911814
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_29da6c2c027fc15c844738e6654462f826b767aa.600x338.jpg?t=1609911814
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_9736e4bef48670ba3441f07c468aca291f5ba37b.1920x1080.jpg?t=1609345571
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_9736e4bef48670ba3441f07c468aca291f5ba37b.600x338.jpg?t=1609345571
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_9736e4bef48670ba3441f07c468aca291f5ba37b.1920x1080.jpg?t=1609911814
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_9736e4bef48670ba3441f07c468aca291f5ba37b.600x338.jpg?t=1609911814
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_09ca286ba0f21ec51a7292ce10b85a98b824f133.1920x1080.jpg?t=1609345571
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_09ca286ba0f21ec51a7292ce10b85a98b824f133.600x338.jpg?t=1609345571
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_09ca286ba0f21ec51a7292ce10b85a98b824f133.1920x1080.jpg?t=1609911814
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504220/ss_09ca286ba0f21ec51a7292ce10b85a98b824f133.600x338.jpg?t=1609911814
     short_description: Are you intelligent enough to save the penguin? Help him get
       back to the ice floe.
     steam_appid: 1504220

@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: A small dog friend to keep you company on your mall adventure!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1500430/page_bg_generated_v6b.jpg?t=1608638979
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: A small dog friend to keep you company on your mall adventure!
+    developers:
+    - Cyan Dreams
+    fullgame:
+      appid: '1398750'
+      name: Sunset Mall
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1500430/header.jpg?t=1608638979
+    is_free: false
+    legal_notice: "\xA9 2019-2020 Cyan Dreams All rights reserved. Developed and Published\
+      \ by Cyan Dreams.<br />\r\nSunset Mall and their respective logos are registered\
+      \ trademarks of Cyan Dreams.<br />\r\nAll other trademarks are properties of\
+      \ their respective owners."
+    linux_requirements: []
+    mac_requirements: []
+    name: Sunset Mall - Dog Bundle
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sunset Mall - Dog Bundle - $0.99
+        packageid: 528890
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Sunset Mall - Dog Bundle
+    packages:
+    - 528890
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7+</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Cyan Dreams
+    release_date:
+      coming_soon: false
+      date: Dec 22, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500430/ss_deaeff6e76f6f75969ceb6eb8525f6f8c041dd44.1920x1080.jpg?t=1608638979
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500430/ss_deaeff6e76f6f75969ceb6eb8525f6f8c041dd44.600x338.jpg?t=1608638979
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500430/ss_95f07e6d6fe165b075d3e9f7df6db54624fcc632.1920x1080.jpg?t=1608638979
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500430/ss_95f07e6d6fe165b075d3e9f7df6db54624fcc632.600x338.jpg?t=1608638979
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1500430/ss_a7fdabee69cea00a273bd353d3a342494648216d.1920x1080.jpg?t=1608638979
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1500430/ss_a7fdabee69cea00a273bd353d3a342494648216d.600x338.jpg?t=1608638979
+    short_description: A small dog friend to keep you company on your mall adventure!
+    steam_appid: 1500430
+    support_info:
+      email: cyandreamsgames@gmail.com
+      url: https://discord.gg/6GqKENp
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

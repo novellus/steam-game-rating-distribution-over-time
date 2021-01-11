@@ -27,7 +27,7 @@ details:
       \ the bureau just said, if you have to go, do n\u2019t stop, send some other\
       \ comrades Just wait outside the pit. &quot;<br><br>Liu Qingchun touched the\
       \ bridge of his nose, pondered for a moment, and said, &quot;Go to No. 4 cemetery.&quot;"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1232410/page_bg_generated_v6b.jpg?t=1609081950
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1232410/page_bg_generated_v6b.jpg?t=1610343800
     categories:
     - description: Single-player
       id: 2
@@ -72,7 +72,7 @@ details:
       id: '23'
     - description: RPG
       id: '3'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1232410/header.jpg?t=1609081950
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1232410/header.jpg?t=1610343800
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
@@ -146,7 +146,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256772940/movie480.webm?t=1609081927
         max: http://steamcdn-a.akamaihd.net/steam/apps/256772940/movie_max.webm?t=1609081927
     name: "\u5B59\u7F8E\u742A\u7591\u6848 \u7B2C\u4E8C\u5B63"
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "\u5B59\u7F8E\u742A\u7591\u6848 \u7B2C\u4E8C\u5B63 - <span class=\"\
+          discount_original_price\">$3.99</span> $3.19"
+        packageid: 427366
+        percent_savings: 0
+        percent_savings_text: '-20% '
+        price_in_cents_with_discount: 319
+      title: "Buy \u5B59\u7F8E\u742A\u7591\u6848 \u7B2C\u4E8C\u5B63"
+    packages:
+    - 427366
     pc_requirements:
       minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit\
         \ processor and operating system<br></li><li><strong>OS:</strong> Windows\
@@ -164,31 +183,38 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 20
+      final: 319
+      final_formatted: $3.19
+      initial: 399
+      initial_formatted: $3.99
     publishers:
     - H.P.Y.S,LLC
     release_date:
-      coming_soon: true
-      date: Jan 6, 2021
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b6c98f6dfa11361495b2331aaa05668ce4fcfd88.1920x1080.jpg?t=1609081950
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b6c98f6dfa11361495b2331aaa05668ce4fcfd88.600x338.jpg?t=1609081950
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b6c98f6dfa11361495b2331aaa05668ce4fcfd88.1920x1080.jpg?t=1610343800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b6c98f6dfa11361495b2331aaa05668ce4fcfd88.600x338.jpg?t=1610343800
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_8f327654ab0112e226d599fe6dc15c487a525ac9.1920x1080.jpg?t=1609081950
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_8f327654ab0112e226d599fe6dc15c487a525ac9.600x338.jpg?t=1609081950
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_8f327654ab0112e226d599fe6dc15c487a525ac9.1920x1080.jpg?t=1610343800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_8f327654ab0112e226d599fe6dc15c487a525ac9.600x338.jpg?t=1610343800
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b15377f69203fb6694df86caa9a54b55039167b2.1920x1080.jpg?t=1609081950
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b15377f69203fb6694df86caa9a54b55039167b2.600x338.jpg?t=1609081950
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b15377f69203fb6694df86caa9a54b55039167b2.1920x1080.jpg?t=1610343800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_b15377f69203fb6694df86caa9a54b55039167b2.600x338.jpg?t=1610343800
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_154f82ca2264fbd5c5af0fa2dc06819b3111ad4c.1920x1080.jpg?t=1609081950
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_154f82ca2264fbd5c5af0fa2dc06819b3111ad4c.600x338.jpg?t=1609081950
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_154f82ca2264fbd5c5af0fa2dc06819b3111ad4c.1920x1080.jpg?t=1610343800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_154f82ca2264fbd5c5af0fa2dc06819b3111ad4c.600x338.jpg?t=1610343800
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_d36e818e99f1137dbb06377f02346c711898929d.1920x1080.jpg?t=1609081950
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_d36e818e99f1137dbb06377f02346c711898929d.600x338.jpg?t=1609081950
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_d36e818e99f1137dbb06377f02346c711898929d.1920x1080.jpg?t=1610343800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_d36e818e99f1137dbb06377f02346c711898929d.600x338.jpg?t=1610343800
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_89d8826fe75a97e0d7f38e2e8651f6d7f6391b76.1920x1080.jpg?t=1609081950
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_89d8826fe75a97e0d7f38e2e8651f6d7f6391b76.600x338.jpg?t=1609081950
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_89d8826fe75a97e0d7f38e2e8651f6d7f6391b76.1920x1080.jpg?t=1610343800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1232410/ss_89d8826fe75a97e0d7f38e2e8651f6d7f6391b76.600x338.jpg?t=1610343800
     short_description: The sequel to the original indie game &quot;Sun Meiqi&quot;
       was created by the original team. Innovative logical reasoning gameplay, combined
       with real 3D interaction. The horrible reasoning puzzle game, all the clues

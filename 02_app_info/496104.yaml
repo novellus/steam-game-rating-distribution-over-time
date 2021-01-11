@@ -1,0 +1,129 @@
+details:
+  data:
+    about_the_game: PCI Express (PCIe) is a standard interface that provides high-bandwidth
+      communication between devices in a computer. New PCI Express 4.0 interfaces
+      provide up to twice the bandwidth of PCI Express 3.0. With more bandwidth, games
+      can transfer more data, reduce loading times, and support more complex scenes.
+      <br><br>This 3DMark feature test measures the bandwidth available to your GPU
+      over your system's PCI Express interface.<br><br><ul class="bb_ul"><li> Measure
+      the bandwidth available to your GPU over PCIe.<br></li><li> Test the performance
+      of the latest PCIe 4.0 hardware.<br></li><li> Compare the bandwidth of PCIe
+      4.0 and PCIe 3.0 interfaces.</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/496104/page_bg_generated_v6b.jpg?t=1579598698
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: PCI Express (PCIe) is a standard interface that provides
+      high-bandwidth communication between devices in a computer. New PCI Express
+      4.0 interfaces provide up to twice the bandwidth of PCI Express 3.0. With more
+      bandwidth, games can transfer more data, reduce loading times, and support more
+      complex scenes. <br><br>This 3DMark feature test measures the bandwidth available
+      to your GPU over your system's PCI Express interface.<br><br><ul class="bb_ul"><li>
+      Measure the bandwidth available to your GPU over PCIe.<br></li><li> Test the
+      performance of the latest PCIe 4.0 hardware.<br></li><li> Compare the bandwidth
+      of PCIe 4.0 and PCIe 3.0 interfaces.</li></ul>
+    developers:
+    - UL
+    fullgame:
+      appid: '223850'
+      name: 3DMark
+    genres:
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/496104/header.jpg?t=1579598698
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: 3DMark PCI Express feature test
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 3DMark - $29.99
+        packageid: 323175
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2999
+      title: Buy 3DMark PCI Express feature test
+    packages:
+    - 323175
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows\
+        \ 10 64bit<br>\t</li><li><strong>Processor:</strong>Dual core processor<br>\t\
+        </li><li><strong>Graphics:</strong>Dedicated graphics card with DirectX 12\
+        \ support<br>\t</li><li><strong>Memory:</strong>12 GB<br>\t</li><li><strong>Video\
+        \ memory:</strong>4 GB<br>\t</li><li><strong>Storage:</strong>170 MB</li></ul><br>You\
+        \ need a DirectX 12 compatible discrete graphics card to run this test. The\
+        \ test will not run on systems that have only integrated graphics. External\
+        \ GPU enclosures are not supported."
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - UL
+    release_date:
+      coming_soon: false
+      date: Jun 25, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_02f312d3ad9f629c4cf8f1ea2b3f7128f97ff7fd.1920x1080.jpg?t=1579598698
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_02f312d3ad9f629c4cf8f1ea2b3f7128f97ff7fd.600x338.jpg?t=1579598698
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_5462e1672e31bdbd7fb147203e3cb41e79b1bd29.1920x1080.jpg?t=1579598698
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_5462e1672e31bdbd7fb147203e3cb41e79b1bd29.600x338.jpg?t=1579598698
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_e477c09d32a0156444848a903e9d9b38c2d205cc.1920x1080.jpg?t=1579598698
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_e477c09d32a0156444848a903e9d9b38c2d205cc.600x338.jpg?t=1579598698
+    short_description: Test the PCI Express bandwidth performance of your PC.
+    steam_appid: 496104
+    support_info:
+      email: ''
+      url: https://benchmarks.ul.com/support
+    supported_languages: English, German, Simplified Chinese, Russian, Spanish - Spain,
+      Japanese, Korean, Traditional Chinese
+    type: dlc
+    website: https://benchmarks.ul.com/3dmark
+  success: true
+reviews:
+  cursor: AoJwtrj93PYCdteVvwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
+    total_negative: 0
+    total_positive: 15
+    total_reviews: 15
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 4
+      num_reviews: 13
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198985185480'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '83668342'
+    review: For android look:)
+    steam_purchase: true
+    timestamp_created: 1609437660
+    timestamp_updated: 1609437660
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 68, in validate_parsed_data
+    assert data['details']['success'] == True, 'details success is false'
+AssertionError: details success is false

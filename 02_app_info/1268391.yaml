@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: "This DLC consists of the complete Ren'Py project (sans music,\
+      \ graphics and sound effects) for WTC OVN 3<br />\r\n<br />\r\nHopefully, it\
+      \ may be of some educational use for your own projects"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1268391/page_bg_generated_v6b.jpg?t=1587727446
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids:
+      - 1
+      - 5
+      notes: Descriptions of sexual innuendo
+    detailed_description: "This DLC consists of the complete Ren'Py project (sans\
+      \ music, graphics and sound effects) for WTC OVN 3<br />\r\n<br />\r\nHopefully,\
+      \ it may be of some educational use for your own projects"
+    developers:
+    - Triority Interactive Novels
+    fullgame:
+      appid: '1265730'
+      name: 'Welcome To... Chichester OVN 3 : The Mysterious Affair At The Violet
+        Hotel'
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1268391/header.jpg?t=1587727446
+    is_free: false
+    legal_notice: This project is for educational use only
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    name: 'Welcome To... Chichester OVN 3 : The Project'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Welcome To... Chichester OVN 3 : The Project - $6.99'
+        packageid: 441372
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 699
+      title: 'Buy Welcome To... Chichester OVN 3 : The Project'
+    packages:
+    - 441372
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Any</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 699
+      final_formatted: $6.99
+      initial: 699
+      initial_formatted: ''
+    publishers:
+    - Triority Interactive Novels
+    release_date:
+      coming_soon: false
+      date: Apr 24, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1268391/ss_56eb2a04c28f0495a2f29157692fbdd96034d1a6.1920x1080.jpg?t=1587727446
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1268391/ss_56eb2a04c28f0495a2f29157692fbdd96034d1a6.600x338.jpg?t=1587727446
+    short_description: Ren'Py project for WTC OVN 3
+    steam_appid: 1268391
+    support_info:
+      email: triority_developer@outlook.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

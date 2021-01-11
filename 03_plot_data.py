@@ -25,7 +25,7 @@ def Wilson_score_confidence_interval_for_a_Bernoulli_parameter(p, n, confidence 
 
 
 def wilson_score_scatter_plot(dates, ps, ns, confidence = 0.9999):
-    print('creating wilson score scatterplot')
+    print('creating wilson score scatter plot')
 
     # compute scores
     scores = []
@@ -36,7 +36,7 @@ def wilson_score_scatter_plot(dates, ps, ns, confidence = 0.9999):
 
     # create plot
     plt.figure()
-    plt.plot_date(dates, scores, xdate=True, marker='x', markersize=2, c='red')
+    plt.plot_date(dates, scores, xdate=True, marker='x', markersize=2, c='blue')
     plt.ylim(0, 1)
     plt.xlabel('App Release Date')
     plt.ylabel('Lower bound of Wilson score confidence interval for Steam apps')
@@ -49,6 +49,7 @@ def wilson_score_scatter_plot(dates, ps, ns, confidence = 0.9999):
 
 def wilson_score_density_plot(dates, ps, ns):
     # creates interactive density plot of wilson score vs date
+    print('creating wilson score density plot')
 
     # init value for interactive plot elements
     init_confidence = 0.9999
@@ -163,7 +164,7 @@ def wilson_score_density_plot(dates, ps, ns):
     # matplotlib.widgets.TextBox(ax_2, label_2, initial='inf')
 
 
-if __name__ == '__main__':
+def load_data():
     print('loading manifest')
 
     f = open('01_steam_manifest.yaml')
@@ -198,11 +199,33 @@ if __name__ == '__main__':
             data['positive_reviews'].append(app_data['reviews']['query_summary']['total_positive'])
             data['total_reviews'].append(app_data['reviews']['query_summary']['total_reviews'])
 
+    return data
+
+
+def filter_data(data):
+    data2 = defaultdict(list)
+
+    for i in range(len(data['appids'])):
+        # make assertions on data
+        try:
+            assert data['total_reviews'][i] > 0
+            # TODO select only games
+        except:
+            continue
+        else:
+            # include data
+            for key in data:
+                data2[key].append(data[key][i])
+
+    return data2
+
+
+def static_computations(data):
     print('computing data')
 
     # convert date string to computer representation
-    for date_string in data['date_strings']:
-        dt = dateparser.parse(date_string)
+    for i, date_string in enumerate(data['date_strings']):
+        dt = common.parse_date(date_string)
         data['datetimes'].append(dt)
         data['matplotlib_dates'].append(matplotlib.dates.date2num(dt))
 
@@ -210,6 +233,13 @@ if __name__ == '__main__':
     for i, positive_reviews in enumerate(data['positive_reviews']):
         data['p'].append(float(positive_reviews) / data['total_reviews'][i])
 
+
+if __name__ == '__main__':
+    data = load_data()
+    data = filter_data(data)
+    static_computations(data)
+
     wilson_score_scatter_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    wilson_score_density_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
 
     plt.show()

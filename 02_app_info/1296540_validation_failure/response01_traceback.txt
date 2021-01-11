@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 72, in validate_parsed_data
+    assert not data['details']['data']['release_date']['coming_soon']  # field should always exist, and is boolean. Indicates game is not playable. Is False for early access games.
+AssertionError

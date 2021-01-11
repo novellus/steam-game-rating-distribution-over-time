@@ -3,7 +3,30 @@ details:
     about_the_game: In Neon Parkour, where you control a blue cube, make challenging
       tracks, overcome obstacles, solve small puzzles, don't touch the red cubes and
       get your cube near your partner!
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1502630/page_bg_generated_v6b.jpg?t=1609879097
+    achievements:
+      highlighted:
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/2fced7c04a11b87f335aeb945f5309b8f31da766.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/943ebd0d2931c375c4764f5b0aefa324785ad369.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/19098e5ac34607ad45971f87c8f538c211a09422.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/ead2f8a9ac74f0f91223427242fb3354fd48b44c.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/87639600e0ca713c59651f33fac7b43c11dbe4d2.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/4f154ca2fb46baf9e3806d347e3cfafc1708fce9.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/114b81438ec41099b56280f09a4e092fa52d5392.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/58ed328d8a76b9dce220623949d58f79a8488c03.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/c2418071a6e2e178fa8e82db0de75978ff7789fb.jpg
+      - name: '0'
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1502630/5015f9caf2b317d0ab356da38b2bfb973a9615f4.jpg
+      total: 100
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1502630/page_bg_generated_v6b.jpg?t=1610319695
     categories:
     - description: Single-player
       id: 2
@@ -12,17 +35,17 @@ details:
     content_descriptors:
       ids: []
       notes: null
-    detailed_description: <h1>-ADD TO YOUR WISHLIST-</h1><p><img src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Add_to_your_Wishlist.png?t=1609879097"
+    detailed_description: <h1>-ADD TO YOUR WISHLIST-</h1><p><img src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Add_to_your_Wishlist.png?t=1610319695"
       /><br><strong>You can add to your wishlist and support us!</strong></p><br><h1>-IMPROVE
-      YOUR STEAM PROFILE-</h1><p><img src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Improve_your_Steam_profile.png?t=1609879097"
+      YOUR STEAM PROFILE-</h1><p><img src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Improve_your_Steam_profile.png?t=1610319695"
       /><br>How about adding a touch to your Steam profile with colorful letters,
       numbers and symbols? After every level you pass in Neon Parkour different achievements
       await you! Profile development has never been easier!</p><br><h1>-SUPPORT US-</h1><p><img
-      src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Support_us.png?t=1609879097"
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Support_us.png?t=1610319695"
       /><br><strong>You can support us by buying the game for the bigger projects
       we will do in the future!</strong></p><br><h1>-JOIN US IN DISCORD-</h1><p><a
       href="https://steamcommunity.com/linkfilter/?url=https://discord.gg/7pncHbRf4A"
-      target="_blank" rel="noopener"  ><img src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Discord.png?t=1609879097"
+      target="_blank" rel="noopener"  ><img src="https://steamcdn-a.akamaihd.net/steam/apps/1502630/extras/Discord.png?t=1610319695"
       /></a><br>Why don't you join our Discord Server and be closer to us! You can
       do make game advices to make, let us know the bugs in the game and make them
       solve faster!</p><br><h1>About the Game</h1>In Neon Parkour, where you control
@@ -37,7 +60,7 @@ details:
       id: '23'
     - description: Early Access
       id: '70'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1502630/header.jpg?t=1609879097
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1502630/header.jpg?t=1610319695
     is_free: false
     legal_notice: "<strong>Aquila Studios \xA9 Copyright - All Rights Reserved. </strong>"
     linux_requirements: []
@@ -54,7 +77,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816435/movie480_vp9.webm?t=1608887053
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816435/movie_max_vp9.webm?t=1608887053
     name: Neon Parkour
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Neon Parkour - <span class="discount_original_price">$1.99</span>
+          $1.29
+        packageid: 529818
+        percent_savings: 0
+        percent_savings_text: '-35% '
+        price_in_cents_with_discount: 129
+      title: Buy Neon Parkour
+    packages:
+    - 529818
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Celeron
@@ -69,37 +111,44 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 35
+      final: 129
+      final_formatted: $1.29
+      initial: 199
+      initial_formatted: $1.99
     publishers:
     - Aquila Studios
     release_date:
-      coming_soon: true
-      date: Jan 11, 2021
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_0f3321606dd02a721e982a0ef5292405601576dc.1920x1080.jpg?t=1609879097
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_0f3321606dd02a721e982a0ef5292405601576dc.600x338.jpg?t=1609879097
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_0f3321606dd02a721e982a0ef5292405601576dc.1920x1080.jpg?t=1610319695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_0f3321606dd02a721e982a0ef5292405601576dc.600x338.jpg?t=1610319695
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_436cdc41f87c54aa7b65bd3daf7d3f0fafd025e4.1920x1080.jpg?t=1609879097
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_436cdc41f87c54aa7b65bd3daf7d3f0fafd025e4.600x338.jpg?t=1609879097
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_436cdc41f87c54aa7b65bd3daf7d3f0fafd025e4.1920x1080.jpg?t=1610319695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_436cdc41f87c54aa7b65bd3daf7d3f0fafd025e4.600x338.jpg?t=1610319695
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1b1a97da336b4a86780babb6712841d2c379a43d.1920x1080.jpg?t=1609879097
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1b1a97da336b4a86780babb6712841d2c379a43d.600x338.jpg?t=1609879097
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1b1a97da336b4a86780babb6712841d2c379a43d.1920x1080.jpg?t=1610319695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1b1a97da336b4a86780babb6712841d2c379a43d.600x338.jpg?t=1610319695
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1fab95e46833d499d0e2c04433715c1266ad3d7f.1920x1080.jpg?t=1609879097
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1fab95e46833d499d0e2c04433715c1266ad3d7f.600x338.jpg?t=1609879097
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1fab95e46833d499d0e2c04433715c1266ad3d7f.1920x1080.jpg?t=1610319695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_1fab95e46833d499d0e2c04433715c1266ad3d7f.600x338.jpg?t=1610319695
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_61b4e556a333c7b43ed97cb8624d96c8a1f8ab97.1920x1080.jpg?t=1609879097
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_61b4e556a333c7b43ed97cb8624d96c8a1f8ab97.600x338.jpg?t=1609879097
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_61b4e556a333c7b43ed97cb8624d96c8a1f8ab97.1920x1080.jpg?t=1610319695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_61b4e556a333c7b43ed97cb8624d96c8a1f8ab97.600x338.jpg?t=1610319695
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_2b2a9e9edc6f15ea8e5e66532d4793da6fd07c98.1920x1080.jpg?t=1609879097
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_2b2a9e9edc6f15ea8e5e66532d4793da6fd07c98.600x338.jpg?t=1609879097
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_2b2a9e9edc6f15ea8e5e66532d4793da6fd07c98.1920x1080.jpg?t=1610319695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_2b2a9e9edc6f15ea8e5e66532d4793da6fd07c98.600x338.jpg?t=1610319695
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_aa645b8a44ae5a6c6b36fc7710b5a6bd7659af13.1920x1080.jpg?t=1609879097
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_aa645b8a44ae5a6c6b36fc7710b5a6bd7659af13.600x338.jpg?t=1609879097
-    short_description: In Neon Parkour, where you control a blue cube, make challenging
-      tracks, overcome obstacles, solve small puzzles, don't touch the red cubes and
-      get your cube near your partner!
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_aa645b8a44ae5a6c6b36fc7710b5a6bd7659af13.1920x1080.jpg?t=1610319695
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1502630/ss_aa645b8a44ae5a6c6b36fc7710b5a6bd7659af13.600x338.jpg?t=1610319695
+    short_description: In Neon Parkour, where you control a blue cube make challenging
+      tracks and get your cube near your partner! Be careful, this game is really
+      hard.
     steam_appid: 1502630
     support_info:
       email: info@studiosaquila.com
@@ -123,9 +172,9 @@ reviews:
   query_summary:
     num_reviews: 0
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 1 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
+    total_positive: 1
+    total_reviews: 1
   reviews: []
   success: 1

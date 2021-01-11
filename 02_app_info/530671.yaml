@@ -1,0 +1,88 @@
+details:
+  data:
+    about_the_game: "The official artbook of Alice VR, showcasing the incredible designs\
+      \ and ideas of artists from Carbon Studio. <br />\r\nIt features 40 pages of\
+      \ beautiful concept graphics, rough sketches, 3D models, and notes from the\
+      \ creators. <br />\r\n<br />\r\nFind out how the world of Alice VR was designed\
+      \ and brought to life! <br />\r\n<br />\r\nYou\u2019ll find the artbook in your\
+      \ game's installation directory."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/530671/page_bg_generated_v6b.jpg?t=1501841435
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The official artbook of Alice VR, showcasing the incredible\
+      \ designs and ideas of artists from Carbon Studio. <br />\r\nIt features 40\
+      \ pages of beautiful concept graphics, rough sketches, 3D models, and notes\
+      \ from the creators. <br />\r\n<br />\r\nFind out how the world of Alice VR\
+      \ was designed and brought to life! <br />\r\n<br />\r\nYou\u2019ll find the\
+      \ artbook in your game's installation directory."
+    developers:
+    - Carbon Studio
+    fullgame:
+      appid: '513320'
+      name: ALICE VR
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/530671/header.jpg?t=1501841435
+    is_free: true
+    legal_notice: Alice VR, Alice VR logo and Carbon Studio logo are registered trademarks
+      of Carbon Studio sp. z o. o. Klabater and Klabater logo are registered trademarks
+      of CDP sp. z o. o. All rights reserved.
+    linux_requirements: []
+    mac_requirements: []
+    name: ALICE VR - Artbook
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 Compatible<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Klabater
+    release_date:
+      coming_soon: false
+      date: Oct 27, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/530671/ss_51b7935cdeb63628b9e0fc132dec6509ee85214d.1920x1080.jpg?t=1501841435
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/530671/ss_51b7935cdeb63628b9e0fc132dec6509ee85214d.600x338.jpg?t=1501841435
+    short_description: The official artbook of Alice VR, showcasing the incredible
+      designs and ideas of artists from Carbon Studio. It features 40 pages of beautiful
+      concept graphics, rough sketches, 3D models, and notes from the creators.
+    steam_appid: 530671
+    support_info:
+      email: pomoc@cdp.pl
+      url: http://pomoc.cdp.pl
+    supported_languages: English, Polish, French, German, Spanish - Spain, Russian
+    type: dlc
+    website: http://alice-vr.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

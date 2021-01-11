@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 74, in validate_parsed_data
+    assert dateparser.parse(data['details']['data']['release_date']['date']), 'dateparser returned falsey result'  # try to parse date
+AssertionError: dateparser returned falsey result

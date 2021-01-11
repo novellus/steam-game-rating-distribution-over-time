@@ -1,0 +1,116 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Features:</h2><ul class="bb_ul"><li>Soundtrack
+      composed by Lucas Saur, and performed with live instruments<br></li><li>14 original
+      tracks featured in Smile For Me<br></li><li>4 bonus tracks, not available in-game!</li></ul>
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1065221/page_bg_generated_v6b.jpg?t=1581628802
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">Features:</h2><ul class="bb_ul"><li>Soundtrack
+      composed by Lucas Saur, and performed with live instruments<br></li><li>14 original
+      tracks featured in Smile For Me<br></li><li>4 bonus tracks, not available in-game!</li></ul>
+    developers:
+    - Lucas Saur
+    - Gabe Lane
+    - Yugo Limbo
+    fullgame:
+      appid: '1018850'
+      name: Smile For Me
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1065221/header.jpg?t=1581628802
+    is_free: false
+    legal_notice: "Illustrated, Written, Video, and Screen-captured media copyright\
+      \ 2019, Gabriel Lane & Yugo Limbo.<br />\r\nall rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Smile For Me - Official Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Smile For Me - Official Soundtrack - $2.99
+        packageid: 356449
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Smile For Me - Official Soundtrack
+    packages:
+    - 356449
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: May 31, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1065221/ss_fb684f24733e59def88c1ea19c0e9b7473dc5e14.1920x1080.jpg?t=1581628802
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1065221/ss_fb684f24733e59def88c1ea19c0e9b7473dc5e14.600x338.jpg?t=1581628802
+    short_description: "May your ear-holes rejoice. It\u2019s the esoteric music-scape\
+      \ of Smile For Me, now available on home-DLC. Composedby Lucas Saur and recorded\
+      \ with live instruments, these tunes are sure to put a pep in your step!"
+    steam_appid: 1065221
+    support_info:
+      email: Support@PlaySmileFor.Me
+      url: https://smileformegame.com/support.html
+    supported_languages: English
+    type: music
+    website: http://SmileForMeGame.com
+  success: true
+reviews:
+  cursor: AoJwgr3+xPICdZHCjAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 682
+      num_reviews: 26
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198025453417'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '70390037'
+    review: Get it on bandcamp. This one's only 160kbps.
+    steam_purchase: true
+    timestamp_created: 1591452756
+    timestamp_updated: 1591452756
+    voted_up: false
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.540229856967926025'
+    written_during_early_access: false
+  success: 1

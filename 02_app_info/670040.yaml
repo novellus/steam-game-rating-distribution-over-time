@@ -1,0 +1,75 @@
+details:
+  data:
+    about_the_game: <strong>JETBROS</strong>, is a Jetpack-Action-Shooter-Game inspired
+      by platform shooters of the 80s. Its easy to learn but hard to master !!!
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <strong>JETBROS</strong>, is a Jetpack-Action-Shooter-Game
+      inspired by platform shooters of the 80s. Its easy to learn but hard to master
+      !!!
+    developers:
+    - Weltrom Studios
+    fullgame:
+      appid: '601700'
+      name: JETBROS
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/670040/header.jpg?t=1500676156
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: JETBROS Demo
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Weltrom Studios
+    release_date:
+      coming_soon: false
+      date: Jul 14, 2017
+    required_age: 0
+    short_description: JETBROS, is a Jetpack-Action-Shooter-Game inspired by platform
+      shooters of the 80s. Its easy to learn but hard to master !!!
+    steam_appid: 670040
+    support_info:
+      email: ''
+      url: http://www.weltrom-Studios.de
+    supported_languages: English, German
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

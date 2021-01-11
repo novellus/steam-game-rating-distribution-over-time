@@ -1,0 +1,115 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/894150/extras/tiles_expansion_1.png?t=1533749265"
+      /><br><br><br>An expansion for <i>On Completeness &amp; Dissonance</i> containing:<br><br><ul
+      class="bb_ul"><li>60 new (and considerably harder) levels;<br></li><li>10 new
+      types of obstacles;<br></li><li>1 extra music track;</li></ul><br><br><img src="https://steamcdn-a.akamaihd.net/steam/apps/894150/extras/tiles_expansion_2.png?t=1533749265"
+      />
+    background: https://steamcdn-a.akamaihd.net/steam/apps/894150/page_bg_generated_v6b.jpg?t=1533749265
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/894150/extras/tiles_expansion_1.png?t=1533749265"
+      /><br><br><br>An expansion for <i>On Completeness &amp; Dissonance</i> containing:<br><br><ul
+      class="bb_ul"><li>60 new (and considerably harder) levels;<br></li><li>10 new
+      types of obstacles;<br></li><li>1 extra music track;</li></ul><br><br><img src="https://steamcdn-a.akamaihd.net/steam/apps/894150/extras/tiles_expansion_2.png?t=1533749265"
+      />
+    developers:
+    - Flat Voxel
+    fullgame:
+      appid: '887880'
+      name: O.C.D. - On Completeness & Dissonance
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/894150/header.jpg?t=1533749265
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: O.C.D. - Comorbidity Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: O.C.D. - Comorbidity Pack - $0.99
+        packageid: 285531
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy O.C.D. - Comorbidity Pack
+    packages:
+    - 285531
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP and up<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 8, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/894150/ss_701f8fb38bb9fed0df7a1b9fb45830a1d8c45cef.1920x1080.jpg?t=1533749265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/894150/ss_701f8fb38bb9fed0df7a1b9fb45830a1d8c45cef.600x338.jpg?t=1533749265
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/894150/ss_81352d949d64f2b3a8461ec4730c049e85d8dd49.1920x1080.jpg?t=1533749265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/894150/ss_81352d949d64f2b3a8461ec4730c049e85d8dd49.600x338.jpg?t=1533749265
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/894150/ss_6126ce978494258b98ebfa956afff0fc155f55c0.1920x1080.jpg?t=1533749265
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/894150/ss_6126ce978494258b98ebfa956afff0fc155f55c0.600x338.jpg?t=1533749265
+    short_description: This expansion contains 60 new levels with 10 new obstacles
+      and an extra music track.
+    steam_appid: 894150
+    support_info:
+      email: admin@flat-voxel.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

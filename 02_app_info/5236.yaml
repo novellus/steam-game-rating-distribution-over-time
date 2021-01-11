@@ -1,0 +1,54 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - "ArenaNet\xAE"
+    fullgame:
+      appid: '29580'
+      name: "Guild Wars Nightfall\xAE"
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/29580/header.jpg?t=1598613775
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: "Guild Wars Nightfall\u2122 Trailer"
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - NCsoft
+    release_date:
+      coming_soon: false
+      date: Apr 22, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 5236
+    support_info:
+      email: ''
+      url: ''
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

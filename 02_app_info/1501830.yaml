@@ -20,7 +20,7 @@ details:
       features:<br><ul class="bb_ul"><li>First person character control<br></li><li>In-game
       proximity VOIP<br></li><li>Immersive item handling and inventory control<br></li><li>Customizable
       character appearance </li></ul>
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1501830/page_bg_generated_v6b.jpg?t=1610046266
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1501830/page_bg_generated_v6b.jpg?t=1610123830
     categories:
     - description: Multi-player
       id: 1
@@ -62,7 +62,7 @@ details:
       id: '2'
     - description: Early Access
       id: '70'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1501830/header.jpg?t=1610046266
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1501830/header.jpg?t=1610123830
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -78,7 +78,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256815438/movie480_vp9.webm?t=1608743229
         max: http://steamcdn-a.akamaihd.net/steam/apps/256815438/movie_max_vp9.webm?t=1608743229
     name: Coveneth
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Coveneth - <span class="discount_original_price">$4.99</span>
+          $3.49
+        packageid: 529517
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 349
+      title: Buy Coveneth
+    packages:
+    - 529517
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 10<br></li><li><strong>Processor:</strong> 2xCore+ Processor (i.e.
@@ -93,49 +112,56 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 349
+      final_formatted: $3.49
+      initial: 499
+      initial_formatted: $4.99
     publishers:
     - TheMadChemist
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_7ac95f45c53659a48c238a909f238d01f1392544.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_7ac95f45c53659a48c238a909f238d01f1392544.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_7ac95f45c53659a48c238a909f238d01f1392544.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_7ac95f45c53659a48c238a909f238d01f1392544.600x338.jpg?t=1610123830
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b5bd656e5f3682aa67e7fec6aa0664433a824109.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b5bd656e5f3682aa67e7fec6aa0664433a824109.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b5bd656e5f3682aa67e7fec6aa0664433a824109.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b5bd656e5f3682aa67e7fec6aa0664433a824109.600x338.jpg?t=1610123830
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_bd3da2504d992dc489ef2b9cbe6d7c7f0eb616ae.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_bd3da2504d992dc489ef2b9cbe6d7c7f0eb616ae.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_bd3da2504d992dc489ef2b9cbe6d7c7f0eb616ae.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_bd3da2504d992dc489ef2b9cbe6d7c7f0eb616ae.600x338.jpg?t=1610123830
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_89e062fe98fc40a118d9d204260e648466223ef1.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_89e062fe98fc40a118d9d204260e648466223ef1.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_89e062fe98fc40a118d9d204260e648466223ef1.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_89e062fe98fc40a118d9d204260e648466223ef1.600x338.jpg?t=1610123830
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b46fb09b406f9b34ccdf42d0c26fcaef8a892a78.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b46fb09b406f9b34ccdf42d0c26fcaef8a892a78.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b46fb09b406f9b34ccdf42d0c26fcaef8a892a78.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_b46fb09b406f9b34ccdf42d0c26fcaef8a892a78.600x338.jpg?t=1610123830
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_a14208008ebf5428e496e5cd53f60e60ea4ffef1.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_a14208008ebf5428e496e5cd53f60e60ea4ffef1.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_a14208008ebf5428e496e5cd53f60e60ea4ffef1.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_a14208008ebf5428e496e5cd53f60e60ea4ffef1.600x338.jpg?t=1610123830
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_02cde9eece231f1e8c9a817a881c203f6fa02ca1.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_02cde9eece231f1e8c9a817a881c203f6fa02ca1.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_02cde9eece231f1e8c9a817a881c203f6fa02ca1.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_02cde9eece231f1e8c9a817a881c203f6fa02ca1.600x338.jpg?t=1610123830
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_c62b9d565aee822560d7180fa35998c9b5c30f6d.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_c62b9d565aee822560d7180fa35998c9b5c30f6d.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_c62b9d565aee822560d7180fa35998c9b5c30f6d.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_c62b9d565aee822560d7180fa35998c9b5c30f6d.600x338.jpg?t=1610123830
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_d98a590dffcb8a64268db48379dbe4aebf8f28f2.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_d98a590dffcb8a64268db48379dbe4aebf8f28f2.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_d98a590dffcb8a64268db48379dbe4aebf8f28f2.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_d98a590dffcb8a64268db48379dbe4aebf8f28f2.600x338.jpg?t=1610123830
     - id: 9
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0112ed0e91589843038f680e068d705efcb64921.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0112ed0e91589843038f680e068d705efcb64921.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0112ed0e91589843038f680e068d705efcb64921.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0112ed0e91589843038f680e068d705efcb64921.600x338.jpg?t=1610123830
     - id: 10
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_859942cfb982396fdc39c835ebd3a8705415dda1.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_859942cfb982396fdc39c835ebd3a8705415dda1.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_859942cfb982396fdc39c835ebd3a8705415dda1.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_859942cfb982396fdc39c835ebd3a8705415dda1.600x338.jpg?t=1610123830
     - id: 11
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0e3986196928be41ddfe6b141f552ef61adbaad8.1920x1080.jpg?t=1610046266
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0e3986196928be41ddfe6b141f552ef61adbaad8.600x338.jpg?t=1610046266
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0e3986196928be41ddfe6b141f552ef61adbaad8.1920x1080.jpg?t=1610123830
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501830/ss_0e3986196928be41ddfe6b141f552ef61adbaad8.600x338.jpg?t=1610123830
     short_description: A first-person social game of deception and betrayal, designed
       to encourage role-playing.
     steam_appid: 1501830

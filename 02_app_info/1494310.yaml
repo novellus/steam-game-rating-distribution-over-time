@@ -11,15 +11,38 @@ details:
       \ the four elements! \LYour powers enable you to do magical things such as breathe\
       \ underwater, turn day into night, summon the wind, and many other wonderful\
       \ surprises!<br><br><i>This is a room escape game, set in the universe of Panmorphia!</i><br><br><img\
-      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted2.gif?t=1608174738\"\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted2.gif?t=1610092758\"\
       \ /><br><br><strong><h2 class=\"bb_tag\">Features:</h2></strong><br><ul class=\"\
       bb_ul\"><li>Point and click, puzzle adventure game!<br></li><li>Custom designed\
       \ beautiful graphics!<br></li><li>Many items to collect and puzzles to solve!<br></li><li>Dynamic\
       \ notebook that tracks your clues!<br></li><li>A Hint System that guides you\
       \ with the next task!<br></li><li>A beautiful soundtrack and original sound\
-      \ effects!<br></li><li>Auto-saves your progress!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted3.gif?t=1608174738\"\
+      \ effects!<br></li><li>Auto-saves your progress!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted3.gif?t=1610092758\"\
       \ />"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1494310/page_bg_generated_v6b.jpg?t=1608174738
+    achievements:
+      highlighted:
+      - name: Make it rain!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/3304de5025d8b49087beb2553986a9bcc57a47e1.jpg
+      - name: Clear night sky!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/4d485f2cd0d2eda8f440eba0e68ce3e6533026de.jpg
+      - name: Fire!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/c0f219af2a0c7166031bf15f8326404ef90a959a.jpg
+      - name: Water!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/c508d6df33d56b78d311178ee77e6e284b762686.jpg
+      - name: Air!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/ed34452efcb62021d1e88197ccd877acab85b346.jpg
+      - name: Earth!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/09b1b36c53f032fcc61f5bae5e207ea990e23365.jpg
+      - name: Birds of a Feather...
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/44e914b56dad636a3efc0e209fcbcfc556a2eb36.jpg
+      - name: Shiny!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/07fbf7ae2d78e37df4834da7f2e3d0d8cd977c90.jpg
+      - name: Hairball!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/433b2db53ad3887fd265ca7d15f9583914b96961.jpg
+      - name: The End.
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1494310/8c1773a92987e988eb6c2e7572a1527664f6e772.jpg
+      total: 14
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1494310/page_bg_generated_v6b.jpg?t=1610092758
     categories:
     - description: Single-player
       id: 2
@@ -39,13 +62,13 @@ details:
       \ the four elements! \LYour powers enable you to do magical things such as breathe\
       \ underwater, turn day into night, summon the wind, and many other wonderful\
       \ surprises!<br><br><i>This is a room escape game, set in the universe of Panmorphia!</i><br><br><img\
-      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted2.gif?t=1608174738\"\
+      \ src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted2.gif?t=1610092758\"\
       \ /><br><br><strong><h2 class=\"bb_tag\">Features:</h2></strong><br><ul class=\"\
       bb_ul\"><li>Point and click, puzzle adventure game!<br></li><li>Custom designed\
       \ beautiful graphics!<br></li><li>Many items to collect and puzzles to solve!<br></li><li>Dynamic\
       \ notebook that tracks your clues!<br></li><li>A Hint System that guides you\
       \ with the next task!<br></li><li>A beautiful soundtrack and original sound\
-      \ effects!<br></li><li>Auto-saves your progress!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted3.gif?t=1608174738\"\
+      \ effects!<br></li><li>Auto-saves your progress!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1494310/extras/Enchanted3.gif?t=1610092758\"\
       \ />"
     developers:
     - LKMAD
@@ -56,7 +79,7 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1494310/header.jpg?t=1608174738
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1494310/header.jpg?t=1610092758
     is_free: false
     legal_notice: "Copyright \xA9 LKMAD - 2020."
     linux_requirements:
@@ -89,7 +112,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256814383/movie480_vp9.webm?t=1608124337
         max: http://steamcdn-a.akamaihd.net/steam/apps/256814383/movie_max_vp9.webm?t=1608124337
     name: 'Panmorphia: Enchanted'
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Panmorphia: Enchanted - <span class="discount_original_price">$2.99</span>
+          $2.39'
+        packageid: 526762
+        percent_savings: 0
+        percent_savings_text: '-20% '
+        price_in_cents_with_discount: 239
+      title: 'Buy Panmorphia: Enchanted'
+    packages:
+    - 526762
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
         processor and operating system<br></li><li><strong>OS:</strong> Windows 7,
@@ -103,40 +145,47 @@ details:
       linux: true
       mac: true
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 20
+      final: 239
+      final_formatted: $2.39
+      initial: 299
+      initial_formatted: $2.99
     publishers:
     - LKMAD
     release_date:
-      coming_soon: true
-      date: Jan 8, 2021
+      coming_soon: false
+      date: Jan 7, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_79424a038c2c95e9998543497ce894644e6f8adb.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_79424a038c2c95e9998543497ce894644e6f8adb.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_79424a038c2c95e9998543497ce894644e6f8adb.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_79424a038c2c95e9998543497ce894644e6f8adb.600x338.jpg?t=1610092758
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_4fbf2837218d491ebb8c1a27299f265a9d1141b3.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_4fbf2837218d491ebb8c1a27299f265a9d1141b3.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_4fbf2837218d491ebb8c1a27299f265a9d1141b3.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_4fbf2837218d491ebb8c1a27299f265a9d1141b3.600x338.jpg?t=1610092758
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_76589669244a5753214f4d769c7ab6498ecaeb68.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_76589669244a5753214f4d769c7ab6498ecaeb68.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_76589669244a5753214f4d769c7ab6498ecaeb68.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_76589669244a5753214f4d769c7ab6498ecaeb68.600x338.jpg?t=1610092758
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_cbd7d30d9aa6baf6e5955fd5fed18392992783c2.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_cbd7d30d9aa6baf6e5955fd5fed18392992783c2.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_cbd7d30d9aa6baf6e5955fd5fed18392992783c2.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_cbd7d30d9aa6baf6e5955fd5fed18392992783c2.600x338.jpg?t=1610092758
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_2d0227e55c9053e1d9750a16997dcc8883949979.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_2d0227e55c9053e1d9750a16997dcc8883949979.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_2d0227e55c9053e1d9750a16997dcc8883949979.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_2d0227e55c9053e1d9750a16997dcc8883949979.600x338.jpg?t=1610092758
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d021922cf1ad62241666b8fdbface9a948e2ce37.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d021922cf1ad62241666b8fdbface9a948e2ce37.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d021922cf1ad62241666b8fdbface9a948e2ce37.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d021922cf1ad62241666b8fdbface9a948e2ce37.600x338.jpg?t=1610092758
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_f0cf9c538caffe03f30f8abfbe78405f704c4e43.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_f0cf9c538caffe03f30f8abfbe78405f704c4e43.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_f0cf9c538caffe03f30f8abfbe78405f704c4e43.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_f0cf9c538caffe03f30f8abfbe78405f704c4e43.600x338.jpg?t=1610092758
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d4281c63130d30d2b930e6e47b3765ac995abb44.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d4281c63130d30d2b930e6e47b3765ac995abb44.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d4281c63130d30d2b930e6e47b3765ac995abb44.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_d4281c63130d30d2b930e6e47b3765ac995abb44.600x338.jpg?t=1610092758
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_6b428ca7a4992dd02709c7467fc690456d8a5b43.1920x1080.jpg?t=1608174738
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_6b428ca7a4992dd02709c7467fc690456d8a5b43.600x338.jpg?t=1608174738
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_6b428ca7a4992dd02709c7467fc690456d8a5b43.1920x1080.jpg?t=1610092758
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1494310/ss_6b428ca7a4992dd02709c7467fc690456d8a5b43.600x338.jpg?t=1610092758
     short_description: A room escape game set in the magical world of Panmorphia.
       Wield the four elements and upgrade the amulet!
     steam_appid: 1494310

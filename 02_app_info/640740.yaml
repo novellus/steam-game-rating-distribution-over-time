@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '640580'
+      name: Saga of Tanya the Evil
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/640580/header.jpg?t=1553556300
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Saga of Tanya the Evil: The Devil of the Rhine'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Saga of Tanya the Evil: The Devil of the Rhine - $1.99'
+        packageid: 177710
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Saga of Tanya the Evil: The Devil of the Rhine'
+    packages:
+    - 177710
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: The Empire is a powerful military nation on a continent that
+      looks much like early 20th century Europe. But in this world, magic is real.
+      The Empire is involved in a war against the Entente Alliance, and fighting a
+      poorly executed delaying action in the northern theater.
+    steam_appid: 640740
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJw9vq4gOACeNKxkAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 0
+    total_positive: 8
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 1511844055
+      num_games_owned: 510
+      num_reviews: 7
+      playtime_at_review: 41
+      playtime_forever: 41
+      playtime_last_two_weeks: 0
+      steamid: '76561198123033429'
+    comment_count: 0
+    language: schinese
+    received_for_free: false
+    recommendationid: '37850408'
+    review: "\u6211\u7684\u8EAB\u4F53\u5F00\u59CB\u4E00\u5929\u5929\u7684\u865A\u5F31\
+      \u4E0B\u53BB\u4E86"
+    steam_purchase: true
+    timestamp_created: 1511843420
+    timestamp_updated: 1511843420
+    voted_up: true
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.550172984600067139'
+    written_during_early_access: false
+  success: 1

@@ -1,0 +1,64 @@
+Traceback (most recent call last):
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\util\retry.py", line 531, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\packages\six.py", line 734, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\urllib3\connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "02_acquire_app_info.py", line 175, in <module>
+    app_details, app_reviews = retrieve_info(appid)
+  File "02_acquire_app_info.py", line 26, in retrieve_info
+    app_reviews = requests.get('http://store.steampowered.com/appreviews/' + str(appid) + '?json=1&filter=updated&language=all&purchase_type=steam&review_type=all&cursor=*&num_per_page=1').text
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\novel\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))

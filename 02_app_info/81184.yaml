@@ -1,0 +1,60 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Days of Wonder
+    fullgame:
+      appid: '108210'
+      name: Memoir '44 Online
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/81184/header.jpg?t=1447354862
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Memoir '44 Online Trailer Eng
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 12, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 81184
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

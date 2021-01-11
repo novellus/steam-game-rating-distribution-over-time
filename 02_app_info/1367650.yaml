@@ -1,0 +1,120 @@
+details:
+  data:
+    about_the_game: 100 Nature themed hand drawn cards.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1367650/page_bg_generated_v6b.jpg?t=1598877235
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Stats
+      id: 15
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: 100 Nature themed hand drawn cards.
+    developers:
+    - Pankabre
+    fullgame:
+      appid: '1366710'
+      name: Memory Battle
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1367650/header.jpg?t=1598877235
+    is_free: false
+    legal_notice: "\xA9 2020 PANKABRE. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    name: Memory Battle - Nature Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Memory Battle - Nature Pack - $0.99
+        packageid: 479660
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Memory Battle - Nature Pack
+    packages:
+    - 479660
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+ 32bit<br></li><li><strong>Processor:</strong> Intel, AMD, SSE2
+        instructions<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong>
+        DX10 (shader model 4.0)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong>
+        400 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel, AMD, SSE5
+        instructions<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        DX10 (shader model 4.0)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong>
+        500 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Pankabre
+    release_date:
+      coming_soon: false
+      date: Aug 31, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1367650/ss_87561a8b587164fe6e4d53c304440f8022be3be7.1920x1080.jpg?t=1598877235
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1367650/ss_87561a8b587164fe6e4d53c304440f8022be3be7.600x338.jpg?t=1598877235
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1367650/ss_f9d46de38311383abcbc8b38cede27687db634c1.1920x1080.jpg?t=1598877235
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1367650/ss_f9d46de38311383abcbc8b38cede27687db634c1.600x338.jpg?t=1598877235
+    short_description: 100 Nature themed hand drawn cards.
+    steam_appid: 1367650
+    support_info:
+      email: pankabre@gmail.com
+      url: https://www.pankabre.com
+    supported_languages: English
+    type: dlc
+    website: https://www.pankabre.com/game/memorybattle
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

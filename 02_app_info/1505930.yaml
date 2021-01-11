@@ -1,0 +1,105 @@
+details:
+  data:
+    about_the_game: Adds 100 The Big Points to your in game Balance. Only one-time
+      purchase.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1505930/page_bg_generated_v6b.jpg?t=1609325781
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Adds 100 The Big Points to your in game Balance. Only one-time
+      purchase.
+    developers:
+    - The Big Studio
+    fullgame:
+      appid: '1425390'
+      name: Eat or DIE!
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1505930/header.jpg?t=1609325781
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Eat or DIE! - 100 The Big Points
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Eat or DIE! - 100 The Big Points - $0.99
+        packageid: 530960
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Eat or DIE! - 100 The Big Points
+    packages:
+    - 530960
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Processor:</strong> 1GHz+<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - The Big Studio
+    release_date:
+      coming_soon: false
+      date: Dec 30, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505930/ss_0892157af758fb544b7641d4d8c7bf6ee0b8e3a2.1920x1080.jpg?t=1609325781
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505930/ss_0892157af758fb544b7641d4d8c7bf6ee0b8e3a2.600x338.jpg?t=1609325781
+    short_description: 100 The Big Points
+    steam_appid: 1505930
+    support_info:
+      email: support@thebigstudio.net
+      url: https://www.thebigstudio.net/
+    supported_languages: English, Turkish
+    type: dlc
+    website: http://www.thebigstudio.net/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

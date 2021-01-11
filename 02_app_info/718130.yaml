@@ -1,0 +1,172 @@
+details:
+  data:
+    about_the_game: 'If you want to show some support for the devs and artists, you
+      can become a supporter, and unlock some sweet ingame and social perks.<br><br>(This
+      will of course never give you any in-game advantages, as we do not want any
+      sort of pay-to-win mechanics in our games.)<br><br><strong>Perk list</strong><br><ul
+      class="bb_ul"><li>You gain TWICE as many experience points for each game.<br></li><li>You
+      can have 5 ongoing quests, instead of just 3.<br></li><li>Unlock some unique
+      cosmetics<br></li><li>You will receive a golden status marker on our Discord
+      group.<br></li><li>Community title: Supporter</li></ul><br>10% of the sale still
+      goes to our Wolf Wildlife Reserve partner.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/718130/page_bg_generated_v6b.jpg?t=1602817632
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Workshop
+      id: 30
+    - description: In-App Purchases
+      id: 35
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Includes level editor
+      id: 17
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: 'If you want to show some support for the devs and artists,
+      you can become a supporter, and unlock some sweet ingame and social perks.<br><br>(This
+      will of course never give you any in-game advantages, as we do not want any
+      sort of pay-to-win mechanics in our games.)<br><br><strong>Perk list</strong><br><ul
+      class="bb_ul"><li>You gain TWICE as many experience points for each game.<br></li><li>You
+      can have 5 ongoing quests, instead of just 3.<br></li><li>Unlock some unique
+      cosmetics<br></li><li>You will receive a golden status marker on our Discord
+      group.<br></li><li>Community title: Supporter</li></ul><br>10% of the sale still
+      goes to our Wolf Wildlife Reserve partner.'
+    developers:
+    - LizardFactory
+    fullgame:
+      appid: '657730'
+      name: Wolflord - Werewolf Online
+    genres:
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/718130/header.jpg?t=1602817632
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+ or SteamOS<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available
+        space<br></li><li><strong>Additional Notes:</strong> Requires the Direwolf
+        main game.</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Snow Leopard 10.6.8 or later<br></li><li><strong>Processor:</strong> Intel
+        Core Duo<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        ATI Radeon HD 4850, NVIDIA GeForce GT 120, Intel HD 3000, or equivalent card
+        with at least 512 MB VRAM<br></li><li><strong>Network:</strong> Broadband
+        Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional
+        Notes:</strong> Requires the Direwolf main game.</li></ul>
+    name: Wolflord Supporter's Package
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Wolflord - Supporter pack - $14.99
+        packageid: 208249
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Wolflord Supporter's Package
+    packages:
+    - 208249
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or
+        DX11 with feature level 9.3 capabilities.<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        1 GB available space<br></li><li><strong>Additional Notes:</strong> Requires
+        the Direwolf main game.</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+    publishers:
+    - LizardFactory
+    release_date:
+      coming_soon: false
+      date: May 24, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/718130/ss_e3840c277c22520f48918cb201c72e837a5c2805.1920x1080.jpg?t=1602817632
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/718130/ss_e3840c277c22520f48918cb201c72e837a5c2805.600x338.jpg?t=1602817632
+    short_description: Support the development of Wolflord and get a sweet stack of
+      perks.
+    steam_appid: 718130
+    support_info:
+      email: gecko@wolflord.dev
+      url: http://wolflordgame.com
+    supported_languages: English
+    type: dlc
+    website: https://wolflordgame.com
+  success: true
+reviews:
+  cursor: AoJw/Jbk9+oCfKX2wQE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 433
+      num_reviews: 6
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198068787623'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '50836060'
+    review: really good game.
+    steam_purchase: true
+    timestamp_created: 1558797400
+    timestamp_updated: 1558797400
+    voted_up: true
+    votes_funny: 2
+    votes_up: 8
+    weighted_vote_score: '0.644970417022705078'
+    written_during_early_access: false
+  success: 1

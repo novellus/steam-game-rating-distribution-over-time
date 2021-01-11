@@ -1,0 +1,222 @@
+details:
+  data:
+    about_the_game: '<u><strong> <h2 class="bb_tag">Game Features:</h2></strong></u>
+      <br> <h2 class="bb_tag">Locomotion Movement:</h2>Note: This game uses locomotion
+      for player movement (no teleportation).  This is by necessity, but it also contributes
+      to the realism of the game.  To move around, use the trackpad/joystick (up is
+      forward, down is backward, etc.)  You can go 1.5x faster by holding down the
+      trigger button while moving.<br><br> <h2 class="bb_tag">Throwing:</h2>The stone
+      speed (weight) is determined by how fast you are moving when you release the
+      stone, as well as what you do with your hands (you can give it an extra shove
+      if you feel like it at the point of release).  You also determine the amount
+      of spin on the stone at the time of release, just like in real life!  Simply
+      give the stone twist as you release it.  The amount that the stone curls is
+      based on both the realtime linear and angular velocities of the stone.<br><br>
+      <h2 class="bb_tag">Sweeping:</h2>Yes, you actually get to sweep in this game
+      as well!  Influence the speed of the stone (and thus the amount of curl as well)
+      by sweeping in front of the stone while it is moving.  For those who are new
+      to curling, sweeping in front of the stone makes it go faster and want to curl
+      less.  You can even turn on sweeping particles to help visualize the effects
+      of sweeping.  Red particles indicate a significant effect from sweeping, green
+      particles indicate a moderate effect, and blue particles indicate a minor effect.<br><br>
+      <h2 class="bb_tag">Unlockables:</h2>Use rewards to unlock various stones, brooms,
+      and even new ice surfaces!  <br><br><u><strong> <h2 class="bb_tag">Game Modes:</h2>
+      </strong></u><br> <h2 class="bb_tag">Throwing Challenges:</h2>Throw the stones
+      in these various challenges to hone your skills and earn rewards.  There are
+      no brooms in this mode, so be careful of how hard you throw the stone.<br><br>
+      <h2 class="bb_tag">Sweeping Challenges:</h2>In this challenge mode you sweep
+      the stone into the designated areas.  The stone will be thrown automatically,
+      so your focus here is on controlling the speed/curl of the stone.<br><br> <h2
+      class="bb_tag">Play Against CPU:</h2>Take on the CPU and earn rewards!  There
+      are two difficulty levels to choose from.<br><br> <h2 class="bb_tag">Local Multiplayer:</h2>Play
+      head-to-head with a friend using the same headset.  Earn rewards for each game
+      completed.<br><br> <h2 class="bb_tag">Online Multiplayer:</h2>Connect with other
+      online players for some added fun.  There are no set rules in this mode, so
+      you can play however you like!'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/959920/page_bg_generated_v6b.jpg?t=1547846689
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<u><strong> <h2 class="bb_tag">Game Features:</h2></strong></u>
+      <br> <h2 class="bb_tag">Locomotion Movement:</h2>Note: This game uses locomotion
+      for player movement (no teleportation).  This is by necessity, but it also contributes
+      to the realism of the game.  To move around, use the trackpad/joystick (up is
+      forward, down is backward, etc.)  You can go 1.5x faster by holding down the
+      trigger button while moving.<br><br> <h2 class="bb_tag">Throwing:</h2>The stone
+      speed (weight) is determined by how fast you are moving when you release the
+      stone, as well as what you do with your hands (you can give it an extra shove
+      if you feel like it at the point of release).  You also determine the amount
+      of spin on the stone at the time of release, just like in real life!  Simply
+      give the stone twist as you release it.  The amount that the stone curls is
+      based on both the realtime linear and angular velocities of the stone.<br><br>
+      <h2 class="bb_tag">Sweeping:</h2>Yes, you actually get to sweep in this game
+      as well!  Influence the speed of the stone (and thus the amount of curl as well)
+      by sweeping in front of the stone while it is moving.  For those who are new
+      to curling, sweeping in front of the stone makes it go faster and want to curl
+      less.  You can even turn on sweeping particles to help visualize the effects
+      of sweeping.  Red particles indicate a significant effect from sweeping, green
+      particles indicate a moderate effect, and blue particles indicate a minor effect.<br><br>
+      <h2 class="bb_tag">Unlockables:</h2>Use rewards to unlock various stones, brooms,
+      and even new ice surfaces!  <br><br><u><strong> <h2 class="bb_tag">Game Modes:</h2>
+      </strong></u><br> <h2 class="bb_tag">Throwing Challenges:</h2>Throw the stones
+      in these various challenges to hone your skills and earn rewards.  There are
+      no brooms in this mode, so be careful of how hard you throw the stone.<br><br>
+      <h2 class="bb_tag">Sweeping Challenges:</h2>In this challenge mode you sweep
+      the stone into the designated areas.  The stone will be thrown automatically,
+      so your focus here is on controlling the speed/curl of the stone.<br><br> <h2
+      class="bb_tag">Play Against CPU:</h2>Take on the CPU and earn rewards!  There
+      are two difficulty levels to choose from.<br><br> <h2 class="bb_tag">Local Multiplayer:</h2>Play
+      head-to-head with a friend using the same headset.  Earn rewards for each game
+      completed.<br><br> <h2 class="bb_tag">Online Multiplayer:</h2>Connect with other
+      online players for some added fun.  There are no set rules in this mode, so
+      you can play however you like!'
+    developers:
+    - Brian Macumber
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Sports
+      id: '18'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/959920/header.jpg?t=1547846689
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256732161
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732161/movie480.mp4?t=1539736569
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732161/movie_max.mp4?t=1539736569
+      name: Main
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256732161/movie.293x165.jpg?t=1539736569
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256732161/movie480.webm?t=1539736569
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256732161/movie_max.webm?t=1539736569
+    name: VR Curling
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: VR Curling - $4.99
+        packageid: 313848
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy VR Curling
+    packages:
+    - 313848
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> Core i5-4590 or equivalent<br></li><li><strong>Memory:</strong>
+        6 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970 or equivalent<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 520 MB available space<br></li><li><strong>Additional
+        Notes:</strong> HTC Vive or Oculus Rift Headset and Controllers Required</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Core i5-4590 or equivalent<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1060 or equivalent<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 520 MB available space<br></li><li><strong>Additional
+        Notes:</strong> HTC Vive or Oculus Rift Headset and Controllers Required</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Brian Macumber
+    release_date:
+      coming_soon: false
+      date: Jan 18, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_d242d19c200acd6e69a4335b06a87d967c82f589.1920x1080.jpg?t=1547846689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_d242d19c200acd6e69a4335b06a87d967c82f589.600x338.jpg?t=1547846689
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_722dae4e5b1cebd98bc1e1eb9348b8db0a8b8f07.1920x1080.jpg?t=1547846689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_722dae4e5b1cebd98bc1e1eb9348b8db0a8b8f07.600x338.jpg?t=1547846689
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_b4b553f452b414e51c17abe5801e86b1b7e15072.1920x1080.jpg?t=1547846689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_b4b553f452b414e51c17abe5801e86b1b7e15072.600x338.jpg?t=1547846689
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_863a8e076d63f786f36fd906780d8f2f5a616849.1920x1080.jpg?t=1547846689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_863a8e076d63f786f36fd906780d8f2f5a616849.600x338.jpg?t=1547846689
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_72ef30cd964ca7d1c1a3b84b64006ff88b318e5d.1920x1080.jpg?t=1547846689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_72ef30cd964ca7d1c1a3b84b64006ff88b318e5d.600x338.jpg?t=1547846689
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_dd399b850ec2b08ae6b22cef42c6eda1fc98a45b.1920x1080.jpg?t=1547846689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_dd399b850ec2b08ae6b22cef42c6eda1fc98a45b.600x338.jpg?t=1547846689
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_53412d4514d5515300948458861e7b009060989a.1920x1080.jpg?t=1547846689
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/959920/ss_53412d4514d5515300948458861e7b009060989a.600x338.jpg?t=1547846689
+    short_description: Ever watched curling on TV and wished you could try it out?
+      Well now you can! Try out the challenge modes, play against a friend, challenge
+      the CPU, or play online.
+    steam_appid: 959920
+    support_info:
+      email: bmacumber13@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJwrvyUnO4CdunXuAE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 9 user reviews
+    total_negative: 4
+    total_positive: 5
+    total_reviews: 9
+  reviews:
+  - author:
+      last_played: 1547884963
+      num_games_owned: 219
+      num_reviews: 43
+      playtime_at_review: 42
+      playtime_forever: 42
+      playtime_last_two_weeks: 0
+      steamid: '76561198119184400'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48414358'
+    review: i really only got this during a phase in my life when i wanted to do a
+      sport to try and find some irl friends. its not that good, atleast when i played
+      it that one time and never again.
+    steam_purchase: true
+    timestamp_created: 1547879810
+    timestamp_updated: 1572903052
+    voted_up: false
+    votes_funny: 0
+    votes_up: 2
+    weighted_vote_score: '0.52173912525177002'
+    written_during_early_access: false
+  success: 1

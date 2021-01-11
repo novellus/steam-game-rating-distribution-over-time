@@ -1,0 +1,123 @@
+details:
+  data:
+    about_the_game: Get past the guards, get the prized artwork and get out! You have
+      a silenced pistol for this mission, use it if needed... You are are a master
+      thief, and the Valentine Museum of Modern Art has a very valuable item inside,
+      can you successfully steal it?
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1210530/page_bg_generated_v6b.jpg?t=1577894207
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Gun violence with blood splatter against security officers.
+    detailed_description: Get past the guards, get the prized artwork and get out!
+      You have a silenced pistol for this mission, use it if needed... You are are
+      a master thief, and the Valentine Museum of Modern Art has a very valuable item
+      inside, can you successfully steal it?
+    developers:
+    - Arnold Guzman
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1210530/header.jpg?t=1577894207
+    is_free: false
+    legal_notice: 'Copyright: Teleporty LLC 2019'
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256769548
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256769548/movie480.mp4?t=1576674199
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256769548/movie_max.mp4?t=1576674199
+      name: Art Heist Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256769548/movie.293x165.jpg?t=1576674199
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256769548/movie480.webm?t=1576674199
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256769548/movie_max.webm?t=1576674199
+    name: Art Heist
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Art Heist - $12.99
+        packageid: 418374
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1299
+      title: Buy Art Heist
+    packages:
+    - 418374
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel i3-6100 / AMD Ryzen
+        3 1200, FX4350 or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        NVIDIA GTX 1050 Ti / AMD Radeon RX 470 or greater<br></li><li><strong>Storage:</strong>
+        260 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1299
+      final_formatted: $12.99
+      initial: 1299
+      initial_formatted: ''
+    publishers:
+    - Teleporty LLC
+    release_date:
+      coming_soon: false
+      date: Jan 1, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_85513a93ccb2f211cb7a07ab9807f682325c2a8c.1920x1080.jpg?t=1577894207
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_85513a93ccb2f211cb7a07ab9807f682325c2a8c.600x338.jpg?t=1577894207
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_2049beacc7b94bf7a87f41194b29289936292f45.1920x1080.jpg?t=1577894207
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_2049beacc7b94bf7a87f41194b29289936292f45.600x338.jpg?t=1577894207
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_d040d95f40de16ff07145e178ce27db6e2f38c0a.1920x1080.jpg?t=1577894207
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_d040d95f40de16ff07145e178ce27db6e2f38c0a.600x338.jpg?t=1577894207
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_197969497e524fbc09d9742541acb785b5167e90.1920x1080.jpg?t=1577894207
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_197969497e524fbc09d9742541acb785b5167e90.600x338.jpg?t=1577894207
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_ed9a635f0414aa361b59016e08dd464777cd30d7.1920x1080.jpg?t=1577894207
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1210530/ss_ed9a635f0414aa361b59016e08dd464777cd30d7.600x338.jpg?t=1577894207
+    short_description: Get past the guards, get the prized artwork and get out! You
+      have a silenced pistol for this mission, use it if needed...
+    steam_appid: 1210530
+    support_info:
+      email: kris@teleporty.tech
+      url: https://teleporty.tech
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: https://teleporty.tech
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

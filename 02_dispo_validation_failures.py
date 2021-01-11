@@ -3,6 +3,7 @@ import common  # local
 import os
 import re
 from collections import defaultdict
+from collections import Counter
 
 
 if __name__ == '__main__':
@@ -17,8 +18,7 @@ if __name__ == '__main__':
     errors_by_app = defaultdict(list)  # appid -> error codes
     errors_by_code = defaultdict(list)  # error code -> appids
 
-    date_parse_error_code = 'ValueError: All date formats failed to parse date string, '  # use as key to log date strings for display
-    date_string_summary = []
+    coming_soon_regex = 'AssertionError: release date marked coming soon|AssertionError\n'  # from a temporary bug in code
 
     consolidate_error_codes = [
         'AssertionError: details is html response instead of json',
@@ -39,7 +39,6 @@ if __name__ == '__main__':
         'AssertionError: query_summary -> total_reviews is not an int',
         'AssertionError: query_summary -> total_reviews is negative',
         'AssertionError: total reviews does not equal sum of positive and negative reviews',
-        date_parse_error_code,
         'json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)',
         "requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))",
         "requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host'",
@@ -64,9 +63,8 @@ if __name__ == '__main__':
                     for err in consolidate_error_codes:
                         if err in traceback:
                             error_code = err  # use shorthand since full traceback varies as line numbers evolve in sourcecode
-                            if err == date_parse_error_code:
-                                date_string = re.search(f'{re.escape(date_parse_error_code)}([^\n]*)\n', traceback).group(1)
-                                date_string_summary.append(date_string)
+                    if re.search(coming_soon_regex, traceback):
+                        error_code = coming_soon_regex
 
                     errors_by_app[appid].append(error_code)
 
@@ -77,14 +75,24 @@ if __name__ == '__main__':
             if num_unique_tracebacks == 1:
                 errors_by_code[error_code].append(appid)
             else:
-                errors_by_code['multiple_unique_tracebacks'].append(appid)
+                # errors_by_code['multiple_unique_tracebacks'].append(appid)
+                errors_by_code[tuple(sorted(set(errors_by_app[appid])))].append(appid)
 
     f = open('02_validation_failures_summary.txt', 'w', encoding='utf-8')
     for error_code, appids in sorted(errors_by_code.items(), key=lambda x: -len(x[1])):  # largest number of offenders listed first
         f.write(f'{len(appids)} offending apps\n')
         # f.write(f'{appids}\n')
         f.write(f'{[(appid, len(errors_by_app[appid])) for appid in appids]}\n')
-        f.write(error_code)
-        if error_code == date_parse_error_code:
-            f.write(f'{sorted(list(set(date_string_summary)))}')
+
+        if type(error_code) == tuple:
+            for err in error_code:
+                f.write(f'{err.strip()}\n')
+        else:
+            f.write(error_code.strip())
+
+        # if error_code == 'multiple_unique_tracebacks':
+        #     for appid in appids:
+        #         f.write(f'\n{appid}\n')
+        #         for error, instances in sorted(Counter(errors_by_app[appid]).items(), key=lambda x: -x[1]):
+        #             f.write(f'\t{instances}* {error.strip()}\n')            
         f.write('\n\n\n\n')

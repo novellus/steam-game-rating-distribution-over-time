@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "02_acquire_app_info.py", line 51, in validate_text_data
-    assert not re.search(f'^.{{0,10}}{re.escape(html_openeing_tag)}\s*\n', app_details), 'details is html response instead of json'
-AssertionError: details is html response instead of json

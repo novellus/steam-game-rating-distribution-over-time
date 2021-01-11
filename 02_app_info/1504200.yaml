@@ -14,10 +14,21 @@ details:
       \ about their &quot;spring&quot; properties =) you Will also be pleasantly surprised\
       \ by the new pumping system that rewards every coin hunter.<br />\r\n<br />\r\
       \nConquer the dusty and harsh land to prove all your numerous knowledge in practice!"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1504200/page_bg_generated_v6b.jpg?t=1608882053
+    achievements:
+      highlighted:
+      - name: First on the Mars!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504200/066d92246c530c8bf1ec663b28eb84108114b68e.jpg
+      - name: The End?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504200/fa68091d35019b4ef3d11c4a7f79f9b3cf888751.jpg
+      - name: New device!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1504200/f270f2f83e8288d46f2301de6fe83ae393d7a390.jpg
+      total: 3
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1504200/page_bg_generated_v6b.jpg?t=1610031396
     categories:
     - description: Single-player
       id: 2
+    - description: Steam Achievements
+      id: 22
     content_descriptors:
       ids: []
       notes: null
@@ -42,7 +53,7 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1504200/header.jpg?t=1608882053
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1504200/header.jpg?t=1610031396
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -58,7 +69,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816172/movie480_vp9.webm?t=1608754798
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816172/movie_max_vp9.webm?t=1608754798
     name: Elon's Dream 2
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Elon's Dream 2 - <span class="discount_original_price">$1.99</span>
+          $1.19
+        packageid: 530365
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 119
+      title: Buy Elon's Dream 2
+    packages:
+    - 530365
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Microsoft Windows<br></li><li><strong>Processor:</strong> Intel Celeron 1800
@@ -70,28 +100,35 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 119
+      final_formatted: $1.19
+      initial: 199
+      initial_formatted: $1.99
     publishers:
     - Sosiska Games
     release_date:
-      coming_soon: true
-      date: Jan 6, 2021
+      coming_soon: false
+      date: Jan 7, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_e1d2efa7cd9b5a5637df2f50e3cf53d69a2de19b.1920x1080.jpg?t=1608882053
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_e1d2efa7cd9b5a5637df2f50e3cf53d69a2de19b.600x338.jpg?t=1608882053
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_e1d2efa7cd9b5a5637df2f50e3cf53d69a2de19b.1920x1080.jpg?t=1610031396
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_e1d2efa7cd9b5a5637df2f50e3cf53d69a2de19b.600x338.jpg?t=1610031396
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_d59e281c7b45b7b044de552e55627ffd6d8d16a3.1920x1080.jpg?t=1608882053
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_d59e281c7b45b7b044de552e55627ffd6d8d16a3.600x338.jpg?t=1608882053
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_d59e281c7b45b7b044de552e55627ffd6d8d16a3.1920x1080.jpg?t=1610031396
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_d59e281c7b45b7b044de552e55627ffd6d8d16a3.600x338.jpg?t=1610031396
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_05fe5c79ad1a41b53f4b84c54e97f5a4a131664d.1920x1080.jpg?t=1608882053
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_05fe5c79ad1a41b53f4b84c54e97f5a4a131664d.600x338.jpg?t=1608882053
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_05fe5c79ad1a41b53f4b84c54e97f5a4a131664d.1920x1080.jpg?t=1610031396
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_05fe5c79ad1a41b53f4b84c54e97f5a4a131664d.600x338.jpg?t=1610031396
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_b98a900f04a2c31fe92f6ca49db031dc669fd094.1920x1080.jpg?t=1608882053
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_b98a900f04a2c31fe92f6ca49db031dc669fd094.600x338.jpg?t=1608882053
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_b98a900f04a2c31fe92f6ca49db031dc669fd094.1920x1080.jpg?t=1610031396
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_b98a900f04a2c31fe92f6ca49db031dc669fd094.600x338.jpg?t=1610031396
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_9d5ad601fe66a99e98bff5877b58fa16855235a7.1920x1080.jpg?t=1608882053
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_9d5ad601fe66a99e98bff5877b58fa16855235a7.600x338.jpg?t=1608882053
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_9d5ad601fe66a99e98bff5877b58fa16855235a7.1920x1080.jpg?t=1610031396
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1504200/ss_9d5ad601fe66a99e98bff5877b58fa16855235a7.600x338.jpg?t=1610031396
     short_description: A new part of the indie platformer with a side view once again
       challenges players, this time you will have to cope with a naughty jetpack in
       conditions of limited visibility, avoid collisions with meteors and spatial
@@ -105,13 +142,35 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJw4sbv8PYCerPBwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 5 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_positive: 5
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 1610200981
+      num_games_owned: 24
+      num_reviews: 5
+      playtime_at_review: 171
+      playtime_forever: 292
+      playtime_last_two_weeks: 292
+      steamid: '76561198439088276'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '84282170'
+    review: Fun casual game. Well made, fun mechanics, good graphics. Overall a very
+      fun experience.
+    steam_purchase: true
+    timestamp_created: 1610103639
+    timestamp_updated: 1610105108
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
   success: 1

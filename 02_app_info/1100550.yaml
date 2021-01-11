@@ -1,0 +1,192 @@
+details:
+  data:
+    about_the_game: "Wire up your base designs with all the electronics working just\
+      \ like in Rust. <br />\r\n<br />\r\nWorking elevators, door controllers, batteries\
+      \ charge or discharge, lasers/HBHFs/pads can be triggered and RF devices communicate.<br\
+      \ />\r\n<br />\r\nWired ceiling lights will illuminate your base with the new\
+      \ day-night system, all light deployables have a light source now. <br />\r\n\
+      <br />\r\nLearn about the electrical system with the convenience of Fortify.<br\
+      \ />\r\n<br />\r\nWiring with the upgrade includes some helpful features:<br\
+      \ />\r\n- color wires to help make sense of a complicated circuit<br />\r\n\
+      - see power amount over each wire<br />\r\n- disconnect wire ends without having\
+      \ to delete the wire and start over<br />\r\n- while placing wires, press backspace\
+      \ to remove the last bend <br />\r\n<br />\r\nThese electric circuits work when\
+      \ importing/exporting the file format used with the Rust copy-paste plugin.<br\
+      \ />\r\n<br />\r\nIncludes a new scientist character option for 3rd person and\
+      \ multiplayer which the electric system also works in.<br />\r\n<br />\r\nThis\
+      \ upgrade will get more new features over time (not just for electricity).<br\
+      \ />\r\n<br />\r\nRust electricity changes will be included as quickly as possible.<br\
+      \ />\r\n<br />\r\nYour purchase will also help support further regular Fortity\
+      \ development/updates.<br />\r\n<br />\r\nNon-upgraded friends can open electrical\
+      \ saves but are limited to toggling switches and timers."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1100550/page_bg_generated_v6b.jpg?t=1602548408
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Workshop
+      id: 30
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Wire up your base designs with all the electronics working\
+      \ just like in Rust. <br />\r\n<br />\r\nWorking elevators, door controllers,\
+      \ batteries charge or discharge, lasers/HBHFs/pads can be triggered and RF devices\
+      \ communicate.<br />\r\n<br />\r\nWired ceiling lights will illuminate your\
+      \ base with the new day-night system, all light deployables have a light source\
+      \ now. <br />\r\n<br />\r\nLearn about the electrical system with the convenience\
+      \ of Fortify.<br />\r\n<br />\r\nWiring with the upgrade includes some helpful\
+      \ features:<br />\r\n- color wires to help make sense of a complicated circuit<br\
+      \ />\r\n- see power amount over each wire<br />\r\n- disconnect wire ends without\
+      \ having to delete the wire and start over<br />\r\n- while placing wires, press\
+      \ backspace to remove the last bend <br />\r\n<br />\r\nThese electric circuits\
+      \ work when importing/exporting the file format used with the Rust copy-paste\
+      \ plugin.<br />\r\n<br />\r\nIncludes a new scientist character option for 3rd\
+      \ person and multiplayer which the electric system also works in.<br />\r\n\
+      <br />\r\nThis upgrade will get more new features over time (not just for electricity).<br\
+      \ />\r\n<br />\r\nRust electricity changes will be included as quickly as possible.<br\
+      \ />\r\n<br />\r\nYour purchase will also help support further regular Fortity\
+      \ development/updates.<br />\r\n<br />\r\nNon-upgraded friends can open electrical\
+      \ saves but are limited to toggling switches and timers."
+    developers:
+    - RTK Entertainment
+    fullgame:
+      appid: '505040'
+      name: FORTIFY
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1100550/header.jpg?t=1602548408
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04 ?<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        macOS 10.12+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>Storage:</strong>
+        70 MB available space</li></ul>
+    name: FORTIFY ELECTRIC UPGRADE
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: FORTIFY ELECTRIC UPGRADE - $1.99
+        packageid: 371461
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy FORTIFY ELECTRIC UPGRADE
+    packages:
+    - 371461
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 SP1+, 8, 10, 64-bit versions only<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader
+        model 4.0) capabilities<br></li><li><strong>Storage:</strong> 70 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 3, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_f7cdc4282402bcbbecd97a3b4d5f3cad89220b1c.1920x1080.jpg?t=1602548408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_f7cdc4282402bcbbecd97a3b4d5f3cad89220b1c.600x338.jpg?t=1602548408
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_8100fe23a41222d46c470f743524dce4f05bd628.1920x1080.jpg?t=1602548408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_8100fe23a41222d46c470f743524dce4f05bd628.600x338.jpg?t=1602548408
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_cdd1f6711c3923254abf884c8d829dee07b51cc9.1920x1080.jpg?t=1602548408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_cdd1f6711c3923254abf884c8d829dee07b51cc9.600x338.jpg?t=1602548408
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_3e3a6e9354d029a696a0b569489e8c9d710d859e.1920x1080.jpg?t=1602548408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_3e3a6e9354d029a696a0b569489e8c9d710d859e.600x338.jpg?t=1602548408
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_ff32439efce4da3dcd4a5ef31d525752727d3b63.1920x1080.jpg?t=1602548408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_ff32439efce4da3dcd4a5ef31d525752727d3b63.600x338.jpg?t=1602548408
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_249bffeaa7ecfaa1bf2befaa7c3b0ddb5104381f.1920x1080.jpg?t=1602548408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1100550/ss_249bffeaa7ecfaa1bf2befaa7c3b0ddb5104381f.600x338.jpg?t=1602548408
+    short_description: Wire electrical devices and make circuits to include with your
+      base designs. Featuring all the electric system devices and functionality found
+      in Rust. Also featuring a new scientist character plus a day-night system with
+      all light deployables having a light source. More new upgrade features to come.
+    steam_appid: 1100550
+    support_info:
+      email: rtk.fortify@gmail.com
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJw1Lmuj/MCe6P+kgI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 7 user reviews
+    total_negative: 3
+    total_positive: 4
+    total_reviews: 7
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 26
+      num_reviews: 4
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198826729322'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '72086075'
+    review: "\u0418\u0434\u0435\u044F \u0445\u043E\u0440\u043E\u0448\u0430\u044F,\u043D\
+      \u043E \u0440\u0435\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F \u043E\u0447\
+      \u0435\u043D\u044C \u0445\u0440\u0435\u043D\u043D\u043E\u0432\u0430\u044F.\u042F\
+      \ \u0441\u0442\u0430\u0432\u043B\u044E \u0433\u0435\u043D\u0435\u0440\u0430\u0442\
+      \u043E\u0440 \u0438 \u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u0430\u043A\u043A\
+      \u0443\u043C\u0443\u043B\u044F\u0442\u043E\u0440,\u0430 \u043F\u0440\u043E\u0432\
+      \u043E\u0434\u0430 \u043E\u0442 \u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\
+      \u0440 \u0432 \u0430\u043A\u043A\u0443\u043C\u0443\u043B\u044F\u0442\u043E\u0440\
+      \ \u0432\u0441\u0442\u0430\u0432\u0438\u0442\u044C \u043D\u0435 \u043C\u043E\
+      \u0433\u0443("
+    steam_purchase: true
+    timestamp_created: 1593948360
+    timestamp_updated: 1593948360
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

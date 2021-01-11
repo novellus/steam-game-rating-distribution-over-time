@@ -17,6 +17,8 @@ details:
       id: 10
     - description: Full controller support
       id: 28
+    - description: Steam Leaderboards
+      id: 25
     - description: Remote Play Together
       id: 44
     content_descriptors:
@@ -29,7 +31,7 @@ details:
     fullgame:
       appid: '1464550'
       name: RagingBlasters
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1495550/header.jpg?t=1609247050
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1495550/header.jpg?t=1610339526
     is_free: true
     linux_requirements: []
     mac_requirements: []
@@ -38,11 +40,11 @@ details:
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         windows10,8,7<br></li><li><strong>Processor:</strong> CPU 1.5GHz<br></li><li><strong>Memory:</strong>
-        1 MB RAM<br></li><li><strong>Graphics:</strong> 1280 x 720<br></li><li><strong>DirectX:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 720<br></li><li><strong>DirectX:</strong>
         Version 9.0<br></li><li><strong>Storage:</strong> 30 MB available space</li></ul>
       recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         windows10,8,7<br></li><li><strong>Processor:</strong> CPU 2GHz<br></li><li><strong>Memory:</strong>
-        2 MB RAM<br></li><li><strong>Graphics:</strong> 1280 x 720<br></li><li><strong>DirectX:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 720<br></li><li><strong>DirectX:</strong>
         Version 9.0<br></li><li><strong>Storage:</strong> 30 MB available space</li></ul>
     platforms:
       linux: false
@@ -51,8 +53,8 @@ details:
     publishers:
     - TERARIN GAMES
     release_date:
-      coming_soon: true
-      date: Jan 22, 2021
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     short_description: ''
     steam_appid: 1495550

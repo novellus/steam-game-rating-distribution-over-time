@@ -1,13 +1,26 @@
 details:
   data:
-    about_the_game: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1501090/extras/description_image.png?t=1610156329"
+    about_the_game: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1501090/extras/description_image.png?t=1610300902"
       /><br>It is a minimalist puzzle game in which you have to join the two opposing
       forces in the universe: Yin and Yang.<br><br>Key features:<br><br><ul class="bb_ul"><li>Relaxing
       soundtrack</li></ul><ul class="bb_ul"><li>Minimalist design and colors</li></ul><ul
       class="bb_ul"><li>No time pressure</li></ul><ul class="bb_ul"><li>Steam achievements</li></ul><ul
       class="bb_ul"><li>Handcrafted</li></ul><ul class="bb_ul"><li>Just relax and
       keep the balance between Yin and Yang</li></ul>'
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1501090/page_bg_generated_v6b.jpg?t=1610156329
+    achievements:
+      highlighted:
+      - name: Difficult Beginnings
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501090/5caea332ec72004bb773684d4b033af33bb96712.jpg
+      - name: Treading
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501090/e023f62176663e9589da95735c8ec382e8f5bf69.jpg
+      - name: Before completion
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501090/6f0f784dc2dce95b14b29419a30ddc3ec75d6b85.jpg
+      - name: Great possessing
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501090/94529ea383e3cec5717bd0e4a189d52778de8de9.jpg
+      - name: Perfect path
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1501090/82fcbe8566b92606002ed9f08d969020c3ec69a5.jpg
+      total: 5
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1501090/page_bg_generated_v6b.jpg?t=1610300902
     categories:
     - description: Single-player
       id: 2
@@ -16,7 +29,7 @@ details:
     content_descriptors:
       ids: []
       notes: null
-    detailed_description: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1501090/extras/description_image.png?t=1610156329"
+    detailed_description: '<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1501090/extras/description_image.png?t=1610300902"
       /><br>It is a minimalist puzzle game in which you have to join the two opposing
       forces in the universe: Yin and Yang.<br><br>Key features:<br><br><ul class="bb_ul"><li>Relaxing
       soundtrack</li></ul><ul class="bb_ul"><li>Minimalist design and colors</li></ul><ul
@@ -30,13 +43,14 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1501090/header.jpg?t=1610156329
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1501090/header.jpg?t=1610300902
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Ubuntu 14.04, or otherwise compatible Linux distribution<br></li><li><strong>Processor:</strong>
-        2 Ghz Dual Core<br></li><li><strong>Graphics:</strong> OpenGL 3.2<br></li><li><strong>Storage:</strong>
-        120 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>
+        2 Ghz Dual Core<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong>
+        OpenGL 3.2<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Sound
+        Card:</strong> Any</li></ul>
     mac_requirements: []
     movies:
     - highlight: true
@@ -50,7 +64,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256817523/movie480_vp9.webm?t=1610088488
         max: http://steamcdn-a.akamaihd.net/steam/apps/256817523/movie_max_vp9.webm?t=1610088488
     name: Yin Yang
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Yin yang - <span class="discount_original_price">$0.99</span>
+          $0.69
+        packageid: 529130
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 69
+      title: Buy Yin Yang
+    packages:
+    - 529130
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7<br></li><li><strong>Processor:</strong> 2 Ghz Dual Core<br></li><li><strong>Memory:</strong>
@@ -61,37 +94,44 @@ details:
       linux: true
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 69
+      final_formatted: $0.69
+      initial: 99
+      initial_formatted: $0.99
     publishers:
     - Thedox Games
     release_date:
-      coming_soon: true
-      date: Jan 2021
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_bf48dd7cb066292a3d61bff872da8604077dfaa3.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_bf48dd7cb066292a3d61bff872da8604077dfaa3.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_bf48dd7cb066292a3d61bff872da8604077dfaa3.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_bf48dd7cb066292a3d61bff872da8604077dfaa3.600x338.jpg?t=1610300902
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_e4621ecd6687ace6b91e94fb4dd40dbf7210ba8d.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_e4621ecd6687ace6b91e94fb4dd40dbf7210ba8d.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_e4621ecd6687ace6b91e94fb4dd40dbf7210ba8d.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_e4621ecd6687ace6b91e94fb4dd40dbf7210ba8d.600x338.jpg?t=1610300902
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_031a5ed2dfb41ff76e26fc655a15b32f35be086e.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_031a5ed2dfb41ff76e26fc655a15b32f35be086e.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_031a5ed2dfb41ff76e26fc655a15b32f35be086e.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_031a5ed2dfb41ff76e26fc655a15b32f35be086e.600x338.jpg?t=1610300902
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d7176b2862e9515cc9b8f3d04e90d2a92faeb44d.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d7176b2862e9515cc9b8f3d04e90d2a92faeb44d.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d7176b2862e9515cc9b8f3d04e90d2a92faeb44d.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d7176b2862e9515cc9b8f3d04e90d2a92faeb44d.600x338.jpg?t=1610300902
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d08506ef46cd66878f2117ae527aa45198cd91d0.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d08506ef46cd66878f2117ae527aa45198cd91d0.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d08506ef46cd66878f2117ae527aa45198cd91d0.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_d08506ef46cd66878f2117ae527aa45198cd91d0.600x338.jpg?t=1610300902
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_63a646554fd959b8a50395085e013dd68187d73d.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_63a646554fd959b8a50395085e013dd68187d73d.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_63a646554fd959b8a50395085e013dd68187d73d.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_63a646554fd959b8a50395085e013dd68187d73d.600x338.jpg?t=1610300902
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_657a847da4af501c51e5b4b8ba1ae7218579afa9.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_657a847da4af501c51e5b4b8ba1ae7218579afa9.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_657a847da4af501c51e5b4b8ba1ae7218579afa9.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_657a847da4af501c51e5b4b8ba1ae7218579afa9.600x338.jpg?t=1610300902
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_3afd9bfdb494bc764878406cd9f060023632cb94.1920x1080.jpg?t=1610156329
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_3afd9bfdb494bc764878406cd9f060023632cb94.600x338.jpg?t=1610156329
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_3afd9bfdb494bc764878406cd9f060023632cb94.1920x1080.jpg?t=1610300902
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1501090/ss_3afd9bfdb494bc764878406cd9f060023632cb94.600x338.jpg?t=1610300902
     short_description: 'It is a minimalist puzzle game in which you have to join the
       two opposing forces in the universe: Yin and Yang.'
     steam_appid: 1501090

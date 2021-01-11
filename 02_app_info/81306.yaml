@@ -1,0 +1,62 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Team 6 Studios
+    fullgame:
+      appid: '201510'
+      name: 'Flatout 3: Chaos & Destruction'
+    genres:
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/81306/header.jpg?t=1447355118
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Flatout 3 Chaos & Destruction Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Strategy First Inc.
+    release_date:
+      coming_soon: false
+      date: Dec 6, 2011
+    required_age: 0
+    short_description: ''
+    steam_appid: 81306
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

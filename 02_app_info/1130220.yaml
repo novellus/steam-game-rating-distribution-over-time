@@ -1,0 +1,127 @@
+details:
+  data:
+    about_the_game: "Soundtrack DLC<br />\r\n<br />\r\n01 dealy labyrinth All inclusive\
+      \   00:02:00<br />\r\n02 just.36c song                         00:00:48<br />\r\
+      \n03 main menu theim 2               00:01:27<br />\r\n04 main menu theim  \
+      \                00:01:11<br />\r\n<br />\r\n<br />\r\nwhen writing the soundtrack\
+      \ we were inspired by an 8 bit era"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1130220/page_bg_generated_v6b.jpg?t=1607181408
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Soundtrack DLC<br />\r\n<br />\r\n01 dealy labyrinth All\
+      \ inclusive   00:02:00<br />\r\n02 just.36c song                         00:00:48<br\
+      \ />\r\n03 main menu theim 2               00:01:27<br />\r\n04 main menu theim\
+      \                  00:01:11<br />\r\n<br />\r\n<br />\r\nwhen writing the soundtrack\
+      \ we were inspired by an 8 bit era"
+    developers:
+    - DIGITAL ART TEAM
+    fullgame:
+      appid: '1127250'
+      name: 'Deadly Maze: Phase 1'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1130220/header.jpg?t=1607181408
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        1.4 GHz</li></ul>
+    name: 'Deadly Maze: Phase 1 - Soundtrack DLC'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Soundtrack DLC - $0.99
+        packageid: 384121
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Deadly Maze: Phase 1 - Soundtrack DLC'
+    packages:
+    - 384121
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong>
+        512 MB VRAM<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Sound
+        Card:</strong> DirectX Compatible</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - DIGITAL ART TEAM
+    release_date:
+      coming_soon: false
+      date: Aug 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1130220/ss_7dd85987d4b0d44741159e644c2e46f9cd1af9c2.1920x1080.jpg?t=1607181408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1130220/ss_7dd85987d4b0d44741159e644c2e46f9cd1af9c2.600x338.jpg?t=1607181408
+    short_description: Soundtrack DLC
+    steam_appid: 1130220
+    support_info:
+      email: digital.endorphin.mail@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
+      German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>,
+      Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>,
+      Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>,
+      Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>,
+      Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>,
+      Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>,
+      Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>,
+      Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>,
+      Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

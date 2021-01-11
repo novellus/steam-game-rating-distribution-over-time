@@ -1,7 +1,7 @@
 details:
   data:
-    about_the_game: "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1193490/extras/Main_Menu.gif?t=1609531689\"\
-      \ /><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1193490/extras/Lulu_and_Orion.png?t=1609531689\"\
+    about_the_game: "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1193490/extras/Main_Menu.gif?t=1610161296\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1193490/extras/Lulu_and_Orion.png?t=1610161296\"\
       \ /><br><br><strong>A Crooked Heart</strong><br> <br>Lulu and Orion, the last\
       \ of the Corgis, are fighting to protect their world from Seavus, The Dark One.\
       \  During a battle with his horde of evil minions, Orion was captured leaving\
@@ -71,7 +71,7 @@ details:
       \ ability to focus on the action with clarity. So much effort has been put towards\
       \ providing a beautiful and fun experience.  I hope every player enjoys this\
       \ unique experience and falls in love with Lulu on her grand adventure."
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1193490/page_bg_generated_v6b.jpg?t=1609531689
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1193490/page_bg_generated_v6b.jpg?t=1610161296
     categories:
     - description: Single-player
       id: 2
@@ -81,8 +81,8 @@ details:
       ids: []
       notes: null
     controller_support: full
-    detailed_description: "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1193490/extras/Main_Menu.gif?t=1609531689\"\
-      \ /><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1193490/extras/Lulu_and_Orion.png?t=1609531689\"\
+    detailed_description: "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1193490/extras/Main_Menu.gif?t=1610161296\"\
+      \ /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1193490/extras/Lulu_and_Orion.png?t=1610161296\"\
       \ /><br><br><strong>A Crooked Heart</strong><br> <br>Lulu and Orion, the last\
       \ of the Corgis, are fighting to protect their world from Seavus, The Dark One.\
       \  During a battle with his horde of evil minions, Orion was captured leaving\
@@ -163,10 +163,12 @@ details:
       id: '23'
     - description: Early Access
       id: '70'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1193490/header.jpg?t=1609531689
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1193490/header.jpg?t=1610161296
     is_free: false
-    legal_notice: All characters, environments and A Crooked Heart are copyright Matt
-      Tardiff and A Little Blackbird studio 2020
+    legal_notice: "All characters, environments and other assets for the A Crooked\
+      \ Heart are \xA92021 Matt Tardiff and Little Blackbird Studio<br />\r\n<br />\r\
+      \n\xA92020 Valve Corporation. Steam and the Steam logo are trademarks and/or\
+      \ registered trademarks of Valve Corporation in the U.S. and/or other countries."
     linux_requirements: []
     mac_requirements: []
     movies:
@@ -261,7 +263,34 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256814503/movie480_vp9.webm?t=1609245069
         max: http://steamcdn-a.akamaihd.net/steam/apps/256814503/movie_max_vp9.webm?t=1609245069
     name: A Crooked Heart Game
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: A Crooked Heart - $4.99
+        packageid: 410958
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: A Crooked Heart Game - Commercial License - $4.99
+        packageid: 535605
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy A Crooked Heart Game
+    packages:
+    - 410958
+    - 535605
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 10<br></li><li><strong>Processor:</strong> Intel i5 3.30GHz or higher<br></li><li><strong>Memory:</strong>
@@ -273,55 +302,62 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
     publishers:
     - Little Blackbird Studio
     release_date:
-      coming_soon: true
-      date: Dec 2021
+      coming_soon: false
+      date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_9d1ba2ff6e1e08a55e506114b449e226573a9483.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_9d1ba2ff6e1e08a55e506114b449e226573a9483.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_9d1ba2ff6e1e08a55e506114b449e226573a9483.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_9d1ba2ff6e1e08a55e506114b449e226573a9483.600x338.jpg?t=1610161296
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_63b4babcafb0140aadb2d81285661d746d5d7826.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_63b4babcafb0140aadb2d81285661d746d5d7826.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_63b4babcafb0140aadb2d81285661d746d5d7826.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_63b4babcafb0140aadb2d81285661d746d5d7826.600x338.jpg?t=1610161296
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_373dc4a2c8cae7c4b7bfaa2731e21425dd8a8102.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_373dc4a2c8cae7c4b7bfaa2731e21425dd8a8102.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_373dc4a2c8cae7c4b7bfaa2731e21425dd8a8102.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_373dc4a2c8cae7c4b7bfaa2731e21425dd8a8102.600x338.jpg?t=1610161296
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_67857db9655868655a264af8f77c20143dee47d0.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_67857db9655868655a264af8f77c20143dee47d0.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_67857db9655868655a264af8f77c20143dee47d0.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_67857db9655868655a264af8f77c20143dee47d0.600x338.jpg?t=1610161296
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_b54934fbe684ef8e935c7cdaddddefa27bc883df.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_b54934fbe684ef8e935c7cdaddddefa27bc883df.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_b54934fbe684ef8e935c7cdaddddefa27bc883df.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_b54934fbe684ef8e935c7cdaddddefa27bc883df.600x338.jpg?t=1610161296
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_cb09857daf8b84cec8b8784800f779253ee76f93.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_cb09857daf8b84cec8b8784800f779253ee76f93.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_cb09857daf8b84cec8b8784800f779253ee76f93.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_cb09857daf8b84cec8b8784800f779253ee76f93.600x338.jpg?t=1610161296
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7b92a8289a392d036b8c1652ff09bb368ed2d071.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7b92a8289a392d036b8c1652ff09bb368ed2d071.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7b92a8289a392d036b8c1652ff09bb368ed2d071.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7b92a8289a392d036b8c1652ff09bb368ed2d071.600x338.jpg?t=1610161296
     - id: 9
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_18f376065b51d6b5673931d33ca81238e30fc7d7.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_18f376065b51d6b5673931d33ca81238e30fc7d7.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_18f376065b51d6b5673931d33ca81238e30fc7d7.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_18f376065b51d6b5673931d33ca81238e30fc7d7.600x338.jpg?t=1610161296
     - id: 10
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_04d34fea6136fc5adb6cc894e5f6f6285229e150.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_04d34fea6136fc5adb6cc894e5f6f6285229e150.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_04d34fea6136fc5adb6cc894e5f6f6285229e150.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_04d34fea6136fc5adb6cc894e5f6f6285229e150.600x338.jpg?t=1610161296
     - id: 12
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_0fcb59951af6eded36af9453a77f9cbbbf92fd93.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_0fcb59951af6eded36af9453a77f9cbbbf92fd93.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_0fcb59951af6eded36af9453a77f9cbbbf92fd93.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_0fcb59951af6eded36af9453a77f9cbbbf92fd93.600x338.jpg?t=1610161296
     - id: 13
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_addedb3e65bc132e79300ae8d47fd232afb76f9c.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_addedb3e65bc132e79300ae8d47fd232afb76f9c.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_addedb3e65bc132e79300ae8d47fd232afb76f9c.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_addedb3e65bc132e79300ae8d47fd232afb76f9c.600x338.jpg?t=1610161296
     - id: 14
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7221ddc71c7089061e61e83a6f18c30e55d4ba9c.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7221ddc71c7089061e61e83a6f18c30e55d4ba9c.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7221ddc71c7089061e61e83a6f18c30e55d4ba9c.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_7221ddc71c7089061e61e83a6f18c30e55d4ba9c.600x338.jpg?t=1610161296
     - id: 15
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_307655b040b4c9fedcd858d4f60d46c0c35046c4.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_307655b040b4c9fedcd858d4f60d46c0c35046c4.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_307655b040b4c9fedcd858d4f60d46c0c35046c4.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_307655b040b4c9fedcd858d4f60d46c0c35046c4.600x338.jpg?t=1610161296
     - id: 16
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_6b936a226a9e32e82037fd9f6b389f627752ba3e.1920x1080.jpg?t=1609531689
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_6b936a226a9e32e82037fd9f6b389f627752ba3e.600x338.jpg?t=1609531689
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_6b936a226a9e32e82037fd9f6b389f627752ba3e.1920x1080.jpg?t=1610161296
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1193490/ss_6b936a226a9e32e82037fd9f6b389f627752ba3e.600x338.jpg?t=1610161296
     short_description: A Crooked Heart is a traditionally animated, side scrolling
       adventure about Lulu and Orion, the last of the Corgis, fighting to protect
       their world from Seavus.

@@ -1,0 +1,81 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Tale Worlds
+    fullgame:
+      appid: '48700'
+      name: 'Mount & Blade: Warband'
+    genres:
+    - description: Action
+      id: '1'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/48710/header.jpg?t=1472750580
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 78
+    name: 'Mount & Blade: Warband Demo'
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Tale Worlds
+    release_date:
+      coming_soon: false
+      date: Aug 30, 2010
+    required_age: 0
+    short_description: ''
+    steam_appid: 48710
+    support_info:
+      email: ''
+      url: ''
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4gprF7NkCf4nCcA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1485182013
+      num_games_owned: 1109
+      num_reviews: 17
+      playtime_at_review: 26
+      playtime_forever: 26
+      playtime_last_two_weeks: 0
+      steamid: '76561198218876844'
+    comment_count: 0
+    language: schinese
+    received_for_free: true
+    recommendationid: '29495455'
+    review: "\u8FD9\u5C31\u662F\u6211\u4E00\u76F4\u68A6\u5BD0\u4EE5\u6C42\u7684\u6E38\
+      \u620F\uFF01"
+    steam_purchase: true
+    timestamp_created: 1485405737
+    timestamp_updated: 1485405737
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.502487540245056152'
+    written_during_early_access: false
+  success: 1

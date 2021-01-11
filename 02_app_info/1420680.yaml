@@ -18,7 +18,20 @@ details:
       \    * Unique locations with secret rooms, doors and mystery!<br />\r\n    *\
       \ Optional puzzle-like RPG elements to unlock secret locations and achievements!<br\
       \ />\r\n    * Deep combat system!"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1420680/page_bg_generated_v6b.jpg?t=1609073052
+    achievements:
+      highlighted:
+      - name: Alfa tester
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1420680/13599b696418687a37826dc16d668bd905057961.jpg
+      - name: Detective
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1420680/c053773520b319f4859e6cd0f212cb266e1a2ae6.jpg
+      - name: Fanatic
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1420680/958e83f876729ec2a43c0393bebd092d7fcd1b23.jpg
+      - name: Challenger
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1420680/3fd18e6e1beeb396a5e5c589e2ae3c8b37f21f9c.jpg
+      - name: Cooperation
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1420680/f60e125b0aa5a5ae2380153f347129b3d45b53a3.jpg
+      total: 5
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1420680/page_bg_generated_v6b.jpg?t=1610269274
     categories:
     - description: Single-player
       id: 2
@@ -69,7 +82,7 @@ details:
       id: '3'
     - description: Strategy
       id: '2'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1420680/header.jpg?t=1609073052
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1420680/header.jpg?t=1610269274
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
@@ -93,7 +106,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816599/movie480_vp9.webm?t=1609073042
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816599/movie_max_vp9.webm?t=1609073042
     name: Shards of Feyra
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Shards of Feyra - <span class="discount_original_price">$6.99</span>
+          $6.29
+        packageid: 498625
+        percent_savings: 0
+        percent_savings_text: '-10% '
+        price_in_cents_with_discount: 629
+      title: Buy Shards of Feyra
+    packages:
+    - 498625
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
         processor and operating system<br></li><li><strong>OS:</strong> Windows 10
@@ -115,31 +147,38 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 10
+      final: 629
+      final_formatted: $6.29
+      initial: 699
+      initial_formatted: $6.99
     publishers:
     - Feyra Online
     release_date:
-      coming_soon: true
-      date: Jan 2021
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_1fb1e190e5f25e2d2d730139eb08f19d13798e55.1920x1080.jpg?t=1609073052
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_1fb1e190e5f25e2d2d730139eb08f19d13798e55.600x338.jpg?t=1609073052
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_1fb1e190e5f25e2d2d730139eb08f19d13798e55.1920x1080.jpg?t=1610269274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_1fb1e190e5f25e2d2d730139eb08f19d13798e55.600x338.jpg?t=1610269274
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_853d098dd3e70e01c3a01a9e45aa57fe3cdbc552.1920x1080.jpg?t=1609073052
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_853d098dd3e70e01c3a01a9e45aa57fe3cdbc552.600x338.jpg?t=1609073052
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_853d098dd3e70e01c3a01a9e45aa57fe3cdbc552.1920x1080.jpg?t=1610269274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_853d098dd3e70e01c3a01a9e45aa57fe3cdbc552.600x338.jpg?t=1610269274
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_d5fe163b1b98132332837c016eb3658b7bab8bde.1920x1080.jpg?t=1609073052
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_d5fe163b1b98132332837c016eb3658b7bab8bde.600x338.jpg?t=1609073052
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_d5fe163b1b98132332837c016eb3658b7bab8bde.1920x1080.jpg?t=1610269274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_d5fe163b1b98132332837c016eb3658b7bab8bde.600x338.jpg?t=1610269274
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_b063c8e74790f726e7f838e051a3d7833a089dcc.1920x1080.jpg?t=1609073052
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_b063c8e74790f726e7f838e051a3d7833a089dcc.600x338.jpg?t=1609073052
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_b063c8e74790f726e7f838e051a3d7833a089dcc.1920x1080.jpg?t=1610269274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_b063c8e74790f726e7f838e051a3d7833a089dcc.600x338.jpg?t=1610269274
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_207d4e2228be55bb0ed3dcc59e470de61ec85457.1920x1080.jpg?t=1609073052
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_207d4e2228be55bb0ed3dcc59e470de61ec85457.600x338.jpg?t=1609073052
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_207d4e2228be55bb0ed3dcc59e470de61ec85457.1920x1080.jpg?t=1610269274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_207d4e2228be55bb0ed3dcc59e470de61ec85457.600x338.jpg?t=1610269274
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_8ed6968068f816fe4ac9b4391fef317d8ee3d9bf.1920x1080.jpg?t=1609073052
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_8ed6968068f816fe4ac9b4391fef317d8ee3d9bf.600x338.jpg?t=1609073052
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_8ed6968068f816fe4ac9b4391fef317d8ee3d9bf.1920x1080.jpg?t=1610269274
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1420680/ss_8ed6968068f816fe4ac9b4391fef317d8ee3d9bf.600x338.jpg?t=1610269274
     short_description: This is a turn based tactical RPG, which could be played with
       your friend or solo. Each player will control 2 heroes and try to help the village
       leader with various quests and save the land of Feyra.

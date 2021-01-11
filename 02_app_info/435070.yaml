@@ -1,0 +1,147 @@
+details:
+  data:
+    about_the_game: "Elansar is a small myst like &quot;point &amp; click&quot; adventure\
+      \ game<br />\r\nExplore an island and solve puzzles.<br />\r\nWill you uncover\
+      \ the Island's mystery ?<br />\r\nGame available in English, French, German\
+      \ and Spanish language.<br />\r\nThis game was created only by myself for 2\
+      \ years during my free time."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/435070/page_bg_generated_v6b.jpg?t=1508093023
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Elansar is a small myst like &quot;point &amp; click&quot;\
+      \ adventure game<br />\r\nExplore an island and solve puzzles.<br />\r\nWill\
+      \ you uncover the Island's mystery ?<br />\r\nGame available in English, French,\
+      \ German and Spanish language.<br />\r\nThis game was created only by myself\
+      \ for 2 years during my free time."
+    developers:
+    - OrionSoft
+    genres:
+    - description: Adventure
+      id: '25'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/435070/header.jpg?t=1508093023
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Debian<br></li><li><strong>Processor:</strong> x86 32bits !<br></li><li><strong>Additional
+        Notes:</strong> needs libsdl1.2</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        10.5<br></li><li><strong>Processor:</strong> Intel<br></li><li><strong>Additional
+        Notes:</strong> SDL 1.2 framework needed for OS &gt; 10.5 ! (read the game
+        manual)</li></ul>
+    movies:
+    - highlight: true
+      id: 256659665
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659665/movie480.mp4?t=1452538812
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659665/movie_max.mp4?t=1452538812
+      name: Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256659665/movie.293x165.jpg?t=1452538812
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659665/movie480.webm?t=1452538812
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659665/movie_max.webm?t=1452538812
+    name: Elansar
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Elansar - $5.99
+        packageid: 90835
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Elansar
+    packages:
+    - 90835
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP or 7</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - OrionSoft
+    release_date:
+      coming_soon: false
+      date: Jan 11, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_42b935359269724beb033893e466876217aa7620.1920x1080.jpg?t=1508093023
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_42b935359269724beb033893e466876217aa7620.600x338.jpg?t=1508093023
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_3ba3548b0046c272b302dfa5d70345861d9882d3.1920x1080.jpg?t=1508093023
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_3ba3548b0046c272b302dfa5d70345861d9882d3.600x338.jpg?t=1508093023
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_483b7a5283961ad31a7af3652f5c45b2ba5655a8.1920x1080.jpg?t=1508093023
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_483b7a5283961ad31a7af3652f5c45b2ba5655a8.600x338.jpg?t=1508093023
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_77557198ce2f55a37415ea5e93e8a034c0338476.1920x1080.jpg?t=1508093023
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_77557198ce2f55a37415ea5e93e8a034c0338476.600x338.jpg?t=1508093023
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_45738e5e1656575cc618591f8e87bb1d40774b29.1920x1080.jpg?t=1508093023
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/435070/ss_45738e5e1656575cc618591f8e87bb1d40774b29.600x338.jpg?t=1508093023
+    short_description: Elansar is a small myst like &quot;point &amp; click&quot;
+      adventure game Explore an island and solve puzzles. Will you uncover the Island's
+      mystery ?
+    steam_appid: 435070
+    support_info:
+      email: onorisoft@free.fr
+      url: http://onorisoft.free.fr/
+    supported_languages: English, French, German, Spanish - Spain
+    type: game
+    website: http://onorisoft.free.fr/
+  success: true
+reviews:
+  cursor: AoJ4nd3/nvMCefHHlAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 5
+    total_positive: 5
+    total_reviews: 10
+  reviews:
+  - author:
+      last_played: 1594385468
+      num_games_owned: 35
+      num_reviews: 3
+      playtime_at_review: 59
+      playtime_forever: 59
+      playtime_last_two_weeks: 0
+      steamid: '76561198004052934'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '72498969'
+    review: Don't expect much. A nice short game to pass the time in this pandemic.
+      Had enough of a story and puzzles to keep me interested. Played the game in
+      about an hour with coffee breaks. Would recommend, but don't expect much.
+    steam_purchase: true
+    timestamp_created: 1594472983
+    timestamp_updated: 1594472983
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

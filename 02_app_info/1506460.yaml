@@ -7,9 +7,22 @@ details:
       to venting clicks, you can also try to explore the rules. The water droplets
       will disappear after clicking, but if there are vacancies around it, it will
       turn into new droplets. Only when you fully use your brain can you Eliminate
-      the small water droplets clean.<br><br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1506460/extras/level_1.gif?t=1608975452"
+      the small water droplets clean.<br><br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1506460/extras/level_1.gif?t=1609935967"
       />
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1506460/page_bg_generated_v6b.jpg?t=1608975452
+    achievements:
+      highlighted:
+      - name: Hello player
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1506460/434aa44c8044f46dd395c581f0f91927445860da.jpg
+      - name: Clever mind
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1506460/0ec56223d485496b51354e92f2a00aa9b4ecffe1.jpg
+      - name: Smart mind
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1506460/ef0fb3ad3d52da3c6b48f95e9970e4bd72ebea0b.jpg
+      - name: Game complete
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1506460/22683bd5ed0f2bfb17541bf67ecefae1c4de16ab.jpg
+      - name: ALL  STARS
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1506460/1fae1a4e70dc551d4fab2b0c82efb20a5da8d9a1.jpg
+      total: 5
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1506460/page_bg_generated_v6b.jpg?t=1609935967
     categories:
     - description: Single-player
       id: 2
@@ -25,7 +38,7 @@ details:
       in addition to venting clicks, you can also try to explore the rules. The water
       droplets will disappear after clicking, but if there are vacancies around it,
       it will turn into new droplets. Only when you fully use your brain can you Eliminate
-      the small water droplets clean.<br><br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1506460/extras/level_1.gif?t=1608975452"
+      the small water droplets clean.<br><br><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1506460/extras/level_1.gif?t=1609935967"
       />
     developers:
     - Enjoy Play
@@ -36,7 +49,7 @@ details:
       id: '23'
     - description: Strategy
       id: '2'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1506460/header.jpg?t=1608975452
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1506460/header.jpg?t=1609935967
     is_free: false
     legal_notice: A brainstorming game relax you .
     linux_requirements: []
@@ -53,7 +66,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256815722/movie480_vp9.webm?t=1608773004
         max: http://steamcdn-a.akamaihd.net/steam/apps/256815722/movie_max_vp9.webm?t=1608773004
     name: "Eliminate Drips - \u6D88\u706D\u6C34\u6EF4"
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Eliminate Drips - <span class="discount_original_price">$1.99</span>
+          $1.19
+        packageid: 531153
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 119
+      title: "Buy Eliminate Drips - \u6D88\u706D\u6C34\u6EF4"
+    packages:
+    - 531153
     pc_requirements:
       minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
         \ Microsoft\xAE Windows\xAE XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong>\
@@ -69,28 +101,35 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 119
+      final_formatted: $1.19
+      initial: 199
+      initial_formatted: $1.99
     publishers:
     - Enjoy Play
     release_date:
-      coming_soon: true
-      date: Jan 7, 2021
+      coming_soon: false
+      date: Jan 6, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_80bd1948889c9729d798a2a3483ca0b2d16f6363.1920x1080.jpg?t=1608975452
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_80bd1948889c9729d798a2a3483ca0b2d16f6363.600x338.jpg?t=1608975452
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_80bd1948889c9729d798a2a3483ca0b2d16f6363.1920x1080.jpg?t=1609935967
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_80bd1948889c9729d798a2a3483ca0b2d16f6363.600x338.jpg?t=1609935967
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_5cdc498daac8edb0b48573a1dc2f5b2aa43d27c3.1920x1080.jpg?t=1608975452
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_5cdc498daac8edb0b48573a1dc2f5b2aa43d27c3.600x338.jpg?t=1608975452
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_5cdc498daac8edb0b48573a1dc2f5b2aa43d27c3.1920x1080.jpg?t=1609935967
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_5cdc498daac8edb0b48573a1dc2f5b2aa43d27c3.600x338.jpg?t=1609935967
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_95ecde312f8d9237fb57b3f3bff4999a6c6108f7.1920x1080.jpg?t=1608975452
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_95ecde312f8d9237fb57b3f3bff4999a6c6108f7.600x338.jpg?t=1608975452
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_95ecde312f8d9237fb57b3f3bff4999a6c6108f7.1920x1080.jpg?t=1609935967
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_95ecde312f8d9237fb57b3f3bff4999a6c6108f7.600x338.jpg?t=1609935967
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_829452ba403719696ef60cff147d8f809557fc65.1920x1080.jpg?t=1608975452
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_829452ba403719696ef60cff147d8f809557fc65.600x338.jpg?t=1608975452
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_829452ba403719696ef60cff147d8f809557fc65.1920x1080.jpg?t=1609935967
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_829452ba403719696ef60cff147d8f809557fc65.600x338.jpg?t=1609935967
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_e155c1d0640265c73daf4e8d91db1bfd420e0b6f.1920x1080.jpg?t=1608975452
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_e155c1d0640265c73daf4e8d91db1bfd420e0b6f.600x338.jpg?t=1608975452
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_e155c1d0640265c73daf4e8d91db1bfd420e0b6f.1920x1080.jpg?t=1609935967
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1506460/ss_e155c1d0640265c73daf4e8d91db1bfd420e0b6f.600x338.jpg?t=1609935967
     short_description: A brainstorming game relax you .
     steam_appid: 1506460
     support_info:

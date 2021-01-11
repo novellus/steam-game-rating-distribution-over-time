@@ -1,0 +1,164 @@
+details:
+  data:
+    about_the_game: '<p><em>Algorithms and Angelology</em> is the second soundtrack
+      album to be released for Splice featuring music tracks from the 4 Epilogue sequences,
+      plus a bonus track!</p>
+
+      <strong>Tracklist:</strong>
+
+      <ol>
+
+      <li>Ariadne</li>
+
+      <li>Ganymede</li>
+
+      <li>Phylonoe</li>
+
+      <li>Daedalus</li>
+
+      <li>Reflection</li>
+
+      </ol>
+
+      <p><strong>Songs will be placed in the Splice folder of the Steam install directory.
+      To view, right-click on Splice in your Library and select Properties. Then select
+      the Local Files tab and the Browse Local Files button. In the system file browser,
+      open the folder named "soundtrack" to view and listen to your music.</strong></p>'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/209793/page_bg_generated_v6b.jpg?t=1447355979
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<p><em>Algorithms and Angelology</em> is the second soundtrack
+      album to be released for Splice featuring music tracks from the 4 Epilogue sequences,
+      plus a bonus track!</p>
+
+      <strong>Tracklist:</strong>
+
+      <ol>
+
+      <li>Ariadne</li>
+
+      <li>Ganymede</li>
+
+      <li>Phylonoe</li>
+
+      <li>Daedalus</li>
+
+      <li>Reflection</li>
+
+      </ol>
+
+      <p><strong>Songs will be placed in the Splice folder of the Steam install directory.
+      To view, right-click on Splice in your Library and select Properties. Then select
+      the Local Files tab and the Browse Local Files button. In the system file browser,
+      open the folder named "soundtrack" to view and listen to your music.</strong></p>'
+    developers:
+    - Cipher Prime Studios
+    fullgame:
+      appid: '209790'
+      name: Splice
+    genres:
+    - description: Indie
+      id: '23'
+    - description: Casual
+      id: '4'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/209793/header.jpg?t=1447355979
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Splice Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Splice Soundtrack - $4.99
+        packageid: 15052
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Particles, Colors, and Light -  The Cipher Prime Bundle - $14.99
+        packageid: 18354
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Splice Soundtrack
+    packages:
+    - 15052
+    - 18354
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - Cipher Prime Studios
+    release_date:
+      coming_soon: false
+      date: Jun 13, 2012
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/209793/ss_4b4f58348e30b57d0daa520ffc1fcaa66984c047.1920x1080.jpg?t=1447355979
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/209793/ss_4b4f58348e30b57d0daa520ffc1fcaa66984c047.600x338.jpg?t=1447355979
+    short_description: 'Algorithms and Angelology is the second soundtrack album to
+      be released for Splice featuring music tracks from the 4 Epilogue sequences,
+      plus a bonus track! Tracklist: Ariadne Ganymede Phylonoe Daedalus Reflection
+      Songs will be placed in the Splice folder of the Steam install directory.'
+    steam_appid: 209793
+    support_info:
+      email: support@cipherprime.com
+      url: ''
+    type: dlc
+    website: http://www.cipherprime.com/games/splice
+  success: true
+reviews:
+  cursor: AoJ4l43M2O0CeaXo0wE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1346
+      num_reviews: 567
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561197998455758'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '55525977'
+    review: Good neoclassical music. Bored quickly.
+    steam_purchase: true
+    timestamp_created: 1570635803
+    timestamp_updated: 1570635803
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: '0.469798654317855835'
+    written_during_early_access: false
+  success: 1

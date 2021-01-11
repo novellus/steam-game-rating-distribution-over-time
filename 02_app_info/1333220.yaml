@@ -1,0 +1,244 @@
+details:
+  data:
+    about_the_game: "STAR WARS\u2122: The Old Republic\u2122 offers an optional subscription\
+      \ that allows you to experience even more of the STAR WARS universe. Benefits\
+      \ include an increased level cap of 75 and access to the most recent expansions:\
+      \ Onslaught, Knights of the Eternal Throne, and Knights of the Fallen Empire.\
+      \ In addition, you will receive a monthly Cartel Coin Grant, increased XP, and\
+      \ more.<br><br><strong>Benefits include:</strong><br><ul class=\"bb_ul\"><li>All\
+      \ content available to free-to-play players<br></li><li>Immediate access to\
+      \ all SWTOR expansions, including Onslaught, Knights of the Eternal Throne,\
+      \ and Knights of the Fallen Empire<br></li><li>Level cap increased from 60 to\
+      \ 75<br></li><li>Unlimited access to Warzones, Flashpoints, Uprisings, and Operations<br></li><li>Monthly\
+      \ Cartel Coin grant<br></li><li>Increased experience gain (XP)<br></li><li>Increased\
+      \ Renown gain<br></li><li>Increased Reputation gain<br></li><li>Additional character\
+      \ slots<br></li><li>Rest XP</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1333220/page_bg_generated_v6b.jpg?t=1597854394
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: MMO
+      id: 20
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "STAR WARS\u2122: The Old Republic\u2122 offers an optional\
+      \ subscription that allows you to experience even more of the STAR WARS universe.\
+      \ Benefits include an increased level cap of 75 and access to the most recent\
+      \ expansions: Onslaught, Knights of the Eternal Throne, and Knights of the Fallen\
+      \ Empire. In addition, you will receive a monthly Cartel Coin Grant, increased\
+      \ XP, and more.<br><br><strong>Benefits include:</strong><br><ul class=\"bb_ul\"\
+      ><li>All content available to free-to-play players<br></li><li>Immediate access\
+      \ to all SWTOR expansions, including Onslaught, Knights of the Eternal Throne,\
+      \ and Knights of the Fallen Empire<br></li><li>Level cap increased from 60 to\
+      \ 75<br></li><li>Unlimited access to Warzones, Flashpoints, Uprisings, and Operations<br></li><li>Monthly\
+      \ Cartel Coin grant<br></li><li>Increased experience gain (XP)<br></li><li>Increased\
+      \ Renown gain<br></li><li>Increased Reputation gain<br></li><li>Additional character\
+      \ slots<br></li><li>Rest XP</li></ul>"
+    developers:
+    - BioWare
+    fullgame:
+      appid: '1286830'
+      name: "STAR WARS\u2122: The Old Republic\u2122"
+    genres:
+    - description: Massively Multiplayer
+      id: '29'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1333220/header.jpg?t=1597854394
+    is_free: false
+    legal_notice: "Germany, Austria, and Switzerland only: EA\u2019S PRIVACY & COOKIE\
+      \ POLICY (privacy.ea.com/de) APPLIES.<br />\r\nOther EU, United Kingdom, Norway,\
+      \ Iceland, Andorra, Bosnia and Herzegovina, Georgia, Kosovo, Macedonia (FYROM),\
+      \ Moldova, Monaco, Montenegro, San Marino, Serbia, Turkey, Vatican City (Holy\
+      \ See), Liechtenstein only: ACKNOWLEDGEMENT OF EA's PRIVACY & COOKIE POLICY\
+      \ (privacy.ea.com) REQUIRED TO PLAY.<br />\r\nAll other residents: ACCEPTANCE\
+      \ OF EA PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY.<br />\r\n\
+      \_<br />\r\nINTERNET CONNECTION; STAR WARS: THE OLD REPUBLIC (SWTOR) ACCOUNT;\
+      \ STEAM ACCOUNT; ACCEPTANCE OF EA USER AGREEMENT (terms.ea.com) & SWTOR END\
+      \ USER ACCESS AND LICENSE AGREEMENT (swtor.com/legalnotices/euala); AND DOWNLOAD\
+      \ & INSTALLATION OF THE SWTOR CLIENT SOFTWARE (account.swtor.com/play-for-free)\
+      \ REQUIRED TO PLAY. YOU MUST LINK YOUR SWTOR AND STEAM ACCOUNTS TO PLAY; EA\
+      \ WILL SHARE YOUR ACCOUNT ID AND INDIVIDUAL GAME AND PLAY RECORDS WITH STEAM\
+      \ TO VALIDATE YOUR PURCHASE AND/OR REFUND REQUEST. ACCESS TO SOFTWARE CONTENT\
+      \ IS LIMITED TO ONE SWTOR & ONE STEAM ACCOUNT & IS NON-TRANSFERABLE AFTER PURCHASE.\
+      \ YOU MAY NEED TO BE 13+ or 16+ TO REGISTER FOR A SWTOR ACCOUNT (AGE MAY VARY,\
+      \ SEE http://o.ea.com/ea/child-access FOR DETAILS). SOME CONTENT MAY REQUIRE\
+      \ GAMEPLAY TO UNLOCK. CONTENT UPDATES MAY BE DOWNLOADED AUTOMATICALLY, REQUIRE\
+      \ ADDITIONAL STORAGE, AND INCUR BANDWIDTH USAGE FEES. EA MAY PROVIDE CERTAIN\
+      \ FREE INCREMENTAL CONTENT &/OR UPDATES. EA MAY RETIRE ONLINE FEATURES AFTER\
+      \ 30 DAYS NOTICE POSTED ON ea.com/service-updates.<br />\r\n\_<br />\r\nEA User\
+      \ Agreement: terms.ea.com/de for German residents and terms.ea.com for all other\
+      \ residents<br />\r\nEA Privacy & Cookie Policy: privacy.ea.com/de for German\
+      \ residents and privacy.ea.com for all other residents<br />\r\nSWTOR EUALA:\
+      \ https://www.swtor.com/de/bekanntmachungen/euala for German residents and swtor.com/legalnotices/euala\
+      \ for all other residents"
+    linux_requirements: []
+    mac_requirements: []
+    name: "STAR WARS\u2122: The Old Republic\u2122  - Subscriptions"
+    package_groups:
+    - description: To be billed on a recurring basis.
+      display_type: '1'
+      is_recurring_subscription: 'true'
+      name: subscriptions
+      save_text: Save up to 13%
+      selection_text: Starting at $14.99 / 30 days
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$14.99 at checkout,
+          auto-renewed every 30 day(s) at $14.99.</p>
+        option_text: $14.99 / 30 days
+        packageid: 487888
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$29.98 at checkout,
+          auto-renewed every 60 day(s) at $29.98.</p>
+        option_text: $29.98 / 60 days
+        packageid: 487889
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2998
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$41.97 at checkout,
+          auto-renewed every 90 day(s) at $41.97.</p>
+        option_text: $41.97 / 90 days
+        packageid: 487890
+        percent_savings: 7
+        percent_savings_text: '-7% '
+        price_in_cents_with_discount: 4197
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: <p class="game_purchase_subscription">$77.94 at checkout,
+          auto-renewed every 180 day(s) at $77.94.</p>
+        option_text: $77.94 / 180 days
+        packageid: 487891
+        percent_savings: 13
+        percent_savings_text: '-13% '
+        price_in_cents_with_discount: 7794
+      title: Recurring Subscription Options
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: "STAR WARS\u2122: The Old Republic\u2122 - 60 Day Game Time -\
+          \ $29.98"
+        packageid: 466102
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 2998
+      title: "Buy STAR WARS\u2122: The Old Republic\u2122  - Subscriptions"
+    packages:
+    - 487888
+    - 466102
+    - 487889
+    - 487890
+    - 487891
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 or later<br></li><li><strong>Processor:</strong> AMD Athlon 64 X2
+        Dual-Core 4000+ or better/Intel Core 2 Duo 2.0GHz or better<br></li><li><strong>Memory:</strong>
+        3 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better/AMD
+        Radeon HD 7450/Nvidia GeForce 610<br></li><li><strong>Network:</strong> Broadband
+        Internet connection</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
+      recurring_sub: 466131
+      recurring_sub_desc: $14.99 at checkout, auto-renewed every 30 day(s) at $14.99.
+    publishers:
+    - Electronic Arts
+    recommendations:
+      total: 408
+    release_date:
+      coming_soon: false
+      date: Jul 21, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_1b8dc5fed7881733091b6a1d5c2d394f4b70cb4b.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_1b8dc5fed7881733091b6a1d5c2d394f4b70cb4b.600x338.jpg?t=1597854394
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_18f1059caf837ef615b805579028ed3dc4198e0a.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_18f1059caf837ef615b805579028ed3dc4198e0a.600x338.jpg?t=1597854394
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_ccc0a814ac8ce416536c725320e1cd3973546a3f.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_ccc0a814ac8ce416536c725320e1cd3973546a3f.600x338.jpg?t=1597854394
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_0c672185a1bd7e71c7cae3d71cbbf001f6c10e5b.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_0c672185a1bd7e71c7cae3d71cbbf001f6c10e5b.600x338.jpg?t=1597854394
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_7f812c033cc84fd6bbf86cf93ce2c1fc803c22b5.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_7f812c033cc84fd6bbf86cf93ce2c1fc803c22b5.600x338.jpg?t=1597854394
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_f644d9f6b41f30b382c5a76a9421dd17545ed1df.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_f644d9f6b41f30b382c5a76a9421dd17545ed1df.600x338.jpg?t=1597854394
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_e5f5ce50f27f71a5e2967adde69c914cb08ff26e.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_e5f5ce50f27f71a5e2967adde69c914cb08ff26e.600x338.jpg?t=1597854394
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_1687bda69198c95e9404329cd78292db658d832e.1920x1080.jpg?t=1597854394
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1333220/ss_1687bda69198c95e9404329cd78292db658d832e.600x338.jpg?t=1597854394
+    short_description: "The STAR WARS\u2122: The Old Republic\u2122 optional subscription\
+      \ service allows you to experience even more of the Star Wars universe!"
+    steam_appid: 1333220
+    support_info:
+      email: ''
+      url: https://help.ea.com/
+    supported_languages: English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4qprm8/YCfuXowQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 4
+    review_score_desc: Mostly Negative
+    total_negative: 251
+    total_positive: 155
+    total_reviews: 406
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 99
+      num_reviews: 10
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198451626339'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84362846'
+    review: DO NOT BUY. EA has been stealing my money for months now. Steam tells
+      me that I have to deal with them, and EA tells me to deal with Steam. I canceled
+      my subscription months ago and I continue to be charged. I am filing a fraud
+      claim with my bank, and I am even considering legal action. They deserve it.
+    steam_purchase: true
+    timestamp_created: 1610203321
+    timestamp_updated: 1610203321
+    voted_up: false
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

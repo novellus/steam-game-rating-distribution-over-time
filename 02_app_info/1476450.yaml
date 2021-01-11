@@ -6,7 +6,7 @@ details:
       cyberpunk.<h2 class="bb_tag">Key Features</h2><br><ul class="bb_ul"><li> Dynamic
       gameplay<br></li><li> Futuristic city<br></li><li> Cool music<br></li><li> Machine
       gun, pistol, sniper rifle and dangerous enemies!</li></ul>
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1476450/page_bg_generated_v6b.jpg?t=1609671243
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1476450/page_bg_generated_v6b.jpg?t=1610138911
     categories:
     - description: Single-player
       id: 2
@@ -39,7 +39,7 @@ details:
       id: '3'
     - description: Simulation
       id: '28'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1476450/header.jpg?t=1609671243
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1476450/header.jpg?t=1610138911
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -55,7 +55,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256809569/movie480_vp9.webm?t=1609671238
         max: http://steamcdn-a.akamaihd.net/steam/apps/256809569/movie_max_vp9.webm?t=1609671238
     name: Cyber Hentai
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cyber Hentai - <span class="discount_original_price">$1.99</span>
+          $1.19
+        packageid: 519949
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 119
+      title: Buy Cyber Hentai
+    packages:
+    - 519949
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows XP, 7, 8, 10<br></li><li><strong>Processor:</strong> 2.0 GHz Dual
@@ -66,37 +85,44 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 119
+      final_formatted: $1.19
+      initial: 199
+      initial_formatted: $1.99
     publishers:
     - Sweet Games
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_1ffe6ba823af053ef31eae2e8050c93b79d6ad11.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_1ffe6ba823af053ef31eae2e8050c93b79d6ad11.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_1ffe6ba823af053ef31eae2e8050c93b79d6ad11.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_1ffe6ba823af053ef31eae2e8050c93b79d6ad11.600x338.jpg?t=1610138911
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_c0ca03302b755d2bb48f883bc4566554038efb68.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_c0ca03302b755d2bb48f883bc4566554038efb68.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_c0ca03302b755d2bb48f883bc4566554038efb68.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_c0ca03302b755d2bb48f883bc4566554038efb68.600x338.jpg?t=1610138911
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_4787f1ad3a7c13fbb6effbe5908566fadae1f9a4.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_4787f1ad3a7c13fbb6effbe5908566fadae1f9a4.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_4787f1ad3a7c13fbb6effbe5908566fadae1f9a4.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_4787f1ad3a7c13fbb6effbe5908566fadae1f9a4.600x338.jpg?t=1610138911
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_a27fe5140dcd69ab5009cd326f2dbc174aa9ef63.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_a27fe5140dcd69ab5009cd326f2dbc174aa9ef63.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_a27fe5140dcd69ab5009cd326f2dbc174aa9ef63.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_a27fe5140dcd69ab5009cd326f2dbc174aa9ef63.600x338.jpg?t=1610138911
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_b201bce67a2344cc674752338fc2cc3fe533cf0f.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_b201bce67a2344cc674752338fc2cc3fe533cf0f.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_b201bce67a2344cc674752338fc2cc3fe533cf0f.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_b201bce67a2344cc674752338fc2cc3fe533cf0f.600x338.jpg?t=1610138911
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_0a96a020d22cdec31af4369dd48ba50fd3767203.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_0a96a020d22cdec31af4369dd48ba50fd3767203.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_0a96a020d22cdec31af4369dd48ba50fd3767203.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_0a96a020d22cdec31af4369dd48ba50fd3767203.600x338.jpg?t=1610138911
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_7dbf3089fb849f2077a0142b9c441fa0cc21ea91.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_7dbf3089fb849f2077a0142b9c441fa0cc21ea91.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_7dbf3089fb849f2077a0142b9c441fa0cc21ea91.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_7dbf3089fb849f2077a0142b9c441fa0cc21ea91.600x338.jpg?t=1610138911
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_e421e003db5a38e689828f22d1747733a2956067.1920x1080.jpg?t=1609671243
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_e421e003db5a38e689828f22d1747733a2956067.600x338.jpg?t=1609671243
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_e421e003db5a38e689828f22d1747733a2956067.1920x1080.jpg?t=1610138911
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1476450/ss_e421e003db5a38e689828f22d1747733a2956067.600x338.jpg?t=1610138911
     short_description: Cyber Hentai is an action-adventure game set in the city of
       the future. Androids have gone crazy and you need to deal with it.
     steam_appid: 1476450
@@ -108,13 +134,35 @@ details:
     website: http://project3190996.tilda.ws/
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJw6YPH8vYCdOTZwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
-    total_negative: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
     total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1610161332
+      num_games_owned: 169
+      num_reviews: 8
+      playtime_at_review: 10
+      playtime_forever: 10
+      playtime_last_two_weeks: 10
+      steamid: '76561198089354623'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84332100'
+    review: uhhhhh. It's not good lol. I installed I bought it as a joke cuz it was
+      one dollar, played for 10 minutes, then refunded.
+    steam_purchase: true
+    timestamp_created: 1610161594
+    timestamp_updated: 1610161594
+    voted_up: false
+    votes_funny: 5
+    votes_up: 1
+    weighted_vote_score: '0.480158746242523193'
+    written_during_early_access: false
   success: 1

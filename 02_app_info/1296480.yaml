@@ -1,0 +1,206 @@
+details:
+  data:
+    about_the_game: Surviving isolation is a game where you must survive as long as
+      you can while self isolating. Play by yourself to see how long you can last,
+      or (preferably) play with up to 3 friends and fight over the limited toilet
+      roll supply!<br><br>Collect Toilet roll, live off of soup, save all your water,
+      ration your antibacterial gel and use music to keep you entertained while you're
+      in quarantine.<br><br><strong><i><u>Currently implemented features;</u></i></strong><br>Collect
+      toilet roll<br>Eat Soup<br>Use antibacterial gel<br>DJ set<br>Needs system (thirst/hunger/fun/health)
+      - will decline over time, keep them up! <br>Throwing toilet roll<br>Swimming
+      (floating?)<br>Dying (keep track of how many gravestones you have!)<br>Saving/Loading/deleting<br>Multiplayer<br>Settings
+      (but these + ui need some work)<br>Grass that flattens when you walk on it <br>A
+      sick discord channel<br>Steam features (friends list, send invites, receive
+      invites, accept invites)<br>Shop that spawns in random resources over time<br>Estoban
+      the toilet roll delivery cube<br>Day/Night cycle<br><br><strong><i><u>Future
+      Implementations;</u></i></strong><br>Maximum held toilet roll<br>Actually spending
+      your held toilet roll<br>Inventory system (so you can't hold all of the toilet
+      roll/can save food/water/antibac instead of instantly using it)<br>Different
+      types of food<br>Variations of drinks<br>More music (maybe some secret stuff
+      here too)<br>Push/punch each other (gotta get that toilet roll)<br>Fishing<br>Custom
+      gravestones<br>House upgrades<br>More Steam features (achievements, cloud saves)<br>Day/Night
+      cycle needs to sync across all players
+    achievements:
+      highlighted:
+      - name: Found the golden roll
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1296480/9155678b90f2d1aff1479122a4f061fdd74ed418.jpg
+      total: 1
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1296480/page_bg_generated_v6b.jpg?t=1591101012
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: LAN PvP
+      id: 47
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: LAN Co-op
+      id: 48
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Surviving isolation is a game where you must survive as
+      long as you can while self isolating. Play by yourself to see how long you can
+      last, or (preferably) play with up to 3 friends and fight over the limited toilet
+      roll supply!<br><br>Collect Toilet roll, live off of soup, save all your water,
+      ration your antibacterial gel and use music to keep you entertained while you're
+      in quarantine.<br><br><strong><i><u>Currently implemented features;</u></i></strong><br>Collect
+      toilet roll<br>Eat Soup<br>Use antibacterial gel<br>DJ set<br>Needs system (thirst/hunger/fun/health)
+      - will decline over time, keep them up! <br>Throwing toilet roll<br>Swimming
+      (floating?)<br>Dying (keep track of how many gravestones you have!)<br>Saving/Loading/deleting<br>Multiplayer<br>Settings
+      (but these + ui need some work)<br>Grass that flattens when you walk on it <br>A
+      sick discord channel<br>Steam features (friends list, send invites, receive
+      invites, accept invites)<br>Shop that spawns in random resources over time<br>Estoban
+      the toilet roll delivery cube<br>Day/Night cycle<br><br><strong><i><u>Future
+      Implementations;</u></i></strong><br>Maximum held toilet roll<br>Actually spending
+      your held toilet roll<br>Inventory system (so you can't hold all of the toilet
+      roll/can save food/water/antibac instead of instantly using it)<br>Different
+      types of food<br>Variations of drinks<br>More music (maybe some secret stuff
+      here too)<br>Push/punch each other (gotta get that toilet roll)<br>Fishing<br>Custom
+      gravestones<br>House upgrades<br>More Steam features (achievements, cloud saves)<br>Day/Night
+      cycle needs to sync across all players
+    developers:
+    - Klowd Studio
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1296480/header.jpg?t=1591101012
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256787106
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787106/movie480.mp4?t=1590766618
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787106/movie_max.mp4?t=1590766618
+      name: Surviving Isolation Early Access Trailer 1
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256787106/movie.293x165.jpg?t=1590766618
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256787106/movie480_vp9.webm?t=1590766618
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256787106/movie_max_vp9.webm?t=1590766618
+    name: Surviving Isolation
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Surviving Isolation - $3.99
+        packageid: 452247
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 399
+      title: Buy Surviving Isolation
+    packages:
+    - 452247
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows 7<br></li><li><strong>Processor:</strong> a newish i3 (or equivalent)
+        or above probably?<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        this would probably help<br></li><li><strong>Network:</strong> Broadband Internet
+        connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional
+        Notes:</strong> i don't have much to test on, so any feedback is great so
+        i can optimise more</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        windows 10<br></li><li><strong>Processor:</strong> i7 probably (or ryzen 5+)<br></li><li><strong>Graphics:</strong>
+        GTX 1060 or higher<br></li><li><strong>Network:</strong> Broadband Internet
+        connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 399
+      final_formatted: $3.99
+      initial: 399
+      initial_formatted: ''
+    publishers:
+    - Klowd Studio
+    release_date:
+      coming_soon: false
+      date: Jun 2, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_e1920f78e868a65fd5ebc8d7181f34ad662905a1.1920x1080.jpg?t=1591101012
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_e1920f78e868a65fd5ebc8d7181f34ad662905a1.600x338.jpg?t=1591101012
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_469cad34bb0be281b57a82554dd3c73649f00205.1920x1080.jpg?t=1591101012
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_469cad34bb0be281b57a82554dd3c73649f00205.600x338.jpg?t=1591101012
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_f3db439d0b5531868cee43b9e9bdec949b7e1b8e.1920x1080.jpg?t=1591101012
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_f3db439d0b5531868cee43b9e9bdec949b7e1b8e.600x338.jpg?t=1591101012
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_0f0a4abc759b2656743d792b257fa66742180bca.1920x1080.jpg?t=1591101012
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_0f0a4abc759b2656743d792b257fa66742180bca.600x338.jpg?t=1591101012
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_496505ac1ff414596583028ee50836c1a77d3f05.1920x1080.jpg?t=1591101012
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1296480/ss_496505ac1ff414596583028ee50836c1a77d3f05.600x338.jpg?t=1591101012
+    short_description: Surviving isolation is a game about being quarantined. How
+      long can you survive?
+    steam_appid: 1296480
+    support_info:
+      email: KlowdStudio@gmail.com
+      url: ''
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4lNv86PICeNKRjwI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1592643024
+      num_games_owned: 29
+      num_reviews: 2
+      playtime_at_review: 17
+      playtime_forever: 17
+      playtime_last_two_weeks: 0
+      steamid: '76561198046178073'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '71077160'
+    review: 'You can throw toilet paper
+
+      that''s all you need to know'
+    steam_purchase: true
+    timestamp_created: 1592660253
+    timestamp_updated: 1592660253
+    voted_up: true
+    votes_funny: 2
+    votes_up: 3
+    weighted_vote_score: '0.439735740423202515'
+    written_during_early_access: true
+  success: 1

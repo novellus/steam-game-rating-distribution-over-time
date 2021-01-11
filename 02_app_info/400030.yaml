@@ -1,0 +1,173 @@
+details:
+  data:
+    about_the_game: "Cloney is a dragon looking for coins, all you need to do is tap\
+      \ your way through this endless runner collecting as many coins as you can without\
+      \ flying into anything. Sounds easy enough?<br />\r\n<br />\r\nBuilt with cross\
+      \ platform competition in mind, Cloney is available across a wide variety of\
+      \ platforms. With options to submit your scores to our worldwide leaderboard,\
+      \ no matter where you play, you will be able to compare and compete with your\
+      \ friends.<br />\r\n<br />\r\nCreated during a 24 hour GameJam, we decided to\
+      \ release it for public consumption! Enjoy!"
+    achievements:
+      highlighted:
+      - name: Roch On!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400030/1fc4126983e76588c8a6b9d62ab0e57d269b3f9a.jpg
+      - name: Dong It!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400030/b6cda3aab1fff1c81aa6b0fa654ea4164b7cb5c5.jpg
+      - name: Y'Ouch!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400030/d03b2ab49d6bb294a9c9090cf0b7c9438af08338.jpg
+      - name: Everything Is Awesome!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400030/985d7e6bc7758ff25ea03701acd5385cf3771c76.jpg
+      - name: Da' Smith
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400030/3f8d31418671f1be8653816b45b0e9ba041a3f2b.jpg
+      - name: Mile High Institute
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400030/15efd2aa3d2bb197cb67394df3b501f050253cde.jpg
+      - name: Duke Who?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/400030/d8672a1f3fed275135f0424206583aead703f35d.jpg
+      total: 7
+    background: https://steamcdn-a.akamaihd.net/steam/apps/400030/page_bg_generated_v6b.jpg?t=1566327134
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "Cloney is a dragon looking for coins, all you need to do\
+      \ is tap your way through this endless runner collecting as many coins as you\
+      \ can without flying into anything. Sounds easy enough?<br />\r\n<br />\r\n\
+      Built with cross platform competition in mind, Cloney is available across a\
+      \ wide variety of platforms. With options to submit your scores to our worldwide\
+      \ leaderboard, no matter where you play, you will be able to compare and compete\
+      \ with your friends.<br />\r\n<br />\r\nCreated during a 24 hour GameJam, we\
+      \ decided to release it for public consumption! Enjoy!"
+    developers:
+    - dotBunny
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/400030/header.jpg?t=1566327134
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 12.04+, SteamOS+<br></li><li><strong>Processor:</strong> SSE2 Capable
+        Processor (Everything Nowadays)<br></li><li><strong>Memory:</strong> 2 GB
+        RAM<br></li><li><strong>Graphics:</strong> Shader Model 2.0 Capable (Everything
+        Made Since 2004)<br></li><li><strong>Storage:</strong> 90 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8+<br></li><li><strong>Processor:</strong> SSE2 Capable Processor
+        (Everything Nowadays)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Shader Model 2.0 Capable (Everything Made Since 2004)<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    movies:
+    - highlight: true
+      id: 256659570
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659570/movie480.mp4?t=1453236645
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659570/movie_max.mp4?t=1453236645
+      name: Teaser
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256659570/movie.293x165.jpg?t=1453236645
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659570/movie480.webm?t=1453236645
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659570/movie_max.webm?t=1453236645
+    - highlight: true
+      id: 256659571
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659571/movie480.mp4?t=1453236655
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659571/movie_max.mp4?t=1453236655
+      name: Gameplay Footage
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256659571/movie.293x165.jpg?t=1453236655
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256659571/movie480.webm?t=1453236655
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256659571/movie_max.webm?t=1453236655
+    name: Cloney
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP SP2+<br></li><li><strong>Processor:</strong> SSE2 Capable Processor
+        (Everything Nowadays)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong>
+        Shader Model 2.0 Capable (Everything Made Since 2004)<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 85 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - dotBunny
+    release_date:
+      coming_soon: false
+      date: Jan 19, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_58c960f4b7bd12e668663ae3b5d64f9ebad6aa0a.1920x1080.jpg?t=1566327134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_58c960f4b7bd12e668663ae3b5d64f9ebad6aa0a.600x338.jpg?t=1566327134
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_41480a33e7a8291e6700de23be79da6232f27678.1920x1080.jpg?t=1566327134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_41480a33e7a8291e6700de23be79da6232f27678.600x338.jpg?t=1566327134
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_0c807914d33badda67beba2dc0d194bf6e1e0f82.1920x1080.jpg?t=1566327134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_0c807914d33badda67beba2dc0d194bf6e1e0f82.600x338.jpg?t=1566327134
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_51309adfb701a39662493580b86519c3ea8d329d.1920x1080.jpg?t=1566327134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_51309adfb701a39662493580b86519c3ea8d329d.600x338.jpg?t=1566327134
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_b786230420415c0fe4d63c9b8873ba257b5a7e07.1920x1080.jpg?t=1566327134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_b786230420415c0fe4d63c9b8873ba257b5a7e07.600x338.jpg?t=1566327134
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_693616536511f316f27907f1f9adef10768a599b.1920x1080.jpg?t=1566327134
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/400030/ss_693616536511f316f27907f1f9adef10768a599b.600x338.jpg?t=1566327134
+    short_description: Cloney is a dragon looking for coins, all you need to do is
+      tap your way through this endless runner collecting as many coins as you can
+      without flying into anything. Sounds easy enough?
+    steam_appid: 400030
+    support_info:
+      email: support@dotbunny.com
+      url: http://support.dotbunny.com/
+    supported_languages: English
+    type: game
+    website: https://dotbunny.com/projects/cloney/
+  success: true
+reviews:
+  cursor: AoJwhMeovdoCcpOYcw==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 8 user reviews
+    total_negative: 4
+    total_positive: 4
+    total_reviews: 8
+  reviews:
+  - author:
+      last_played: 1462974755
+      num_games_owned: 83
+      num_reviews: 66
+      playtime_at_review: 6
+      playtime_forever: 10
+      playtime_last_two_weeks: 0
+      steamid: '76561198262786466'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '30196018'
+    review: fuck me
+    steam_purchase: true
+    timestamp_created: 1488116136
+    timestamp_updated: 1488116136
+    voted_up: false
+    votes_funny: 1
+    votes_up: 1
+    weighted_vote_score: '0.477794766426086426'
+    written_during_early_access: false
+  success: 1

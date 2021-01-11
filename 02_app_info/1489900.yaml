@@ -8,7 +8,7 @@ details:
       \ destroy.<br />\r\n<br />\r\nSave the planet.<br />\r\n<br />\r\nButtons:<br\
       \ />\r\n<br />\r\nSpace = Fire<br />\r\nYou can move left and right with the\
       \ arrow keys."
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1489900/page_bg_generated_v6b.jpg?t=1608219487
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1489900/page_bg_generated_v6b.jpg?t=1610232428
     categories:
     - description: Single-player
       id: 2
@@ -28,7 +28,7 @@ details:
     genres:
     - description: Casual
       id: '4'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1489900/header.jpg?t=1608219487
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1489900/header.jpg?t=1610232428
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -44,7 +44,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256811640/movie480_vp9.webm?t=1607210395
         max: http://steamcdn-a.akamaihd.net/steam/apps/256811640/movie_max_vp9.webm?t=1607210395
     name: OUTSP4CE
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: OUTSP4CE - <span class="discount_original_price">$0.99</span>
+          $0.59
+        packageid: 525174
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 59
+      title: Buy OUTSP4CE
+    packages:
+    - 525174
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7 , 8 , 8.1 , 10<br></li><li><strong>Processor:</strong> 2 GHz Dual-Core
@@ -53,31 +72,38 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 59
+      final_formatted: $0.59
+      initial: 99
+      initial_formatted: $0.99
     publishers:
     - Endless Games
     release_date:
-      coming_soon: true
-      date: Dec 19, 2020
+      coming_soon: false
+      date: Jan 9, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_e9ef29196844dae57ad9961b2d65738eb1cba5da.1920x1080.jpg?t=1608219487
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_e9ef29196844dae57ad9961b2d65738eb1cba5da.600x338.jpg?t=1608219487
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_e9ef29196844dae57ad9961b2d65738eb1cba5da.1920x1080.jpg?t=1610232428
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_e9ef29196844dae57ad9961b2d65738eb1cba5da.600x338.jpg?t=1610232428
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_5cfd9ee3ce5b484b8a9a89f458d4d5ed5c453fa8.1920x1080.jpg?t=1608219487
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_5cfd9ee3ce5b484b8a9a89f458d4d5ed5c453fa8.600x338.jpg?t=1608219487
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_5cfd9ee3ce5b484b8a9a89f458d4d5ed5c453fa8.1920x1080.jpg?t=1610232428
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_5cfd9ee3ce5b484b8a9a89f458d4d5ed5c453fa8.600x338.jpg?t=1610232428
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_f5f76ccf6e72f6c0afdd45679129892a02e22321.1920x1080.jpg?t=1608219487
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_f5f76ccf6e72f6c0afdd45679129892a02e22321.600x338.jpg?t=1608219487
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_f5f76ccf6e72f6c0afdd45679129892a02e22321.1920x1080.jpg?t=1610232428
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_f5f76ccf6e72f6c0afdd45679129892a02e22321.600x338.jpg?t=1610232428
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_d0782b77904909926a8f55bb43aaf8dcecc73831.1920x1080.jpg?t=1608219487
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_d0782b77904909926a8f55bb43aaf8dcecc73831.600x338.jpg?t=1608219487
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_d0782b77904909926a8f55bb43aaf8dcecc73831.1920x1080.jpg?t=1610232428
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_d0782b77904909926a8f55bb43aaf8dcecc73831.600x338.jpg?t=1610232428
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4df9d1a5addf288e85e16632559fe02ba07dcbee.1920x1080.jpg?t=1608219487
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4df9d1a5addf288e85e16632559fe02ba07dcbee.600x338.jpg?t=1608219487
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4df9d1a5addf288e85e16632559fe02ba07dcbee.1920x1080.jpg?t=1610232428
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4df9d1a5addf288e85e16632559fe02ba07dcbee.600x338.jpg?t=1610232428
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4d4979ef0de3a3df2c11ff6014f1cd82aa1a231c.1920x1080.jpg?t=1608219487
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4d4979ef0de3a3df2c11ff6014f1cd82aa1a231c.600x338.jpg?t=1608219487
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4d4979ef0de3a3df2c11ff6014f1cd82aa1a231c.1920x1080.jpg?t=1610232428
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1489900/ss_4d4979ef0de3a3df2c11ff6014f1cd82aa1a231c.600x338.jpg?t=1610232428
     short_description: Our tiny green triangle tries to destroy enemies in the shape
       of red circles that are approaching our world by shooting them.
     steam_appid: 1489900

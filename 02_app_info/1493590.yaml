@@ -11,7 +11,7 @@ details:
       \ player will be able to buy several items like magic, life, continues and save\
       \ points, and will also be able to find lots of secrets.<br />\r\n<br />\r\n\
       A game to keep the player on the edge on the seat from beginning to end."
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1493590/page_bg_generated_v6b.jpg?t=1608213121
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1493590/page_bg_generated_v6b.jpg?t=1610016892
     categories:
     - description: Single-player
       id: 2
@@ -48,7 +48,7 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1493590/header.jpg?t=1608213121
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1493590/header.jpg?t=1610016892
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -64,7 +64,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256812243/movie480_vp9.webm?t=1608213104
         max: http://steamcdn-a.akamaihd.net/steam/apps/256812243/movie_max_vp9.webm?t=1608213104
     name: Hell Pages
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hell Pages - $8.99
+        packageid: 526502
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 899
+      title: Buy Hell Pages
+    packages:
+    - 526502
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7/8/10<br></li><li><strong>Processor:</strong> Core 2 duo 2.9<br></li><li><strong>Memory:</strong>
@@ -78,34 +96,41 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 899
+      final_formatted: $8.99
+      initial: 899
+      initial_formatted: ''
     publishers:
     - Medusa Head
     release_date:
-      coming_soon: true
-      date: Janeiro / 2021
+      coming_soon: false
+      date: Jan 7, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_c5e12b822d08375f7710b65959b1114a91c2f59e.1920x1080.jpg?t=1608213121
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_c5e12b822d08375f7710b65959b1114a91c2f59e.600x338.jpg?t=1608213121
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_c5e12b822d08375f7710b65959b1114a91c2f59e.1920x1080.jpg?t=1610016892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_c5e12b822d08375f7710b65959b1114a91c2f59e.600x338.jpg?t=1610016892
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3511fcef2d2a5720d3b7359547aa67462ea520cf.1920x1080.jpg?t=1608213121
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3511fcef2d2a5720d3b7359547aa67462ea520cf.600x338.jpg?t=1608213121
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3511fcef2d2a5720d3b7359547aa67462ea520cf.1920x1080.jpg?t=1610016892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3511fcef2d2a5720d3b7359547aa67462ea520cf.600x338.jpg?t=1610016892
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3509ece4510b4c80f0b8b9e14d040a72307537ce.1920x1080.jpg?t=1608213121
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3509ece4510b4c80f0b8b9e14d040a72307537ce.600x338.jpg?t=1608213121
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3509ece4510b4c80f0b8b9e14d040a72307537ce.1920x1080.jpg?t=1610016892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_3509ece4510b4c80f0b8b9e14d040a72307537ce.600x338.jpg?t=1610016892
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_05ca19e36468c630f8ede43c665b16b01be73d72.1920x1080.jpg?t=1608213121
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_05ca19e36468c630f8ede43c665b16b01be73d72.600x338.jpg?t=1608213121
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_05ca19e36468c630f8ede43c665b16b01be73d72.1920x1080.jpg?t=1610016892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_05ca19e36468c630f8ede43c665b16b01be73d72.600x338.jpg?t=1610016892
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_974870b05c456f6893d5f46715079cf0f7e57dce.1920x1080.jpg?t=1608213121
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_974870b05c456f6893d5f46715079cf0f7e57dce.600x338.jpg?t=1608213121
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_974870b05c456f6893d5f46715079cf0f7e57dce.1920x1080.jpg?t=1610016892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_974870b05c456f6893d5f46715079cf0f7e57dce.600x338.jpg?t=1610016892
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_06a7b26ebab8a9eb0c2977e9390a1413a70f9ee4.1920x1080.jpg?t=1608213121
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_06a7b26ebab8a9eb0c2977e9390a1413a70f9ee4.600x338.jpg?t=1608213121
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_06a7b26ebab8a9eb0c2977e9390a1413a70f9ee4.1920x1080.jpg?t=1610016892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_06a7b26ebab8a9eb0c2977e9390a1413a70f9ee4.600x338.jpg?t=1610016892
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_91fa560363fdf260b39e6ee11184086d5d2ef155.1920x1080.jpg?t=1608213121
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_91fa560363fdf260b39e6ee11184086d5d2ef155.600x338.jpg?t=1608213121
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_91fa560363fdf260b39e6ee11184086d5d2ef155.1920x1080.jpg?t=1610016892
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1493590/ss_91fa560363fdf260b39e6ee11184086d5d2ef155.600x338.jpg?t=1610016892
     short_description: The doors to hell have been opened. The Earth has become a
       battlefield among 10 infernal armies. Bael, the most feared among all demons,
       set out in an insane crusade to conquer the Earth for himself in this scrolling
@@ -120,13 +145,45 @@ details:
     website: https://www.medusaheadgames.com.br/
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJwgrKw7/YCdO2wwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 1 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1610054021
+      num_games_owned: 220
+      num_reviews: 93
+      playtime_at_review: 43
+      playtime_forever: 43
+      playtime_last_two_weeks: 43
+      steamid: '76561198168043233'
+    comment_count: 0
+    language: spanish
+    received_for_free: false
+    recommendationid: '84248276'
+    review: "Impresionante arcade en la linea de los cl\xE1sicos de recreativas de\
+      \ los 80 y consolas.Nada mas disponemos de una vida( barra de energia). Muy\
+      \ lograda la oscura atm\xF3sfera de los escenarios y la excelente jugabilidad\
+      \ con el mando,m\xFAsica rock que no resulta cansina y si le da al juego el\
+      \ ritmo fr\xE9netico de matar todas esas criaturas del mal que nos acechan,tambi\xE9\
+      n muy currados los final bosses de cada nivel,con las monedas y power ups que\
+      \ vamos recogiendo podemos mejorar armamento y comprar mejoras en la tienda\
+      \ de una preciosa \"bruja\".Tiene mucha calidad este precioso arcade de scroll\
+      \ horizontal,muy colorido,Menci\xF3n especial a la interface del juego,el sonido\
+      \ de la tormenta y esos ruidos del inframundo.NO RECOMENDADO,SINO UN MUST HAVE\
+      \ si te encantan los cl\xE1sicos de scroll horizontal y matar todo lo que se\
+      \ mueva!!!"
+    steam_purchase: true
+    timestamp_created: 1610054996
+    timestamp_updated: 1610054996
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
   success: 1

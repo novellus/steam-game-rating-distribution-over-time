@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - KING Art
+    fullgame:
+      appid: '221830'
+      name: 'The Book of Unwritten Tales: The Critter Chronicles'
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/226540/header.jpg?t=1471949217
+    is_free: true
+    legal_notice: "THE BOOK OF UNWRITTEN TALES & Critter Chronicles/Vieh Chroniken\
+      \ \xA9 2012 KING Art GmbH. All rights reserved. Published & Distributed by THQ\
+      \ Nordic GmbH, Austria. All other brands, product names and logos are trademarks\
+      \ or registered trademarks of their respective owners. All rights reserved.\
+      \ Any unauthorized copying, hiring, lending or reproduction in whole or part\
+      \ is prohibited."
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 73
+    name: 'The Book of Unwritten Tales: The Critter Chronicles Demo'
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong> OS:</strong>Windowns\
+        \ XP SP3, Vista, 7, 8<br>\t</li><li><strong>Processor:</strong>2.4 GHz<br>\t\
+        </li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>DirectX\
+        \ 9c compatible graphic card with 128 MB RAM, Pixelshader 2.0<br>\t</li><li><strong>DirectX\xAE\
+        :</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>6 GB HD space</li></ul>"
+      recommended: "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows\
+        \ XP SP3, Vista, 7, 8<br>\t</li><li><strong>Processor:</strong>3 GHz<br>\t\
+        </li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>DirectX\
+        \ 9c compatible graphic card with 256 MB RAM, Pixelshader 2.0<br>\t</li><li><strong>DirectX\xAE\
+        :</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>6 GB HD space </li></ul>"
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - THQ Nordic
+    release_date:
+      coming_soon: false
+      date: Dec 5, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 226540
+    support_info:
+      email: support@quanticlab.com
+      url: http://forums.steampowered.com/forums/forumdisplay.php?f=1484
+    supported_languages: English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: http://bout.kingart-games.com/
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

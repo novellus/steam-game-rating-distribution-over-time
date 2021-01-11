@@ -14,7 +14,7 @@ details:
       \ Content:<br />\r\nBonus Image &amp; Video Galleries<br />\r\nBonus photoshoot\
       \ scenes - take pictures to your heart\u2019s content!<br />\r\n<br />\r\nThis\
       \ game contains nudity, explicit sexual imagery, and adult themes."
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1416970/page_bg_generated_v6b.jpg?t=1608245041
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1416970/page_bg_generated_v6b.jpg?t=1610106826
     categories:
     - description: Single-player
       id: 2
@@ -49,7 +49,7 @@ details:
       id: '4'
     - description: Simulation
       id: '28'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1416970/header.jpg?t=1608245041
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1416970/header.jpg?t=1610106826
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
@@ -65,15 +65,33 @@ details:
     - highlight: true
       id: 256814339
       mp4:
-        '480': http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie480.mp4?t=1608245024
-        max: http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie_max.mp4?t=1608245024
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie480.mp4?t=1610106822
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie_max.mp4?t=1610106822
       name: Trailer 1
-      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256814339/movie.293x165.jpg?t=1608245024
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256814339/movie.293x165.jpg?t=1610106822
       webm:
-        '480': http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie480_vp9.webm?t=1608245024
-        max: http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie_max_vp9.webm?t=1608245024
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie480_vp9.webm?t=1610106822
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256814339/movie_max_vp9.webm?t=1610106822
     name: Elise's Peepshow
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Elise - $14.99
+        packageid: 497285
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: Buy Elise's Peepshow
+    packages:
+    - 497285
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
         processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong>
@@ -86,46 +104,53 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
     publishers:
     - "\u30B9\u30D7\u30EA\u30F3\u30AF\u30E9\u30FC"
     release_date:
-      coming_soon: true
-      date: Jan 2021
+      coming_soon: false
+      date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_63e030a42c91378e30c29e1a0a7d63271383e479.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_63e030a42c91378e30c29e1a0a7d63271383e479.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_63e030a42c91378e30c29e1a0a7d63271383e479.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_63e030a42c91378e30c29e1a0a7d63271383e479.600x338.jpg?t=1610106826
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_28e18feac33dabd1c6a8bb08ca13827a9a4260a4.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_28e18feac33dabd1c6a8bb08ca13827a9a4260a4.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_28e18feac33dabd1c6a8bb08ca13827a9a4260a4.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_28e18feac33dabd1c6a8bb08ca13827a9a4260a4.600x338.jpg?t=1610106826
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_8ca7df678537e3576d164d99dd5bba26a2e38cb8.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_8ca7df678537e3576d164d99dd5bba26a2e38cb8.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_8ca7df678537e3576d164d99dd5bba26a2e38cb8.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_8ca7df678537e3576d164d99dd5bba26a2e38cb8.600x338.jpg?t=1610106826
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_1ffdf734447d587fff2d782c6a71e64ad83130d2.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_1ffdf734447d587fff2d782c6a71e64ad83130d2.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_1ffdf734447d587fff2d782c6a71e64ad83130d2.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_1ffdf734447d587fff2d782c6a71e64ad83130d2.600x338.jpg?t=1610106826
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_47d7deebc9bf397122863a4bf77f8610f93f3def.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_47d7deebc9bf397122863a4bf77f8610f93f3def.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_47d7deebc9bf397122863a4bf77f8610f93f3def.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_47d7deebc9bf397122863a4bf77f8610f93f3def.600x338.jpg?t=1610106826
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_4dfa08dc4b1d4670ea0c8da351d798e83b41b112.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_4dfa08dc4b1d4670ea0c8da351d798e83b41b112.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_4dfa08dc4b1d4670ea0c8da351d798e83b41b112.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_4dfa08dc4b1d4670ea0c8da351d798e83b41b112.600x338.jpg?t=1610106826
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6debf58df5f3e1b657b156e145036cdd411657be.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6debf58df5f3e1b657b156e145036cdd411657be.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6debf58df5f3e1b657b156e145036cdd411657be.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6debf58df5f3e1b657b156e145036cdd411657be.600x338.jpg?t=1610106826
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6de3b6a19cc70ef2b533bd29bcb11f9f0cb1c1d2.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6de3b6a19cc70ef2b533bd29bcb11f9f0cb1c1d2.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6de3b6a19cc70ef2b533bd29bcb11f9f0cb1c1d2.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_6de3b6a19cc70ef2b533bd29bcb11f9f0cb1c1d2.600x338.jpg?t=1610106826
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_67cbe093ced748b88c57848da6abf203bde56131.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_67cbe093ced748b88c57848da6abf203bde56131.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_67cbe093ced748b88c57848da6abf203bde56131.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_67cbe093ced748b88c57848da6abf203bde56131.600x338.jpg?t=1610106826
     - id: 9
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_c126dc7b53206637a33733f1e43c8e67b974ef8f.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_c126dc7b53206637a33733f1e43c8e67b974ef8f.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_c126dc7b53206637a33733f1e43c8e67b974ef8f.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_c126dc7b53206637a33733f1e43c8e67b974ef8f.600x338.jpg?t=1610106826
     - id: 10
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_e1b62c31bd293b9f34a2d9a3a8120fd3bac3a867.1920x1080.jpg?t=1608245041
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_e1b62c31bd293b9f34a2d9a3a8120fd3bac3a867.600x338.jpg?t=1608245041
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_e1b62c31bd293b9f34a2d9a3a8120fd3bac3a867.1920x1080.jpg?t=1610106826
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1416970/ss_e1b62c31bd293b9f34a2d9a3a8120fd3bac3a867.600x338.jpg?t=1610106826
     short_description: Elise has a confession, she likes to be watched! Exhibitionism
       and voyeurism combine in this erotic adult game, playable on desktop and VR.
       Take photos, watch the action, or be part of it!
@@ -142,9 +167,9 @@ reviews:
   query_summary:
     num_reviews: 0
     review_score: 0
-    review_score_desc: No user reviews
-    total_negative: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
     total_positive: 0
-    total_reviews: 0
+    total_reviews: 1
   reviews: []
   success: 1

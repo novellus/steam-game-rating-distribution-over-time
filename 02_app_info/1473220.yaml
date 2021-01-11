@@ -8,7 +8,30 @@ details:
       for Gamepads and Keyboards!<br><br><strong>Nice Soundtrack</strong> - Your thumbs
       may hate you, but your ears will love you!<br><br><strong><i>Can you break through
       the Fortress and reach the top?</i></strong>
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1473220/page_bg_generated_v6b.jpg?t=1609277075
+    achievements:
+      highlighted:
+      - name: Blue
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/b0a12c8ca57faf3520c992e650ffb71bff8693b1.jpg
+      - name: Orange
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/7ca0579ac6cbe49c5252a9d9638830a1b0661ffc.jpg
+      - name: Slime
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/5973a980a79456d918e694d2dcc8094973382700.jpg
+      - name: Green Bomber
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/851620dbdfc000ec430c482c90c3aca4f0595685.jpg
+      - name: Red Bomber
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/d653c2865276da7c708001d55ef2741aa9108cff.jpg
+      - name: Witch
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/b0a27f9ffcfc739f94de071a484ca497f71a8f36.jpg
+      - name: Tank
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/5cb4fbe60eb5f81d10ba47c412f18ad635fce028.jpg
+      - name: Star
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/93dbfa3fa9dce9a177afe1b2a43b8b90ebc0c568.jpg
+      - name: Inside the Claws
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/265fb5b04607d5b8fcd0ceb488dfa4d326537229.jpg
+      - name: Eye per Eye
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1473220/79154e5ca75aa8d6133e85ee4c1028b109b1aec6.jpg
+      total: 23
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1473220/page_bg_generated_v6b.jpg?t=1610122535
     categories:
     - description: Single-player
       id: 2
@@ -39,7 +62,7 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1473220/header.jpg?t=1609277075
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1473220/header.jpg?t=1610122535
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -55,7 +78,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256811932/movie480_vp9.webm?t=1608907179
         max: http://steamcdn-a.akamaihd.net/steam/apps/256811932/movie_max_vp9.webm?t=1608907179
     name: Hundred Chances - The Fortress
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Hundred Chances - The Fortress - $0.99
+        packageid: 518798
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Hundred Chances - The Fortress
+    packages:
+    - 518798
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows XP<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
@@ -65,28 +106,35 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
     publishers:
     - Black Swordsman
     release_date:
-      coming_soon: true
-      date: ''
+      coming_soon: false
+      date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_2fad53e92ca54636dcd63ed72e18d0adec2b1351.1920x1080.jpg?t=1609277075
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_2fad53e92ca54636dcd63ed72e18d0adec2b1351.600x338.jpg?t=1609277075
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_2fad53e92ca54636dcd63ed72e18d0adec2b1351.1920x1080.jpg?t=1610122535
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_2fad53e92ca54636dcd63ed72e18d0adec2b1351.600x338.jpg?t=1610122535
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_ad38524745c87b8cbe68af8155be1a555f9fbeaa.1920x1080.jpg?t=1609277075
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_ad38524745c87b8cbe68af8155be1a555f9fbeaa.600x338.jpg?t=1609277075
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_ad38524745c87b8cbe68af8155be1a555f9fbeaa.1920x1080.jpg?t=1610122535
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_ad38524745c87b8cbe68af8155be1a555f9fbeaa.600x338.jpg?t=1610122535
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_4eee05cd84fc3d7118c79e7f66fc2ebc3db03007.1920x1080.jpg?t=1609277075
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_4eee05cd84fc3d7118c79e7f66fc2ebc3db03007.600x338.jpg?t=1609277075
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_4eee05cd84fc3d7118c79e7f66fc2ebc3db03007.1920x1080.jpg?t=1610122535
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_4eee05cd84fc3d7118c79e7f66fc2ebc3db03007.600x338.jpg?t=1610122535
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_dcd62cd6d81a9e154d77c4607961cf21eb5fead4.1920x1080.jpg?t=1609277075
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_dcd62cd6d81a9e154d77c4607961cf21eb5fead4.600x338.jpg?t=1609277075
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_dcd62cd6d81a9e154d77c4607961cf21eb5fead4.1920x1080.jpg?t=1610122535
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_dcd62cd6d81a9e154d77c4607961cf21eb5fead4.600x338.jpg?t=1610122535
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_01f0d3d5826a434804a3ee0b052e6ce6a25982e3.1920x1080.jpg?t=1609277075
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_01f0d3d5826a434804a3ee0b052e6ce6a25982e3.600x338.jpg?t=1609277075
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_01f0d3d5826a434804a3ee0b052e6ce6a25982e3.1920x1080.jpg?t=1610122535
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1473220/ss_01f0d3d5826a434804a3ee0b052e6ce6a25982e3.600x338.jpg?t=1610122535
     short_description: Challenging 2D Platformer - The Game will test your strength
       and abiliity ! Can you make your way to the top ?
     steam_appid: 1473220
@@ -99,13 +147,34 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJwusLN9PYCdbn1wQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 3 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1610242144
+      num_games_owned: 8
+      num_reviews: 4
+      playtime_at_review: 25
+      playtime_forever: 31
+      playtime_last_two_weeks: 31
+      steamid: '76561198881728582'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84388757'
+    review: Challenging Gameplay ! Nice Soundtrack !
+    steam_purchase: true
+    timestamp_created: 1610230404
+    timestamp_updated: 1610230404
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
   success: 1

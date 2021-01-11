@@ -1,0 +1,69 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Relic Entertainment
+    fullgame:
+      appid: '55300'
+      name: Company of Heroes 2
+    genres:
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/82050/header.jpg?t=1447356692
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 82050
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82050/movie480.mp4?t=1447356692
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82050/movie_max.mp4?t=1447356692
+      name: Company Of Heroes 2  Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/82050/movie.293x165.jpg?t=1447356692
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82050/movie480.webm?t=1447356692
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82050/movie_max.webm?t=1447356692
+    name: Company Of Heroes 2  Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - THQ
+    release_date:
+      coming_soon: false
+      date: Sep 20, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 82050
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

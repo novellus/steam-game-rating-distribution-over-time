@@ -1,0 +1,83 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '826190'
+      name: Recovery of an MMO Junkie
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/826190/header.jpg?t=1553553890
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Recovery of an MMO Junkie: Like a Maiden in Love'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Recovery of an MMO Junkie: Like a Maiden in Love - $1.99'
+        packageid: 254381
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Recovery of an MMO Junkie: Like a Maiden in Love'
+    packages:
+    - 254381
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 20, 2018
+    required_age: 0
+    short_description: Morioka is so taken by the new loot boxes in Fruit de Mer that
+      she decides to spend money and aim for the top prize with her guild, but the
+      so-called greed sensor keeps getting in her way. On the other hand, in real
+      life, a man suddenly starts talking to her at the convenience store.
+    steam_appid: 827433
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

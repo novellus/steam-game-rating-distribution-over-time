@@ -1,248 +1,87 @@
 details:
   data:
-    about_the_game: "\u8B66\u544A\uFF1AHurtworld\u4ECD\u8655\u65BC\u958B\u767C\u521D\
-      \u671F\u968E\u6BB5\u3002\u7B49\u5230\u6211\u54CB\u958B\u767C\u5B8C\u6210\uFF0C\
-      \u904A\u6232\u63A8\u51FA\uFF0C\u5462\u5572\u7B49\u5F85\u53EF\u80FD\u4FC2\u503C\
-      \u5F97\u5605\uFF08\u6211\u54CB\u6703\u5805\u5B88\uFF09\u3002<br>Hurtworld\u4FC2\
-      \u4E00\u6B3E\u9AA8\u7070\u7D1A\u5605\u591A\u4EBA\u6C42\u751F\u985E\u7B2C\u4E00\
-      \u4EBA\u7A31\u5C04\u64CA\u904A\u6232 (FPS)\uFF0C\u55BA\u904A\u6232\u4E2D\u4E00\
-      \u65E6\u4F60\u5EFA\u7ACB\u5497\u4E00\u5572\u57FA\u672C\u9700\u6C42\u5F8C\uFF0C\
-      \u4E0D\u65B7<br>\u63A2\u7D22\u6C42\u751F\u5C31\u8B8A\u5F97\u5FC5\u4E0D\u53EF\
-      \u5C11\u3002\u55F0\u7A2E\u55BA\u51B0\u51B7\u523A\u9AA8\u5605\u60C5\u6CC1\u4E0B\
-      \u52AA\u529B\u5617\u8A66\u8457\u751F\u706B\uFF0C\u6216\u8005\u624B\u7121\u5BF8\
-      \u9435\u5481\u88AB\u91CE\u7378\u8FFD\u9010\u5605\u611F\u89BA\u3002\u5462<br>\u5572\
-      \u9AD4\u9A57\u5C31\u4FC2\u6C42\u751F\u985E\u904A\u6232\u5605\u7CBE\u83EF\u4E4B\
-      \u8655\u3002\u7576\u4F60\u514B\u670D\u5497\u6311\u6230\uFF0C\u9069\u61C9\u5497\
-      \u74B0\u5883\uFF0C\u5481\u4E00\u5B9A\u597D\u7280\u5229\uFF1B\u4F46\u4FC2\u4E0B\
-      \u4E00\u6B65\u4F60\u6703\u505A\u4E5C\u5622\u5462\uFF1F<br>Hurtworld\u8A98\u4F7F\
-      \u4F60\u884C\u51FA\u8212\u9069\u4E4B\u6240\uFF0C\u6435\u8C50\u5BCC\u5605\u8CC7\
-      \u6E90\u3001\u66F4\u597D\u5605\u6230\u5229\u54C1\u4EE5\u53CA\u66F4\u9AD8\u5605\
-      \u79D1\u6280\u3002\u4F62\u4EF2\u6703\u6254\u4FFE\u4F60\u66F4\u5371\u96AA\u5605\
-      \u751F\u7269\u3001<br>\u66F4\u82DB\u523B\u5605\u74B0\u5883\u4EE5\u53CA\u65B0\
-      \u5605\u6311\u6230\uFF0C\u53EA\u6709\u5408\u9069\u5605\u88DD\u5099\u6216\u8005\
-      \u7CBE\u7DF4\u5605\u6280\u80FD\u5148\u81F3\u53EF\u4EE5\u514B\u670D\u3002\u4F60\
-      \u6703\u6EFF\u8DB3\u65BC\u7C97\u7CD9\u5605\u5F13\u7BAD\u540C\u7C21\u964B\u5605\
-      <br>\u7BDD\u706B\uFF0C\u5B9A\u4FC2\u63A2\u7D22\u5730\u5716\uFF0C\u53BB\u6435\
-      \u6C7D\u8ECA\u90E8\u4EF6\u540C\u66F4\u597D\u5605\u6B66\u5668\uFF1F<br>\u81EA\
-      \u59CB\u81F3\u7D42\u90FD\u6709\u5805\u5BE6\u5605\u591A\u4EBA\u904A\u6232\u57FA\
-      \u790E\u3002\u5C08\u70BA\u5FEB\u7BC0\u594FPVP\u540CPVE\u73A9\u5BB6\u8A2D\u8A08\
-      \u3002\u4F60\u5C07\u5FC5\u9808\u4E0D\u65B7\u5224\u65B7\u51FA\u66F4\u5927\u5605\
-      \u5A01\u8105\uFF0C\u5C0D\u624B\uFF0C<br>\u6216\u8005\u6703\u807D\u5230\u4F60\
-      \u69CD\u8072\u5605\u751F\u7269\u3002<br>___________________________________________________________<br>\u7576\
-      \u524D\u5605\u529F\u80FD<br><br><ul class=\"bb_ul\"><li>\u88FD\u9020\u88DD\u5099\
-      \u3001\u5DE5\u5177\u3001\u6B66\u5668\u540C\u6A5F\u5668 \u2013 \u5C07\u4F60\u55BA\
-      \u4E16\u754C\u88E1\u6435\u5230\u5605\u5622\u7D44\u5408\u6210\u4E0A\u767E\u4EF6\
-      \u5514\u540C\u5605\u7269\u54C1\u3002<br></li><li><br></li><li>\u5EFA\u9020\u5EFA\
-      \u7BC9 \u2013 \u7368\u81EA\u6216\u8207\u597D\u53CB\u5171\u540C\u4F54\u9818\u571F\
-      \u5730\uFF0C\u4F7F\u7528\u6211\u54CB\u63D0\u4F9B\u5605\u9644\u8457\u9EDE\u5EFA\
-      \u9020\u7CFB\u7D71\u5C07\u5C0F\u71DF\u623F\u5EFA\u6210\u4E00\u5EA7\u57CE\u5E02\
-      \u3002<br></li><li><br></li><li>\u7531\u7A0B\u5F0F\u751F\u6210\u5605\u53EF\u8A02\
-      \u5236\u8ECA\u8F1B \u2013 \u767C\u73FE\u4E16\u754C\u4E2D\u5E36\u96A8\u6A5F\u9762\
-      \u677F\u5605\u6C7D\u8ECA\u6216\u6C99\u7058\u8ECA\u788E\u7247\u3002\u6435\u90E8\
-      \u4EF6\uFF0C\u8B93\u8ECA\u8F1B\u91CD\u65B0\u52D5\u8D77\u569F\u3002\u6435\u7A00\
-      \u6709\u5605\u5857\u88DD\u984F\u8272\u540C\u76AE\u819A\u6A23\u5F0F\uFF0C\u8A02\
-      \u5236\u81EA\u5DF1\u9418\u610F\u5605\u8ECA\u3002\u5347\u7D1A\u4F60\u5605\u5F15\
-      \u64CE\u548C\u8B8A\u901F\u7BB1\u3002\u8ACB\u8A18\u5F97\u5E36\u4E0A\u4E00\u689D\
-      \u5099\u80CE\uFF01<br></li><li><br></li><li>\u958B\u63A1\u8CC7\u6E90 \u2013\
-      \ \u5806\u7A4D\u5982\u5C71\u5605\u5404\u7A2E\u53EF\u63A1\u8CC7\u6E90\u9700\u8981\
-      \u5F9E\u9DB4\u5634\u92E4\u5230\u70B8\u85E5\u5605\u5514\u540C\u5DE5\u5177\u4EE5\
-      \u958B\u63A1\u3002\u6216\u8005\uFF0C\u4F60\u53EF\u4EE5\u5EFA\u9020\u4E00\u5572\
-      \u81EA\u52D5\u947D\u6A5F\uFF0C\u8B93\u6A5F\u5668\u70BA\u4F60\u5DE5\u4F5C\u3002\
-      <br></li><li><br></li><li>\u89F8\u767C\u5F0FPVP\t\u2013 \u5730\u5716\u4E0A\u5605\
-      \u67D0\u5572\u5340\u57DF\u7AF6\u722D\u975E\u5E38\u6FC0\u70C8\uFF0C\u4F60\u60F3\
-      \u5C07\u751F\u5B58\u5FC5\u9808\u5605\u6709\u9650\u8CC7\u6E90\u5206\u4FFE\u5176\
-      \u4ED6\u4EBA\u55CE\uFF1F\u5982\u679C\u4F60\u5514\u60F3\uFF0C\u6211\u54CB\u6709\
-      \u5404\u7A2E\u6295\u64F2\u6B66\u5668\u548C\u8FD1\u6230\u6B66\u5668\u5E6B\u52A9\
-      \u4F60\u6D88\u6EC5\u4F60\u5605\u5C0D\u624B\u3002\u4F46\u4FC2\u8ACB\u5C0F\u5FC3\
-      \u3002\u6BBA\u5BB3\u540C\u985E\u53EF\u80FD\u6703\u589E\u52A0\u4F60\u81EA\u5DF1\
-      \u5605\u6B7B\u4EA1\u61F2\u7F70\u3002<br></li><li><br></li><li>\u53EF\u683D\u7A2E\
-      \u5605\u690D\u7269 \u2013 \u767C\u73FE\u91CE\u751F\u7A2E\u5B50\uFF0C\u6536\u7A6B\
-      \u838A\u7A3C\u5E36\u7FFB\u5C4B\u4F01\u3002<br></li><li><br></li><li>\u7375\u6BBA\
-      \u4E2D\u7ACB\u548C\u6575\u5C0D\u52D5\u7269 \u2013 \u4E16\u754C\u4E2D\u5230\u8655\
-      \u90FD\u4FC2\u52D5\u7269\uFF0C\u4F60\u4FC2\u7375\u624B\uFF0C\u5B9A\u4FC2\u7375\
-      \u7269\uFF1F<br></li><li><br></li><li>\u5E36\u96A8\u6A5F\u6230\u5229\u54C1\u5605\
-      \u57CE\u93AE\u5EE2\u589F\u548C\u907A\u8DE1 \u2013 \u7AF6\u722D\u6FC0\u70C8\uFF0C\
-      \u5982\u679C\u8F3B\u5C04\u548C\u8B8A\u7570\u602A\u7269\u5187\u6D88\u6EC5\u4F60\
-      \uFF0C\u5176\u4ED6\u73A9\u5BB6\u4EA6\u90FD\u6703\u3002\u4F60\u53EF\u80FD\u6703\
-      \u55BA\u5462\u5EA6\u6435\u5230\u5922\u5BD0\u4EE5\u6C42\u5605\u5F15\u64CE\u90E8\
-      \u4EF6\u3002<br></li><li><br></li><li>\u52D5\u614B\u65E5\u591C\u8F49\u63DB +\t\
-      \ \u5929\u6C23 \u2013 \u63C0\u5571\u6642\u5019\u7A7F\u8D8A\u6C99\u4E18\uFF0C\
-      \u4F46\u4FC2\u8981\u5C0F\u5FC3\u6C99\u5875\u66B4\u3002<br></li><li><br></li><li>\u7D71\
-      \u8A08\u6A21\u64EC \u2013 \u5514\u55AE\u6B62\u4FC2\u9951\u9913\u689D\uFF0C\u4E16\
-      \u754C\u4E2D\u5605\u6240\u6709\u7269\u9AD4\u90FD\u6703\u53D7\u5230\u6642\u9593\
-      \uFF0C\u7576\u524D\u5605\u751F\u7269\u7FA4\u843D\uFF0C\u5C40\u90E8\u6548\u679C\
-      \u5982\u8F3B\u5C04\u3001\u52D5\u614B\u5929\u6C23\u3001\u6A5F\u5668\u5605\u6563\
-      \u71B1\u7B49\u5F71\u97FF\u3002\u6839\u64DA\u7576\u524D\u5605\u7D71\u8A08\u8CC7\
-      \u6599\uFF0C\u7269\u9AD4\u4EA6\u6703\u6709\u5514\u540C\u5605\u884C\u70BA\u65B9\
-      \u5F0F\u3002\u55BA\u4F60\u80CC\u5305\u88E1\u9762\u5605\u725B\u6392\u6703\u55BA\
-      \u96EA\u5929\u51CD\u7D50\uFF0C\u81F3\u5C11\u5514\u6703\u7E7C\u7E8C\u8150\u721B\
-      \u3002\u5C07\u5132\u5B58\u5BA4\u653E\u5F97\u9760\u706B\u592A\u8FD1\uFF0C\u5C0F\
-      \u5FC3\u7FFB\u569F\u5F8C\u5C31\u5269\u4E00\u5806\u7070\u71FC\u3002<br></li><li><br></li><li>\u5DEE\
-      \u7570\u986F\u8457\u5605\u751F\u7269\u7FA4\u843D \u2013 \u63A2\u7D22\u5462\u500B\
-      \u56B4\u9177\u5605\u4E16\u754C\u3002\u5F9E\u80CC\u90E8\u51B0\u96EA\u8986\u84CB\
-      \u5605\u68EE\u6797\u5230\u7D05\u8272\u6C99\u6F20\u88E1\u591A\u5F69\u5605\u9E1A\
-      \u9D61\uFF0C\u80FD\u8B93\u4F60\u55BA\u4E00\u7A2E\u74B0\u5883\u4E0B\u751F\u5B58\
-      \u5605\u88DD\u5099\u6216\u8005\u6703\u55BA\u53E6\u4E00\u7A2E\u74B0\u5883\u4E0B\
-      \u5BB3\u5497\u4F60\u3002\u6709\u57FA\u5730\u512A\u52E2\u5605\u73A9\u5BB6\u6703\
-      \u6BD4\u5165\u4FB5\u8005\u66F4\u597D\u5481\u9069\u61C9\u5468\u570D\u5605\u74B0\
-      \u5883\u3002<br></li><li></li></ul><br>\u4EE5\u4E0A\u5168\u90E8\u529F\u80FD\u90FD\
-      \u5DF2\u7D93\u55BA\u904A\u6232\u4E2D\u5BE6\u73FE\uFF0C\u4F46\u4FC2\u7CFB\u7D71\
-      \u4E2D\u5605\u5927\u90E8\u5206\u5167\u5BB9\u4ECD\u7136\u4FC2\u7A7A\u767D\u3002\
-      \u96D6\u7136\u6211\u54CB\u5DF2\u7D93\u505A\u5497\u597D\u591A\u52AA\u529B\u4EE5\
-      \u958B\u767C<br>\u80FD\u5920\u5BB9\u7D0D\u904A\u6232\u6A5F\u5236\u5605\u5F37\
-      \u5927\u7CFB\u7D71\uFF0C\u4F46\u4FC2\u6211\u54CB\u4EF2\u672A\u6709\u5145\u5206\
-      \u88FD\u4F5C\u4E26\u5E73\u8861\u7CFB\u7D71\u5167\u5605\u5167\u5BB9\u3002\u7531\
-      \u65BC\u5462\u5927\u90E8\u5206\u90FD\u4FC2\u914D\u7F6E\u5DE5\u4F5C\uFF0C<br>\u6211\
-      \u54CB\u5C07\u55BA\u672A\u4F86\u5E7E\u500B\u6708\u5118\u5FEB\u767C\u4F48\u8C50\
-      \u5BCC\u5605\u65B0\u5167\u5BB9\u3002"
+    about_the_game: "Hurtworld is a hardcore multiplayer survival FPS with a focus\
+      \ on competitive gunplay and strategic map control. It was a super raw experience\
+      \ when we launched into early access three years ago but with the help of the\
+      \ community we have refined and ironed out the majority of issues to a point\
+      \ where we are happy to start expanding our player base.<br><br>Brave the elements\
+      \ with friends or alone as you gather the necessities to survive, grow and defend\
+      \ your place amongst Hurtworld\u2019s unforgiving environment. Populated by\
+      \ fierce creatures, rich resources and ever evolving challenges, Hurtworld is\
+      \ an immersive multiplayer experience sure to captivate even the most seasoned\
+      \ gamer.<br><br>Craft tools, weapons and clothing to help you survive and defend\
+      \ what\u2019s yours.<br>Construct a stronghold to stash loot and take refuge\
+      \ in. <br>Find and restore vehicles abandoned throughout the map.<br>Explore\
+      \ the many biomes to discover exotic resources and rare items.\t<br><br>Built\
+      \ from the ground up with solid multiplayer foundations designed for fast skill\
+      \ based PVP and PVE. Hurtworld is extremely optimised with highly scalable graphics\
+      \ to perform well on the most budget of machines.<br><br>Get involved in our\
+      \ Discord @ <a href=\"https://steamcommunity.com/linkfilter/?url=http://discord.hurtworld.com\"\
+      \ target=\"_blank\" rel=\"noopener\"  >http://discord.hurtworld.com</a>"
     background: https://steamcdn-a.akamaihd.net/steam/apps/393420/page_bg_generated_v6b.jpg?t=1597169414
     categories:
-    - description: "\u591A\u4EBA"
+    - description: Multi-player
       id: 1
-    - description: "\u5408\u4F5C"
+    - description: Co-op
       id: 9
-    - description: "\u8DE8\u5E73\u53F0\u591A\u4EBA\u9023\u7DDA"
+    - description: Cross-Platform Multiplayer
       id: 27
-    - description: "\u5728\u5E73\u677F\u4E0A\u9060\u7AEF\u66A2\u73A9"
+    - description: Remote Play on Tablet
       id: 42
     content_descriptors:
       ids: []
       notes: null
-    detailed_description: "\u8B66\u544A\uFF1AHurtworld\u4ECD\u8655\u65BC\u958B\u767C\
-      \u521D\u671F\u968E\u6BB5\u3002\u7B49\u5230\u6211\u54CB\u958B\u767C\u5B8C\u6210\
-      \uFF0C\u904A\u6232\u63A8\u51FA\uFF0C\u5462\u5572\u7B49\u5F85\u53EF\u80FD\u4FC2\
-      \u503C\u5F97\u5605\uFF08\u6211\u54CB\u6703\u5805\u5B88\uFF09\u3002<br>Hurtworld\u4FC2\
-      \u4E00\u6B3E\u9AA8\u7070\u7D1A\u5605\u591A\u4EBA\u6C42\u751F\u985E\u7B2C\u4E00\
-      \u4EBA\u7A31\u5C04\u64CA\u904A\u6232 (FPS)\uFF0C\u55BA\u904A\u6232\u4E2D\u4E00\
-      \u65E6\u4F60\u5EFA\u7ACB\u5497\u4E00\u5572\u57FA\u672C\u9700\u6C42\u5F8C\uFF0C\
-      \u4E0D\u65B7<br>\u63A2\u7D22\u6C42\u751F\u5C31\u8B8A\u5F97\u5FC5\u4E0D\u53EF\
-      \u5C11\u3002\u55F0\u7A2E\u55BA\u51B0\u51B7\u523A\u9AA8\u5605\u60C5\u6CC1\u4E0B\
-      \u52AA\u529B\u5617\u8A66\u8457\u751F\u706B\uFF0C\u6216\u8005\u624B\u7121\u5BF8\
-      \u9435\u5481\u88AB\u91CE\u7378\u8FFD\u9010\u5605\u611F\u89BA\u3002\u5462<br>\u5572\
-      \u9AD4\u9A57\u5C31\u4FC2\u6C42\u751F\u985E\u904A\u6232\u5605\u7CBE\u83EF\u4E4B\
-      \u8655\u3002\u7576\u4F60\u514B\u670D\u5497\u6311\u6230\uFF0C\u9069\u61C9\u5497\
-      \u74B0\u5883\uFF0C\u5481\u4E00\u5B9A\u597D\u7280\u5229\uFF1B\u4F46\u4FC2\u4E0B\
-      \u4E00\u6B65\u4F60\u6703\u505A\u4E5C\u5622\u5462\uFF1F<br>Hurtworld\u8A98\u4F7F\
-      \u4F60\u884C\u51FA\u8212\u9069\u4E4B\u6240\uFF0C\u6435\u8C50\u5BCC\u5605\u8CC7\
-      \u6E90\u3001\u66F4\u597D\u5605\u6230\u5229\u54C1\u4EE5\u53CA\u66F4\u9AD8\u5605\
-      \u79D1\u6280\u3002\u4F62\u4EF2\u6703\u6254\u4FFE\u4F60\u66F4\u5371\u96AA\u5605\
-      \u751F\u7269\u3001<br>\u66F4\u82DB\u523B\u5605\u74B0\u5883\u4EE5\u53CA\u65B0\
-      \u5605\u6311\u6230\uFF0C\u53EA\u6709\u5408\u9069\u5605\u88DD\u5099\u6216\u8005\
-      \u7CBE\u7DF4\u5605\u6280\u80FD\u5148\u81F3\u53EF\u4EE5\u514B\u670D\u3002\u4F60\
-      \u6703\u6EFF\u8DB3\u65BC\u7C97\u7CD9\u5605\u5F13\u7BAD\u540C\u7C21\u964B\u5605\
-      <br>\u7BDD\u706B\uFF0C\u5B9A\u4FC2\u63A2\u7D22\u5730\u5716\uFF0C\u53BB\u6435\
-      \u6C7D\u8ECA\u90E8\u4EF6\u540C\u66F4\u597D\u5605\u6B66\u5668\uFF1F<br>\u81EA\
-      \u59CB\u81F3\u7D42\u90FD\u6709\u5805\u5BE6\u5605\u591A\u4EBA\u904A\u6232\u57FA\
-      \u790E\u3002\u5C08\u70BA\u5FEB\u7BC0\u594FPVP\u540CPVE\u73A9\u5BB6\u8A2D\u8A08\
-      \u3002\u4F60\u5C07\u5FC5\u9808\u4E0D\u65B7\u5224\u65B7\u51FA\u66F4\u5927\u5605\
-      \u5A01\u8105\uFF0C\u5C0D\u624B\uFF0C<br>\u6216\u8005\u6703\u807D\u5230\u4F60\
-      \u69CD\u8072\u5605\u751F\u7269\u3002<br>___________________________________________________________<br>\u7576\
-      \u524D\u5605\u529F\u80FD<br><br><ul class=\"bb_ul\"><li>\u88FD\u9020\u88DD\u5099\
-      \u3001\u5DE5\u5177\u3001\u6B66\u5668\u540C\u6A5F\u5668 \u2013 \u5C07\u4F60\u55BA\
-      \u4E16\u754C\u88E1\u6435\u5230\u5605\u5622\u7D44\u5408\u6210\u4E0A\u767E\u4EF6\
-      \u5514\u540C\u5605\u7269\u54C1\u3002<br></li><li><br></li><li>\u5EFA\u9020\u5EFA\
-      \u7BC9 \u2013 \u7368\u81EA\u6216\u8207\u597D\u53CB\u5171\u540C\u4F54\u9818\u571F\
-      \u5730\uFF0C\u4F7F\u7528\u6211\u54CB\u63D0\u4F9B\u5605\u9644\u8457\u9EDE\u5EFA\
-      \u9020\u7CFB\u7D71\u5C07\u5C0F\u71DF\u623F\u5EFA\u6210\u4E00\u5EA7\u57CE\u5E02\
-      \u3002<br></li><li><br></li><li>\u7531\u7A0B\u5F0F\u751F\u6210\u5605\u53EF\u8A02\
-      \u5236\u8ECA\u8F1B \u2013 \u767C\u73FE\u4E16\u754C\u4E2D\u5E36\u96A8\u6A5F\u9762\
-      \u677F\u5605\u6C7D\u8ECA\u6216\u6C99\u7058\u8ECA\u788E\u7247\u3002\u6435\u90E8\
-      \u4EF6\uFF0C\u8B93\u8ECA\u8F1B\u91CD\u65B0\u52D5\u8D77\u569F\u3002\u6435\u7A00\
-      \u6709\u5605\u5857\u88DD\u984F\u8272\u540C\u76AE\u819A\u6A23\u5F0F\uFF0C\u8A02\
-      \u5236\u81EA\u5DF1\u9418\u610F\u5605\u8ECA\u3002\u5347\u7D1A\u4F60\u5605\u5F15\
-      \u64CE\u548C\u8B8A\u901F\u7BB1\u3002\u8ACB\u8A18\u5F97\u5E36\u4E0A\u4E00\u689D\
-      \u5099\u80CE\uFF01<br></li><li><br></li><li>\u958B\u63A1\u8CC7\u6E90 \u2013\
-      \ \u5806\u7A4D\u5982\u5C71\u5605\u5404\u7A2E\u53EF\u63A1\u8CC7\u6E90\u9700\u8981\
-      \u5F9E\u9DB4\u5634\u92E4\u5230\u70B8\u85E5\u5605\u5514\u540C\u5DE5\u5177\u4EE5\
-      \u958B\u63A1\u3002\u6216\u8005\uFF0C\u4F60\u53EF\u4EE5\u5EFA\u9020\u4E00\u5572\
-      \u81EA\u52D5\u947D\u6A5F\uFF0C\u8B93\u6A5F\u5668\u70BA\u4F60\u5DE5\u4F5C\u3002\
-      <br></li><li><br></li><li>\u89F8\u767C\u5F0FPVP\t\u2013 \u5730\u5716\u4E0A\u5605\
-      \u67D0\u5572\u5340\u57DF\u7AF6\u722D\u975E\u5E38\u6FC0\u70C8\uFF0C\u4F60\u60F3\
-      \u5C07\u751F\u5B58\u5FC5\u9808\u5605\u6709\u9650\u8CC7\u6E90\u5206\u4FFE\u5176\
-      \u4ED6\u4EBA\u55CE\uFF1F\u5982\u679C\u4F60\u5514\u60F3\uFF0C\u6211\u54CB\u6709\
-      \u5404\u7A2E\u6295\u64F2\u6B66\u5668\u548C\u8FD1\u6230\u6B66\u5668\u5E6B\u52A9\
-      \u4F60\u6D88\u6EC5\u4F60\u5605\u5C0D\u624B\u3002\u4F46\u4FC2\u8ACB\u5C0F\u5FC3\
-      \u3002\u6BBA\u5BB3\u540C\u985E\u53EF\u80FD\u6703\u589E\u52A0\u4F60\u81EA\u5DF1\
-      \u5605\u6B7B\u4EA1\u61F2\u7F70\u3002<br></li><li><br></li><li>\u53EF\u683D\u7A2E\
-      \u5605\u690D\u7269 \u2013 \u767C\u73FE\u91CE\u751F\u7A2E\u5B50\uFF0C\u6536\u7A6B\
-      \u838A\u7A3C\u5E36\u7FFB\u5C4B\u4F01\u3002<br></li><li><br></li><li>\u7375\u6BBA\
-      \u4E2D\u7ACB\u548C\u6575\u5C0D\u52D5\u7269 \u2013 \u4E16\u754C\u4E2D\u5230\u8655\
-      \u90FD\u4FC2\u52D5\u7269\uFF0C\u4F60\u4FC2\u7375\u624B\uFF0C\u5B9A\u4FC2\u7375\
-      \u7269\uFF1F<br></li><li><br></li><li>\u5E36\u96A8\u6A5F\u6230\u5229\u54C1\u5605\
-      \u57CE\u93AE\u5EE2\u589F\u548C\u907A\u8DE1 \u2013 \u7AF6\u722D\u6FC0\u70C8\uFF0C\
-      \u5982\u679C\u8F3B\u5C04\u548C\u8B8A\u7570\u602A\u7269\u5187\u6D88\u6EC5\u4F60\
-      \uFF0C\u5176\u4ED6\u73A9\u5BB6\u4EA6\u90FD\u6703\u3002\u4F60\u53EF\u80FD\u6703\
-      \u55BA\u5462\u5EA6\u6435\u5230\u5922\u5BD0\u4EE5\u6C42\u5605\u5F15\u64CE\u90E8\
-      \u4EF6\u3002<br></li><li><br></li><li>\u52D5\u614B\u65E5\u591C\u8F49\u63DB +\t\
-      \ \u5929\u6C23 \u2013 \u63C0\u5571\u6642\u5019\u7A7F\u8D8A\u6C99\u4E18\uFF0C\
-      \u4F46\u4FC2\u8981\u5C0F\u5FC3\u6C99\u5875\u66B4\u3002<br></li><li><br></li><li>\u7D71\
-      \u8A08\u6A21\u64EC \u2013 \u5514\u55AE\u6B62\u4FC2\u9951\u9913\u689D\uFF0C\u4E16\
-      \u754C\u4E2D\u5605\u6240\u6709\u7269\u9AD4\u90FD\u6703\u53D7\u5230\u6642\u9593\
-      \uFF0C\u7576\u524D\u5605\u751F\u7269\u7FA4\u843D\uFF0C\u5C40\u90E8\u6548\u679C\
-      \u5982\u8F3B\u5C04\u3001\u52D5\u614B\u5929\u6C23\u3001\u6A5F\u5668\u5605\u6563\
-      \u71B1\u7B49\u5F71\u97FF\u3002\u6839\u64DA\u7576\u524D\u5605\u7D71\u8A08\u8CC7\
-      \u6599\uFF0C\u7269\u9AD4\u4EA6\u6703\u6709\u5514\u540C\u5605\u884C\u70BA\u65B9\
-      \u5F0F\u3002\u55BA\u4F60\u80CC\u5305\u88E1\u9762\u5605\u725B\u6392\u6703\u55BA\
-      \u96EA\u5929\u51CD\u7D50\uFF0C\u81F3\u5C11\u5514\u6703\u7E7C\u7E8C\u8150\u721B\
-      \u3002\u5C07\u5132\u5B58\u5BA4\u653E\u5F97\u9760\u706B\u592A\u8FD1\uFF0C\u5C0F\
-      \u5FC3\u7FFB\u569F\u5F8C\u5C31\u5269\u4E00\u5806\u7070\u71FC\u3002<br></li><li><br></li><li>\u5DEE\
-      \u7570\u986F\u8457\u5605\u751F\u7269\u7FA4\u843D \u2013 \u63A2\u7D22\u5462\u500B\
-      \u56B4\u9177\u5605\u4E16\u754C\u3002\u5F9E\u80CC\u90E8\u51B0\u96EA\u8986\u84CB\
-      \u5605\u68EE\u6797\u5230\u7D05\u8272\u6C99\u6F20\u88E1\u591A\u5F69\u5605\u9E1A\
-      \u9D61\uFF0C\u80FD\u8B93\u4F60\u55BA\u4E00\u7A2E\u74B0\u5883\u4E0B\u751F\u5B58\
-      \u5605\u88DD\u5099\u6216\u8005\u6703\u55BA\u53E6\u4E00\u7A2E\u74B0\u5883\u4E0B\
-      \u5BB3\u5497\u4F60\u3002\u6709\u57FA\u5730\u512A\u52E2\u5605\u73A9\u5BB6\u6703\
-      \u6BD4\u5165\u4FB5\u8005\u66F4\u597D\u5481\u9069\u61C9\u5468\u570D\u5605\u74B0\
-      \u5883\u3002<br></li><li></li></ul><br>\u4EE5\u4E0A\u5168\u90E8\u529F\u80FD\u90FD\
-      \u5DF2\u7D93\u55BA\u904A\u6232\u4E2D\u5BE6\u73FE\uFF0C\u4F46\u4FC2\u7CFB\u7D71\
-      \u4E2D\u5605\u5927\u90E8\u5206\u5167\u5BB9\u4ECD\u7136\u4FC2\u7A7A\u767D\u3002\
-      \u96D6\u7136\u6211\u54CB\u5DF2\u7D93\u505A\u5497\u597D\u591A\u52AA\u529B\u4EE5\
-      \u958B\u767C<br>\u80FD\u5920\u5BB9\u7D0D\u904A\u6232\u6A5F\u5236\u5605\u5F37\
-      \u5927\u7CFB\u7D71\uFF0C\u4F46\u4FC2\u6211\u54CB\u4EF2\u672A\u6709\u5145\u5206\
-      \u88FD\u4F5C\u4E26\u5E73\u8861\u7CFB\u7D71\u5167\u5605\u5167\u5BB9\u3002\u7531\
-      \u65BC\u5462\u5927\u90E8\u5206\u90FD\u4FC2\u914D\u7F6E\u5DE5\u4F5C\uFF0C<br>\u6211\
-      \u54CB\u5C07\u55BA\u672A\u4F86\u5E7E\u500B\u6708\u5118\u5FEB\u767C\u4F48\u8C50\
-      \u5BCC\u5605\u65B0\u5167\u5BB9\u3002"
+    detailed_description: "Hurtworld is a hardcore multiplayer survival FPS with a\
+      \ focus on competitive gunplay and strategic map control. It was a super raw\
+      \ experience when we launched into early access three years ago but with the\
+      \ help of the community we have refined and ironed out the majority of issues\
+      \ to a point where we are happy to start expanding our player base.<br><br>Brave\
+      \ the elements with friends or alone as you gather the necessities to survive,\
+      \ grow and defend your place amongst Hurtworld\u2019s unforgiving environment.\
+      \ Populated by fierce creatures, rich resources and ever evolving challenges,\
+      \ Hurtworld is an immersive multiplayer experience sure to captivate even the\
+      \ most seasoned gamer.<br><br>Craft tools, weapons and clothing to help you\
+      \ survive and defend what\u2019s yours.<br>Construct a stronghold to stash loot\
+      \ and take refuge in. <br>Find and restore vehicles abandoned throughout the\
+      \ map.<br>Explore the many biomes to discover exotic resources and rare items.\t\
+      <br><br>Built from the ground up with solid multiplayer foundations designed\
+      \ for fast skill based PVP and PVE. Hurtworld is extremely optimised with highly\
+      \ scalable graphics to perform well on the most budget of machines.<br><br>Get\
+      \ involved in our Discord @ <a href=\"https://steamcommunity.com/linkfilter/?url=http://discord.hurtworld.com\"\
+      \ target=\"_blank\" rel=\"noopener\"  >http://discord.hurtworld.com</a>"
     developers:
     - Bankroll Studios
     genres:
-    - description: "\u52D5\u4F5C"
+    - description: Action
       id: '1'
-    - description: "\u5192\u96AA"
+    - description: Adventure
       id: '25'
-    - description: "\u6A21\u64EC"
+    - description: Simulation
       id: '28'
     header_image: https://steamcdn-a.akamaihd.net/steam/apps/393420/header.jpg?t=1597169414
     is_free: false
     linux_requirements:
-      minimum: "<strong>\u6700\u4F4E\u914D\u5099:</strong><br><ul class=\"bb_ul\"\
-        ><li>\u9700\u8981 64 \u4F4D\u5143\u7684\u8655\u7406\u5668\u53CA\u4F5C\u696D\
-        \u7CFB\u7D71<br></li><li><strong>\u8655\u7406\u5668:</strong> 2 GHz<br></li><li><strong>\u8A18\
-        \u61B6\u9AD4:</strong> 4 GB \u8A18\u61B6\u9AD4<br></li><li><strong>\u5132\u5B58\
-        \u7A7A\u9593:</strong> 2 GB \u53EF\u7528\u7A7A\u9593</li></ul>"
-      recommended: "<strong>\u5EFA\u8B70\u914D\u5099:</strong><br><ul class=\"bb_ul\"\
-        ><li>\u9700\u8981 64 \u4F4D\u5143\u7684\u8655\u7406\u5668\u53CA\u4F5C\u696D\
-        \u7CFB\u7D71<br></li><li><strong>\u8655\u7406\u5668:</strong> 3 GHz<br></li><li><strong>\u8A18\
-        \u61B6\u9AD4:</strong> 8 GB \u8A18\u61B6\u9AD4<br></li><li><strong>\u7DB2\u8DEF\
-        :</strong> \u5BEC\u983B\u7DB2\u969B\u7DB2\u8DEF\u9023\u7DDA<br></li><li><strong>\u5132\
-        \u5B58\u7A7A\u9593:</strong> 4 GB \u53EF\u7528\u7A7A\u9593</li></ul>"
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>Processor:</strong>
+        3 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available
+        space</li></ul>
     mac_requirements:
-      minimum: "<strong>\u6700\u4F4E\u914D\u5099:</strong><br><ul class=\"bb_ul\"\
-        ><li>\u9700\u8981 64 \u4F4D\u5143\u7684\u8655\u7406\u5668\u53CA\u4F5C\u696D\
-        \u7CFB\u7D71<br></li><li><strong>\u4F5C\u696D\u7CFB\u7D71:</strong> OS X Lion\
-        \ 10.7<br></li><li><strong>\u8655\u7406\u5668:</strong> 2 GHz<br></li><li><strong>\u8A18\
-        \u61B6\u9AD4:</strong> 4 GB \u8A18\u61B6\u9AD4<br></li><li><strong>\u986F\u793A\
-        \u5361:</strong> GeForce 460/Radeon HD 5850/Intel HD 4600 with at least 1024\
-        \ MB video RAM<br></li><li><strong>\u5132\u5B58\u7A7A\u9593:</strong> 2 GB\
-        \ \u53EF\u7528\u7A7A\u9593</li></ul>"
-      recommended: "<strong>\u5EFA\u8B70\u914D\u5099:</strong><br><ul class=\"bb_ul\"\
-        ><li>\u9700\u8981 64 \u4F4D\u5143\u7684\u8655\u7406\u5668\u53CA\u4F5C\u696D\
-        \u7CFB\u7D71<br></li><li><strong>\u4F5C\u696D\u7CFB\u7D71:</strong> OS X Mavericks<br></li><li><strong>\u8655\
-        \u7406\u5668:</strong> 3 GHz<br></li><li><strong>\u8A18\u61B6\u9AD4:</strong>\
-        \ 8 GB \u8A18\u61B6\u9AD4<br></li><li><strong>\u986F\u793A\u5361:</strong>\
-        \ GeForce 660/Radeon HD 6970<br></li><li><strong>\u7DB2\u8DEF:</strong> \u5BEC\
-        \u983B\u7DB2\u969B\u7DB2\u8DEF\u9023\u7DDA<br></li><li><strong>\u5132\u5B58\
-        \u7A7A\u9593:</strong> 4 GB \u53EF\u7528\u7A7A\u9593</li></ul>"
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> OS X Lion
+        10.7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 460/Radeon HD 5850/Intel
+        HD 4600 with at least 1024 MB video RAM<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> OS
+        X Mavericks<br></li><li><strong>Processor:</strong> 3 GHz<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 660/Radeon HD 6970<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available
+        space</li></ul>
     movies:
     - highlight: true
       id: 256753652
@@ -271,64 +110,59 @@ details:
       is_recurring_subscription: 'false'
       name: default
       save_text: ''
-      selection_text: "\u9078\u64C7\u8CFC\u8CB7\u9078\u9805"
+      selection_text: Select a purchase option
       subs:
       - can_get_free_license: '0'
         is_free_license: false
         option_description: ''
-        option_text: Hurtworld - HK$ 109.00
+        option_text: Hurtworld - $24.99
         packageid: 75357
         percent_savings: 0
         percent_savings_text: ' '
-        price_in_cents_with_discount: 10900
+        price_in_cents_with_discount: 2499
       - can_get_free_license: '0'
         is_free_license: false
         option_description: ''
-        option_text: Hurtworld - Commercial License - HK$ 109.00
+        option_text: Hurtworld - Commercial License - $24.99
         packageid: 377915
         percent_savings: 0
         percent_savings_text: ' '
-        price_in_cents_with_discount: 10900
-      title: "\u8CFC\u8CB7 Hurtworld"
+        price_in_cents_with_discount: 2499
+      title: Buy Hurtworld
     packages:
     - 75357
     - 377915
     pc_requirements:
-      minimum: "<strong>\u6700\u4F4E\u914D\u5099:</strong><br><ul class=\"bb_ul\"\
-        ><li>\u9700\u8981 64 \u4F4D\u5143\u7684\u8655\u7406\u5668\u53CA\u4F5C\u696D\
-        \u7CFB\u7D71<br></li><li><strong>\u4F5C\u696D\u7CFB\u7D71:</strong> Windows\
-        \ XP 64<br></li><li><strong>\u8655\u7406\u5668:</strong> 2 GHz<br></li><li><strong>\u8A18\
-        \u61B6\u9AD4:</strong> 4 GB \u8A18\u61B6\u9AD4<br></li><li><strong>\u986F\u793A\
-        \u5361:</strong> GeForce 460/Radeon HD 5850/Intel HD 4600 with at least 1024\
-        \ MB video RAM<br></li><li><strong>DirectX:</strong> \u7248\u672C\uFF1A9.0c<br></li><li><strong>\u5132\
-        \u5B58\u7A7A\u9593:</strong> 2 GB \u53EF\u7528\u7A7A\u9593</li></ul>"
-      recommended: "<strong>\u5EFA\u8B70\u914D\u5099:</strong><br><ul class=\"bb_ul\"\
-        ><li>\u9700\u8981 64 \u4F4D\u5143\u7684\u8655\u7406\u5668\u53CA\u4F5C\u696D\
-        \u7CFB\u7D71<br></li><li><strong>\u4F5C\u696D\u7CFB\u7D71:</strong> Windows\
-        \ 7 64<br></li><li><strong>\u8655\u7406\u5668:</strong> 3 GHz<br></li><li><strong>\u8A18\
-        \u61B6\u9AD4:</strong> 8 GB \u8A18\u61B6\u9AD4<br></li><li><strong>\u986F\u793A\
-        \u5361:</strong> GeForce 660/Radeon HD 6970<br></li><li><strong>DirectX:</strong>\
-        \ \u7248\u672C\uFF1A11<br></li><li><strong>\u7DB2\u8DEF:</strong> \u5BEC\u983B\
-        \u7DB2\u969B\u7DB2\u8DEF\u9023\u7DDA<br></li><li><strong>\u5132\u5B58\u7A7A\
-        \u9593:</strong> 4 GB \u53EF\u7528\u7A7A\u9593</li></ul>"
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows XP
+        64<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 460/Radeon HD 5850/Intel
+        HD 4600 with at least 1024 MB video RAM<br></li><li><strong>DirectX:</strong>
+        Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows
+        7 64<br></li><li><strong>Processor:</strong> 3 GHz<br></li><li><strong>Memory:</strong>
+        8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 660/Radeon HD 6970<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong>
+        4 GB available space</li></ul>
     platforms:
       linux: false
       mac: true
       windows: true
     price_overview:
-      currency: HKD
+      currency: USD
       discount_percent: 0
-      final: 10900
-      final_formatted: HK$ 109.00
-      initial: 10900
+      final: 2499
+      final_formatted: $24.99
+      initial: 2499
       initial_formatted: ''
     publishers:
     - Bankroll Studios
     recommendations:
-      total: 22752
+      total: 22766
     release_date:
       coming_soon: false
-      date: "2019 \u5E74 12 \u6708 10 \u65E5"
+      date: Dec 10, 2019
     required_age: 0
     screenshots:
     - id: 0
@@ -376,51 +210,95 @@ details:
     - id: 14
       path_full: https://steamcdn-a.akamaihd.net/steam/apps/393420/ss_16aa6d4a5131add83995bbf8a095132b67e7c88a.1920x1080.jpg?t=1597169414
       path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/393420/ss_16aa6d4a5131add83995bbf8a095132b67e7c88a.600x338.jpg?t=1597169414
-    short_description: "Hurtworld\u4FC2\u4E00\u6B3E\u9AA8\u7070\u7D1A\u5605\u591A\u4EBA\
-      \u6C42\u751F\u985E\u7B2C\u4E00\u4EBA\u7A31\u5C04\u64CA\u904A\u6232 (FPS)\uFF0C\
-      \u55BA\u904A\u6232\u4E2D\u4E00\u65E6\u4F60\u5EFA\u7ACB\u5497\u4E00\u5572\u57FA\
-      \u672C\u9700\u6C42\u5F8C\uFF0C\u4E0D\u65B7 \u63A2\u7D22\u6C42\u751F\u5C31\u8B8A\
-      \u5F97\u5FC5\u4E0D\u53EF\u5C11\u3002Hurtworld\u5C08\u70BA\u9AA8\u7070\u7D1A\u73A9\
-      \u5BB6\u5C04\u64CA\uFF0C\u5C31\u4FC2\u70BA\u5497\u6DD8\u6C70\u5C0D\u624B\u800C\
-      \u751F\u5B58\u3002"
+    short_description: Hurtworld is a hardcore multiplayer survival FPS with a focus
+      on competitive gunplay and strategic map control. Built for hardcore gamers,
+      Hurtworld aims to punish.
     steam_appid: 393420
     support_info:
       email: support@bankrollstudios.com
       url: ''
-    supported_languages: "\u82F1\u6587, \u6CD5\u6587, \u7FA9\u5927\u5229\u6587, \u5FB7\
-      \u6587, \u897F\u73ED\u7259\u6587 - \u897F\u73ED\u7259, \u4FC4\u6587, \u571F\u8033\
-      \u5176\u6587, \u70CF\u514B\u862D\u6587, \u6377\u514B\u6587, \u8377\u862D\u6587\
-      , \u6CE2\u862D\u6587, \u8461\u8404\u7259\u6587 - \u5DF4\u897F, \u745E\u5178\u6587\
-      , \u65E5\u6587, \u7C21\u9AD4\u4E2D\u6587"
+    supported_languages: English, French, Italian, German, Spanish - Spain, Russian,
+      Turkish, Ukrainian, Czech, Dutch, Polish, Portuguese - Brazil, Swedish, Japanese,
+      Simplified Chinese
     type: game
     website: http://www.hurtworld.com
   success: true
 reviews:
-  cursor: AoJw/8WD7vYCeeCcwQI=
+  cursor: AoJ4gunk8fYCcszPwQI=
   query_summary:
     num_reviews: 1
     review_score: 6
     review_score_desc: Mostly Positive
-    total_negative: 5419
-    total_positive: 17331
-    total_reviews: 22750
+    total_negative: 5420
+    total_positive: 17346
+    total_reviews: 22766
   reviews:
   - author:
-      last_played: 1609770159
-      num_games_owned: 2
-      num_reviews: 1
-      playtime_at_review: 436
-      playtime_forever: 436
-      playtime_last_two_weeks: 436
-      steamid: '76561198874374056'
+      last_played: 1610279738
+      num_games_owned: 42
+      num_reviews: 2
+      playtime_at_review: 3928
+      playtime_forever: 4400
+      playtime_last_two_weeks: 4400
+      steamid: '76561198974062709'
     comment_count: 0
     language: russian
     received_for_free: false
-    recommendationid: '84207113'
-    review: "\u0432\u0441\u0435"
+    recommendationid: '84311234'
+    review: "\u0425\u043E\u0440\u043E\u0448\u0430\u044F \u0438\u0433\u0440\u0430 ,\
+      \ \u0441\u043A\u0430\u0437\u0430\u043B \u044F \u0431\u044B , \u0435\u0441\u043B\
+      \u0438 \u0431\u044B \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\
+      \u043A\u0438 \u043D\u0435 \u0437\u0430\u0431\u0438\u043B\u0438 \u0445\u0435\u0440\
+      \ \u043D\u0430 \u044D\u0442\u0443 \u0438\u0433\u0440\u0443 , \u0443 \u044D\u0442\
+      \u043E\u0439 \u0438\u0433\u0440\u044B \u043E\u0433\u0440\u043E\u043C\u043D\u044B\
+      \u0439 \u043F\u043E\u0442\u0435\u043D\u0446\u0435\u0430\u043B , \u0443 \u0440\
+      \u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u043E\u0432 \u0435\
+      \u0441\u0442\u044C \u0444\u0430\u043D\u0442\u0430\u0437\u0438\u044F , \u043D\
+      \u043E \u0438\u0445 \u043B\u0435\u043D\u044C \u043D\u0435 \u0434\u0430\u0451\
+      \u0442 \u0438\u043C \u0435\u0451 \u0432\u043E\u043F\u043B\u043E\u0449\u0430\u0442\
+      \u044C . \u041A\u043E\u0440\u043E\u0442\u043A\u043E \u043E\u0431 \u0438\u0433\
+      \u0440\u0435 \u0438 RU \u0441\u0435\u0440\u0432\u0435\u0440\u0430\u0445 . \u0418\
+      \u0433\u0440\u0430 \u043E\u0447\u0435\u043D\u044C \u043E\u0442\u043B\u0438\u0447\
+      \u043D\u0430\u044F \u0441\u0430\u043C\u0430 \u043F\u043E \u0441\u0435\u0431\u0435\
+      \ , \u043A\u0443\u0447\u0430 \u0438\u043D\u0442\u0440\u0435\u0441\u0442\u043D\
+      \u044B\u0445 \u043C\u0435\u0445\u0430\u043D\u0438\u043A \u0438 \u043C\u043D\u043E\
+      \u0433\u043E \u0434\u0440\u0443\u0433\u043E\u0433\u043E , \u043D\u043E \u0435\
+      \u0451 \u043F\u043E\u0440\u0442\u044F\u0442 \u0447\u0438\u0442\u0435\u0440\u044B\
+      \ \u0438 \u043A\u0438\u0442\u0430\u0439\u0446\u044B \u043A\u043E\u0442\u043E\
+      \u0440\u044B\u0435 \u0432\u043C\u0435\u0441\u0442\u0435 \u0442\u043E\u0433\u043E\
+      \ \u0447\u0442\u043E\u0431\u044B \u0438\u0433\u0440\u0430\u0442\u044C \u043D\
+      \u0430 \u0441\u0432\u043E\u0438\u0445 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\
+      \u044C\u043D\u044B\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u0430\u0445 \u0438\
+      \u0433\u0440\u0430\u044E\u0442 \u043D\u0430 RU \u0438 \u0432\u0441\u0435\u0445\
+      \ \u0443\u043D\u0438\u0436\u0430\u044E\u0442 , \u043D\u0435 \u043A\u043E\u043C\
+      \u0443 \u043D\u0435  \u0434\u0430\u044E\u0442 \u0438\u0433\u0440\u0430\u0442\
+      \u044C, \u0438\u043C \u0434\u0430\u0436\u0435 \u043D\u0435 \u043D\u0443\u0436\
+      \u043D\u044B \u0440\u0435\u0441\u044B , \u0443 \u043D\u0438\u0445 \u0432\u0441\
+      \u0451 \u0435\u0441\u0442\u044C \u0441 \u0441\u0430\u043C\u043E\u0433\u043E\
+      \ \u0441\u0442\u0430\u0440\u0442\u0430 \u0432\u0435\u0434\u044C \u0438\u0445\
+      \ \u043C\u0438\u043B\u0438\u043E\u043D \u043C\u0438\u043B\u0438\u0430\u0440\u0434\
+      \u043E\u0432 \u0447\u0435\u043B\u043E\u0432\u0435\u043A , \u0438\u043C  \u043D\
+      \u0443\u0436\u043D\u0430 \u0432\u0430\u0448\u0430 \u0414\u0423\u0428\u0410!!!!!!\
+      \ \u0411\u044B\u043B\u043E \u0431\u044B \u043A\u0440\u0443\u0442\u043E \u0435\
+      \u0441\u043B\u0438 \u0431\u044B \u0440\u0430\u0437\u0440\u0430\u0431\u044B \u0441\
+      \u0434\u0435\u043B\u0430\u043B\u0438 \u0442\u0430\u043A \u0447\u0442\u043E\u0431\
+      \u044B \u043A\u0430\u0436\u0434\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u0430\
+      \ \u0438\u0433\u0440\u0430\u043B\u0430 \u043D\u0430 \u0441\u0432\u043E\u0438\
+      \u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u0430\u0445 , \u043D\u043E \u0432\
+      \u0441\u0451 \u0438\u0434\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044C \u043D\
+      \u0430 RU \u0441\u0435\u0440\u0432\u0435\u0440 (\u0434\u043B\u044F \u043E\u0431\
+      \u0449\u0435\u0433\u043E \u0433\u0435\u0439\u043C\u0438\u043D\u0433\u0430 \u0435\
+      \u0441\u0442\u044C \u0432\u0441\u0435\u043C\u0438\u0440\u043D\u044B\u0439 \u0441\
+      \u0435\u0440\u0432 , \u043D\u043E \u043D\u0430 \u043D\u0435\u0433\u043E \u0432\
+      \u0441\u0435\u043C \u043F\u043E\u0445 , \u0432\u0441\u0435 \u0438\u0434\u0443\
+      \u0442 \u043D\u0430 RU \u0441\u0435\u0440\u0432\u0435\u0440) . \u0418\u0433\u0440\
+      \u0430 \u0432\u0432\u0435\u043B\u0430 \u043C\u0435\u043D\u044F \u0432 \u0442\
+      \u0438\u043B\u044C\u0442 . \u0421\u043F\u0430\u0441\u0438\u0431\u043E \u043A\
+      \u0442\u043E \u043F\u0440\u043E\u0447\u0438\u0442\u0430\u043B \u0434\u043E \u043A\
+      \u043E\u043D\u0446\u0430 . ;\u0437"
     steam_purchase: true
-    timestamp_created: 1610009686
-    timestamp_updated: 1610009686
+    timestamp_created: 1610135849
+    timestamp_updated: 1610135849
     voted_up: true
     votes_funny: 0
     votes_up: 0

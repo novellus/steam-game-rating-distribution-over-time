@@ -1,0 +1,148 @@
+details:
+  data:
+    about_the_game: '<strong>Basketing</strong> is a physics-based game where the
+      objective is to control a sphere throughout the court and make the ball go inside
+      of your opponent basket.<br><br>While jumping, you can use a small dash in either
+      direction, or up. But remember it takes 5 seconds to load again.<br><br>In the
+      <strong>arcade</strong> mode, there are <strong>items</strong> you can collect
+      to temporarily change the <strong>behavior</strong> of the <strong>players</strong>,
+      bringing funny situations to the game.<h2 class="bb_tag">Play with your friends</h2><br>You
+      can play 1 x 1, 1 x 2 or 2 x 2. There''s also a <strong>coop mode</strong> where
+      you can test your skills against CPU with a friend.<br><br>Press the square
+      brackets ( &quot;[&quot; and &quot;]&quot; ) to navigate between the sound tracks.<h2
+      class="bb_tag"><strong>How to customize Court and Players?</strong></h2><br><strong>Basketing</strong>
+      allows you to customize the Court and the Players <strong>skins</strong>. The
+      instructions for this are following: <br><ol><li><strong>Open the Steam Client
+      &gt; Right click on Basketing &gt; Properties &gt; Local Files &gt; BROWSE LOCAL
+      FILES</strong><br></li><li>Look inside the <strong>&quot;conf&quot;</strong>
+      directory. There are the template files (player_.png and court_.png) for Players
+      and the Court, as well the instructions of how to save the images... Pick your
+      favorite image editor, create your images and play with your own artwork. </li></ol>Please
+      feel free to share your images at <strong>Artwork</strong> tab in the <strong>Basketing
+      Community</strong><br><br>*THIS IS A DEMO VERSION OF BASKETING - THE FIRST TO
+      SCORE WILL BE THE WINNER. ALSO, THE ARCADE MODE IS UNAVAILABLE IN THIS VERSION'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1436560/page_bg_generated_v6b.jpg?t=1605081577
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: '<strong>Basketing</strong> is a physics-based game where
+      the objective is to control a sphere throughout the court and make the ball
+      go inside of your opponent basket.<br><br>While jumping, you can use a small
+      dash in either direction, or up. But remember it takes 5 seconds to load again.<br><br>In
+      the <strong>arcade</strong> mode, there are <strong>items</strong> you can collect
+      to temporarily change the <strong>behavior</strong> of the <strong>players</strong>,
+      bringing funny situations to the game.<h2 class="bb_tag">Play with your friends</h2><br>You
+      can play 1 x 1, 1 x 2 or 2 x 2. There''s also a <strong>coop mode</strong> where
+      you can test your skills against CPU with a friend.<br><br>Press the square
+      brackets ( &quot;[&quot; and &quot;]&quot; ) to navigate between the sound tracks.<h2
+      class="bb_tag"><strong>How to customize Court and Players?</strong></h2><br><strong>Basketing</strong>
+      allows you to customize the Court and the Players <strong>skins</strong>. The
+      instructions for this are following: <br><ol><li><strong>Open the Steam Client
+      &gt; Right click on Basketing &gt; Properties &gt; Local Files &gt; BROWSE LOCAL
+      FILES</strong><br></li><li>Look inside the <strong>&quot;conf&quot;</strong>
+      directory. There are the template files (player_.png and court_.png) for Players
+      and the Court, as well the instructions of how to save the images... Pick your
+      favorite image editor, create your images and play with your own artwork. </li></ol>Please
+      feel free to share your images at <strong>Artwork</strong> tab in the <strong>Basketing
+      Community</strong><br><br>*THIS IS A DEMO VERSION OF BASKETING - THE FIRST TO
+      SCORE WILL BE THE WINNER. ALSO, THE ARCADE MODE IS UNAVAILABLE IN THIS VERSION'
+    fullgame:
+      appid: '1342900'
+      name: Basketing
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1436560/header.jpg?t=1605081577
+    is_free: true
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu 16.04 LTS<br></li><li><strong>Processor:</strong> 1.8GHz<br></li><li><strong>Memory:</strong>
+        2024 MB RAM<br></li><li><strong>Graphics:</strong> 256MB - OpenGL 2.1+ (with
+        ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 26 MB available
+        space</li></ul>
+    mac_requirements: []
+    name: Basketing Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1.8GHz<br></li><li><strong>Memory:</strong>
+        2024 MB RAM<br></li><li><strong>Graphics:</strong> 256MB - OpenGL 2.1+ (with
+        ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 16 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 6, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_ad6744977d17e43d2a00a9c038e63c9ab880ad9d.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_ad6744977d17e43d2a00a9c038e63c9ab880ad9d.600x338.jpg?t=1605081577
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_f98d3f18ddced50268f447f489f170ce5ee46b52.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_f98d3f18ddced50268f447f489f170ce5ee46b52.600x338.jpg?t=1605081577
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_ca64226f7013f219255a25278d667f280bacbe86.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_ca64226f7013f219255a25278d667f280bacbe86.600x338.jpg?t=1605081577
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_2ee8a21a710b55ddfab051a6391a7d4523b63272.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_2ee8a21a710b55ddfab051a6391a7d4523b63272.600x338.jpg?t=1605081577
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_1a4f308807843043387df185f3ccfda699a2ba03.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_1a4f308807843043387df185f3ccfda699a2ba03.600x338.jpg?t=1605081577
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_bf879e7eac4bb16658744c4163d1542f27edd497.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_bf879e7eac4bb16658744c4163d1542f27edd497.600x338.jpg?t=1605081577
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_8401c18ce014df5655f6598020c54b7aeb51178d.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_8401c18ce014df5655f6598020c54b7aeb51178d.600x338.jpg?t=1605081577
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_364a5b0491b50c40e50f60688c6f844009b0d9a7.1920x1080.jpg?t=1605081577
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1436560/ss_364a5b0491b50c40e50f60688c6f844009b0d9a7.600x338.jpg?t=1605081577
+    short_description: Basketing is the youngest sibling of Volleying! Thus, as another
+      physics-based game, it also gives the players more control over their moves,
+      delivering unique matches each round. Invite your friends over or play remotely
+      and enjoy this predictably unpredictable experience!
+    steam_appid: 1436560
+    support_info:
+      email: gestaltdevstudio@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: "You will obtain the following items:<br />\r\nRipe Wall Nut x10<br\
+      \ />\r\nRipe Coco Palm x10<br />\r\nRipe Mangoh x10<br />\r\nDragon Jackpot\
+      \ x10"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/707187/page_bg_generated_v6b.jpg?t=1599779209
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Full controller support
+      id: 28
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "You will obtain the following items:<br />\r\nRipe Wall\
+      \ Nut x10<br />\r\nRipe Coco Palm x10<br />\r\nRipe Mangoh x10<br />\r\nDragon\
+      \ Jackpot x10"
+    developers:
+    - Nihon Falcom
+    fullgame:
+      appid: '579180'
+      name: 'Ys VIII: Lacrimosa of DANA'
+    genres:
+    - description: Action
+      id: '1'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/707187/header.jpg?t=1599779209
+    is_free: false
+    legal_notice: "\xA9 Nihon Falcom Corporation. All Rights Reserved. Licensed to\
+      \ and published by NIS America, Inc."
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Ys VIII: Lacrimosa of DANA - Ripe Fruit Set'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Ys VIII: Lacrimosa of DANA - Ripe Fruit Set - $0.99'
+        packageid: 204202
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Ys VIII: Lacrimosa of DANA - Ripe Fruit Set'
+    packages:
+    - 204202
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - NIS America, Inc.
+    release_date:
+      coming_soon: false
+      date: Apr 16, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/707187/ss_1a38b0333900b8528784274b98be8c69a21b2be0.1920x1080.jpg?t=1599779209
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/707187/ss_1a38b0333900b8528784274b98be8c69a21b2be0.600x338.jpg?t=1599779209
+    short_description: A set of 4 types of ripe fruit.
+    steam_appid: 707187
+    support_info:
+      email: ''
+      url: http://store.nisamerica.com/contact-us
+    supported_languages: English<strong>*</strong>, French, Japanese<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://ysviii.com
+  success: true
+reviews:
+  cursor: AoJwgLCM9+gCe9zzugE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
+    total_positive: 0
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 1878
+      num_reviews: 537
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198059971262'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '48995787'
+    review: These can be somewhat useful, I guess. But you're better off ignoring
+      this DLC.
+    steam_purchase: true
+    timestamp_created: 1550184448
+    timestamp_updated: 1550184448
+    voted_up: false
+    votes_funny: 0
+    votes_up: 8
+    weighted_vote_score: '0.583719551563262939'
+    written_during_early_access: false
+  success: 1

@@ -5,7 +5,30 @@ details:
       pop balloons.<br><br>Features: <br><ul class="bb_ul"><li> 20+ unique levels<br></li><li>
       Level completion ratings<br></li><li> 6 puzzle pieces<br></li><li> Level editor<br></li><li>
       Ability to make and share millions of level combinations</li></ul>'
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1475000/page_bg_generated_v6b.jpg?t=1609356212
+    achievements:
+      highlighted:
+      - name: Once you POP
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/3f7aa8ba7927d3b68ebf190885d68bae8e135475.jpg
+      - name: The fun hasn't stopped
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/c92ea47056038affd495615e9ae8a3dc695d1e24.jpg
+      - name: POP-tastic
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/af5480cfb515823bcddcd06008ba506e714752d8.jpg
+      - name: I'm so POP-ular
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/4bfb742b0ae4c89d227a7310254a47ee27322270.jpg
+      - name: They call me big POP-pa
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/97ed1f49c0b4acd90a43ef7c7f05ea92cc54205f.jpg
+      - name: MIRROR, MIRROR
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/1625c5e9c0bdabdb405e8e191a8e744c47abd1c1.jpg
+      - name: To MIRROR not to MIRR
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/ab9d596b88fb14c2f10e40be7f441bfb59745a12.jpg
+      - name: Seeing MIRROR images
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/c8642779f50e5d8c87e0796859ddd7bca06dc4a9.jpg
+      - name: It's a MIRROR-cle I'm still here
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/719c0e27b6345764a1c29b9a90e59ad4add1a4fc.jpg
+      - name: Winning ain't easy
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1475000/39f2810a4438cd742c229ea5feb88413835f2f3c.jpg
+      total: 15
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1475000/page_bg_generated_v6b.jpg?t=1609956286
     categories:
     - description: Single-player
       id: 2
@@ -28,7 +51,7 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1475000/header.jpg?t=1609356212
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1475000/header.jpg?t=1609956286
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -44,44 +67,71 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816847/movie480_vp9.webm?t=1609356203
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816847/movie_max_vp9.webm?t=1609356203
     name: Laser Burst
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Laser Burst - $7.49
+        packageid: 519432
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 749
+      title: Buy Laser Burst
+    packages:
+    - 519432
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7 4710MQ
         @ 2.50GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
         Intel HD Graphics 4600<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong>
-        Broadband Internet connection</li></ul>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB
+        available space</li></ul>
       recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7 4710MQ
         @ 2.50GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong>
         Intel HD Graphics 4600<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong>
-        Broadband Internet connection</li></ul>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB
+        available space</li></ul>
     platforms:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 749
+      final_formatted: $7.49
+      initial: 749
+      initial_formatted: ''
     publishers:
     - Never Mind Games
     release_date:
-      coming_soon: true
-      date: Jan 2021
+      coming_soon: false
+      date: Jan 6, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_eea62c09d5d1bcc7ade4193ed72916697a706b20.1920x1080.jpg?t=1609356212
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_eea62c09d5d1bcc7ade4193ed72916697a706b20.600x338.jpg?t=1609356212
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_eea62c09d5d1bcc7ade4193ed72916697a706b20.1920x1080.jpg?t=1609956286
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_eea62c09d5d1bcc7ade4193ed72916697a706b20.600x338.jpg?t=1609956286
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_8629a216c09293de392b6975e9eac830e85550d9.1920x1080.jpg?t=1609356212
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_8629a216c09293de392b6975e9eac830e85550d9.600x338.jpg?t=1609356212
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_8629a216c09293de392b6975e9eac830e85550d9.1920x1080.jpg?t=1609956286
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_8629a216c09293de392b6975e9eac830e85550d9.600x338.jpg?t=1609956286
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5030b9fe5b0b4d3d16364ae09e92caa349509f25.1920x1080.jpg?t=1609356212
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5030b9fe5b0b4d3d16364ae09e92caa349509f25.600x338.jpg?t=1609356212
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5030b9fe5b0b4d3d16364ae09e92caa349509f25.1920x1080.jpg?t=1609956286
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5030b9fe5b0b4d3d16364ae09e92caa349509f25.600x338.jpg?t=1609956286
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_acda91d3070863b9e541b49aac3b05d919356c99.1920x1080.jpg?t=1609356212
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_acda91d3070863b9e541b49aac3b05d919356c99.600x338.jpg?t=1609356212
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_acda91d3070863b9e541b49aac3b05d919356c99.1920x1080.jpg?t=1609956286
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_acda91d3070863b9e541b49aac3b05d919356c99.600x338.jpg?t=1609956286
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5d8e2c28710f7d0911e406e1ab8474f5cecd4f53.1920x1080.jpg?t=1609356212
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5d8e2c28710f7d0911e406e1ab8474f5cecd4f53.600x338.jpg?t=1609356212
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5d8e2c28710f7d0911e406e1ab8474f5cecd4f53.1920x1080.jpg?t=1609956286
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1475000/ss_5d8e2c28710f7d0911e406e1ab8474f5cecd4f53.600x338.jpg?t=1609956286
     short_description: Laser Burst is a logical puzzle game that requires you to methodically
       rotate and position double sided mirrors that direct lasers through a maze to
       pop balloons.

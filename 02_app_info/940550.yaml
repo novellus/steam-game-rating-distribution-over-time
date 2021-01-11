@@ -1,0 +1,113 @@
+details:
+  data:
+    about_the_game: "An additional music theme for the game Flying Pengy includes\
+      \ two music tracks for the Main Menu, In-game screen, and event sounds. The\
+      \ music tracks were specifically composed for this game.<br />\r\n<br />\r\n\
+      When DLC is installed, the game will automatically randomly choose the music\
+      \ theme to play.<br />\r\n<br />\r\nList of files: <br />\r\nmb-menu.ogg --\
+      \ Main menu music<br />\r\nmb-ingame.ogg -- In-game music<br />\r\nmb-winlevel.ogg\
+      \ -- a sound for the &quot;win level&quot; event<br />\r\nmb-gameover.ogg --\
+      \ a sound for the &quot;game over&quot; event"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/940550/page_bg_generated_v6b.jpg?t=1552888251
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "An additional music theme for the game Flying Pengy includes\
+      \ two music tracks for the Main Menu, In-game screen, and event sounds. The\
+      \ music tracks were specifically composed for this game.<br />\r\n<br />\r\n\
+      When DLC is installed, the game will automatically randomly choose the music\
+      \ theme to play.<br />\r\n<br />\r\nList of files: <br />\r\nmb-menu.ogg --\
+      \ Main menu music<br />\r\nmb-ingame.ogg -- In-game music<br />\r\nmb-winlevel.ogg\
+      \ -- a sound for the &quot;win level&quot; event<br />\r\nmb-gameover.ogg --\
+      \ a sound for the &quot;game over&quot; event"
+    developers:
+    - Bogemic Games
+    fullgame:
+      appid: '519870'
+      name: Flying Pengy
+    genres:
+    - description: Action
+      id: '1'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/940550/header.jpg?t=1552888251
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X El Capitan 10.11.5<br></li><li><strong>Processor:</strong> 1.5 Ghz</li></ul>
+    name: Flying Pengy - Mega Bounce Music Theme
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Flying Pengy - Mega Bounce Music Theme - $0.99
+        packageid: 305413
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Flying Pengy - Mega Bounce Music Theme
+    packages:
+    - 305413
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Processor:</strong> 1.5 Ghz<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 1, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/940550/ss_7f75f0d1903757d93ac08be289321b9ae828c6cc.1920x1080.jpg?t=1552888251
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/940550/ss_7f75f0d1903757d93ac08be289321b9ae828c6cc.600x338.jpg?t=1552888251
+    short_description: An additional music theme for the game Flying Pengy includes
+      two music tracks for the Main Menu, In-game screen, and event sounds. The music
+      tracks were specifically composed for this game.
+    steam_appid: 940550
+    support_info:
+      email: contact@bogemic.com
+      url: https://s.team/chat/COy1Couw
+    supported_languages: English, Japanese, Korean, Russian, Simplified Chinese, Traditional
+      Chinese
+    type: dlc
+    website: http://bogemic.com/games/flyingpengy.html
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

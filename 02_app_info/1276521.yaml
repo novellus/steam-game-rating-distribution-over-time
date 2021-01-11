@@ -1,0 +1,112 @@
+details:
+  data:
+    about_the_game: Upgrade external wall to sci fi.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1276521/page_bg_generated_v6b.jpg?t=1586514263
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: In-App Purchases
+      id: 35
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: Upgrade external wall to sci fi.
+    developers:
+    - Ninja Kiwi
+    fullgame:
+      appid: '1252780'
+      name: Bloons Monkey City
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1276521/header.jpg?t=1586514263
+    is_free: false
+    legal_notice: "\xA92020 Ninja Kiwi Ltd."
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>
+    name: Bloons Monkey City - Sci-Fi City Walls
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Bloons Monkey City - Sci-Fi City Walls - $0.99
+        packageid: 444520
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Bloons Monkey City - Sci-Fi City Walls
+    packages:
+    - 444520
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Ninja Kiwi
+    release_date:
+      coming_soon: false
+      date: Apr 10, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_e5b339d4409dfd931ae061ee8e50f4eb52cc7a05.1920x1080.jpg?t=1586514263
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_e5b339d4409dfd931ae061ee8e50f4eb52cc7a05.600x338.jpg?t=1586514263
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_f28a9d064ead73a507c2423364be88d8815fd33a.1920x1080.jpg?t=1586514263
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_f28a9d064ead73a507c2423364be88d8815fd33a.600x338.jpg?t=1586514263
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_08cc8baabfbb78d6eebd23e92cb2657c3058119b.1920x1080.jpg?t=1586514263
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_08cc8baabfbb78d6eebd23e92cb2657c3058119b.600x338.jpg?t=1586514263
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_a2a1ce2614f7d1a42e123c7ded2a0af588a08cf0.1920x1080.jpg?t=1586514263
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_a2a1ce2614f7d1a42e123c7ded2a0af588a08cf0.600x338.jpg?t=1586514263
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_56e92c1bc9b1dc2fa05e60a16f1ad0299416243f.1920x1080.jpg?t=1586514263
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1276521/ss_56e92c1bc9b1dc2fa05e60a16f1ad0299416243f.600x338.jpg?t=1586514263
+    short_description: Upgrade external wall to sci fi.
+    steam_appid: 1276521
+    support_info:
+      email: support@ninjakiwi.com
+      url: http://support.ninjakiwi.com
+    supported_languages: English
+    type: dlc
+    website: http://ninjakiwi.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

@@ -4,24 +4,41 @@ details:
       hand-to-hand combat between the protagonist and an improbably large number of
       opponents. <br><br>Cyberpunch is a traditional beat 'em ups take place in scrolling,
       two-dimensional (2D) levels with numbers of enemies to combat. <br><br><br><strong>Amazing
-      Pixel Art</strong><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1503350/extras/Screen02.png?t=1608708314"
+      Pixel Art</strong><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1503350/extras/Screen02.png?t=1610052660"
       /><br><br>Cyberpunch take place in urban settings and feature crime-fighting
       with science fiction and fantasy theme.<br><br>In the game, you control Fighters
       as they travel through environments, clearing the screen of enemies.<br><br><strong>Features</strong><br><ul
       class="bb_ul"><li> Amazing graphics fully hand-drawn<br></li><li> Pixel Art
       style game<br></li><li> Classic Beat Em Up gameplay</li></ul>
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1503350/page_bg_generated_v6b.jpg?t=1608708314
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1503350/page_bg_generated_v6b.jpg?t=1610052660
     categories:
     - description: Single-player
       id: 2
+    - description: Multi-player
+      id: 1
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Full controller support
+      id: 28
+    - description: Remote Play Together
+      id: 44
     content_descriptors:
       ids: []
       notes: null
+    controller_support: full
     detailed_description: Cyberpunch is a Beat 'em up game (also known as brawler)
       featuring hand-to-hand combat between the protagonist and an improbably large
       number of opponents. <br><br>Cyberpunch is a traditional beat 'em ups take place
       in scrolling, two-dimensional (2D) levels with numbers of enemies to combat.
-      <br><br><br><strong>Amazing Pixel Art</strong><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1503350/extras/Screen02.png?t=1608708314"
+      <br><br><br><strong>Amazing Pixel Art</strong><br><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1503350/extras/Screen02.png?t=1610052660"
       /><br><br>Cyberpunch take place in urban settings and feature crime-fighting
       with science fiction and fantasy theme.<br><br>In the game, you control Fighters
       as they travel through environments, clearing the screen of enemies.<br><br><strong>Features</strong><br><ul
@@ -38,7 +55,7 @@ details:
       id: '23'
     - description: Early Access
       id: '70'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1503350/header.jpg?t=1608708314
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1503350/header.jpg?t=1610052660
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
@@ -59,7 +76,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256815392/movie480_vp9.webm?t=1608707664
         max: http://steamcdn-a.akamaihd.net/steam/apps/256815392/movie_max_vp9.webm?t=1608707664
     name: Cyberpunch
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cyberpunch - <span class="discount_original_price">$24.99</span>
+          $14.99
+        packageid: 530077
+        percent_savings: 0
+        percent_savings_text: '-40% '
+        price_in_cents_with_discount: 1499
+      title: Buy Cyberpunch
+    packages:
+    - 530077
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows XP or later<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong>
@@ -73,49 +109,94 @@ details:
       linux: true
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 40
+      final: 1499
+      final_formatted: $14.99
+      initial: 2499
+      initial_formatted: $24.99
     publishers:
     - Indie Games Publisher
     release_date:
-      coming_soon: true
-      date: Jan 1, 2021
+      coming_soon: false
+      date: Jan 7, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_de361baff1fef6c6f3670bab2769c29324e951ae.1920x1080.jpg?t=1608708314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_de361baff1fef6c6f3670bab2769c29324e951ae.600x338.jpg?t=1608708314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_de361baff1fef6c6f3670bab2769c29324e951ae.1920x1080.jpg?t=1610052660
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_de361baff1fef6c6f3670bab2769c29324e951ae.600x338.jpg?t=1610052660
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_8608a429ad627005bc569d178a3026adaf2f5a9c.1920x1080.jpg?t=1608708314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_8608a429ad627005bc569d178a3026adaf2f5a9c.600x338.jpg?t=1608708314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_8608a429ad627005bc569d178a3026adaf2f5a9c.1920x1080.jpg?t=1610052660
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_8608a429ad627005bc569d178a3026adaf2f5a9c.600x338.jpg?t=1610052660
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_f736b6dfa2a431d180e0fcd7cc35011762715835.1920x1080.jpg?t=1608708314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_f736b6dfa2a431d180e0fcd7cc35011762715835.600x338.jpg?t=1608708314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_f736b6dfa2a431d180e0fcd7cc35011762715835.1920x1080.jpg?t=1610052660
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_f736b6dfa2a431d180e0fcd7cc35011762715835.600x338.jpg?t=1610052660
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_737d152d9fce94ba54221099aaf93c882512565a.1920x1080.jpg?t=1608708314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_737d152d9fce94ba54221099aaf93c882512565a.600x338.jpg?t=1608708314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_737d152d9fce94ba54221099aaf93c882512565a.1920x1080.jpg?t=1610052660
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_737d152d9fce94ba54221099aaf93c882512565a.600x338.jpg?t=1610052660
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_289f16d7ff6b980817410aef458243706ec7d971.1920x1080.jpg?t=1608708314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_289f16d7ff6b980817410aef458243706ec7d971.600x338.jpg?t=1608708314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_289f16d7ff6b980817410aef458243706ec7d971.1920x1080.jpg?t=1610052660
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_289f16d7ff6b980817410aef458243706ec7d971.600x338.jpg?t=1610052660
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_dc16830b76a12a4b79f08acb21fb63abecee0dca.1920x1080.jpg?t=1608708314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_dc16830b76a12a4b79f08acb21fb63abecee0dca.600x338.jpg?t=1608708314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_dc16830b76a12a4b79f08acb21fb63abecee0dca.1920x1080.jpg?t=1610052660
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503350/ss_dc16830b76a12a4b79f08acb21fb63abecee0dca.600x338.jpg?t=1610052660
     short_description: Cyberpunch is beat em up game where you control Fighters as
       they travel through environments, clearing the screen of enemies.
     steam_appid: 1503350
     support_info:
       email: contactcyberpunch@gmail.com
       url: https://gamecyberpunch.tumblr.com/
-    supported_languages: English
+    supported_languages: English, French, Italian, German, Spanish - Spain, Portuguese
+      - Brazil
     type: game
-    website: null
+    website: https://www.youtube.com/watch?v=Mr850nVM0ak
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJ4s5ru8PYCc+jBwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
-    total_negative: 0
+    review_score_desc: 1 user reviews
+    total_negative: 1
     total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1610100786
+      num_games_owned: 955
+      num_reviews: 1097
+      playtime_at_review: 13
+      playtime_forever: 13
+      playtime_last_two_weeks: 13
+      steamid: '76561198019816374'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84283011'
+    review: 'The laziest game I have played in a long time.
+
+      One enemy type.
+
+      One level.
+
+      One attack animation.
+
+      One audio track.
+
+
+      I cannot believe they are asking $30 NZD for this.
+
+      AVOID.
+
+
+      https://youtu.be/rLas5ixC9z8'
+    steam_purchase: true
+    timestamp_created: 1610104755
+    timestamp_updated: 1610104755
+    voted_up: false
+    votes_funny: 0
+    votes_up: 6
+    weighted_vote_score: '0.547686100006103516'
+    written_during_early_access: true
   success: 1

@@ -69,9 +69,10 @@ def validate_parsed_data(appid, data):
         assert data['details']['data'], 'data is empty'
 
         assert data['details']['data']['release_date'], 'release_date is empty'
-        assert not data['details']['data']['release_date']['coming_soon']  # field should always exist, and is boolean. Indicates game is not playable. Is False for early access games.
+        assert not data['details']['data']['release_date']['coming_soon'], 'release date marked coming soon'  # field should always exist, and is boolean. Indicates game is not playable. Is False for early access games.
         assert data['details']['data']['release_date']['date'], 'release_date -> date is empty'
-        assert dateparser.parse(data['details']['data']['release_date']['date']), 'dateparser returned falsey result'  # try to parse date
+        assert common.parse_date(data['details']['data']['release_date']['date']), 'dateparser returned falsey result'  # try to parse date
+        # assert dateparser.parse(data['details']['data']['release_date']['date']) > dateparser.parse('1980'), 'dateparser returned too old date (parse bug)'  # https://github.com/scrapinghub/dateparser/issues/866
 
         assert data['details']['data']['name'], 'name field is empty'
         assert data['details']['data']['steam_appid'] == appid, 'appid does not match queried appid'  # some appids redirect to another appid. This removes the duplicates
@@ -118,6 +119,12 @@ if __name__ == '__main__':
     manifest = common.warningless_yaml_load(f.read())
     f.close()
 
+    # specify which apps on commandline
+    if len(sys.argv) > 1:
+        specification = [int(x) for x in sys.argv[1:]]
+        manifest = [app for app in manifest if app['appid'] in specification]
+
+
     # shuffle manifest order to minimize order based errors
     # for instance, if attempting to access data on a particular app results in steam api locking us out for a period of time
     # some apps always return invalid responses, but this scenario is hypothetical
@@ -158,8 +165,9 @@ if __name__ == '__main__':
                 short_error_description, error_traceback = data
 
                 os.remove(yaml_path)
-                shutil.move(text_details_path, text_details_validation_failure_path(1))
-                shutil.move(text_reviews_path, text_reviews_validation_failure_path(1))
+                next_unique_number = next_unique_validation_failure_number(validation_failure_folder)
+                shutil.move(text_details_path, text_details_validation_failure_path(next_unique_number))
+                shutil.move(text_reviews_path, text_reviews_validation_failure_path(next_unique_number))
 
                 f = open(traceback_validation_failure_path(next_unique_number), 'w', encoding='utf-8')
                 f.write(error_traceback)

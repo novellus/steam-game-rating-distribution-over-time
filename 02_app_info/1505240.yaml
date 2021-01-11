@@ -37,7 +37,26 @@ details:
       \ that they do not!) </i><br><br>Please Do Not Delete any files as this could\
       \ cause catastrophic failure!<br><br>Note: This game requires you to open the\
       \ StreamingAssets folder located inside the games files in order to REDACTED"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1505240/page_bg_generated_v6b.jpg?t=1609828483
+    achievements:
+      highlighted:
+      - name: Stop Smiling
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/8b7e69fadcf1e624497eefe2350b09bb28acb5e1.jpg
+      - name: Scars can heal
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/a371c655508de903039826ec883a2546242e6b69.jpg
+      - name: Dumber than dirt
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/f800d3606465c259c62f58e3b010f2b33fbef0e2.jpg
+      - name: Flying REALLY Low
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/dbf03bc2efcc04acb72ae285bd4d76053ddd6c81.jpg
+      - name: Easter Egg Hunt
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/f23abc708ecc688bc08bfaba9122a62d59dd67d2.jpg
+      - name: Well Informed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/c1ec948257ee4bd4203afc37baef4540bb9dc97e.jpg
+      - name: SURPRISE!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/e9a082585a5b3efdf48de4cf1a7c671000a75c40.jpg
+      - name: Arthur Says Hello
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1505240/1bff47ec4562153881cbfe0d2394b6b02ae84aa3.jpg
+      total: 8
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1505240/page_bg_generated_v6b.jpg?t=1609874544
     categories:
     - description: Single-player
       id: 2
@@ -90,7 +109,7 @@ details:
       id: '23'
     - description: RPG
       id: '3'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1505240/header.jpg?t=1609828483
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1505240/header.jpg?t=1609874544
     is_free: true
     legal_notice: Tales From Yeoldeburg is a copyrighted title by Magic Dog Studios
     linux_requirements: []
@@ -118,25 +137,25 @@ details:
     publishers:
     - Magic Dog Studios
     release_date:
-      coming_soon: true
-      date: When It's ready
+      coming_soon: false
+      date: Jan 5, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_06781fc18f4de2661975745982c2e886665bc860.1920x1080.jpg?t=1609828483
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_06781fc18f4de2661975745982c2e886665bc860.600x338.jpg?t=1609828483
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_06781fc18f4de2661975745982c2e886665bc860.1920x1080.jpg?t=1609874544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_06781fc18f4de2661975745982c2e886665bc860.600x338.jpg?t=1609874544
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_9940edf97e1e43f72f83e74d97140bc50aed7f51.1920x1080.jpg?t=1609828483
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_9940edf97e1e43f72f83e74d97140bc50aed7f51.600x338.jpg?t=1609828483
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_9940edf97e1e43f72f83e74d97140bc50aed7f51.1920x1080.jpg?t=1609874544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_9940edf97e1e43f72f83e74d97140bc50aed7f51.600x338.jpg?t=1609874544
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_99b2db18a9d6f2edeb6d17982a2d3593be9b86b0.1920x1080.jpg?t=1609828483
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_99b2db18a9d6f2edeb6d17982a2d3593be9b86b0.600x338.jpg?t=1609828483
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_99b2db18a9d6f2edeb6d17982a2d3593be9b86b0.1920x1080.jpg?t=1609874544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_99b2db18a9d6f2edeb6d17982a2d3593be9b86b0.600x338.jpg?t=1609874544
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_6b19f2597091530b444be20356d268581b7272bf.1920x1080.jpg?t=1609828483
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_6b19f2597091530b444be20356d268581b7272bf.600x338.jpg?t=1609828483
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_6b19f2597091530b444be20356d268581b7272bf.1920x1080.jpg?t=1609874544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_6b19f2597091530b444be20356d268581b7272bf.600x338.jpg?t=1609874544
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_54e69c1065f0f31f79bfe000df0c1204c15032cd.1920x1080.jpg?t=1609828483
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_54e69c1065f0f31f79bfe000df0c1204c15032cd.600x338.jpg?t=1609828483
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_54e69c1065f0f31f79bfe000df0c1204c15032cd.1920x1080.jpg?t=1609874544
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1505240/ss_54e69c1065f0f31f79bfe000df0c1204c15032cd.600x338.jpg?t=1609874544
     short_description: "Hello There! Your pal Simon here! Thanks for checking out\
       \ this page. I hope we can become great friends in this game together, Assuming\
       \ anyone will see this post. Let\u2019s have an adventure together!"

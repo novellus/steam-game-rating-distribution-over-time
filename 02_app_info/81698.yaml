@@ -1,0 +1,58 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Edmund McMillen, Florian Himsl
+    fullgame:
+      appid: '113204'
+      name: 'Binding of Isaac: Wrath of the Lamb'
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/81698/header.jpg?t=1447355924
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: The Binding of Isaac Wrath of the Lamb Trailer
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Edmund McMillen, Florian Himsl
+    release_date:
+      coming_soon: false
+      date: May 29, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 81698
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: movie
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

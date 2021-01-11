@@ -1,0 +1,64 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Cakewalk
+    fullgame:
+      appid: '379660'
+      name: Cakewalk L-Phase Series Plug-ins
+    genres:
+    - description: Audio Production
+      id: '52'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/638190/header.jpg?t=1511553415
+    is_free: false
+    legal_notice: '*2/1/17 - Steam purchases only include Windows VST2, VST3, and
+      AAX versions of the L-Phase plugin suite.'
+    linux_requirements: []
+    mac_requirements: []
+    name: L-Phase Adaptive Limiter
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, 8, or 10 (32- or 64-bit)<br></li><li><strong>Processor:</strong>
+        2.6GHz Intel or AMD multi-core processor<br></li><li><strong>Graphics:</strong>
+        1280x800 (1920 x 1080+ recommended)<br></li><li><strong>Storage:</strong>
+        50 MB available space<br></li><li><strong>Sound Card:</strong> ASIO compatible
+        hardware is recommended</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Cakewalk
+    release_date:
+      coming_soon: false
+      date: May 25, 2017
+    required_age: 0
+    short_description: ''
+    steam_appid: 638190
+    support_info:
+      email: sethkellogg@cakewalk.com
+      url: www.cakewalk.com/support/contact
+    supported_languages: English
+    type: dlc
+    website: http://www.cakewalk.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

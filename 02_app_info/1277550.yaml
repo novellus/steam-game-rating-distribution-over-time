@@ -4,7 +4,10 @@ details:
       which is lost on the outskirts of the discovered part of the universe. The album
       contains both intense, calm tracks for locations exploring and dynamic tracks
       for battles with space bosses.
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1277550/page_bg_generated_v6b.jpg?t=1585593485
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1277550/page_bg_generated_v6b.jpg?t=1610095996
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
     content_descriptors:
       ids: []
       notes: null
@@ -17,27 +20,66 @@ details:
     fullgame:
       appid: '1113220'
       name: ASCIIDENT
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1277550/header.jpg?t=1585593485
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1277550/header.jpg?t=1610095996
     is_free: false
     linux_requirements: []
     mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256817530
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256817530/movie480.mp4?t=1610095989
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256817530/movie_max.mp4?t=1610095989
+      name: ASCII Player
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256817530/movie.293x165.jpg?t=1610095989
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256817530/movie480_vp9.webm?t=1610095989
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256817530/movie_max_vp9.webm?t=1610095989
     name: ASCIIDENT Soundtrack
-    package_groups: []
-    pc_requirements: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ASCIIDENT Soundtrack - $4.99
+        packageid: 444839
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy ASCIIDENT Soundtrack
+    packages:
+    - 444839
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        27 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 355 MB available space</li></ul>
     platforms:
       linux: true
       mac: true
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
     publishers:
     - ' Black Maple Games'
     release_date:
-      coming_soon: true
-      date: Mar 28, 2020
+      coming_soon: false
+      date: Jan 7, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1277550/ss_94785c38caef10836d124e86e3d8b6d785ca0af8.1920x1080.jpg?t=1585593485
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1277550/ss_94785c38caef10836d124e86e3d8b6d785ca0af8.600x338.jpg?t=1585593485
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1277550/ss_94785c38caef10836d124e86e3d8b6d785ca0af8.1920x1080.jpg?t=1610095996
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1277550/ss_94785c38caef10836d124e86e3d8b6d785ca0af8.600x338.jpg?t=1610095996
     short_description: The soundtrack is saturated with the spirit of the unusual
       world which is lost on the outskirts of the discovered part of the universe.
       The album contains both intense, calm tracks for locations exploring and dynamic

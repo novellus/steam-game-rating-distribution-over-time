@@ -1,0 +1,72 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Irrational Games
+    fullgame:
+      appid: '8880'
+      name: Freedom Force
+    genres:
+    - description: RPG
+      id: '3'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/8900/header.jpg?t=1572472174
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    metacritic:
+      score: 90
+    name: Freedom Force Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista<br>\t\
+        </li><li><strong>Processor:</strong> 600 MHz or faster Intel Pentium III or\
+        \ AMD Athlon processor<br>\t</li><li><strong>Memory:</strong> 128 MB or more\
+        \ RAM<br>\t</li><li><strong>Graphics:</strong> 32 MB or greater supported\
+        \ Direct3D capable video card with DirectX 8.1 compatible driver<br>\t</li><li><strong>Hard\
+        \ Drive:</strong> 570 MB or more free hard disk space plus space for saved\
+        \ games<br>\t</li><li><strong>Sound:</strong> Environmental Audio capable\
+        \ sound card</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - 2K
+    release_date:
+      coming_soon: false
+      date: May 29, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 8900
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

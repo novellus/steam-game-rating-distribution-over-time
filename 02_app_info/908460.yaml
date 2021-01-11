@@ -1,0 +1,189 @@
+details:
+  data:
+    about_the_game: '<h2 class="bb_tag">Become a leader and support your troops!</h2><br>Get
+      access to two exclusive units, not included in the Starter and the Premium subscriptions!<br><br><ul
+      class="bb_ul"><li><strong>Non-Commissioned Officer</strong> (NCO): you carry
+      a SMG and can build some extra defensive fortifications, among which an ammunition
+      crater (player-placed object resupplying any unit standing close)<br></li><li><strong>Ammunition
+      Bearer</strong>: you carry 4 ammo boxes that will resupply all primary and secondary
+      weapons of infantries<br></li><li>You can volunteer as a brigade commander (AO/DO):
+      join a brigade and type <strong>.oicvolunteer</strong> in the chat</li></ul><br>Upon
+      purchase, these units will be immediately available for you to access, providing
+      supply is available at the spawn you have selected.<br><br>This downloadable
+      content may be purchased without requiring a subscription. You will pay for
+      the DLC one time and you will own that content indefinitely.<br>At any time,
+      you can subscribe to gain full access but should you choose to unsubscribe,
+      these DLC items will remain with your account, always.'
+    background: https://steamcdn-a.akamaihd.net/steam/apps/908460/page_bg_generated_v6b.jpg?t=1604262426
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: MMO
+      id: 20
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: '<h2 class="bb_tag">Become a leader and support your troops!</h2><br>Get
+      access to two exclusive units, not included in the Starter and the Premium subscriptions!<br><br><ul
+      class="bb_ul"><li><strong>Non-Commissioned Officer</strong> (NCO): you carry
+      a SMG and can build some extra defensive fortifications, among which an ammunition
+      crater (player-placed object resupplying any unit standing close)<br></li><li><strong>Ammunition
+      Bearer</strong>: you carry 4 ammo boxes that will resupply all primary and secondary
+      weapons of infantries<br></li><li>You can volunteer as a brigade commander (AO/DO):
+      join a brigade and type <strong>.oicvolunteer</strong> in the chat</li></ul><br>Upon
+      purchase, these units will be immediately available for you to access, providing
+      supply is available at the spawn you have selected.<br><br>This downloadable
+      content may be purchased without requiring a subscription. You will pay for
+      the DLC one time and you will own that content indefinitely.<br>At any time,
+      you can subscribe to gain full access but should you choose to unsubscribe,
+      these DLC items will remain with your account, always.'
+    developers:
+    - Cornered Rat Software
+    fullgame:
+      appid: '251950'
+      name: WWII Online
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    - description: Massively Multiplayer
+      id: '29'
+    - description: RPG
+      id: '3'
+    - description: Simulation
+      id: '28'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/908460/header.jpg?t=1604262426
+    is_free: false
+    linux_requirements: []
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X 10.10 +<br></li><li><strong>Processor:</strong> NVIDIA GeForce 8600 series
+        or ATI Radeon HD 2600 Pro<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available
+        space<br></li><li><strong>Sound Card:</strong> on-board or better</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS Sierra 10.12.2+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong>
+        GeForce GTX 250 or Radeon HD 4850 or better<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available
+        space<br></li><li><strong>Sound Card:</strong> on-board or better</li></ul>
+    name: Leadership Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Leadership Pack - $9.99
+        packageid: 291056
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Leadership Pack
+    packages:
+    - 291056
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> Pentium 4 3.2
+        GHz or Athlon 64 3500+ (2.2 GHz) or better with SSE 2.0 support<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 series
+        or ATI Radeon HD 2600 Pro<br></li><li><strong>Network:</strong> Broadband
+        Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound
+        Card:</strong> on-board or better</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 8.1 / Windows 10<br></li><li><strong>Processor:</strong> 3 GHz Dual
+        Core or 2.66 GHz Quad Core<br></li><li><strong>Graphics:</strong> GeForce
+        GTX 250 or Radeon HD 4850 or better<br></li><li><strong>Network:</strong>
+        Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available
+        space<br></li><li><strong>Sound Card:</strong> on-board or better</li></ul>
+    platforms:
+      linux: false
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
+    publishers:
+    - Cornered Rat Software
+    release_date:
+      coming_soon: false
+      date: Aug 31, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908460/ss_c3a9c034b603e18c75c028b740e4db1eef6d3b32.1920x1080.jpg?t=1604262426
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908460/ss_c3a9c034b603e18c75c028b740e4db1eef6d3b32.600x338.jpg?t=1604262426
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908460/ss_733c73438261a8aebaefdf806ff92dd59729eb01.1920x1080.jpg?t=1604262426
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908460/ss_733c73438261a8aebaefdf806ff92dd59729eb01.600x338.jpg?t=1604262426
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/908460/ss_7891629db6074c6d45e84204519a3bba61cb9220.1920x1080.jpg?t=1604262426
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/908460/ss_7891629db6074c6d45e84204519a3bba61cb9220.600x338.jpg?t=1604262426
+    short_description: Become a leader of WWII Online and get exclusive access to
+      the NCO class and the Ammo bearer!
+    steam_appid: 908460
+    support_info:
+      email: support@playnet.com
+      url: http://support.wwiionline.com
+    supported_languages: English<strong>*</strong>, French, Italian, German, Spanish
+      - Spain, Simplified Chinese<br><strong>*</strong>languages with full audio support
+    type: dlc
+    website: http://www.wwiionline.com
+  success: true
+reviews:
+  cursor: AoJwwOPC/+kCesXwvgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 5 user reviews
+    total_negative: 1
+    total_positive: 4
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 11
+      num_reviews: 12
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198364861116'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '50037850'
+    review: Personally, I would call this good. It gives ya many a useful items to
+      keep your sorry butt from dying fast. I like super fobs
+    steam_purchase: true
+    timestamp_created: 1554762112
+    timestamp_updated: 1554762112
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

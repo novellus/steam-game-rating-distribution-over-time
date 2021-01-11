@@ -7,7 +7,7 @@ details:
       \ mode for greater challenge.<br />\r\n- Many bright Watercolour puzzle images.<br\
       \ />\r\n- Colorful puzzling atmosphere.<br />\r\n- Traditional puzzle gameplay.<br\
       \ />\r\n- Simple controls make it easy to solve picture!"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1503410/page_bg_generated_v6b.jpg?t=1608752047
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1503410/page_bg_generated_v6b.jpg?t=1610278914
     categories:
     - description: Single-player
       id: 2
@@ -25,6 +25,10 @@ details:
       puzzle gameplay.<br>- Simple controls make it easy to solve picture!
     developers:
     - Boogygames Studios
+    dlc:
+    - 1507300
+    - 1510640
+    - 1515690
     genres:
     - description: Adventure
       id: '25'
@@ -34,7 +38,7 @@ details:
       id: '23'
     - description: Simulation
       id: '28'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1503410/header.jpg?t=1608752047
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1503410/header.jpg?t=1610278914
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -50,7 +54,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256815191/movie480_vp9.webm?t=1608743794
         max: http://steamcdn-a.akamaihd.net/steam/apps/256815191/movie_max_vp9.webm?t=1608743794
     name: Children's Jigsaw Puzzles
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Children's Jigsaw Puzzles - <span class="discount_original_price">$3.99</span>
+          $3.19
+        packageid: 530100
+        percent_savings: 0
+        percent_savings_text: '-20% '
+        price_in_cents_with_discount: 319
+      title: Buy Children's Jigsaw Puzzles
+    packages:
+    - 530100
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> Pentium
@@ -60,43 +83,50 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 20
+      final: 319
+      final_formatted: $3.19
+      initial: 399
+      initial_formatted: $3.99
     publishers:
     - Boogygames Studios
     release_date:
-      coming_soon: true
-      date: Dec 31, 2020
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_e1d9343213d6a9e3d9124107f0fb0334c5851b3d.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_e1d9343213d6a9e3d9124107f0fb0334c5851b3d.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_e1d9343213d6a9e3d9124107f0fb0334c5851b3d.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_e1d9343213d6a9e3d9124107f0fb0334c5851b3d.600x338.jpg?t=1610278914
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_59c4f2d5e33d6f2930268573204cbb5d3f9afd62.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_59c4f2d5e33d6f2930268573204cbb5d3f9afd62.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_59c4f2d5e33d6f2930268573204cbb5d3f9afd62.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_59c4f2d5e33d6f2930268573204cbb5d3f9afd62.600x338.jpg?t=1610278914
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_48ca506e0dbb50db71afb860673f7139ac7d63d6.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_48ca506e0dbb50db71afb860673f7139ac7d63d6.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_48ca506e0dbb50db71afb860673f7139ac7d63d6.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_48ca506e0dbb50db71afb860673f7139ac7d63d6.600x338.jpg?t=1610278914
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2a50fb43819178f691f4f08e3c5db08bc8a9bf2c.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2a50fb43819178f691f4f08e3c5db08bc8a9bf2c.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2a50fb43819178f691f4f08e3c5db08bc8a9bf2c.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2a50fb43819178f691f4f08e3c5db08bc8a9bf2c.600x338.jpg?t=1610278914
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_f64ce9bcbf65f6dcc1fd9a0ec86df6de76d93715.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_f64ce9bcbf65f6dcc1fd9a0ec86df6de76d93715.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_f64ce9bcbf65f6dcc1fd9a0ec86df6de76d93715.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_f64ce9bcbf65f6dcc1fd9a0ec86df6de76d93715.600x338.jpg?t=1610278914
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_377d17eed718f27bba14f9fadd7ec7422c226a00.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_377d17eed718f27bba14f9fadd7ec7422c226a00.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_377d17eed718f27bba14f9fadd7ec7422c226a00.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_377d17eed718f27bba14f9fadd7ec7422c226a00.600x338.jpg?t=1610278914
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_42c2264beebc1056c1a37d9b95b445e400433c6e.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_42c2264beebc1056c1a37d9b95b445e400433c6e.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_42c2264beebc1056c1a37d9b95b445e400433c6e.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_42c2264beebc1056c1a37d9b95b445e400433c6e.600x338.jpg?t=1610278914
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2e842374410cf8fef07ba04705e8ed6f97cff9d8.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2e842374410cf8fef07ba04705e8ed6f97cff9d8.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2e842374410cf8fef07ba04705e8ed6f97cff9d8.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_2e842374410cf8fef07ba04705e8ed6f97cff9d8.600x338.jpg?t=1610278914
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_a064fb7b95a38bec566632ceb0d4eda12c5c15fd.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_a064fb7b95a38bec566632ceb0d4eda12c5c15fd.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_a064fb7b95a38bec566632ceb0d4eda12c5c15fd.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_a064fb7b95a38bec566632ceb0d4eda12c5c15fd.600x338.jpg?t=1610278914
     - id: 9
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_6692579c51b5b75e948e2b36e99a151fb7983fc0.1920x1080.jpg?t=1608752047
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_6692579c51b5b75e948e2b36e99a151fb7983fc0.600x338.jpg?t=1608752047
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_6692579c51b5b75e948e2b36e99a151fb7983fc0.1920x1080.jpg?t=1610278914
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1503410/ss_6692579c51b5b75e948e2b36e99a151fb7983fc0.600x338.jpg?t=1610278914
     short_description: This puzzle game helps your kids develop matching and fine
       motor skills. Your children will just love these wonderfully hand-drawn pictures
       and will improve their spatial skills while having fun!

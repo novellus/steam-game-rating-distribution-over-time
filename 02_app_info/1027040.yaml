@@ -1,0 +1,128 @@
+details:
+  data:
+    about_the_game: The Labyrinth Demo is a tester for the full release of The Labyrinth.
+      This is a graphical and performance overhaul of the original as well as having
+      certain mechanics tweaked and changed entirely. The demo is a stripped-down
+      version of the complete game, currently missing key components as they haven't
+      been developed yet.<br><br>Here is what is finished and is in the demo:<br><ul
+      class="bb_ul"><li>Full character creation<br></li><li>Saving/loading across
+      3 files<br></li><li>Floor generation<br></li><li>Item generation<br></li><li>Framework
+      for combat. Combat itself is not going to be in the demo, but stat changes,
+      listeners, and status effects are implemented and working</li></ul><br>Here
+      is what is not finished and isn't in the demo:<br><ul class="bb_ul"><li>Tutorial<br></li><li>Achievements<br></li><li>Stat
+      tracking<br></li><li>Combat<br></li><li>Spell allocation<br></li><li>End-game
+      content, the game is unbeatable and goes on forever</li></ul><br>When the game
+      is complete the demo will be a complete version of the game with certain features
+      restricted such as achievements, character creation, and run length.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1027040/page_bg_generated_v6b.jpg?t=1608223408
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: The Labyrinth Demo is a tester for the full release of The
+      Labyrinth. This is a graphical and performance overhaul of the original as well
+      as having certain mechanics tweaked and changed entirely. The demo is a stripped-down
+      version of the complete game, currently missing key components as they haven't
+      been developed yet.<br><br>Here is what is finished and is in the demo:<br><ul
+      class="bb_ul"><li>Full character creation<br></li><li>Saving/loading across
+      3 files<br></li><li>Floor generation<br></li><li>Item generation<br></li><li>Framework
+      for combat. Combat itself is not going to be in the demo, but stat changes,
+      listeners, and status effects are implemented and working</li></ul><br>Here
+      is what is not finished and isn't in the demo:<br><ul class="bb_ul"><li>Tutorial<br></li><li>Achievements<br></li><li>Stat
+      tracking<br></li><li>Combat<br></li><li>Spell allocation<br></li><li>End-game
+      content, the game is unbeatable and goes on forever</li></ul><br>When the game
+      is complete the demo will be a complete version of the game with certain features
+      restricted such as achievements, character creation, and run length.
+    developers:
+    - Alexander Spillman
+    fullgame:
+      appid: '652050'
+      name: The Labyrinth
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    - description: RPG
+      id: '3'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1027040/header.jpg?t=1608223408
+    is_free: true
+    linux_requirements: []
+    mac_requirements: []
+    name: The Labyrinth Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 2.5GHz<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Literally any external/integrated
+        card<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional
+        Notes:</strong> This is a simple Flash game, if you have any computer then
+        odds are you can play this game</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Alexander Spillman
+    release_date:
+      coming_soon: false
+      date: Feb 6, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_12631fd83905ff4af6c26f7a1131082d99f36032.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_12631fd83905ff4af6c26f7a1131082d99f36032.600x338.jpg?t=1608223408
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_73d1ee85ed0f4f8cb81527663ec2a32718420543.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_73d1ee85ed0f4f8cb81527663ec2a32718420543.600x338.jpg?t=1608223408
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_7a4ef5fba7348e17e7967486025b2c5d3c97cbbf.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_7a4ef5fba7348e17e7967486025b2c5d3c97cbbf.600x338.jpg?t=1608223408
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_8bf8215505a3c724b4b8ae733f6f22db6e5dd418.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_8bf8215505a3c724b4b8ae733f6f22db6e5dd418.600x338.jpg?t=1608223408
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_05ee17a997dfad59162468376356057438e7f8ee.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_05ee17a997dfad59162468376356057438e7f8ee.600x338.jpg?t=1608223408
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_55f287874e7c2284449dd185d8b5c53e18aab980.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_55f287874e7c2284449dd185d8b5c53e18aab980.600x338.jpg?t=1608223408
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_ce715442b13ae699dbbaef8ca04e899d1db6c94a.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_ce715442b13ae699dbbaef8ca04e899d1db6c94a.600x338.jpg?t=1608223408
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_f984d8820d0cdcc9f14db7203e8a6f0834eeabd8.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_f984d8820d0cdcc9f14db7203e8a6f0834eeabd8.600x338.jpg?t=1608223408
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_06675220d8a1e44179ad9d26b4baa9ba8335fe95.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_06675220d8a1e44179ad9d26b4baa9ba8335fe95.600x338.jpg?t=1608223408
+    - id: 9
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_814c689ce878b0cbd3232a29b4c2501623600e56.1920x1080.jpg?t=1608223408
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1027040/ss_814c689ce878b0cbd3232a29b4c2501623600e56.600x338.jpg?t=1608223408
+    short_description: The Labyrinth Demo is a demo for the official release of 2017's
+      The Labyrinth. This is a graphical and performance overhaul with all of the
+      same features as the original game but with a fresh coat of paint and more added
+      onto it!
+    steam_appid: 1027040
+    support_info:
+      email: thelabyrinthvg@gmail.com
+      url: ''
+    supported_languages: English
+    type: demo
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

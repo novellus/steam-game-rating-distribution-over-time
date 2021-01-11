@@ -1,0 +1,125 @@
+details:
+  data:
+    about_the_game: "The original soundtrack of the game &quot;Murasaki&quot; developed\
+      \ by KATATEMA.<br />\r\nMost songs contain outside the loop and modulation which\
+      \ is not included in the game.<br />\r\nmp3, wav, flac versions are available."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/461050/page_bg_generated_v6b.jpg?t=1581550398
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "The original soundtrack of the game &quot;Murasaki&quot;\
+      \ developed by KATATEMA.<br />\r\nMost songs contain outside the loop and modulation\
+      \ which is not included in the game.<br />\r\nmp3, wav, flac versions are available."
+    developers:
+    - Katatema
+    - Watson
+    fullgame:
+      appid: '392030'
+      name: Murasaki
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/461050/header.jpg?t=1581550398
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256663523
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256663523/movie480.mp4?t=1581550390
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256663523/movie_max.mp4?t=1581550390
+      name: OST sample
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256663523/movie.293x165.jpg?t=1581550390
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256663523/movie480.webm?t=1581550390
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256663523/movie_max.webm?t=1581550390
+    name: Murasaki - Original Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Murasaki - Original Soundtrack - $4.99
+        packageid: 100530
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 499
+      title: Buy Murasaki - Original Soundtrack
+    packages:
+    - 100530
+    pc_requirements: []
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 499
+      final_formatted: $4.99
+      initial: 499
+      initial_formatted: ''
+    publishers:
+    - PLAYISM
+    release_date:
+      coming_soon: false
+      date: May 12, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/461050/ss_9e5bc64e1b96b3f7628187e689484e11a7ffb803.1920x1080.jpg?t=1581550398
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/461050/ss_9e5bc64e1b96b3f7628187e689484e11a7ffb803.600x338.jpg?t=1581550398
+    short_description: The original soundtrack of the game &quot;Murasaki&quot; developed
+      by KATATEMA. Most songs contain outside the loop and modulation which is not
+      included in the game.
+    steam_appid: 461050
+    support_info:
+      email: support@playism.jp
+      url: ''
+    supported_languages: English, Japanese
+    type: music
+    website: http://members.jcom.home.ne.jp/wtetsu/mu/
+  success: true
+reviews:
+  cursor: AoJw3Ir25OkCfu2JvgE=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 3 user reviews
+    total_negative: 0
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 0
+      num_games_owned: 85
+      num_reviews: 29
+      playtime_forever: 0
+      playtime_last_two_weeks: 0
+      steamid: '76561198314432311'
+    comment_count: 0
+    language: japanese
+    received_for_free: false
+    recommendationid: '49827550'
+    review: "mp3, wav, flac\u5F62\u5F0F\u306B\u5BFE\u5FDC\u3057\u3066\u308B\u306E\u306F\
+      \u5F37\u3044\u3067\u3059\u3002\u4ED6\u306E\u30D1\u30D6\u30EA\u30C3\u30B7\u30E3\
+      \u30FC\u306E\u30B2\u30FC\u30E0\u3067\u3082\u3053\u3053\u307E\u3067\u3061\u3083\
+      \u3093\u3068\u3057\u305F\u30B5\u30F3\u30C8\u30E9\u306F\u3042\u307E\u308A\u898B\
+      \u305F\u3053\u3068\u304C\u7121\u3044\u3067\u3059\u3002mp3\u3060\u3051\u3063\u3066\
+      \u3044\u3046\u306E\u3082\u591A\u3044\u3067\u3059\u3057\u3002"
+    steam_purchase: true
+    timestamp_created: 1553869592
+    timestamp_updated: 1553869592
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
+  success: 1

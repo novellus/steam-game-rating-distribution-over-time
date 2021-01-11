@@ -1,0 +1,76 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Co-op
+      id: 9
+    - description: Online Co-op
+      id: 38
+    - description: Cross-Platform Multiplayer
+      id: 27
+    - description: Game demo
+      id: 10
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Pixel Framers LLC
+    fullgame:
+      appid: '965630'
+      name: War Yards
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1376410/header.jpg?t=1600786150
+    is_free: true
+    legal_notice: "\xA92020 Pixel Framers LLC"
+    linux_requirements: []
+    mac_requirements: []
+    name: War Yards Demo
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel i5-4590\
+        \ / AMD FX 8350 equivalent or greater<br></li><li><strong>Memory:</strong>\
+        \ 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\xAE GTX 970\
+        \ / AMD Radeon\u2122 R9 290 equivalent or greater<br></li><li><strong>Network:</strong>\
+        \ Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB\
+        \ available space</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Pixel Framers LLC
+    release_date:
+      coming_soon: false
+      date: Sep 22, 2020
+    required_age: 0
+    short_description: ''
+    steam_appid: 1376410
+    support_info:
+      email: support@pixelframers.com
+      url: https://www.pixelframers.com/contact-us
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: demo
+    website: https://www.waryards.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

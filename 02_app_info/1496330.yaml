@@ -16,7 +16,7 @@ details:
       Ahmed Mosque - 200x150<br>    </li><li>Forbidden City - 200x150<br>    </li><li>Niagara
       Falls - 200x150<br>    </li><li>Notre Dame - 200x150<br>    </li><li>Sphinx
       - 200x150<br>    </li><li>White House- 200x150</li></ul>
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1496330/page_bg_generated_v6b.jpg?t=1607514927
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1496330/page_bg_generated_v6b.jpg?t=1610135972
     categories:
     - description: Single-player
       id: 2
@@ -57,7 +57,7 @@ details:
       id: '37'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1496330/header.jpg?t=1607514927
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1496330/header.jpg?t=1610135972
     is_free: false
     linux_requirements: []
     mac_requirements:
@@ -67,7 +67,25 @@ details:
         500 MB available space<br></li><li><strong>Sound Card:</strong> Integrated
         sound</li></ul>
     name: Coloring Pixels - Landmarks Pack
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Coloring Pixels - Landmarks Pack - $0.99
+        packageid: 527504
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Coloring Pixels - Landmarks Pack
+    packages:
+    - 527504
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 8.1<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong>
@@ -83,28 +101,35 @@ details:
       linux: false
       mac: true
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
     publishers:
     - ToastieLabs
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_631ba96495aa4d63f44d21f884a96dea2b8b1524.1920x1080.jpg?t=1607514927
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_631ba96495aa4d63f44d21f884a96dea2b8b1524.600x338.jpg?t=1607514927
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_631ba96495aa4d63f44d21f884a96dea2b8b1524.1920x1080.jpg?t=1610135972
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_631ba96495aa4d63f44d21f884a96dea2b8b1524.600x338.jpg?t=1610135972
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_2833f5b8ef6d22581c8349e8bd67976f7d38fc50.1920x1080.jpg?t=1607514927
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_2833f5b8ef6d22581c8349e8bd67976f7d38fc50.600x338.jpg?t=1607514927
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_2833f5b8ef6d22581c8349e8bd67976f7d38fc50.1920x1080.jpg?t=1610135972
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_2833f5b8ef6d22581c8349e8bd67976f7d38fc50.600x338.jpg?t=1610135972
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_61dd52bd7d8b30fa5beaf08c3ad09e8c8ebeee97.1920x1080.jpg?t=1607514927
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_61dd52bd7d8b30fa5beaf08c3ad09e8c8ebeee97.600x338.jpg?t=1607514927
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_61dd52bd7d8b30fa5beaf08c3ad09e8c8ebeee97.1920x1080.jpg?t=1610135972
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_61dd52bd7d8b30fa5beaf08c3ad09e8c8ebeee97.600x338.jpg?t=1610135972
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_5125c61fb7f2250e511e9ca3772247fac1129777.1920x1080.jpg?t=1607514927
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_5125c61fb7f2250e511e9ca3772247fac1129777.600x338.jpg?t=1607514927
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_5125c61fb7f2250e511e9ca3772247fac1129777.1920x1080.jpg?t=1610135972
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_5125c61fb7f2250e511e9ca3772247fac1129777.600x338.jpg?t=1610135972
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_3c68c14b2382b73486ae37dfe5ec0613271494a4.1920x1080.jpg?t=1607514927
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_3c68c14b2382b73486ae37dfe5ec0613271494a4.600x338.jpg?t=1607514927
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_3c68c14b2382b73486ae37dfe5ec0613271494a4.1920x1080.jpg?t=1610135972
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1496330/ss_3c68c14b2382b73486ae37dfe5ec0613271494a4.600x338.jpg?t=1610135972
     short_description: This Landmarks Book brings 20 new, large images to Coloring
       Pixels, each image depicts famous landmarks from all over the globe! You can
       now experience the wonders of the world intimately from your PC!
@@ -121,9 +146,9 @@ reviews:
   query_summary:
     num_reviews: 0
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 4 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
+    total_positive: 4
+    total_reviews: 4
   reviews: []
   success: 1

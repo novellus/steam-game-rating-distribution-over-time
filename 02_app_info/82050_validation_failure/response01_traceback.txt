@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "02_acquire_app_info.py", line 73, in validate_parsed_data
-    assert data['details']['data']['release_date']['date'], 'release_date -> date is empty'
-AssertionError: release_date -> date is empty

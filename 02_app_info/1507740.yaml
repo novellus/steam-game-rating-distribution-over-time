@@ -5,7 +5,7 @@ details:
       to starve.<h2 class="bb_tag"><strong>features:</strong></h2>- Buy your own house.<br><br>-
       Find hidden chests.<br>- Furnish your home.<br>- Fight de vampire hunters.<br>-
       Listen music and have fun at the bar.
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1507740/page_bg_generated_v6b.jpg?t=1609291248
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1507740/page_bg_generated_v6b.jpg?t=1610194605
     categories:
     - description: Single-player
       id: 2
@@ -26,7 +26,7 @@ details:
       id: '28'
     - description: Early Access
       id: '70'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1507740/header.jpg?t=1609291248
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1507740/header.jpg?t=1610194605
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -42,45 +42,70 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816202/movie480_vp9.webm?t=1608861172
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816202/movie_max_vp9.webm?t=1608861172
     name: Vamp Night
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Vamp Night - $1.99
+        packageid: 531589
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Vamp Night
+    packages:
+    - 531589
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7<br></li><li><strong>Processor:</strong> 2.4 GHz or Better<br></li><li><strong>Memory:</strong>
-        3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 450<br></li><li><strong>DirectX:</strong>
-        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+        3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTS 450<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>
       recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 10<br></li><li><strong>Processor:</strong> 2.8 GHZ<br></li><li><strong>Memory:</strong>
-        6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 750ti<br></li><li><strong>DirectX:</strong>
-        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+        6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>
     platforms:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
     publishers:
     - Potato10
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 9, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_e2454cf669b470cdd89671d88af8f19a3bd4ac8d.1920x1080.jpg?t=1609291248
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_e2454cf669b470cdd89671d88af8f19a3bd4ac8d.600x338.jpg?t=1609291248
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_e2454cf669b470cdd89671d88af8f19a3bd4ac8d.1920x1080.jpg?t=1610194605
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_e2454cf669b470cdd89671d88af8f19a3bd4ac8d.600x338.jpg?t=1610194605
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_95eb1ee330db745e5c2be309c9cd9be7831a130a.1920x1080.jpg?t=1609291248
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_95eb1ee330db745e5c2be309c9cd9be7831a130a.600x338.jpg?t=1609291248
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_95eb1ee330db745e5c2be309c9cd9be7831a130a.1920x1080.jpg?t=1610194605
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_95eb1ee330db745e5c2be309c9cd9be7831a130a.600x338.jpg?t=1610194605
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_4916c8a979e74888f9144fee7e8cf97b7903e48d.1920x1080.jpg?t=1609291248
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_4916c8a979e74888f9144fee7e8cf97b7903e48d.600x338.jpg?t=1609291248
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_4916c8a979e74888f9144fee7e8cf97b7903e48d.1920x1080.jpg?t=1610194605
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_4916c8a979e74888f9144fee7e8cf97b7903e48d.600x338.jpg?t=1610194605
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_76f4afceab087ebec4344dbb951fc6a79efe4b77.1920x1080.jpg?t=1609291248
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_76f4afceab087ebec4344dbb951fc6a79efe4b77.600x338.jpg?t=1609291248
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_76f4afceab087ebec4344dbb951fc6a79efe4b77.1920x1080.jpg?t=1610194605
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_76f4afceab087ebec4344dbb951fc6a79efe4b77.600x338.jpg?t=1610194605
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_34ba274a942f0df86d1912dfe5fbd51818e47fb6.1920x1080.jpg?t=1609291248
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_34ba274a942f0df86d1912dfe5fbd51818e47fb6.600x338.jpg?t=1609291248
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_34ba274a942f0df86d1912dfe5fbd51818e47fb6.1920x1080.jpg?t=1610194605
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_34ba274a942f0df86d1912dfe5fbd51818e47fb6.600x338.jpg?t=1610194605
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_dffc230d9f8066c6131940c2880467018ad8a5d5.1920x1080.jpg?t=1609291248
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_dffc230d9f8066c6131940c2880467018ad8a5d5.600x338.jpg?t=1609291248
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_dffc230d9f8066c6131940c2880467018ad8a5d5.1920x1080.jpg?t=1610194605
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507740/ss_dffc230d9f8066c6131940c2880467018ad8a5d5.600x338.jpg?t=1610194605
     short_description: Vamp Night is a survival/simulation game where you try to stay
       alive in the skin of a vampire.
     steam_appid: 1507740
@@ -93,13 +118,37 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJ4lLuS9fYCdpH8wQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 2 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1610248331
+      num_games_owned: 414
+      num_reviews: 14
+      playtime_at_review: 39
+      playtime_forever: 39
+      playtime_last_two_weeks: 39
+      steamid: '76561198046279686'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84402454'
+    review: "This game is pretty simple, but it's decently fun and it's a good start\
+      \ for the developer. I hope to see more in the future! \nIt's always a breath\
+      \ of fresh air to see a simple game from a new developer that is easy to jump\
+      \ in and play."
+    steam_purchase: true
+    timestamp_created: 1610248477
+    timestamp_updated: 1610248477
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: true
   success: 1

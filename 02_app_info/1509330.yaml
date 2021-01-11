@@ -1,28 +1,28 @@
 details:
   data:
-    about_the_game: "This is a simple RPG<br />\r\n<br />\r\nUnfortunately, when you\
-      \ go home, you step on a magic circle,<br />\r\n<br />\r\nThe magic circle teleports\
-      \ you to the whole map<br />\r\n<br />\r\nYou decide to look carefully,<br />\r\
-      \n<br />\r\nHow to get home<br />\r\n<br />\r\nYou can:<br />\r\n<br />\r\n\
-      When you meet a monster,<br />\r\n<br />\r\nIf you can't fight, try to escape<br\
-      \ />\r\n<br />\r\nThere are many treasure boxes in the map<br />\r\n<br />\r\
-      \nThere are many useful equipment in the treasure chest<br />\r\n<br />\r\n\
-      Pick as much as you can"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1509330/page_bg_generated_v6b.jpg?t=1609070314
+    about_the_game: "This is a simple RPG<br />\r\n<br />\r\nWhen you wake up<br />\r\
+      \n<br />\r\nYou find yourself in an unknown place<br />\r\n<br />\r\nYou decide\
+      \ to take a closer look,<br />\r\n<br />\r\nHow to get home<br />\r\n<br />\r\
+      \nYou can:<br />\r\n<br />\r\nWhen you meet monsters, destroy them<br />\r\n\
+      <br />\r\nIf you don't like fighting, try to run away<br />\r\n<br />\r\nThere\
+      \ are many treasure boxes on the map<br />\r\n<br />\r\nThere are many useful\
+      \ props in the treasure chest<br />\r\n<br />\r\nChoose as many as you can<br\
+      \ />\r\n<br />\r\nUntil you get home"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1509330/page_bg_generated_v6b.jpg?t=1610275965
     categories:
     - description: Single-player
       id: 2
     content_descriptors:
       ids: []
       notes: null
-    detailed_description: "This is a simple RPG<br />\r\n<br />\r\nUnfortunately,\
-      \ when you go home, you step on a magic circle,<br />\r\n<br />\r\nThe magic\
-      \ circle teleports you to the whole map<br />\r\n<br />\r\nYou decide to look\
-      \ carefully,<br />\r\n<br />\r\nHow to get home<br />\r\n<br />\r\nYou can:<br\
-      \ />\r\n<br />\r\nWhen you meet a monster,<br />\r\n<br />\r\nIf you can't fight,\
-      \ try to escape<br />\r\n<br />\r\nThere are many treasure boxes in the map<br\
-      \ />\r\n<br />\r\nThere are many useful equipment in the treasure chest<br />\r\
-      \n<br />\r\nPick as much as you can"
+    detailed_description: "This is a simple RPG<br />\r\n<br />\r\nWhen you wake up<br\
+      \ />\r\n<br />\r\nYou find yourself in an unknown place<br />\r\n<br />\r\n\
+      You decide to take a closer look,<br />\r\n<br />\r\nHow to get home<br />\r\
+      \n<br />\r\nYou can:<br />\r\n<br />\r\nWhen you meet monsters, destroy them<br\
+      \ />\r\n<br />\r\nIf you don't like fighting, try to run away<br />\r\n<br />\r\
+      \nThere are many treasure boxes on the map<br />\r\n<br />\r\nThere are many\
+      \ useful props in the treasure chest<br />\r\n<br />\r\nChoose as many as you\
+      \ can<br />\r\n<br />\r\nUntil you get home"
     developers:
     - likaikai
     genres:
@@ -30,7 +30,7 @@ details:
       id: '25'
     - description: Casual
       id: '4'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1509330/header.jpg?t=1609070314
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1509330/header.jpg?t=1610275965
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -46,7 +46,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816445/movie480_vp9.webm?t=1609070294
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816445/movie_max_vp9.webm?t=1609070294
     name: The way home
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The way home - $9.99
+        packageid: 532123
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy The way home
+    packages:
+    - 532123
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong>
@@ -56,28 +74,35 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
     publishers:
     - 'chu qingfang '
     release_date:
-      coming_soon: true
-      date: Jan 8, 2021
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_4d3455dbfb6a0b1a3a3ff4d27c0d7d37c0bbba8c.1920x1080.jpg?t=1609070314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_4d3455dbfb6a0b1a3a3ff4d27c0d7d37c0bbba8c.600x338.jpg?t=1609070314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_5163ac23d55426a79f9daa001a59f7f8a193d0b4.1920x1080.jpg?t=1610275965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_5163ac23d55426a79f9daa001a59f7f8a193d0b4.600x338.jpg?t=1610275965
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_5163ac23d55426a79f9daa001a59f7f8a193d0b4.1920x1080.jpg?t=1609070314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_5163ac23d55426a79f9daa001a59f7f8a193d0b4.600x338.jpg?t=1609070314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_c85df4392fee138beba39450937047baa83a74bd.1920x1080.jpg?t=1610275965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_c85df4392fee138beba39450937047baa83a74bd.600x338.jpg?t=1610275965
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_c85df4392fee138beba39450937047baa83a74bd.1920x1080.jpg?t=1609070314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_c85df4392fee138beba39450937047baa83a74bd.600x338.jpg?t=1609070314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_8c1d6e706cb2951f488d1505eb928cefba08b21e.1920x1080.jpg?t=1610275965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_8c1d6e706cb2951f488d1505eb928cefba08b21e.600x338.jpg?t=1610275965
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_8c1d6e706cb2951f488d1505eb928cefba08b21e.1920x1080.jpg?t=1609070314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_8c1d6e706cb2951f488d1505eb928cefba08b21e.600x338.jpg?t=1609070314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_92835d1e5af2b0bdc113914559b998741e919fa8.1920x1080.jpg?t=1610275965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_92835d1e5af2b0bdc113914559b998741e919fa8.600x338.jpg?t=1610275965
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_92835d1e5af2b0bdc113914559b998741e919fa8.1920x1080.jpg?t=1609070314
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_92835d1e5af2b0bdc113914559b998741e919fa8.600x338.jpg?t=1609070314
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_0729be8b04bc8b7b022a9bd3c8284adbb42f71d9.1920x1080.jpg?t=1610275965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1509330/ss_0729be8b04bc8b7b022a9bd3c8284adbb42f71d9.600x338.jpg?t=1610275965
     short_description: This is a simple RPG
     steam_appid: 1509330
     support_info:

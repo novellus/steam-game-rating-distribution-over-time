@@ -19,7 +19,30 @@ details:
       make the oil drum and fence!Fight off the zombies with a strategy<br><strong>=======
       large number of skill drawings, skillful skills =========</strong><br>Can you
       get all 6 tough skills?
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1491850/page_bg_generated_v6b.jpg?t=1609255722
+    achievements:
+      highlighted:
+      - name: Gain Friend
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/5b7cc3d8ed237c5ba12f60712a03e8a660232704.jpg
+      - name: Corporal
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/b85837aa08ef084e340bcb050263fb8e2a889eac.jpg
+      - name: Sergeant
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/fef095a4372dcba9f780290bf6feab027d99c8da.jpg
+      - name: Sergeant First Class
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/05ea709d53d0491d1933c27d6afd50c4048a3d0e.jpg
+      - name: Master Sergeant
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/aa73617a54308547f7a8c86af5015161d34aa634.jpg
+      - name: Warrant Officer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/346532077501d9c606fef63ee96c96966f644b45.jpg
+      - name: Chief Warrant Officer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/9247fa5315707ec2ec3ea2f8f1eab9aa73fca8ce.jpg
+      - name: Second Lieutenant
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/c0b53c01fb1b83b1709bf203c5533e75f2a16920.jpg
+      - name: First Lieutenant
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/92575e55dac8884a2afb45206221f543ea77c349.jpg
+      - name: Captain
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1491850/b27edd0613f92ef920d3a4a5553c572416a86a34.jpg
+      total: 19
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1491850/page_bg_generated_v6b.jpg?t=1609948896
     categories:
     - description: Single-player
       id: 2
@@ -62,7 +85,7 @@ details:
       id: '23'
     - description: Strategy
       id: '2'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1491850/header.jpg?t=1609255722
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1491850/header.jpg?t=1609948896
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
@@ -88,7 +111,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256813450/movie480_vp9.webm?t=1608174589
         max: http://steamcdn-a.akamaihd.net/steam/apps/256813450/movie_max_vp9.webm?t=1608174589
     name: ZombieWave-UnlimitedChallenges
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: ZombieWave-UnlimitedChallenges - <span class="discount_original_price">$1.99</span>
+          $1.79
+        packageid: 525843
+        percent_savings: 0
+        percent_savings_text: '-10% '
+        price_in_cents_with_discount: 179
+      title: Buy ZombieWave-UnlimitedChallenges
+    packages:
+    - 525843
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         windows7<br></li><li><strong>Processor:</strong> Arm Ryzen 5 3500U<br></li><li><strong>Memory:</strong>
@@ -98,37 +140,44 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 10
+      final: 179
+      final_formatted: $1.79
+      initial: 199
+      initial_formatted: $1.99
     publishers:
     - AlloyStove
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 6, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_622bbd54bfae26c26b5ff5341b568446267ce53e.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_622bbd54bfae26c26b5ff5341b568446267ce53e.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_622bbd54bfae26c26b5ff5341b568446267ce53e.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_622bbd54bfae26c26b5ff5341b568446267ce53e.600x338.jpg?t=1609948896
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_5f6f05cee92382dc26b6e2d69f7591bcfa9becc1.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_5f6f05cee92382dc26b6e2d69f7591bcfa9becc1.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_5f6f05cee92382dc26b6e2d69f7591bcfa9becc1.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_5f6f05cee92382dc26b6e2d69f7591bcfa9becc1.600x338.jpg?t=1609948896
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_1b5e10181bef8d4e8856859f6986cce65f3a81f1.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_1b5e10181bef8d4e8856859f6986cce65f3a81f1.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_1b5e10181bef8d4e8856859f6986cce65f3a81f1.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_1b5e10181bef8d4e8856859f6986cce65f3a81f1.600x338.jpg?t=1609948896
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_de4a3e1184255e03479d9e57c9ed4540689aa23c.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_de4a3e1184255e03479d9e57c9ed4540689aa23c.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_de4a3e1184255e03479d9e57c9ed4540689aa23c.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_de4a3e1184255e03479d9e57c9ed4540689aa23c.600x338.jpg?t=1609948896
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_08cc946eb3df7bafc18036c29ada5938c0664d33.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_08cc946eb3df7bafc18036c29ada5938c0664d33.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_08cc946eb3df7bafc18036c29ada5938c0664d33.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_08cc946eb3df7bafc18036c29ada5938c0664d33.600x338.jpg?t=1609948896
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_3b670ddc829ede92022043da3f364c9d0126f745.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_3b670ddc829ede92022043da3f364c9d0126f745.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_3b670ddc829ede92022043da3f364c9d0126f745.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_3b670ddc829ede92022043da3f364c9d0126f745.600x338.jpg?t=1609948896
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_453663afb916520495e4242960b584e62f60c0d5.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_453663afb916520495e4242960b584e62f60c0d5.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_453663afb916520495e4242960b584e62f60c0d5.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_453663afb916520495e4242960b584e62f60c0d5.600x338.jpg?t=1609948896
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_756ff89819ae36335c975cd45da6fd4d1e6a9576.1920x1080.jpg?t=1609255722
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_756ff89819ae36335c975cd45da6fd4d1e6a9576.600x338.jpg?t=1609255722
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_756ff89819ae36335c975cd45da6fd4d1e6a9576.1920x1080.jpg?t=1609948896
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1491850/ss_756ff89819ae36335c975cd45da6fd4d1e6a9576.600x338.jpg?t=1609948896
     short_description: This is a game to lead soldiers against zombies.You can lead
       soldiers to complete challenges without limit.
     steam_appid: 1491850
@@ -141,13 +190,48 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJ4grTG8/YCc5HlwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
     review_score_desc: No user reviews
     total_negative: 0
     total_positive: 0
     total_reviews: 0
-  reviews: []
+  reviews:
+  - author:
+      last_played: 1610196995
+      num_games_owned: 83
+      num_reviews: 5
+      playtime_at_review: 61
+      playtime_forever: 102
+      playtime_last_two_weeks: 102
+      steamid: '76561198126494589'
+    comment_count: 0
+    language: koreana
+    received_for_free: false
+    recommendationid: '84355347'
+    review: "\uC785\uB825\n\n\uD78C\uD2B8: \uAE30\uC220\uC744 \uB5A0\uB098 \uC78A\uC9C0\
+      \uB9C8\uC2ED\uC2DC\uC624.\n\n\uAD6C\uB9E4\uAC00 \uC131\uACF5\uD588\uC2B5\uB2C8\
+      \uB2E4.\n\n\uC9D1\uC5D0\uAC08 \uC2DC\uAC04\uC774\uB2E4.\n\n\uAD70\uC778\uC744\
+      \ \uC800\uC7A5\uD558\uACE0 \uBCF4\uC2A4\uB97C. - \uAC80\uC0AC\uC810 - \uBCF5\
+      \uB3C4\uB85C \uB3CC\uC544\uAC00\uB2E4.\n\n\uBC18\uD658\uD569\uB2C8\uB2E4.\n\n\
+      \n\n\n\n\n\n\uC8FC\uC758: \uC774\uAC8C\uC784\uC740 \uC5B4\uB20C\uD55C \uBC88\
+      \uC5ED\uCCB4\uB97C \uAC00\uC9C0\uACE0\uC788\uC2B5\uB2C8\uB2E4.\n\uB610\uD55C\
+      \ \uC694\uC0C1\uD55C \uD0C0\uACA9\uAC10 \uBC0F \uC5B4\uC0C9\uD55C \uC880\uBE44\
+      \uC758 \uC6C0\uC9C1\uC784.( \uB4A4\uB6B1\uB300\uB294 \uB4EF\uD55C \uC6C0\uC9C1\
+      \uC784)\n'\uD504\uB9AC\uD0B9 \uC880\uBE44!' \uAC70\uB9AC\uB294 \uC8FC\uC778\uACF5\
+      \n\uD22D\uD558\uBA74 \uB07C\uB294 \uC0AC\uBB3C\uB4E4( \uD2B9\uC815\uC0AC\uBB3C\
+      \uC740 \uC62C\uB77C\uAC00\uBA74 \uC880\uBE44\uAC00 \uC778\uC2DD\uBABB\uD568\
+      )\n\uD55C\uBC1C\uB9CC \uC3F4\uB3C4 \uBAB0\uB824\uB4DC\uB294 \uC880\uBE44\uB4E4\
+      \n\n\n\uD558\uC9C0\uB9CC \uB625\uB9DB\uC774 \uAD6C\uC218\uD5C8\uB2C8 \uD558\uB2E4\
+      \uBCF4\uB2C8 \uC7AC\uBC0C\uB2E4.\n"
+    steam_purchase: true
+    timestamp_created: 1610194985
+    timestamp_updated: 1610194985
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
   success: 1

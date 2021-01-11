@@ -1,44 +1,36 @@
 details:
   data:
-    about_the_game: "Fat Prisoner Simulator 3 - a new part of the soccer simulator\
-      \ where you will play the role of a prisoner. The prison administration has\
-      \ noticed lately that some prisoners, who really like to eat a lot, can hardly\
-      \ walk through different doors, including those of their own cells. The administration\
-      \ cannot reduce their food allowance as it would violate the prisoners\u2019\
-      \ rights. So it was decided to gather such prisoners and arrange a soccer game\
-      \ between them so to make them lose some calories. Last time, it produced the\
-      \ desired effect, and the prisoners did lose some calories, but they are still\
-      \ unable to fit in the doors. So another game will be played today. But this\
-      \ time a team of prisoners is going to play against a team of prison wardens.<br\
-      \ />\r\nEach team consists of seven players (seven prisoners against seven wardens).\
-      \ The match lasts 20 minutes. Your objective is to score as many goals as you\
-      \ can to win the match. There are no particular rules, so you can push and kick\
-      \ the players of the opponent team and even use any items you may find around\
-      \ you against them. Every player has specific health reserves. You have to monitor\
-      \ them, or a player may die, and the match will continue without him."
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1498590/page_bg_generated_v6b.jpg?t=1609823955
+    about_the_game: "Fat Prisoner Simulator 3 - a hockey simulator where you are going\
+      \ to play the role of a prisoner. The prison administration has noticed lately\
+      \ that some prisoners, who really like to eat a lot, can hardly walk through\
+      \ different doors, including those of their own cells. The administration cannot\
+      \ reduce their food allowance as it would violate the prisoners\u2019 rights.\
+      \ So it was decided to gather such prisoners and arrange a soccer game between\
+      \ them so as to make them lose some calories. It produced the desired effect,\
+      \ and the prisoners did lose some calories, but they are still unable to fit\
+      \ in the doors. So this time, a hockey game will be played.<br />\r\nEach team\
+      \ consists of three players. Your have to score as many goals in the opponent\u2019\
+      s net as you can in order to win the match. There are no rules, and you can\
+      \ even hit the players of your opponent\u2019s team."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1498590/page_bg_generated_v6b.jpg?t=1610169995
     categories:
     - description: Single-player
       id: 2
     content_descriptors:
       ids: []
       notes: null
-    detailed_description: "Fat Prisoner Simulator 3 - a new part of the soccer simulator\
-      \ where you will play the role of a prisoner. The prison administration has\
-      \ noticed lately that some prisoners, who really like to eat a lot, can hardly\
-      \ walk through different doors, including those of their own cells. The administration\
+    detailed_description: "Fat Prisoner Simulator 3 - a hockey simulator where you\
+      \ are going to play the role of a prisoner. The prison administration has noticed\
+      \ lately that some prisoners, who really like to eat a lot, can hardly walk\
+      \ through different doors, including those of their own cells. The administration\
       \ cannot reduce their food allowance as it would violate the prisoners\u2019\
       \ rights. So it was decided to gather such prisoners and arrange a soccer game\
-      \ between them so to make them lose some calories. Last time, it produced the\
-      \ desired effect, and the prisoners did lose some calories, but they are still\
-      \ unable to fit in the doors. So another game will be played today. But this\
-      \ time a team of prisoners is going to play against a team of prison wardens.<br\
-      \ />\r\nEach team consists of seven players (seven prisoners against seven wardens).\
-      \ The match lasts 20 minutes. Your objective is to score as many goals as you\
-      \ can to win the match. There are no particular rules, so you can push and kick\
-      \ the players of the opponent team and even use any items you may find around\
-      \ you against them. Every player has specific health reserves. You have to monitor\
-      \ them, or a player may die, and the match will continue without him."
+      \ between them so as to make them lose some calories. It produced the desired\
+      \ effect, and the prisoners did lose some calories, but they are still unable\
+      \ to fit in the doors. So this time, a hockey game will be played.<br />\r\n\
+      Each team consists of three players. Your have to score as many goals in the\
+      \ opponent\u2019s net as you can in order to win the match. There are no rules,\
+      \ and you can even hit the players of your opponent\u2019s team."
     developers:
     - Biscuit Play
     genres:
@@ -48,23 +40,42 @@ details:
       id: '28'
     - description: Sports
       id: '18'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1498590/header.jpg?t=1609823955
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1498590/header.jpg?t=1610169995
     is_free: false
     linux_requirements: []
     mac_requirements: []
     movies:
     - highlight: true
-      id: 256817183
+      id: 256817427
       mp4:
-        '480': http://steamcdn-a.akamaihd.net/steam/apps/256817183/movie480.mp4?t=1609792311
-        max: http://steamcdn-a.akamaihd.net/steam/apps/256817183/movie_max.mp4?t=1609792311
-      name: Trailer
-      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256817183/movie.293x165.jpg?t=1609792311
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256817427/movie480.mp4?t=1610008637
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256817427/movie_max.mp4?t=1610008637
+      name: GameplayTrailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256817427/movie.293x165.jpg?t=1610008637
       webm:
-        '480': http://steamcdn-a.akamaihd.net/steam/apps/256817183/movie480_vp9.webm?t=1609792311
-        max: http://steamcdn-a.akamaihd.net/steam/apps/256817183/movie_max_vp9.webm?t=1609792311
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256817427/movie480_vp9.webm?t=1610008637
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256817427/movie_max_vp9.webm?t=1610008637
     name: Fat Prisoner Simulator 3
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Fat Prisoner Simulator 3 - <span class="discount_original_price">$0.99</span>
+          $0.84
+        packageid: 528279
+        percent_savings: 0
+        percent_savings_text: '-15% '
+        price_in_cents_with_discount: 84
+      title: Buy Fat Prisoner Simulator 3
+    packages:
+    - 528279
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows XP, 7, 8, 10<br></li><li><strong>Processor:</strong> Dual Core 2.4
@@ -78,38 +89,45 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 15
+      final: 84
+      final_formatted: $0.84
+      initial: 99
+      initial_formatted: $0.99
     publishers:
     - Biscuit Play
     release_date:
-      coming_soon: true
-      date: Jan 7, 2021
+      coming_soon: false
+      date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_bcde76e2b3a0c650d2714cd767926c1c57d874fd.1920x1080.jpg?t=1609823955
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_bcde76e2b3a0c650d2714cd767926c1c57d874fd.600x338.jpg?t=1609823955
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_5e797261991a288bdd87600e6d770f971f8c5ef7.1920x1080.jpg?t=1610169995
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_5e797261991a288bdd87600e6d770f971f8c5ef7.600x338.jpg?t=1610169995
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_1f9ec98a60e9871d627be5fbea052c61115baaf4.1920x1080.jpg?t=1609823955
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_1f9ec98a60e9871d627be5fbea052c61115baaf4.600x338.jpg?t=1609823955
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_f1b0b942e55b1112064c0204d5a257f31247ae22.1920x1080.jpg?t=1610169995
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_f1b0b942e55b1112064c0204d5a257f31247ae22.600x338.jpg?t=1610169995
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_53b06c8f236ec20fedc3cfdf4dba72c7e795a52f.1920x1080.jpg?t=1609823955
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_53b06c8f236ec20fedc3cfdf4dba72c7e795a52f.600x338.jpg?t=1609823955
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_a103a6c63467a15b397e7ad79163a577787e5c41.1920x1080.jpg?t=1610169995
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_a103a6c63467a15b397e7ad79163a577787e5c41.600x338.jpg?t=1610169995
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_66a88fba4085685f62cb27897296ec36f0c392dd.1920x1080.jpg?t=1609823955
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_66a88fba4085685f62cb27897296ec36f0c392dd.600x338.jpg?t=1609823955
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_23894f13b9fbde63319cb21a5a882490766b3eeb.1920x1080.jpg?t=1610169995
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_23894f13b9fbde63319cb21a5a882490766b3eeb.600x338.jpg?t=1610169995
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_6bb0d63d9f8575995bfeb11172290d22d11e5cde.1920x1080.jpg?t=1609823955
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_6bb0d63d9f8575995bfeb11172290d22d11e5cde.600x338.jpg?t=1609823955
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_04458b88fa81368fd393f45a3fcc40d0bfbf3109.1920x1080.jpg?t=1610169995
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_04458b88fa81368fd393f45a3fcc40d0bfbf3109.600x338.jpg?t=1610169995
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_84b7b29578f2d4b4898c57a90a3b00571da732e5.1920x1080.jpg?t=1609823955
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_84b7b29578f2d4b4898c57a90a3b00571da732e5.600x338.jpg?t=1609823955
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_b5b6f5a36843f737796910eafe8ef0f87328fcba.1920x1080.jpg?t=1610169995
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_b5b6f5a36843f737796910eafe8ef0f87328fcba.600x338.jpg?t=1610169995
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_6dd1d27ac1ebd28fdbe8c3985063438b2835e5a6.1920x1080.jpg?t=1609823955
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_6dd1d27ac1ebd28fdbe8c3985063438b2835e5a6.600x338.jpg?t=1609823955
-    short_description: Fat Prisoner Simulator 3 - a new part of the soccer simulator
-      where you will play the role of a prisoner. Each team consists of seven players
-      (seven prisoners against seven wardens). The match lasts 20 minutes. Your objective
-      is to score as many goals as you can to win the match.
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_9a4fdd655475b93ac8230f86f86a2c190373292f.1920x1080.jpg?t=1610169995
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1498590/ss_9a4fdd655475b93ac8230f86f86a2c190373292f.600x338.jpg?t=1610169995
+    short_description: "Fat Prisoner Simulator 3 - a hockey simulator where you are\
+      \ going to play the role of a prisoner. Each team consists of three players.\
+      \ Your have to score as many goals in the opponent\u2019s net as you can in\
+      \ order to win the match."
     steam_appid: 1498590
     support_info:
       email: jooomly@gmail.com
@@ -120,13 +138,35 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJw1MvY8/YCcpPnwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
-    total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1610196079
+      num_games_owned: 69
+      num_reviews: 27
+      playtime_at_review: 16
+      playtime_forever: 16
+      playtime_last_two_weeks: 16
+      steamid: '76561198816942185'
+    comment_count: 0
+    language: japanese
+    received_for_free: false
+    recommendationid: '84359474'
+    review: "\u4E94\u5206\u304F\u3089\u3044\u306F\u697D\u3057\u3081\u307E\u3059\u3088\
+      \nhttps://youtu.be/JcxNnsG7YI0"
+    steam_purchase: true
+    timestamp_created: 1610199752
+    timestamp_updated: 1610199752
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
   success: 1

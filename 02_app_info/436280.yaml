@@ -1,0 +1,251 @@
+details:
+  data:
+    about_the_game: "Sudoku Quest is the game for truly Sudoku lovers. You\u2019ll\
+      \ be challenged to test your skills in Adventure mode with constantly increasing\
+      \ board difficulty. Various Sudoku types and sizes are provided to diversify\
+      \ your adventure experience. In case you want to practice in solving certain\
+      \ Sudoku you can play Custom mode.<br><br><strong>Features</strong><br><ul class=\"\
+      bb_ul\"><li>Health is limited. From the start you\u2019ll have certain amount\
+      \ of health that cannot be replenished. Make your moves carefully.<br></li><li>Power-ups\
+      \ can help in your progress but they\u2019ll reduce the reward.<br></li><li>Each\
+      \ Sudoku is generated on the fly and always uniquely solvable, thus you won\u2019\
+      t encounter the same board twice.<br></li><li>Leaderboards for Adventure mode\
+      \ as well as for Custom mode will give you the chance to compete against other\
+      \ players and prove that you\u2019re the true Sudoku master.</li></ul>"
+    achievements:
+      highlighted:
+      - name: Beginner Adventurer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/64fcad9423070aaa233a2dec047a9af2c6fe49fe.jpg
+      - name: Intermediate Adventurer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/18a6ba98b068e4d8a54c8823b9813f1a3ef46f89.jpg
+      - name: Advanced Adventurer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/ee58e079d97d69a0d05e1edef892c71960dac3c2.jpg
+      - name: Expert Adventurer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/9a3a7d4ea1c384014f75d3c48bb2b4c94da59529.jpg
+      - name: Master Adventurer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/4c2edd77c1a6de29fe287605d7b74ab319316cf2.jpg
+      - name: Guru Adventurer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/59226a32c6272a8961326c33a7abc73300b30475.jpg
+      - name: Beginner Revealer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/3e9c35a76af3c01d04811e314f0bee5600f69711.jpg
+      - name: Advanced Revealer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/b7ef0b9494643f8c6265356d80ccdd060c5e982c.jpg
+      - name: Master Revealer
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/dc9402e30d3ff50bbef11566f4199e7b9dd13730.jpg
+      - name: Compliant Completionist
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/436280/9938aa7688d0f6a31b843be11328827e82c130e1.jpg
+      total: 35
+    background: https://steamcdn-a.akamaihd.net/steam/apps/436280/page_bg_generated_v6b.jpg?t=1464994839
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Steam Trading Cards
+      id: 29
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Sudoku Quest is the game for truly Sudoku lovers. You\u2019\
+      ll be challenged to test your skills in Adventure mode with constantly increasing\
+      \ board difficulty. Various Sudoku types and sizes are provided to diversify\
+      \ your adventure experience. In case you want to practice in solving certain\
+      \ Sudoku you can play Custom mode.<br><br><strong>Features</strong><br><ul class=\"\
+      bb_ul\"><li>Health is limited. From the start you\u2019ll have certain amount\
+      \ of health that cannot be replenished. Make your moves carefully.<br></li><li>Power-ups\
+      \ can help in your progress but they\u2019ll reduce the reward.<br></li><li>Each\
+      \ Sudoku is generated on the fly and always uniquely solvable, thus you won\u2019\
+      t encounter the same board twice.<br></li><li>Leaderboards for Adventure mode\
+      \ as well as for Custom mode will give you the chance to compete against other\
+      \ players and prove that you\u2019re the true Sudoku master.</li></ul>"
+    developers:
+    - Harbinger Beard
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/436280/header.jpg?t=1464994839
+    is_free: false
+    legal_notice: "\xA9 2016 Harbinger Beard. All rights reserved."
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256662315
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256662315/movie480.mp4?t=1462812526
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256662315/movie_max.mp4?t=1462812526
+      name: Gameplay
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256662315/movie.293x165.jpg?t=1462812526
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256662315/movie480.webm?t=1462812526
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256662315/movie_max.webm?t=1462812526
+    name: Sudoku Quest
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sudoku Quest - $5.99
+        packageid: 91296
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 599
+      title: Buy Sudoku Quest
+    packages:
+    - 91296
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7, Windows 8 (8.1), Windows 10<br></li><li><strong>Processor:</strong>
+        2 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong>
+        500 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 599
+      final_formatted: $5.99
+      initial: 599
+      initial_formatted: ''
+    publishers:
+    - Harbinger Beard
+    release_date:
+      coming_soon: false
+      date: Jun 3, 2016
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_c01a1dd8a90cd4fd559f43ec7a419d55d4a3c24e.1920x1080.jpg?t=1464994839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_c01a1dd8a90cd4fd559f43ec7a419d55d4a3c24e.600x338.jpg?t=1464994839
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_fc7adb2d18e8a3ff54596d3e0bc7910dd67be290.1920x1080.jpg?t=1464994839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_fc7adb2d18e8a3ff54596d3e0bc7910dd67be290.600x338.jpg?t=1464994839
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_bcc97e70a9cedf836d5210a6a9888c65571cceb4.1920x1080.jpg?t=1464994839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_bcc97e70a9cedf836d5210a6a9888c65571cceb4.600x338.jpg?t=1464994839
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_5c4d610b5c0cc20b23068dc279cb107d6fe71433.1920x1080.jpg?t=1464994839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_5c4d610b5c0cc20b23068dc279cb107d6fe71433.600x338.jpg?t=1464994839
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_d62ca1adc4fe107433ab31b2cde9f4a1927e8bc3.1920x1080.jpg?t=1464994839
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/436280/ss_d62ca1adc4fe107433ab31b2cde9f4a1927e8bc3.600x338.jpg?t=1464994839
+    short_description: "Sudoku Quest is the game for truly Sudoku lovers. You\u2019\
+      ll be challenged to test your skills in Adventure mode with constantly increasing\
+      \ board difficulty. Various Sudoku types and sizes are provided to diversify\
+      \ your adventure experience."
+    steam_appid: 436280
+    support_info:
+      email: ''
+      url: http://harbingerbeard.com/
+    supported_languages: English
+    type: game
+    website: http://harbingerbeard.com/
+  success: true
+reviews:
+  cursor: AoJwpuG71fICcrfYjQI=
+  query_summary:
+    num_reviews: 1
+    review_score: 5
+    review_score_desc: Mixed
+    total_negative: 9
+    total_positive: 15
+    total_reviews: 24
+  reviews:
+  - author:
+      last_played: 1592125947
+      num_games_owned: 1343
+      num_reviews: 114
+      playtime_at_review: 457
+      playtime_forever: 508
+      playtime_last_two_weeks: 0
+      steamid: '76561198038977616'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '70697842'
+    review: '[url=https://cthulhuscritiques.com/2020/06/12/sudoku-quest-game-review/]Read
+      the Full Review[/url]
+
+      [url=https://cthulhuscritiques.com/]Browse the Website[/url]
+
+      [url=https://store.steampowered.com/curator/33596395-Cthulhu%2527s-Critiques/]Follow
+      the Steam Curator[/url]
+
+
+      [h1]Major Pros:[/h1]
+
+      [list]
+
+      [*]Endless Sudoku
+
+      [/list]
+
+
+      [b]Minor Pros:[/b]
+
+      [list]
+
+      [*]Three different board styles
+
+      [*]Color palette is easy on the eyes
+
+      [/list]
+
+
+      [h1]Major Cons:[/h1]
+
+      [list]
+
+      [*]Sometimes there are multiple solutions
+
+      [*]Other users have reported issues with crashes
+
+      [/list]
+
+
+      [b]Minor Cons:[/b]
+
+      [list]
+
+      [*]Sound effects are grating
+
+      [*]Power-ups only explained from the main menu
+
+      [/list]
+
+
+      [h1]Recommendation[/h1]
+
+      I enjoyed the endless puzzles of Sudoku Quest. I liked the variety of puzzles,
+      helpfulness of the power-ups, and the easy viewing of the color palette. However,
+      I struggled with the sound effects, remembering the power-up effects, and the
+      possibility of multiple solutions to puzzles. I did not experience it myself,
+      but other users have reported crashes with certain software drivers. I recommend
+      Sudoku Quest to players looking for a simple endless Sudoku game that are willing
+      to forgive it the multiple solutions and do a little investigation into software
+      compatibility.'
+    steam_purchase: true
+    timestamp_created: 1592005692
+    timestamp_updated: 1592005692
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

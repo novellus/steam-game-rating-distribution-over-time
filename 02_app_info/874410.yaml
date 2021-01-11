@@ -1,0 +1,118 @@
+details:
+  data:
+    about_the_game: <h2 class="bb_tag">Extra super complicated level</h2><br>The supplement
+      contains an additional super complicated level!<br><br>If the main game and
+      its complicated mode seemed too easy for you - then try to pass this one!
+    background: https://steamcdn-a.akamaihd.net/steam/apps/874410/page_bg_generated_v6b.jpg?t=1558375800
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Stats
+      id: 15
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: <h2 class="bb_tag">Extra super complicated level</h2><br>The
+      supplement contains an additional super complicated level!<br><br>If the main
+      game and its complicated mode seemed too easy for you - then try to pass this
+      one!
+    developers:
+    - Crystal Box Team
+    fullgame:
+      appid: '845480'
+      name: Kinaman vs Gray Elephant
+    genres:
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/874410/header.jpg?t=1558375800
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Kinaman vs Gray Elephant - Hard Level Pack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Kinaman vs Gray Elephant - Hard Level Pack - $0.99
+        packageid: 276577
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Kinaman vs Gray Elephant - Hard Level Pack
+    packages:
+    - 276577
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>\
+        \ Windows 98 or XP<br></li><li><strong>Processor:</strong> 1 GHz CPU<br></li><li><strong>Memory:</strong>\
+        \ 256 MB RAM<br></li><li><strong>Graphics:</strong> Compatible with DirectX<br></li><li><strong>Storage:</strong>\
+        \ 50 MB available space<br></li><li><strong>Sound Card:</strong> DirectX\xAE\
+        \ Compatible</li></ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Valkyrie Initiative
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2018
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/874410/ss_e500c4ceb5c9766ab0c78f43bc745622acdbc2c6.1920x1080.jpg?t=1558375800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/874410/ss_e500c4ceb5c9766ab0c78f43bc745622acdbc2c6.600x338.jpg?t=1558375800
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/874410/ss_3fdbc65911abaf3fe5c64755af6a431fd316d0ea.1920x1080.jpg?t=1558375800
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/874410/ss_3fdbc65911abaf3fe5c64755af6a431fd316d0ea.600x338.jpg?t=1558375800
+    short_description: Extra super complicated level for the most experienced players!
+    steam_appid: 874410
+    support_info:
+      email: altairgamest@gmail.com
+      url: ''
+    supported_languages: English, Russian
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

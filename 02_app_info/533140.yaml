@@ -1,0 +1,70 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Game demo
+      id: 10
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    developers:
+    - Jorge Giner Cordero
+    fullgame:
+      appid: '530290'
+      name: The Planet of the Vicious Creatures
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/533140/header.jpg?t=1539443820
+    is_free: true
+    legal_notice: "Copyright \xA9 2016 Jorge Giner Cordero"
+    linux_requirements: []
+    mac_requirements: []
+    name: The Planet of the Vicious Creatures Demo
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Memory:</strong> 18 MB RAM<br></li><li><strong>Storage:</strong>
+        3 MB available space</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - Jorge Giner Cordero
+    release_date:
+      coming_soon: false
+      date: Oct 5, 2016
+    required_age: 0
+    short_description: ''
+    steam_appid: 533140
+    support_info:
+      email: jorge.giner@hotmail.com
+      url: ''
+    supported_languages: English, French, Italian, Spanish - Spain, Polish, Portuguese,
+      Portuguese - Brazil, German, Russian
+    type: demo
+    website: https://jorgicor.niobe.org/planetvc
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

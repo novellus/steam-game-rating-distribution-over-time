@@ -1,0 +1,95 @@
+details:
+  data:
+    about_the_game: All Eleven songs from the Sheepo Soundtrack, composed by Eric
+      Thompson
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1392160/page_bg_generated_v6b.jpg?t=1598459623
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: All Eleven songs from the Sheepo Soundtrack, composed by
+      Eric Thompson
+    developers:
+    - Eric Thompson
+    fullgame:
+      appid: '1281790'
+      name: SHEEPO
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1392160/header.jpg?t=1598459623
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Sheepo Soundtrack
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sheepo Soundtrack - $1.99
+        packageid: 488487
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Sheepo Soundtrack
+    packages:
+    - 488487
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        59 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Kyle Thompson
+    release_date:
+      coming_soon: false
+      date: Aug 26, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_79f6d8ca00fa5b36d46c82fa94d69d84998a1fdd.1920x1080.jpg?t=1598459623
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_79f6d8ca00fa5b36d46c82fa94d69d84998a1fdd.600x338.jpg?t=1598459623
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_cf9b06eec0135b87e17b22324c383fdecb5398b9.1920x1080.jpg?t=1598459623
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_cf9b06eec0135b87e17b22324c383fdecb5398b9.600x338.jpg?t=1598459623
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_211883964823403bf13d728bb057c8775a9d0db9.1920x1080.jpg?t=1598459623
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_211883964823403bf13d728bb057c8775a9d0db9.600x338.jpg?t=1598459623
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_456f181c95112f6795ea8f343b5cda667e2293c5.1920x1080.jpg?t=1598459623
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_456f181c95112f6795ea8f343b5cda667e2293c5.600x338.jpg?t=1598459623
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_76cf5183925235e86881cf744d4fdefe43e298e1.1920x1080.jpg?t=1598459623
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1392160/ss_76cf5183925235e86881cf744d4fdefe43e298e1.600x338.jpg?t=1598459623
+    short_description: All Eleven songs from the Sheepo Soundtrack, composed by Eric
+      Thompson
+    steam_appid: 1392160
+    support_info:
+      email: kyle@sheepogame.com
+      url: sheepogame.com
+    type: music
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

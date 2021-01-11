@@ -7,7 +7,7 @@ details:
       \ 3, and master the changes brought by vehicle speed<br />\r\n<br />\r\nTry\
       \ to start on high and low slopes<br />\r\n<br />\r\nS bend<br />\r\n<br />\r\
       \nSome exam items"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1507320/page_bg_generated_v6b.jpg?t=1608722911
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1507320/page_bg_generated_v6b.jpg?t=1609928069
     categories:
     - description: Single-player
       id: 2
@@ -28,7 +28,9 @@ details:
       id: '9'
     - description: Simulation
       id: '28'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1507320/header.jpg?t=1608722911
+    - description: Early Access
+      id: '70'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1507320/header.jpg?t=1609928069
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -44,7 +46,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816118/movie480_vp9.webm?t=1608722891
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816118/movie_max_vp9.webm?t=1608722891
     name: Driving License Test
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Driving License Test - $9.99
+        packageid: 531451
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 999
+      title: Buy Driving License Test
+    packages:
+    - 531451
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         WindowsR 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong>
@@ -55,31 +75,38 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 999
+      final_formatted: $9.99
+      initial: 999
+      initial_formatted: ''
     publishers:
     - 'WANG CHAO '
     release_date:
-      coming_soon: true
-      date: Jan 5, 2021
+      coming_soon: false
+      date: Jan 6, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_07dfa8b284041d83b50a46f37ee8b14f6a2bfcca.1920x1080.jpg?t=1608722911
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_07dfa8b284041d83b50a46f37ee8b14f6a2bfcca.600x338.jpg?t=1608722911
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_07dfa8b284041d83b50a46f37ee8b14f6a2bfcca.1920x1080.jpg?t=1609928069
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_07dfa8b284041d83b50a46f37ee8b14f6a2bfcca.600x338.jpg?t=1609928069
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a73b4e6a4094f23c9fac601d6998193a6f0cc4dc.1920x1080.jpg?t=1608722911
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a73b4e6a4094f23c9fac601d6998193a6f0cc4dc.600x338.jpg?t=1608722911
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a73b4e6a4094f23c9fac601d6998193a6f0cc4dc.1920x1080.jpg?t=1609928069
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a73b4e6a4094f23c9fac601d6998193a6f0cc4dc.600x338.jpg?t=1609928069
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_606d3f3b34eac183b6261fcd6097981d051f5a33.1920x1080.jpg?t=1608722911
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_606d3f3b34eac183b6261fcd6097981d051f5a33.600x338.jpg?t=1608722911
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_606d3f3b34eac183b6261fcd6097981d051f5a33.1920x1080.jpg?t=1609928069
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_606d3f3b34eac183b6261fcd6097981d051f5a33.600x338.jpg?t=1609928069
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_38bde8ef4a6cb31bf53aba1e4df751084fd50df3.1920x1080.jpg?t=1608722911
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_38bde8ef4a6cb31bf53aba1e4df751084fd50df3.600x338.jpg?t=1608722911
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_38bde8ef4a6cb31bf53aba1e4df751084fd50df3.1920x1080.jpg?t=1609928069
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_38bde8ef4a6cb31bf53aba1e4df751084fd50df3.600x338.jpg?t=1609928069
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a7de57f16850ed0b04610e661bdfd2c920b04e6c.1920x1080.jpg?t=1608722911
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a7de57f16850ed0b04610e661bdfd2c920b04e6c.600x338.jpg?t=1608722911
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a7de57f16850ed0b04610e661bdfd2c920b04e6c.1920x1080.jpg?t=1609928069
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_a7de57f16850ed0b04610e661bdfd2c920b04e6c.600x338.jpg?t=1609928069
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_802eac2da202b1c555bb17e376fb1a55148b993d.1920x1080.jpg?t=1608722911
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_802eac2da202b1c555bb17e376fb1a55148b993d.600x338.jpg?t=1608722911
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_802eac2da202b1c555bb17e376fb1a55148b993d.1920x1080.jpg?t=1609928069
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1507320/ss_802eac2da202b1c555bb17e376fb1a55148b993d.600x338.jpg?t=1609928069
     short_description: Do you want to take a driving test? Or are you going to take
       a driving test?
     steam_appid: 1507320

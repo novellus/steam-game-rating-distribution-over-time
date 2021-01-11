@@ -7,7 +7,7 @@ details:
       JRPG combat system that players will find easy to understand and use. There
       is some dungeon crawling, and the game is very narrative heavy and contains
       over 5k words of dialogue. <br><br>New episodes will be added regularly.
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1273110/page_bg_generated_v6b.jpg?t=1609887986
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1273110/page_bg_generated_v6b.jpg?t=1610148042
     categories:
     - description: Single-player
       id: 2
@@ -40,7 +40,7 @@ details:
       id: '37'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1273110/header.jpg?t=1609887986
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1273110/header.jpg?t=1610148042
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -56,7 +56,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256782877/movie480_vp9.webm?t=1607713741
         max: http://steamcdn-a.akamaihd.net/steam/apps/256782877/movie_max_vp9.webm?t=1607713741
     name: Sir Stretchalot
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Sir Stretchalot - $0.99
+        packageid: 443297
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Sir Stretchalot
+    packages:
+    - 443297
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7, 8, Vista, 10<br></li><li><strong>Memory:</strong> 512 MB RAM MB
@@ -68,28 +86,35 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
     publishers:
     - Apple Tart Games
     release_date:
-      coming_soon: true
-      date: ''
+      coming_soon: false
+      date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_4ca84e9083994bc90f4b6cac20f723a443195c40.1920x1080.jpg?t=1609887986
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_4ca84e9083994bc90f4b6cac20f723a443195c40.600x338.jpg?t=1609887986
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_4ca84e9083994bc90f4b6cac20f723a443195c40.1920x1080.jpg?t=1610148042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_4ca84e9083994bc90f4b6cac20f723a443195c40.600x338.jpg?t=1610148042
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_a14a2b0c91dfb538a19af5471f0a183b55d42777.1920x1080.jpg?t=1609887986
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_a14a2b0c91dfb538a19af5471f0a183b55d42777.600x338.jpg?t=1609887986
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_a14a2b0c91dfb538a19af5471f0a183b55d42777.1920x1080.jpg?t=1610148042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_a14a2b0c91dfb538a19af5471f0a183b55d42777.600x338.jpg?t=1610148042
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_2fc9ae1ea0bfde83a4608c2c2319cc4bedc69ea8.1920x1080.jpg?t=1609887986
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_2fc9ae1ea0bfde83a4608c2c2319cc4bedc69ea8.600x338.jpg?t=1609887986
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_2fc9ae1ea0bfde83a4608c2c2319cc4bedc69ea8.1920x1080.jpg?t=1610148042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_2fc9ae1ea0bfde83a4608c2c2319cc4bedc69ea8.600x338.jpg?t=1610148042
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_8ef5143bc65608dc7c7e0dc97eb8326cb8aa6cc1.1920x1080.jpg?t=1609887986
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_8ef5143bc65608dc7c7e0dc97eb8326cb8aa6cc1.600x338.jpg?t=1609887986
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_8ef5143bc65608dc7c7e0dc97eb8326cb8aa6cc1.1920x1080.jpg?t=1610148042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_8ef5143bc65608dc7c7e0dc97eb8326cb8aa6cc1.600x338.jpg?t=1610148042
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_f19712def4ece7f586c8934e686eea8a67c96a9b.1920x1080.jpg?t=1609887986
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_f19712def4ece7f586c8934e686eea8a67c96a9b.600x338.jpg?t=1609887986
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_f19712def4ece7f586c8934e686eea8a67c96a9b.1920x1080.jpg?t=1610148042
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1273110/ss_f19712def4ece7f586c8934e686eea8a67c96a9b.600x338.jpg?t=1610148042
     short_description: Put on the helmet and become more than a man. Become Sir Stretchalot,
       a Stretcher who travels the land, saving the day and stretching hotties, whether
       they be Monster Girls or regular girls.Sir Stretchalot is an episodic experience.
@@ -103,13 +128,87 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJw4vX99PYCdqf6wQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
+    review_score_desc: 3 user reviews
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_positive: 3
+    total_reviews: 3
+  reviews:
+  - author:
+      last_played: 1610200657
+      num_games_owned: 938
+      num_reviews: 569
+      playtime_at_review: 33
+      playtime_forever: 33
+      playtime_last_two_weeks: 33
+      steamid: '76561198100388140'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '84398710'
+    review: "\u041E\u0447\u0435\u043D\u044C \u043A\u043E\u0440\u043E\u0442\u043A\u0430\
+      \u044F \u0432\u0438\u0437\u0443\u0430\u043B\u044C\u043D\u0430\u044F \u043D\u043E\
+      \u0432\u0435\u043B\u043B\u0430 \u043F\u0440\u043E \u0441\u044D\u0440\u0430 \u0420\
+      \u0430\u0437\u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044F, \u043A\u043E\
+      \u0442\u043E\u0440\u044B\u0439 \u0443\u043C\u0435\u0435\u0442 \u0440\u0430\u0437\
+      \u0434\u0432\u0438\u0433\u0430\u0442\u044C \u043C\u043E\u043D\u0441\u0442\u0440\
+      \u043E\u0432 \u0438 \u0434\u0435\u0432\u0443\u0448\u0435\u043A. \u0420\u0435\
+      \u043A\u043E\u043C\u0435\u043D\u0434\u0443\u044E \u043B\u0438 \u044F \u044D\u0442\
+      \u0443 \u0438\u0433\u0440\u0443? \u041D\u0435\u0442. \u041F\u043E\u0447\u0435\
+      \u043C\u0443 \u043D\u0435 \u0441\u0434\u0435\u043B\u0430\u043B \u043E\u0442\u0440\
+      \u0438\u0446\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043E\u0442\u0437\
+      \u044B\u0432? \u0410 \u0447\u0451\u0440\u0442 \u0435\u0433\u043E \u0437\u043D\
+      \u0430\u0435\u0442. \u0412\u0440\u043E\u0434\u0435 \u0432\u0441\u0451 \u0440\
+      \u0430\u0431\u043E\u0442\u0430\u0435\u0442 \u0438 \u0438\u043D\u0442\u0435\u0440\
+      \u0435\u0441\u043D\u0430\u044F \u0441\u044E\u0436\u0435\u0442\u043D\u0430\u044F\
+      \ \u0437\u0430\u0432\u044F\u0437\u043A\u0430, \u043D\u043E \u044F \u0432\u0440\
+      \u044F\u0434 \u043B\u0438 \u043A\u0443\u043F\u043B\u044E \u043F\u0440\u043E\u0434\
+      \u043E\u043B\u0436\u0435\u043D\u0438\u0435, \u0435\u0441\u043B\u0438 \u043E\u043D\
+      \u043E \u0432\u043E\u043E\u0431\u0449\u0435 \u0432\u044B\u0439\u0434\u0435\u0442\
+      .\n \n\U0001F556 \u0412\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u0445\u043E\
+      \u0436\u0434\u0435\u043D\u0438\u044F: 30 \u043C\u0438\u043D\u0443\u0442. \n\U0001F51E\
+      \ \u0426\u0435\u043D\u0437\u0443\u0440\u0430: \u043D\u0435\u0442.\n\U0001F441\
+      \u200D\U0001F5E8 \u041A\u0430\u0447\u0435\u0441\u0442\u0432\u043E \u0438\u0437\
+      \u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0439: 3/5.\n \n\u041C\u043D\
+      \u0435 \u044D\u0442\u0430 \u0438\u0433\u0440\u0430 \u0441\u0438\u043B\u044C\u043D\
+      \u043E \u043D\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u0435\u0442 \u0440\u0430\
+      \u0431\u043E\u0442\u044B \u043E\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\
+      \u0442\u0447\u0438\u043A\u043E\u0432 \u201CCUTE ANIME GIRLS\u201D - \u0442\u043E\
+      \u0442 \u0436\u0435 \u0441\u0442\u0438\u043B\u044C \u0440\u0438\u0441\u043E\u0432\
+      \u043A\u0438 \u0438 \u043F\u043E\u0432\u0435\u0441\u0442\u0432\u043E\u0432\u0430\
+      \u043D\u0438\u044F. \u0422\u043E\u043B\u044C\u043A\u043E \u0442\u0435 \u0434\
+      \u0435\u043B\u0430\u044E\u0442 \u0442\u0440\u0435\u0448, \u0430 \u0437\u0434\
+      \u0435\u0441\u044C \u0443 \u043D\u0430\u0441 \u043F\u043E\u043F\u044B\u0442\u043A\
+      \u0430 \u0432 \u044D\u043F\u0438\u0437\u043E\u0434\u0438\u0447\u0435\u0441\u043A\
+      \u043E\u0435 \u0444\u044D\u043D\u0442\u0435\u0437\u0438.\n \n\u041F\u0435\u0440\
+      \u0432\u044B\u0439 \u044D\u043F\u0438\u0437\u043E\u0434 \u043F\u0443\u0442\u0435\
+      \u0448\u0435\u0441\u0442\u0432\u0438\u0439 \u044D\u0442\u043E\u0439 \u043F\u043E\
+      \u0434\u043E\u0431\u0438\u0438 \u0432\u0435\u0434\u044C\u043C\u0430\u043A\u0430\
+      \ \u0440\u0430\u0441\u0441\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442 \u043E\
+      \ \u0434\u0435\u0440\u0435\u0432\u043D\u0435, \u0433\u0434\u0435 \u0438\u0437\
+      \ \u043A\u043E\u043B\u043E\u0434\u0446\u0430 \u043B\u0435\u0437\u0443\u0442\
+      \ \u0442\u0432\u0430\u0440\u0438 \u0438 \u043D\u0443\u0436\u043D\u043E \u0447\
+      \u0442\u043E-\u0442\u043E \u0441 \u044D\u0442\u0438\u043C \u0434\u0435\u043B\
+      \u0430\u0442\u044C.\n\u0425\u0435\u043D\u0442\u0430\u0439\u043D\u044B\u0445\
+      \ CG \u043C\u0430\u043B\u043E \u0438 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\
+      \u044B\u0435 \u043D\u0430\u0440\u0438\u0441\u043E\u0432\u0430\u043D\u044B \u043D\
+      \u0435 \u043E\u0447\u0435\u043D\u044C \u043E\u043F\u0440\u044F\u0442\u043D\u043E\
+      . \u041E\u0437\u0432\u0443\u0447\u043A\u0430 \u0432 \u0441\u0446\u0435\u043D\
+      \u0430\u0445 \u0442\u043E\u0436\u0435 \u043E\u0442\u0441\u0443\u0442\u0441\u0442\
+      \u0432\u0443\u0435\u0442. \u0421\u043F\u043E\u0439\u043B\u0435\u0440: \u0441\
+      \u0446\u0435\u043D \u0441 \u0442\u043E\u0439 \u0431\u043B\u043E\u043D\u0434\u0438\
+      \u043D\u043A\u043E\u0439, \u0447\u0442\u043E \u043D\u0430 \u0441\u043A\u0440\
+      \u0438\u043D\u0448\u043E\u0442\u0430\u0445, \u0432 \u0438\u0433\u0440\u0435\
+      \ \u043D\u0435\u0442."
+    steam_purchase: true
+    timestamp_created: 1610243092
+    timestamp_updated: 1610243092
+    voted_up: true
+    votes_funny: 1
+    votes_up: 4
+    weighted_vote_score: '0.584655702114105225'
+    written_during_early_access: false
   success: 1

@@ -1,0 +1,107 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Full controller support
+      id: 28
+    - description: Native Steam Controller Support
+      id: 33
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: ''
+    fullgame:
+      appid: '653400'
+      name: Anne Happy!
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/653400/header.jpg?t=1553553438
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: 'Anne Happy!: The High-Tech Physical Exam'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Anne Happy!: The High-Tech Physical Exam - $1.99'
+        packageid: 186013
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Anne Happy!: The High-Tech Physical Exam'
+    packages:
+    - 186013
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jun 21, 2017
+    required_age: 0
+    short_description: It's been a week since the entrance ceremony. In class 1-7,
+      the students' misfortune shines through in interviews and physical exams, causing
+      quite the uproar. After school, Hanako, Hibari, and Botan go on a tour of the
+      school's clubs with academy guide robot Timothy to find one right for...
+    steam_appid: 658031
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English<strong>*</strong>, Japanese<br><strong>*</strong>languages
+      with full audio support
+    type: episode
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4oZ+U7dwCcf7rfA==
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 1 user reviews
+    total_negative: 0
+    total_positive: 1
+    total_reviews: 1
+  reviews:
+  - author:
+      last_played: 1564065676
+      num_games_owned: 449
+      num_reviews: 125
+      playtime_at_review: 24
+      playtime_forever: 198
+      playtime_last_two_weeks: 0
+      steamid: '76561198056431281'
+    comment_count: 0
+    language: russian
+    received_for_free: false
+    recommendationid: '32727009'
+    review: "\u0421\u0430\u043C\u0430\u044F \u0434\u043E\u0431\u0440\u0430\u044F:\
+      \ \u044D\u0442\u043E \u0441 \u0441\u0438\u0440\u0435\u043D\u0435\u0432\u044B\
+      \u043C\u0438 \u0432\u043E\u043B\u043E\u0441\u0430\u043C\u0438 \u0438 \u043E\u0440\
+      \u0430\u043D\u0436\u0435\u0432\u044B\u043C\u0438"
+    steam_purchase: true
+    timestamp_created: 1498311359
+    timestamp_updated: 1498311359
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

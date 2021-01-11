@@ -1,0 +1,111 @@
+details:
+  data:
+    about_the_game: Adds a new character and her own complete story path.<br><br><strong>Oni
+      the Panda</strong> is a fairly new resident of Kale Bay, on a mission from her
+      people to find and meet new settlements across the wider world.
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1078400/page_bg_generated_v6b.jpg?t=1558993355
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Steam Achievements
+      id: 22
+    content_descriptors:
+      ids:
+      - 5
+      notes: Sexual innuendo.
+    detailed_description: Adds a new character and her own complete story path.<br><br><strong>Oni
+      the Panda</strong> is a fairly new resident of Kale Bay, on a mission from her
+      people to find and meet new settlements across the wider world.
+    developers:
+    - Stefan Klaus
+    - Stegalosaurus Game Development
+    fullgame:
+      appid: '845960'
+      name: Furries & Scalies & Bears OH MY!
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1078400/header.jpg?t=1558993355
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86 or compatible processor<br></li><li><strong>Storage:</strong> 1 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        x86 or compatible processor<br></li><li><strong>Storage:</strong> 1 MB available
+        space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8 and above<br></li><li><strong>Storage:</strong> 1 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.8 and above<br></li><li><strong>Storage:</strong> 1 MB available
+        space</li></ul>
+    name: 'Furries & Scalies & Bears OH MY!: The Bear DLC'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Furries & Scalies & Bears OH MY!: The Bear DLC - $1.99'
+        packageid: 362016
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: 'Buy Furries & Scalies & Bears OH MY!: The Bear DLC'
+    packages:
+    - 362016
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Stegalosaurus Game Development
+    release_date:
+      coming_soon: false
+      date: May 27, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1078400/ss_be26734981c352d9ae7cb4b3255775ab2e5a49be.1920x1080.jpg?t=1558993355
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1078400/ss_be26734981c352d9ae7cb4b3255775ab2e5a49be.600x338.jpg?t=1558993355
+    short_description: Adds one new character complete with their own story path.
+    steam_appid: 1078400
+    support_info:
+      email: bryymiller@stegalosaurus.org
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

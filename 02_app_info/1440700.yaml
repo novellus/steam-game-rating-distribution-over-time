@@ -1,0 +1,131 @@
+details:
+  data:
+    about_the_game: "This DLC will give you access to the full design of the pieces.<br\
+      \ />\r\n<br />\r\nA new button will be available in the customization menu to\
+      \ choose between basic or fully drawn pieces."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1440700/page_bg_generated_v6b.jpg?t=1606915440
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Shared/Split Screen
+      id: 24
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "This DLC will give you access to the full design of the\
+      \ pieces.<br />\r\n<br />\r\nA new button will be available in the customization\
+      \ menu to choose between basic or fully drawn pieces."
+    developers:
+    - JulFlux
+    fullgame:
+      appid: '1424050'
+      name: Chess'Extra
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    - description: Strategy
+      id: '2'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1440700/header.jpg?t=1606915440
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    name: Chess'Extra - Dev Support - Pieces Full Design
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Chess'Extra - Dev Support - Pieces Full Design - $1.99
+        packageid: 506531
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Chess'Extra - Dev Support - Pieces Full Design
+    packages:
+    - 506531
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li>Requires a 64-bit
+        processor and operating system<br></li><li><strong>OS:</strong> Windows 7
+        and above<br></li><li><strong>Processor:</strong> Intel i3 and above<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> Compatible DirectX 9.0c<br></li><li><strong>Storage:</strong>
+        100 MB available space<br></li><li><strong>Additional Notes:</strong> Recommended
+        aspect ratio 16:9</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li>Requires
+        a 64-bit processor and operating system</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - JulFlux
+    release_date:
+      coming_soon: false
+      date: Nov 4, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_aa6cea4b8944e3451460373b63e6bccb787f0678.1920x1080.jpg?t=1606915440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_aa6cea4b8944e3451460373b63e6bccb787f0678.600x338.jpg?t=1606915440
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_d431de6f4731e88ec3116ad5449dd347be34e722.1920x1080.jpg?t=1606915440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_d431de6f4731e88ec3116ad5449dd347be34e722.600x338.jpg?t=1606915440
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_de180f5ab7fb6b696c7b5d94986a6b15da5b3b40.1920x1080.jpg?t=1606915440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_de180f5ab7fb6b696c7b5d94986a6b15da5b3b40.600x338.jpg?t=1606915440
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_774c84bb7beb50c4da7102a6586900c124f50755.1920x1080.jpg?t=1606915440
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1440700/ss_774c84bb7beb50c4da7102a6586900c124f50755.600x338.jpg?t=1606915440
+    short_description: This DLC will give you access to the full design of the pieces.
+    steam_appid: 1440700
+    support_info:
+      email: julflux@outlook.fr
+      url: ''
+    supported_languages: English, French, Italian, German, Spanish - Spain, Portuguese
+      - Brazil
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

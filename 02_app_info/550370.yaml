@@ -22,7 +22,7 @@ details:
       your party members with gear suited for each role<br></li><li>Characters cannot
       be revived outside of the Sanctuary making each loss in the outerworld harsh
       and challenging </li></ul>
-    background: https://steamcdn-a.akamaihd.net/steam/apps/550370/page_bg_generated_v6b.jpg?t=1609861687
+    background: https://steamcdn-a.akamaihd.net/steam/apps/550370/page_bg_generated_v6b.jpg?t=1610218067
     categories:
     - description: Single-player
       id: 2
@@ -62,7 +62,7 @@ details:
       id: '23'
     - description: RPG
       id: '3'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/550370/header.jpg?t=1609861687
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/550370/header.jpg?t=1610218067
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -78,7 +78,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256683896/movie480_vp9.webm?t=1608729390
         max: http://steamcdn-a.akamaihd.net/steam/apps/256683896/movie_max_vp9.webm?t=1608729390
     name: The Last Sin
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: The Last Sin - $1.99
+        packageid: 136304
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy The Last Sin
+    packages:
+    - 136304
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong> Intel
@@ -89,31 +107,38 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
     publishers:
     - Amaterasu Software
     release_date:
-      coming_soon: true
-      date: Oct 28, 2017
+      coming_soon: false
+      date: Jan 9, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_c4011a2498207a5aea626b240bddfe0e1621a605.1920x1080.jpg?t=1609861687
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_c4011a2498207a5aea626b240bddfe0e1621a605.600x338.jpg?t=1609861687
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_c4011a2498207a5aea626b240bddfe0e1621a605.1920x1080.jpg?t=1610218067
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_c4011a2498207a5aea626b240bddfe0e1621a605.600x338.jpg?t=1610218067
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_df32560a622c987c14ef643bb80d084c77c5d304.1920x1080.jpg?t=1609861687
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_df32560a622c987c14ef643bb80d084c77c5d304.600x338.jpg?t=1609861687
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_df32560a622c987c14ef643bb80d084c77c5d304.1920x1080.jpg?t=1610218067
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_df32560a622c987c14ef643bb80d084c77c5d304.600x338.jpg?t=1610218067
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_265429f55cf37c8e136903fd90d94ddafed32199.1920x1080.jpg?t=1609861687
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_265429f55cf37c8e136903fd90d94ddafed32199.600x338.jpg?t=1609861687
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_265429f55cf37c8e136903fd90d94ddafed32199.1920x1080.jpg?t=1610218067
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_265429f55cf37c8e136903fd90d94ddafed32199.600x338.jpg?t=1610218067
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_a216192170562157aa058e8516d98aac6c57a4f6.1920x1080.jpg?t=1609861687
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_a216192170562157aa058e8516d98aac6c57a4f6.600x338.jpg?t=1609861687
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_a216192170562157aa058e8516d98aac6c57a4f6.1920x1080.jpg?t=1610218067
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_a216192170562157aa058e8516d98aac6c57a4f6.600x338.jpg?t=1610218067
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_f52511c7f3aa2a4dc5c00bc412b76937febc1008.1920x1080.jpg?t=1609861687
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_f52511c7f3aa2a4dc5c00bc412b76937febc1008.600x338.jpg?t=1609861687
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_f52511c7f3aa2a4dc5c00bc412b76937febc1008.1920x1080.jpg?t=1610218067
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_f52511c7f3aa2a4dc5c00bc412b76937febc1008.600x338.jpg?t=1610218067
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_14bcf71adbe91620b5e98f43ce72067e018c0b2b.1920x1080.jpg?t=1609861687
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_14bcf71adbe91620b5e98f43ce72067e018c0b2b.600x338.jpg?t=1609861687
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_14bcf71adbe91620b5e98f43ce72067e018c0b2b.1920x1080.jpg?t=1610218067
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/550370/ss_14bcf71adbe91620b5e98f43ce72067e018c0b2b.600x338.jpg?t=1610218067
     short_description: The world is stuck in permanent limbo where the living don't
       realize what is going on and the dead cannot rest. Recruit a party of balanced
       heroes to save the endless plane of existence.

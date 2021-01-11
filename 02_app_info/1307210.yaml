@@ -1,0 +1,159 @@
+details:
+  data:
+    about_the_game: "When you purchase this DLC:<br />\r\n<br />\r\n\u221E You unlock\
+      \ new content at the end of the 4th tombstone, where Hope is trapped in War\u2019\
+      s lair. Ignite your jetpack and propel yourself through a challenging time-attack\
+      \ level. Share your score with the community using #InfiniPrison!<br />\r\n\
+      <br />\r\n\u221E Barnaque will donate their net revenue from your purchase to\
+      \ the UN Refugee Agency. It provides protection, shelter, health and education\
+      \ to the millions of people who have been forced to flee from their homes and\
+      \ restart their lives.<br />\r\n<br />\r\n\u201CWe sympathize with the refugees,\
+      \ returnees, stateless people, internally displaced and asylum-seekers and want\
+      \ to help by offering this content in return for your donation.\u201D - Barnaque\
+      \ and Nakana.io<br />\r\n<br />\r\nVisit the website Nakana.io to get more details\
+      \ on how the DLC sales will be used."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1307210/page_bg_generated_v6b.jpg?t=1594759551
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "When you purchase this DLC:<br />\r\n<br />\r\n\u221E You\
+      \ unlock new content at the end of the 4th tombstone, where Hope is trapped\
+      \ in War\u2019s lair. Ignite your jetpack and propel yourself through a challenging\
+      \ time-attack level. Share your score with the community using #InfiniPrison!<br\
+      \ />\r\n<br />\r\n\u221E Barnaque will donate their net revenue from your purchase\
+      \ to the UN Refugee Agency. It provides protection, shelter, health and education\
+      \ to the millions of people who have been forced to flee from their homes and\
+      \ restart their lives.<br />\r\n<br />\r\n\u201CWe sympathize with the refugees,\
+      \ returnees, stateless people, internally displaced and asylum-seekers and want\
+      \ to help by offering this content in return for your donation.\u201D - Barnaque\
+      \ and Nakana.io<br />\r\n<br />\r\nVisit the website Nakana.io to get more details\
+      \ on how the DLC sales will be used."
+    developers:
+    - Barnaque
+    fullgame:
+      appid: '1120420'
+      name: Infini
+    genres:
+    - description: Action
+      id: '1'
+    - description: Adventure
+      id: '25'
+    - description: Casual
+      id: '4'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1307210/header.jpg?t=1594759551
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu<br></li><li><strong>Processor:</strong> Intel Xeon E3-1220<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 780M<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu<br></li><li><strong>Processor:</strong> Intel Core i3 2100<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 770<br></li><li><strong>Storage:</strong>
+        2 GB available space</li></ul>
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256792292
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256792292/movie480.mp4?t=1594653529
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256792292/movie_max.mp4?t=1594653529
+      name: '#InfiniPrison trailer'
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256792292/movie.293x165.jpg?t=1594653529
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256792292/movie480_vp9.webm?t=1594653529
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256792292/movie_max_vp9.webm?t=1594653529
+    name: 'Infini - #InfiniPrison'
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Infini - #InfiniPrison - $0.99'
+        packageid: 456196
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: 'Buy Infini - #InfiniPrison'
+    packages:
+    - 456196
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7 and up<br></li><li><strong>Processor:</strong> Intel Xeon E3-1220<br></li><li><strong>Memory:</strong>
+        2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 780M<br></li><li><strong>DirectX:</strong>
+        Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3 2100<br></li><li><strong>Memory:</strong>
+        4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 770<br></li><li><strong>DirectX:</strong>
+        Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>
+    platforms:
+      linux: true
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Jul 13, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_49af84f8b90c78545897c42f25801c9106cc96be.1920x1080.jpg?t=1594759551
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_49af84f8b90c78545897c42f25801c9106cc96be.600x338.jpg?t=1594759551
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_f73e6954b532502e428ae133b5005d15c0627bd1.1920x1080.jpg?t=1594759551
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_f73e6954b532502e428ae133b5005d15c0627bd1.600x338.jpg?t=1594759551
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_1ab3d2780d0aafbb71614c8d8d398d5afb5e5aea.1920x1080.jpg?t=1594759551
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_1ab3d2780d0aafbb71614c8d8d398d5afb5e5aea.600x338.jpg?t=1594759551
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_a28c5913a9b694eb6dbeedfe89d3f72b4444edd1.1920x1080.jpg?t=1594759551
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_a28c5913a9b694eb6dbeedfe89d3f72b4444edd1.600x338.jpg?t=1594759551
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_3a8e58a53d93aa8a01a3e604b141a562c95fd870.1920x1080.jpg?t=1594759551
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1307210/ss_3a8e58a53d93aa8a01a3e604b141a562c95fd870.600x338.jpg?t=1594759551
+    short_description: 'Ignite your jetpack and propel yourself through a challenging
+      time-attack level. Share your score with the community using #InfiniPrison!'
+    steam_appid: 1307210
+    support_info:
+      email: info@barnaque.com
+      url: ''
+    supported_languages: English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: http://www.barnaque.com/infinithegame
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

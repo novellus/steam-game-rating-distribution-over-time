@@ -1,0 +1,211 @@
+details:
+  data:
+    about_the_game: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/animated-small.gif?t=1606234756"
+      /><br><strong><h2 class="bb_tag">is a shoot em up  featuring.</h2></strong><br><ul
+      class="bb_ul"><li>Solo play or up to four player local co-op<br></li><li>Lots
+      a power ups, weapons, and a charge shot<br></li><li>A campaign with seven levels
+      <br></li><li>Huge boss battles<br></li><li>An unlockable Boss Rush mode <br></li><li>Six
+      unique playable ships</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/ship-demo.png?t=1606234756"
+      /><br><strong><h2 class="bb_tag">Now with new retro style shaders!</h2></strong><br><br><img
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/retro-01.gif?t=1606234756"
+      /><br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/retro-02.gif?t=1606234756"
+      />
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1072280/page_bg_generated_v6b.jpg?t=1606234756
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Shared/Split Screen PvP
+      id: 37
+    - description: Co-op
+      id: 9
+    - description: Shared/Split Screen Co-op
+      id: 39
+    - description: Shared/Split Screen
+      id: 24
+    - description: Full controller support
+      id: 28
+    - description: Steam Cloud
+      id: 23
+    - description: Remote Play Together
+      id: 44
+    content_descriptors:
+      ids:
+      - 2
+      - 5
+      notes: Contains alien Gore.
+    controller_support: full
+    demos:
+    - appid: 1091600
+      description: Demo
+    detailed_description: <img src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/animated-small.gif?t=1606234756"
+      /><br><strong><h2 class="bb_tag">is a shoot em up  featuring.</h2></strong><br><ul
+      class="bb_ul"><li>Solo play or up to four player local co-op<br></li><li>Lots
+      a power ups, weapons, and a charge shot<br></li><li>A campaign with seven levels
+      <br></li><li>Huge boss battles<br></li><li>An unlockable Boss Rush mode <br></li><li>Six
+      unique playable ships</li></ul><img src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/ship-demo.png?t=1606234756"
+      /><br><strong><h2 class="bb_tag">Now with new retro style shaders!</h2></strong><br><br><img
+      src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/retro-01.gif?t=1606234756"
+      /><br><img src="https://steamcdn-a.akamaihd.net/steam/apps/1072280/extras/retro-02.gif?t=1606234756"
+      />
+    developers:
+    - Steven Ragan
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1072280/header.jpg?t=1606234756
+    is_free: false
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Ubuntu/Arch/SteamOS 64bit<br></li><li><strong>Processor:</strong> Intel/AMD
+        Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        Drivers with support for OpenGL 3.3<br></li><li><strong>Storage:</strong>
+        200 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        OS X<br></li><li><strong>Processor:</strong> Intel/AMD Dual Core<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Drivers with support for OpenGL
+        3.3<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    name: Cossanox
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cossanox - $1.99
+        packageid: 359493
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Cossanox - Commercial License - $2.99
+        packageid: 367621
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Cossanox
+    packages:
+    - 359493
+    - 367621
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 7/8/10<br></li><li><strong>Processor:</strong> Intel/AMD Dual Core<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> Drivers with support for OpenGL
+        3.3<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Cossanox Games
+    release_date:
+      coming_soon: false
+      date: May 17, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_eae733506e30ed49f8922e4045348b5eee8bf23b.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_eae733506e30ed49f8922e4045348b5eee8bf23b.600x338.jpg?t=1606234756
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_03fa43c389ac909ad88deb0650b07e08ac093d4d.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_03fa43c389ac909ad88deb0650b07e08ac093d4d.600x338.jpg?t=1606234756
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_d7cb31f6c8b271640496b9b07c7f494f59a23b00.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_d7cb31f6c8b271640496b9b07c7f494f59a23b00.600x338.jpg?t=1606234756
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_5592914a181b55f441af3626a63660b6a894193e.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_5592914a181b55f441af3626a63660b6a894193e.600x338.jpg?t=1606234756
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_40a859092565276c6a7de6b2d48cc65fd5ae302c.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_40a859092565276c6a7de6b2d48cc65fd5ae302c.600x338.jpg?t=1606234756
+    - id: 5
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_31dbf3e81846d462e3f35d91904d474f76bf687b.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_31dbf3e81846d462e3f35d91904d474f76bf687b.600x338.jpg?t=1606234756
+    - id: 6
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_db705c8b325437bae37047ef07ea684c696004e7.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_db705c8b325437bae37047ef07ea684c696004e7.600x338.jpg?t=1606234756
+    - id: 7
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_442b9759ef6b8a92cec8deb2a44b56e30a46e05f.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_442b9759ef6b8a92cec8deb2a44b56e30a46e05f.600x338.jpg?t=1606234756
+    - id: 8
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_d10f39cdfb63bfa487730abdbfffc74a30f0ae23.1920x1080.jpg?t=1606234756
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1072280/ss_d10f39cdfb63bfa487730abdbfffc74a30f0ae23.600x338.jpg?t=1606234756
+    short_description: Embark on a journey through space and time, battling a cosmic
+      menace to save the Universe. Using the all powerful Cossanox this alien seeks
+      to reshape the known universe in order to spread and consume. You and your crew
+      must put an end to the threat and recover the Cossanox.
+    steam_appid: 1072280
+    support_info:
+      email: src113988@gmail.com
+      url: ''
+    supported_languages: English
+    type: game
+    website: null
+  success: true
+reviews:
+  cursor: AoJ4kuj0svUCdcm0qAI=
+  query_summary:
+    num_reviews: 1
+    review_score: 0
+    review_score_desc: 2 user reviews
+    total_negative: 0
+    total_positive: 2
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1598128263
+      num_games_owned: 85
+      num_reviews: 30
+      playtime_at_review: 565
+      playtime_forever: 565
+      playtime_last_two_weeks: 0
+      steamid: '76561198346536112'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '77702293'
+    review: "Awesome & Impressive challenging Side Scrolling Shoot Em Up.\nGreat smooth\
+      \ controls and lots of buttons to press and memorise, \n6 Different Ships to\
+      \ choose from each with their own weapons and abilities.\n7 Big well designed\
+      \ Stages with really nice effects + visuals, Great Atmospheric Music.\nLoads\
+      \ of variety of enemies and Amazing end of stage hard Bosses.\nLots of different\
+      \ weapons to collect after destroying the enemy forces.\nYou have two weapon\
+      \ turrets or drones which you can rotate when firing.\nCharge Beam Shot similar\
+      \ to R-Type.\nIt can be charged 3 times for a mega blast. (Blue, Red, Green\
+      \ most Powerful Beam)\nTurn your Space Ship around to fire the other direction\
+      \ which is so cool.\nThe Games Programmer (Steven) as put tons of hard work\
+      \ into this game and well worth full price.\nI will highly recommend this game\
+      \ to more Advanced Shoot Em Up fans because it is very hard and much practise\
+      \ is needed to get through each challenging stage. \nTheir is also limited Continues\
+      \ & 3 lives to help you.\n4 difficulty levels. Hard, Normal, Easy, Very Easy.\n\
+      Hope to see a sequel Cossanox 2 ?\nBuy this game and have lots of fun...Both\
+      \ Thumbs UP :)\n\nSHOOT EM UPS FOR LIFE!!!"
+    steam_purchase: true
+    timestamp_created: 1602940053
+    timestamp_updated: 1603731145
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
+  success: 1

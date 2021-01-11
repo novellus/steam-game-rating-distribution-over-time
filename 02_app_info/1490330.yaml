@@ -9,7 +9,9 @@ details:
       Aliensrock, Dawko, Mairusu, LOTS_OF_PYRO, CuriousCleffa, L8Sleeper, stereotype98
       and Codykoko.<br><strong>Steam Achievements is still bring worked on, but in
       the mean time you can earn achievements on game jolt as a place holder</strong>'
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1490330/page_bg_generated_v6b.jpg?t=1609704449
+    achievements:
+      total: 0
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1490330/page_bg_generated_v6b.jpg?t=1610328174
     categories:
     - description: Single-player
       id: 2
@@ -41,7 +43,7 @@ details:
       id: '2'
     - description: Early Access
       id: '70'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1490330/header.jpg?t=1609704449
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1490330/header.jpg?t=1610328174
     is_free: false
     legal_notice: Content Creator's Internet Adventure is trademarked by Saladite
       Games, Saladite Games is run by James Trimble
@@ -63,7 +65,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256814179/movie480_vp9.webm?t=1609112783
         max: http://steamcdn-a.akamaihd.net/steam/apps/256814179/movie_max_vp9.webm?t=1609112783
     name: Content Creator's Internet Adventure
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Content Creator's Internet Adventure - <span class="discount_original_price">$9.99</span>
+          $7.49
+        packageid: 525345
+        percent_savings: 0
+        percent_savings_text: '-25% '
+        price_in_cents_with_discount: 749
+      title: Buy Content Creator's Internet Adventure
+    packages:
+    - 525345
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7:<br></li><li><strong>Processor:</strong> 32-bit<br></li><li><strong>Memory:</strong>
@@ -73,28 +94,35 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 25
+      final: 749
+      final_formatted: $7.49
+      initial: 999
+      initial_formatted: $9.99
     publishers:
     - Saladite Games
     release_date:
-      coming_soon: true
-      date: Jan 11, 2021
+      coming_soon: false
+      date: Jan 10, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_b3ffaf4693f6349e57bf7d754f47c5a0e3fe5dcd.1920x1080.jpg?t=1609704449
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_b3ffaf4693f6349e57bf7d754f47c5a0e3fe5dcd.600x338.jpg?t=1609704449
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_b3ffaf4693f6349e57bf7d754f47c5a0e3fe5dcd.1920x1080.jpg?t=1610328174
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_b3ffaf4693f6349e57bf7d754f47c5a0e3fe5dcd.600x338.jpg?t=1610328174
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_1aa72a59586d67836bd6130e8303e3423d198cf9.1920x1080.jpg?t=1609704449
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_1aa72a59586d67836bd6130e8303e3423d198cf9.600x338.jpg?t=1609704449
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_1aa72a59586d67836bd6130e8303e3423d198cf9.1920x1080.jpg?t=1610328174
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_1aa72a59586d67836bd6130e8303e3423d198cf9.600x338.jpg?t=1610328174
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_d05c1ead6977f45159c6cf96da6cb27b53d98d74.1920x1080.jpg?t=1609704449
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_d05c1ead6977f45159c6cf96da6cb27b53d98d74.600x338.jpg?t=1609704449
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_d05c1ead6977f45159c6cf96da6cb27b53d98d74.1920x1080.jpg?t=1610328174
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_d05c1ead6977f45159c6cf96da6cb27b53d98d74.600x338.jpg?t=1610328174
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_de04b280d91fdf76d9aa5c8c6040e4833913d1e8.1920x1080.jpg?t=1609704449
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_de04b280d91fdf76d9aa5c8c6040e4833913d1e8.600x338.jpg?t=1609704449
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_de04b280d91fdf76d9aa5c8c6040e4833913d1e8.1920x1080.jpg?t=1610328174
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_de04b280d91fdf76d9aa5c8c6040e4833913d1e8.600x338.jpg?t=1610328174
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_4f0bbb9b9c6ec32a7d9e3461bf275a61f0986584.1920x1080.jpg?t=1609704449
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_4f0bbb9b9c6ec32a7d9e3461bf275a61f0986584.600x338.jpg?t=1609704449
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_4f0bbb9b9c6ec32a7d9e3461bf275a61f0986584.1920x1080.jpg?t=1610328174
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1490330/ss_4f0bbb9b9c6ec32a7d9e3461bf275a61f0986584.600x338.jpg?t=1610328174
     short_description: turn-based 16bit rpg game unlike any other rpg game (mainly
       because most rpgs ain't about content creators
     steam_appid: 1490330

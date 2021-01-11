@@ -1,0 +1,95 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Steam Achievements
+      id: 22
+    - description: Partial Controller Support
+      id: 18
+    - description: Steam Cloud
+      id: 23
+    - description: Stats
+      id: 15
+    - description: Steam Leaderboards
+      id: 25
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - Exor Studios
+    fullgame:
+      appid: '220820'
+      name: Zombie Driver HD
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    - description: Racing
+      id: '9'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/82143/header.jpg?t=1447356908
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: false
+      id: 82143
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82143/movie480.mp4?t=1447356908
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82143/movie_max.mp4?t=1447356908
+      name: Zombie Driver HD Release Trailer
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/82143/movie.293x165.jpg?t=1447356908
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/82143/movie480.webm?t=1447356908
+        max: http://steamcdn-a.akamaihd.net/steam/apps/82143/movie_max.webm?t=1447356908
+    name: Zombie Driver HD Release Trailer
+    package_groups: []
+    pc_requirements:
+      minimum: "<strong>Minimum:</strong>\n<ul>\n\t<li><strong>OS:</strong> Windows\
+        \ 7/Vista/XP\n\t<li><strong>Processor:</strong> 1.5 GHz dual core processor\n\
+        \t<li><strong>Memory:</strong> 512 MB\n\t<li><strong>Graphics:</strong> 128\
+        \ MB DirectX 9.0c compatible or better video card with pixelshader 3.0\n\t\
+        <li><strong>DirectX&reg;:</strong> DirectX 9.0c\n\t<li><strong>Hard Drive:</strong>\
+        \ 2 GB\n\t<li><strong>Sound:</strong> DirectX 9.0c compatible sound card\n\
+        </ul>"
+      recommended: "<strong>Recommended:</strong>\n<ul>\n\t<li><strong>OS:</strong>\
+        \ Windows 7/Vista/XP\n\t<li><strong>Processor:</strong> 2.0 GHz dual core\
+        \ processor\n\t<li><strong>Memory:</strong> 1 GB\n\t<li><strong>Graphics:</strong>\
+        \ 128 MB DirectX 9.0c compatible or better video card with pixelshader 3.0\n\
+        \t<li><strong>DirectX&reg;:</strong> DirectX 9.0c\n\t<li><strong>Hard Drive:</strong>\
+        \ 2 GB\n\t<li><strong>Sound:</strong> DirectX 9.0c compatible sound card\n\
+        </ul>"
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Oct 22, 2012
+    required_age: 0
+    short_description: ''
+    steam_appid: 82143
+    support_info:
+      email: support@zombiedriver.com
+      url: ''
+    supported_languages: English, French, German, Italian, Polish, Spanish - Spain
+    type: movie
+    website: http://www.zombiedriver.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

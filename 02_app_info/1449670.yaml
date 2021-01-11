@@ -30,7 +30,30 @@ details:
       \ to their true owners, sell them to the highest bidder, or decide that they\
       \ belong in a museum.</li></ul><h2 class=\"bb_tag\">Archaeology Just Got A Whole\
       \ Lot More Exciting.</h2>"
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1449670/page_bg_generated_v6b.jpg?t=1609450177
+    achievements:
+      highlighted:
+      - name: You Got This
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: Unscathed
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: A Voice from the Past
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: World's Greatest Adventurers
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: Louisiana Picnic
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg
+      - name: Objection!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg
+      - name: Puppet on a String
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: Sic Semper Tyrannis
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: Tactical Genius
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      - name: Wrecking Ball
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449670/639d976c7cdbdf684e8cd466ff2ac4360df2077c.jpg
+      total: 28
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1449670/page_bg_generated_v6b.jpg?t=1610030159
     categories:
     - description: Single-player
       id: 2
@@ -46,6 +69,9 @@ details:
         Nazis espousing racist ideology are countered and condemned by the protagonists.
         There are also some sensitive scenes describing violence against minority
         characters that was unfortunately typical of that time period. '
+    demos:
+    - appid: 1449680
+      description: ''
     detailed_description: "The Nazis are on the trail of six ancient magical artifacts\
       \ powerful enough to crush all opposition and conquer the world. But they didn\u2019\
       t take one thing into account: you.<br><br>Relics of the Lost Age is a swashbuckling\
@@ -87,7 +113,7 @@ details:
       id: '23'
     - description: RPG
       id: '3'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1449670/header.jpg?t=1609450177
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1449670/header.jpg?t=1610030159
     is_free: false
     linux_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
@@ -96,7 +122,26 @@ details:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         10.9</li></ul>
     name: Relics of the Lost Age
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Relics of the Lost Age - <span class="discount_original_price">$5.99</span>
+          $3.95
+        packageid: 510057
+        percent_savings: 0
+        percent_savings_text: '-34% '
+        price_in_cents_with_discount: 395
+      title: Buy Relics of the Lost Age
+    packages:
+    - 510057
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         7</li></ul>
@@ -104,28 +149,35 @@ details:
       linux: true
       mac: true
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 34
+      final: 395
+      final_formatted: $3.95
+      initial: 599
+      initial_formatted: $5.99
     publishers:
     - Hosted Games
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 7, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_5f50b8606474bff66c6aaecbe4991f8b5ad01a8b.1920x1080.jpg?t=1609450177
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_5f50b8606474bff66c6aaecbe4991f8b5ad01a8b.600x338.jpg?t=1609450177
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_5f50b8606474bff66c6aaecbe4991f8b5ad01a8b.1920x1080.jpg?t=1610030159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_5f50b8606474bff66c6aaecbe4991f8b5ad01a8b.600x338.jpg?t=1610030159
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_54835eff0b716abda09a576fb59d5acbcb20698b.1920x1080.jpg?t=1609450177
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_54835eff0b716abda09a576fb59d5acbcb20698b.600x338.jpg?t=1609450177
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_54835eff0b716abda09a576fb59d5acbcb20698b.1920x1080.jpg?t=1610030159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_54835eff0b716abda09a576fb59d5acbcb20698b.600x338.jpg?t=1610030159
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_844a8e44085fb2cc5e26937716ff7eebfdcba500.1920x1080.jpg?t=1609450177
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_844a8e44085fb2cc5e26937716ff7eebfdcba500.600x338.jpg?t=1609450177
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_844a8e44085fb2cc5e26937716ff7eebfdcba500.1920x1080.jpg?t=1610030159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_844a8e44085fb2cc5e26937716ff7eebfdcba500.600x338.jpg?t=1610030159
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_664aabcb86aa76cc463ebefd64b79a83e4355645.1920x1080.jpg?t=1609450177
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_664aabcb86aa76cc463ebefd64b79a83e4355645.600x338.jpg?t=1609450177
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_664aabcb86aa76cc463ebefd64b79a83e4355645.1920x1080.jpg?t=1610030159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_664aabcb86aa76cc463ebefd64b79a83e4355645.600x338.jpg?t=1610030159
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_221c0ff06ae514984831aa810f9ef9d5404acdbe.1920x1080.jpg?t=1609450177
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_221c0ff06ae514984831aa810f9ef9d5404acdbe.600x338.jpg?t=1609450177
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_221c0ff06ae514984831aa810f9ef9d5404acdbe.1920x1080.jpg?t=1610030159
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1449670/ss_221c0ff06ae514984831aa810f9ef9d5404acdbe.600x338.jpg?t=1610030159
     short_description: The Nazis are scouring the globe for powerful occult artifacts.
       Can you beat them to the treasures and save the world from a thousand years
       of darkness?
@@ -138,13 +190,72 @@ details:
     website: https://www.choiceofgames.com
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJwiLym8fYCdI3IwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
-    total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    review_score_desc: 5 user reviews
+    total_negative: 1
+    total_positive: 4
+    total_reviews: 5
+  reviews:
+  - author:
+      last_played: 1610286944
+      num_games_owned: 253
+      num_reviews: 183
+      playtime_at_review: 567
+      playtime_forever: 597
+      playtime_last_two_weeks: 597
+      steamid: '76561198053428824'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84295892'
+    review: 'First let me start by saying that all of the current world issues that
+      some may feel are relatable to this story, are saddly not the authors fault,
+      but our failure as a society.  All the ugliness that we can shamefully still
+      relate to today, were definetly present in the time period as presented in this
+      game.  The fact that they are still raising their ugly heads and afflicting
+      millions of people in our society today is not the authors fault.  That being
+      said, if reminders of the historical roots of current modern day racism and
+      hatred bother you, you would do well to skip this one.
+
+
+      For myself I found the story line to have moments of intense action and interest,
+      and then other moments of long drawn out situations I really wasnt expecting
+      or wanting to read/play through.  There are alot of different genres covered
+      in this story, everything from high adventure ala Indiana Jones, to Private
+      detective / clue finding / case solving (part I least enjoyed) to Romance (i
+      didnt find a good match for me in this one, the only available male character
+      (that wasnt already involved with someone else) was a no no for me.  After he
+      killed a second person right infront of me I had zero interest in helping him
+      in anyway and certainly didnt want to persue any kind of a relationship with
+      him,) To Combat Simulator / Survival.  The whole combat part bothered me alot
+      as for the first part of the game I was always presented with and chose non
+      lethal options that worked for a good portion of the game.  The suddenly after
+      I start being upset about a companion Im with turning around and needlessly
+      killing people, the MC starts killing people too, without ever asking me if
+      I was willing / wanting to do that.  From there on the MC ends up killing dozens
+      and dozens of people, with me having to choose how Im going to go about doing
+      it.  Its all in self defense, for the most part, although there are several
+      times where you can choose to kill because you want to, sometimes the MC would
+      just turn around and kill some one all on their own.  It left me feeling very
+      unhappy.  I had a real hard time trying to juxtapose a story line where the
+      ugliness of one group of people towards other groups was a running theme, at
+      the same time I was being asked to handle situations where I was responding
+      to violence, with extreme violence / killing of my own.
+
+      All in All I think if your not triggered by historically accurate depictions
+      of racism, and If you dont have any qualms with killing lots and lots of people
+      in a fictional narrative, you will find a long and varied story line to read
+      though.  If you do find either of those things disturbing though, your going
+      to want to find something else to read.'
+    steam_purchase: true
+    timestamp_created: 1610119504
+    timestamp_updated: 1610119504
+    voted_up: true
+    votes_funny: 0
+    votes_up: 7
+    weighted_vote_score: '0.601945459842681885'
+    written_during_early_access: false
   success: 1

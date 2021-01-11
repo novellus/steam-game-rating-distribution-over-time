@@ -1,0 +1,142 @@
+details:
+  data:
+    about_the_game: "If you're interested in what we're experimenting with then you're\
+      \ in the right place.<br />\r\n<br />\r\nOnce downloaded you can find the Testing\
+      \ build by right clicking Warfork -&gt; Properties -&gt; Local Files -&gt; Browse\
+      \ Local Files. Look folder a named /testing/ and the launch the game manually.\
+      \ <br />\r\n<br />\r\nIf this is inconvenient you can add a launcher to Steam\
+      \ Library with the following steps:<br />\r\n<br />\r\n1. Click the Games drop-down\
+      \ tab.<br />\r\n2. Click &quot;Add a Non-Steam Game to My Library&quot;.<br\
+      \ />\r\n3. Browse to the correct binary:<br />\r\n<br />\r\nWindows: /steamapps/common/fvi/testing/Warfork.app/Contents/Resources/warfork_x64.exe<br\
+      \ />\r\n<br />\r\nLinux: /steamapps/common/fvi/testing/Warfork.app/Contents/Resources/warfork.x86_64<br\
+      \ />\r\n<br />\r\nMac: /steamapps/common/fvi/testing/Warfork.app/Contents/MacOS/Warfork<br\
+      \ />\r\n<br />\r\nFor Mac you might need to use the following command &quot;install_name_tool\
+      \ -add_rpath @executable_path/../Frameworks Warfork&quot; in the location above.<br\
+      \ />\r\n<br />\r\n4. Click Add Selected Programs<br />\r\n5. Launch Warfork\
+      \ Testing via your Library."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1145510/page_bg_generated_v6b.jpg?t=1592621915
+    categories:
+    - description: Multi-player
+      id: 1
+    - description: PvP
+      id: 49
+    - description: Online PvP
+      id: 36
+    - description: Downloadable Content
+      id: 21
+    - description: Includes Source SDK
+      id: 16
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "If you're interested in what we're experimenting with then\
+      \ you're in the right place.<br />\r\n<br />\r\nOnce downloaded you can find\
+      \ the Testing build by right clicking Warfork -&gt; Properties -&gt; Local Files\
+      \ -&gt; Browse Local Files. Look folder a named /testing/ and the launch the\
+      \ game manually. <br />\r\n<br />\r\nIf this is inconvenient you can add a launcher\
+      \ to Steam Library with the following steps:<br />\r\n<br />\r\n1. Click the\
+      \ Games drop-down tab.<br />\r\n2. Click &quot;Add a Non-Steam Game to My Library&quot;.<br\
+      \ />\r\n3. Browse to the correct binary:<br />\r\n<br />\r\nWindows: /steamapps/common/fvi/testing/Warfork.app/Contents/Resources/warfork_x64.exe<br\
+      \ />\r\n<br />\r\nLinux: /steamapps/common/fvi/testing/Warfork.app/Contents/Resources/warfork.x86_64<br\
+      \ />\r\n<br />\r\nMac: /steamapps/common/fvi/testing/Warfork.app/Contents/MacOS/Warfork<br\
+      \ />\r\n<br />\r\nFor Mac you might need to use the following command &quot;install_name_tool\
+      \ -add_rpath @executable_path/../Frameworks Warfork&quot; in the location above.<br\
+      \ />\r\n<br />\r\n4. Click Add Selected Programs<br />\r\n5. Launch Warfork\
+      \ Testing via your Library."
+    developers:
+    - Team Forbidden
+    fullgame:
+      appid: '671610'
+      name: Warfork
+    genres:
+    - description: Action
+      id: '1'
+    - description: Free to Play
+      id: '37'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1145510/header.jpg?t=1592621915
+    is_free: true
+    legal_notice: "Warfork is not affiliated with Warsow, Warsow Team, or Chasseur\
+      \ de Bots.<br />\r\nCopyright \xA9 Team Forbidden. All rights reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Debian Stretch, Ubuntu Bionic Beaver<br></li><li><strong>Processor:</strong>
+        2.0 GHz Dual Core (64-bit)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        64 MB of Video Ram<br></li><li><strong>Storage:</strong> 600 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Debian Buster, Ubuntu Disco Dingo<br></li><li><strong>Processor:</strong>
+        2.0 GHz Dual Core (64-bit)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        64 MB of Video Ram<br></li><li><strong>Storage:</strong> 600 MB available
+        space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X Snow Leopard<br></li><li><strong>Processor:</strong> 2.0 GHz Dual
+        Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        64 MB of Video Ram<br></li><li><strong>Storage:</strong> 600 MB available
+        space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X Mojave<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core<br></li><li><strong>Memory:</strong>
+        1 GB RAM<br></li><li><strong>Graphics:</strong> 64 MB of Video Ram<br></li><li><strong>Storage:</strong>
+        600 MB available space</li></ul>
+    name: Warfork Testing
+    package_groups: []
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 2.0 GHZ (64-bit)<br></li><li><strong>Memory:</strong>
+        512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0c compatible<br></li><li><strong>Storage:</strong>
+        600 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core
+        (64-bit)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX 9.0c compatible<br></li><li><strong>Storage:</strong> 600 MB available
+        space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    publishers:
+    - ''
+    release_date:
+      coming_soon: false
+      date: Aug 22, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_3780ca474cbc7fb7e228f38ee26ca2cba2c4d73e.1920x1080.jpg?t=1592621915
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_3780ca474cbc7fb7e228f38ee26ca2cba2c4d73e.600x338.jpg?t=1592621915
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_0c31f8c44dbabf8e6490004f4d408ef3e76c9ef4.1920x1080.jpg?t=1592621915
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_0c31f8c44dbabf8e6490004f4d408ef3e76c9ef4.600x338.jpg?t=1592621915
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_0a831340f9a6ce8c7671456c13534cbe50743401.1920x1080.jpg?t=1592621915
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_0a831340f9a6ce8c7671456c13534cbe50743401.600x338.jpg?t=1592621915
+    - id: 3
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_c8cc3b56b64384b10f04a9ee248d721937dd2ff7.1920x1080.jpg?t=1592621915
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_c8cc3b56b64384b10f04a9ee248d721937dd2ff7.600x338.jpg?t=1592621915
+    - id: 4
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_f39b70fde4f474ab99a5dfc54e9640dcbc93319f.1920x1080.jpg?t=1592621915
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1145510/ss_f39b70fde4f474ab99a5dfc54e9640dcbc93319f.600x338.jpg?t=1592621915
+    short_description: Warfork Testing - If you're interested in what we're experimenting
+      with then you're in the right place.
+    steam_appid: 1145510
+    support_info:
+      email: mail@forbidden.gg
+      url: forbidden.gg
+    supported_languages: English<strong>*</strong><br><strong>*</strong>languages
+      with full audio support
+    type: dlc
+    website: null
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

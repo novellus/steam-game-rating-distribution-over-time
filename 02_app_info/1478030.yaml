@@ -20,7 +20,22 @@ details:
       or the rapid firing MAC-10.<br><br>The game contains 20 levels with a gradually
       increasing difficulty and an infinite game mode.<h2 class="bb_tag">Welcome,
       to the Mambo Wave!</h2>
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1478030/page_bg_generated_v6b.jpg?t=1609745639
+    achievements:
+      highlighted:
+      - name: First 5 Levels Completed!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1478030/4b1012fd5899ed3b2b68dfe137a5b5a81bfb8b76.jpg
+      - name: First 10 Levels Completed!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1478030/0bf8246d58231d8b3cd9989ca6bd49231f4a69bd.jpg
+      - name: First 15 Levels Completed!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1478030/d198e07217fa7f31a13a2bd6d1ac39651190508e.jpg
+      - name: First 20 Levels Completed!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1478030/06534c9a27157d9a9ef55aed7a0aec82ee4afc54.jpg
+      - name: This will never end!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1478030/01ff377612c52e98e53b559e208ca5ee421607a0.jpg
+      - name: Welcome to the Mambo Wave
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1478030/dad1450b34f66397bfbc3ed09ded77b60b69726f.jpg
+      total: 6
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1478030/page_bg_generated_v6b.jpg?t=1610136965
     categories:
     - description: Single-player
       id: 2
@@ -51,6 +66,8 @@ details:
       to the Mambo Wave!</h2>
     developers:
     - Game Breaker Studios
+    dlc:
+    - 1514630
     genres:
     - description: Action
       id: '1'
@@ -60,7 +77,7 @@ details:
       id: '4'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1478030/header.jpg?t=1609745639
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1478030/header.jpg?t=1610136965
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -76,7 +93,26 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256816949/movie480_vp9.webm?t=1609503585
         max: http://steamcdn-a.akamaihd.net/steam/apps/256816949/movie_max_vp9.webm?t=1609503585
     name: Mambo Wave
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Mambo Wave - <span class="discount_original_price">$1.99</span>
+          $1.39
+        packageid: 520477
+        percent_savings: 0
+        percent_savings_text: '-30% '
+        price_in_cents_with_discount: 139
+      title: Buy Mambo Wave
+    packages:
+    - 520477
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 7/8/10<br></li><li><strong>Processor:</strong> Intel pentium g5420
@@ -94,46 +130,53 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 30
+      final: 139
+      final_formatted: $1.39
+      initial: 199
+      initial_formatted: $1.99
     publishers:
     - HaDe Games
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 8, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_8720dad2239e70bca6fd36f16f81a9a5d0c9d8e0.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_8720dad2239e70bca6fd36f16f81a9a5d0c9d8e0.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_8720dad2239e70bca6fd36f16f81a9a5d0c9d8e0.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_8720dad2239e70bca6fd36f16f81a9a5d0c9d8e0.600x338.jpg?t=1610136965
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_931b5cd526a0cf8170e62e19becd81c4c13affa6.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_931b5cd526a0cf8170e62e19becd81c4c13affa6.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_931b5cd526a0cf8170e62e19becd81c4c13affa6.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_931b5cd526a0cf8170e62e19becd81c4c13affa6.600x338.jpg?t=1610136965
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_851d76470554334d9f4838350d0a10ab9523652d.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_851d76470554334d9f4838350d0a10ab9523652d.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_851d76470554334d9f4838350d0a10ab9523652d.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_851d76470554334d9f4838350d0a10ab9523652d.600x338.jpg?t=1610136965
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_814b89fc7a72169803449170823d1e25af0b3360.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_814b89fc7a72169803449170823d1e25af0b3360.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_814b89fc7a72169803449170823d1e25af0b3360.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_814b89fc7a72169803449170823d1e25af0b3360.600x338.jpg?t=1610136965
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_c6694c5f7165b0ef4fd8aab73ccb326d25ee7371.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_c6694c5f7165b0ef4fd8aab73ccb326d25ee7371.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_c6694c5f7165b0ef4fd8aab73ccb326d25ee7371.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_c6694c5f7165b0ef4fd8aab73ccb326d25ee7371.600x338.jpg?t=1610136965
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_7f27881a6954c30abb5e548dc5c2db08eec16057.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_7f27881a6954c30abb5e548dc5c2db08eec16057.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_7f27881a6954c30abb5e548dc5c2db08eec16057.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_7f27881a6954c30abb5e548dc5c2db08eec16057.600x338.jpg?t=1610136965
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_cae8a703630c611996bcdedcb2dde36f85f22837.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_cae8a703630c611996bcdedcb2dde36f85f22837.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_cae8a703630c611996bcdedcb2dde36f85f22837.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_cae8a703630c611996bcdedcb2dde36f85f22837.600x338.jpg?t=1610136965
     - id: 7
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_72aab8bc9c14e890901007fa47e676a4161b7b8f.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_72aab8bc9c14e890901007fa47e676a4161b7b8f.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_72aab8bc9c14e890901007fa47e676a4161b7b8f.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_72aab8bc9c14e890901007fa47e676a4161b7b8f.600x338.jpg?t=1610136965
     - id: 8
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_ba948720b5b15030f920bbc6082a6514365dc8ef.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_ba948720b5b15030f920bbc6082a6514365dc8ef.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_ba948720b5b15030f920bbc6082a6514365dc8ef.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_ba948720b5b15030f920bbc6082a6514365dc8ef.600x338.jpg?t=1610136965
     - id: 9
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_481b98e2daffd68cff8eacabd0ceac3702cdbbc7.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_481b98e2daffd68cff8eacabd0ceac3702cdbbc7.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_481b98e2daffd68cff8eacabd0ceac3702cdbbc7.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_481b98e2daffd68cff8eacabd0ceac3702cdbbc7.600x338.jpg?t=1610136965
     - id: 10
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_9925a375cc6035736ac2105fbb4d9cf9290cc227.1920x1080.jpg?t=1609745639
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_9925a375cc6035736ac2105fbb4d9cf9290cc227.600x338.jpg?t=1609745639
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_9925a375cc6035736ac2105fbb4d9cf9290cc227.1920x1080.jpg?t=1610136965
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1478030/ss_9925a375cc6035736ac2105fbb4d9cf9290cc227.600x338.jpg?t=1610136965
     short_description: "Mambo Wave \u2014 a 2D Platform Shooter which takes place\
       \ somewhere in Spain in the 90's. Your mission is simple: to advance behind\
       \ enemy lines, destroying them all with the help of a cool and varied arsenal."
@@ -147,13 +190,37 @@ details:
     website: null
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJ4q6v88/YCfMjrwQI=
   query_summary:
-    num_reviews: 0
-    review_score: 0
-    review_score_desc: No user reviews
+    num_reviews: 1
+    review_score: 7
+    review_score_desc: Positive
     total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    total_positive: 13
+    total_reviews: 13
+  reviews:
+  - author:
+      last_played: 1610209015
+      num_games_owned: 51
+      num_reviews: 45
+      playtime_at_review: 22
+      playtime_forever: 22
+      playtime_last_two_weeks: 22
+      steamid: '76561198244964232'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84368524'
+    review: Cool little 2d platformer. I like nice retro style graphics. Also there
+      are several levels which are enough challenging to beat. Also there is achievements
+      which make game more enjoyable. And of course the price is good for retro game.
+      Would recommend
+    steam_purchase: true
+    timestamp_created: 1610209123
+    timestamp_updated: 1610209123
+    voted_up: true
+    votes_funny: 0
+    votes_up: 1
+    weighted_vote_score: '0.523809552192687988'
+    written_during_early_access: false
   success: 1

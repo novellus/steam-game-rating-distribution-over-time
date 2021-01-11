@@ -15,7 +15,30 @@ details:
       you wish to have any hope of staying alive!<br>Descend through 8 different temples,
       fighting Guardians, and collecting their golden idols to open the way to Mictlantecuhtli''s
       deepest lair to save your Mother!'
-    background: https://steamcdn-a.akamaihd.net/steam/apps/1438430/page_bg_generated_v6b.jpg?t=1608148877
+    achievements:
+      highlighted:
+      - name: Take up the bat!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/24967d73cb396c74a6aaa21dc5f71b4c28850c8b.jpg
+      - name: Ace Pitcher
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/73731a186e19eb8ac4c2b45087f510d1edf9d641.jpg
+      - name: Assassin
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/424570611a0fba436071284d85839b7a49b7149a.jpg
+      - name: You're an Ace Pitcher...?
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/8dfc203833981d47da827e7c4fa1fbfa23c8cb75.jpg
+      - name: Wanton Destruction
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/4383e65df21d698410227cf28a1e6375d534c489.jpg
+      - name: Arachnophobia
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/ed50cbb73c3a4511211a080548a2c5bb7d3596a0.jpg
+      - name: Handyman
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/72675af74f3c262fe18b9b38a42062a319b6a97c.jpg
+      - name: Tortoise Power!
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/ecb375d3a15007bb012eafe35350096bca3890fd.jpg
+      - name: Fire Fighter
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/0f0c3c84b073acba071541af3a8b2719f87a473c.jpg
+      - name: Wind at your back
+        path: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1438430/04233e02f8d0a58456c3c00e4d55246d0ae9d345.jpg
+      total: 24
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1438430/page_bg_generated_v6b.jpg?t=1609909215
     categories:
     - description: Single-player
       id: 2
@@ -49,7 +72,7 @@ details:
       id: '25'
     - description: Indie
       id: '23'
-    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1438430/header.jpg?t=1608148877
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1438430/header.jpg?t=1609909215
     is_free: false
     linux_requirements: []
     mac_requirements: []
@@ -75,7 +98,25 @@ details:
         '480': http://steamcdn-a.akamaihd.net/steam/apps/256808171/movie480_vp9.webm?t=1604954296
         max: http://steamcdn-a.akamaihd.net/steam/apps/256808171/movie_max_vp9.webm?t=1604954296
     name: 'Ralf''s Adventure: Aztec Mystery'
-    package_groups: []
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: 'Ralf''s Adventure: Aztec Mystery - $14.99'
+        packageid: 505738
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 1499
+      title: 'Buy Ralf''s Adventure: Aztec Mystery'
+    packages:
+    - 505738
     pc_requirements:
       minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
         Windows 8, 10<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong>
@@ -89,34 +130,41 @@ details:
       linux: false
       mac: false
       windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 1499
+      final_formatted: $14.99
+      initial: 1499
+      initial_formatted: ''
     publishers:
     - Crimson Rays
     release_date:
-      coming_soon: true
+      coming_soon: false
       date: Jan 5, 2021
     required_age: 0
     screenshots:
     - id: 0
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_d405f98b04fe4ecc05c7dd4abc06466c54596278.1920x1080.jpg?t=1608148877
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_d405f98b04fe4ecc05c7dd4abc06466c54596278.600x338.jpg?t=1608148877
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_d405f98b04fe4ecc05c7dd4abc06466c54596278.1920x1080.jpg?t=1609909215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_d405f98b04fe4ecc05c7dd4abc06466c54596278.600x338.jpg?t=1609909215
     - id: 1
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_dc81f751c104079a679a6f33db49a094d9e41108.1920x1080.jpg?t=1608148877
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_dc81f751c104079a679a6f33db49a094d9e41108.600x338.jpg?t=1608148877
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_dc81f751c104079a679a6f33db49a094d9e41108.1920x1080.jpg?t=1609909215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_dc81f751c104079a679a6f33db49a094d9e41108.600x338.jpg?t=1609909215
     - id: 2
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_196b82ab13f1a29452641b1cb3dfb3bd448fc111.1920x1080.jpg?t=1608148877
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_196b82ab13f1a29452641b1cb3dfb3bd448fc111.600x338.jpg?t=1608148877
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_196b82ab13f1a29452641b1cb3dfb3bd448fc111.1920x1080.jpg?t=1609909215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_196b82ab13f1a29452641b1cb3dfb3bd448fc111.600x338.jpg?t=1609909215
     - id: 3
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_2fb84432bf783ced105650bb4895634e24805448.1920x1080.jpg?t=1608148877
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_2fb84432bf783ced105650bb4895634e24805448.600x338.jpg?t=1608148877
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_2fb84432bf783ced105650bb4895634e24805448.1920x1080.jpg?t=1609909215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_2fb84432bf783ced105650bb4895634e24805448.600x338.jpg?t=1609909215
     - id: 4
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_1a02ca3187495fbb11b26127aef1419e43e006c9.1920x1080.jpg?t=1608148877
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_1a02ca3187495fbb11b26127aef1419e43e006c9.600x338.jpg?t=1608148877
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_1a02ca3187495fbb11b26127aef1419e43e006c9.1920x1080.jpg?t=1609909215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_1a02ca3187495fbb11b26127aef1419e43e006c9.600x338.jpg?t=1609909215
     - id: 5
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_bba6afdd4c86955229b980e3e0d2eebabca447c6.1920x1080.jpg?t=1608148877
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_bba6afdd4c86955229b980e3e0d2eebabca447c6.600x338.jpg?t=1608148877
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_bba6afdd4c86955229b980e3e0d2eebabca447c6.1920x1080.jpg?t=1609909215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_bba6afdd4c86955229b980e3e0d2eebabca447c6.600x338.jpg?t=1609909215
     - id: 6
-      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_9f1bfb0c9ab2e52c1a5a561634409728bfa23c1b.1920x1080.jpg?t=1608148877
-      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_9f1bfb0c9ab2e52c1a5a561634409728bfa23c1b.600x338.jpg?t=1608148877
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_9f1bfb0c9ab2e52c1a5a561634409728bfa23c1b.1920x1080.jpg?t=1609909215
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1438430/ss_9f1bfb0c9ab2e52c1a5a561634409728bfa23c1b.600x338.jpg?t=1609909215
     short_description: 'Take up the Bat! Ralf''s Adventure: Aztec Mystery is a top-down
       action-adventure game with puzzles and platforming. This game is inspired by
       home console games from the ''80s and ''90s, but uses modern design sensibilities.'
@@ -129,13 +177,36 @@ details:
     website: https://www.crimsonrays.com/ralfs-adventure-aztec-mystery
   success: true
 reviews:
-  cursor: '*'
+  cursor: AoJw8Z7a7fYCccqZwQI=
   query_summary:
-    num_reviews: 0
+    num_reviews: 1
     review_score: 0
-    review_score_desc: No user reviews
-    total_negative: 0
-    total_positive: 0
-    total_reviews: 0
-  reviews: []
+    review_score_desc: 2 user reviews
+    total_negative: 1
+    total_positive: 1
+    total_reviews: 2
+  reviews:
+  - author:
+      last_played: 1609998415
+      num_games_owned: 325
+      num_reviews: 1
+      playtime_at_review: 173
+      playtime_forever: 173
+      playtime_last_two_weeks: 173
+      steamid: '76561198036336528'
+    comment_count: 0
+    language: english
+    received_for_free: false
+    recommendationid: '84200609'
+    review: Game scratched an itch I didn't know I had. Like Star Tropics 2 and original
+      Zelda had a love child. Only complaint would be how short it is to complete.
+      Would have loved for there to be more.
+    steam_purchase: true
+    timestamp_created: 1609998858
+    timestamp_updated: 1609998858
+    voted_up: true
+    votes_funny: 0
+    votes_up: 0
+    weighted_vote_score: 0
+    written_during_early_access: false
   success: 1

@@ -1,0 +1,260 @@
+details:
+  data:
+    about_the_game: "Basic Power Management provides easy access to basic power and\
+      \ session management features.  It also includes some slightly more advanced\
+      \ features such as turning off your monitors or putting your computer to sleep\
+      \ or hibernate while ignoring many common wake triggers.<br>This product is\
+      \ available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Enable Balanced Power Mode (\u26A1=), Enable\
+      \ Maximum Performance (\u26A1+), Enable Maximum Power Savings (\u26A1-), Open\
+      \ Operating System Energy Menu (\u26A1\u2756), Lock (\U0001F5A5\U0001F512),\
+      \ Log Out (\U0001F44B), Restart (\U0001F50C\u21BB), Shut Down (\U0001F50C\u274C\
+      ), Hibernate (\U0001F43B\U0001F4A4), Super Hibernate (\U0001F43B\U0001F4A4!),\
+      \ Sleep (\U0001F4A4), Super Sleep (\U0001F4A4!), Display Off (\U0001F5B5\U0001F50C\
+      )<h2 class=\"bb_tag\">Enable Balanced Power Mode (\u26A1=)</h2>Enables average\
+      \ system performance and average power usage.<br><br>Settings:<ul class=\"bb_ul\"\
+      ><li>Energy Balanced (Default: False)<br>If enabled, sets your computer's energy\
+      \ setting to the default setting for balanced energy savings.  Usually this\
+      \ setting will allow the processor to slow down and save energy during low load,\
+      \ but also reach max speed during high load.  This power setting will likely\
+      \ have other side effects, such as changing sleep settings and monitor timeout\
+      \ settings, which you can check out in the operating system's energy menu.<br></li><li>Lock\
+      \ Energy Setting (Default: False)<br>On my computer and possibly yours also,\
+      \ some program or operating system service keeps switching my energy settings\
+      \ against my wishes.  This setting will switch it back automatically.</li></ul><h2\
+      \ class=\"bb_tag\">Enable Maximum Performance (\u26A1+)</h2>Enables maximum\
+      \ system performance and increased power usage.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Energy Performance (Default: False)<br>If enabled, sets your computer's\
+      \ energy setting to the default setting for maximum performance.  Usually this\
+      \ setting will suggest that the processor run at 100% speed all of the time.\
+      \  In my experience, it will still use reduced energy under reduced loads, but\
+      \ is very aggressive at anticipating load to avoid noticeable speed reductions.\
+      \  This power setting will likely have other side effects, such as changing\
+      \ sleep settings and monitor timeout settings, which you can check out in the\
+      \ operating system's energy menu.<br></li><li>Lock Energy Setting (Default:\
+      \ False)<br>On my computer and possibly yours also, some program or operating\
+      \ system service keeps switching my energy settings against my wishes.  This\
+      \ setting will switch it back automatically.</li></ul><h2 class=\"bb_tag\">Enable\
+      \ Maximum Power Savings (\u26A1-)</h2>Enables reduced system performance and\
+      \ reduced power usage.<br><br>Settings:<ul class=\"bb_ul\"><li>Energy Max Savings\
+      \ (Default: False)<br>If enabled, sets your computer's energy setting to the\
+      \ default setting for maximum energy savings.  Usually this setting will limit\
+      \ the maximum speed of the processor, so your computer should feel slower while\
+      \ this is enabled.  On the upside, it can increase battery life, reduce energy\
+      \ costs, and put less stress on the processor.  Also, some computers have inadequate\
+      \ cooling solutions for their processors, which may result in thermal throttling.\
+      \  Preemptively slowing down the processor can avoid this and actually feel\
+      \ smoother.  This power setting will likely have other side effects, such as\
+      \ changing sleep settings and monitor timeout settings, which you can check\
+      \ out in the operating system's energy menu.<br></li><li>Lock Energy Setting\
+      \ (Default: False)<br>On my computer and possibly yours also, some program or\
+      \ operating system service keeps switching my energy settings against my wishes.\
+      \  This setting will switch it back automatically.</li></ul><h2 class=\"bb_tag\"\
+      >Open Operating System Energy Menu (\u26A1\u2756)</h2>Opens the operating system's\
+      \ energy menu.<h2 class=\"bb_tag\">Lock (\U0001F5A5\U0001F512)</h2>Takes computer\
+      \ to lock screen.<h2 class=\"bb_tag\">Log Out (\U0001F44B)</h2>Initiates log\
+      \ out sequence.<h2 class=\"bb_tag\">Restart (\U0001F50C\u21BB)</h2>Initiates\
+      \ system restart while indicating that open applications should reopen afterwards.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Attempt to Restart Apps (Default: False)<br>The operating\
+      \ system has rudimentary support for restarting apps during a reboot.  If enabled,\
+      \ restarting through the tool will use this method.</li></ul><h2 class=\"bb_tag\"\
+      >Shut Down (\U0001F50C\u274C)</h2>Initiates system shut down.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Hybrid Shut Down (Default: True)<br>If enabled when using\
+      \ the tool to shut down your system, the system will do extra work to speed\
+      \ up the next system start time.  If disabled, the shutdown speed may be improved\
+      \ and the next start up may be slower.</li></ul><h2 class=\"bb_tag\">Hibernate\
+      \ (\U0001F43B\U0001F4A4)</h2>Puts computer into hibernate state.<h2 class=\"\
+      bb_tag\">Super Hibernate (\U0001F43B\U0001F4A4!)</h2>Puts computer into hibernate\
+      \ state and prevents waking up from most events.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Super Hibernate Modify All Power Schemes (Default: True)<br>If enabled,\
+      \ Super Hibernate will overwrite the wake timers setting in every power scheme\
+      \ to disable all wake timers just before activating and then reenable them after.</li></ul><h2\
+      \ class=\"bb_tag\">Sleep (\U0001F4A4)</h2>Puts computer into suspend state.<h2\
+      \ class=\"bb_tag\">Super Sleep (\U0001F4A4!)</h2>Puts computer into suspend\
+      \ state and prevents waking up from most events.<br><ul class=\"bb_ul\"><li>After\
+      \ being woken up in the middle of the night many times by the hum of my computer's\
+      \ fans, this feature became a must have.  Unfortunately, it can still wake up\
+      \ from some things anyways.</li></ul>Settings:<ul class=\"bb_ul\"><li>Super\
+      \ Sleep Modify All Power Schemes (Default: True)<br>If enabled, Super Sleep\
+      \ will overwrite the wake timers setting in every power scheme to disable all\
+      \ wake timers just before activating and then reenable them after.</li></ul><h2\
+      \ class=\"bb_tag\">Display Off (\U0001F5B5\U0001F50C)</h2>Turns off your monitors.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Screen Off Delay Milliseconds (Default: 750)<br>Keyboard\
+      \ presses and mouse movements can cause the screen to turn back on.  This delay\
+      \ allows you to trigger the Screen Off function and then clear your hands before\
+      \ the monitors will go off.</li></ul>"
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1291037/page_bg_generated_v6b.jpg?t=1606275587
+    categories:
+    - description: Downloadable Content
+      id: 21
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: "Basic Power Management provides easy access to basic power\
+      \ and session management features.  It also includes some slightly more advanced\
+      \ features such as turning off your monitors or putting your computer to sleep\
+      \ or hibernate while ignoring many common wake triggers.<br>This product is\
+      \ available natively in English, but it has automated translations for most\
+      \ major languages.<br>Contents: Enable Balanced Power Mode (\u26A1=), Enable\
+      \ Maximum Performance (\u26A1+), Enable Maximum Power Savings (\u26A1-), Open\
+      \ Operating System Energy Menu (\u26A1\u2756), Lock (\U0001F5A5\U0001F512),\
+      \ Log Out (\U0001F44B), Restart (\U0001F50C\u21BB), Shut Down (\U0001F50C\u274C\
+      ), Hibernate (\U0001F43B\U0001F4A4), Super Hibernate (\U0001F43B\U0001F4A4!),\
+      \ Sleep (\U0001F4A4), Super Sleep (\U0001F4A4!), Display Off (\U0001F5B5\U0001F50C\
+      )<h2 class=\"bb_tag\">Enable Balanced Power Mode (\u26A1=)</h2>Enables average\
+      \ system performance and average power usage.<br><br>Settings:<ul class=\"bb_ul\"\
+      ><li>Energy Balanced (Default: False)<br>If enabled, sets your computer's energy\
+      \ setting to the default setting for balanced energy savings.  Usually this\
+      \ setting will allow the processor to slow down and save energy during low load,\
+      \ but also reach max speed during high load.  This power setting will likely\
+      \ have other side effects, such as changing sleep settings and monitor timeout\
+      \ settings, which you can check out in the operating system's energy menu.<br></li><li>Lock\
+      \ Energy Setting (Default: False)<br>On my computer and possibly yours also,\
+      \ some program or operating system service keeps switching my energy settings\
+      \ against my wishes.  This setting will switch it back automatically.</li></ul><h2\
+      \ class=\"bb_tag\">Enable Maximum Performance (\u26A1+)</h2>Enables maximum\
+      \ system performance and increased power usage.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Energy Performance (Default: False)<br>If enabled, sets your computer's\
+      \ energy setting to the default setting for maximum performance.  Usually this\
+      \ setting will suggest that the processor run at 100% speed all of the time.\
+      \  In my experience, it will still use reduced energy under reduced loads, but\
+      \ is very aggressive at anticipating load to avoid noticeable speed reductions.\
+      \  This power setting will likely have other side effects, such as changing\
+      \ sleep settings and monitor timeout settings, which you can check out in the\
+      \ operating system's energy menu.<br></li><li>Lock Energy Setting (Default:\
+      \ False)<br>On my computer and possibly yours also, some program or operating\
+      \ system service keeps switching my energy settings against my wishes.  This\
+      \ setting will switch it back automatically.</li></ul><h2 class=\"bb_tag\">Enable\
+      \ Maximum Power Savings (\u26A1-)</h2>Enables reduced system performance and\
+      \ reduced power usage.<br><br>Settings:<ul class=\"bb_ul\"><li>Energy Max Savings\
+      \ (Default: False)<br>If enabled, sets your computer's energy setting to the\
+      \ default setting for maximum energy savings.  Usually this setting will limit\
+      \ the maximum speed of the processor, so your computer should feel slower while\
+      \ this is enabled.  On the upside, it can increase battery life, reduce energy\
+      \ costs, and put less stress on the processor.  Also, some computers have inadequate\
+      \ cooling solutions for their processors, which may result in thermal throttling.\
+      \  Preemptively slowing down the processor can avoid this and actually feel\
+      \ smoother.  This power setting will likely have other side effects, such as\
+      \ changing sleep settings and monitor timeout settings, which you can check\
+      \ out in the operating system's energy menu.<br></li><li>Lock Energy Setting\
+      \ (Default: False)<br>On my computer and possibly yours also, some program or\
+      \ operating system service keeps switching my energy settings against my wishes.\
+      \  This setting will switch it back automatically.</li></ul><h2 class=\"bb_tag\"\
+      >Open Operating System Energy Menu (\u26A1\u2756)</h2>Opens the operating system's\
+      \ energy menu.<h2 class=\"bb_tag\">Lock (\U0001F5A5\U0001F512)</h2>Takes computer\
+      \ to lock screen.<h2 class=\"bb_tag\">Log Out (\U0001F44B)</h2>Initiates log\
+      \ out sequence.<h2 class=\"bb_tag\">Restart (\U0001F50C\u21BB)</h2>Initiates\
+      \ system restart while indicating that open applications should reopen afterwards.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Attempt to Restart Apps (Default: False)<br>The operating\
+      \ system has rudimentary support for restarting apps during a reboot.  If enabled,\
+      \ restarting through the tool will use this method.</li></ul><h2 class=\"bb_tag\"\
+      >Shut Down (\U0001F50C\u274C)</h2>Initiates system shut down.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Hybrid Shut Down (Default: True)<br>If enabled when using\
+      \ the tool to shut down your system, the system will do extra work to speed\
+      \ up the next system start time.  If disabled, the shutdown speed may be improved\
+      \ and the next start up may be slower.</li></ul><h2 class=\"bb_tag\">Hibernate\
+      \ (\U0001F43B\U0001F4A4)</h2>Puts computer into hibernate state.<h2 class=\"\
+      bb_tag\">Super Hibernate (\U0001F43B\U0001F4A4!)</h2>Puts computer into hibernate\
+      \ state and prevents waking up from most events.<br><br>Settings:<ul class=\"\
+      bb_ul\"><li>Super Hibernate Modify All Power Schemes (Default: True)<br>If enabled,\
+      \ Super Hibernate will overwrite the wake timers setting in every power scheme\
+      \ to disable all wake timers just before activating and then reenable them after.</li></ul><h2\
+      \ class=\"bb_tag\">Sleep (\U0001F4A4)</h2>Puts computer into suspend state.<h2\
+      \ class=\"bb_tag\">Super Sleep (\U0001F4A4!)</h2>Puts computer into suspend\
+      \ state and prevents waking up from most events.<br><ul class=\"bb_ul\"><li>After\
+      \ being woken up in the middle of the night many times by the hum of my computer's\
+      \ fans, this feature became a must have.  Unfortunately, it can still wake up\
+      \ from some things anyways.</li></ul>Settings:<ul class=\"bb_ul\"><li>Super\
+      \ Sleep Modify All Power Schemes (Default: True)<br>If enabled, Super Sleep\
+      \ will overwrite the wake timers setting in every power scheme to disable all\
+      \ wake timers just before activating and then reenable them after.</li></ul><h2\
+      \ class=\"bb_tag\">Display Off (\U0001F5B5\U0001F50C)</h2>Turns off your monitors.<br><br>Settings:<ul\
+      \ class=\"bb_ul\"><li>Screen Off Delay Milliseconds (Default: 750)<br>Keyboard\
+      \ presses and mouse movements can cause the screen to turn back on.  This delay\
+      \ allows you to trigger the Screen Off function and then clear your hands before\
+      \ the monitors will go off.</li></ul>"
+    developers:
+    - Simplode LLC
+    fullgame:
+      appid: '1242710'
+      name: Simplode Suite
+    genres:
+    - description: Casual
+      id: '4'
+    - description: Utilities
+      id: '57'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1291037/header.jpg?t=1606275587
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Simplode Suite - Basic Power Management
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Simplode Suite - Basic Power Management - $0.99
+        packageid: 450347
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 99
+      title: Buy Simplode Suite - Basic Power Management
+    packages:
+    - 450347
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows 10</li></ul>
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 99
+      final_formatted: $0.99
+      initial: 99
+      initial_formatted: ''
+    publishers:
+    - Simplode LLC
+    release_date:
+      coming_soon: false
+      date: Sep 17, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1291037/ss_59e8fb6a2dac3dd1f001e79f914fb3de869308fd.1920x1080.jpg?t=1606275587
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1291037/ss_59e8fb6a2dac3dd1f001e79f914fb3de869308fd.600x338.jpg?t=1606275587
+    short_description: Basic Power Management provides easy access to basic power
+      and session management features. It also includes some slightly more advanced
+      features such as turning off your monitors or putting your computer to sleep
+      or hibernate while ignoring many common wake triggers.
+    steam_appid: 1291037
+    support_info:
+      email: ''
+      url: https://simplode.com/contact
+    supported_languages: English, French, Italian, German, Spanish - Spain, Arabic,
+      Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean,
+      Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified
+      Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish,
+      Ukrainian, Vietnamese
+    type: dlc
+    website: https://simplode.com/package-basic-power-management
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

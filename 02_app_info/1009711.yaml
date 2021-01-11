@@ -1,0 +1,123 @@
+details:
+  data:
+    about_the_game: "The Aesthetics of Arcade Spirits is a 54 page art book containing\
+      \ early character sketches, full-color high quality art, background information\
+      \ and notes on the game's development. It includes pre-production and production\
+      \ art of characters, backgrounds, game pixels, and more.<br />\r\n<br />\r\n\
+      Art by Molly Nemecek, Taylor Rose, and Justin Baldwin."
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1009711/page_bg_generated_v6b.jpg?t=1549993646
+    categories:
+    - description: Single-player
+      id: 2
+    - description: Downloadable Content
+      id: 21
+    - description: Full controller support
+      id: 28
+    content_descriptors:
+      ids: []
+      notes: null
+    controller_support: full
+    detailed_description: "The Aesthetics of Arcade Spirits is a 54 page art book\
+      \ containing early character sketches, full-color high quality art, background\
+      \ information and notes on the game's development. It includes pre-production\
+      \ and production art of characters, backgrounds, game pixels, and more.<br />\r\
+      \n<br />\r\nArt by Molly Nemecek, Taylor Rose, and Justin Baldwin."
+    developers:
+    - Fiction Factory Games
+    fullgame:
+      appid: '910630'
+      name: Arcade Spirits
+    genres:
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1009711/header.jpg?t=1549993646
+    is_free: false
+    legal_notice: "\xA9Fiction Factory Games. Published by PQube Ltd. All rights reserved."
+    linux_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>
+        1 GHz Intel or AMD Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+    mac_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.6 or later<br></li><li><strong>Processor:</strong> 1 GhzCore 2
+        Duo<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong>
+        DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 100
+        MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Mac OS X 10.7 or later</li></ul>
+    name: Arcade Spirits - Artbook
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Arcade Spirits - Artbook - $2.99
+        packageid: 334107
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 299
+      title: Buy Arcade Spirits - Artbook
+    packages:
+    - 334107
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows XP<br></li><li><strong>Processor:</strong> 1 GHz Intel or AMD Processor<br></li><li><strong>Memory:</strong>
+        1 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible
+        card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong>
+        100 MB available space</li></ul>
+      recommended: <strong>Recommended:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>
+        Windows Vista or above</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 299
+      final_formatted: $2.99
+      initial: 299
+      initial_formatted: ''
+    publishers:
+    - PQube Limited
+    release_date:
+      coming_soon: false
+      date: Feb 12, 2019
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1009711/ss_b52c7fc8ad97a9b7d7b3a10b161324c81d21438d.1920x1080.jpg?t=1549993646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1009711/ss_b52c7fc8ad97a9b7d7b3a10b161324c81d21438d.600x338.jpg?t=1549993646
+    - id: 1
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1009711/ss_23efca2dda0ff1af28dc9c0281fddd7d44e75055.1920x1080.jpg?t=1549993646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1009711/ss_23efca2dda0ff1af28dc9c0281fddd7d44e75055.600x338.jpg?t=1549993646
+    - id: 2
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1009711/ss_434e22fe67a3e459c0cabd57044a19c076a7667a.1920x1080.jpg?t=1549993646
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1009711/ss_434e22fe67a3e459c0cabd57044a19c076a7667a.600x338.jpg?t=1549993646
+    short_description: An art book packed with character and background art, game
+      pixels, and more.
+    steam_appid: 1009711
+    support_info:
+      email: support@pqube.co.uk
+      url: ''
+    supported_languages: English
+    type: dlc
+    website: http://www.arcadespirits.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

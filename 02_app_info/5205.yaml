@@ -1,0 +1,58 @@
+details:
+  data:
+    about_the_game: ''
+    background: ''
+    categories:
+    - description: Single-player
+      id: 2
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: ''
+    developers:
+    - ACE Team
+    fullgame:
+      appid: '22200'
+      name: Zeno Clash
+    genres:
+    - description: Action
+      id: '1'
+    - description: Indie
+      id: '23'
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/22200/header.jpg?t=1571946484
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    name: Zeno Clash Video
+    package_groups: []
+    pc_requirements: []
+    platforms:
+      linux: false
+      mac: false
+      windows: true
+    publishers:
+    - ACE Team
+    release_date:
+      coming_soon: false
+      date: Mar 19, 2009
+    required_age: 0
+    short_description: ''
+    steam_appid: 5205
+    support_info:
+      email: ''
+      url: ''
+    supported_languages: English, Spanish - Spain
+    type: movie
+    website: http://www.zenoclash.com
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1

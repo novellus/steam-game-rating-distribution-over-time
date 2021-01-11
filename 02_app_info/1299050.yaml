@@ -1,0 +1,98 @@
+details:
+  data:
+    about_the_game: This series is the original soundtrack of the original Blink Cam
+    background: https://steamcdn-a.akamaihd.net/steam/apps/1299050/page_bg_generated_v6b.jpg?t=1588495092
+    categories:
+    - description: Additional High-Quality Audio
+      id: 50
+    content_descriptors:
+      ids: []
+      notes: null
+    detailed_description: This series is the original soundtrack of the original Blink
+      Cam
+    developers:
+    - ZLM Crafter
+    - Gelander Zeck
+    fullgame:
+      appid: '1204360'
+      name: Blink Cam
+    header_image: https://steamcdn-a.akamaihd.net/steam/apps/1299050/header.jpg?t=1588495092
+    is_free: false
+    linux_requirements: []
+    mac_requirements: []
+    movies:
+    - highlight: true
+      id: 256782432
+      mp4:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256782432/movie480.mp4?t=1587682931
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256782432/movie_max.mp4?t=1587682931
+      name: Effervescence
+      thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/256782432/movie.293x165.jpg?t=1587682931
+      webm:
+        '480': http://steamcdn-a.akamaihd.net/steam/apps/256782432/movie480_vp9.webm?t=1587682931
+        max: http://steamcdn-a.akamaihd.net/steam/apps/256782432/movie_max_vp9.webm?t=1587682931
+    name: Blink Cam OST
+    package_groups:
+    - description: ''
+      display_type: 0
+      is_recurring_subscription: 'false'
+      name: default
+      save_text: ''
+      selection_text: Select a purchase option
+      subs:
+      - can_get_free_license: '0'
+        is_free_license: false
+        option_description: ''
+        option_text: Blink Soundtrack - $1.99
+        packageid: 453148
+        percent_savings: 0
+        percent_savings_text: ' '
+        price_in_cents_with_discount: 199
+      title: Buy Blink Cam OST
+    packages:
+    - 453148
+    pc_requirements:
+      minimum: <strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Storage:</strong>
+        16 MB available space<br></li><li><strong>Storage (high-quality audio):</strong>
+        Additional 170 MB available space</li></ul>
+    platforms:
+      linux: true
+      mac: true
+      windows: true
+    price_overview:
+      currency: USD
+      discount_percent: 0
+      final: 199
+      final_formatted: $1.99
+      initial: 199
+      initial_formatted: ''
+    publishers:
+    - Blink Cam Music
+    release_date:
+      coming_soon: false
+      date: May 3, 2020
+    required_age: 0
+    screenshots:
+    - id: 0
+      path_full: https://steamcdn-a.akamaihd.net/steam/apps/1299050/ss_cb4a8fc6e7bd672dd7c6626fa9f1e21627df0df6.1920x1080.jpg?t=1588495092
+      path_thumbnail: https://steamcdn-a.akamaihd.net/steam/apps/1299050/ss_cb4a8fc6e7bd672dd7c6626fa9f1e21627df0df6.600x338.jpg?t=1588495092
+    short_description: This series is the original soundtrack of the original Blink
+      Cam
+    steam_appid: 1299050
+    support_info:
+      email: official@zlmcrafter.net
+      url: ''
+    type: music
+    website: https://www.youtube.com/channel/UCmbgsEASGuey8bJ286rukeA
+  success: true
+reviews:
+  cursor: '*'
+  query_summary:
+    num_reviews: 0
+    review_score: 0
+    review_score_desc: No user reviews
+    total_negative: 0
+    total_positive: 0
+    total_reviews: 0
+  reviews: []
+  success: 1
