@@ -5,10 +5,12 @@ import plot_sliders
 import dateparser
 import math
 import matplotlib
+import numpy as np
 import os
 import scipy.stats
 from collections import defaultdict
 from matplotlib import pyplot as plt
+from sklearn.neighbors import KernelDensity
 
 
 def Wilson_score_confidence_interval_for_a_Bernoulli_parameter(p, n, confidence = 0.9999):
@@ -142,7 +144,7 @@ def wilson_score_density_plot(dates, ps, ns):
 
     # create interactive density sliders to specify bandwidth
     ax_x_bandwidth = fig.add_axes([0.055, 0.045, 0.87, 0.015])
-    slider_x_bandwidth = HorSlider(ax_x_bandwidth, 'Bandwidth,\nRelease Date', min_x_bandwidth, max_x_bandwidth, valinit=init_x_bandwidth, valfmt='%1.0f', dragging=False)
+    slider_x_bandwidth = plot_sliders.HorSlider(ax_x_bandwidth, 'Bandwidth,\nRelease Date', min_x_bandwidth, max_x_bandwidth, valinit=init_x_bandwidth, valfmt='%1.0f', dragging=False)
     slider_x_bandwidth.on_changed(update_plot)
     x_bandwidth_ticks = np.arange(min_x_bandwidth, max_x_bandwidth, 10)
     ax_x_bandwidth.set_xticks(x_bandwidth_ticks)
@@ -150,7 +152,7 @@ def wilson_score_density_plot(dates, ps, ns):
     ax_x_bandwidth.set_xlabel('Days')
 
     ax_y_bandwidth = fig.add_axes([0.025, 0.17, 0.015 / x_y_plot_size_ratio, 0.76])
-    slider_y_bandwidth = VertSlider(ax_y_bandwidth, 'Bandwidth,\nWilson Score', min_y_bandwidth, max_y_bandwidth, valinit=init_y_bandwidth, valfmt='%1.5f', dragging=False)
+    slider_y_bandwidth = plot_sliders.VertSlider(ax_y_bandwidth, 'Bandwidth,\nWilson Score', min_y_bandwidth, max_y_bandwidth, valinit=init_y_bandwidth, valfmt='%1.5f', dragging=False)
     slider_y_bandwidth.on_changed(update_plot)
     y_bandwidth_ticks = np.arange(min_y_bandwidth, max_y_bandwidth, 0.01)
     ax_y_bandwidth.set_yticks(y_bandwidth_ticks)
@@ -162,6 +164,8 @@ def wilson_score_density_plot(dates, ps, ns):
     # not a slider since values of interest are arranged non-linearly near 1, and also takes up less room in the plot window
     # ax_2 = plt.subplot(gs[2])
     # matplotlib.widgets.TextBox(ax_2, label_2, initial='inf')
+
+    update_plot()
 
 
 def load_data():
@@ -198,6 +202,10 @@ def load_data():
             data['date_strings'].append(app_data['details']['data']['release_date']['date'])
             data['positive_reviews'].append(app_data['reviews']['query_summary']['total_positive'])
             data['total_reviews'].append(app_data['reviews']['query_summary']['total_reviews'])
+
+            # dev, remove
+            if len(data['appids']) > 10**3:
+                return data
 
     return data
 
