@@ -5,12 +5,17 @@ import plot_sliders
 import dateparser
 import math
 import matplotlib
+import multiprocessing
 import numpy as np
 import os
 import scipy.stats
+import time
 from collections import defaultdict
 from matplotlib import pyplot as plt
 from sklearn.neighbors import KernelDensity
+
+
+persistent_references = []  # interactive matplotlib elements require persistent direct references to continue functioning
 
 
 def Wilson_score_confidence_interval_for_a_Bernoulli_parameter(p, n, confidence = 0.9999):
@@ -168,27 +173,172 @@ def wilson_score_density_plot(dates, ps, ns):
     update_plot()
 
 
-def load_data():
-    print('loading manifest')
+def wilson_score_density_plot2(dates, ps, ns):
+    # creates interactive density plot of wilson score vs date
+    print('creating wilson score density plot')
 
-    f = open('01_steam_manifest.yaml')
-    manifest = common.warningless_yaml_load(f.read())
-    f.close()
+    # init value for score confidence
+    init_confidence = 0.9999
 
-    print('iterating manifest')
+    # interactive slider configuration
+    init_score_bandwidth = 0.0141
+    min_score_bandwidth = 1*10**-10
+    max_score_bandwidth = 0.2
+    tick_period_score_bandwidth = 0.01
+    tick_format_score_bandwidth = '%1.2f'
+    fine_format_score_bandwidth = '%1.3f'
 
-    data_folder = '02_app_info'
+    init_date_bandwidth = 45
+    min_date_bandwidth = 1*10**-10
+    max_date_bandwidth = 200
+    tick_period_date_bandwidth = 10
+    tick_format_date_bandwidth = '%1.0f'
+    fine_format_date_bandwidth = '%1.0f'  # intentionally same
 
-    # load and collate data
+    # overall size and aspect ratioing
+    figure_padding = {'left': 0.03, 'right': 0.97, 'top': 0.95, 'bottom': 0.04}  # leave just enough room for labels
+    gridspec_padding = 0.08  # all sides
+    ratio_xy = 1.618
+    ratio_plots_to_configuration = 40  # does not include padding (at matplotlib default setting)
+    ratio_2d_to_1d_density = 8  # no padding within this gridspec
+    figure_init_width = 30
+    figure_init_size = [figure_init_width, figure_init_width / ratio_xy]
+
+    # density distribution discrete sampling paramaters
+    num_points_score = 1000
+    num_points_date = int(num_points_score * ratio_xy)
+    min_plot_score = 0.0
+    max_plot_score = 1.0
+    min_plot_date = min(dates)
+    max_plot_date = max(dates)
+
+    # main plot tick configuration
+    tick_format_date = '%b %y'
+    # tick_format_score = matplotlib default
+
+    title = 'Density of Wilson score for Steam app ratings over time'
+    fig = plt.figure(title, figsize = figure_init_size)
+    plt.suptitle(title)
+
+    # divvy up grid space
+    gs = matplotlib.gridspec.GridSpec(2, 3,
+                                      width_ratios=[1, ratio_plots_to_configuration, 1],
+                                      height_ratios=[ratio_plots_to_configuration / ratio_xy, 1],
+                                      hspace=gridspec_padding, wspace=gridspec_padding,
+                                      **figure_padding)
+
+    gs_score_bandwidth = gs[0]
+    gs_color_bar = gs[2]
+    gs_date_bandwidth = gs[4]
+    gs_confidence = gs[5]
+
+    gs_main_plots = gs[1].subgridspec(2, 2,
+                                      width_ratios=[1, ratio_2d_to_1d_density],
+                                      height_ratios=[ratio_2d_to_1d_density / ratio_xy, 1],
+                                      hspace=0.0, wspace=0.0)  # no space between these graphs, they will share axes. This drives the use of a subgridspec
+
+    gs_score_density = gs_main_plots[0]
+    gs_2d_density = gs_main_plots[1]
+    gs_date_density = gs_main_plots[3]
+
+    # interactive bandwidth selection sliders for score and date
+    # disable dragging, because computation is not fast enough to keep up
+    ax_score_bandwidth = plt.subplot(gs_score_bandwidth)
+    slider_score_bandwidth = plot_sliders.VertSlider(ax_score_bandwidth, 'Bandwidth,\nWilson Score\n\n', min_score_bandwidth, max_score_bandwidth, valinit=init_score_bandwidth, valfmt=fine_format_score_bandwidth, dragging=False)
+    ticks_score_bandwidth = np.arange(min_score_bandwidth, max_score_bandwidth, tick_period_score_bandwidth)
+    ax_score_bandwidth.set_yticks(ticks_score_bandwidth)
+    ax_score_bandwidth.set_yticklabels([tick_format_score_bandwidth % x for x in ticks_score_bandwidth])
+    ax_score_bandwidth.set_ylabel('Unitless, ratio')
+    persistent_references.append(slider_score_bandwidth)
+
+    ax_date_bandwidth = plt.subplot(gs_date_bandwidth)
+    slider_date_bandwidth = plot_sliders.HorSlider(ax_date_bandwidth, '\n\nBandwidth,\nRelease Date', min_date_bandwidth, max_date_bandwidth, valinit=init_date_bandwidth, valfmt=fine_format_date_bandwidth, dragging=False)
+    ticks_date_bandwidth = np.arange(min_date_bandwidth, max_date_bandwidth, tick_period_date_bandwidth)
+    ax_date_bandwidth.set_xticks(ticks_date_bandwidth)
+    ax_date_bandwidth.set_xticklabels([tick_format_date_bandwidth % x for x in ticks_date_bandwidth])
+    ax_date_bandwidth.set_xlabel('Days')
+    persistent_references.append(slider_date_bandwidth)
+
+    # interactive confidence input
+    ax_confidence = plt.subplot(gs_confidence)
+    text_box_confidence = matplotlib.widgets.TextBox(ax_confidence, initial=str(init_confidence), label=None)
+    plt.title('Wilson Score\nConfidence')  # TextBox label position is not configurable
+    persistent_references.append(text_box_confidence)
+
+    # configure main density plots: 2D density, and 1D density for each axis
+    # for now fill in blank datasets to minimize code duplication. We'll compute a real dataset at the end with init configuration values via update_plot defined below
+
+    # score density
+    ax_score_density = plt.subplot(gs_score_density)
+    blank_score_dataset = [[1]*num_points_score,  # arbitrary density
+                           np.linspace(min_plot_score, max_plot_score, num_points_score),
+                          ]
+    plot_score_density = plt.plot(*blank_score_dataset)
+    plt.xlabel('Density, Wilson score' + ' ' * 25)  # avoid overlapping labels from adjacent date density plot
+    plt.ylabel('Lower bound of Wilson score confidence interval')
+    plt.ylim(min_plot_score, max_plot_score)
+    plt.xlim(left=0.0)  # set minimum plot density value to 0 for visual clarity
+
+    # date density
+    ax_date_density = plt.subplot(gs_date_density)
+    blank_date_dataset = [np.linspace(min_plot_date, max_plot_date, num_points_date),
+                          [1]*num_points_date,  # arbitrary density
+                         ]
+    plot_date_density = plt.plot(*blank_date_dataset)
+    plt.xlabel('App Release Date')
+    plt.ylabel('Density, Release Date' + ' ' * 15)  # avoid overlapping labels from adjacent score density plot
+    ax_date_density.xaxis.set_major_formatter(matplotlib.dates.DateFormatter(tick_format_date))
+    ax_date_density.xaxis.set_minor_locator(matplotlib.dates.MonthLocator())
+    ax_date_density.xaxis.set_major_locator(matplotlib.dates.YearLocator())
+    plt.xlim(min_plot_date, max_plot_date)
+    plt.ylim(bottom=0.0)  # set minimum plot density value to 0 for visual clarity
+
+    # 2D density
+    ax_2d_density = plt.subplot(gs_2d_density)
+    blank_image_dataset = [1] * (num_points_score * num_points_date)
+    blank_image_dataset = np.array(blank_image_dataset).reshape(num_points_date, num_points_score)
+    im_2d_density = plt.imshow(blank_image_dataset, origin='low', aspect='auto', interpolation='catrom', cmap='magma',
+                               extent=[min_plot_date, max_plot_date, min_plot_score, max_plot_score])
+    # Disable all axis labels. We label the shared axes in the 1D density plots
+    ax = plt.gca()
+    ax.set_xticklabels([])
+    ax.set_xticks([])
+    ax.set_yticklabels([])
+    ax.set_yticks([])
+
+    # color bar for 2D density plot
+    ax_color_bar = plt.subplot(gs_color_bar)
+    fig.colorbar(im_2d_density, cax=ax_color_bar)
+    plt.title('2D Density Scale')
+
+    # callback for all interactive elements
+    # also used to populate initial data with init configuration values
+    def update_plot(_=None):
+        # TODO
+        pass
+
+    # register callbacks
+    slider_score_bandwidth.on_changed(update_plot)
+    slider_date_bandwidth.on_changed(update_plot)
+    text_box_confidence.on_submit(update_plot)
+
+    # finally, call the update function to populate the dataset with init configuration values
+    update_plot()
+
+
+def threaded_data_loader(pipe, manifest):
     data = defaultdict(list)
-    num_manifest_entries = len(manifest['applist']['apps'])
-    for i_app, app in enumerate(manifest['applist']['apps']):
+    num_entries = len(manifest)
+    
+    data_folder = '02_app_info'
+    
+    for i_app, app in enumerate(manifest):
         appid = app['appid']
         name = app['name']
 
         # report loading status
         if not i_app % 100:
-            print(f'loading {appid}, {i_app} of {num_manifest_entries}, {100.0 * i_app / num_manifest_entries:.4}%')
+            pipe.send(('status', float(i_app)/num_entries))
 
         # collate loaded data
         yaml_path = os.path.join(data_folder, f'{appid}.yaml')  # stores parsed server responses
@@ -204,8 +354,71 @@ def load_data():
             data['total_reviews'].append(app_data['reviews']['query_summary']['total_reviews'])
 
             # dev, remove
-            if len(data['appids']) > 10**3:
-                return data
+            if len(data['appids']) > 10:
+                pipe.send(('data', data))
+                return
+
+    pipe.send(('data', data))
+
+
+def load_data():
+    # loads with many threads
+
+    print('loading manifest')
+    f = open('01_steam_manifest.yaml')
+    manifest = common.warningless_yaml_load(f.read())
+    f.close()
+
+    # num_threads = 60
+    num_threads = 1  # dev, remove
+    num_manifest_entries = len(manifest['applist']['apps'])
+    num_entries_per_thread = int(num_manifest_entries / num_threads)
+    previous_index = 0
+
+    # create threads
+    pipes = []
+    for i_thread in range(num_threads):
+        print(f'creating {i_thread+1}/{num_threads} threads to load data', end='\r')
+        parent_conn, child_conn = multiprocessing.Pipe()
+        pipes.append(parent_conn)
+
+
+        if i_thread == num_threads - 1:
+            manifest_entries = manifest['applist']['apps'][previous_index:]
+        else:
+            upper_index = previous_index + num_entries_per_thread
+            manifest_entries = manifest['applist']['apps'][previous_index: upper_index]
+            previous_index = upper_index
+
+        p = multiprocessing.Process(target=threaded_data_loader, args=(child_conn, manifest_entries))
+        p.start()
+    print()
+
+    # load data
+    data = defaultdict(list)
+    finished = [False] * num_threads
+    progress = [0] * num_threads
+    print_progress = False
+    while not all(finished):
+        for i_pipe, pipe in enumerate(pipes):
+            if not finished[i_pipe] and pipe.poll():
+                pipe_code, message = pipe.recv()
+                print_progress = True
+
+                if pipe_code == 'status':
+                    progress[i_pipe] = message
+                elif pipe_code == 'data':
+                    for key, threaded_data in message.items():
+                        data[key].extend(threaded_data)
+                    finished[i_pipe] = True
+                    progress[i_pipe] = 1.0
+
+        if print_progress:
+            # print(f'loading {[f"{100.0*x:.4}%" for x in progress]}%')
+            # print(f'loading {[f"{100.0*x:#g}"[:5]+'%' for x in progress]}')  # no way to specify fixed width decimal notation in format-specification-mini-language
+            print('loading data', [f'{100.0*x:#g}'[:5]+'%' for x in progress], end='\n\n')  # no way to specify fixed width decimal notation in format-specification-mini-language
+            print_progress = False
+        time.sleep(0.1)
 
     return data
 
@@ -247,7 +460,10 @@ if __name__ == '__main__':
     data = filter_data(data)
     static_computations(data)
 
-    wilson_score_scatter_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
-    wilson_score_density_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    # wilson_score_scatter_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    # wilson_score_density_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    # wilson_score_density_plot2(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    # persistent_references.append( wilson_score_density_plot3(data['matplotlib_dates'], data['p'], data['total_reviews']) )
+    wilson_score_density_plot2(data['matplotlib_dates'], data['p'], data['total_reviews'])
 
     plt.show()
