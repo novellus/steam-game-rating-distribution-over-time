@@ -9,7 +9,9 @@ import multiprocessing
 import numpy as np
 import os
 import scipy.stats
+import sys
 import time
+import traceback
 from collections import defaultdict
 from matplotlib import pyplot as plt
 from sklearn.neighbors import KernelDensity
@@ -55,125 +57,6 @@ def wilson_score_scatter_plot(dates, ps, ns, confidence = 0.9999):
 
 
 def wilson_score_density_plot(dates, ps, ns):
-    # creates interactive density plot of wilson score vs date
-    print('creating wilson score density plot')
-
-    # init value for interactive plot elements
-    init_confidence = 0.9999
-    init_x_bandwidth = 45
-    init_y_bandwidth = 0.0141
-
-    # bounds for interactive sliders
-    min_x_bandwidth = 1*10**-10
-    max_x_bandwidth = 200
-    min_y_bandwidth = 1*10**-10
-    max_y_bandwidth = 0.2
-
-    # precompute for repeated density calcs
-    date_min = min(dates)
-    date_max = max(dates)
-
-    x_y_plot_size_ratio = 1.905  # plot, not figure
-
-    fig = plt.figure()
-    plt.suptitle(f'Density of Wilson scores for Steam app ratings over time')
-
-    # updates the plot when any interactive parameter changes
-    def update_plot(_=0):
-        # pull in new parameters
-        x_bandwidth = slider_x_bandwidth.val
-        y_bandwidth = slider_y_bandwidth.val
-        # TODO implement confidence input field
-        confidence = init_confidence
-
-        # compute wilson scores for given bandwidth
-        scores = []
-        for i, p in enumerate(ps):
-            n = ns[i]
-            interval_min, interval_max = Wilson_score_confidence_interval_for_a_Bernoulli_parameter(p, n, confidence=confidence)
-            scores.append(interval_min)
-
-        # KernelDensity only takes a 1D bandwidth argument (which it uses for all directions), so we will rescale x values to spec bandwidth
-        x_rescale = y_bandwidth / x_bandwidth
-        y_rescale = 1.0
-        bandwidth = y_bandwidth
-
-        density_plot_height_weight = 8
-        gs = matplotlib.gridspec.GridSpec(2, 2, width_ratios=[1, density_plot_height_weight], height_ratios=[density_plot_height_weight / x_y_plot_size_ratio, 1])
-        gs.update(hspace=0.0, wspace=0.0, left=0.075, right=0.94, top=0.95, bottom=0.125)
-
-        distribution = np.array(list(zip(np.array(dates) * x_rescale, np.array(scores) * y_rescale)))
-        resampled_x = np.linspace(date_min * x_rescale, date_max * x_rescale, 1000)
-        resampled_y = np.linspace(0 * y_rescale, 1 * y_rescale, 1000)
-        resampled_points = np.array([(x,y) for y in resampled_y for x in resampled_x])
-        log_density = KernelDensity(kernel='epanechnikov', bandwidth=bandwidth).fit(distribution).score_samples(resampled_points)
-        density = np.exp(log_density) * y_rescale * x_rescale
-        Z = np.array(density).reshape(len(resampled_x), len(resampled_y))
-        plt.subplot(gs[1])
-        im = plt.imshow(Z, origin='low', aspect='auto', interpolation='catrom', cmap='magma',
-            extent=[resampled_x[0] / x_rescale, resampled_x[-1] / x_rescale, resampled_y[0] / y_rescale, resampled_y[-1] / y_rescale])
-        xlim = plt.xlim()
-        ylim = plt.ylim()
-        ax = plt.gca()
-        ax.set_xticklabels([])
-        ax.set_xticks([])
-        ax.set_yticklabels([])
-        ax.set_yticks([])
-        fig.colorbar(im, cax=fig.add_axes([0.95, 0.01, 0.015, 0.98]))  # x,y,w,h
-
-        distribution = np.array(scores) * y_rescale
-        resampled_points = np.linspace(0 * y_rescale, 1 * y_rescale, 1000)
-        log_density = KernelDensity(kernel='epanechnikov', bandwidth=bandwidth).fit(distribution[:, None]).score_samples(resampled_points[:, None])
-        density = np.exp(log_density) * y_rescale
-        plt.subplot(gs[0])
-        plt.plot(density, resampled_points / y_rescale)
-        plt.xlabel('Density, Wilson score' + ' ' * 27)
-        plt.ylabel('Lower bound of Wilson score confidence interval for individual apps')
-        plt.ylim(ylim)  # match main plot
-        plt.xlim(left=0.0)  # set minimum plot value to 0 for visual clarity
-
-        distribution = np.array(dates) * x_rescale
-        resampled_points = np.linspace(date_min * x_rescale, date_max * x_rescale, 1000)
-        log_density = KernelDensity(kernel='epanechnikov', bandwidth=bandwidth).fit(distribution[:, None]).score_samples(resampled_points[:, None])
-        density = np.exp(log_density) * x_rescale
-        plt.subplot(gs[3])
-        plt.plot(resampled_points / x_rescale, density)
-        plt.xlabel('App Release Date')
-        plt.ylabel('Density, Release Date' + ' ' * 17)
-        ax = plt.gca()
-        ax.xaxis.set_major_formatter(matplotlib.dates.DateFormatter("%b %y"))
-        ax.xaxis.set_minor_locator(matplotlib.dates.MonthLocator())
-        ax.xaxis.set_major_locator(matplotlib.dates.YearLocator())
-        plt.xlim(xlim)  # match main plot
-        plt.ylim(bottom=0.0)  # set minimum plot value to 0 for visual clarity
-
-    # create interactive density sliders to specify bandwidth
-    ax_x_bandwidth = fig.add_axes([0.055, 0.045, 0.87, 0.015])
-    slider_x_bandwidth = plot_sliders.HorSlider(ax_x_bandwidth, 'Bandwidth,\nRelease Date', min_x_bandwidth, max_x_bandwidth, valinit=init_x_bandwidth, valfmt='%1.0f', dragging=False)
-    slider_x_bandwidth.on_changed(update_plot)
-    x_bandwidth_ticks = np.arange(min_x_bandwidth, max_x_bandwidth, 10)
-    ax_x_bandwidth.set_xticks(x_bandwidth_ticks)
-    ax_x_bandwidth.set_xticklabels(['{0:.0f}'.format(x) for x in x_bandwidth_ticks])
-    ax_x_bandwidth.set_xlabel('Days')
-
-    ax_y_bandwidth = fig.add_axes([0.025, 0.17, 0.015 / x_y_plot_size_ratio, 0.76])
-    slider_y_bandwidth = plot_sliders.VertSlider(ax_y_bandwidth, 'Bandwidth,\nWilson Score', min_y_bandwidth, max_y_bandwidth, valinit=init_y_bandwidth, valfmt='%1.5f', dragging=False)
-    slider_y_bandwidth.on_changed(update_plot)
-    y_bandwidth_ticks = np.arange(min_y_bandwidth, max_y_bandwidth, 0.01)
-    ax_y_bandwidth.set_yticks(y_bandwidth_ticks)
-    ax_y_bandwidth.set_yticklabels(['{0:.2f}'.format(x) for x in y_bandwidth_ticks])
-    # ax_y_bandwidth.set_ylabel('') # unitless
-
-    # TODO
-    # create confidence input text box
-    # not a slider since values of interest are arranged non-linearly near 1, and also takes up less room in the plot window
-    # ax_2 = plt.subplot(gs[2])
-    # matplotlib.widgets.TextBox(ax_2, label_2, initial='inf')
-
-    update_plot()
-
-
-def wilson_score_density_plot2(dates, ps, ns):
     # creates interactive density plot of wilson score vs date
     print('creating wilson score density plot')
 
@@ -273,7 +156,7 @@ def wilson_score_density_plot2(dates, ps, ns):
     blank_score_dataset = [[1]*num_points_score,  # arbitrary density
                            np.linspace(min_plot_score, max_plot_score, num_points_score),
                           ]
-    plot_score_density = plt.plot(*blank_score_dataset)
+    plot_score_density, = plt.plot(*blank_score_dataset)
     plt.xlabel('Density, Wilson score' + ' ' * 25)  # avoid overlapping labels from adjacent date density plot
     plt.ylabel('Lower bound of Wilson score confidence interval')
     plt.ylim(min_plot_score, max_plot_score)
@@ -284,7 +167,7 @@ def wilson_score_density_plot2(dates, ps, ns):
     blank_date_dataset = [np.linspace(min_plot_date, max_plot_date, num_points_date),
                           [1]*num_points_date,  # arbitrary density
                          ]
-    plot_date_density = plt.plot(*blank_date_dataset)
+    plot_date_density, = plt.plot(*blank_date_dataset)
     plt.xlabel('App Release Date')
     plt.ylabel('Density, Release Date' + ' ' * 15)  # avoid overlapping labels from adjacent score density plot
     ax_date_density.xaxis.set_major_formatter(matplotlib.dates.DateFormatter(tick_format_date))
@@ -300,11 +183,10 @@ def wilson_score_density_plot2(dates, ps, ns):
     im_2d_density = plt.imshow(blank_image_dataset, origin='low', aspect='auto', interpolation='catrom', cmap='magma',
                                extent=[min_plot_date, max_plot_date, min_plot_score, max_plot_score])
     # Disable all axis labels. We label the shared axes in the 1D density plots
-    ax = plt.gca()
-    ax.set_xticklabels([])
-    ax.set_xticks([])
-    ax.set_yticklabels([])
-    ax.set_yticks([])
+    ax_2d_density.set_xticklabels([])
+    ax_2d_density.set_xticks([])
+    ax_2d_density.set_yticklabels([])
+    ax_2d_density.set_yticks([])
 
     # color bar for 2D density plot
     ax_color_bar = plt.subplot(gs_color_bar)
@@ -312,10 +194,84 @@ def wilson_score_density_plot2(dates, ps, ns):
     plt.title('2D Density Scale')
 
     # callback for all interactive elements
+    # function input ignored due to multiple triggers all resulting in the same recalculation
     # also used to populate initial data with init configuration values
     def update_plot(_=None):
-        # TODO
-        pass
+        # pull in new parameters
+        text_score_bandwidth = slider_score_bandwidth.val
+        text_date_bandwidth = slider_date_bandwidth.val
+        text_confidence = text_box_confidence.text
+        try:
+            score_bandwidth = float(text_score_bandwidth)
+            assert score_bandwidth > 0, 'score_bandwidth must be strictly greater than 0 ' + str(score_bandwidth)
+
+            date_bandwidth = float(text_date_bandwidth)
+            assert date_bandwidth > 0, 'date_bandwidth must be strictly greater than 0 ' + str(date_bandwidth)
+
+            confidence = float(text_confidence)
+            assert 0 < confidence < 1, 'confidence must be strictly between 0 and 1 ' + str(confidence)
+
+        except:
+            print(', '.join([str(x) for x in sys.exc_info()[0:2]]))
+            return
+
+        # compute wilson scores for given bandwidth
+        scores = []
+        for i, p in enumerate(ps):
+            n = ns[i]
+            interval_min, interval_max = Wilson_score_confidence_interval_for_a_Bernoulli_parameter(p, n, confidence=confidence)
+            scores.append(interval_min)
+
+        # KernelDensity only takes a 1D bandwidth argument (which it uses for all directions), so we will rescale date values to obtain an independant bandwidth per axis
+        # this results in linearly mis-scaled density values, but still correct relative scale
+        date_rescale = score_bandwidth / date_bandwidth
+        kde_bandwidth = score_bandwidth  # used for all 1D and 2D calcs
+
+        # turn data into np arrays, required by KernelDensity
+        np_scores = np.array(scores)
+        np_dates = np.array(dates)
+        np_rescaled_dates = np_dates * date_rescale
+        np_2d_dist = np.array(list(zip(np_rescaled_dates, np_scores)))
+
+        # compute density estimates
+        sample_space_scores = np.linspace(min_plot_score, max_plot_score, num_points_score)
+        sample_space_dates = np.linspace(min_plot_date, max_plot_date, num_points_date)
+        sample_space_rescaled_dates = sample_space_dates * date_rescale
+        sample_space_2d_dist = np.array([(date, score) for score in sample_space_scores for date in sample_space_rescaled_dates])  # array order is linearized image pixel order
+
+        log_density_scores = KernelDensity(kernel='epanechnikov', bandwidth=kde_bandwidth).fit(np_scores[:, None]).score_samples(sample_space_scores[:, None])
+        density_scores = np.exp(log_density_scores)
+
+        log_density_dates = KernelDensity(kernel='epanechnikov', bandwidth=kde_bandwidth).fit(np_rescaled_dates[:, None]).score_samples(sample_space_rescaled_dates[:, None])
+        density_dates = np.exp(log_density_dates) * date_rescale
+
+        log_density_2d_dist = KernelDensity(kernel='epanechnikov', bandwidth=kde_bandwidth).fit(np_2d_dist).score_samples(sample_space_2d_dist)
+        density_2d_dist = np.exp(log_density_2d_dist) * date_rescale
+        min_density_2d_dist, max_density_2d_dist = min(density_2d_dist), max(density_2d_dist)  # record min/max for normalization parameters
+        density_2d_dist = np.array(density_2d_dist).reshape(num_points_score, num_points_date)  # reshape for image plot
+
+        # update plot data
+        plot_score_density.set_data(density_scores, sample_space_scores)
+        plot_date_density.set_data(sample_space_dates, density_dates)
+        im_2d_density.set_data(density_2d_dist)
+
+        # update color normalization parameters for the 2D image
+        im_2d_density.set_clim(vmin=min_density_2d_dist, vmax=max_density_2d_dist)
+
+        # rescale only the upper density axis for each 1D density plot
+        # date and score ranges are unaffected by plot interaction
+        ax_score_density.relim()
+        ax_score_density.autoscale(axis='x')
+        ax_score_density.set_xlim(left=0.0)  # maintain lower limit at 0
+
+        ax_date_density.relim()
+        ax_date_density.autoscale(axis='y')
+        ax_date_density.set_ylim(bottom=0.0)  # maintain lower limit at 0
+
+        # force figure to redraw
+        fig.canvas.draw()
+        fig.canvas.draw()  # intentionally repeated
+        fig.canvas.flush_events()
 
     # register callbacks
     slider_score_bandwidth.on_changed(update_plot)
@@ -353,10 +309,10 @@ def threaded_data_loader(pipe, manifest):
             data['positive_reviews'].append(app_data['reviews']['query_summary']['total_positive'])
             data['total_reviews'].append(app_data['reviews']['query_summary']['total_reviews'])
 
-            # dev, remove
-            if len(data['appids']) > 10:
-                pipe.send(('data', data))
-                return
+            # # dev, remove
+            # if len(data['appids']) > 10:
+            #     pipe.send(('data', data))
+            #     return
 
     pipe.send(('data', data))
 
@@ -369,8 +325,8 @@ def load_data():
     manifest = common.warningless_yaml_load(f.read())
     f.close()
 
-    # num_threads = 60
-    num_threads = 1  # dev, remove
+    num_threads = 60
+    # num_threads = 1  # dev, remove
     num_manifest_entries = len(manifest['applist']['apps'])
     num_entries_per_thread = int(num_manifest_entries / num_threads)
     previous_index = 0
@@ -431,6 +387,8 @@ def filter_data(data):
         try:
             assert data['total_reviews'][i] > 0
             # TODO select only games
+            # TODO select only apps released after June 2013
+            # TODO select only apps released after June 2013
         except:
             continue
         else:
@@ -460,10 +418,7 @@ if __name__ == '__main__':
     data = filter_data(data)
     static_computations(data)
 
-    # wilson_score_scatter_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
-    # wilson_score_density_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
-    # wilson_score_density_plot2(data['matplotlib_dates'], data['p'], data['total_reviews'])
-    # persistent_references.append( wilson_score_density_plot3(data['matplotlib_dates'], data['p'], data['total_reviews']) )
-    wilson_score_density_plot2(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    wilson_score_scatter_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    wilson_score_density_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
 
     plt.show()
