@@ -25,6 +25,8 @@ def Wilson_score_confidence_interval_for_a_Bernoulli_parameter(p, n, confidence 
     # n = total ratings in the sample
     # computes confidence interval for actual value
 
+    # further reading at https://www.evanmiller.org/how-not-to-sort-by-average-rating.html
+
     # z_α/2 is the (1-α/2) quantile of the standard normal distribution, 1.96 value corresponds to confidence 0.95
     z = scipy.stats.norm.ppf([1 - (1 - confidence) / 2])[0]
     interval_min = (p + (z**2) / (2 * n) - z * math.sqrt((p * (1 - p) + (z**2) / (4 * n)) / n)) / (1 + (z**2) / n)
@@ -33,7 +35,7 @@ def Wilson_score_confidence_interval_for_a_Bernoulli_parameter(p, n, confidence 
     return interval_min, interval_max
 
 
-def wilson_score_scatter_plot(dates, ps, ns, confidence = 0.9999):
+def wilson_score_scatter_plot(dates, ps, ns, filter_description, confidence = 0.9999):
     print('creating wilson score scatter plot')
 
     # compute scores
@@ -49,14 +51,14 @@ def wilson_score_scatter_plot(dates, ps, ns, confidence = 0.9999):
     plt.ylim(0, 1)
     plt.xlabel('App Release Date')
     plt.ylabel('Lower bound of Wilson score confidence interval for Steam apps')
-    plt.title(f'All time Steam app ratings\nWilson score at {confidence} confidence')
+    plt.title(f'All time Steam app ratings\nWilson score at {confidence} confidence' + filter_description)
     ax = plt.gca()
     ax.xaxis.set_major_formatter(matplotlib.dates.DateFormatter("%b %y"))
     ax.xaxis.set_minor_locator(matplotlib.dates.MonthLocator())
     ax.xaxis.set_major_locator(matplotlib.dates.YearLocator())
 
 
-def wilson_score_density_plot(dates, ps, ns):
+def wilson_score_density_plot(dates, ps, ns, filter_description):
     # creates interactive density plot of wilson score vs date
     print('creating wilson score density plot')
 
@@ -99,7 +101,7 @@ def wilson_score_density_plot(dates, ps, ns):
     tick_format_date = '%b %y'
     # tick_format_score = matplotlib default
 
-    title = 'Density of Wilson score for Steam app ratings over time'
+    title = 'Density of Wilson score for Steam app ratings over time' + filter_description
     fig = plt.figure(title, figsize = figure_init_size)
     plt.suptitle(title)
 
@@ -381,14 +383,21 @@ def load_data():
 
 def filter_data(data):
     data2 = defaultdict(list)
+    
+    # min_date = dateparser.parse('Sep 2003')  # select only apps released after steam was released
+    min_date = dateparser.parse('Jun 2013')  # select only the most active regions of the graph, to maximise visual utility. Non-uniform distributions drown out low density data.
+    min_reviews = 10  # select only apps with sufficient number of reviews to suppress digital statistical score grouping in the graph visual
+    
+    # create description, which is passed to the plot functions
+    filter_description = f'\nFor apps relased after {min_date}, with > {min_reviews} reviews'
 
     for i in range(len(data['appids'])):
         # make assertions on data
         try:
-            assert data['total_reviews'][i] > 0
-            # TODO select only games
-            # TODO select only apps released after June 2013
-            # TODO select only apps released after June 2013
+            assert data['total_reviews'][i] > 0  # cannot score apps with 0 reviews
+            assert data['datetimes'][i] > min_date
+            assert data['total_reviews'][i] > min_reviews
+            # TODO select only games?
         except:
             continue
         else:
@@ -396,17 +405,21 @@ def filter_data(data):
             for key in data:
                 data2[key].append(data[key][i])
 
-    return data2
+    return data2, filter_description
 
 
-def static_computations(data):
-    print('computing data')
+def static_computations_1(data):
+    print('computing data 1')
 
     # convert date string to computer representation
     for i, date_string in enumerate(data['date_strings']):
         dt = common.parse_date(date_string)
         data['datetimes'].append(dt)
         data['matplotlib_dates'].append(matplotlib.dates.date2num(dt))
+
+
+def static_computations_2(data):
+    print('computing data 2')
 
     # compute ratio of positive reviews
     for i, positive_reviews in enumerate(data['positive_reviews']):
@@ -415,10 +428,11 @@ def static_computations(data):
 
 if __name__ == '__main__':
     data = load_data()
-    data = filter_data(data)
-    static_computations(data)
+    static_computations_1(data)  # split so the computed data can be used in the filter
+    data, filter_description = filter_data(data)
+    static_computations_2(data)
 
-    wilson_score_scatter_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
-    wilson_score_density_plot(data['matplotlib_dates'], data['p'], data['total_reviews'])
+    wilson_score_scatter_plot(data['matplotlib_dates'], data['p'], data['total_reviews'], filter_description)
+    wilson_score_density_plot(data['matplotlib_dates'], data['p'], data['total_reviews'], filter_description)
 
     plt.show()
